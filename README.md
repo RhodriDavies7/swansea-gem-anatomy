@@ -1,71 +1,61 @@
 # Swansea GEM Anatomy
 
-A standalone static website using the 34 supplied RemNote guides (6,353 cards). Model titles, question wording, answers, tag spelling and source ordering are preserved. No importer, database, accounts, spaced repetition, browser storage, or persistent learning state.
+Anatomy model revision for Swansea Graduate Entry Medicine, designed to use alongside the physical models. Practise identifying structures and recalling their actions, innervation, relations and more.
+
+## Revise your way
+
+- **34 models and 6,353 flashcards**, with model photographs to help you find the right one.
+- **All cards or identification only**, in the original order or shuffled.
+- **Searchable tag filters** to focus on topics such as muscle actions, blood supply or nerve lesions.
+- **Optional name hints**: identify the structure yourself, or reveal its name before answering the question.
+- **Random model selection** when you want to mix up your revision.
+
+Every session is a fresh run through your chosen cards. There are no accounts, scores or spaced-repetition schedules.
+
+## Using the app
+
+1. Choose a model, or select **Random model**.
+2. Pick your card set and order. Use tags to narrow the selection if you wish.
+3. Start revision, recall your answer, then reveal it and move on.
+
+With multiple tags selected, **Match all selected** includes cards carrying every selected tag; **Match any selected** includes cards carrying at least one. Searching for a tag does not remove existing selections.
+
+Structure names are hidden by default on knowledge cards. **Show structure name** gives you a prompt without revealing the answer. Revealing the answer shows both the name and the answer.
+
+| Key | Action |
+| --- | --- |
+| Space | Reveal the answer |
+| → | Next card, after revealing the answer |
+| ← | Previous card |
+
+The layout works on phones, tablets and desktops. Model photographs appear in the selection screen; revision cards use the labels on the physical models.
 
 ## Run locally
 
-Install Node.js 20 or newer, open a terminal in this Anatomy folder, and run:
+With Node.js 20 or newer installed:
 
 ```sh
 npm start
 ```
 
-Open http://127.0.0.1:4173. No dependency installation or build is required. Stop with Ctrl+C. Set PORT if that port is already in use. Opening index.html directly is not supported because the browser needs HTTP to fetch the model data.
+Open [localhost:4173](http://localhost:4173). No dependency installation or build step is needed.
 
-## Revision
+## Publish
 
-Choose a model, All cards or Identification only, and In order or Random. Tag chips show the source tags unchanged. Match all selected is an intersection; Match any selected is a union. With no selected tags, the full chosen card set is included. Chip counts reflect the selected card type; the run count reflects all active filters.
+The app is a static website. The included GitHub Actions workflow publishes `dist/` to GitHub Pages when changes are pushed to `main`.
 
-Start creates an in-memory snapshot. Random order is shuffled once per run with Fisher–Yates, without duplicates. Reveal an answer before advancing. Previous hides the answer again. Space reveals and arrow keys navigate when focus is on the card. Buttons also work with standard keyboard activation. Reaching the last card offers a fresh run or a return to the filters. Reloading resets everything.
+In the repository, select **Settings → Pages → Source → GitHub Actions**. Deployment progress appears in the **Actions** tab.
 
-The export contains text, not photographs. Identification prompts show the original model label and section for use alongside the physical model. Other cards hide the structure name until Show structure name is selected or the answer is revealed. The hint reveals only the name, not the answer; it resets on each card. Identification answers remain hidden until revealed.
+The contents of `dist/` can also be hosted by any other static hosting provider.
 
-## Files and architecture
+## Update the content
 
-- `dist/index.html`, `dist/style.css`: responsive interface and reduced-motion support.
-- `dist/app.js`: model selection, chip controls, loading/error states and the in-memory session.
-- `dist/logic.js`: pure selection, shuffling and structure-context functions.
-- `dist/data/models.json`: model index with display names, filenames, counts and exact tag vocabulary.
-- `dist/data/<model-name>.json`: one static file per guide, loaded on selection.
-- `source-guides/`: original individual text guides, unchanged, retained for reference. The ZIP's aggregate Guides.txt is not duplicated as cards.
-- `server.mjs`: dependency-free local preview server, bound to your computer only.
-- `tests/revision.test.mjs`: source conversion and revision logic checks (`npm test`).
+Cards live in `dist/data/`, with one JSON file per model. Model names, image paths and tag lists are recorded in `dist/data/models.json`; photographs are in `dist/images/`.
 
-Source content is displayed as plain text, never executed as HTML or treated as application instructions. The optional WebMCP read tool reports the current selection in supporting browsers; it is not required for revision.
+See [Maintaining models and cards](docs/maintenance.md) for the data format and update instructions.
 
-## Add or update a model
+Run the checks with:
 
-Edit its static JSON file directly. Cards follow this shape:
-
-```json
-{
-  "id": "unique-card-id",
-  "path": ["7", "a"],
-  "label": "7a",
-  "section": "B. Middle ear",
-  "question": "Identification",
-  "answer": "Your exact answer",
-  "tags": ["Identification", "Ossicle", "DS3"],
-  "sourceLine": 42
-}
+```sh
+npm test
 ```
-
-The containing file has `id`, `name`, and a `cards` array. Keep cards in the desired sequential order. IDs must be unique within a model. `path` retains nesting; `label` is the readable prompt. Repeated labels in different sections must keep distinct sections. Use the exact `Identification` tag to include a card in Identification only. Questions and tags are separate: e.g. `Actions` can retain the source tag `Action`.
-
-For a new model, create a new file and add an entry to `models.json`, with its `id`, exact `name`, `file`, total `count`, `identificationCount`, and the sorted unique `tags` from its cards. For updates, refresh these index fields and the retained guide if applicable. To use a future export, replace the corresponding static files in this same format; there is intentionally no import pipeline in the app. The initial fidelity test contains the original export totals; update those expectations when intentionally adding or removing content.
-
-The two source filenames `Stomach (Model NS15)` and `Upper Limb (Model NS15)` are intentionally preserved as separate files and models. Source tags are also preserved independently of the filenames.
-
-## Share or host
-
-Upload the contents of `dist/` to any static web host. No Node server, secrets, database, or build step is needed in production. Keep data filenames and relative paths together. `source-guides/` and tests need not be published. A private hosting preview is separate from the runnable local codebase.
-
-## Model selection images
-
-All 34 models have a thumbnail in the model list and a larger photograph beside the selected model's name. Images use contain sizing so tall models are shown in full, without cropping. They do not appear on revision cards.
-
-Original photographs remain in Images/. Browser-ready copies are in dist/images/. Each entry in dist/data/models.json has an image path relative to dist/. To replace an image, replace that file. To add one, copy it into dist/images/ and set the model's image field, for example images/ms7.jpg. JPG, JPEG and PNG are supported.
-
-Colon-separated image codes map to underscore-separated model codes (BS8:1 → BS8_1). The Stomach (Model NS15) entry explicitly uses JS4.jpg, which depicts the stomach; Upper Limb uses NS15.jpg. Display names and card data remain unchanged.
-
-Tag search filters the visible chips only, ignoring case and an optional leading #. Selected tags remain active when hidden by a search. Clear the search to see all chips again; Clear filters removes the selected tags. Switching models clears the tag search.
