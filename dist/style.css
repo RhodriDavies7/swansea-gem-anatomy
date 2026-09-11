@@ -13,7 +13,7 @@
 
 /* Align the mobile model overview with the revision panels. */
 @media(max-width:620px){
-  .model-overview{background:transparent;border:0;border-radius:0;padding:20px 21px;margin-bottom:22px;grid-template-columns:minmax(0,1fr) 100px;gap:16px;align-items:start}
+  .model-overview{background:transparent;border:0;border-radius:0;padding:20px 21px;margin-bottom:22px;grid-template-columns:minmax(0,1fr) 100px;gap:16px;align-items:center}
   .model-overview .eyebrow{line-height:1.5;margin-bottom:10px}
   .model-overview .model-title{font-size:1.4rem;line-height:1.25;overflow-wrap:anywhere}
   .model-overview .stats{margin-top:16px;gap:8px 14px}
@@ -26,3 +26,5 @@
 }
 
 .author-credit{font-size:.875rem;color:var(--muted);white-space:nowrap}header{gap:16px}@media(max-width:620px){header{flex-wrap:wrap;height:auto;min-height:72px;padding-top:12px;padding-bottom:12px;gap:8px 14px}.author-credit{font-size:.8rem;margin-left:auto}}
+
+.model[hidden]{display:none}
