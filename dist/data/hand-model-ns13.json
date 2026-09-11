@@ -1,0 +1,3042 @@
+{
+  "id": "hand-model-ns13",
+  "name": "Hand (Model NS13)",
+  "cards": [
+    {
+      "id": "hand-model-ns13-4",
+      "path": [
+        "I"
+      ],
+      "question": "Identification",
+      "answer": "Extensor retinaculum",
+      "tags": [
+        "Identification",
+        "Retinaculum",
+        "BonesAndRetinacula",
+        "NS13"
+      ],
+      "sourceLine": 4,
+      "section": "Bones and retinacula",
+      "label": "I"
+    },
+    {
+      "id": "hand-model-ns13-5",
+      "path": [
+        "I"
+      ],
+      "question": "Attachments",
+      "answer": "Attaches laterally to distal radius and medially to styloid process of ulna, triquetrum and pisiform region.",
+      "tags": [
+        "Attachments",
+        "Retinaculum",
+        "BonesAndRetinacula",
+        "NS13"
+      ],
+      "sourceLine": 5,
+      "section": "Bones and retinacula",
+      "label": "I"
+    },
+    {
+      "id": "hand-model-ns13-6",
+      "path": [
+        "I"
+      ],
+      "question": "Function",
+      "answer": "Holds extensor tendons close to the wrist and prevents bowstringing during extension.",
+      "tags": [
+        "Function",
+        "Retinaculum",
+        "BonesAndRetinacula",
+        "NS13"
+      ],
+      "sourceLine": 6,
+      "section": "Bones and retinacula",
+      "label": "I"
+    },
+    {
+      "id": "hand-model-ns13-7",
+      "path": [
+        "I"
+      ],
+      "question": "Contents",
+      "answer": "Forms six dorsal osteofibrous compartments for the extensor tendons at the wrist.",
+      "tags": [
+        "Contents",
+        "Retinaculum",
+        "BonesAndRetinacula",
+        "NS13"
+      ],
+      "sourceLine": 7,
+      "section": "Bones and retinacula",
+      "label": "I"
+    },
+    {
+      "id": "hand-model-ns13-8",
+      "path": [
+        "I"
+      ],
+      "question": "Clinical relevance",
+      "answer": "Tenosynovitis may occur in specific compartments, such as de Quervain tenosynovitis in the first dorsal compartment.",
+      "tags": [
+        "Clinical",
+        "Retinaculum",
+        "BonesAndRetinacula",
+        "NS13"
+      ],
+      "sourceLine": 8,
+      "section": "Bones and retinacula",
+      "label": "I"
+    },
+    {
+      "id": "hand-model-ns13-11",
+      "path": [
+        "II"
+      ],
+      "question": "Identification",
+      "answer": "Head of the ulna",
+      "tags": [
+        "Identification",
+        "BonyLandmark",
+        "BonesAndRetinacula",
+        "NS13"
+      ],
+      "sourceLine": 11,
+      "section": "Bones and retinacula",
+      "label": "II"
+    },
+    {
+      "id": "hand-model-ns13-12",
+      "path": [
+        "II"
+      ],
+      "question": "Bone",
+      "answer": "Distal ulna.",
+      "tags": [
+        "Bone",
+        "BonyLandmark",
+        "BonesAndRetinacula",
+        "NS13"
+      ],
+      "sourceLine": 12,
+      "section": "Bones and retinacula",
+      "label": "II"
+    },
+    {
+      "id": "hand-model-ns13-13",
+      "path": [
+        "II"
+      ],
+      "question": "Articulations",
+      "answer": "Articulates with the ulnar notch of the radius at the distal radioulnar joint.",
+      "tags": [
+        "Articulations",
+        "BonyLandmark",
+        "BonesAndRetinacula",
+        "NS13"
+      ],
+      "sourceLine": 13,
+      "section": "Bones and retinacula",
+      "label": "II"
+    },
+    {
+      "id": "hand-model-ns13-14",
+      "path": [
+        "II"
+      ],
+      "question": "Relations",
+      "answer": "Separated from the carpal bones by the triangular fibrocartilage complex.",
+      "tags": [
+        "Relations",
+        "BonyLandmark",
+        "BonesAndRetinacula",
+        "NS13"
+      ],
+      "sourceLine": 14,
+      "section": "Bones and retinacula",
+      "label": "II"
+    },
+    {
+      "id": "hand-model-ns13-17",
+      "path": [
+        "III"
+      ],
+      "question": "Identification",
+      "answer": "Radius",
+      "tags": [
+        "Identification",
+        "Bone",
+        "BonesAndRetinacula",
+        "NS13"
+      ],
+      "sourceLine": 17,
+      "section": "Bones and retinacula",
+      "label": "III"
+    },
+    {
+      "id": "hand-model-ns13-18",
+      "path": [
+        "III"
+      ],
+      "question": "Articulations",
+      "answer": "Articulates distally with scaphoid and lunate and with ulna at the distal radioulnar joint.",
+      "tags": [
+        "Articulations",
+        "Bone",
+        "BonesAndRetinacula",
+        "NS13"
+      ],
+      "sourceLine": 18,
+      "section": "Bones and retinacula",
+      "label": "III"
+    },
+    {
+      "id": "hand-model-ns13-19",
+      "path": [
+        "III"
+      ],
+      "question": "Landmarks",
+      "answer": "Radial styloid, dorsal tubercle and ulnar notch are key distal landmarks.",
+      "tags": [
+        "Landmarks",
+        "Bone",
+        "BonesAndRetinacula",
+        "NS13"
+      ],
+      "sourceLine": 19,
+      "section": "Bones and retinacula",
+      "label": "III"
+    },
+    {
+      "id": "hand-model-ns13-20",
+      "path": [
+        "III"
+      ],
+      "question": "Orientation",
+      "answer": "Radial styloid lies laterally; dorsal tubercle lies posteriorly.",
+      "tags": [
+        "Orientation",
+        "Bone",
+        "BonesAndRetinacula",
+        "NS13"
+      ],
+      "sourceLine": 20,
+      "section": "Bones and retinacula",
+      "label": "III"
+    },
+    {
+      "id": "hand-model-ns13-23",
+      "path": [
+        "IV"
+      ],
+      "question": "Identification",
+      "answer": "Pisiform bone",
+      "tags": [
+        "Identification",
+        "Bone",
+        "BonesAndRetinacula",
+        "NS13"
+      ],
+      "sourceLine": 23,
+      "section": "Bones and retinacula",
+      "label": "IV"
+    },
+    {
+      "id": "hand-model-ns13-24",
+      "path": [
+        "IV"
+      ],
+      "question": "Articulations",
+      "answer": "Articulates with the triquetrum.",
+      "tags": [
+        "Articulations",
+        "Bone",
+        "BonesAndRetinacula",
+        "NS13"
+      ],
+      "sourceLine": 24,
+      "section": "Bones and retinacula",
+      "label": "IV"
+    },
+    {
+      "id": "hand-model-ns13-25",
+      "path": [
+        "IV"
+      ],
+      "question": "Attachments",
+      "answer": "Flexor carpi ulnaris inserts here; gives attachment to pisohamate and pisometacarpal ligaments and abductor digiti minimi.",
+      "tags": [
+        "Attachments",
+        "Bone",
+        "BonesAndRetinacula",
+        "NS13"
+      ],
+      "sourceLine": 25,
+      "section": "Bones and retinacula",
+      "label": "IV"
+    },
+    {
+      "id": "hand-model-ns13-26",
+      "path": [
+        "IV"
+      ],
+      "question": "Relations",
+      "answer": "Sesamoid bone within the flexor carpi ulnaris tendon on the palmar ulnar side of the wrist.",
+      "tags": [
+        "Relations",
+        "Bone",
+        "BonesAndRetinacula",
+        "NS13"
+      ],
+      "sourceLine": 26,
+      "section": "Bones and retinacula",
+      "label": "IV"
+    },
+    {
+      "id": "hand-model-ns13-31",
+      "path": [
+        "a"
+      ],
+      "question": "Identification",
+      "answer": "Extensor digitorum muscle",
+      "tags": [
+        "Identification",
+        "Muscle",
+        "MusclesAndTendons",
+        "NS13"
+      ],
+      "sourceLine": 31,
+      "section": "Muscles, tendons and pulleys",
+      "label": "a"
+    },
+    {
+      "id": "hand-model-ns13-32",
+      "path": [
+        "a"
+      ],
+      "question": "Actions",
+      "answer": "Extends digits 2–5 mainly at metacarpophalangeal joints and assists wrist extension.",
+      "tags": [
+        "Action",
+        "Muscle",
+        "MusclesAndTendons",
+        "NS13"
+      ],
+      "sourceLine": 32,
+      "section": "Muscles, tendons and pulleys",
+      "label": "a"
+    },
+    {
+      "id": "hand-model-ns13-33",
+      "path": [
+        "a"
+      ],
+      "question": "Innervation",
+      "answer": "Posterior interosseous nerve, continuation of deep radial nerve (C7–C8).",
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "MusclesAndTendons",
+        "NS13"
+      ],
+      "sourceLine": 33,
+      "section": "Muscles, tendons and pulleys",
+      "label": "a"
+    },
+    {
+      "id": "hand-model-ns13-34",
+      "path": [
+        "a"
+      ],
+      "question": "Origin",
+      "answer": "Lateral epicondyle of humerus via common extensor tendon.",
+      "tags": [
+        "Origin",
+        "Muscle",
+        "MusclesAndTendons",
+        "NS13"
+      ],
+      "sourceLine": 34,
+      "section": "Muscles, tendons and pulleys",
+      "label": "a"
+    },
+    {
+      "id": "hand-model-ns13-35",
+      "path": [
+        "a"
+      ],
+      "question": "Insertion",
+      "answer": "Extensor expansions of digits 2–5.",
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "MusclesAndTendons",
+        "NS13"
+      ],
+      "sourceLine": 35,
+      "section": "Muscles, tendons and pulleys",
+      "label": "a"
+    },
+    {
+      "id": "hand-model-ns13-38",
+      "path": [
+        "b"
+      ],
+      "question": "Identification",
+      "answer": "Tendon of the extensor digitorum muscle",
+      "tags": [
+        "Identification",
+        "Tendon",
+        "MusclesAndTendons",
+        "NS13"
+      ],
+      "sourceLine": 38,
+      "section": "Muscles, tendons and pulleys",
+      "label": "b"
+    },
+    {
+      "id": "hand-model-ns13-39",
+      "path": [
+        "b"
+      ],
+      "question": "Course",
+      "answer": "Passes beneath the extensor retinaculum in the fourth dorsal compartment and continues onto digits 2–5.",
+      "tags": [
+        "Course",
+        "Tendon",
+        "MusclesAndTendons",
+        "NS13"
+      ],
+      "sourceLine": 39,
+      "section": "Muscles, tendons and pulleys",
+      "label": "b"
+    },
+    {
+      "id": "hand-model-ns13-40",
+      "path": [
+        "b"
+      ],
+      "question": "Insertion",
+      "answer": "Extensor expansions of digits 2–5, ultimately reaching middle and distal phalanges through central and lateral bands.",
+      "tags": [
+        "Insertion",
+        "Tendon",
+        "MusclesAndTendons",
+        "NS13"
+      ],
+      "sourceLine": 40,
+      "section": "Muscles, tendons and pulleys",
+      "label": "b"
+    },
+    {
+      "id": "hand-model-ns13-41",
+      "path": [
+        "b"
+      ],
+      "question": "Function",
+      "answer": "Transmits extensor digitorum force to extend the fingers.",
+      "tags": [
+        "Function",
+        "Tendon",
+        "MusclesAndTendons",
+        "NS13"
+      ],
+      "sourceLine": 41,
+      "section": "Muscles, tendons and pulleys",
+      "label": "b"
+    },
+    {
+      "id": "hand-model-ns13-42",
+      "path": [
+        "b"
+      ],
+      "question": "Relations",
+      "answer": "Connected to adjacent extensor tendons by juncturae tendinum on the dorsum of the hand.",
+      "tags": [
+        "Relations",
+        "Tendon",
+        "MusclesAndTendons",
+        "NS13"
+      ],
+      "sourceLine": 42,
+      "section": "Muscles, tendons and pulleys",
+      "label": "b"
+    },
+    {
+      "id": "hand-model-ns13-45",
+      "path": [
+        "c"
+      ],
+      "question": "Identification",
+      "answer": "Extensor pollicis longus muscle",
+      "tags": [
+        "Identification",
+        "Muscle",
+        "MusclesAndTendons",
+        "NS13"
+      ],
+      "sourceLine": 45,
+      "section": "Muscles, tendons and pulleys",
+      "label": "c"
+    },
+    {
+      "id": "hand-model-ns13-46",
+      "path": [
+        "c"
+      ],
+      "question": "Actions",
+      "answer": "Extends the thumb at interphalangeal and metacarpophalangeal joints; assists extension at carpometacarpal joint.",
+      "tags": [
+        "Action",
+        "Muscle",
+        "MusclesAndTendons",
+        "NS13"
+      ],
+      "sourceLine": 46,
+      "section": "Muscles, tendons and pulleys",
+      "label": "c"
+    },
+    {
+      "id": "hand-model-ns13-47",
+      "path": [
+        "c"
+      ],
+      "question": "Innervation",
+      "answer": "Posterior interosseous nerve (C7–C8).",
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "MusclesAndTendons",
+        "NS13"
+      ],
+      "sourceLine": 47,
+      "section": "Muscles, tendons and pulleys",
+      "label": "c"
+    },
+    {
+      "id": "hand-model-ns13-48",
+      "path": [
+        "c"
+      ],
+      "question": "Origin",
+      "answer": "Posterior middle ulna and interosseous membrane.",
+      "tags": [
+        "Origin",
+        "Muscle",
+        "MusclesAndTendons",
+        "NS13"
+      ],
+      "sourceLine": 48,
+      "section": "Muscles, tendons and pulleys",
+      "label": "c"
+    },
+    {
+      "id": "hand-model-ns13-49",
+      "path": [
+        "c"
+      ],
+      "question": "Insertion",
+      "answer": "Base of distal phalanx of thumb.",
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "MusclesAndTendons",
+        "NS13"
+      ],
+      "sourceLine": 49,
+      "section": "Muscles, tendons and pulleys",
+      "label": "c"
+    },
+    {
+      "id": "hand-model-ns13-52",
+      "path": [
+        "d"
+      ],
+      "question": "Identification",
+      "answer": "Extensor pollicis brevis muscle",
+      "tags": [
+        "Identification",
+        "Muscle",
+        "MusclesAndTendons",
+        "NS13"
+      ],
+      "sourceLine": 52,
+      "section": "Muscles, tendons and pulleys",
+      "label": "d"
+    },
+    {
+      "id": "hand-model-ns13-53",
+      "path": [
+        "d"
+      ],
+      "question": "Actions",
+      "answer": "Extends thumb mainly at metacarpophalangeal and carpometacarpal joints.",
+      "tags": [
+        "Action",
+        "Muscle",
+        "MusclesAndTendons",
+        "NS13"
+      ],
+      "sourceLine": 53,
+      "section": "Muscles, tendons and pulleys",
+      "label": "d"
+    },
+    {
+      "id": "hand-model-ns13-54",
+      "path": [
+        "d"
+      ],
+      "question": "Innervation",
+      "answer": "Posterior interosseous nerve (C7–C8).",
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "MusclesAndTendons",
+        "NS13"
+      ],
+      "sourceLine": 54,
+      "section": "Muscles, tendons and pulleys",
+      "label": "d"
+    },
+    {
+      "id": "hand-model-ns13-55",
+      "path": [
+        "d"
+      ],
+      "question": "Origin",
+      "answer": "Posterior radius and interosseous membrane.",
+      "tags": [
+        "Origin",
+        "Muscle",
+        "MusclesAndTendons",
+        "NS13"
+      ],
+      "sourceLine": 55,
+      "section": "Muscles, tendons and pulleys",
+      "label": "d"
+    },
+    {
+      "id": "hand-model-ns13-56",
+      "path": [
+        "d"
+      ],
+      "question": "Insertion",
+      "answer": "Base of proximal phalanx of thumb.",
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "MusclesAndTendons",
+        "NS13"
+      ],
+      "sourceLine": 56,
+      "section": "Muscles, tendons and pulleys",
+      "label": "d"
+    },
+    {
+      "id": "hand-model-ns13-59",
+      "path": [
+        "e"
+      ],
+      "question": "Identification",
+      "answer": "Abductor pollicis longus muscle",
+      "tags": [
+        "Identification",
+        "Muscle",
+        "MusclesAndTendons",
+        "NS13"
+      ],
+      "sourceLine": 59,
+      "section": "Muscles, tendons and pulleys",
+      "label": "e"
+    },
+    {
+      "id": "hand-model-ns13-60",
+      "path": [
+        "e"
+      ],
+      "question": "Actions",
+      "answer": "Abducts and extends thumb at carpometacarpal joint; assists radial deviation of wrist.",
+      "tags": [
+        "Action",
+        "Muscle",
+        "MusclesAndTendons",
+        "NS13"
+      ],
+      "sourceLine": 60,
+      "section": "Muscles, tendons and pulleys",
+      "label": "e"
+    },
+    {
+      "id": "hand-model-ns13-61",
+      "path": [
+        "e"
+      ],
+      "question": "Innervation",
+      "answer": "Posterior interosseous nerve (C7–C8).",
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "MusclesAndTendons",
+        "NS13"
+      ],
+      "sourceLine": 61,
+      "section": "Muscles, tendons and pulleys",
+      "label": "e"
+    },
+    {
+      "id": "hand-model-ns13-62",
+      "path": [
+        "e"
+      ],
+      "question": "Origin",
+      "answer": "Posterior ulna, radius and interosseous membrane.",
+      "tags": [
+        "Origin",
+        "Muscle",
+        "MusclesAndTendons",
+        "NS13"
+      ],
+      "sourceLine": 62,
+      "section": "Muscles, tendons and pulleys",
+      "label": "e"
+    },
+    {
+      "id": "hand-model-ns13-63",
+      "path": [
+        "e"
+      ],
+      "question": "Insertion",
+      "answer": "Base of 1st metacarpal.",
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "MusclesAndTendons",
+        "NS13"
+      ],
+      "sourceLine": 63,
+      "section": "Muscles, tendons and pulleys",
+      "label": "e"
+    },
+    {
+      "id": "hand-model-ns13-66",
+      "path": [
+        "f"
+      ],
+      "question": "Identification",
+      "answer": "Extensor digiti minimi muscle",
+      "tags": [
+        "Identification",
+        "Muscle",
+        "MusclesAndTendons",
+        "NS13"
+      ],
+      "sourceLine": 66,
+      "section": "Muscles, tendons and pulleys",
+      "label": "f"
+    },
+    {
+      "id": "hand-model-ns13-67",
+      "path": [
+        "f"
+      ],
+      "question": "Actions",
+      "answer": "Extends the 5th digit and assists wrist extension.",
+      "tags": [
+        "Action",
+        "Muscle",
+        "MusclesAndTendons",
+        "NS13"
+      ],
+      "sourceLine": 67,
+      "section": "Muscles, tendons and pulleys",
+      "label": "f"
+    },
+    {
+      "id": "hand-model-ns13-68",
+      "path": [
+        "f"
+      ],
+      "question": "Innervation",
+      "answer": "Posterior interosseous nerve (C7–C8).",
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "MusclesAndTendons",
+        "NS13"
+      ],
+      "sourceLine": 68,
+      "section": "Muscles, tendons and pulleys",
+      "label": "f"
+    },
+    {
+      "id": "hand-model-ns13-69",
+      "path": [
+        "f"
+      ],
+      "question": "Origin",
+      "answer": "Lateral epicondyle via common extensor tendon.",
+      "tags": [
+        "Origin",
+        "Muscle",
+        "MusclesAndTendons",
+        "NS13"
+      ],
+      "sourceLine": 69,
+      "section": "Muscles, tendons and pulleys",
+      "label": "f"
+    },
+    {
+      "id": "hand-model-ns13-70",
+      "path": [
+        "f"
+      ],
+      "question": "Insertion",
+      "answer": "Extensor expansion of 5th digit.",
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "MusclesAndTendons",
+        "NS13"
+      ],
+      "sourceLine": 70,
+      "section": "Muscles, tendons and pulleys",
+      "label": "f"
+    },
+    {
+      "id": "hand-model-ns13-73",
+      "path": [
+        "g"
+      ],
+      "question": "Identification",
+      "answer": "Flexor carpi ulnaris muscle",
+      "tags": [
+        "Identification",
+        "Muscle",
+        "MusclesAndTendons",
+        "NS13"
+      ],
+      "sourceLine": 73,
+      "section": "Muscles, tendons and pulleys",
+      "label": "g"
+    },
+    {
+      "id": "hand-model-ns13-74",
+      "path": [
+        "g"
+      ],
+      "question": "Actions",
+      "answer": "Flexes and adducts (ulnar deviates) the wrist.",
+      "tags": [
+        "Action",
+        "Muscle",
+        "MusclesAndTendons",
+        "NS13"
+      ],
+      "sourceLine": 74,
+      "section": "Muscles, tendons and pulleys",
+      "label": "g"
+    },
+    {
+      "id": "hand-model-ns13-75",
+      "path": [
+        "g"
+      ],
+      "question": "Innervation",
+      "answer": "Ulnar nerve (C8–T1).",
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "MusclesAndTendons",
+        "NS13"
+      ],
+      "sourceLine": 75,
+      "section": "Muscles, tendons and pulleys",
+      "label": "g"
+    },
+    {
+      "id": "hand-model-ns13-76",
+      "path": [
+        "g"
+      ],
+      "question": "Origin",
+      "answer": "Medial epicondyle, olecranon and posterior border of ulna.",
+      "tags": [
+        "Origin",
+        "Muscle",
+        "MusclesAndTendons",
+        "NS13"
+      ],
+      "sourceLine": 76,
+      "section": "Muscles, tendons and pulleys",
+      "label": "g"
+    },
+    {
+      "id": "hand-model-ns13-77",
+      "path": [
+        "g"
+      ],
+      "question": "Insertion",
+      "answer": "Pisiform, with continuation via pisohamate and pisometacarpal ligaments to hook of hamate and base of 5th metacarpal.",
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "MusclesAndTendons",
+        "NS13"
+      ],
+      "sourceLine": 77,
+      "section": "Muscles, tendons and pulleys",
+      "label": "g"
+    },
+    {
+      "id": "hand-model-ns13-80",
+      "path": [
+        "h"
+      ],
+      "question": "Identification",
+      "answer": "Extensor carpi radialis longus muscle",
+      "tags": [
+        "Identification",
+        "Muscle",
+        "MusclesAndTendons",
+        "NS13"
+      ],
+      "sourceLine": 80,
+      "section": "Muscles, tendons and pulleys",
+      "label": "h"
+    },
+    {
+      "id": "hand-model-ns13-81",
+      "path": [
+        "h"
+      ],
+      "question": "Actions",
+      "answer": "Extends and abducts (radially deviates) the wrist.",
+      "tags": [
+        "Action",
+        "Muscle",
+        "MusclesAndTendons",
+        "NS13"
+      ],
+      "sourceLine": 81,
+      "section": "Muscles, tendons and pulleys",
+      "label": "h"
+    },
+    {
+      "id": "hand-model-ns13-82",
+      "path": [
+        "h"
+      ],
+      "question": "Innervation",
+      "answer": "Radial nerve (C6–C7).",
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "MusclesAndTendons",
+        "NS13"
+      ],
+      "sourceLine": 82,
+      "section": "Muscles, tendons and pulleys",
+      "label": "h"
+    },
+    {
+      "id": "hand-model-ns13-83",
+      "path": [
+        "h"
+      ],
+      "question": "Origin",
+      "answer": "Lateral supracondylar ridge of humerus.",
+      "tags": [
+        "Origin",
+        "Muscle",
+        "MusclesAndTendons",
+        "NS13"
+      ],
+      "sourceLine": 83,
+      "section": "Muscles, tendons and pulleys",
+      "label": "h"
+    },
+    {
+      "id": "hand-model-ns13-84",
+      "path": [
+        "h"
+      ],
+      "question": "Insertion",
+      "answer": "Base of 2nd metacarpal.",
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "MusclesAndTendons",
+        "NS13"
+      ],
+      "sourceLine": 84,
+      "section": "Muscles, tendons and pulleys",
+      "label": "h"
+    },
+    {
+      "id": "hand-model-ns13-87",
+      "path": [
+        "i"
+      ],
+      "question": "Identification",
+      "answer": "Extensor carpi radialis brevis muscle",
+      "tags": [
+        "Identification",
+        "Muscle",
+        "MusclesAndTendons",
+        "NS13"
+      ],
+      "sourceLine": 87,
+      "section": "Muscles, tendons and pulleys",
+      "label": "i"
+    },
+    {
+      "id": "hand-model-ns13-88",
+      "path": [
+        "i"
+      ],
+      "question": "Actions",
+      "answer": "Extends and abducts the wrist.",
+      "tags": [
+        "Action",
+        "Muscle",
+        "MusclesAndTendons",
+        "NS13"
+      ],
+      "sourceLine": 88,
+      "section": "Muscles, tendons and pulleys",
+      "label": "i"
+    },
+    {
+      "id": "hand-model-ns13-89",
+      "path": [
+        "i"
+      ],
+      "question": "Innervation",
+      "answer": "Deep branch of radial nerve (C7–C8).",
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "MusclesAndTendons",
+        "NS13"
+      ],
+      "sourceLine": 89,
+      "section": "Muscles, tendons and pulleys",
+      "label": "i"
+    },
+    {
+      "id": "hand-model-ns13-90",
+      "path": [
+        "i"
+      ],
+      "question": "Origin",
+      "answer": "Lateral epicondyle via common extensor tendon.",
+      "tags": [
+        "Origin",
+        "Muscle",
+        "MusclesAndTendons",
+        "NS13"
+      ],
+      "sourceLine": 90,
+      "section": "Muscles, tendons and pulleys",
+      "label": "i"
+    },
+    {
+      "id": "hand-model-ns13-91",
+      "path": [
+        "i"
+      ],
+      "question": "Insertion",
+      "answer": "Base of 3rd metacarpal.",
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "MusclesAndTendons",
+        "NS13"
+      ],
+      "sourceLine": 91,
+      "section": "Muscles, tendons and pulleys",
+      "label": "i"
+    },
+    {
+      "id": "hand-model-ns13-94",
+      "path": [
+        "k"
+      ],
+      "question": "Identification",
+      "answer": "Dorsal interosseous muscles of the hand",
+      "tags": [
+        "Identification",
+        "Muscle",
+        "MusclesAndTendons",
+        "NS13"
+      ],
+      "sourceLine": 94,
+      "section": "Muscles, tendons and pulleys",
+      "label": "k"
+    },
+    {
+      "id": "hand-model-ns13-95",
+      "path": [
+        "k"
+      ],
+      "question": "Actions",
+      "answer": "Abduct digits 2–4 from the axis of the middle finger; assist MCP flexion and IP extension.",
+      "tags": [
+        "Action",
+        "Muscle",
+        "MusclesAndTendons",
+        "NS13"
+      ],
+      "sourceLine": 95,
+      "section": "Muscles, tendons and pulleys",
+      "label": "k"
+    },
+    {
+      "id": "hand-model-ns13-96",
+      "path": [
+        "k"
+      ],
+      "question": "Innervation",
+      "answer": "Deep branch of ulnar nerve (C8–T1).",
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "MusclesAndTendons",
+        "NS13"
+      ],
+      "sourceLine": 96,
+      "section": "Muscles, tendons and pulleys",
+      "label": "k"
+    },
+    {
+      "id": "hand-model-ns13-97",
+      "path": [
+        "k"
+      ],
+      "question": "Origin",
+      "answer": "Adjacent sides of metacarpals.",
+      "tags": [
+        "Origin",
+        "Muscle",
+        "MusclesAndTendons",
+        "NS13"
+      ],
+      "sourceLine": 97,
+      "section": "Muscles, tendons and pulleys",
+      "label": "k"
+    },
+    {
+      "id": "hand-model-ns13-98",
+      "path": [
+        "k"
+      ],
+      "question": "Insertion",
+      "answer": "Bases of proximal phalanges and extensor expansions of digits 2–4.",
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "MusclesAndTendons",
+        "NS13"
+      ],
+      "sourceLine": 98,
+      "section": "Muscles, tendons and pulleys",
+      "label": "k"
+    },
+    {
+      "id": "hand-model-ns13-101",
+      "path": [
+        "l"
+      ],
+      "question": "Identification",
+      "answer": "Adductor pollicis muscle",
+      "tags": [
+        "Identification",
+        "Muscle",
+        "MusclesAndTendons",
+        "NS13"
+      ],
+      "sourceLine": 101,
+      "section": "Muscles, tendons and pulleys",
+      "label": "l"
+    },
+    {
+      "id": "hand-model-ns13-102",
+      "path": [
+        "l"
+      ],
+      "question": "Actions",
+      "answer": "Adducts thumb and assists power grip.",
+      "tags": [
+        "Action",
+        "Muscle",
+        "MusclesAndTendons",
+        "NS13"
+      ],
+      "sourceLine": 102,
+      "section": "Muscles, tendons and pulleys",
+      "label": "l"
+    },
+    {
+      "id": "hand-model-ns13-103",
+      "path": [
+        "l"
+      ],
+      "question": "Innervation",
+      "answer": "Deep branch of ulnar nerve (C8–T1).",
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "MusclesAndTendons",
+        "NS13"
+      ],
+      "sourceLine": 103,
+      "section": "Muscles, tendons and pulleys",
+      "label": "l"
+    },
+    {
+      "id": "hand-model-ns13-104",
+      "path": [
+        "l"
+      ],
+      "question": "Origin",
+      "answer": "Oblique head: bases of metacarpals 2–3 and capitate; transverse head: shaft of 3rd metacarpal.",
+      "tags": [
+        "Origin",
+        "Muscle",
+        "MusclesAndTendons",
+        "NS13"
+      ],
+      "sourceLine": 104,
+      "section": "Muscles, tendons and pulleys",
+      "label": "l"
+    },
+    {
+      "id": "hand-model-ns13-105",
+      "path": [
+        "l"
+      ],
+      "question": "Insertion",
+      "answer": "Medial base of proximal phalanx of thumb.",
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "MusclesAndTendons",
+        "NS13"
+      ],
+      "sourceLine": 105,
+      "section": "Muscles, tendons and pulleys",
+      "label": "l"
+    },
+    {
+      "id": "hand-model-ns13-108",
+      "path": [
+        "m"
+      ],
+      "question": "Identification",
+      "answer": "Abductor digiti minimi muscle",
+      "tags": [
+        "Identification",
+        "Muscle",
+        "MusclesAndTendons",
+        "NS13"
+      ],
+      "sourceLine": 108,
+      "section": "Muscles, tendons and pulleys",
+      "label": "m"
+    },
+    {
+      "id": "hand-model-ns13-109",
+      "path": [
+        "m"
+      ],
+      "question": "Actions",
+      "answer": "Abducts the 5th digit and assists MCP flexion.",
+      "tags": [
+        "Action",
+        "Muscle",
+        "MusclesAndTendons",
+        "NS13"
+      ],
+      "sourceLine": 109,
+      "section": "Muscles, tendons and pulleys",
+      "label": "m"
+    },
+    {
+      "id": "hand-model-ns13-110",
+      "path": [
+        "m"
+      ],
+      "question": "Innervation",
+      "answer": "Deep branch of ulnar nerve (C8–T1).",
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "MusclesAndTendons",
+        "NS13"
+      ],
+      "sourceLine": 110,
+      "section": "Muscles, tendons and pulleys",
+      "label": "m"
+    },
+    {
+      "id": "hand-model-ns13-111",
+      "path": [
+        "m"
+      ],
+      "question": "Origin",
+      "answer": "Pisiform and tendon of flexor carpi ulnaris.",
+      "tags": [
+        "Origin",
+        "Muscle",
+        "MusclesAndTendons",
+        "NS13"
+      ],
+      "sourceLine": 111,
+      "section": "Muscles, tendons and pulleys",
+      "label": "m"
+    },
+    {
+      "id": "hand-model-ns13-112",
+      "path": [
+        "m"
+      ],
+      "question": "Insertion",
+      "answer": "Medial base of proximal phalanx of 5th digit and extensor expansion.",
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "MusclesAndTendons",
+        "NS13"
+      ],
+      "sourceLine": 112,
+      "section": "Muscles, tendons and pulleys",
+      "label": "m"
+    },
+    {
+      "id": "hand-model-ns13-115",
+      "path": [
+        "n"
+      ],
+      "question": "Identification",
+      "answer": "Flexor digiti minimi muscle of the hand",
+      "tags": [
+        "Identification",
+        "Muscle",
+        "MusclesAndTendons",
+        "NS13"
+      ],
+      "sourceLine": 115,
+      "section": "Muscles, tendons and pulleys",
+      "label": "n"
+    },
+    {
+      "id": "hand-model-ns13-116",
+      "path": [
+        "n"
+      ],
+      "question": "Actions",
+      "answer": "Flexes the 5th digit at the metacarpophalangeal joint.",
+      "tags": [
+        "Action",
+        "Muscle",
+        "MusclesAndTendons",
+        "NS13"
+      ],
+      "sourceLine": 116,
+      "section": "Muscles, tendons and pulleys",
+      "label": "n"
+    },
+    {
+      "id": "hand-model-ns13-117",
+      "path": [
+        "n"
+      ],
+      "question": "Innervation",
+      "answer": "Deep branch of ulnar nerve (C8–T1).",
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "MusclesAndTendons",
+        "NS13"
+      ],
+      "sourceLine": 117,
+      "section": "Muscles, tendons and pulleys",
+      "label": "n"
+    },
+    {
+      "id": "hand-model-ns13-118",
+      "path": [
+        "n"
+      ],
+      "question": "Origin",
+      "answer": "Hook of hamate and flexor retinaculum.",
+      "tags": [
+        "Origin",
+        "Muscle",
+        "MusclesAndTendons",
+        "NS13"
+      ],
+      "sourceLine": 118,
+      "section": "Muscles, tendons and pulleys",
+      "label": "n"
+    },
+    {
+      "id": "hand-model-ns13-119",
+      "path": [
+        "n"
+      ],
+      "question": "Insertion",
+      "answer": "Medial base of proximal phalanx of 5th digit.",
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "MusclesAndTendons",
+        "NS13"
+      ],
+      "sourceLine": 119,
+      "section": "Muscles, tendons and pulleys",
+      "label": "n"
+    },
+    {
+      "id": "hand-model-ns13-122",
+      "path": [
+        "o"
+      ],
+      "question": "Identification",
+      "answer": "Opponens digiti minimi muscle",
+      "tags": [
+        "Identification",
+        "Muscle",
+        "MusclesAndTendons",
+        "NS13"
+      ],
+      "sourceLine": 122,
+      "section": "Muscles, tendons and pulleys",
+      "label": "o"
+    },
+    {
+      "id": "hand-model-ns13-123",
+      "path": [
+        "o"
+      ],
+      "question": "Actions",
+      "answer": "Draws 5th metacarpal anteriorly and rotates it, contributing to opposition/cupping of the hand.",
+      "tags": [
+        "Action",
+        "Muscle",
+        "MusclesAndTendons",
+        "NS13"
+      ],
+      "sourceLine": 123,
+      "section": "Muscles, tendons and pulleys",
+      "label": "o"
+    },
+    {
+      "id": "hand-model-ns13-124",
+      "path": [
+        "o"
+      ],
+      "question": "Innervation",
+      "answer": "Deep branch of ulnar nerve (C8–T1).",
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "MusclesAndTendons",
+        "NS13"
+      ],
+      "sourceLine": 124,
+      "section": "Muscles, tendons and pulleys",
+      "label": "o"
+    },
+    {
+      "id": "hand-model-ns13-125",
+      "path": [
+        "o"
+      ],
+      "question": "Origin",
+      "answer": "Hook of hamate and flexor retinaculum.",
+      "tags": [
+        "Origin",
+        "Muscle",
+        "MusclesAndTendons",
+        "NS13"
+      ],
+      "sourceLine": 125,
+      "section": "Muscles, tendons and pulleys",
+      "label": "o"
+    },
+    {
+      "id": "hand-model-ns13-126",
+      "path": [
+        "o"
+      ],
+      "question": "Insertion",
+      "answer": "Medial border of 5th metacarpal.",
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "MusclesAndTendons",
+        "NS13"
+      ],
+      "sourceLine": 126,
+      "section": "Muscles, tendons and pulleys",
+      "label": "o"
+    },
+    {
+      "id": "hand-model-ns13-129",
+      "path": [
+        "p"
+      ],
+      "question": "Identification",
+      "answer": "Tendon of flexor pollicis longus muscle",
+      "tags": [
+        "Identification",
+        "Tendon",
+        "MusclesAndTendons",
+        "NS13"
+      ],
+      "sourceLine": 129,
+      "section": "Muscles, tendons and pulleys",
+      "label": "p"
+    },
+    {
+      "id": "hand-model-ns13-130",
+      "path": [
+        "p"
+      ],
+      "question": "Course",
+      "answer": "Passes through the carpal tunnel and then within the fibrous digital sheath of the thumb.",
+      "tags": [
+        "Course",
+        "Tendon",
+        "MusclesAndTendons",
+        "NS13"
+      ],
+      "sourceLine": 130,
+      "section": "Muscles, tendons and pulleys",
+      "label": "p"
+    },
+    {
+      "id": "hand-model-ns13-131",
+      "path": [
+        "p"
+      ],
+      "question": "Insertion",
+      "answer": "Base of distal phalanx of thumb.",
+      "tags": [
+        "Insertion",
+        "Tendon",
+        "MusclesAndTendons",
+        "NS13"
+      ],
+      "sourceLine": 131,
+      "section": "Muscles, tendons and pulleys",
+      "label": "p"
+    },
+    {
+      "id": "hand-model-ns13-132",
+      "path": [
+        "p"
+      ],
+      "question": "Function",
+      "answer": "Flexes the thumb, especially at the interphalangeal joint.",
+      "tags": [
+        "Function",
+        "Tendon",
+        "MusclesAndTendons",
+        "NS13"
+      ],
+      "sourceLine": 132,
+      "section": "Muscles, tendons and pulleys",
+      "label": "p"
+    },
+    {
+      "id": "hand-model-ns13-135",
+      "path": [
+        "q"
+      ],
+      "question": "Identification",
+      "answer": "Tendon of the flexor digitorum superficialis muscle",
+      "tags": [
+        "Identification",
+        "Tendon",
+        "MusclesAndTendons",
+        "NS13"
+      ],
+      "sourceLine": 135,
+      "section": "Muscles, tendons and pulleys",
+      "label": "q"
+    },
+    {
+      "id": "hand-model-ns13-136",
+      "path": [
+        "q"
+      ],
+      "question": "Course",
+      "answer": "Passes through carpal tunnel and digital sheaths; each tendon splits around the FDP tendon at Camper's chiasm.",
+      "tags": [
+        "Course",
+        "Tendon",
+        "MusclesAndTendons",
+        "NS13"
+      ],
+      "sourceLine": 136,
+      "section": "Muscles, tendons and pulleys",
+      "label": "q"
+    },
+    {
+      "id": "hand-model-ns13-137",
+      "path": [
+        "q"
+      ],
+      "question": "Insertion",
+      "answer": "Sides of middle phalanges of digits 2–5.",
+      "tags": [
+        "Insertion",
+        "Tendon",
+        "MusclesAndTendons",
+        "NS13"
+      ],
+      "sourceLine": 137,
+      "section": "Muscles, tendons and pulleys",
+      "label": "q"
+    },
+    {
+      "id": "hand-model-ns13-138",
+      "path": [
+        "q"
+      ],
+      "question": "Function",
+      "answer": "Flexes proximal interphalangeal joints and assists MCP/wrist flexion.",
+      "tags": [
+        "Function",
+        "Tendon",
+        "MusclesAndTendons",
+        "NS13"
+      ],
+      "sourceLine": 138,
+      "section": "Muscles, tendons and pulleys",
+      "label": "q"
+    },
+    {
+      "id": "hand-model-ns13-141",
+      "path": [
+        "r"
+      ],
+      "question": "Identification",
+      "answer": "Flexor retinaculum",
+      "tags": [
+        "Identification",
+        "Retinaculum",
+        "MusclesAndTendons",
+        "NS13"
+      ],
+      "sourceLine": 141,
+      "section": "Muscles, tendons and pulleys",
+      "label": "r"
+    },
+    {
+      "id": "hand-model-ns13-142",
+      "path": [
+        "r"
+      ],
+      "question": "Attachments",
+      "answer": "Attaches laterally to scaphoid tubercle and trapezium, and medially to pisiform and hook of hamate.",
+      "tags": [
+        "Attachments",
+        "Retinaculum",
+        "MusclesAndTendons",
+        "NS13"
+      ],
+      "sourceLine": 142,
+      "section": "Muscles, tendons and pulleys",
+      "label": "r"
+    },
+    {
+      "id": "hand-model-ns13-143",
+      "path": [
+        "r"
+      ],
+      "question": "Function",
+      "answer": "Forms the roof of the carpal tunnel and prevents flexor tendon bowstringing.",
+      "tags": [
+        "Function",
+        "Retinaculum",
+        "MusclesAndTendons",
+        "NS13"
+      ],
+      "sourceLine": 143,
+      "section": "Muscles, tendons and pulleys",
+      "label": "r"
+    },
+    {
+      "id": "hand-model-ns13-144",
+      "path": [
+        "r"
+      ],
+      "question": "Contents",
+      "answer": "Carpal tunnel contains median nerve and nine flexor tendons: four FDS, four FDP and one FPL.",
+      "tags": [
+        "Contents",
+        "Retinaculum",
+        "MusclesAndTendons",
+        "NS13"
+      ],
+      "sourceLine": 144,
+      "section": "Muscles, tendons and pulleys",
+      "label": "r"
+    },
+    {
+      "id": "hand-model-ns13-145",
+      "path": [
+        "r"
+      ],
+      "question": "Clinical relevance",
+      "answer": "Median nerve compression beneath it causes carpal tunnel syndrome.",
+      "tags": [
+        "Clinical",
+        "Retinaculum",
+        "MusclesAndTendons",
+        "NS13"
+      ],
+      "sourceLine": 145,
+      "section": "Muscles, tendons and pulleys",
+      "label": "r"
+    },
+    {
+      "id": "hand-model-ns13-148",
+      "path": [
+        "s"
+      ],
+      "question": "Identification",
+      "answer": "Lumbrical muscles",
+      "tags": [
+        "Identification",
+        "Muscle",
+        "MusclesAndTendons",
+        "NS13"
+      ],
+      "sourceLine": 148,
+      "section": "Muscles, tendons and pulleys",
+      "label": "s"
+    },
+    {
+      "id": "hand-model-ns13-149",
+      "path": [
+        "s"
+      ],
+      "question": "Actions",
+      "answer": "Flex MCP joints and extend IP joints of digits 2–5.",
+      "tags": [
+        "Action",
+        "Muscle",
+        "MusclesAndTendons",
+        "NS13"
+      ],
+      "sourceLine": 149,
+      "section": "Muscles, tendons and pulleys",
+      "label": "s"
+    },
+    {
+      "id": "hand-model-ns13-150",
+      "path": [
+        "s"
+      ],
+      "question": "Innervation",
+      "answer": "1st–2nd lumbricals: median nerve; 3rd–4th: deep branch of ulnar nerve (C8–T1).",
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "MusclesAndTendons",
+        "NS13"
+      ],
+      "sourceLine": 150,
+      "section": "Muscles, tendons and pulleys",
+      "label": "s"
+    },
+    {
+      "id": "hand-model-ns13-151",
+      "path": [
+        "s"
+      ],
+      "question": "Origin",
+      "answer": "Tendons of flexor digitorum profundus.",
+      "tags": [
+        "Origin",
+        "Muscle",
+        "MusclesAndTendons",
+        "NS13"
+      ],
+      "sourceLine": 151,
+      "section": "Muscles, tendons and pulleys",
+      "label": "s"
+    },
+    {
+      "id": "hand-model-ns13-152",
+      "path": [
+        "s"
+      ],
+      "question": "Insertion",
+      "answer": "Lateral sides of extensor expansions of digits 2–5.",
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "MusclesAndTendons",
+        "NS13"
+      ],
+      "sourceLine": 152,
+      "section": "Muscles, tendons and pulleys",
+      "label": "s"
+    },
+    {
+      "id": "hand-model-ns13-155",
+      "path": [
+        "t"
+      ],
+      "question": "Identification",
+      "answer": "Annular pulley",
+      "tags": [
+        "Identification",
+        "Pulley",
+        "MusclesAndTendons",
+        "NS13"
+      ],
+      "sourceLine": 155,
+      "section": "Muscles, tendons and pulleys",
+      "label": "t"
+    },
+    {
+      "id": "hand-model-ns13-156",
+      "path": [
+        "t"
+      ],
+      "question": "Structure",
+      "answer": "Strong transverse thickening of the fibrous digital sheath attached to the phalanges/metacarpophalangeal region.",
+      "tags": [
+        "Structure",
+        "Pulley",
+        "MusclesAndTendons",
+        "NS13"
+      ],
+      "sourceLine": 156,
+      "section": "Muscles, tendons and pulleys",
+      "label": "t"
+    },
+    {
+      "id": "hand-model-ns13-157",
+      "path": [
+        "t"
+      ],
+      "question": "Function",
+      "answer": "Holds flexor tendons close to the phalanges and prevents bowstringing during finger flexion.",
+      "tags": [
+        "Function",
+        "Pulley",
+        "MusclesAndTendons",
+        "NS13"
+      ],
+      "sourceLine": 157,
+      "section": "Muscles, tendons and pulleys",
+      "label": "t"
+    },
+    {
+      "id": "hand-model-ns13-158",
+      "path": [
+        "t"
+      ],
+      "question": "Clinical relevance",
+      "answer": "A1 pulley thickening or stenosis is a common cause of trigger finger.",
+      "tags": [
+        "Clinical",
+        "Pulley",
+        "MusclesAndTendons",
+        "NS13"
+      ],
+      "sourceLine": 158,
+      "section": "Muscles, tendons and pulleys",
+      "label": "t"
+    },
+    {
+      "id": "hand-model-ns13-161",
+      "path": [
+        "u"
+      ],
+      "question": "Identification",
+      "answer": "Cruciate (cruciform) pulley",
+      "tags": [
+        "Identification",
+        "Pulley",
+        "MusclesAndTendons",
+        "NS13"
+      ],
+      "sourceLine": 161,
+      "section": "Muscles, tendons and pulleys",
+      "label": "u"
+    },
+    {
+      "id": "hand-model-ns13-162",
+      "path": [
+        "u"
+      ],
+      "question": "Structure",
+      "answer": "Flexible crossed fibres within the fibrous digital sheath between annular pulleys.",
+      "tags": [
+        "Structure",
+        "Pulley",
+        "MusclesAndTendons",
+        "NS13"
+      ],
+      "sourceLine": 162,
+      "section": "Muscles, tendons and pulleys",
+      "label": "u"
+    },
+    {
+      "id": "hand-model-ns13-163",
+      "path": [
+        "u"
+      ],
+      "question": "Function",
+      "answer": "Retains flexor tendons while permitting the sheath to fold during finger flexion.",
+      "tags": [
+        "Function",
+        "Pulley",
+        "MusclesAndTendons",
+        "NS13"
+      ],
+      "sourceLine": 163,
+      "section": "Muscles, tendons and pulleys",
+      "label": "u"
+    },
+    {
+      "id": "hand-model-ns13-166",
+      "path": [
+        "v"
+      ],
+      "question": "Identification",
+      "answer": "Flexor pollicis brevis muscle",
+      "tags": [
+        "Identification",
+        "Muscle",
+        "MusclesAndTendons",
+        "NS13"
+      ],
+      "sourceLine": 166,
+      "section": "Muscles, tendons and pulleys",
+      "label": "v"
+    },
+    {
+      "id": "hand-model-ns13-167",
+      "path": [
+        "v"
+      ],
+      "question": "Actions",
+      "answer": "Flexes thumb at the metacarpophalangeal joint and assists opposition.",
+      "tags": [
+        "Action",
+        "Muscle",
+        "MusclesAndTendons",
+        "NS13"
+      ],
+      "sourceLine": 167,
+      "section": "Muscles, tendons and pulleys",
+      "label": "v"
+    },
+    {
+      "id": "hand-model-ns13-168",
+      "path": [
+        "v"
+      ],
+      "question": "Innervation",
+      "answer": "Superficial head mainly recurrent branch of median nerve; deep head often deep branch of ulnar nerve (C8–T1).",
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "MusclesAndTendons",
+        "NS13"
+      ],
+      "sourceLine": 168,
+      "section": "Muscles, tendons and pulleys",
+      "label": "v"
+    },
+    {
+      "id": "hand-model-ns13-169",
+      "path": [
+        "v"
+      ],
+      "question": "Origin",
+      "answer": "Flexor retinaculum and trapezium, with deeper fibres from carpal region.",
+      "tags": [
+        "Origin",
+        "Muscle",
+        "MusclesAndTendons",
+        "NS13"
+      ],
+      "sourceLine": 169,
+      "section": "Muscles, tendons and pulleys",
+      "label": "v"
+    },
+    {
+      "id": "hand-model-ns13-170",
+      "path": [
+        "v"
+      ],
+      "question": "Insertion",
+      "answer": "Lateral base of proximal phalanx of thumb via sesamoid.",
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "MusclesAndTendons",
+        "NS13"
+      ],
+      "sourceLine": 170,
+      "section": "Muscles, tendons and pulleys",
+      "label": "v"
+    },
+    {
+      "id": "hand-model-ns13-173",
+      "path": [
+        "w"
+      ],
+      "question": "Identification",
+      "answer": "Opponens pollicis muscle",
+      "tags": [
+        "Identification",
+        "Muscle",
+        "MusclesAndTendons",
+        "NS13"
+      ],
+      "sourceLine": 173,
+      "section": "Muscles, tendons and pulleys",
+      "label": "w"
+    },
+    {
+      "id": "hand-model-ns13-174",
+      "path": [
+        "w"
+      ],
+      "question": "Actions",
+      "answer": "Opposes thumb by flexing and medially rotating the 1st metacarpal.",
+      "tags": [
+        "Action",
+        "Muscle",
+        "MusclesAndTendons",
+        "NS13"
+      ],
+      "sourceLine": 174,
+      "section": "Muscles, tendons and pulleys",
+      "label": "w"
+    },
+    {
+      "id": "hand-model-ns13-175",
+      "path": [
+        "w"
+      ],
+      "question": "Innervation",
+      "answer": "Recurrent branch of median nerve (C8–T1).",
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "MusclesAndTendons",
+        "NS13"
+      ],
+      "sourceLine": 175,
+      "section": "Muscles, tendons and pulleys",
+      "label": "w"
+    },
+    {
+      "id": "hand-model-ns13-176",
+      "path": [
+        "w"
+      ],
+      "question": "Origin",
+      "answer": "Flexor retinaculum and trapezium.",
+      "tags": [
+        "Origin",
+        "Muscle",
+        "MusclesAndTendons",
+        "NS13"
+      ],
+      "sourceLine": 176,
+      "section": "Muscles, tendons and pulleys",
+      "label": "w"
+    },
+    {
+      "id": "hand-model-ns13-177",
+      "path": [
+        "w"
+      ],
+      "question": "Insertion",
+      "answer": "Lateral side of 1st metacarpal.",
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "MusclesAndTendons",
+        "NS13"
+      ],
+      "sourceLine": 177,
+      "section": "Muscles, tendons and pulleys",
+      "label": "w"
+    },
+    {
+      "id": "hand-model-ns13-180",
+      "path": [
+        "x"
+      ],
+      "question": "Identification",
+      "answer": "Abductor pollicis brevis muscle",
+      "tags": [
+        "Identification",
+        "Muscle",
+        "MusclesAndTendons",
+        "NS13"
+      ],
+      "sourceLine": 180,
+      "section": "Muscles, tendons and pulleys",
+      "label": "x"
+    },
+    {
+      "id": "hand-model-ns13-181",
+      "path": [
+        "x"
+      ],
+      "question": "Actions",
+      "answer": "Abducts thumb perpendicular to palm and assists opposition.",
+      "tags": [
+        "Action",
+        "Muscle",
+        "MusclesAndTendons",
+        "NS13"
+      ],
+      "sourceLine": 181,
+      "section": "Muscles, tendons and pulleys",
+      "label": "x"
+    },
+    {
+      "id": "hand-model-ns13-182",
+      "path": [
+        "x"
+      ],
+      "question": "Innervation",
+      "answer": "Recurrent branch of median nerve (C8–T1).",
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "MusclesAndTendons",
+        "NS13"
+      ],
+      "sourceLine": 182,
+      "section": "Muscles, tendons and pulleys",
+      "label": "x"
+    },
+    {
+      "id": "hand-model-ns13-183",
+      "path": [
+        "x"
+      ],
+      "question": "Origin",
+      "answer": "Flexor retinaculum, scaphoid tubercle and trapezium.",
+      "tags": [
+        "Origin",
+        "Muscle",
+        "MusclesAndTendons",
+        "NS13"
+      ],
+      "sourceLine": 183,
+      "section": "Muscles, tendons and pulleys",
+      "label": "x"
+    },
+    {
+      "id": "hand-model-ns13-184",
+      "path": [
+        "x"
+      ],
+      "question": "Insertion",
+      "answer": "Lateral base of proximal phalanx of thumb.",
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "MusclesAndTendons",
+        "NS13"
+      ],
+      "sourceLine": 184,
+      "section": "Muscles, tendons and pulleys",
+      "label": "x"
+    },
+    {
+      "id": "hand-model-ns13-189",
+      "path": [
+        "1"
+      ],
+      "question": "Identification",
+      "answer": "Radial artery",
+      "tags": [
+        "Identification",
+        "Artery",
+        "ArteriesAndNerves",
+        "NS13"
+      ],
+      "sourceLine": 189,
+      "section": "Arteries and nerves",
+      "label": "1"
+    },
+    {
+      "id": "hand-model-ns13-190",
+      "path": [
+        "1"
+      ],
+      "question": "Origin",
+      "answer": "Terminal branch of brachial artery in the cubital fossa.",
+      "tags": [
+        "Origin",
+        "Artery",
+        "ArteriesAndNerves",
+        "NS13"
+      ],
+      "sourceLine": 190,
+      "section": "Arteries and nerves",
+      "label": "1"
+    },
+    {
+      "id": "hand-model-ns13-191",
+      "path": [
+        "1"
+      ],
+      "question": "Course",
+      "answer": "Runs down lateral forearm, winds dorsally through the anatomical snuffbox, then enters palm between heads of 1st dorsal interosseous.",
+      "tags": [
+        "Course",
+        "Artery",
+        "ArteriesAndNerves",
+        "NS13"
+      ],
+      "sourceLine": 191,
+      "section": "Arteries and nerves",
+      "label": "1"
+    },
+    {
+      "id": "hand-model-ns13-192",
+      "path": [
+        "1"
+      ],
+      "question": "Branches",
+      "answer": "In the hand contributes to deep palmar arch, princeps pollicis and radialis indicis arteries.",
+      "tags": [
+        "Branches",
+        "Artery",
+        "ArteriesAndNerves",
+        "NS13"
+      ],
+      "sourceLine": 192,
+      "section": "Arteries and nerves",
+      "label": "1"
+    },
+    {
+      "id": "hand-model-ns13-193",
+      "path": [
+        "1"
+      ],
+      "question": "Supply",
+      "answer": "Major supply to deep palm, thumb and lateral index finger.",
+      "tags": [
+        "Supply",
+        "Artery",
+        "ArteriesAndNerves",
+        "NS13"
+      ],
+      "sourceLine": 193,
+      "section": "Arteries and nerves",
+      "label": "1"
+    },
+    {
+      "id": "hand-model-ns13-196",
+      "path": [
+        "2"
+      ],
+      "question": "Identification",
+      "answer": "Ulnar artery",
+      "tags": [
+        "Identification",
+        "Artery",
+        "ArteriesAndNerves",
+        "NS13"
+      ],
+      "sourceLine": 196,
+      "section": "Arteries and nerves",
+      "label": "2"
+    },
+    {
+      "id": "hand-model-ns13-197",
+      "path": [
+        "2"
+      ],
+      "question": "Origin",
+      "answer": "Terminal branch of brachial artery in the cubital fossa.",
+      "tags": [
+        "Origin",
+        "Artery",
+        "ArteriesAndNerves",
+        "NS13"
+      ],
+      "sourceLine": 197,
+      "section": "Arteries and nerves",
+      "label": "2"
+    },
+    {
+      "id": "hand-model-ns13-198",
+      "path": [
+        "2"
+      ],
+      "question": "Course",
+      "answer": "Descends medial forearm and enters hand superficial to flexor retinaculum through Guyon's canal region.",
+      "tags": [
+        "Course",
+        "Artery",
+        "ArteriesAndNerves",
+        "NS13"
+      ],
+      "sourceLine": 198,
+      "section": "Arteries and nerves",
+      "label": "2"
+    },
+    {
+      "id": "hand-model-ns13-199",
+      "path": [
+        "2"
+      ],
+      "question": "Branches",
+      "answer": "Forms most of the superficial palmar arch and contributes to the deep palmar arch.",
+      "tags": [
+        "Branches",
+        "Artery",
+        "ArteriesAndNerves",
+        "NS13"
+      ],
+      "sourceLine": 199,
+      "section": "Arteries and nerves",
+      "label": "2"
+    },
+    {
+      "id": "hand-model-ns13-200",
+      "path": [
+        "2"
+      ],
+      "question": "Supply",
+      "answer": "Major arterial supply to superficial palm and medial digits.",
+      "tags": [
+        "Supply",
+        "Artery",
+        "ArteriesAndNerves",
+        "NS13"
+      ],
+      "sourceLine": 200,
+      "section": "Arteries and nerves",
+      "label": "2"
+    },
+    {
+      "id": "hand-model-ns13-203",
+      "path": [
+        "3"
+      ],
+      "question": "Identification",
+      "answer": "Superficial palmar arch",
+      "tags": [
+        "Identification",
+        "Artery",
+        "ArteriesAndNerves",
+        "NS13"
+      ],
+      "sourceLine": 203,
+      "section": "Arteries and nerves",
+      "label": "3"
+    },
+    {
+      "id": "hand-model-ns13-204",
+      "path": [
+        "3"
+      ],
+      "question": "Formation",
+      "answer": "Formed mainly by ulnar artery and usually completed by a superficial branch of radial artery.",
+      "tags": [
+        "Formation",
+        "Artery",
+        "ArteriesAndNerves",
+        "NS13"
+      ],
+      "sourceLine": 204,
+      "section": "Arteries and nerves",
+      "label": "3"
+    },
+    {
+      "id": "hand-model-ns13-205",
+      "path": [
+        "3"
+      ],
+      "question": "Location",
+      "answer": "Lies superficial to flexor tendons and deep to palmar aponeurosis.",
+      "tags": [
+        "Location",
+        "Artery",
+        "ArteriesAndNerves",
+        "NS13"
+      ],
+      "sourceLine": 205,
+      "section": "Arteries and nerves",
+      "label": "3"
+    },
+    {
+      "id": "hand-model-ns13-206",
+      "path": [
+        "3"
+      ],
+      "question": "Branches",
+      "answer": "Gives common palmar digital arteries that divide into proper palmar digital arteries.",
+      "tags": [
+        "Branches",
+        "Artery",
+        "ArteriesAndNerves",
+        "NS13"
+      ],
+      "sourceLine": 206,
+      "section": "Arteries and nerves",
+      "label": "3"
+    },
+    {
+      "id": "hand-model-ns13-207",
+      "path": [
+        "3"
+      ],
+      "question": "Supply",
+      "answer": "Supplies palm and digits through digital branches.",
+      "tags": [
+        "Supply",
+        "Artery",
+        "ArteriesAndNerves",
+        "NS13"
+      ],
+      "sourceLine": 207,
+      "section": "Arteries and nerves",
+      "label": "3"
+    },
+    {
+      "id": "hand-model-ns13-210",
+      "path": [
+        "4"
+      ],
+      "question": "Identification",
+      "answer": "Palmar digital arteries",
+      "tags": [
+        "Identification",
+        "Artery",
+        "ArteriesAndNerves",
+        "NS13"
+      ],
+      "sourceLine": 210,
+      "section": "Arteries and nerves",
+      "label": "4"
+    },
+    {
+      "id": "hand-model-ns13-211",
+      "path": [
+        "4"
+      ],
+      "question": "Origin",
+      "answer": "Arise from superficial palmar arch as common and proper palmar digital arteries.",
+      "tags": [
+        "Origin",
+        "Artery",
+        "ArteriesAndNerves",
+        "NS13"
+      ],
+      "sourceLine": 211,
+      "section": "Arteries and nerves",
+      "label": "4"
+    },
+    {
+      "id": "hand-model-ns13-212",
+      "path": [
+        "4"
+      ],
+      "question": "Course",
+      "answer": "Run along sides of the digits with digital nerves.",
+      "tags": [
+        "Course",
+        "Artery",
+        "ArteriesAndNerves",
+        "NS13"
+      ],
+      "sourceLine": 212,
+      "section": "Arteries and nerves",
+      "label": "4"
+    },
+    {
+      "id": "hand-model-ns13-213",
+      "path": [
+        "4"
+      ],
+      "question": "Supply",
+      "answer": "Supply fingers and adjacent palmar tissues.",
+      "tags": [
+        "Supply",
+        "Artery",
+        "ArteriesAndNerves",
+        "NS13"
+      ],
+      "sourceLine": 213,
+      "section": "Arteries and nerves",
+      "label": "4"
+    },
+    {
+      "id": "hand-model-ns13-216",
+      "path": [
+        "5"
+      ],
+      "question": "Identification",
+      "answer": "Dorsal metacarpal arteries",
+      "tags": [
+        "Identification",
+        "Artery",
+        "ArteriesAndNerves",
+        "NS13"
+      ],
+      "sourceLine": 216,
+      "section": "Arteries and nerves",
+      "label": "5"
+    },
+    {
+      "id": "hand-model-ns13-217",
+      "path": [
+        "5"
+      ],
+      "question": "Origin",
+      "answer": "Arise mainly from the dorsal carpal arch.",
+      "tags": [
+        "Origin",
+        "Artery",
+        "ArteriesAndNerves",
+        "NS13"
+      ],
+      "sourceLine": 217,
+      "section": "Arteries and nerves",
+      "label": "5"
+    },
+    {
+      "id": "hand-model-ns13-218",
+      "path": [
+        "5"
+      ],
+      "question": "Course",
+      "answer": "Run distally in dorsal intermetacarpal spaces.",
+      "tags": [
+        "Course",
+        "Artery",
+        "ArteriesAndNerves",
+        "NS13"
+      ],
+      "sourceLine": 218,
+      "section": "Arteries and nerves",
+      "label": "5"
+    },
+    {
+      "id": "hand-model-ns13-219",
+      "path": [
+        "5"
+      ],
+      "question": "Supply",
+      "answer": "Supply dorsum of hand and contribute to dorsal digital arteries.",
+      "tags": [
+        "Supply",
+        "Artery",
+        "ArteriesAndNerves",
+        "NS13"
+      ],
+      "sourceLine": 219,
+      "section": "Arteries and nerves",
+      "label": "5"
+    },
+    {
+      "id": "hand-model-ns13-222",
+      "path": [
+        "6"
+      ],
+      "question": "Identification",
+      "answer": "Ulnar nerve",
+      "tags": [
+        "Identification",
+        "Nerve",
+        "ArteriesAndNerves",
+        "NS13"
+      ],
+      "sourceLine": 222,
+      "section": "Arteries and nerves",
+      "label": "6"
+    },
+    {
+      "id": "hand-model-ns13-223",
+      "path": [
+        "6"
+      ],
+      "question": "Roots",
+      "answer": "C8–T1, terminal branch of the medial cord of the brachial plexus.",
+      "tags": [
+        "Roots",
+        "Nerve",
+        "ArteriesAndNerves",
+        "NS13"
+      ],
+      "sourceLine": 223,
+      "section": "Arteries and nerves",
+      "label": "6"
+    },
+    {
+      "id": "hand-model-ns13-224",
+      "path": [
+        "6"
+      ],
+      "question": "Course",
+      "answer": "Passes behind medial epicondyle, descends medial forearm and enters hand superficial to flexor retinaculum through Guyon's canal.",
+      "tags": [
+        "Course",
+        "Nerve",
+        "ArteriesAndNerves",
+        "NS13"
+      ],
+      "sourceLine": 224,
+      "section": "Arteries and nerves",
+      "label": "6"
+    },
+    {
+      "id": "hand-model-ns13-225",
+      "path": [
+        "6"
+      ],
+      "question": "Motor functions",
+      "answer": "In the hand supplies hypothenar muscles, interossei, adductor pollicis, deep head of flexor pollicis brevis and medial two lumbricals.",
+      "tags": [
+        "Motor",
+        "Nerve",
+        "ArteriesAndNerves",
+        "NS13"
+      ],
+      "sourceLine": 225,
+      "section": "Arteries and nerves",
+      "label": "6"
+    },
+    {
+      "id": "hand-model-ns13-226",
+      "path": [
+        "6"
+      ],
+      "question": "Sensory functions",
+      "answer": "Supplies palmar and dorsal aspects of medial 1½ digits and adjacent hand through palmar, dorsal and digital branches.",
+      "tags": [
+        "Sensory",
+        "Nerve",
+        "ArteriesAndNerves",
+        "NS13"
+      ],
+      "sourceLine": 226,
+      "section": "Arteries and nerves",
+      "label": "6"
+    },
+    {
+      "id": "hand-model-ns13-227",
+      "path": [
+        "6"
+      ],
+      "question": "Lesion",
+      "answer": "Causes weakness of finger abduction/adduction, weak thumb adduction with positive Froment sign, sensory loss over medial 1½ digits and ulnar clawing, especially with distal lesions.",
+      "tags": [
+        "Lesion",
+        "Nerve",
+        "ArteriesAndNerves",
+        "NS13"
+      ],
+      "sourceLine": 227,
+      "section": "Arteries and nerves",
+      "label": "6"
+    },
+    {
+      "id": "hand-model-ns13-229",
+      "path": [
+        "6",
+        "a"
+      ],
+      "question": "Identification",
+      "answer": "Palmar branch of the ulnar nerve",
+      "tags": [
+        "Identification",
+        "NerveBranch",
+        "ArteriesAndNerves",
+        "NS13"
+      ],
+      "sourceLine": 229,
+      "section": "Arteries and nerves",
+      "label": "6a"
+    },
+    {
+      "id": "hand-model-ns13-230",
+      "path": [
+        "6",
+        "a"
+      ],
+      "question": "Origin",
+      "answer": "Arises from the ulnar nerve in the distal forearm.",
+      "tags": [
+        "Origin",
+        "NerveBranch",
+        "ArteriesAndNerves",
+        "NS13"
+      ],
+      "sourceLine": 230,
+      "section": "Arteries and nerves",
+      "label": "6a"
+    },
+    {
+      "id": "hand-model-ns13-231",
+      "path": [
+        "6",
+        "a"
+      ],
+      "question": "Course",
+      "answer": "Passes superficial to flexor retinaculum into the palm.",
+      "tags": [
+        "Course",
+        "NerveBranch",
+        "ArteriesAndNerves",
+        "NS13"
+      ],
+      "sourceLine": 231,
+      "section": "Arteries and nerves",
+      "label": "6a"
+    },
+    {
+      "id": "hand-model-ns13-232",
+      "path": [
+        "6",
+        "a"
+      ],
+      "question": "Sensory functions",
+      "answer": "Supplies skin over the medial palm/hypothenar region.",
+      "tags": [
+        "Sensory",
+        "NerveBranch",
+        "ArteriesAndNerves",
+        "NS13"
+      ],
+      "sourceLine": 232,
+      "section": "Arteries and nerves",
+      "label": "6a"
+    },
+    {
+      "id": "hand-model-ns13-233",
+      "path": [
+        "6",
+        "a"
+      ],
+      "question": "Lesion",
+      "answer": "Causes numbness or paraesthesia over the medial palmar hand while sparing the dorsal ulnar hand and intrinsic motor function if the branch alone is affected.",
+      "tags": [
+        "Lesion",
+        "NerveBranch",
+        "ArteriesAndNerves",
+        "NS13"
+      ],
+      "sourceLine": 233,
+      "section": "Arteries and nerves",
+      "label": "6a"
+    },
+    {
+      "id": "hand-model-ns13-235",
+      "path": [
+        "6",
+        "b"
+      ],
+      "question": "Identification",
+      "answer": "Dorsal branch of the ulnar nerve",
+      "tags": [
+        "Identification",
+        "NerveBranch",
+        "ArteriesAndNerves",
+        "NS13"
+      ],
+      "sourceLine": 235,
+      "section": "Arteries and nerves",
+      "label": "6b"
+    },
+    {
+      "id": "hand-model-ns13-236",
+      "path": [
+        "6",
+        "b"
+      ],
+      "question": "Origin",
+      "answer": "Arises from the ulnar nerve in the distal forearm proximal to the wrist.",
+      "tags": [
+        "Origin",
+        "NerveBranch",
+        "ArteriesAndNerves",
+        "NS13"
+      ],
+      "sourceLine": 236,
+      "section": "Arteries and nerves",
+      "label": "6b"
+    },
+    {
+      "id": "hand-model-ns13-237",
+      "path": [
+        "6",
+        "b"
+      ],
+      "question": "Course",
+      "answer": "Passes dorsally around the ulna to the dorsomedial hand.",
+      "tags": [
+        "Course",
+        "NerveBranch",
+        "ArteriesAndNerves",
+        "NS13"
+      ],
+      "sourceLine": 237,
+      "section": "Arteries and nerves",
+      "label": "6b"
+    },
+    {
+      "id": "hand-model-ns13-238",
+      "path": [
+        "6",
+        "b"
+      ],
+      "question": "Sensory functions",
+      "answer": "Supplies dorsomedial hand and dorsal aspects of medial 1½ digits, mainly proximal to the nail beds.",
+      "tags": [
+        "Sensory",
+        "NerveBranch",
+        "ArteriesAndNerves",
+        "NS13"
+      ],
+      "sourceLine": 238,
+      "section": "Arteries and nerves",
+      "label": "6b"
+    },
+    {
+      "id": "hand-model-ns13-239",
+      "path": [
+        "6",
+        "b"
+      ],
+      "question": "Lesion",
+      "answer": "Causes sensory loss or paraesthesia over the dorsomedial hand and dorsal medial 1½ digits without intrinsic hand weakness if the branch alone is affected.",
+      "tags": [
+        "Lesion",
+        "NerveBranch",
+        "ArteriesAndNerves",
+        "NS13"
+      ],
+      "sourceLine": 239,
+      "section": "Arteries and nerves",
+      "label": "6b"
+    },
+    {
+      "id": "hand-model-ns13-242",
+      "path": [
+        "7"
+      ],
+      "question": "Identification",
+      "answer": "Radial nerve",
+      "tags": [
+        "Identification",
+        "Nerve",
+        "ArteriesAndNerves",
+        "NS13"
+      ],
+      "sourceLine": 242,
+      "section": "Arteries and nerves",
+      "label": "7"
+    },
+    {
+      "id": "hand-model-ns13-243",
+      "path": [
+        "7"
+      ],
+      "question": "Roots",
+      "answer": "C5–T1, terminal branch of the posterior cord of the brachial plexus.",
+      "tags": [
+        "Roots",
+        "Nerve",
+        "ArteriesAndNerves",
+        "NS13"
+      ],
+      "sourceLine": 243,
+      "section": "Arteries and nerves",
+      "label": "7"
+    },
+    {
+      "id": "hand-model-ns13-244",
+      "path": [
+        "7"
+      ],
+      "question": "Course",
+      "answer": "Travels in radial groove of humerus, divides near lateral elbow into superficial sensory and deep motor branches; superficial branch reaches dorsolateral hand.",
+      "tags": [
+        "Course",
+        "Nerve",
+        "ArteriesAndNerves",
+        "NS13"
+      ],
+      "sourceLine": 244,
+      "section": "Arteries and nerves",
+      "label": "7"
+    },
+    {
+      "id": "hand-model-ns13-245",
+      "path": [
+        "7"
+      ],
+      "question": "Motor functions",
+      "answer": "Supplies extensor muscles of arm and forearm through radial/deep branch/posterior interosseous nerve; no intrinsic hand muscles are supplied.",
+      "tags": [
+        "Motor",
+        "Nerve",
+        "ArteriesAndNerves",
+        "NS13"
+      ],
+      "sourceLine": 245,
+      "section": "Arteries and nerves",
+      "label": "7"
+    },
+    {
+      "id": "hand-model-ns13-246",
+      "path": [
+        "7"
+      ],
+      "question": "Sensory functions",
+      "answer": "Superficial radial branch supplies dorsolateral hand and proximal dorsal portions of lateral 3½ digits, excluding fingertips.",
+      "tags": [
+        "Sensory",
+        "Nerve",
+        "ArteriesAndNerves",
+        "NS13"
+      ],
+      "sourceLine": 246,
+      "section": "Arteries and nerves",
+      "label": "7"
+    },
+    {
+      "id": "hand-model-ns13-247",
+      "path": [
+        "7"
+      ],
+      "question": "Lesion",
+      "answer": "Proximal radial nerve injury may cause wrist drop with weakness of wrist/finger extension and sensory loss over dorsolateral hand; an isolated superficial branch lesion causes sensory symptoms without motor weakness.",
+      "tags": [
+        "Lesion",
+        "Nerve",
+        "ArteriesAndNerves",
+        "NS13"
+      ],
+      "sourceLine": 247,
+      "section": "Arteries and nerves",
+      "label": "7"
+    },
+    {
+      "id": "hand-model-ns13-250",
+      "path": [
+        "8"
+      ],
+      "question": "Identification",
+      "answer": "Median nerve",
+      "tags": [
+        "Identification",
+        "Nerve",
+        "ArteriesAndNerves",
+        "NS13"
+      ],
+      "sourceLine": 250,
+      "section": "Arteries and nerves",
+      "label": "8"
+    },
+    {
+      "id": "hand-model-ns13-251",
+      "path": [
+        "8"
+      ],
+      "question": "Roots",
+      "answer": "C6–T1, formed by lateral and medial roots from lateral and medial cords of the brachial plexus.",
+      "tags": [
+        "Roots",
+        "Nerve",
+        "ArteriesAndNerves",
+        "NS13"
+      ],
+      "sourceLine": 251,
+      "section": "Arteries and nerves",
+      "label": "8"
+    },
+    {
+      "id": "hand-model-ns13-252",
+      "path": [
+        "8"
+      ],
+      "question": "Course",
+      "answer": "Descends forearm and enters the hand through the carpal tunnel beneath the flexor retinaculum.",
+      "tags": [
+        "Course",
+        "Nerve",
+        "ArteriesAndNerves",
+        "NS13"
+      ],
+      "sourceLine": 252,
+      "section": "Arteries and nerves",
+      "label": "8"
+    },
+    {
+      "id": "hand-model-ns13-253",
+      "path": [
+        "8"
+      ],
+      "question": "Motor functions",
+      "answer": "In the hand supplies thenar muscles via recurrent branch and lateral two lumbricals.",
+      "tags": [
+        "Motor",
+        "Nerve",
+        "ArteriesAndNerves",
+        "NS13"
+      ],
+      "sourceLine": 253,
+      "section": "Arteries and nerves",
+      "label": "8"
+    },
+    {
+      "id": "hand-model-ns13-254",
+      "path": [
+        "8"
+      ],
+      "question": "Sensory functions",
+      "answer": "Supplies palmar surface of lateral 3½ digits and their nail beds/distal dorsal surfaces, plus lateral palm via palmar cutaneous branch.",
+      "tags": [
+        "Sensory",
+        "Nerve",
+        "ArteriesAndNerves",
+        "NS13"
+      ],
+      "sourceLine": 254,
+      "section": "Arteries and nerves",
+      "label": "8"
+    },
+    {
+      "id": "hand-model-ns13-255",
+      "path": [
+        "8"
+      ],
+      "question": "Lesion",
+      "answer": "At the wrist causes thenar weakness/atrophy with impaired thumb opposition and sensory loss or paraesthesia in lateral 3½ digits; carpal tunnel syndrome typically spares central palm sensation because the palmar cutaneous branch passes superficial to the retinaculum.",
+      "tags": [
+        "Lesion",
+        "Nerve",
+        "ArteriesAndNerves",
+        "NS13"
+      ],
+      "sourceLine": 255,
+      "section": "Arteries and nerves",
+      "label": "8"
+    }
+  ]
+}

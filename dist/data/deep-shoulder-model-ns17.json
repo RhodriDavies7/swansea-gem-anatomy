@@ -1,0 +1,1414 @@
+{
+  "id": "deep-shoulder-model-ns17",
+  "name": "Deep Shoulder (Model NS17)",
+  "cards": [
+    {
+      "id": "deep-shoulder-model-ns17-2",
+      "path": [
+        "1"
+      ],
+      "question": "Identification",
+      "answer": "Scapula",
+      "tags": [
+        "Identification",
+        "Bone",
+        "NS17"
+      ],
+      "sourceLine": 2,
+      "section": "",
+      "label": "1"
+    },
+    {
+      "id": "deep-shoulder-model-ns17-3",
+      "path": [
+        "1"
+      ],
+      "question": "Articulations",
+      "answer": "Articulates with the humeral head at the glenohumeral joint and with the clavicle at the acromioclavicular joint.",
+      "tags": [
+        "Articulations",
+        "Bone",
+        "NS17"
+      ],
+      "sourceLine": 3,
+      "section": "",
+      "label": "1"
+    },
+    {
+      "id": "deep-shoulder-model-ns17-4",
+      "path": [
+        "1"
+      ],
+      "question": "Landmarks",
+      "answer": "Spine, acromion, coracoid process, glenoid cavity, supraglenoid and infraglenoid tubercles, supraspinous/infraspinous fossae, subscapular fossa, borders and angles.",
+      "tags": [
+        "Landmarks",
+        "Bone",
+        "NS17"
+      ],
+      "sourceLine": 4,
+      "section": "",
+      "label": "1"
+    },
+    {
+      "id": "deep-shoulder-model-ns17-5",
+      "path": [
+        "1"
+      ],
+      "question": "Muscle attachments",
+      "answer": "Rotator cuff muscles, deltoid, trapezius, biceps/triceps long heads, coracobrachialis, pectoralis minor, rhomboids, levator scapulae and teres muscles attach to the scapula.",
+      "tags": [
+        "Attachments",
+        "Bone",
+        "NS17"
+      ],
+      "sourceLine": 5,
+      "section": "",
+      "label": "1"
+    },
+    {
+      "id": "deep-shoulder-model-ns17-6",
+      "path": [
+        "1"
+      ],
+      "question": "Orientation",
+      "answer": "Glenoid faces laterally; spine is posterior; subscapular fossa is anterior; inferior angle points down.",
+      "tags": [
+        "Orientation",
+        "Bone",
+        "NS17"
+      ],
+      "sourceLine": 6,
+      "section": "",
+      "label": "1"
+    },
+    {
+      "id": "deep-shoulder-model-ns17-9",
+      "path": [
+        "2"
+      ],
+      "question": "Identification",
+      "answer": "Acromion (of scapula)",
+      "tags": [
+        "Identification",
+        "BonyLandmark",
+        "NS17"
+      ],
+      "sourceLine": 9,
+      "section": "",
+      "label": "2"
+    },
+    {
+      "id": "deep-shoulder-model-ns17-10",
+      "path": [
+        "2"
+      ],
+      "question": "Bone",
+      "answer": "Scapula.",
+      "tags": [
+        "Bone",
+        "BonyLandmark",
+        "NS17"
+      ],
+      "sourceLine": 10,
+      "section": "",
+      "label": "2"
+    },
+    {
+      "id": "deep-shoulder-model-ns17-11",
+      "path": [
+        "2"
+      ],
+      "question": "Attachments",
+      "answer": "Deltoid arises from its lateral border and trapezius inserts on its medial/superior aspect; acromioclavicular and coraco-acromial ligaments attach nearby.",
+      "tags": [
+        "Attachments",
+        "BonyLandmark",
+        "NS17"
+      ],
+      "sourceLine": 11,
+      "section": "",
+      "label": "2"
+    },
+    {
+      "id": "deep-shoulder-model-ns17-12",
+      "path": [
+        "2"
+      ],
+      "question": "Relations",
+      "answer": "Forms the summit of the shoulder and the roof over the glenohumeral joint/subacromial space.",
+      "tags": [
+        "Relations",
+        "BonyLandmark",
+        "NS17"
+      ],
+      "sourceLine": 12,
+      "section": "",
+      "label": "2"
+    },
+    {
+      "id": "deep-shoulder-model-ns17-13",
+      "path": [
+        "2"
+      ],
+      "question": "Clinical relevance",
+      "answer": "Subacromial impingement may involve structures passing beneath the acromion.",
+      "tags": [
+        "Clinical",
+        "BonyLandmark",
+        "NS17"
+      ],
+      "sourceLine": 13,
+      "section": "",
+      "label": "2"
+    },
+    {
+      "id": "deep-shoulder-model-ns17-16",
+      "path": [
+        "3"
+      ],
+      "question": "Identification",
+      "answer": "Spine of scapula",
+      "tags": [
+        "Identification",
+        "BonyLandmark",
+        "NS17"
+      ],
+      "sourceLine": 16,
+      "section": "",
+      "label": "3"
+    },
+    {
+      "id": "deep-shoulder-model-ns17-17",
+      "path": [
+        "3"
+      ],
+      "question": "Bone",
+      "answer": "Scapula.",
+      "tags": [
+        "Bone",
+        "BonyLandmark",
+        "NS17"
+      ],
+      "sourceLine": 17,
+      "section": "",
+      "label": "3"
+    },
+    {
+      "id": "deep-shoulder-model-ns17-18",
+      "path": [
+        "3"
+      ],
+      "question": "Attachments",
+      "answer": "Trapezius attaches to the superior lip and deltoid to the inferior lip.",
+      "tags": [
+        "Attachments",
+        "BonyLandmark",
+        "NS17"
+      ],
+      "sourceLine": 18,
+      "section": "",
+      "label": "3"
+    },
+    {
+      "id": "deep-shoulder-model-ns17-19",
+      "path": [
+        "3"
+      ],
+      "question": "Relations",
+      "answer": "Divides supraspinous and infraspinous fossae and expands laterally into the acromion.",
+      "tags": [
+        "Relations",
+        "BonyLandmark",
+        "NS17"
+      ],
+      "sourceLine": 19,
+      "section": "",
+      "label": "3"
+    },
+    {
+      "id": "deep-shoulder-model-ns17-20",
+      "path": [
+        "3"
+      ],
+      "question": "Clinical relevance",
+      "answer": "Palpable posterior landmark useful for orienting the scapula.",
+      "tags": [
+        "Clinical",
+        "BonyLandmark",
+        "NS17"
+      ],
+      "sourceLine": 20,
+      "section": "",
+      "label": "3"
+    },
+    {
+      "id": "deep-shoulder-model-ns17-23",
+      "path": [
+        "4"
+      ],
+      "question": "Identification",
+      "answer": "Coracoid process (of scapula)",
+      "tags": [
+        "Identification",
+        "BonyLandmark",
+        "NS17"
+      ],
+      "sourceLine": 23,
+      "section": "",
+      "label": "4"
+    },
+    {
+      "id": "deep-shoulder-model-ns17-24",
+      "path": [
+        "4"
+      ],
+      "question": "Bone",
+      "answer": "Scapula.",
+      "tags": [
+        "Bone",
+        "BonyLandmark",
+        "NS17"
+      ],
+      "sourceLine": 24,
+      "section": "",
+      "label": "4"
+    },
+    {
+      "id": "deep-shoulder-model-ns17-25",
+      "path": [
+        "4"
+      ],
+      "question": "Attachments",
+      "answer": "Short head of biceps and coracobrachialis arise from its tip; pectoralis minor inserts medially; coracoacromial, coracoclavicular and coracohumeral ligaments attach to it.",
+      "tags": [
+        "Attachments",
+        "BonyLandmark",
+        "NS17"
+      ],
+      "sourceLine": 25,
+      "section": "",
+      "label": "4"
+    },
+    {
+      "id": "deep-shoulder-model-ns17-26",
+      "path": [
+        "4"
+      ],
+      "question": "Relations",
+      "answer": "Projects anterolaterally above the glenoid and is palpable below the lateral clavicle.",
+      "tags": [
+        "Relations",
+        "BonyLandmark",
+        "NS17"
+      ],
+      "sourceLine": 26,
+      "section": "",
+      "label": "4"
+    },
+    {
+      "id": "deep-shoulder-model-ns17-27",
+      "path": [
+        "4"
+      ],
+      "question": "Clinical relevance",
+      "answer": "Important landmark in shoulder surgery and in stabilisation of the acromioclavicular complex.",
+      "tags": [
+        "Clinical",
+        "BonyLandmark",
+        "NS17"
+      ],
+      "sourceLine": 27,
+      "section": "",
+      "label": "4"
+    },
+    {
+      "id": "deep-shoulder-model-ns17-30",
+      "path": [
+        "5"
+      ],
+      "question": "Identification",
+      "answer": "Clavicle",
+      "tags": [
+        "Identification",
+        "Bone",
+        "NS17"
+      ],
+      "sourceLine": 30,
+      "section": "",
+      "label": "5"
+    },
+    {
+      "id": "deep-shoulder-model-ns17-31",
+      "path": [
+        "5"
+      ],
+      "question": "Articulations",
+      "answer": "Articulates medially with the manubrium and laterally with the acromion.",
+      "tags": [
+        "Articulations",
+        "Bone",
+        "NS17"
+      ],
+      "sourceLine": 31,
+      "section": "",
+      "label": "5"
+    },
+    {
+      "id": "deep-shoulder-model-ns17-32",
+      "path": [
+        "5"
+      ],
+      "question": "Landmarks",
+      "answer": "Sternal end, acromial end, conoid tubercle, trapezoid line, subclavian groove and impression for costoclavicular ligament.",
+      "tags": [
+        "Landmarks",
+        "Bone",
+        "NS17"
+      ],
+      "sourceLine": 32,
+      "section": "",
+      "label": "5"
+    },
+    {
+      "id": "deep-shoulder-model-ns17-33",
+      "path": [
+        "5"
+      ],
+      "question": "Muscle attachments",
+      "answer": "Pectoralis major, deltoid, trapezius, sternocleidomastoid and subclavius attach to the clavicle.",
+      "tags": [
+        "Attachments",
+        "Bone",
+        "NS17"
+      ],
+      "sourceLine": 33,
+      "section": "",
+      "label": "5"
+    },
+    {
+      "id": "deep-shoulder-model-ns17-34",
+      "path": [
+        "5"
+      ],
+      "question": "Orientation",
+      "answer": "Sternal end is bulky; acromial end is flattened; conoid tubercle lies inferoposteriorly near the lateral end.",
+      "tags": [
+        "Orientation",
+        "Bone",
+        "NS17"
+      ],
+      "sourceLine": 34,
+      "section": "",
+      "label": "5"
+    },
+    {
+      "id": "deep-shoulder-model-ns17-37",
+      "path": [
+        "6"
+      ],
+      "question": "Identification",
+      "answer": "Humerus",
+      "tags": [
+        "Identification",
+        "Bone",
+        "NS17"
+      ],
+      "sourceLine": 37,
+      "section": "",
+      "label": "6"
+    },
+    {
+      "id": "deep-shoulder-model-ns17-38",
+      "path": [
+        "6"
+      ],
+      "question": "Articulations",
+      "answer": "Articulates with the scapula proximally and with the radius and ulna distally.",
+      "tags": [
+        "Articulations",
+        "Bone",
+        "NS17"
+      ],
+      "sourceLine": 38,
+      "section": "",
+      "label": "6"
+    },
+    {
+      "id": "deep-shoulder-model-ns17-39",
+      "path": [
+        "6"
+      ],
+      "question": "Landmarks",
+      "answer": "Head, anatomical/surgical necks, greater/lesser tubercles, intertubercular sulcus, deltoid tuberosity, radial groove, condyles and epicondyles.",
+      "tags": [
+        "Landmarks",
+        "Bone",
+        "NS17"
+      ],
+      "sourceLine": 39,
+      "section": "",
+      "label": "6"
+    },
+    {
+      "id": "deep-shoulder-model-ns17-40",
+      "path": [
+        "6"
+      ],
+      "question": "Muscle attachments",
+      "answer": "Rotator cuff inserts around the tubercles; pectoralis major, latissimus dorsi and teres major attach around the intertubercular sulcus.",
+      "tags": [
+        "Attachments",
+        "Bone",
+        "NS17"
+      ],
+      "sourceLine": 40,
+      "section": "",
+      "label": "6"
+    },
+    {
+      "id": "deep-shoulder-model-ns17-41",
+      "path": [
+        "6"
+      ],
+      "question": "Orientation",
+      "answer": "Head faces medially, superiorly and slightly posteriorly; greater tubercle is lateral.",
+      "tags": [
+        "Orientation",
+        "Bone",
+        "NS17"
+      ],
+      "sourceLine": 41,
+      "section": "",
+      "label": "6"
+    },
+    {
+      "id": "deep-shoulder-model-ns17-44",
+      "path": [
+        "7"
+      ],
+      "question": "Identification",
+      "answer": "Glenohumeral ligament (thickening of joint capsule)",
+      "tags": [
+        "Identification",
+        "Ligament",
+        "NS17"
+      ],
+      "sourceLine": 44,
+      "section": "",
+      "label": "7"
+    },
+    {
+      "id": "deep-shoulder-model-ns17-45",
+      "path": [
+        "7"
+      ],
+      "question": "Attachments",
+      "answer": "Capsular thickenings extending from the glenoid/labrum region to the anatomical neck of the humerus.",
+      "tags": [
+        "Attachments",
+        "Ligament",
+        "NS17"
+      ],
+      "sourceLine": 45,
+      "section": "",
+      "label": "7"
+    },
+    {
+      "id": "deep-shoulder-model-ns17-46",
+      "path": [
+        "7"
+      ],
+      "question": "Parts",
+      "answer": "Superior, middle and inferior glenohumeral ligaments.",
+      "tags": [
+        "Parts",
+        "Ligament",
+        "NS17"
+      ],
+      "sourceLine": 46,
+      "section": "",
+      "label": "7"
+    },
+    {
+      "id": "deep-shoulder-model-ns17-47",
+      "path": [
+        "7"
+      ],
+      "question": "Function",
+      "answer": "Reinforces the anterior glenohumeral capsule and limits excessive translation depending on arm position.",
+      "tags": [
+        "Function",
+        "Ligament",
+        "NS17"
+      ],
+      "sourceLine": 47,
+      "section": "",
+      "label": "7"
+    },
+    {
+      "id": "deep-shoulder-model-ns17-48",
+      "path": [
+        "7"
+      ],
+      "question": "Clinical relevance",
+      "answer": "The inferior glenohumeral ligament complex is particularly important in resisting anterior dislocation.",
+      "tags": [
+        "Clinical",
+        "Ligament",
+        "NS17"
+      ],
+      "sourceLine": 48,
+      "section": "",
+      "label": "7"
+    },
+    {
+      "id": "deep-shoulder-model-ns17-51",
+      "path": [
+        "8"
+      ],
+      "question": "Identification",
+      "answer": "Coracohumeral ligament",
+      "tags": [
+        "Identification",
+        "Ligament",
+        "NS17"
+      ],
+      "sourceLine": 51,
+      "section": "",
+      "label": "8"
+    },
+    {
+      "id": "deep-shoulder-model-ns17-52",
+      "path": [
+        "8"
+      ],
+      "question": "Attachments",
+      "answer": "Extends from the lateral base of the coracoid process to the greater and lesser tubercle region of the humerus, blending with the capsule.",
+      "tags": [
+        "Attachments",
+        "Ligament",
+        "NS17"
+      ],
+      "sourceLine": 52,
+      "section": "",
+      "label": "8"
+    },
+    {
+      "id": "deep-shoulder-model-ns17-53",
+      "path": [
+        "8"
+      ],
+      "question": "Function",
+      "answer": "Reinforces the superior glenohumeral capsule and helps resist inferior translation of the humeral head.",
+      "tags": [
+        "Function",
+        "Ligament",
+        "NS17"
+      ],
+      "sourceLine": 53,
+      "section": "",
+      "label": "8"
+    },
+    {
+      "id": "deep-shoulder-model-ns17-54",
+      "path": [
+        "8"
+      ],
+      "question": "Relations",
+      "answer": "Lies superior to the glenohumeral joint and blends with rotator cuff/capsular fibres.",
+      "tags": [
+        "Relations",
+        "Ligament",
+        "NS17"
+      ],
+      "sourceLine": 54,
+      "section": "",
+      "label": "8"
+    },
+    {
+      "id": "deep-shoulder-model-ns17-57",
+      "path": [
+        "9"
+      ],
+      "question": "Identification",
+      "answer": "Coraco-acromial ligament",
+      "tags": [
+        "Identification",
+        "Ligament",
+        "NS17"
+      ],
+      "sourceLine": 57,
+      "section": "",
+      "label": "9"
+    },
+    {
+      "id": "deep-shoulder-model-ns17-58",
+      "path": [
+        "9"
+      ],
+      "question": "Attachments",
+      "answer": "Extends from the coracoid process to the acromion.",
+      "tags": [
+        "Attachments",
+        "Ligament",
+        "NS17"
+      ],
+      "sourceLine": 58,
+      "section": "",
+      "label": "9"
+    },
+    {
+      "id": "deep-shoulder-model-ns17-59",
+      "path": [
+        "9"
+      ],
+      "question": "Function",
+      "answer": "Forms the coracoacromial arch, limiting superior displacement of the humeral head.",
+      "tags": [
+        "Function",
+        "Ligament",
+        "NS17"
+      ],
+      "sourceLine": 59,
+      "section": "",
+      "label": "9"
+    },
+    {
+      "id": "deep-shoulder-model-ns17-60",
+      "path": [
+        "9"
+      ],
+      "question": "Relations",
+      "answer": "Forms the superior roof over the humeral head, subacromial bursa and supraspinatus tendon.",
+      "tags": [
+        "Relations",
+        "Ligament",
+        "NS17"
+      ],
+      "sourceLine": 60,
+      "section": "",
+      "label": "9"
+    },
+    {
+      "id": "deep-shoulder-model-ns17-61",
+      "path": [
+        "9"
+      ],
+      "question": "Clinical relevance",
+      "answer": "Can contribute to subacromial impingement.",
+      "tags": [
+        "Clinical",
+        "Ligament",
+        "NS17"
+      ],
+      "sourceLine": 61,
+      "section": "",
+      "label": "9"
+    },
+    {
+      "id": "deep-shoulder-model-ns17-64",
+      "path": [
+        "10"
+      ],
+      "question": "Identification",
+      "answer": "Conoid part of coracoclavicular ligament",
+      "tags": [
+        "Identification",
+        "Ligament",
+        "NS17"
+      ],
+      "sourceLine": 64,
+      "section": "",
+      "label": "10"
+    },
+    {
+      "id": "deep-shoulder-model-ns17-65",
+      "path": [
+        "10"
+      ],
+      "question": "Attachments",
+      "answer": "Extends from the base of the coracoid process to the conoid tubercle on the inferior clavicle.",
+      "tags": [
+        "Attachments",
+        "Ligament",
+        "NS17"
+      ],
+      "sourceLine": 65,
+      "section": "",
+      "label": "10"
+    },
+    {
+      "id": "deep-shoulder-model-ns17-66",
+      "path": [
+        "10"
+      ],
+      "question": "Function",
+      "answer": "Resists superior displacement of the clavicle and provides major vertical stability to the acromioclavicular joint.",
+      "tags": [
+        "Function",
+        "Ligament",
+        "NS17"
+      ],
+      "sourceLine": 66,
+      "section": "",
+      "label": "10"
+    },
+    {
+      "id": "deep-shoulder-model-ns17-67",
+      "path": [
+        "10"
+      ],
+      "question": "Relations",
+      "answer": "More medial and more vertically oriented than the trapezoid part.",
+      "tags": [
+        "Relations",
+        "Ligament",
+        "NS17"
+      ],
+      "sourceLine": 67,
+      "section": "",
+      "label": "10"
+    },
+    {
+      "id": "deep-shoulder-model-ns17-68",
+      "path": [
+        "10"
+      ],
+      "question": "Clinical relevance",
+      "answer": "Coracoclavicular ligament disruption is important in higher-grade acromioclavicular separations.",
+      "tags": [
+        "Clinical",
+        "Ligament",
+        "NS17"
+      ],
+      "sourceLine": 68,
+      "section": "",
+      "label": "10"
+    },
+    {
+      "id": "deep-shoulder-model-ns17-71",
+      "path": [
+        "11"
+      ],
+      "question": "Identification",
+      "answer": "Trapezoid part of coracoclavicular ligament",
+      "tags": [
+        "Identification",
+        "Ligament",
+        "NS17"
+      ],
+      "sourceLine": 71,
+      "section": "",
+      "label": "11"
+    },
+    {
+      "id": "deep-shoulder-model-ns17-72",
+      "path": [
+        "11"
+      ],
+      "question": "Attachments",
+      "answer": "Extends from the superior surface of the coracoid process to the trapezoid line on the inferior clavicle.",
+      "tags": [
+        "Attachments",
+        "Ligament",
+        "NS17"
+      ],
+      "sourceLine": 72,
+      "section": "",
+      "label": "11"
+    },
+    {
+      "id": "deep-shoulder-model-ns17-73",
+      "path": [
+        "11"
+      ],
+      "question": "Function",
+      "answer": "Stabilises the acromioclavicular joint and resists medial displacement/compression of the scapula relative to the clavicle.",
+      "tags": [
+        "Function",
+        "Ligament",
+        "NS17"
+      ],
+      "sourceLine": 73,
+      "section": "",
+      "label": "11"
+    },
+    {
+      "id": "deep-shoulder-model-ns17-74",
+      "path": [
+        "11"
+      ],
+      "question": "Relations",
+      "answer": "More lateral and more oblique/horizontal than the conoid part.",
+      "tags": [
+        "Relations",
+        "Ligament",
+        "NS17"
+      ],
+      "sourceLine": 74,
+      "section": "",
+      "label": "11"
+    },
+    {
+      "id": "deep-shoulder-model-ns17-77",
+      "path": [
+        "12"
+      ],
+      "question": "Identification",
+      "answer": "Subscapularis muscle",
+      "tags": [
+        "Identification",
+        "Muscle",
+        "NS17"
+      ],
+      "sourceLine": 77,
+      "section": "",
+      "label": "12"
+    },
+    {
+      "id": "deep-shoulder-model-ns17-78",
+      "path": [
+        "12"
+      ],
+      "question": "Actions",
+      "answer": "Medially rotates and adducts the arm and stabilises the humeral head in the glenoid.",
+      "tags": [
+        "Action",
+        "Muscle",
+        "NS17"
+      ],
+      "sourceLine": 78,
+      "section": "",
+      "label": "12"
+    },
+    {
+      "id": "deep-shoulder-model-ns17-79",
+      "path": [
+        "12"
+      ],
+      "question": "Innervation",
+      "answer": "Upper and lower subscapular nerves (C5–C7).",
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "NS17"
+      ],
+      "sourceLine": 79,
+      "section": "",
+      "label": "12"
+    },
+    {
+      "id": "deep-shoulder-model-ns17-80",
+      "path": [
+        "12"
+      ],
+      "question": "Origin",
+      "answer": "Subscapular fossa of scapula.",
+      "tags": [
+        "Origin",
+        "Muscle",
+        "NS17"
+      ],
+      "sourceLine": 80,
+      "section": "",
+      "label": "12"
+    },
+    {
+      "id": "deep-shoulder-model-ns17-81",
+      "path": [
+        "12"
+      ],
+      "question": "Insertion",
+      "answer": "Lesser tubercle of humerus and anterior shoulder joint capsule.",
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "NS17"
+      ],
+      "sourceLine": 81,
+      "section": "",
+      "label": "12"
+    },
+    {
+      "id": "deep-shoulder-model-ns17-84",
+      "path": [
+        "13"
+      ],
+      "question": "Identification",
+      "answer": "Long head of biceps brachii",
+      "tags": [
+        "Identification",
+        "Muscle",
+        "NS17"
+      ],
+      "sourceLine": 84,
+      "section": "",
+      "label": "13"
+    },
+    {
+      "id": "deep-shoulder-model-ns17-85",
+      "path": [
+        "13"
+      ],
+      "question": "Actions",
+      "answer": "Supinates the forearm and flexes the elbow; assists shoulder flexion and helps stabilise the humeral head.",
+      "tags": [
+        "Action",
+        "Muscle",
+        "NS17"
+      ],
+      "sourceLine": 85,
+      "section": "",
+      "label": "13"
+    },
+    {
+      "id": "deep-shoulder-model-ns17-86",
+      "path": [
+        "13"
+      ],
+      "question": "Innervation",
+      "answer": "Musculocutaneous nerve (C5–C6).",
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "NS17"
+      ],
+      "sourceLine": 86,
+      "section": "",
+      "label": "13"
+    },
+    {
+      "id": "deep-shoulder-model-ns17-87",
+      "path": [
+        "13"
+      ],
+      "question": "Origin",
+      "answer": "Supraglenoid tubercle of scapula and adjacent superior glenoid labrum.",
+      "tags": [
+        "Origin",
+        "Muscle",
+        "NS17"
+      ],
+      "sourceLine": 87,
+      "section": "",
+      "label": "13"
+    },
+    {
+      "id": "deep-shoulder-model-ns17-88",
+      "path": [
+        "13"
+      ],
+      "question": "Course",
+      "answer": "Tendon passes intra-articularly but extrasynovially across the humeral head and then through the intertubercular sulcus.",
+      "tags": [
+        "Course",
+        "Muscle",
+        "NS17"
+      ],
+      "sourceLine": 88,
+      "section": "",
+      "label": "13"
+    },
+    {
+      "id": "deep-shoulder-model-ns17-89",
+      "path": [
+        "13"
+      ],
+      "question": "Insertion",
+      "answer": "Radial tuberosity and forearm fascia via the bicipital aponeurosis.",
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "NS17"
+      ],
+      "sourceLine": 89,
+      "section": "",
+      "label": "13"
+    },
+    {
+      "id": "deep-shoulder-model-ns17-92",
+      "path": [
+        "14"
+      ],
+      "question": "Identification",
+      "answer": "Supraspinatus muscle",
+      "tags": [
+        "Identification",
+        "Muscle",
+        "NS17"
+      ],
+      "sourceLine": 92,
+      "section": "",
+      "label": "14"
+    },
+    {
+      "id": "deep-shoulder-model-ns17-93",
+      "path": [
+        "14"
+      ],
+      "question": "Actions",
+      "answer": "Initiates the first ~15° of arm abduction and stabilises the humeral head in the glenoid.",
+      "tags": [
+        "Action",
+        "Muscle",
+        "NS17"
+      ],
+      "sourceLine": 93,
+      "section": "",
+      "label": "14"
+    },
+    {
+      "id": "deep-shoulder-model-ns17-94",
+      "path": [
+        "14"
+      ],
+      "question": "Innervation",
+      "answer": "Suprascapular nerve (C5–C6).",
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "NS17"
+      ],
+      "sourceLine": 94,
+      "section": "",
+      "label": "14"
+    },
+    {
+      "id": "deep-shoulder-model-ns17-95",
+      "path": [
+        "14"
+      ],
+      "question": "Origin",
+      "answer": "Supraspinous fossa of scapula and overlying fascia.",
+      "tags": [
+        "Origin",
+        "Muscle",
+        "NS17"
+      ],
+      "sourceLine": 95,
+      "section": "",
+      "label": "14"
+    },
+    {
+      "id": "deep-shoulder-model-ns17-96",
+      "path": [
+        "14"
+      ],
+      "question": "Insertion",
+      "answer": "Superior facet of greater tubercle of humerus and shoulder joint capsule.",
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "NS17"
+      ],
+      "sourceLine": 96,
+      "section": "",
+      "label": "14"
+    },
+    {
+      "id": "deep-shoulder-model-ns17-99",
+      "path": [
+        "15"
+      ],
+      "question": "Identification",
+      "answer": "Infraspinatus muscle",
+      "tags": [
+        "Identification",
+        "Muscle",
+        "NS17"
+      ],
+      "sourceLine": 99,
+      "section": "",
+      "label": "15"
+    },
+    {
+      "id": "deep-shoulder-model-ns17-100",
+      "path": [
+        "15"
+      ],
+      "question": "Actions",
+      "answer": "Laterally rotates the arm and stabilises the humeral head in the glenoid.",
+      "tags": [
+        "Action",
+        "Muscle",
+        "NS17"
+      ],
+      "sourceLine": 100,
+      "section": "",
+      "label": "15"
+    },
+    {
+      "id": "deep-shoulder-model-ns17-101",
+      "path": [
+        "15"
+      ],
+      "question": "Innervation",
+      "answer": "Suprascapular nerve (C5–C6).",
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "NS17"
+      ],
+      "sourceLine": 101,
+      "section": "",
+      "label": "15"
+    },
+    {
+      "id": "deep-shoulder-model-ns17-102",
+      "path": [
+        "15"
+      ],
+      "question": "Origin",
+      "answer": "Infraspinous fossa of scapula and overlying fascia.",
+      "tags": [
+        "Origin",
+        "Muscle",
+        "NS17"
+      ],
+      "sourceLine": 102,
+      "section": "",
+      "label": "15"
+    },
+    {
+      "id": "deep-shoulder-model-ns17-103",
+      "path": [
+        "15"
+      ],
+      "question": "Insertion",
+      "answer": "Middle facet of greater tubercle of humerus and shoulder joint capsule.",
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "NS17"
+      ],
+      "sourceLine": 103,
+      "section": "",
+      "label": "15"
+    },
+    {
+      "id": "deep-shoulder-model-ns17-106",
+      "path": [
+        "16"
+      ],
+      "question": "Identification",
+      "answer": "Subacromial bursa",
+      "tags": [
+        "Identification",
+        "Bursa",
+        "NS17"
+      ],
+      "sourceLine": 106,
+      "section": "",
+      "label": "16"
+    },
+    {
+      "id": "deep-shoulder-model-ns17-107",
+      "path": [
+        "16"
+      ],
+      "question": "Location",
+      "answer": "Between the supraspinatus tendon/deltoid and the acromion-coracoacromial arch.",
+      "tags": [
+        "Location",
+        "Bursa",
+        "NS17"
+      ],
+      "sourceLine": 107,
+      "section": "",
+      "label": "16"
+    },
+    {
+      "id": "deep-shoulder-model-ns17-108",
+      "path": [
+        "16"
+      ],
+      "question": "Function",
+      "answer": "Reduces friction during movement of the rotator cuff and deltoid beneath the coracoacromial arch.",
+      "tags": [
+        "Function",
+        "Bursa",
+        "NS17"
+      ],
+      "sourceLine": 108,
+      "section": "",
+      "label": "16"
+    },
+    {
+      "id": "deep-shoulder-model-ns17-109",
+      "path": [
+        "16"
+      ],
+      "question": "Relations",
+      "answer": "Closely related to the supraspinatus tendon and subdeltoid region; usually does not communicate with the glenohumeral joint.",
+      "tags": [
+        "Relations",
+        "Bursa",
+        "NS17"
+      ],
+      "sourceLine": 109,
+      "section": "",
+      "label": "16"
+    },
+    {
+      "id": "deep-shoulder-model-ns17-110",
+      "path": [
+        "16"
+      ],
+      "question": "Clinical relevance",
+      "answer": "Inflammation causes painful arc symptoms and may accompany rotator cuff impingement.",
+      "tags": [
+        "Clinical",
+        "Bursa",
+        "NS17"
+      ],
+      "sourceLine": 110,
+      "section": "",
+      "label": "16"
+    },
+    {
+      "id": "deep-shoulder-model-ns17-113",
+      "path": [
+        "17"
+      ],
+      "question": "Identification",
+      "answer": "Subcoracoid bursa",
+      "tags": [
+        "Identification",
+        "Bursa",
+        "NS17"
+      ],
+      "sourceLine": 113,
+      "section": "",
+      "label": "17"
+    },
+    {
+      "id": "deep-shoulder-model-ns17-114",
+      "path": [
+        "17"
+      ],
+      "question": "Location",
+      "answer": "Lies beneath the coracoid process, between it and adjacent subscapularis/capsular structures.",
+      "tags": [
+        "Location",
+        "Bursa",
+        "NS17"
+      ],
+      "sourceLine": 114,
+      "section": "",
+      "label": "17"
+    },
+    {
+      "id": "deep-shoulder-model-ns17-115",
+      "path": [
+        "17"
+      ],
+      "question": "Function",
+      "answer": "Reduces friction between structures moving beneath the coracoid process.",
+      "tags": [
+        "Function",
+        "Bursa",
+        "NS17"
+      ],
+      "sourceLine": 115,
+      "section": "",
+      "label": "17"
+    },
+    {
+      "id": "deep-shoulder-model-ns17-116",
+      "path": [
+        "17"
+      ],
+      "question": "Relations",
+      "answer": "Related to the subscapularis tendon and anterior shoulder capsule; may communicate variably with nearby bursae or joint recesses.",
+      "tags": [
+        "Relations",
+        "Bursa",
+        "NS17"
+      ],
+      "sourceLine": 116,
+      "section": "",
+      "label": "17"
+    },
+    {
+      "id": "deep-shoulder-model-ns17-117",
+      "path": [
+        "17"
+      ],
+      "question": "Clinical relevance",
+      "answer": "Can become inflamed and contribute to anterior shoulder pain.",
+      "tags": [
+        "Clinical",
+        "Bursa",
+        "NS17"
+      ],
+      "sourceLine": 117,
+      "section": "",
+      "label": "17"
+    },
+    {
+      "id": "deep-shoulder-model-ns17-120",
+      "path": [
+        "18"
+      ],
+      "question": "Identification",
+      "answer": "Bursa between heads of teres major and latissimus dorsi",
+      "tags": [
+        "Identification",
+        "Bursa",
+        "NS17"
+      ],
+      "sourceLine": 120,
+      "section": "",
+      "label": "18"
+    },
+    {
+      "id": "deep-shoulder-model-ns17-121",
+      "path": [
+        "18"
+      ],
+      "question": "Location",
+      "answer": "Lies between the adjacent tendinous/muscular portions of teres major and latissimus dorsi near their humeral insertions.",
+      "tags": [
+        "Location",
+        "Bursa",
+        "NS17"
+      ],
+      "sourceLine": 121,
+      "section": "",
+      "label": "18"
+    },
+    {
+      "id": "deep-shoulder-model-ns17-122",
+      "path": [
+        "18"
+      ],
+      "question": "Function",
+      "answer": "Reduces friction between teres major and latissimus dorsi during shoulder movement.",
+      "tags": [
+        "Function",
+        "Bursa",
+        "NS17"
+      ],
+      "sourceLine": 122,
+      "section": "",
+      "label": "18"
+    },
+    {
+      "id": "deep-shoulder-model-ns17-123",
+      "path": [
+        "18"
+      ],
+      "question": "Relations",
+      "answer": "Located near the medial and floor regions of the intertubercular sulcus where teres major and latissimus dorsi insert.",
+      "tags": [
+        "Relations",
+        "Bursa",
+        "NS17"
+      ],
+      "sourceLine": 123,
+      "section": "",
+      "label": "18"
+    }
+  ]
+}

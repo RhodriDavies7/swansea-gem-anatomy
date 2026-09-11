@@ -1,0 +1,1383 @@
+{
+  "id": "stomach-model-ns15",
+  "name": "Stomach (Model NS15)",
+  "cards": [
+    {
+      "id": "stomach-model-ns15-3",
+      "path": [
+        "1"
+      ],
+      "question": "Identification",
+      "answer": "Cardiac orifice",
+      "tags": [
+        "Identification",
+        "Opening",
+        "RegionsAndLandmarks",
+        "JS4"
+      ],
+      "sourceLine": 3,
+      "section": "Regions and external landmarks",
+      "label": "1"
+    },
+    {
+      "id": "stomach-model-ns15-4",
+      "path": [
+        "1"
+      ],
+      "question": "Location",
+      "answer": "Opening where the oesophagus enters the stomach at the gastro-oesophageal junction.",
+      "tags": [
+        "Location",
+        "Opening",
+        "RegionsAndLandmarks",
+        "JS4"
+      ],
+      "sourceLine": 4,
+      "section": "Regions and external landmarks",
+      "label": "1"
+    },
+    {
+      "id": "stomach-model-ns15-5",
+      "path": [
+        "1"
+      ],
+      "question": "Function",
+      "answer": "Allows passage of swallowed material from oesophagus into stomach.",
+      "tags": [
+        "Function",
+        "Opening",
+        "RegionsAndLandmarks",
+        "JS4"
+      ],
+      "sourceLine": 5,
+      "section": "Regions and external landmarks",
+      "label": "1"
+    },
+    {
+      "id": "stomach-model-ns15-6",
+      "path": [
+        "1"
+      ],
+      "question": "Relations",
+      "answer": "Near the cardia and physiological lower oesophageal sphincter region.",
+      "tags": [
+        "Relations",
+        "Opening",
+        "RegionsAndLandmarks",
+        "JS4"
+      ],
+      "sourceLine": 6,
+      "section": "Regions and external landmarks",
+      "label": "1"
+    },
+    {
+      "id": "stomach-model-ns15-9",
+      "path": [
+        "2"
+      ],
+      "question": "Identification",
+      "answer": "Fundus",
+      "tags": [
+        "Identification",
+        "StomachRegion",
+        "RegionsAndLandmarks",
+        "JS4"
+      ],
+      "sourceLine": 9,
+      "section": "Regions and external landmarks",
+      "label": "2"
+    },
+    {
+      "id": "stomach-model-ns15-10",
+      "path": [
+        "2"
+      ],
+      "question": "Location",
+      "answer": "Dome-shaped part of the stomach superior to the cardiac orifice.",
+      "tags": [
+        "Location",
+        "StomachRegion",
+        "RegionsAndLandmarks",
+        "JS4"
+      ],
+      "sourceLine": 10,
+      "section": "Regions and external landmarks",
+      "label": "2"
+    },
+    {
+      "id": "stomach-model-ns15-11",
+      "path": [
+        "2"
+      ],
+      "question": "Relations",
+      "answer": "Lies beneath the left dome of the diaphragm.",
+      "tags": [
+        "Relations",
+        "StomachRegion",
+        "RegionsAndLandmarks",
+        "JS4"
+      ],
+      "sourceLine": 11,
+      "section": "Regions and external landmarks",
+      "label": "2"
+    },
+    {
+      "id": "stomach-model-ns15-12",
+      "path": [
+        "2"
+      ],
+      "question": "Function",
+      "answer": "Acts as a reservoir and accommodates swallowed material and gas.",
+      "tags": [
+        "Function",
+        "StomachRegion",
+        "RegionsAndLandmarks",
+        "JS4"
+      ],
+      "sourceLine": 12,
+      "section": "Regions and external landmarks",
+      "label": "2"
+    },
+    {
+      "id": "stomach-model-ns15-15",
+      "path": [
+        "3"
+      ],
+      "question": "Identification",
+      "answer": "Lesser curvature",
+      "tags": [
+        "Identification",
+        "StomachLandmark",
+        "RegionsAndLandmarks",
+        "JS4"
+      ],
+      "sourceLine": 15,
+      "section": "Regions and external landmarks",
+      "label": "3"
+    },
+    {
+      "id": "stomach-model-ns15-16",
+      "path": [
+        "3"
+      ],
+      "question": "Location",
+      "answer": "Short, concave medial border of the stomach.",
+      "tags": [
+        "Location",
+        "StomachLandmark",
+        "RegionsAndLandmarks",
+        "JS4"
+      ],
+      "sourceLine": 16,
+      "section": "Regions and external landmarks",
+      "label": "3"
+    },
+    {
+      "id": "stomach-model-ns15-17",
+      "path": [
+        "3"
+      ],
+      "question": "Attachments",
+      "answer": "Gives attachment to the lesser omentum.",
+      "tags": [
+        "Attachments",
+        "StomachLandmark",
+        "RegionsAndLandmarks",
+        "JS4"
+      ],
+      "sourceLine": 17,
+      "section": "Regions and external landmarks",
+      "label": "3"
+    },
+    {
+      "id": "stomach-model-ns15-18",
+      "path": [
+        "3"
+      ],
+      "question": "Vessels",
+      "answer": "Left and right gastric arteries run along it.",
+      "tags": [
+        "BloodSupply",
+        "StomachLandmark",
+        "RegionsAndLandmarks",
+        "JS4"
+      ],
+      "sourceLine": 18,
+      "section": "Regions and external landmarks",
+      "label": "3"
+    },
+    {
+      "id": "stomach-model-ns15-21",
+      "path": [
+        "4"
+      ],
+      "question": "Identification",
+      "answer": "Greater curvature",
+      "tags": [
+        "Identification",
+        "StomachLandmark",
+        "RegionsAndLandmarks",
+        "JS4"
+      ],
+      "sourceLine": 21,
+      "section": "Regions and external landmarks",
+      "label": "4"
+    },
+    {
+      "id": "stomach-model-ns15-22",
+      "path": [
+        "4"
+      ],
+      "question": "Location",
+      "answer": "Long, convex lateral/inferior border of the stomach.",
+      "tags": [
+        "Location",
+        "StomachLandmark",
+        "RegionsAndLandmarks",
+        "JS4"
+      ],
+      "sourceLine": 22,
+      "section": "Regions and external landmarks",
+      "label": "4"
+    },
+    {
+      "id": "stomach-model-ns15-23",
+      "path": [
+        "4"
+      ],
+      "question": "Attachments",
+      "answer": "Gives attachment to greater omentum and gastrosplenic/gastrophrenic ligaments.",
+      "tags": [
+        "Attachments",
+        "StomachLandmark",
+        "RegionsAndLandmarks",
+        "JS4"
+      ],
+      "sourceLine": 23,
+      "section": "Regions and external landmarks",
+      "label": "4"
+    },
+    {
+      "id": "stomach-model-ns15-24",
+      "path": [
+        "4"
+      ],
+      "question": "Vessels",
+      "answer": "Left and right gastro-omental arteries run along it.",
+      "tags": [
+        "BloodSupply",
+        "StomachLandmark",
+        "RegionsAndLandmarks",
+        "JS4"
+      ],
+      "sourceLine": 24,
+      "section": "Regions and external landmarks",
+      "label": "4"
+    },
+    {
+      "id": "stomach-model-ns15-27",
+      "path": [
+        "5"
+      ],
+      "question": "Identification",
+      "answer": "Pylorus",
+      "tags": [
+        "Identification",
+        "StomachRegion",
+        "RegionsAndLandmarks",
+        "JS4"
+      ],
+      "sourceLine": 27,
+      "section": "Regions and external landmarks",
+      "label": "5"
+    },
+    {
+      "id": "stomach-model-ns15-28",
+      "path": [
+        "5"
+      ],
+      "question": "Location",
+      "answer": "Distal region of stomach leading to first part of duodenum.",
+      "tags": [
+        "Location",
+        "StomachRegion",
+        "RegionsAndLandmarks",
+        "JS4"
+      ],
+      "sourceLine": 28,
+      "section": "Regions and external landmarks",
+      "label": "5"
+    },
+    {
+      "id": "stomach-model-ns15-29",
+      "path": [
+        "5"
+      ],
+      "question": "Parts",
+      "answer": "Includes pyloric antrum, pyloric canal and pyloric sphincter.",
+      "tags": [
+        "Parts",
+        "StomachRegion",
+        "RegionsAndLandmarks",
+        "JS4"
+      ],
+      "sourceLine": 29,
+      "section": "Regions and external landmarks",
+      "label": "5"
+    },
+    {
+      "id": "stomach-model-ns15-30",
+      "path": [
+        "5"
+      ],
+      "question": "Function",
+      "answer": "Regulates gastric emptying into the duodenum.",
+      "tags": [
+        "Function",
+        "StomachRegion",
+        "RegionsAndLandmarks",
+        "JS4"
+      ],
+      "sourceLine": 30,
+      "section": "Regions and external landmarks",
+      "label": "5"
+    },
+    {
+      "id": "stomach-model-ns15-34",
+      "path": [
+        "6"
+      ],
+      "question": "Identification",
+      "answer": "Tunica muscularis",
+      "tags": [
+        "Identification",
+        "MuscleLayer",
+        "GastricWall",
+        "JS4"
+      ],
+      "sourceLine": 34,
+      "section": "Gastric wall and muscle layers",
+      "label": "6"
+    },
+    {
+      "id": "stomach-model-ns15-35",
+      "path": [
+        "6"
+      ],
+      "question": "Layers",
+      "answer": "Outer longitudinal, middle circular and inner oblique smooth muscle layers.",
+      "tags": [
+        "Layers",
+        "MuscleLayer",
+        "GastricWall",
+        "JS4"
+      ],
+      "sourceLine": 35,
+      "section": "Gastric wall and muscle layers",
+      "label": "6"
+    },
+    {
+      "id": "stomach-model-ns15-36",
+      "path": [
+        "6"
+      ],
+      "question": "Function",
+      "answer": "Mixes and propels gastric contents by peristaltic contractions.",
+      "tags": [
+        "Function",
+        "MuscleLayer",
+        "GastricWall",
+        "JS4"
+      ],
+      "sourceLine": 36,
+      "section": "Gastric wall and muscle layers",
+      "label": "6"
+    },
+    {
+      "id": "stomach-model-ns15-39",
+      "path": [
+        "7"
+      ],
+      "question": "Identification",
+      "answer": "Longitudinal muscle fibres",
+      "tags": [
+        "Identification",
+        "MuscleLayer",
+        "GastricWall",
+        "JS4"
+      ],
+      "sourceLine": 39,
+      "section": "Gastric wall and muscle layers",
+      "label": "7"
+    },
+    {
+      "id": "stomach-model-ns15-40",
+      "path": [
+        "7"
+      ],
+      "question": "Location",
+      "answer": "Outermost layer of the muscularis externa.",
+      "tags": [
+        "Location",
+        "MuscleLayer",
+        "GastricWall",
+        "JS4"
+      ],
+      "sourceLine": 40,
+      "section": "Gastric wall and muscle layers",
+      "label": "7"
+    },
+    {
+      "id": "stomach-model-ns15-41",
+      "path": [
+        "7"
+      ],
+      "question": "Function",
+      "answer": "Shortens the stomach wall and contributes to peristalsis.",
+      "tags": [
+        "Function",
+        "MuscleLayer",
+        "GastricWall",
+        "JS4"
+      ],
+      "sourceLine": 41,
+      "section": "Gastric wall and muscle layers",
+      "label": "7"
+    },
+    {
+      "id": "stomach-model-ns15-44",
+      "path": [
+        "8"
+      ],
+      "question": "Identification",
+      "answer": "Circular muscular fibres",
+      "tags": [
+        "Identification",
+        "MuscleLayer",
+        "GastricWall",
+        "JS4"
+      ],
+      "sourceLine": 44,
+      "section": "Gastric wall and muscle layers",
+      "label": "8"
+    },
+    {
+      "id": "stomach-model-ns15-45",
+      "path": [
+        "8"
+      ],
+      "question": "Location",
+      "answer": "Middle layer of the muscularis externa.",
+      "tags": [
+        "Location",
+        "MuscleLayer",
+        "GastricWall",
+        "JS4"
+      ],
+      "sourceLine": 45,
+      "section": "Gastric wall and muscle layers",
+      "label": "8"
+    },
+    {
+      "id": "stomach-model-ns15-46",
+      "path": [
+        "8"
+      ],
+      "question": "Function",
+      "answer": "Constricts the stomach lumen during mixing and peristalsis.",
+      "tags": [
+        "Function",
+        "MuscleLayer",
+        "GastricWall",
+        "JS4"
+      ],
+      "sourceLine": 46,
+      "section": "Gastric wall and muscle layers",
+      "label": "8"
+    },
+    {
+      "id": "stomach-model-ns15-47",
+      "path": [
+        "8"
+      ],
+      "question": "Specialisation",
+      "answer": "Thickens distally to form the pyloric sphincter.",
+      "tags": [
+        "Structure",
+        "MuscleLayer",
+        "GastricWall",
+        "JS4"
+      ],
+      "sourceLine": 47,
+      "section": "Gastric wall and muscle layers",
+      "label": "8"
+    },
+    {
+      "id": "stomach-model-ns15-50",
+      "path": [
+        "9"
+      ],
+      "question": "Identification",
+      "answer": "Oblique muscular fibres",
+      "tags": [
+        "Identification",
+        "MuscleLayer",
+        "GastricWall",
+        "JS4"
+      ],
+      "sourceLine": 50,
+      "section": "Gastric wall and muscle layers",
+      "label": "9"
+    },
+    {
+      "id": "stomach-model-ns15-51",
+      "path": [
+        "9"
+      ],
+      "question": "Location",
+      "answer": "Innermost muscle layer, most prominent in the body/fundus.",
+      "tags": [
+        "Location",
+        "MuscleLayer",
+        "GastricWall",
+        "JS4"
+      ],
+      "sourceLine": 51,
+      "section": "Gastric wall and muscle layers",
+      "label": "9"
+    },
+    {
+      "id": "stomach-model-ns15-52",
+      "path": [
+        "9"
+      ],
+      "question": "Function",
+      "answer": "Adds powerful churning and mixing movements unique to the stomach.",
+      "tags": [
+        "Function",
+        "MuscleLayer",
+        "GastricWall",
+        "JS4"
+      ],
+      "sourceLine": 52,
+      "section": "Gastric wall and muscle layers",
+      "label": "9"
+    },
+    {
+      "id": "stomach-model-ns15-55",
+      "path": [
+        "10"
+      ],
+      "question": "Identification",
+      "answer": "Peritoneum",
+      "tags": [
+        "Identification",
+        "Serosa",
+        "GastricWall",
+        "JS4"
+      ],
+      "sourceLine": 55,
+      "section": "Gastric wall and muscle layers",
+      "label": "10"
+    },
+    {
+      "id": "stomach-model-ns15-56",
+      "path": [
+        "10"
+      ],
+      "question": "Structure",
+      "answer": "Visceral peritoneum forms the serosal covering of the stomach.",
+      "tags": [
+        "Structure",
+        "Serosa",
+        "GastricWall",
+        "JS4"
+      ],
+      "sourceLine": 56,
+      "section": "Gastric wall and muscle layers",
+      "label": "10"
+    },
+    {
+      "id": "stomach-model-ns15-57",
+      "path": [
+        "10"
+      ],
+      "question": "Function",
+      "answer": "Provides a smooth lubricated surface allowing movement within the peritoneal cavity.",
+      "tags": [
+        "Function",
+        "Serosa",
+        "GastricWall",
+        "JS4"
+      ],
+      "sourceLine": 57,
+      "section": "Gastric wall and muscle layers",
+      "label": "10"
+    },
+    {
+      "id": "stomach-model-ns15-61",
+      "path": [
+        "11"
+      ],
+      "question": "Identification",
+      "answer": "Left gastric artery",
+      "tags": [
+        "Identification",
+        "Artery",
+        "Arteries",
+        "JS4"
+      ],
+      "sourceLine": 61,
+      "section": "Arteries",
+      "label": "11"
+    },
+    {
+      "id": "stomach-model-ns15-62",
+      "path": [
+        "11"
+      ],
+      "question": "Origin",
+      "answer": "Usually a direct branch of the coeliac trunk.",
+      "tags": [
+        "Origin",
+        "Artery",
+        "Arteries",
+        "JS4"
+      ],
+      "sourceLine": 62,
+      "section": "Arteries",
+      "label": "11"
+    },
+    {
+      "id": "stomach-model-ns15-63",
+      "path": [
+        "11"
+      ],
+      "question": "Course",
+      "answer": "Runs along the lesser curvature from left to right.",
+      "tags": [
+        "Course",
+        "Artery",
+        "Arteries",
+        "JS4"
+      ],
+      "sourceLine": 63,
+      "section": "Arteries",
+      "label": "11"
+    },
+    {
+      "id": "stomach-model-ns15-64",
+      "path": [
+        "11"
+      ],
+      "question": "Supply",
+      "answer": "Supplies upper lesser curvature and adjacent anterior/posterior gastric walls.",
+      "tags": [
+        "Supply",
+        "Artery",
+        "Arteries",
+        "JS4"
+      ],
+      "sourceLine": 64,
+      "section": "Arteries",
+      "label": "11"
+    },
+    {
+      "id": "stomach-model-ns15-65",
+      "path": [
+        "11"
+      ],
+      "question": "Connections",
+      "answer": "Anastomoses with the right gastric artery.",
+      "tags": [
+        "Connections",
+        "Artery",
+        "Arteries",
+        "JS4"
+      ],
+      "sourceLine": 65,
+      "section": "Arteries",
+      "label": "11"
+    },
+    {
+      "id": "stomach-model-ns15-68",
+      "path": [
+        "12"
+      ],
+      "question": "Identification",
+      "answer": "Right gastric artery",
+      "tags": [
+        "Identification",
+        "Artery",
+        "Arteries",
+        "JS4"
+      ],
+      "sourceLine": 68,
+      "section": "Arteries",
+      "label": "12"
+    },
+    {
+      "id": "stomach-model-ns15-69",
+      "path": [
+        "12"
+      ],
+      "question": "Origin",
+      "answer": "Usually arises from the proper hepatic or common hepatic artery.",
+      "tags": [
+        "Origin",
+        "Artery",
+        "Arteries",
+        "JS4"
+      ],
+      "sourceLine": 69,
+      "section": "Arteries",
+      "label": "12"
+    },
+    {
+      "id": "stomach-model-ns15-70",
+      "path": [
+        "12"
+      ],
+      "question": "Course",
+      "answer": "Runs along the lesser curvature from right to left.",
+      "tags": [
+        "Course",
+        "Artery",
+        "Arteries",
+        "JS4"
+      ],
+      "sourceLine": 70,
+      "section": "Arteries",
+      "label": "12"
+    },
+    {
+      "id": "stomach-model-ns15-71",
+      "path": [
+        "12"
+      ],
+      "question": "Supply",
+      "answer": "Supplies lower lesser curvature and adjacent stomach wall.",
+      "tags": [
+        "Supply",
+        "Artery",
+        "Arteries",
+        "JS4"
+      ],
+      "sourceLine": 71,
+      "section": "Arteries",
+      "label": "12"
+    },
+    {
+      "id": "stomach-model-ns15-72",
+      "path": [
+        "12"
+      ],
+      "question": "Connections",
+      "answer": "Anastomoses with the left gastric artery.",
+      "tags": [
+        "Connections",
+        "Artery",
+        "Arteries",
+        "JS4"
+      ],
+      "sourceLine": 72,
+      "section": "Arteries",
+      "label": "12"
+    },
+    {
+      "id": "stomach-model-ns15-75",
+      "path": [
+        "13"
+      ],
+      "question": "Identification",
+      "answer": "Left gastro-epiploic (gastro-omental) artery",
+      "tags": [
+        "Identification",
+        "Artery",
+        "Arteries",
+        "JS4"
+      ],
+      "sourceLine": 75,
+      "section": "Arteries",
+      "label": "13"
+    },
+    {
+      "id": "stomach-model-ns15-76",
+      "path": [
+        "13"
+      ],
+      "question": "Origin",
+      "answer": "Branch of the splenic artery.",
+      "tags": [
+        "Origin",
+        "Artery",
+        "Arteries",
+        "JS4"
+      ],
+      "sourceLine": 76,
+      "section": "Arteries",
+      "label": "13"
+    },
+    {
+      "id": "stomach-model-ns15-77",
+      "path": [
+        "13"
+      ],
+      "question": "Course",
+      "answer": "Runs along the greater curvature from left to right within the greater omentum.",
+      "tags": [
+        "Course",
+        "Artery",
+        "Arteries",
+        "JS4"
+      ],
+      "sourceLine": 77,
+      "section": "Arteries",
+      "label": "13"
+    },
+    {
+      "id": "stomach-model-ns15-78",
+      "path": [
+        "13"
+      ],
+      "question": "Supply",
+      "answer": "Supplies upper/left greater curvature and adjacent stomach wall.",
+      "tags": [
+        "Supply",
+        "Artery",
+        "Arteries",
+        "JS4"
+      ],
+      "sourceLine": 78,
+      "section": "Arteries",
+      "label": "13"
+    },
+    {
+      "id": "stomach-model-ns15-79",
+      "path": [
+        "13"
+      ],
+      "question": "Connections",
+      "answer": "Anastomoses with the right gastro-omental artery.",
+      "tags": [
+        "Connections",
+        "Artery",
+        "Arteries",
+        "JS4"
+      ],
+      "sourceLine": 79,
+      "section": "Arteries",
+      "label": "13"
+    },
+    {
+      "id": "stomach-model-ns15-82",
+      "path": [
+        "14"
+      ],
+      "question": "Identification",
+      "answer": "Right gastro-epiploic (gastro-omental) artery",
+      "tags": [
+        "Identification",
+        "Artery",
+        "Arteries",
+        "JS4"
+      ],
+      "sourceLine": 82,
+      "section": "Arteries",
+      "label": "14"
+    },
+    {
+      "id": "stomach-model-ns15-83",
+      "path": [
+        "14"
+      ],
+      "question": "Origin",
+      "answer": "Usually terminal branch of the gastroduodenal artery.",
+      "tags": [
+        "Origin",
+        "Artery",
+        "Arteries",
+        "JS4"
+      ],
+      "sourceLine": 83,
+      "section": "Arteries",
+      "label": "14"
+    },
+    {
+      "id": "stomach-model-ns15-84",
+      "path": [
+        "14"
+      ],
+      "question": "Course",
+      "answer": "Runs along the greater curvature from right to left within the greater omentum.",
+      "tags": [
+        "Course",
+        "Artery",
+        "Arteries",
+        "JS4"
+      ],
+      "sourceLine": 84,
+      "section": "Arteries",
+      "label": "14"
+    },
+    {
+      "id": "stomach-model-ns15-85",
+      "path": [
+        "14"
+      ],
+      "question": "Supply",
+      "answer": "Supplies lower/right greater curvature and adjacent stomach wall.",
+      "tags": [
+        "Supply",
+        "Artery",
+        "Arteries",
+        "JS4"
+      ],
+      "sourceLine": 85,
+      "section": "Arteries",
+      "label": "14"
+    },
+    {
+      "id": "stomach-model-ns15-86",
+      "path": [
+        "14"
+      ],
+      "question": "Connections",
+      "answer": "Anastomoses with the left gastro-omental artery.",
+      "tags": [
+        "Connections",
+        "Artery",
+        "Arteries",
+        "JS4"
+      ],
+      "sourceLine": 86,
+      "section": "Arteries",
+      "label": "14"
+    },
+    {
+      "id": "stomach-model-ns15-90",
+      "path": [
+        "15"
+      ],
+      "question": "Identification",
+      "answer": "Left vagus nerve",
+      "tags": [
+        "Identification",
+        "Nerve",
+        "VagalInnervation",
+        "JS4"
+      ],
+      "sourceLine": 90,
+      "section": "Vagal innervation",
+      "label": "15"
+    },
+    {
+      "id": "stomach-model-ns15-91",
+      "path": [
+        "15"
+      ],
+      "question": "Roots",
+      "answer": "Vagus nerve (CN X).",
+      "tags": [
+        "Roots",
+        "Nerve",
+        "VagalInnervation",
+        "JS4"
+      ],
+      "sourceLine": 91,
+      "section": "Vagal innervation",
+      "label": "15"
+    },
+    {
+      "id": "stomach-model-ns15-92",
+      "path": [
+        "15"
+      ],
+      "question": "Course",
+      "answer": "Oesophageal plexus fibres reorganise so the left vagus mainly forms the anterior vagal trunk.",
+      "tags": [
+        "Course",
+        "Nerve",
+        "VagalInnervation",
+        "JS4"
+      ],
+      "sourceLine": 92,
+      "section": "Vagal innervation",
+      "label": "15"
+    },
+    {
+      "id": "stomach-model-ns15-93",
+      "path": [
+        "15"
+      ],
+      "question": "Motor functions",
+      "answer": "Parasympathetic supply increases gastric motility and promotes relaxation/coordination of gastric sphincter mechanisms.",
+      "tags": [
+        "Motor",
+        "Nerve",
+        "VagalInnervation",
+        "JS4"
+      ],
+      "sourceLine": 93,
+      "section": "Vagal innervation",
+      "label": "15"
+    },
+    {
+      "id": "stomach-model-ns15-94",
+      "path": [
+        "15"
+      ],
+      "question": "Sensory functions",
+      "answer": "Carries visceral afferent fibres involved in physiological reflexes from the foregut.",
+      "tags": [
+        "Sensory",
+        "Nerve",
+        "VagalInnervation",
+        "JS4"
+      ],
+      "sourceLine": 94,
+      "section": "Vagal innervation",
+      "label": "15"
+    },
+    {
+      "id": "stomach-model-ns15-95",
+      "path": [
+        "15"
+      ],
+      "question": "Lesion",
+      "answer": "Vagal interruption reduces parasympathetic stimulation of gastric motility and secretion; effects depend on lesion level and whether both trunks are involved.",
+      "tags": [
+        "Lesion",
+        "Nerve",
+        "VagalInnervation",
+        "JS4"
+      ],
+      "sourceLine": 95,
+      "section": "Vagal innervation",
+      "label": "15"
+    },
+    {
+      "id": "stomach-model-ns15-98",
+      "path": [
+        "16"
+      ],
+      "question": "Identification",
+      "answer": "Right vagus nerve",
+      "tags": [
+        "Identification",
+        "Nerve",
+        "VagalInnervation",
+        "JS4"
+      ],
+      "sourceLine": 98,
+      "section": "Vagal innervation",
+      "label": "16"
+    },
+    {
+      "id": "stomach-model-ns15-99",
+      "path": [
+        "16"
+      ],
+      "question": "Roots",
+      "answer": "Vagus nerve (CN X).",
+      "tags": [
+        "Roots",
+        "Nerve",
+        "VagalInnervation",
+        "JS4"
+      ],
+      "sourceLine": 99,
+      "section": "Vagal innervation",
+      "label": "16"
+    },
+    {
+      "id": "stomach-model-ns15-100",
+      "path": [
+        "16"
+      ],
+      "question": "Course",
+      "answer": "Oesophageal plexus fibres reorganise so the right vagus mainly forms the posterior vagal trunk.",
+      "tags": [
+        "Course",
+        "Nerve",
+        "VagalInnervation",
+        "JS4"
+      ],
+      "sourceLine": 100,
+      "section": "Vagal innervation",
+      "label": "16"
+    },
+    {
+      "id": "stomach-model-ns15-101",
+      "path": [
+        "16"
+      ],
+      "question": "Motor functions",
+      "answer": "Parasympathetic supply increases gastric motility and contributes to gastric secretory function.",
+      "tags": [
+        "Motor",
+        "Nerve",
+        "VagalInnervation",
+        "JS4"
+      ],
+      "sourceLine": 101,
+      "section": "Vagal innervation",
+      "label": "16"
+    },
+    {
+      "id": "stomach-model-ns15-102",
+      "path": [
+        "16"
+      ],
+      "question": "Sensory functions",
+      "answer": "Carries visceral afferent fibres involved in foregut reflexes.",
+      "tags": [
+        "Sensory",
+        "Nerve",
+        "VagalInnervation",
+        "JS4"
+      ],
+      "sourceLine": 102,
+      "section": "Vagal innervation",
+      "label": "16"
+    },
+    {
+      "id": "stomach-model-ns15-103",
+      "path": [
+        "16"
+      ],
+      "question": "Lesion",
+      "answer": "Vagal interruption reduces parasympathetic stimulation of gastric motility and secretion; effects depend on lesion level and whether both trunks are involved.",
+      "tags": [
+        "Lesion",
+        "Nerve",
+        "VagalInnervation",
+        "JS4"
+      ],
+      "sourceLine": 103,
+      "section": "Vagal innervation",
+      "label": "16"
+    },
+    {
+      "id": "stomach-model-ns15-107",
+      "path": [
+        "17"
+      ],
+      "question": "Identification",
+      "answer": "Gastric mucous membrane",
+      "tags": [
+        "Identification",
+        "Mucosa",
+        "MucosaAndGlands",
+        "JS4"
+      ],
+      "sourceLine": 107,
+      "section": "Mucosa and glands",
+      "label": "17"
+    },
+    {
+      "id": "stomach-model-ns15-108",
+      "path": [
+        "17"
+      ],
+      "question": "Structure",
+      "answer": "Simple columnar epithelium with gastric pits leading into gastric glands.",
+      "tags": [
+        "Structure",
+        "Mucosa",
+        "MucosaAndGlands",
+        "JS4"
+      ],
+      "sourceLine": 108,
+      "section": "Mucosa and glands",
+      "label": "17"
+    },
+    {
+      "id": "stomach-model-ns15-109",
+      "path": [
+        "17"
+      ],
+      "question": "Function",
+      "answer": "Secretes mucus and bicarbonate to protect the mucosa and houses secretory gastric glands.",
+      "tags": [
+        "Function",
+        "Mucosa",
+        "MucosaAndGlands",
+        "JS4"
+      ],
+      "sourceLine": 109,
+      "section": "Mucosa and glands",
+      "label": "17"
+    },
+    {
+      "id": "stomach-model-ns15-112",
+      "path": [
+        "18"
+      ],
+      "question": "Identification",
+      "answer": "Gastric folds (rugae)",
+      "tags": [
+        "Identification",
+        "MucosalFold",
+        "MucosaAndGlands",
+        "JS4"
+      ],
+      "sourceLine": 112,
+      "section": "Mucosa and glands",
+      "label": "18"
+    },
+    {
+      "id": "stomach-model-ns15-113",
+      "path": [
+        "18"
+      ],
+      "question": "Structure",
+      "answer": "Folds of mucosa and submucosa visible when the stomach is relatively empty.",
+      "tags": [
+        "Structure",
+        "MucosalFold",
+        "MucosaAndGlands",
+        "JS4"
+      ],
+      "sourceLine": 113,
+      "section": "Mucosa and glands",
+      "label": "18"
+    },
+    {
+      "id": "stomach-model-ns15-114",
+      "path": [
+        "18"
+      ],
+      "question": "Function",
+      "answer": "Allow the stomach to expand after a meal.",
+      "tags": [
+        "Function",
+        "MucosalFold",
+        "MucosaAndGlands",
+        "JS4"
+      ],
+      "sourceLine": 114,
+      "section": "Mucosa and glands",
+      "label": "18"
+    },
+    {
+      "id": "stomach-model-ns15-117",
+      "path": [
+        "19"
+      ],
+      "question": "Identification",
+      "answer": "Submucosa",
+      "tags": [
+        "Identification",
+        "Submucosa",
+        "MucosaAndGlands",
+        "JS4"
+      ],
+      "sourceLine": 117,
+      "section": "Mucosa and glands",
+      "label": "19"
+    },
+    {
+      "id": "stomach-model-ns15-118",
+      "path": [
+        "19"
+      ],
+      "question": "Structure",
+      "answer": "Dense connective tissue layer beneath the mucosa containing vessels, lymphatics and submucosal nerve plexus.",
+      "tags": [
+        "Structure",
+        "Submucosa",
+        "MucosaAndGlands",
+        "JS4"
+      ],
+      "sourceLine": 118,
+      "section": "Mucosa and glands",
+      "label": "19"
+    },
+    {
+      "id": "stomach-model-ns15-119",
+      "path": [
+        "19"
+      ],
+      "question": "Function",
+      "answer": "Supports the mucosa and permits formation of rugae.",
+      "tags": [
+        "Function",
+        "Submucosa",
+        "MucosaAndGlands",
+        "JS4"
+      ],
+      "sourceLine": 119,
+      "section": "Mucosa and glands",
+      "label": "19"
+    },
+    {
+      "id": "stomach-model-ns15-122",
+      "path": [
+        "20"
+      ],
+      "question": "Identification",
+      "answer": "Enlarged microscopic gastric glands",
+      "tags": [
+        "Identification",
+        "Gland",
+        "MucosaAndGlands",
+        "JS4"
+      ],
+      "sourceLine": 122,
+      "section": "Mucosa and glands",
+      "label": "20"
+    },
+    {
+      "id": "stomach-model-ns15-123",
+      "path": [
+        "20"
+      ],
+      "question": "Location",
+      "answer": "Extend from gastric pits into the lamina propria of the mucosa.",
+      "tags": [
+        "Location",
+        "Gland",
+        "MucosaAndGlands",
+        "JS4"
+      ],
+      "sourceLine": 123,
+      "section": "Mucosa and glands",
+      "label": "20"
+    },
+    {
+      "id": "stomach-model-ns15-124",
+      "path": [
+        "20"
+      ],
+      "question": "Cell types",
+      "answer": "Depending on region, include mucous cells, parietal cells, chief cells and enteroendocrine cells.",
+      "tags": [
+        "Structure",
+        "Gland",
+        "MucosaAndGlands",
+        "JS4"
+      ],
+      "sourceLine": 124,
+      "section": "Mucosa and glands",
+      "label": "20"
+    },
+    {
+      "id": "stomach-model-ns15-125",
+      "path": [
+        "20"
+      ],
+      "question": "Function",
+      "answer": "Produce gastric secretions including acid, intrinsic factor, pepsinogen, mucus and regulatory hormones.",
+      "tags": [
+        "Function",
+        "Gland",
+        "MucosaAndGlands",
+        "JS4"
+      ],
+      "sourceLine": 125,
+      "section": "Mucosa and glands",
+      "label": "20"
+    }
+  ]
+}

@@ -1,0 +1,8166 @@
+{
+  "id": "upper-limb-model-ns15",
+  "name": "Upper Limb (Model NS15)",
+  "cards": [
+    {
+      "id": "upper-limb-model-ns15-3",
+      "path": [
+        "1"
+      ],
+      "question": "Identification",
+      "answer": "Supraspinatus",
+      "tags": [
+        "Identification",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 3,
+      "section": "Muscles",
+      "label": "1"
+    },
+    {
+      "id": "upper-limb-model-ns15-4",
+      "path": [
+        "1"
+      ],
+      "question": "Actions",
+      "answer": "Initiates the first ~15° of arm abduction and stabilises the humeral head in the glenoid.",
+      "tags": [
+        "Action",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 4,
+      "section": "Muscles",
+      "label": "1"
+    },
+    {
+      "id": "upper-limb-model-ns15-5",
+      "path": [
+        "1"
+      ],
+      "question": "Innervation",
+      "answer": "Suprascapular nerve (C5–C6).",
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 5,
+      "section": "Muscles",
+      "label": "1"
+    },
+    {
+      "id": "upper-limb-model-ns15-6",
+      "path": [
+        "1"
+      ],
+      "question": "Origin",
+      "answer": "Supraspinous fossa of scapula and overlying fascia.",
+      "tags": [
+        "Origin",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 6,
+      "section": "Muscles",
+      "label": "1"
+    },
+    {
+      "id": "upper-limb-model-ns15-7",
+      "path": [
+        "1"
+      ],
+      "question": "Insertion",
+      "answer": "Superior facet of greater tubercle of humerus and shoulder joint capsule.",
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 7,
+      "section": "Muscles",
+      "label": "1"
+    },
+    {
+      "id": "upper-limb-model-ns15-9",
+      "path": [
+        "2"
+      ],
+      "question": "Identification",
+      "answer": "Infraspinatus",
+      "tags": [
+        "Identification",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 9,
+      "section": "Muscles",
+      "label": "2"
+    },
+    {
+      "id": "upper-limb-model-ns15-10",
+      "path": [
+        "2"
+      ],
+      "question": "Actions",
+      "answer": "Laterally rotates the arm and stabilises the humeral head in the glenoid.",
+      "tags": [
+        "Action",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 10,
+      "section": "Muscles",
+      "label": "2"
+    },
+    {
+      "id": "upper-limb-model-ns15-11",
+      "path": [
+        "2"
+      ],
+      "question": "Innervation",
+      "answer": "Suprascapular nerve (C5–C6).",
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 11,
+      "section": "Muscles",
+      "label": "2"
+    },
+    {
+      "id": "upper-limb-model-ns15-12",
+      "path": [
+        "2"
+      ],
+      "question": "Origin",
+      "answer": "Infraspinous fossa of scapula and overlying fascia.",
+      "tags": [
+        "Origin",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 12,
+      "section": "Muscles",
+      "label": "2"
+    },
+    {
+      "id": "upper-limb-model-ns15-13",
+      "path": [
+        "2"
+      ],
+      "question": "Insertion",
+      "answer": "Middle facet of greater tubercle of humerus and shoulder joint capsule.",
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 13,
+      "section": "Muscles",
+      "label": "2"
+    },
+    {
+      "id": "upper-limb-model-ns15-15",
+      "path": [
+        "3"
+      ],
+      "question": "Identification",
+      "answer": "Teres major",
+      "tags": [
+        "Identification",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 15,
+      "section": "Muscles",
+      "label": "3"
+    },
+    {
+      "id": "upper-limb-model-ns15-16",
+      "path": [
+        "3"
+      ],
+      "question": "Actions",
+      "answer": "Adducts and medially rotates the arm; assists extension of the arm from a flexed position.",
+      "tags": [
+        "Action",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 16,
+      "section": "Muscles",
+      "label": "3"
+    },
+    {
+      "id": "upper-limb-model-ns15-17",
+      "path": [
+        "3"
+      ],
+      "question": "Innervation",
+      "answer": "Lower subscapular nerve (C5–C6).",
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 17,
+      "section": "Muscles",
+      "label": "3"
+    },
+    {
+      "id": "upper-limb-model-ns15-18",
+      "path": [
+        "3"
+      ],
+      "question": "Origin",
+      "answer": "Posterior surface of inferior angle and adjacent lateral border of scapula.",
+      "tags": [
+        "Origin",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 18,
+      "section": "Muscles",
+      "label": "3"
+    },
+    {
+      "id": "upper-limb-model-ns15-19",
+      "path": [
+        "3"
+      ],
+      "question": "Insertion",
+      "answer": "Medial lip of intertubercular sulcus of humerus.",
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 19,
+      "section": "Muscles",
+      "label": "3"
+    },
+    {
+      "id": "upper-limb-model-ns15-21",
+      "path": [
+        "4"
+      ],
+      "question": "Identification",
+      "answer": "Teres minor",
+      "tags": [
+        "Identification",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 21,
+      "section": "Muscles",
+      "label": "4"
+    },
+    {
+      "id": "upper-limb-model-ns15-22",
+      "path": [
+        "4"
+      ],
+      "question": "Actions",
+      "answer": "Laterally rotates the arm; weakly adducts the arm; stabilises the humeral head.",
+      "tags": [
+        "Action",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 22,
+      "section": "Muscles",
+      "label": "4"
+    },
+    {
+      "id": "upper-limb-model-ns15-23",
+      "path": [
+        "4"
+      ],
+      "question": "Innervation",
+      "answer": "Axillary nerve (C5–C6).",
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 23,
+      "section": "Muscles",
+      "label": "4"
+    },
+    {
+      "id": "upper-limb-model-ns15-24",
+      "path": [
+        "4"
+      ],
+      "question": "Origin",
+      "answer": "Middle part of lateral border of scapula.",
+      "tags": [
+        "Origin",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 24,
+      "section": "Muscles",
+      "label": "4"
+    },
+    {
+      "id": "upper-limb-model-ns15-25",
+      "path": [
+        "4"
+      ],
+      "question": "Insertion",
+      "answer": "Inferior facet of greater tubercle of humerus and shoulder joint capsule.",
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 25,
+      "section": "Muscles",
+      "label": "4"
+    },
+    {
+      "id": "upper-limb-model-ns15-27",
+      "path": [
+        "5"
+      ],
+      "question": "Identification",
+      "answer": "Latissimus dorsi",
+      "tags": [
+        "Identification",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 27,
+      "section": "Muscles",
+      "label": "5"
+    },
+    {
+      "id": "upper-limb-model-ns15-28",
+      "path": [
+        "5"
+      ],
+      "question": "Actions",
+      "answer": "Extends, adducts and medially rotates the arm; can help raise the trunk toward the arms during climbing.",
+      "tags": [
+        "Action",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 28,
+      "section": "Muscles",
+      "label": "5"
+    },
+    {
+      "id": "upper-limb-model-ns15-29",
+      "path": [
+        "5"
+      ],
+      "question": "Innervation",
+      "answer": "Thoracodorsal nerve (C6–C8).",
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 29,
+      "section": "Muscles",
+      "label": "5"
+    },
+    {
+      "id": "upper-limb-model-ns15-30",
+      "path": [
+        "5"
+      ],
+      "question": "Origin",
+      "answer": "Spinous processes T7–T12, thoracolumbar fascia, iliac crest and lower ribs; variable slip from inferior angle of scapula.",
+      "tags": [
+        "Origin",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 30,
+      "section": "Muscles",
+      "label": "5"
+    },
+    {
+      "id": "upper-limb-model-ns15-31",
+      "path": [
+        "5"
+      ],
+      "question": "Insertion",
+      "answer": "Floor of intertubercular sulcus of humerus.",
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 31,
+      "section": "Muscles",
+      "label": "5"
+    },
+    {
+      "id": "upper-limb-model-ns15-33",
+      "path": [
+        "6"
+      ],
+      "question": "Identification",
+      "answer": "Subscapularis",
+      "tags": [
+        "Identification",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 33,
+      "section": "Muscles",
+      "label": "6"
+    },
+    {
+      "id": "upper-limb-model-ns15-34",
+      "path": [
+        "6"
+      ],
+      "question": "Actions",
+      "answer": "Medially rotates and adducts the arm; stabilises the humeral head.",
+      "tags": [
+        "Action",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 34,
+      "section": "Muscles",
+      "label": "6"
+    },
+    {
+      "id": "upper-limb-model-ns15-35",
+      "path": [
+        "6"
+      ],
+      "question": "Innervation",
+      "answer": "Upper and lower subscapular nerves (C5–C7).",
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 35,
+      "section": "Muscles",
+      "label": "6"
+    },
+    {
+      "id": "upper-limb-model-ns15-36",
+      "path": [
+        "6"
+      ],
+      "question": "Origin",
+      "answer": "Subscapular fossa of scapula.",
+      "tags": [
+        "Origin",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 36,
+      "section": "Muscles",
+      "label": "6"
+    },
+    {
+      "id": "upper-limb-model-ns15-37",
+      "path": [
+        "6"
+      ],
+      "question": "Insertion",
+      "answer": "Lesser tubercle of humerus and shoulder joint capsule.",
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 37,
+      "section": "Muscles",
+      "label": "6"
+    },
+    {
+      "id": "upper-limb-model-ns15-39",
+      "path": [
+        "7"
+      ],
+      "question": "Identification",
+      "answer": "Deltoid",
+      "tags": [
+        "Identification",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 39,
+      "section": "Muscles",
+      "label": "7"
+    },
+    {
+      "id": "upper-limb-model-ns15-40",
+      "path": [
+        "7"
+      ],
+      "question": "Actions",
+      "answer": "Middle fibres abduct the arm; anterior fibres flex and medially rotate; posterior fibres extend and laterally rotate.",
+      "tags": [
+        "Action",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 40,
+      "section": "Muscles",
+      "label": "7"
+    },
+    {
+      "id": "upper-limb-model-ns15-41",
+      "path": [
+        "7"
+      ],
+      "question": "Innervation",
+      "answer": "Axillary nerve (C5–C6).",
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 41,
+      "section": "Muscles",
+      "label": "7"
+    },
+    {
+      "id": "upper-limb-model-ns15-42",
+      "path": [
+        "7"
+      ],
+      "question": "Origin",
+      "answer": "Lateral third of clavicle, acromion and spine of scapula.",
+      "tags": [
+        "Origin",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 42,
+      "section": "Muscles",
+      "label": "7"
+    },
+    {
+      "id": "upper-limb-model-ns15-43",
+      "path": [
+        "7"
+      ],
+      "question": "Insertion",
+      "answer": "Deltoid tuberosity of humerus.",
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 43,
+      "section": "Muscles",
+      "label": "7"
+    },
+    {
+      "id": "upper-limb-model-ns15-45",
+      "path": [
+        "8"
+      ],
+      "question": "Identification",
+      "answer": "Pectoralis major",
+      "tags": [
+        "Identification",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 45,
+      "section": "Muscles",
+      "label": "8"
+    },
+    {
+      "id": "upper-limb-model-ns15-46",
+      "path": [
+        "8"
+      ],
+      "question": "Actions",
+      "answer": "Adducts and medially rotates the arm; clavicular head flexes the arm; sternocostal head extends a flexed arm.",
+      "tags": [
+        "Action",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 46,
+      "section": "Muscles",
+      "label": "8"
+    },
+    {
+      "id": "upper-limb-model-ns15-47",
+      "path": [
+        "8"
+      ],
+      "question": "Innervation",
+      "answer": "Lateral and medial pectoral nerves (C5–T1).",
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 47,
+      "section": "Muscles",
+      "label": "8"
+    },
+    {
+      "id": "upper-limb-model-ns15-48",
+      "path": [
+        "8"
+      ],
+      "question": "Origin",
+      "answer": "Medial half of clavicle; sternum; upper six costal cartilages; aponeurosis of external oblique.",
+      "tags": [
+        "Origin",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 48,
+      "section": "Muscles",
+      "label": "8"
+    },
+    {
+      "id": "upper-limb-model-ns15-49",
+      "path": [
+        "8"
+      ],
+      "question": "Insertion",
+      "answer": "Lateral lip of intertubercular sulcus of humerus.",
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 49,
+      "section": "Muscles",
+      "label": "8"
+    },
+    {
+      "id": "upper-limb-model-ns15-51",
+      "path": [
+        "9"
+      ],
+      "question": "Identification",
+      "answer": "Biceps brachii",
+      "tags": [
+        "Identification",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 51,
+      "section": "Muscles",
+      "label": "9"
+    },
+    {
+      "id": "upper-limb-model-ns15-52",
+      "path": [
+        "9"
+      ],
+      "question": "Actions",
+      "answer": "Supinates the forearm and flexes the elbow; assists shoulder flexion; long head helps stabilise humeral head.",
+      "tags": [
+        "Action",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 52,
+      "section": "Muscles",
+      "label": "9"
+    },
+    {
+      "id": "upper-limb-model-ns15-53",
+      "path": [
+        "9"
+      ],
+      "question": "Innervation",
+      "answer": "Musculocutaneous nerve (C5–C6).",
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 53,
+      "section": "Muscles",
+      "label": "9"
+    },
+    {
+      "id": "upper-limb-model-ns15-54",
+      "path": [
+        "9"
+      ],
+      "question": "Origin",
+      "answer": "Long head: supraglenoid tubercle of scapula. Short head: tip of coracoid process.",
+      "tags": [
+        "Origin",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 54,
+      "section": "Muscles",
+      "label": "9"
+    },
+    {
+      "id": "upper-limb-model-ns15-55",
+      "path": [
+        "9"
+      ],
+      "question": "Insertion",
+      "answer": "Radial tuberosity and forearm fascia via bicipital aponeurosis.",
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 55,
+      "section": "Muscles",
+      "label": "9"
+    },
+    {
+      "id": "upper-limb-model-ns15-57",
+      "path": [
+        "10"
+      ],
+      "question": "Identification",
+      "answer": "Brachialis",
+      "tags": [
+        "Identification",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 57,
+      "section": "Muscles",
+      "label": "10"
+    },
+    {
+      "id": "upper-limb-model-ns15-58",
+      "path": [
+        "10"
+      ],
+      "question": "Actions",
+      "answer": "Primary flexor of the elbow in all forearm positions.",
+      "tags": [
+        "Action",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 58,
+      "section": "Muscles",
+      "label": "10"
+    },
+    {
+      "id": "upper-limb-model-ns15-59",
+      "path": [
+        "10"
+      ],
+      "question": "Innervation",
+      "answer": "Musculocutaneous nerve (C5–C6); lateral part often receives a small radial nerve contribution.",
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 59,
+      "section": "Muscles",
+      "label": "10"
+    },
+    {
+      "id": "upper-limb-model-ns15-60",
+      "path": [
+        "10"
+      ],
+      "question": "Origin",
+      "answer": "Distal half of anterior humerus and adjacent intermuscular septa.",
+      "tags": [
+        "Origin",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 60,
+      "section": "Muscles",
+      "label": "10"
+    },
+    {
+      "id": "upper-limb-model-ns15-61",
+      "path": [
+        "10"
+      ],
+      "question": "Insertion",
+      "answer": "Coronoid process and tuberosity of ulna.",
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 61,
+      "section": "Muscles",
+      "label": "10"
+    },
+    {
+      "id": "upper-limb-model-ns15-63",
+      "path": [
+        "11"
+      ],
+      "question": "Identification",
+      "answer": "Triceps brachii",
+      "tags": [
+        "Identification",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 63,
+      "section": "Muscles",
+      "label": "11"
+    },
+    {
+      "id": "upper-limb-model-ns15-64",
+      "path": [
+        "11"
+      ],
+      "question": "Actions",
+      "answer": "Extends the elbow; long head also extends and adducts the arm and helps resist inferior displacement of the humeral head.",
+      "tags": [
+        "Action",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 64,
+      "section": "Muscles",
+      "label": "11"
+    },
+    {
+      "id": "upper-limb-model-ns15-65",
+      "path": [
+        "11"
+      ],
+      "question": "Innervation",
+      "answer": "Radial nerve (C6–C8).",
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 65,
+      "section": "Muscles",
+      "label": "11"
+    },
+    {
+      "id": "upper-limb-model-ns15-66",
+      "path": [
+        "11"
+      ],
+      "question": "Origin",
+      "answer": "Long head: infraglenoid tubercle. Lateral head: posterior humerus superior to radial groove. Medial head: posterior humerus inferior to radial groove.",
+      "tags": [
+        "Origin",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 66,
+      "section": "Muscles",
+      "label": "11"
+    },
+    {
+      "id": "upper-limb-model-ns15-67",
+      "path": [
+        "11"
+      ],
+      "question": "Insertion",
+      "answer": "Olecranon of ulna and forearm fascia.",
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 67,
+      "section": "Muscles",
+      "label": "11"
+    },
+    {
+      "id": "upper-limb-model-ns15-69",
+      "path": [
+        "12"
+      ],
+      "question": "Identification",
+      "answer": "Pronator teres",
+      "tags": [
+        "Identification",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 69,
+      "section": "Muscles",
+      "label": "12"
+    },
+    {
+      "id": "upper-limb-model-ns15-70",
+      "path": [
+        "12"
+      ],
+      "question": "Actions",
+      "answer": "Pronates the forearm and weakly flexes the elbow.",
+      "tags": [
+        "Action",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 70,
+      "section": "Muscles",
+      "label": "12"
+    },
+    {
+      "id": "upper-limb-model-ns15-71",
+      "path": [
+        "12"
+      ],
+      "question": "Innervation",
+      "answer": "Median nerve (C6–C7).",
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 71,
+      "section": "Muscles",
+      "label": "12"
+    },
+    {
+      "id": "upper-limb-model-ns15-72",
+      "path": [
+        "12"
+      ],
+      "question": "Origin",
+      "answer": "Humeral head: medial epicondyle. Ulnar head: coronoid process.",
+      "tags": [
+        "Origin",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 72,
+      "section": "Muscles",
+      "label": "12"
+    },
+    {
+      "id": "upper-limb-model-ns15-73",
+      "path": [
+        "12"
+      ],
+      "question": "Insertion",
+      "answer": "Lateral surface of mid-radius.",
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 73,
+      "section": "Muscles",
+      "label": "12"
+    },
+    {
+      "id": "upper-limb-model-ns15-75",
+      "path": [
+        "13"
+      ],
+      "question": "Identification",
+      "answer": "Flexor carpi radialis",
+      "tags": [
+        "Identification",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 75,
+      "section": "Muscles",
+      "label": "13"
+    },
+    {
+      "id": "upper-limb-model-ns15-76",
+      "path": [
+        "13"
+      ],
+      "question": "Actions",
+      "answer": "Flexes and abducts (radially deviates) the wrist.",
+      "tags": [
+        "Action",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 76,
+      "section": "Muscles",
+      "label": "13"
+    },
+    {
+      "id": "upper-limb-model-ns15-77",
+      "path": [
+        "13"
+      ],
+      "question": "Innervation",
+      "answer": "Median nerve (C6–C7).",
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 77,
+      "section": "Muscles",
+      "label": "13"
+    },
+    {
+      "id": "upper-limb-model-ns15-78",
+      "path": [
+        "13"
+      ],
+      "question": "Origin",
+      "answer": "Common flexor tendon from medial epicondyle of humerus.",
+      "tags": [
+        "Origin",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 78,
+      "section": "Muscles",
+      "label": "13"
+    },
+    {
+      "id": "upper-limb-model-ns15-79",
+      "path": [
+        "13"
+      ],
+      "question": "Insertion",
+      "answer": "Base of second metacarpal, often with slip to third metacarpal.",
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 79,
+      "section": "Muscles",
+      "label": "13"
+    },
+    {
+      "id": "upper-limb-model-ns15-81",
+      "path": [
+        "14"
+      ],
+      "question": "Identification",
+      "answer": "Palmaris longus",
+      "tags": [
+        "Identification",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 81,
+      "section": "Muscles",
+      "label": "14"
+    },
+    {
+      "id": "upper-limb-model-ns15-82",
+      "path": [
+        "14"
+      ],
+      "question": "Actions",
+      "answer": "Weakly flexes the wrist and tenses the palmar aponeurosis.",
+      "tags": [
+        "Action",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 82,
+      "section": "Muscles",
+      "label": "14"
+    },
+    {
+      "id": "upper-limb-model-ns15-83",
+      "path": [
+        "14"
+      ],
+      "question": "Innervation",
+      "answer": "Median nerve (C7–C8).",
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 83,
+      "section": "Muscles",
+      "label": "14"
+    },
+    {
+      "id": "upper-limb-model-ns15-84",
+      "path": [
+        "14"
+      ],
+      "question": "Origin",
+      "answer": "Common flexor tendon from medial epicondyle of humerus.",
+      "tags": [
+        "Origin",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 84,
+      "section": "Muscles",
+      "label": "14"
+    },
+    {
+      "id": "upper-limb-model-ns15-85",
+      "path": [
+        "14"
+      ],
+      "question": "Insertion",
+      "answer": "Flexor retinaculum and palmar aponeurosis.",
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 85,
+      "section": "Muscles",
+      "label": "14"
+    },
+    {
+      "id": "upper-limb-model-ns15-87",
+      "path": [
+        "15"
+      ],
+      "question": "Identification",
+      "answer": "Flexor carpi ulnaris",
+      "tags": [
+        "Identification",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 87,
+      "section": "Muscles",
+      "label": "15"
+    },
+    {
+      "id": "upper-limb-model-ns15-88",
+      "path": [
+        "15"
+      ],
+      "question": "Actions",
+      "answer": "Flexes and adducts (ulnar deviates) the wrist.",
+      "tags": [
+        "Action",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 88,
+      "section": "Muscles",
+      "label": "15"
+    },
+    {
+      "id": "upper-limb-model-ns15-89",
+      "path": [
+        "15"
+      ],
+      "question": "Innervation",
+      "answer": "Ulnar nerve (C7–T1, mainly C8).",
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 89,
+      "section": "Muscles",
+      "label": "15"
+    },
+    {
+      "id": "upper-limb-model-ns15-90",
+      "path": [
+        "15"
+      ],
+      "question": "Origin",
+      "answer": "Humeral head: medial epicondyle. Ulnar head: olecranon and posterior border of ulna.",
+      "tags": [
+        "Origin",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 90,
+      "section": "Muscles",
+      "label": "15"
+    },
+    {
+      "id": "upper-limb-model-ns15-91",
+      "path": [
+        "15"
+      ],
+      "question": "Insertion",
+      "answer": "Pisiform, hook of hamate and base of fifth metacarpal via pisohamate and pisometacarpal ligaments.",
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 91,
+      "section": "Muscles",
+      "label": "15"
+    },
+    {
+      "id": "upper-limb-model-ns15-93",
+      "path": [
+        "16"
+      ],
+      "question": "Identification",
+      "answer": "Extensor carpi ulnaris",
+      "tags": [
+        "Identification",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 93,
+      "section": "Muscles",
+      "label": "16"
+    },
+    {
+      "id": "upper-limb-model-ns15-94",
+      "path": [
+        "16"
+      ],
+      "question": "Actions",
+      "answer": "Extends and adducts (ulnar deviates) the wrist.",
+      "tags": [
+        "Action",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 94,
+      "section": "Muscles",
+      "label": "16"
+    },
+    {
+      "id": "upper-limb-model-ns15-95",
+      "path": [
+        "16"
+      ],
+      "question": "Innervation",
+      "answer": "Posterior interosseous nerve (C7–C8).",
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 95,
+      "section": "Muscles",
+      "label": "16"
+    },
+    {
+      "id": "upper-limb-model-ns15-96",
+      "path": [
+        "16"
+      ],
+      "question": "Origin",
+      "answer": "Lateral epicondyle via common extensor tendon and posterior border of ulna.",
+      "tags": [
+        "Origin",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 96,
+      "section": "Muscles",
+      "label": "16"
+    },
+    {
+      "id": "upper-limb-model-ns15-97",
+      "path": [
+        "16"
+      ],
+      "question": "Insertion",
+      "answer": "Base of fifth metacarpal.",
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 97,
+      "section": "Muscles",
+      "label": "16"
+    },
+    {
+      "id": "upper-limb-model-ns15-99",
+      "path": [
+        "17"
+      ],
+      "question": "Identification",
+      "answer": "Extensor digitorum",
+      "tags": [
+        "Identification",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 99,
+      "section": "Muscles",
+      "label": "17"
+    },
+    {
+      "id": "upper-limb-model-ns15-100",
+      "path": [
+        "17"
+      ],
+      "question": "Actions",
+      "answer": "Extends digits 2–5, chiefly at MCP joints and via extensor expansions at IP joints; assists wrist extension.",
+      "tags": [
+        "Action",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 100,
+      "section": "Muscles",
+      "label": "17"
+    },
+    {
+      "id": "upper-limb-model-ns15-101",
+      "path": [
+        "17"
+      ],
+      "question": "Innervation",
+      "answer": "Posterior interosseous nerve (C7–C8).",
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 101,
+      "section": "Muscles",
+      "label": "17"
+    },
+    {
+      "id": "upper-limb-model-ns15-102",
+      "path": [
+        "17"
+      ],
+      "question": "Origin",
+      "answer": "Lateral epicondyle via common extensor tendon.",
+      "tags": [
+        "Origin",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 102,
+      "section": "Muscles",
+      "label": "17"
+    },
+    {
+      "id": "upper-limb-model-ns15-103",
+      "path": [
+        "17"
+      ],
+      "question": "Insertion",
+      "answer": "Extensor expansions of digits 2–5.",
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 103,
+      "section": "Muscles",
+      "label": "17"
+    },
+    {
+      "id": "upper-limb-model-ns15-105",
+      "path": [
+        "18"
+      ],
+      "question": "Identification",
+      "answer": "Extensor carpi radialis brevis",
+      "tags": [
+        "Identification",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 105,
+      "section": "Muscles",
+      "label": "18"
+    },
+    {
+      "id": "upper-limb-model-ns15-106",
+      "path": [
+        "18"
+      ],
+      "question": "Actions",
+      "answer": "Extends and abducts the wrist; helps stabilise the wrist during gripping.",
+      "tags": [
+        "Action",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 106,
+      "section": "Muscles",
+      "label": "18"
+    },
+    {
+      "id": "upper-limb-model-ns15-107",
+      "path": [
+        "18"
+      ],
+      "question": "Innervation",
+      "answer": "Deep branch of radial nerve (C7–C8).",
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 107,
+      "section": "Muscles",
+      "label": "18"
+    },
+    {
+      "id": "upper-limb-model-ns15-108",
+      "path": [
+        "18"
+      ],
+      "question": "Origin",
+      "answer": "Lateral epicondyle via common extensor tendon.",
+      "tags": [
+        "Origin",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 108,
+      "section": "Muscles",
+      "label": "18"
+    },
+    {
+      "id": "upper-limb-model-ns15-109",
+      "path": [
+        "18"
+      ],
+      "question": "Insertion",
+      "answer": "Base of third metacarpal.",
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 109,
+      "section": "Muscles",
+      "label": "18"
+    },
+    {
+      "id": "upper-limb-model-ns15-111",
+      "path": [
+        "19"
+      ],
+      "question": "Identification",
+      "answer": "Extensor carpi radialis longus",
+      "tags": [
+        "Identification",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 111,
+      "section": "Muscles",
+      "label": "19"
+    },
+    {
+      "id": "upper-limb-model-ns15-112",
+      "path": [
+        "19"
+      ],
+      "question": "Actions",
+      "answer": "Extends and abducts the wrist; helps return a flexed wrist toward neutral.",
+      "tags": [
+        "Action",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 112,
+      "section": "Muscles",
+      "label": "19"
+    },
+    {
+      "id": "upper-limb-model-ns15-113",
+      "path": [
+        "19"
+      ],
+      "question": "Innervation",
+      "answer": "Radial nerve (C6–C7).",
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 113,
+      "section": "Muscles",
+      "label": "19"
+    },
+    {
+      "id": "upper-limb-model-ns15-114",
+      "path": [
+        "19"
+      ],
+      "question": "Origin",
+      "answer": "Lateral supracondylar ridge of humerus.",
+      "tags": [
+        "Origin",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 114,
+      "section": "Muscles",
+      "label": "19"
+    },
+    {
+      "id": "upper-limb-model-ns15-115",
+      "path": [
+        "19"
+      ],
+      "question": "Insertion",
+      "answer": "Base of second metacarpal.",
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 115,
+      "section": "Muscles",
+      "label": "19"
+    },
+    {
+      "id": "upper-limb-model-ns15-117",
+      "path": [
+        "20"
+      ],
+      "question": "Identification",
+      "answer": "Brachioradialis",
+      "tags": [
+        "Identification",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 117,
+      "section": "Muscles",
+      "label": "20"
+    },
+    {
+      "id": "upper-limb-model-ns15-118",
+      "path": [
+        "20"
+      ],
+      "question": "Actions",
+      "answer": "Flexes the elbow most effectively with the forearm in mid-pronation; helps return forearm toward neutral from pronation or supination.",
+      "tags": [
+        "Action",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 118,
+      "section": "Muscles",
+      "label": "20"
+    },
+    {
+      "id": "upper-limb-model-ns15-119",
+      "path": [
+        "20"
+      ],
+      "question": "Innervation",
+      "answer": "Radial nerve (C5–C7, mainly C6).",
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 119,
+      "section": "Muscles",
+      "label": "20"
+    },
+    {
+      "id": "upper-limb-model-ns15-120",
+      "path": [
+        "20"
+      ],
+      "question": "Origin",
+      "answer": "Proximal two-thirds of lateral supracondylar ridge of humerus.",
+      "tags": [
+        "Origin",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 120,
+      "section": "Muscles",
+      "label": "20"
+    },
+    {
+      "id": "upper-limb-model-ns15-121",
+      "path": [
+        "20"
+      ],
+      "question": "Insertion",
+      "answer": "Lateral distal radius just proximal to styloid process.",
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 121,
+      "section": "Muscles",
+      "label": "20"
+    },
+    {
+      "id": "upper-limb-model-ns15-123",
+      "path": [
+        "21"
+      ],
+      "question": "Identification",
+      "answer": "Tendon of extensor pollicis longus",
+      "tags": [
+        "Identification",
+        "Tendon",
+        "NS15"
+      ],
+      "sourceLine": 123,
+      "section": "Muscles",
+      "label": "21"
+    },
+    {
+      "id": "upper-limb-model-ns15-124",
+      "path": [
+        "21"
+      ],
+      "question": "Formed by",
+      "answer": "Distal tendon of extensor pollicis longus muscle.",
+      "tags": [
+        "Formation",
+        "Tendon",
+        "NS15"
+      ],
+      "sourceLine": 124,
+      "section": "Muscles",
+      "label": "21"
+    },
+    {
+      "id": "upper-limb-model-ns15-125",
+      "path": [
+        "21"
+      ],
+      "question": "Course",
+      "answer": "Passes through the third extensor compartment, turns around Lister’s tubercle, then crosses the dorsum of the wrist to the thumb.",
+      "tags": [
+        "Course",
+        "Tendon",
+        "NS15"
+      ],
+      "sourceLine": 125,
+      "section": "Muscles",
+      "label": "21"
+    },
+    {
+      "id": "upper-limb-model-ns15-126",
+      "path": [
+        "21"
+      ],
+      "question": "Insertion",
+      "answer": "Dorsal base of distal phalanx of thumb.",
+      "tags": [
+        "Insertion",
+        "Tendon",
+        "NS15"
+      ],
+      "sourceLine": 126,
+      "section": "Muscles",
+      "label": "21"
+    },
+    {
+      "id": "upper-limb-model-ns15-127",
+      "path": [
+        "21"
+      ],
+      "question": "Function",
+      "answer": "Transmits extensor pollicis longus force to extend the thumb, especially at the interphalangeal joint.",
+      "tags": [
+        "Function",
+        "Tendon",
+        "NS15"
+      ],
+      "sourceLine": 127,
+      "section": "Muscles",
+      "label": "21"
+    },
+    {
+      "id": "upper-limb-model-ns15-128",
+      "path": [
+        "21"
+      ],
+      "question": "Relations",
+      "answer": "Forms the medial border of the anatomical snuffbox.",
+      "tags": [
+        "Relations",
+        "Tendon",
+        "NS15"
+      ],
+      "sourceLine": 128,
+      "section": "Muscles",
+      "label": "21"
+    },
+    {
+      "id": "upper-limb-model-ns15-130",
+      "path": [
+        "22"
+      ],
+      "question": "Identification",
+      "answer": "Extensor pollicis brevis",
+      "tags": [
+        "Identification",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 130,
+      "section": "Muscles",
+      "label": "22"
+    },
+    {
+      "id": "upper-limb-model-ns15-131",
+      "path": [
+        "22"
+      ],
+      "question": "Actions",
+      "answer": "Extends the thumb at the MCP joint and assists extension at the carpometacarpal joint.",
+      "tags": [
+        "Action",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 131,
+      "section": "Muscles",
+      "label": "22"
+    },
+    {
+      "id": "upper-limb-model-ns15-132",
+      "path": [
+        "22"
+      ],
+      "question": "Innervation",
+      "answer": "Posterior interosseous nerve (C7–C8).",
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 132,
+      "section": "Muscles",
+      "label": "22"
+    },
+    {
+      "id": "upper-limb-model-ns15-133",
+      "path": [
+        "22"
+      ],
+      "question": "Origin",
+      "answer": "Posterior radius and adjacent interosseous membrane.",
+      "tags": [
+        "Origin",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 133,
+      "section": "Muscles",
+      "label": "22"
+    },
+    {
+      "id": "upper-limb-model-ns15-134",
+      "path": [
+        "22"
+      ],
+      "question": "Insertion",
+      "answer": "Dorsal base of proximal phalanx of thumb.",
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 134,
+      "section": "Muscles",
+      "label": "22"
+    },
+    {
+      "id": "upper-limb-model-ns15-136",
+      "path": [
+        "23"
+      ],
+      "question": "Identification",
+      "answer": "Abductor pollicis longus",
+      "tags": [
+        "Identification",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 136,
+      "section": "Muscles",
+      "label": "23"
+    },
+    {
+      "id": "upper-limb-model-ns15-137",
+      "path": [
+        "23"
+      ],
+      "question": "Actions",
+      "answer": "Abducts and extends the thumb at the carpometacarpal joint; assists radial deviation of wrist.",
+      "tags": [
+        "Action",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 137,
+      "section": "Muscles",
+      "label": "23"
+    },
+    {
+      "id": "upper-limb-model-ns15-138",
+      "path": [
+        "23"
+      ],
+      "question": "Innervation",
+      "answer": "Posterior interosseous nerve (C7–C8).",
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 138,
+      "section": "Muscles",
+      "label": "23"
+    },
+    {
+      "id": "upper-limb-model-ns15-139",
+      "path": [
+        "23"
+      ],
+      "question": "Origin",
+      "answer": "Posterior ulna, radius and interosseous membrane.",
+      "tags": [
+        "Origin",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 139,
+      "section": "Muscles",
+      "label": "23"
+    },
+    {
+      "id": "upper-limb-model-ns15-140",
+      "path": [
+        "23"
+      ],
+      "question": "Insertion",
+      "answer": "Base of first metacarpal.",
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 140,
+      "section": "Muscles",
+      "label": "23"
+    },
+    {
+      "id": "upper-limb-model-ns15-142",
+      "path": [
+        "24"
+      ],
+      "question": "Identification",
+      "answer": "Flexor digitorum superficialis",
+      "tags": [
+        "Identification",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 142,
+      "section": "Muscles",
+      "label": "24"
+    },
+    {
+      "id": "upper-limb-model-ns15-143",
+      "path": [
+        "24"
+      ],
+      "question": "Actions",
+      "answer": "Flexes PIP joints of digits 2–5; also flexes MCP joints and wrist.",
+      "tags": [
+        "Action",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 143,
+      "section": "Muscles",
+      "label": "24"
+    },
+    {
+      "id": "upper-limb-model-ns15-144",
+      "path": [
+        "24"
+      ],
+      "question": "Innervation",
+      "answer": "Median nerve (C7–T1).",
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 144,
+      "section": "Muscles",
+      "label": "24"
+    },
+    {
+      "id": "upper-limb-model-ns15-145",
+      "path": [
+        "24"
+      ],
+      "question": "Origin",
+      "answer": "Humero-ulnar head: medial epicondyle, ulnar collateral ligament and coronoid process. Radial head: superior anterior radius.",
+      "tags": [
+        "Origin",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 145,
+      "section": "Muscles",
+      "label": "24"
+    },
+    {
+      "id": "upper-limb-model-ns15-146",
+      "path": [
+        "24"
+      ],
+      "question": "Insertion",
+      "answer": "Sides of middle phalanges of digits 2–5 after each tendon splits around FDP tendon.",
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 146,
+      "section": "Muscles",
+      "label": "24"
+    },
+    {
+      "id": "upper-limb-model-ns15-148",
+      "path": [
+        "25"
+      ],
+      "question": "Identification",
+      "answer": "Supinator",
+      "tags": [
+        "Identification",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 148,
+      "section": "Muscles",
+      "label": "25"
+    },
+    {
+      "id": "upper-limb-model-ns15-149",
+      "path": [
+        "25"
+      ],
+      "question": "Actions",
+      "answer": "Supinates the forearm, especially during unresisted or slow supination.",
+      "tags": [
+        "Action",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 149,
+      "section": "Muscles",
+      "label": "25"
+    },
+    {
+      "id": "upper-limb-model-ns15-150",
+      "path": [
+        "25"
+      ],
+      "question": "Innervation",
+      "answer": "Deep branch of radial nerve (C6–C7).",
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 150,
+      "section": "Muscles",
+      "label": "25"
+    },
+    {
+      "id": "upper-limb-model-ns15-151",
+      "path": [
+        "25"
+      ],
+      "question": "Origin",
+      "answer": "Lateral epicondyle, radial collateral and annular ligaments, supinator crest and fossa of ulna.",
+      "tags": [
+        "Origin",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 151,
+      "section": "Muscles",
+      "label": "25"
+    },
+    {
+      "id": "upper-limb-model-ns15-152",
+      "path": [
+        "25"
+      ],
+      "question": "Insertion",
+      "answer": "Lateral, posterior and anterior surfaces of proximal third of radius.",
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 152,
+      "section": "Muscles",
+      "label": "25"
+    },
+    {
+      "id": "upper-limb-model-ns15-154",
+      "path": [
+        "26"
+      ],
+      "question": "Identification",
+      "answer": "Palmar (volar) carpal ligament / Guyon’s tunnel",
+      "tags": [
+        "Identification",
+        "Canal",
+        "NS15"
+      ],
+      "sourceLine": 154,
+      "section": "Muscles",
+      "label": "26"
+    },
+    {
+      "id": "upper-limb-model-ns15-155",
+      "path": [
+        "26"
+      ],
+      "question": "Attachments",
+      "answer": "Palmar carpal ligament spans the anterior wrist superficial to flexor tendons, blending medially with structures around pisiform and hook of hamate.",
+      "tags": [
+        "Attachments",
+        "Canal",
+        "NS15"
+      ],
+      "sourceLine": 155,
+      "section": "Muscles",
+      "label": "26"
+    },
+    {
+      "id": "upper-limb-model-ns15-156",
+      "path": [
+        "26"
+      ],
+      "question": "Relations",
+      "answer": "Guyon’s canal lies superficial to the flexor retinaculum between pisiform and hook of hamate.",
+      "tags": [
+        "Relations",
+        "Canal",
+        "NS15"
+      ],
+      "sourceLine": 156,
+      "section": "Muscles",
+      "label": "26"
+    },
+    {
+      "id": "upper-limb-model-ns15-157",
+      "path": [
+        "26"
+      ],
+      "question": "Contents",
+      "answer": "Ulnar nerve and ulnar artery pass through Guyon’s canal.",
+      "tags": [
+        "Contents",
+        "Canal",
+        "NS15"
+      ],
+      "sourceLine": 157,
+      "section": "Muscles",
+      "label": "26"
+    },
+    {
+      "id": "upper-limb-model-ns15-158",
+      "path": [
+        "26"
+      ],
+      "question": "Function",
+      "answer": "The palmar carpal ligament helps retain superficial flexor structures; Guyon’s canal provides a passage for the ulnar neurovascular bundle.",
+      "tags": [
+        "Function",
+        "Canal",
+        "NS15"
+      ],
+      "sourceLine": 158,
+      "section": "Muscles",
+      "label": "26"
+    },
+    {
+      "id": "upper-limb-model-ns15-159",
+      "path": [
+        "26"
+      ],
+      "question": "Clinical relevance",
+      "answer": "Ulnar nerve compression in Guyon’s canal causes ulnar-sided hand sensory and/or intrinsic motor deficits depending on lesion level.",
+      "tags": [
+        "Clinical",
+        "Canal",
+        "NS15"
+      ],
+      "sourceLine": 159,
+      "section": "Muscles",
+      "label": "26"
+    },
+    {
+      "id": "upper-limb-model-ns15-161",
+      "path": [
+        "27"
+      ],
+      "question": "Identification",
+      "answer": "Extensor retinaculum",
+      "tags": [
+        "Identification",
+        "Retinaculum",
+        "NS15"
+      ],
+      "sourceLine": 161,
+      "section": "Muscles",
+      "label": "27"
+    },
+    {
+      "id": "upper-limb-model-ns15-162",
+      "path": [
+        "27"
+      ],
+      "question": "Attachments",
+      "answer": "Extends obliquely across the dorsal wrist from distal radius to ulnar-sided carpal and forearm fascia.",
+      "tags": [
+        "Attachments",
+        "Retinaculum",
+        "NS15"
+      ],
+      "sourceLine": 162,
+      "section": "Muscles",
+      "label": "27"
+    },
+    {
+      "id": "upper-limb-model-ns15-163",
+      "path": [
+        "27"
+      ],
+      "question": "Function",
+      "answer": "Prevents bowstringing of extensor tendons at the wrist.",
+      "tags": [
+        "Function",
+        "Retinaculum",
+        "NS15"
+      ],
+      "sourceLine": 163,
+      "section": "Muscles",
+      "label": "27"
+    },
+    {
+      "id": "upper-limb-model-ns15-164",
+      "path": [
+        "27"
+      ],
+      "question": "Compartments",
+      "answer": "Forms six osteofibrous extensor compartments containing the wrist and finger extensor tendons.",
+      "tags": [
+        "Compartments",
+        "Retinaculum",
+        "NS15"
+      ],
+      "sourceLine": 164,
+      "section": "Muscles",
+      "label": "27"
+    },
+    {
+      "id": "upper-limb-model-ns15-165",
+      "path": [
+        "27"
+      ],
+      "question": "Relations",
+      "answer": "Lies superficial to the extensor tendon compartments on the dorsum of the wrist.",
+      "tags": [
+        "Relations",
+        "Retinaculum",
+        "NS15"
+      ],
+      "sourceLine": 165,
+      "section": "Muscles",
+      "label": "27"
+    },
+    {
+      "id": "upper-limb-model-ns15-166",
+      "path": [
+        "27"
+      ],
+      "question": "Clinical relevance",
+      "answer": "Tendon-compartment inflammation beneath it includes conditions such as de Quervain tenosynovitis in the first compartment.",
+      "tags": [
+        "Clinical",
+        "Retinaculum",
+        "NS15"
+      ],
+      "sourceLine": 166,
+      "section": "Muscles",
+      "label": "27"
+    },
+    {
+      "id": "upper-limb-model-ns15-168",
+      "path": [
+        "28"
+      ],
+      "question": "Identification",
+      "answer": "Flexor pollicis brevis",
+      "tags": [
+        "Identification",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 168,
+      "section": "Muscles",
+      "label": "28"
+    },
+    {
+      "id": "upper-limb-model-ns15-169",
+      "path": [
+        "28"
+      ],
+      "question": "Actions",
+      "answer": "Flexes the thumb at the MCP joint and assists opposition.",
+      "tags": [
+        "Action",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 169,
+      "section": "Muscles",
+      "label": "28"
+    },
+    {
+      "id": "upper-limb-model-ns15-170",
+      "path": [
+        "28"
+      ],
+      "question": "Innervation",
+      "answer": "Superficial head: recurrent branch of median nerve (C8–T1). Deep head is often supplied by deep branch of ulnar nerve.",
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 170,
+      "section": "Muscles",
+      "label": "28"
+    },
+    {
+      "id": "upper-limb-model-ns15-171",
+      "path": [
+        "28"
+      ],
+      "question": "Origin",
+      "answer": "Flexor retinaculum and trapezium; deep head may arise from trapezoid/capitate region.",
+      "tags": [
+        "Origin",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 171,
+      "section": "Muscles",
+      "label": "28"
+    },
+    {
+      "id": "upper-limb-model-ns15-172",
+      "path": [
+        "28"
+      ],
+      "question": "Insertion",
+      "answer": "Lateral base of proximal phalanx of thumb via lateral sesamoid.",
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 172,
+      "section": "Muscles",
+      "label": "28"
+    },
+    {
+      "id": "upper-limb-model-ns15-174",
+      "path": [
+        "29"
+      ],
+      "question": "Identification",
+      "answer": "Abductor pollicis brevis",
+      "tags": [
+        "Identification",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 174,
+      "section": "Muscles",
+      "label": "29"
+    },
+    {
+      "id": "upper-limb-model-ns15-175",
+      "path": [
+        "29"
+      ],
+      "question": "Actions",
+      "answer": "Abducts the thumb perpendicular to the palm and assists opposition.",
+      "tags": [
+        "Action",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 175,
+      "section": "Muscles",
+      "label": "29"
+    },
+    {
+      "id": "upper-limb-model-ns15-176",
+      "path": [
+        "29"
+      ],
+      "question": "Innervation",
+      "answer": "Recurrent branch of median nerve (C8–T1).",
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 176,
+      "section": "Muscles",
+      "label": "29"
+    },
+    {
+      "id": "upper-limb-model-ns15-177",
+      "path": [
+        "29"
+      ],
+      "question": "Origin",
+      "answer": "Scaphoid tubercle, trapezium and flexor retinaculum.",
+      "tags": [
+        "Origin",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 177,
+      "section": "Muscles",
+      "label": "29"
+    },
+    {
+      "id": "upper-limb-model-ns15-178",
+      "path": [
+        "29"
+      ],
+      "question": "Insertion",
+      "answer": "Lateral base of proximal phalanx of thumb and extensor expansion.",
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 178,
+      "section": "Muscles",
+      "label": "29"
+    },
+    {
+      "id": "upper-limb-model-ns15-180",
+      "path": [
+        "30"
+      ],
+      "question": "Identification",
+      "answer": "Adductor pollicis",
+      "tags": [
+        "Identification",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 180,
+      "section": "Muscles",
+      "label": "30"
+    },
+    {
+      "id": "upper-limb-model-ns15-181",
+      "path": [
+        "30"
+      ],
+      "question": "Actions",
+      "answer": "Adducts the thumb and is important for power grip.",
+      "tags": [
+        "Action",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 181,
+      "section": "Muscles",
+      "label": "30"
+    },
+    {
+      "id": "upper-limb-model-ns15-182",
+      "path": [
+        "30"
+      ],
+      "question": "Innervation",
+      "answer": "Deep branch of ulnar nerve (C8–T1).",
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 182,
+      "section": "Muscles",
+      "label": "30"
+    },
+    {
+      "id": "upper-limb-model-ns15-183",
+      "path": [
+        "30"
+      ],
+      "question": "Origin",
+      "answer": "Oblique head: bases of 2nd/3rd metacarpals and capitate. Transverse head: shaft of 3rd metacarpal.",
+      "tags": [
+        "Origin",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 183,
+      "section": "Muscles",
+      "label": "30"
+    },
+    {
+      "id": "upper-limb-model-ns15-184",
+      "path": [
+        "30"
+      ],
+      "question": "Insertion",
+      "answer": "Medial base of proximal phalanx of thumb via medial sesamoid and extensor expansion.",
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 184,
+      "section": "Muscles",
+      "label": "30"
+    },
+    {
+      "id": "upper-limb-model-ns15-186",
+      "path": [
+        "31"
+      ],
+      "question": "Identification",
+      "answer": "Opponens pollicis",
+      "tags": [
+        "Identification",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 186,
+      "section": "Muscles",
+      "label": "31"
+    },
+    {
+      "id": "upper-limb-model-ns15-187",
+      "path": [
+        "31"
+      ],
+      "question": "Actions",
+      "answer": "Opposes the thumb by flexing and medially rotating the first metacarpal at the carpometacarpal joint.",
+      "tags": [
+        "Action",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 187,
+      "section": "Muscles",
+      "label": "31"
+    },
+    {
+      "id": "upper-limb-model-ns15-188",
+      "path": [
+        "31"
+      ],
+      "question": "Innervation",
+      "answer": "Recurrent branch of median nerve (C8–T1).",
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 188,
+      "section": "Muscles",
+      "label": "31"
+    },
+    {
+      "id": "upper-limb-model-ns15-189",
+      "path": [
+        "31"
+      ],
+      "question": "Origin",
+      "answer": "Flexor retinaculum and tubercle of trapezium.",
+      "tags": [
+        "Origin",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 189,
+      "section": "Muscles",
+      "label": "31"
+    },
+    {
+      "id": "upper-limb-model-ns15-190",
+      "path": [
+        "31"
+      ],
+      "question": "Insertion",
+      "answer": "Lateral side of first metacarpal.",
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 190,
+      "section": "Muscles",
+      "label": "31"
+    },
+    {
+      "id": "upper-limb-model-ns15-192",
+      "path": [
+        "32"
+      ],
+      "question": "Identification",
+      "answer": "Opponens digiti minimi",
+      "tags": [
+        "Identification",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 192,
+      "section": "Muscles",
+      "label": "32"
+    },
+    {
+      "id": "upper-limb-model-ns15-193",
+      "path": [
+        "32"
+      ],
+      "question": "Actions",
+      "answer": "Draws the fifth metacarpal anteriorly and rotates it to assist opposition/cupping of the palm.",
+      "tags": [
+        "Action",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 193,
+      "section": "Muscles",
+      "label": "32"
+    },
+    {
+      "id": "upper-limb-model-ns15-194",
+      "path": [
+        "32"
+      ],
+      "question": "Innervation",
+      "answer": "Deep branch of ulnar nerve (C8–T1).",
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 194,
+      "section": "Muscles",
+      "label": "32"
+    },
+    {
+      "id": "upper-limb-model-ns15-195",
+      "path": [
+        "32"
+      ],
+      "question": "Origin",
+      "answer": "Hook of hamate and flexor retinaculum.",
+      "tags": [
+        "Origin",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 195,
+      "section": "Muscles",
+      "label": "32"
+    },
+    {
+      "id": "upper-limb-model-ns15-196",
+      "path": [
+        "32"
+      ],
+      "question": "Insertion",
+      "answer": "Medial border of fifth metacarpal.",
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 196,
+      "section": "Muscles",
+      "label": "32"
+    },
+    {
+      "id": "upper-limb-model-ns15-198",
+      "path": [
+        "33"
+      ],
+      "question": "Identification",
+      "answer": "Flexor digiti minimi",
+      "tags": [
+        "Identification",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 198,
+      "section": "Muscles",
+      "label": "33"
+    },
+    {
+      "id": "upper-limb-model-ns15-199",
+      "path": [
+        "33"
+      ],
+      "question": "Actions",
+      "answer": "Flexes the fifth digit at the MCP joint.",
+      "tags": [
+        "Action",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 199,
+      "section": "Muscles",
+      "label": "33"
+    },
+    {
+      "id": "upper-limb-model-ns15-200",
+      "path": [
+        "33"
+      ],
+      "question": "Innervation",
+      "answer": "Deep branch of ulnar nerve (C8–T1).",
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 200,
+      "section": "Muscles",
+      "label": "33"
+    },
+    {
+      "id": "upper-limb-model-ns15-201",
+      "path": [
+        "33"
+      ],
+      "question": "Origin",
+      "answer": "Hook of hamate and flexor retinaculum.",
+      "tags": [
+        "Origin",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 201,
+      "section": "Muscles",
+      "label": "33"
+    },
+    {
+      "id": "upper-limb-model-ns15-202",
+      "path": [
+        "33"
+      ],
+      "question": "Insertion",
+      "answer": "Medial base of proximal phalanx of fifth digit.",
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 202,
+      "section": "Muscles",
+      "label": "33"
+    },
+    {
+      "id": "upper-limb-model-ns15-204",
+      "path": [
+        "34"
+      ],
+      "question": "Identification",
+      "answer": "Abductor digiti minimi",
+      "tags": [
+        "Identification",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 204,
+      "section": "Muscles",
+      "label": "34"
+    },
+    {
+      "id": "upper-limb-model-ns15-205",
+      "path": [
+        "34"
+      ],
+      "question": "Actions",
+      "answer": "Abducts the fifth digit and assists MCP flexion.",
+      "tags": [
+        "Action",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 205,
+      "section": "Muscles",
+      "label": "34"
+    },
+    {
+      "id": "upper-limb-model-ns15-206",
+      "path": [
+        "34"
+      ],
+      "question": "Innervation",
+      "answer": "Deep branch of ulnar nerve (C8–T1).",
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 206,
+      "section": "Muscles",
+      "label": "34"
+    },
+    {
+      "id": "upper-limb-model-ns15-207",
+      "path": [
+        "34"
+      ],
+      "question": "Origin",
+      "answer": "Pisiform and tendon of flexor carpi ulnaris.",
+      "tags": [
+        "Origin",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 207,
+      "section": "Muscles",
+      "label": "34"
+    },
+    {
+      "id": "upper-limb-model-ns15-208",
+      "path": [
+        "34"
+      ],
+      "question": "Insertion",
+      "answer": "Medial base of proximal phalanx of fifth digit and extensor expansion.",
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 208,
+      "section": "Muscles",
+      "label": "34"
+    },
+    {
+      "id": "upper-limb-model-ns15-210",
+      "path": [
+        "35"
+      ],
+      "question": "Identification",
+      "answer": "Lumbrical",
+      "tags": [
+        "Identification",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 210,
+      "section": "Muscles",
+      "label": "35"
+    },
+    {
+      "id": "upper-limb-model-ns15-211",
+      "path": [
+        "35"
+      ],
+      "question": "Actions",
+      "answer": "Flex MCP joints and extend IP joints of digits 2–5.",
+      "tags": [
+        "Action",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 211,
+      "section": "Muscles",
+      "label": "35"
+    },
+    {
+      "id": "upper-limb-model-ns15-212",
+      "path": [
+        "35"
+      ],
+      "question": "Innervation",
+      "answer": "Lumbricals 1–2: median nerve. Lumbricals 3–4: deep branch of ulnar nerve (C8–T1).",
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 212,
+      "section": "Muscles",
+      "label": "35"
+    },
+    {
+      "id": "upper-limb-model-ns15-213",
+      "path": [
+        "35"
+      ],
+      "question": "Origin",
+      "answer": "Tendons of flexor digitorum profundus.",
+      "tags": [
+        "Origin",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 213,
+      "section": "Muscles",
+      "label": "35"
+    },
+    {
+      "id": "upper-limb-model-ns15-214",
+      "path": [
+        "35"
+      ],
+      "question": "Insertion",
+      "answer": "Lateral sides of extensor expansions of digits 2–5.",
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 214,
+      "section": "Muscles",
+      "label": "35"
+    },
+    {
+      "id": "upper-limb-model-ns15-216",
+      "path": [
+        "36"
+      ],
+      "question": "Identification",
+      "answer": "Dorsal interosseus",
+      "tags": [
+        "Identification",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 216,
+      "section": "Muscles",
+      "label": "36"
+    },
+    {
+      "id": "upper-limb-model-ns15-217",
+      "path": [
+        "36"
+      ],
+      "question": "Actions",
+      "answer": "Abduct digits 2–4 from the axial line through the middle finger; assist MCP flexion and IP extension.",
+      "tags": [
+        "Action",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 217,
+      "section": "Muscles",
+      "label": "36"
+    },
+    {
+      "id": "upper-limb-model-ns15-218",
+      "path": [
+        "36"
+      ],
+      "question": "Innervation",
+      "answer": "Deep branch of ulnar nerve (C8–T1).",
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 218,
+      "section": "Muscles",
+      "label": "36"
+    },
+    {
+      "id": "upper-limb-model-ns15-219",
+      "path": [
+        "36"
+      ],
+      "question": "Origin",
+      "answer": "Adjacent sides of metacarpals.",
+      "tags": [
+        "Origin",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 219,
+      "section": "Muscles",
+      "label": "36"
+    },
+    {
+      "id": "upper-limb-model-ns15-220",
+      "path": [
+        "36"
+      ],
+      "question": "Insertion",
+      "answer": "Bases of proximal phalanges and extensor expansions of digits 2–4.",
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "NS15"
+      ],
+      "sourceLine": 220,
+      "section": "Muscles",
+      "label": "36"
+    },
+    {
+      "id": "upper-limb-model-ns15-222",
+      "path": [
+        "37"
+      ],
+      "question": "Identification",
+      "answer": "Flexor retinaculum",
+      "tags": [
+        "Identification",
+        "Retinaculum",
+        "NS15"
+      ],
+      "sourceLine": 222,
+      "section": "Muscles",
+      "label": "37"
+    },
+    {
+      "id": "upper-limb-model-ns15-223",
+      "path": [
+        "37"
+      ],
+      "question": "Attachments",
+      "answer": "Laterally to scaphoid tubercle and trapezium; medially to pisiform and hook of hamate.",
+      "tags": [
+        "Attachments",
+        "Retinaculum",
+        "NS15"
+      ],
+      "sourceLine": 223,
+      "section": "Muscles",
+      "label": "37"
+    },
+    {
+      "id": "upper-limb-model-ns15-224",
+      "path": [
+        "37"
+      ],
+      "question": "Function",
+      "answer": "Forms the roof of the carpal tunnel and prevents bowstringing of flexor tendons.",
+      "tags": [
+        "Function",
+        "Retinaculum",
+        "NS15"
+      ],
+      "sourceLine": 224,
+      "section": "Muscles",
+      "label": "37"
+    },
+    {
+      "id": "upper-limb-model-ns15-225",
+      "path": [
+        "37"
+      ],
+      "question": "Relations",
+      "answer": "Median nerve and nine long flexor tendons pass deep to it in the carpal tunnel; ulnar nerve and artery pass superficial to it in Guyon’s canal.",
+      "tags": [
+        "Relations",
+        "Retinaculum",
+        "NS15"
+      ],
+      "sourceLine": 225,
+      "section": "Muscles",
+      "label": "37"
+    },
+    {
+      "id": "upper-limb-model-ns15-226",
+      "path": [
+        "37"
+      ],
+      "question": "Clinical relevance",
+      "answer": "Compression of the median nerve beneath it produces carpal tunnel syndrome.",
+      "tags": [
+        "Clinical",
+        "Retinaculum",
+        "NS15"
+      ],
+      "sourceLine": 226,
+      "section": "Muscles",
+      "label": "37"
+    },
+    {
+      "id": "upper-limb-model-ns15-228",
+      "path": [
+        "38"
+      ],
+      "question": "Identification",
+      "answer": "Annular ligament (A1 pulley) and fibrous digital sheath",
+      "tags": [
+        "Identification",
+        "Sheath",
+        "NS15"
+      ],
+      "sourceLine": 228,
+      "section": "Muscles",
+      "label": "38"
+    },
+    {
+      "id": "upper-limb-model-ns15-229",
+      "path": [
+        "38"
+      ],
+      "question": "Attachments",
+      "answer": "Fibrous digital sheath attaches along the margins of phalanges and palmar plates; A1 pulley lies over the MCP joint.",
+      "tags": [
+        "Attachments",
+        "Sheath",
+        "NS15"
+      ],
+      "sourceLine": 229,
+      "section": "Muscles",
+      "label": "38"
+    },
+    {
+      "id": "upper-limb-model-ns15-230",
+      "path": [
+        "38"
+      ],
+      "question": "Function",
+      "answer": "Holds flexor tendons close to the phalanges, preventing bowstringing during finger flexion.",
+      "tags": [
+        "Function",
+        "Sheath",
+        "NS15"
+      ],
+      "sourceLine": 230,
+      "section": "Muscles",
+      "label": "38"
+    },
+    {
+      "id": "upper-limb-model-ns15-231",
+      "path": [
+        "38"
+      ],
+      "question": "Relations",
+      "answer": "Flexor digitorum superficialis and profundus tendons run within the digital synovial/fibrous sheath.",
+      "tags": [
+        "Relations",
+        "Sheath",
+        "NS15"
+      ],
+      "sourceLine": 231,
+      "section": "Muscles",
+      "label": "38"
+    },
+    {
+      "id": "upper-limb-model-ns15-232",
+      "path": [
+        "38"
+      ],
+      "question": "Clinical relevance",
+      "answer": "Thickening at the A1 pulley can cause trigger finger.",
+      "tags": [
+        "Clinical",
+        "Sheath",
+        "NS15"
+      ],
+      "sourceLine": 232,
+      "section": "Muscles",
+      "label": "38"
+    },
+    {
+      "id": "upper-limb-model-ns15-234",
+      "path": [
+        "39"
+      ],
+      "question": "Identification",
+      "answer": "Cruciform ligaments",
+      "tags": [
+        "Identification",
+        "Pulley",
+        "NS15"
+      ],
+      "sourceLine": 234,
+      "section": "Muscles",
+      "label": "39"
+    },
+    {
+      "id": "upper-limb-model-ns15-235",
+      "path": [
+        "39"
+      ],
+      "question": "Attachments",
+      "answer": "Flexible cruciate components of the fibrous digital sheath between annular pulleys.",
+      "tags": [
+        "Attachments",
+        "Pulley",
+        "NS15"
+      ],
+      "sourceLine": 235,
+      "section": "Muscles",
+      "label": "39"
+    },
+    {
+      "id": "upper-limb-model-ns15-236",
+      "path": [
+        "39"
+      ],
+      "question": "Function",
+      "answer": "Permit sheath deformation during finger flexion while helping retain flexor tendons close to the phalanges.",
+      "tags": [
+        "Function",
+        "Pulley",
+        "NS15"
+      ],
+      "sourceLine": 236,
+      "section": "Muscles",
+      "label": "39"
+    },
+    {
+      "id": "upper-limb-model-ns15-237",
+      "path": [
+        "39"
+      ],
+      "question": "Relations",
+      "answer": "Alternate with annular pulleys in the fibrous flexor sheath of digits.",
+      "tags": [
+        "Relations",
+        "Pulley",
+        "NS15"
+      ],
+      "sourceLine": 237,
+      "section": "Muscles",
+      "label": "39"
+    },
+    {
+      "id": "upper-limb-model-ns15-239",
+      "path": [
+        "40"
+      ],
+      "question": "Identification",
+      "answer": "Annular ligament (A3 pulley)",
+      "tags": [
+        "Identification",
+        "Pulley",
+        "NS15"
+      ],
+      "sourceLine": 239,
+      "section": "Muscles",
+      "label": "40"
+    },
+    {
+      "id": "upper-limb-model-ns15-240",
+      "path": [
+        "40"
+      ],
+      "question": "Attachments",
+      "answer": "Attaches around the palmar aspect of the PIP joint/volar plate region.",
+      "tags": [
+        "Attachments",
+        "Pulley",
+        "NS15"
+      ],
+      "sourceLine": 240,
+      "section": "Muscles",
+      "label": "40"
+    },
+    {
+      "id": "upper-limb-model-ns15-241",
+      "path": [
+        "40"
+      ],
+      "question": "Function",
+      "answer": "Maintains flexor tendons close to the digit and limits bowstringing.",
+      "tags": [
+        "Function",
+        "Pulley",
+        "NS15"
+      ],
+      "sourceLine": 241,
+      "section": "Muscles",
+      "label": "40"
+    },
+    {
+      "id": "upper-limb-model-ns15-242",
+      "path": [
+        "40"
+      ],
+      "question": "Relations",
+      "answer": "Part of the fibrous digital sheath, between cruciform pulley segments.",
+      "tags": [
+        "Relations",
+        "Pulley",
+        "NS15"
+      ],
+      "sourceLine": 242,
+      "section": "Muscles",
+      "label": "40"
+    },
+    {
+      "id": "upper-limb-model-ns15-243",
+      "path": [
+        "40"
+      ],
+      "question": "Clinical relevance",
+      "answer": "Pulley injury can alter flexor tendon mechanics; A2 and A4 are particularly important for preventing bowstringing.",
+      "tags": [
+        "Clinical",
+        "Pulley",
+        "NS15"
+      ],
+      "sourceLine": 243,
+      "section": "Muscles",
+      "label": "40"
+    },
+    {
+      "id": "upper-limb-model-ns15-245",
+      "path": [
+        "41"
+      ],
+      "question": "Identification",
+      "answer": "Tendon of flexor pollicis longus",
+      "tags": [
+        "Identification",
+        "Tendon",
+        "NS15"
+      ],
+      "sourceLine": 245,
+      "section": "Muscles",
+      "label": "41"
+    },
+    {
+      "id": "upper-limb-model-ns15-246",
+      "path": [
+        "41"
+      ],
+      "question": "Formed by",
+      "answer": "Distal tendon of flexor pollicis longus muscle.",
+      "tags": [
+        "Formation",
+        "Tendon",
+        "NS15"
+      ],
+      "sourceLine": 246,
+      "section": "Muscles",
+      "label": "41"
+    },
+    {
+      "id": "upper-limb-model-ns15-247",
+      "path": [
+        "41"
+      ],
+      "question": "Course",
+      "answer": "Passes through the carpal tunnel, then through the flexor sheath of the thumb.",
+      "tags": [
+        "Course",
+        "Tendon",
+        "NS15"
+      ],
+      "sourceLine": 247,
+      "section": "Muscles",
+      "label": "41"
+    },
+    {
+      "id": "upper-limb-model-ns15-248",
+      "path": [
+        "41"
+      ],
+      "question": "Insertion",
+      "answer": "Palmar base of distal phalanx of thumb.",
+      "tags": [
+        "Insertion",
+        "Tendon",
+        "NS15"
+      ],
+      "sourceLine": 248,
+      "section": "Muscles",
+      "label": "41"
+    },
+    {
+      "id": "upper-limb-model-ns15-249",
+      "path": [
+        "41"
+      ],
+      "question": "Function",
+      "answer": "Transmits force to flex the thumb, especially at the interphalangeal joint.",
+      "tags": [
+        "Function",
+        "Tendon",
+        "NS15"
+      ],
+      "sourceLine": 249,
+      "section": "Muscles",
+      "label": "41"
+    },
+    {
+      "id": "upper-limb-model-ns15-250",
+      "path": [
+        "41"
+      ],
+      "question": "Relations",
+      "answer": "Runs between the sesamoids at the MCP region and within its own digital synovial sheath.",
+      "tags": [
+        "Relations",
+        "Tendon",
+        "NS15"
+      ],
+      "sourceLine": 250,
+      "section": "Muscles",
+      "label": "41"
+    },
+    {
+      "id": "upper-limb-model-ns15-252",
+      "path": [
+        "42"
+      ],
+      "question": "Identification",
+      "answer": "Tendons of flexor digitorum superficialis",
+      "tags": [
+        "Identification",
+        "Tendon",
+        "NS15"
+      ],
+      "sourceLine": 252,
+      "section": "Muscles",
+      "label": "42"
+    },
+    {
+      "id": "upper-limb-model-ns15-253",
+      "path": [
+        "42"
+      ],
+      "question": "Formed by",
+      "answer": "Four distal tendons of flexor digitorum superficialis.",
+      "tags": [
+        "Formation",
+        "Tendon",
+        "NS15"
+      ],
+      "sourceLine": 253,
+      "section": "Muscles",
+      "label": "42"
+    },
+    {
+      "id": "upper-limb-model-ns15-254",
+      "path": [
+        "42"
+      ],
+      "question": "Course",
+      "answer": "Pass through the carpal tunnel and digital sheaths; each splits into two slips around the FDP tendon.",
+      "tags": [
+        "Course",
+        "Tendon",
+        "NS15"
+      ],
+      "sourceLine": 254,
+      "section": "Muscles",
+      "label": "42"
+    },
+    {
+      "id": "upper-limb-model-ns15-255",
+      "path": [
+        "42"
+      ],
+      "question": "Insertion",
+      "answer": "Sides of middle phalanges of digits 2–5.",
+      "tags": [
+        "Insertion",
+        "Tendon",
+        "NS15"
+      ],
+      "sourceLine": 255,
+      "section": "Muscles",
+      "label": "42"
+    },
+    {
+      "id": "upper-limb-model-ns15-256",
+      "path": [
+        "42"
+      ],
+      "question": "Function",
+      "answer": "Transmit force to flex the PIP joints.",
+      "tags": [
+        "Function",
+        "Tendon",
+        "NS15"
+      ],
+      "sourceLine": 256,
+      "section": "Muscles",
+      "label": "42"
+    },
+    {
+      "id": "upper-limb-model-ns15-257",
+      "path": [
+        "42"
+      ],
+      "question": "Relations",
+      "answer": "At the proximal phalanx each tendon splits at Camper’s chiasm to allow the FDP tendon to pass through.",
+      "tags": [
+        "Relations",
+        "Tendon",
+        "NS15"
+      ],
+      "sourceLine": 257,
+      "section": "Muscles",
+      "label": "42"
+    },
+    {
+      "id": "upper-limb-model-ns15-259",
+      "path": [
+        "43"
+      ],
+      "question": "Identification",
+      "answer": "Tendons of flexor digitorum profundus",
+      "tags": [
+        "Identification",
+        "Tendon",
+        "NS15"
+      ],
+      "sourceLine": 259,
+      "section": "Muscles",
+      "label": "43"
+    },
+    {
+      "id": "upper-limb-model-ns15-260",
+      "path": [
+        "43"
+      ],
+      "question": "Formed by",
+      "answer": "Four distal tendons of flexor digitorum profundus.",
+      "tags": [
+        "Formation",
+        "Tendon",
+        "NS15"
+      ],
+      "sourceLine": 260,
+      "section": "Muscles",
+      "label": "43"
+    },
+    {
+      "id": "upper-limb-model-ns15-261",
+      "path": [
+        "43"
+      ],
+      "question": "Course",
+      "answer": "Pass through the carpal tunnel deep to FDS tendons and continue through the split FDS tendons within the digital sheaths.",
+      "tags": [
+        "Course",
+        "Tendon",
+        "NS15"
+      ],
+      "sourceLine": 261,
+      "section": "Muscles",
+      "label": "43"
+    },
+    {
+      "id": "upper-limb-model-ns15-262",
+      "path": [
+        "43"
+      ],
+      "question": "Insertion",
+      "answer": "Palmar bases of distal phalanges of digits 2–5.",
+      "tags": [
+        "Insertion",
+        "Tendon",
+        "NS15"
+      ],
+      "sourceLine": 262,
+      "section": "Muscles",
+      "label": "43"
+    },
+    {
+      "id": "upper-limb-model-ns15-263",
+      "path": [
+        "43"
+      ],
+      "question": "Function",
+      "answer": "Transmit force to flex the DIP joints; also assist flexion at more proximal joints.",
+      "tags": [
+        "Function",
+        "Tendon",
+        "NS15"
+      ],
+      "sourceLine": 263,
+      "section": "Muscles",
+      "label": "43"
+    },
+    {
+      "id": "upper-limb-model-ns15-264",
+      "path": [
+        "43"
+      ],
+      "question": "Relations",
+      "answer": "Give origin to the lumbricals in the palm.",
+      "tags": [
+        "Relations",
+        "Tendon",
+        "NS15"
+      ],
+      "sourceLine": 264,
+      "section": "Muscles",
+      "label": "43"
+    },
+    {
+      "id": "upper-limb-model-ns15-266",
+      "path": [
+        "44"
+      ],
+      "question": "Identification",
+      "answer": "Chiasma tendinum of flexor digitorum superficialis tendon",
+      "tags": [
+        "Identification",
+        "TendonRelation",
+        "NS15"
+      ],
+      "sourceLine": 266,
+      "section": "Muscles",
+      "label": "44"
+    },
+    {
+      "id": "upper-limb-model-ns15-267",
+      "path": [
+        "44"
+      ],
+      "question": "Definition",
+      "answer": "The split in each FDS tendon through which the FDP tendon passes, also called Camper’s chiasm.",
+      "tags": [
+        "Definition",
+        "TendonRelation",
+        "NS15"
+      ],
+      "sourceLine": 267,
+      "section": "Muscles",
+      "label": "44"
+    },
+    {
+      "id": "upper-limb-model-ns15-268",
+      "path": [
+        "44"
+      ],
+      "question": "Function",
+      "answer": "Allows FDS to insert on the middle phalanx while FDP continues distally to the distal phalanx.",
+      "tags": [
+        "Function",
+        "TendonRelation",
+        "NS15"
+      ],
+      "sourceLine": 268,
+      "section": "Muscles",
+      "label": "44"
+    },
+    {
+      "id": "upper-limb-model-ns15-269",
+      "path": [
+        "44"
+      ],
+      "question": "Relations",
+      "answer": "Occurs along the proximal phalanx within the fibrous digital sheath.",
+      "tags": [
+        "Relations",
+        "TendonRelation",
+        "NS15"
+      ],
+      "sourceLine": 269,
+      "section": "Muscles",
+      "label": "44"
+    },
+    {
+      "id": "upper-limb-model-ns15-273",
+      "path": [
+        "45"
+      ],
+      "question": "Identification",
+      "answer": "Axillary artery",
+      "tags": [
+        "Identification",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 273,
+      "section": "Arteries",
+      "label": "45"
+    },
+    {
+      "id": "upper-limb-model-ns15-274",
+      "path": [
+        "45"
+      ],
+      "question": "Origin",
+      "answer": "Continuation of subclavian artery at lateral border of first rib.",
+      "tags": [
+        "Origin",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 274,
+      "section": "Arteries",
+      "label": "45"
+    },
+    {
+      "id": "upper-limb-model-ns15-275",
+      "path": [
+        "45"
+      ],
+      "question": "Course",
+      "answer": "Passes through axilla and becomes brachial artery at inferior border of teres major; divided into three parts by pectoralis minor.",
+      "tags": [
+        "Course",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 275,
+      "section": "Arteries",
+      "label": "45"
+    },
+    {
+      "id": "upper-limb-model-ns15-276",
+      "path": [
+        "45"
+      ],
+      "question": "Branches",
+      "answer": "Superior thoracic; thoraco-acromial and lateral thoracic; subscapular, anterior circumflex humeral and posterior circumflex humeral.",
+      "tags": [
+        "Branches",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 276,
+      "section": "Arteries",
+      "label": "45"
+    },
+    {
+      "id": "upper-limb-model-ns15-277",
+      "path": [
+        "45"
+      ],
+      "question": "Supply",
+      "answer": "Axilla, shoulder region, lateral thoracic wall and upper limb.",
+      "tags": [
+        "Supply",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 277,
+      "section": "Arteries",
+      "label": "45"
+    },
+    {
+      "id": "upper-limb-model-ns15-278",
+      "path": [
+        "45"
+      ],
+      "question": "Relations",
+      "answer": "Cords of brachial plexus are named by their relationship to the second part of the axillary artery.",
+      "tags": [
+        "Relations",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 278,
+      "section": "Arteries",
+      "label": "45"
+    },
+    {
+      "id": "upper-limb-model-ns15-280",
+      "path": [
+        "46"
+      ],
+      "question": "Identification",
+      "answer": "Subscapular artery",
+      "tags": [
+        "Identification",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 280,
+      "section": "Arteries",
+      "label": "46"
+    },
+    {
+      "id": "upper-limb-model-ns15-281",
+      "path": [
+        "46"
+      ],
+      "question": "Origin",
+      "answer": "Third part of axillary artery.",
+      "tags": [
+        "Origin",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 281,
+      "section": "Arteries",
+      "label": "46"
+    },
+    {
+      "id": "upper-limb-model-ns15-282",
+      "path": [
+        "46"
+      ],
+      "question": "Course",
+      "answer": "Descends along lateral border of scapula.",
+      "tags": [
+        "Course",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 282,
+      "section": "Arteries",
+      "label": "46"
+    },
+    {
+      "id": "upper-limb-model-ns15-283",
+      "path": [
+        "46"
+      ],
+      "question": "Branches",
+      "answer": "Circumflex scapular and thoracodorsal arteries.",
+      "tags": [
+        "Branches",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 283,
+      "section": "Arteries",
+      "label": "46"
+    },
+    {
+      "id": "upper-limb-model-ns15-284",
+      "path": [
+        "46"
+      ],
+      "question": "Supply",
+      "answer": "Posterior axillary wall, scapular region and latissimus dorsi.",
+      "tags": [
+        "Supply",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 284,
+      "section": "Arteries",
+      "label": "46"
+    },
+    {
+      "id": "upper-limb-model-ns15-285",
+      "path": [
+        "46"
+      ],
+      "question": "Relations",
+      "answer": "Largest branch of axillary artery; participates in scapular anastomoses through circumflex scapular branch.",
+      "tags": [
+        "Relations",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 285,
+      "section": "Arteries",
+      "label": "46"
+    },
+    {
+      "id": "upper-limb-model-ns15-287",
+      "path": [
+        "47"
+      ],
+      "question": "Identification",
+      "answer": "Circumflex scapular artery",
+      "tags": [
+        "Identification",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 287,
+      "section": "Arteries",
+      "label": "47"
+    },
+    {
+      "id": "upper-limb-model-ns15-288",
+      "path": [
+        "47"
+      ],
+      "question": "Origin",
+      "answer": "Subscapular artery.",
+      "tags": [
+        "Origin",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 288,
+      "section": "Arteries",
+      "label": "47"
+    },
+    {
+      "id": "upper-limb-model-ns15-289",
+      "path": [
+        "47"
+      ],
+      "question": "Course",
+      "answer": "Passes through triangular space to posterior scapular surface.",
+      "tags": [
+        "Course",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 289,
+      "section": "Arteries",
+      "label": "47"
+    },
+    {
+      "id": "upper-limb-model-ns15-290",
+      "path": [
+        "47"
+      ],
+      "question": "Branches",
+      "answer": "Muscular and anastomotic branches.",
+      "tags": [
+        "Branches",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 290,
+      "section": "Arteries",
+      "label": "47"
+    },
+    {
+      "id": "upper-limb-model-ns15-291",
+      "path": [
+        "47"
+      ],
+      "question": "Supply",
+      "answer": "Muscles and tissues around posterior scapula.",
+      "tags": [
+        "Supply",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 291,
+      "section": "Arteries",
+      "label": "47"
+    },
+    {
+      "id": "upper-limb-model-ns15-292",
+      "path": [
+        "47"
+      ],
+      "question": "Relations",
+      "answer": "Anastomoses with suprascapular and dorsal scapular arteries around scapula.",
+      "tags": [
+        "Relations",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 292,
+      "section": "Arteries",
+      "label": "47"
+    },
+    {
+      "id": "upper-limb-model-ns15-294",
+      "path": [
+        "48"
+      ],
+      "question": "Identification",
+      "answer": "Posterior circumflex humeral artery",
+      "tags": [
+        "Identification",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 294,
+      "section": "Arteries",
+      "label": "48"
+    },
+    {
+      "id": "upper-limb-model-ns15-295",
+      "path": [
+        "48"
+      ],
+      "question": "Origin",
+      "answer": "Third part of axillary artery.",
+      "tags": [
+        "Origin",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 295,
+      "section": "Arteries",
+      "label": "48"
+    },
+    {
+      "id": "upper-limb-model-ns15-296",
+      "path": [
+        "48"
+      ],
+      "question": "Course",
+      "answer": "Passes through quadrangular space with axillary nerve and winds around surgical neck of humerus.",
+      "tags": [
+        "Course",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 296,
+      "section": "Arteries",
+      "label": "48"
+    },
+    {
+      "id": "upper-limb-model-ns15-297",
+      "path": [
+        "48"
+      ],
+      "question": "Branches",
+      "answer": "Deltoid, shoulder joint and muscular branches.",
+      "tags": [
+        "Branches",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 297,
+      "section": "Arteries",
+      "label": "48"
+    },
+    {
+      "id": "upper-limb-model-ns15-298",
+      "path": [
+        "48"
+      ],
+      "question": "Supply",
+      "answer": "Deltoid, teres minor, shoulder joint and proximal humerus.",
+      "tags": [
+        "Supply",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 298,
+      "section": "Arteries",
+      "label": "48"
+    },
+    {
+      "id": "upper-limb-model-ns15-299",
+      "path": [
+        "48"
+      ],
+      "question": "Relations",
+      "answer": "Closely associated with axillary nerve at surgical neck of humerus.",
+      "tags": [
+        "Relations",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 299,
+      "section": "Arteries",
+      "label": "48"
+    },
+    {
+      "id": "upper-limb-model-ns15-301",
+      "path": [
+        "49"
+      ],
+      "question": "Identification",
+      "answer": "Brachial artery",
+      "tags": [
+        "Identification",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 301,
+      "section": "Arteries",
+      "label": "49"
+    },
+    {
+      "id": "upper-limb-model-ns15-302",
+      "path": [
+        "49"
+      ],
+      "question": "Origin",
+      "answer": "Continuation of axillary artery at inferior border of teres major.",
+      "tags": [
+        "Origin",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 302,
+      "section": "Arteries",
+      "label": "49"
+    },
+    {
+      "id": "upper-limb-model-ns15-303",
+      "path": [
+        "49"
+      ],
+      "question": "Course",
+      "answer": "Descends medial arm, enters cubital fossa and usually divides opposite neck of radius into radial and ulnar arteries.",
+      "tags": [
+        "Course",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 303,
+      "section": "Arteries",
+      "label": "49"
+    },
+    {
+      "id": "upper-limb-model-ns15-304",
+      "path": [
+        "49"
+      ],
+      "question": "Branches",
+      "answer": "Profunda brachii, superior and inferior ulnar collateral, muscular and nutrient branches.",
+      "tags": [
+        "Branches",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 304,
+      "section": "Arteries",
+      "label": "49"
+    },
+    {
+      "id": "upper-limb-model-ns15-305",
+      "path": [
+        "49"
+      ],
+      "question": "Supply",
+      "answer": "Main arterial supply to arm and source of forearm arteries.",
+      "tags": [
+        "Supply",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 305,
+      "section": "Arteries",
+      "label": "49"
+    },
+    {
+      "id": "upper-limb-model-ns15-306",
+      "path": [
+        "49"
+      ],
+      "question": "Relations",
+      "answer": "Median nerve crosses from lateral to medial side; brachial pulse and blood pressure are assessed near cubital fossa.",
+      "tags": [
+        "Relations",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 306,
+      "section": "Arteries",
+      "label": "49"
+    },
+    {
+      "id": "upper-limb-model-ns15-308",
+      "path": [
+        "50"
+      ],
+      "question": "Identification",
+      "answer": "Profunda brachii artery",
+      "tags": [
+        "Identification",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 308,
+      "section": "Arteries",
+      "label": "50"
+    },
+    {
+      "id": "upper-limb-model-ns15-309",
+      "path": [
+        "50"
+      ],
+      "question": "Origin",
+      "answer": "Usually proximal brachial artery.",
+      "tags": [
+        "Origin",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 309,
+      "section": "Arteries",
+      "label": "50"
+    },
+    {
+      "id": "upper-limb-model-ns15-310",
+      "path": [
+        "50"
+      ],
+      "question": "Course",
+      "answer": "Accompanies radial nerve in radial groove around posterior humerus.",
+      "tags": [
+        "Course",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 310,
+      "section": "Arteries",
+      "label": "50"
+    },
+    {
+      "id": "upper-limb-model-ns15-311",
+      "path": [
+        "50"
+      ],
+      "question": "Branches",
+      "answer": "Radial collateral and middle collateral arteries.",
+      "tags": [
+        "Branches",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 311,
+      "section": "Arteries",
+      "label": "50"
+    },
+    {
+      "id": "upper-limb-model-ns15-312",
+      "path": [
+        "50"
+      ],
+      "question": "Supply",
+      "answer": "Posterior compartment of arm and elbow region.",
+      "tags": [
+        "Supply",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 312,
+      "section": "Arteries",
+      "label": "50"
+    },
+    {
+      "id": "upper-limb-model-ns15-313",
+      "path": [
+        "50"
+      ],
+      "question": "Relations",
+      "answer": "At risk with midshaft humeral fractures along with radial nerve.",
+      "tags": [
+        "Relations",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 313,
+      "section": "Arteries",
+      "label": "50"
+    },
+    {
+      "id": "upper-limb-model-ns15-315",
+      "path": [
+        "51"
+      ],
+      "question": "Identification",
+      "answer": "Deltoid branch",
+      "tags": [
+        "Identification",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 315,
+      "section": "Arteries",
+      "label": "51"
+    },
+    {
+      "id": "upper-limb-model-ns15-316",
+      "path": [
+        "51"
+      ],
+      "question": "Origin",
+      "answer": "Usually a branch of the thoraco-acromial artery.",
+      "tags": [
+        "Origin",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 316,
+      "section": "Arteries",
+      "label": "51"
+    },
+    {
+      "id": "upper-limb-model-ns15-317",
+      "path": [
+        "51"
+      ],
+      "question": "Course",
+      "answer": "Runs in deltopectoral groove with cephalic vein.",
+      "tags": [
+        "Course",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 317,
+      "section": "Arteries",
+      "label": "51"
+    },
+    {
+      "id": "upper-limb-model-ns15-318",
+      "path": [
+        "51"
+      ],
+      "question": "Supply",
+      "answer": "Deltoid and adjacent pectoral region.",
+      "tags": [
+        "Supply",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 318,
+      "section": "Arteries",
+      "label": "51"
+    },
+    {
+      "id": "upper-limb-model-ns15-319",
+      "path": [
+        "51"
+      ],
+      "question": "Relations",
+      "answer": "Accompanies cephalic vein in deltopectoral groove.",
+      "tags": [
+        "Relations",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 319,
+      "section": "Arteries",
+      "label": "51"
+    },
+    {
+      "id": "upper-limb-model-ns15-321",
+      "path": [
+        "52"
+      ],
+      "question": "Identification",
+      "answer": "Medial (middle) collateral artery",
+      "tags": [
+        "Identification",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 321,
+      "section": "Arteries",
+      "label": "52"
+    },
+    {
+      "id": "upper-limb-model-ns15-322",
+      "path": [
+        "52"
+      ],
+      "question": "Origin",
+      "answer": "Profunda brachii artery.",
+      "tags": [
+        "Origin",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 322,
+      "section": "Arteries",
+      "label": "52"
+    },
+    {
+      "id": "upper-limb-model-ns15-323",
+      "path": [
+        "52"
+      ],
+      "question": "Course",
+      "answer": "Descends posteriorly toward elbow, usually with radial nerve branches.",
+      "tags": [
+        "Course",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 323,
+      "section": "Arteries",
+      "label": "52"
+    },
+    {
+      "id": "upper-limb-model-ns15-324",
+      "path": [
+        "52"
+      ],
+      "question": "Supply",
+      "answer": "Posterior elbow region and triceps; contributes to periarticular elbow anastomosis.",
+      "tags": [
+        "Supply",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 324,
+      "section": "Arteries",
+      "label": "52"
+    },
+    {
+      "id": "upper-limb-model-ns15-325",
+      "path": [
+        "52"
+      ],
+      "question": "Relations",
+      "answer": "Anastomoses with recurrent interosseous artery.",
+      "tags": [
+        "Relations",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 325,
+      "section": "Arteries",
+      "label": "52"
+    },
+    {
+      "id": "upper-limb-model-ns15-327",
+      "path": [
+        "53"
+      ],
+      "question": "Identification",
+      "answer": "Radial collateral artery",
+      "tags": [
+        "Identification",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 327,
+      "section": "Arteries",
+      "label": "53"
+    },
+    {
+      "id": "upper-limb-model-ns15-328",
+      "path": [
+        "53"
+      ],
+      "question": "Origin",
+      "answer": "Terminal branch of profunda brachii artery.",
+      "tags": [
+        "Origin",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 328,
+      "section": "Arteries",
+      "label": "53"
+    },
+    {
+      "id": "upper-limb-model-ns15-329",
+      "path": [
+        "53"
+      ],
+      "question": "Course",
+      "answer": "Descends toward lateral epicondyle, often accompanying radial nerve anterior to lateral epicondyle.",
+      "tags": [
+        "Course",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 329,
+      "section": "Arteries",
+      "label": "53"
+    },
+    {
+      "id": "upper-limb-model-ns15-330",
+      "path": [
+        "53"
+      ],
+      "question": "Supply",
+      "answer": "Lateral elbow and adjacent muscles.",
+      "tags": [
+        "Supply",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 330,
+      "section": "Arteries",
+      "label": "53"
+    },
+    {
+      "id": "upper-limb-model-ns15-331",
+      "path": [
+        "53"
+      ],
+      "question": "Relations",
+      "answer": "Anastomoses with radial recurrent artery.",
+      "tags": [
+        "Relations",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 331,
+      "section": "Arteries",
+      "label": "53"
+    },
+    {
+      "id": "upper-limb-model-ns15-333",
+      "path": [
+        "54"
+      ],
+      "question": "Identification",
+      "answer": "Superior ulnar collateral artery",
+      "tags": [
+        "Identification",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 333,
+      "section": "Arteries",
+      "label": "54"
+    },
+    {
+      "id": "upper-limb-model-ns15-334",
+      "path": [
+        "54"
+      ],
+      "question": "Origin",
+      "answer": "Brachial artery in mid-arm.",
+      "tags": [
+        "Origin",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 334,
+      "section": "Arteries",
+      "label": "54"
+    },
+    {
+      "id": "upper-limb-model-ns15-335",
+      "path": [
+        "54"
+      ],
+      "question": "Course",
+      "answer": "Descends with ulnar nerve posterior to medial epicondyle.",
+      "tags": [
+        "Course",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 335,
+      "section": "Arteries",
+      "label": "54"
+    },
+    {
+      "id": "upper-limb-model-ns15-336",
+      "path": [
+        "54"
+      ],
+      "question": "Supply",
+      "answer": "Medial elbow region and adjacent muscles.",
+      "tags": [
+        "Supply",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 336,
+      "section": "Arteries",
+      "label": "54"
+    },
+    {
+      "id": "upper-limb-model-ns15-337",
+      "path": [
+        "54"
+      ],
+      "question": "Relations",
+      "answer": "Anastomoses with posterior ulnar recurrent artery.",
+      "tags": [
+        "Relations",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 337,
+      "section": "Arteries",
+      "label": "54"
+    },
+    {
+      "id": "upper-limb-model-ns15-339",
+      "path": [
+        "55"
+      ],
+      "question": "Identification",
+      "answer": "Radial artery",
+      "tags": [
+        "Identification",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 339,
+      "section": "Arteries",
+      "label": "55"
+    },
+    {
+      "id": "upper-limb-model-ns15-340",
+      "path": [
+        "55"
+      ],
+      "question": "Origin",
+      "answer": "Terminal branch of brachial artery in cubital fossa.",
+      "tags": [
+        "Origin",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 340,
+      "section": "Arteries",
+      "label": "55"
+    },
+    {
+      "id": "upper-limb-model-ns15-341",
+      "path": [
+        "55"
+      ],
+      "question": "Course",
+      "answer": "Descends lateral forearm beneath brachioradialis, becomes superficial distally, crosses anatomical snuffbox and enters palm between first dorsal interosseous heads.",
+      "tags": [
+        "Course",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 341,
+      "section": "Arteries",
+      "label": "55"
+    },
+    {
+      "id": "upper-limb-model-ns15-342",
+      "path": [
+        "55"
+      ],
+      "question": "Branches",
+      "answer": "Radial recurrent, palmar and dorsal carpal branches, superficial palmar branch, princeps pollicis and radialis indicis after entering hand.",
+      "tags": [
+        "Branches",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 342,
+      "section": "Arteries",
+      "label": "55"
+    },
+    {
+      "id": "upper-limb-model-ns15-343",
+      "path": [
+        "55"
+      ],
+      "question": "Supply",
+      "answer": "Lateral forearm, wrist and hand; major contributor to deep palmar arch.",
+      "tags": [
+        "Supply",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 343,
+      "section": "Arteries",
+      "label": "55"
+    },
+    {
+      "id": "upper-limb-model-ns15-344",
+      "path": [
+        "55"
+      ],
+      "question": "Relations",
+      "answer": "Pulse palpable lateral to flexor carpi radialis tendon at wrist; artery crosses floor of anatomical snuffbox.",
+      "tags": [
+        "Relations",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 344,
+      "section": "Arteries",
+      "label": "55"
+    },
+    {
+      "id": "upper-limb-model-ns15-346",
+      "path": [
+        "56"
+      ],
+      "question": "Identification",
+      "answer": "Superficial branch of radial artery",
+      "tags": [
+        "Identification",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 346,
+      "section": "Arteries",
+      "label": "56"
+    },
+    {
+      "id": "upper-limb-model-ns15-347",
+      "path": [
+        "56"
+      ],
+      "question": "Origin",
+      "answer": "Radial artery near distal forearm/wrist.",
+      "tags": [
+        "Origin",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 347,
+      "section": "Arteries",
+      "label": "56"
+    },
+    {
+      "id": "upper-limb-model-ns15-348",
+      "path": [
+        "56"
+      ],
+      "question": "Course",
+      "answer": "Passes into palm, usually through or over thenar musculature.",
+      "tags": [
+        "Course",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 348,
+      "section": "Arteries",
+      "label": "56"
+    },
+    {
+      "id": "upper-limb-model-ns15-349",
+      "path": [
+        "56"
+      ],
+      "question": "Supply",
+      "answer": "Thenar region and superficial palm.",
+      "tags": [
+        "Supply",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 349,
+      "section": "Arteries",
+      "label": "56"
+    },
+    {
+      "id": "upper-limb-model-ns15-350",
+      "path": [
+        "56"
+      ],
+      "question": "Relations",
+      "answer": "Typically joins superficial palmar arch formed mainly by ulnar artery.",
+      "tags": [
+        "Relations",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 350,
+      "section": "Arteries",
+      "label": "56"
+    },
+    {
+      "id": "upper-limb-model-ns15-352",
+      "path": [
+        "57"
+      ],
+      "question": "Identification",
+      "answer": "Dorsal carpal arch",
+      "tags": [
+        "Identification",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 352,
+      "section": "Arteries",
+      "label": "57"
+    },
+    {
+      "id": "upper-limb-model-ns15-353",
+      "path": [
+        "57"
+      ],
+      "question": "Formation",
+      "answer": "Anastomosis of dorsal carpal branches of radial and ulnar arteries, with interosseous contributions.",
+      "tags": [
+        "Formation",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 353,
+      "section": "Arteries",
+      "label": "57"
+    },
+    {
+      "id": "upper-limb-model-ns15-354",
+      "path": [
+        "57"
+      ],
+      "question": "Course",
+      "answer": "Runs across dorsal carpus.",
+      "tags": [
+        "Course",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 354,
+      "section": "Arteries",
+      "label": "57"
+    },
+    {
+      "id": "upper-limb-model-ns15-355",
+      "path": [
+        "57"
+      ],
+      "question": "Branches",
+      "answer": "Gives dorsal metacarpal arteries.",
+      "tags": [
+        "Branches",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 355,
+      "section": "Arteries",
+      "label": "57"
+    },
+    {
+      "id": "upper-limb-model-ns15-356",
+      "path": [
+        "57"
+      ],
+      "question": "Supply",
+      "answer": "Dorsum of hand and digits through dorsal metacarpal/digital branches.",
+      "tags": [
+        "Supply",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 356,
+      "section": "Arteries",
+      "label": "57"
+    },
+    {
+      "id": "upper-limb-model-ns15-357",
+      "path": [
+        "57"
+      ],
+      "question": "Relations",
+      "answer": "Lies deep to extensor tendons on dorsum of wrist.",
+      "tags": [
+        "Relations",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 357,
+      "section": "Arteries",
+      "label": "57"
+    },
+    {
+      "id": "upper-limb-model-ns15-359",
+      "path": [
+        "58"
+      ],
+      "question": "Identification",
+      "answer": "1st dorsal metacarpal artery",
+      "tags": [
+        "Identification",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 359,
+      "section": "Arteries",
+      "label": "58"
+    },
+    {
+      "id": "upper-limb-model-ns15-360",
+      "path": [
+        "58"
+      ],
+      "question": "Origin",
+      "answer": "Usually radial artery or dorsal carpal network.",
+      "tags": [
+        "Origin",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 360,
+      "section": "Arteries",
+      "label": "58"
+    },
+    {
+      "id": "upper-limb-model-ns15-361",
+      "path": [
+        "58"
+      ],
+      "question": "Course",
+      "answer": "Runs dorsally in first intermetacarpal region.",
+      "tags": [
+        "Course",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 361,
+      "section": "Arteries",
+      "label": "58"
+    },
+    {
+      "id": "upper-limb-model-ns15-362",
+      "path": [
+        "58"
+      ],
+      "question": "Supply",
+      "answer": "Adjacent sides of thumb and index region on dorsum.",
+      "tags": [
+        "Supply",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 362,
+      "section": "Arteries",
+      "label": "58"
+    },
+    {
+      "id": "upper-limb-model-ns15-363",
+      "path": [
+        "58"
+      ],
+      "question": "Relations",
+      "answer": "Located near first dorsal interosseous muscle and anatomical snuffbox region.",
+      "tags": [
+        "Relations",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 363,
+      "section": "Arteries",
+      "label": "58"
+    },
+    {
+      "id": "upper-limb-model-ns15-365",
+      "path": [
+        "59"
+      ],
+      "question": "Identification",
+      "answer": "Ulnar artery",
+      "tags": [
+        "Identification",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 365,
+      "section": "Arteries",
+      "label": "59"
+    },
+    {
+      "id": "upper-limb-model-ns15-366",
+      "path": [
+        "59"
+      ],
+      "question": "Origin",
+      "answer": "Terminal branch of brachial artery in cubital fossa.",
+      "tags": [
+        "Origin",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 366,
+      "section": "Arteries",
+      "label": "59"
+    },
+    {
+      "id": "upper-limb-model-ns15-367",
+      "path": [
+        "59"
+      ],
+      "question": "Course",
+      "answer": "Passes deep to pronator teres, descends medial forearm and enters hand superficial to flexor retinaculum through Guyon’s canal.",
+      "tags": [
+        "Course",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 367,
+      "section": "Arteries",
+      "label": "59"
+    },
+    {
+      "id": "upper-limb-model-ns15-368",
+      "path": [
+        "59"
+      ],
+      "question": "Branches",
+      "answer": "Anterior and posterior ulnar recurrent, common interosseous, muscular, palmar and dorsal carpal branches; continues mainly into superficial palmar arch.",
+      "tags": [
+        "Branches",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 368,
+      "section": "Arteries",
+      "label": "59"
+    },
+    {
+      "id": "upper-limb-model-ns15-369",
+      "path": [
+        "59"
+      ],
+      "question": "Supply",
+      "answer": "Medial forearm and major superficial arterial supply of hand.",
+      "tags": [
+        "Supply",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 369,
+      "section": "Arteries",
+      "label": "59"
+    },
+    {
+      "id": "upper-limb-model-ns15-370",
+      "path": [
+        "59"
+      ],
+      "question": "Relations",
+      "answer": "Travels with ulnar nerve in distal forearm, artery generally lateral to nerve.",
+      "tags": [
+        "Relations",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 370,
+      "section": "Arteries",
+      "label": "59"
+    },
+    {
+      "id": "upper-limb-model-ns15-372",
+      "path": [
+        "60"
+      ],
+      "question": "Identification",
+      "answer": "Common interosseus artery",
+      "tags": [
+        "Identification",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 372,
+      "section": "Arteries",
+      "label": "60"
+    },
+    {
+      "id": "upper-limb-model-ns15-373",
+      "path": [
+        "60"
+      ],
+      "question": "Origin",
+      "answer": "Short proximal branch of ulnar artery.",
+      "tags": [
+        "Origin",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 373,
+      "section": "Arteries",
+      "label": "60"
+    },
+    {
+      "id": "upper-limb-model-ns15-374",
+      "path": [
+        "60"
+      ],
+      "question": "Course",
+      "answer": "Passes toward proximal interosseous membrane.",
+      "tags": [
+        "Course",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 374,
+      "section": "Arteries",
+      "label": "60"
+    },
+    {
+      "id": "upper-limb-model-ns15-375",
+      "path": [
+        "60"
+      ],
+      "question": "Branches",
+      "answer": "Anterior and posterior interosseous arteries.",
+      "tags": [
+        "Branches",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 375,
+      "section": "Arteries",
+      "label": "60"
+    },
+    {
+      "id": "upper-limb-model-ns15-376",
+      "path": [
+        "60"
+      ],
+      "question": "Supply",
+      "answer": "Deep structures of forearm through terminal branches.",
+      "tags": [
+        "Supply",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 376,
+      "section": "Arteries",
+      "label": "60"
+    },
+    {
+      "id": "upper-limb-model-ns15-377",
+      "path": [
+        "60"
+      ],
+      "question": "Relations",
+      "answer": "Very short arterial trunk near proximal radius/ulna.",
+      "tags": [
+        "Relations",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 377,
+      "section": "Arteries",
+      "label": "60"
+    },
+    {
+      "id": "upper-limb-model-ns15-379",
+      "path": [
+        "61"
+      ],
+      "question": "Identification",
+      "answer": "Posterior interosseus artery",
+      "tags": [
+        "Identification",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 379,
+      "section": "Arteries",
+      "label": "61"
+    },
+    {
+      "id": "upper-limb-model-ns15-380",
+      "path": [
+        "61"
+      ],
+      "question": "Origin",
+      "answer": "Common interosseous artery.",
+      "tags": [
+        "Origin",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 380,
+      "section": "Arteries",
+      "label": "61"
+    },
+    {
+      "id": "upper-limb-model-ns15-381",
+      "path": [
+        "61"
+      ],
+      "question": "Course",
+      "answer": "Passes posteriorly through proximal interosseous membrane region to posterior forearm.",
+      "tags": [
+        "Course",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 381,
+      "section": "Arteries",
+      "label": "61"
+    },
+    {
+      "id": "upper-limb-model-ns15-382",
+      "path": [
+        "61"
+      ],
+      "question": "Branches",
+      "answer": "Recurrent interosseous and muscular branches.",
+      "tags": [
+        "Branches",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 382,
+      "section": "Arteries",
+      "label": "61"
+    },
+    {
+      "id": "upper-limb-model-ns15-383",
+      "path": [
+        "61"
+      ],
+      "question": "Supply",
+      "answer": "Posterior forearm extensor compartment.",
+      "tags": [
+        "Supply",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 383,
+      "section": "Arteries",
+      "label": "61"
+    },
+    {
+      "id": "upper-limb-model-ns15-384",
+      "path": [
+        "61"
+      ],
+      "question": "Relations",
+      "answer": "Accompanies posterior interosseous nerve in posterior forearm.",
+      "tags": [
+        "Relations",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 384,
+      "section": "Arteries",
+      "label": "61"
+    },
+    {
+      "id": "upper-limb-model-ns15-386",
+      "path": [
+        "62"
+      ],
+      "question": "Identification",
+      "answer": "Anterior interosseus artery",
+      "tags": [
+        "Identification",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 386,
+      "section": "Arteries",
+      "label": "62"
+    },
+    {
+      "id": "upper-limb-model-ns15-387",
+      "path": [
+        "62"
+      ],
+      "question": "Origin",
+      "answer": "Common interosseous artery.",
+      "tags": [
+        "Origin",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 387,
+      "section": "Arteries",
+      "label": "62"
+    },
+    {
+      "id": "upper-limb-model-ns15-388",
+      "path": [
+        "62"
+      ],
+      "question": "Course",
+      "answer": "Descends on anterior interosseous membrane with anterior interosseous nerve.",
+      "tags": [
+        "Course",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 388,
+      "section": "Arteries",
+      "label": "62"
+    },
+    {
+      "id": "upper-limb-model-ns15-389",
+      "path": [
+        "62"
+      ],
+      "question": "Branches",
+      "answer": "Muscular, nutrient and perforating branches.",
+      "tags": [
+        "Branches",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 389,
+      "section": "Arteries",
+      "label": "62"
+    },
+    {
+      "id": "upper-limb-model-ns15-390",
+      "path": [
+        "62"
+      ],
+      "question": "Supply",
+      "answer": "Deep flexor compartment, radius/ulna and wrist.",
+      "tags": [
+        "Supply",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 390,
+      "section": "Arteries",
+      "label": "62"
+    },
+    {
+      "id": "upper-limb-model-ns15-391",
+      "path": [
+        "62"
+      ],
+      "question": "Relations",
+      "answer": "Lies on anterior surface of interosseous membrane between deep forearm flexors.",
+      "tags": [
+        "Relations",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 391,
+      "section": "Arteries",
+      "label": "62"
+    },
+    {
+      "id": "upper-limb-model-ns15-393",
+      "path": [
+        "63"
+      ],
+      "question": "Identification",
+      "answer": "Superficial palmar arch",
+      "tags": [
+        "Identification",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 393,
+      "section": "Arteries",
+      "label": "63"
+    },
+    {
+      "id": "upper-limb-model-ns15-394",
+      "path": [
+        "63"
+      ],
+      "question": "Formation",
+      "answer": "Mainly terminal ulnar artery, usually completed laterally by superficial palmar branch of radial artery.",
+      "tags": [
+        "Formation",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 394,
+      "section": "Arteries",
+      "label": "63"
+    },
+    {
+      "id": "upper-limb-model-ns15-395",
+      "path": [
+        "63"
+      ],
+      "question": "Course",
+      "answer": "Curves across palm deep to palmar aponeurosis and superficial to long flexor tendons.",
+      "tags": [
+        "Course",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 395,
+      "section": "Arteries",
+      "label": "63"
+    },
+    {
+      "id": "upper-limb-model-ns15-396",
+      "path": [
+        "63"
+      ],
+      "question": "Branches",
+      "answer": "Common palmar digital arteries and a proper digital branch to ulnar side of little finger.",
+      "tags": [
+        "Branches",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 396,
+      "section": "Arteries",
+      "label": "63"
+    },
+    {
+      "id": "upper-limb-model-ns15-397",
+      "path": [
+        "63"
+      ],
+      "question": "Supply",
+      "answer": "Major blood supply to palm and digits.",
+      "tags": [
+        "Supply",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 397,
+      "section": "Arteries",
+      "label": "63"
+    },
+    {
+      "id": "upper-limb-model-ns15-398",
+      "path": [
+        "63"
+      ],
+      "question": "Relations",
+      "answer": "More superficial than deep palmar arch; level roughly corresponds to distal border of fully extended thumb.",
+      "tags": [
+        "Relations",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 398,
+      "section": "Arteries",
+      "label": "63"
+    },
+    {
+      "id": "upper-limb-model-ns15-400",
+      "path": [
+        "64"
+      ],
+      "question": "Identification",
+      "answer": "Palmar digital artery",
+      "tags": [
+        "Identification",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 400,
+      "section": "Arteries",
+      "label": "64"
+    },
+    {
+      "id": "upper-limb-model-ns15-401",
+      "path": [
+        "64"
+      ],
+      "question": "Origin",
+      "answer": "Usually common palmar digital arteries from superficial palmar arch.",
+      "tags": [
+        "Origin",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 401,
+      "section": "Arteries",
+      "label": "64"
+    },
+    {
+      "id": "upper-limb-model-ns15-402",
+      "path": [
+        "64"
+      ],
+      "question": "Course",
+      "answer": "Run toward interdigital web spaces.",
+      "tags": [
+        "Course",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 402,
+      "section": "Arteries",
+      "label": "64"
+    },
+    {
+      "id": "upper-limb-model-ns15-403",
+      "path": [
+        "64"
+      ],
+      "question": "Branches",
+      "answer": "Divide into proper palmar digital arteries.",
+      "tags": [
+        "Branches",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 403,
+      "section": "Arteries",
+      "label": "64"
+    },
+    {
+      "id": "upper-limb-model-ns15-404",
+      "path": [
+        "64"
+      ],
+      "question": "Supply",
+      "answer": "Adjacent sides of fingers.",
+      "tags": [
+        "Supply",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 404,
+      "section": "Arteries",
+      "label": "64"
+    },
+    {
+      "id": "upper-limb-model-ns15-405",
+      "path": [
+        "64"
+      ],
+      "question": "Relations",
+      "answer": "Travel with digital nerves in the sides of digits.",
+      "tags": [
+        "Relations",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 405,
+      "section": "Arteries",
+      "label": "64"
+    },
+    {
+      "id": "upper-limb-model-ns15-407",
+      "path": [
+        "65"
+      ],
+      "question": "Identification",
+      "answer": "Proper palmar digital artery",
+      "tags": [
+        "Identification",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 407,
+      "section": "Arteries",
+      "label": "65"
+    },
+    {
+      "id": "upper-limb-model-ns15-408",
+      "path": [
+        "65"
+      ],
+      "question": "Origin",
+      "answer": "Common palmar digital artery or direct branch of superficial palmar arch.",
+      "tags": [
+        "Origin",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 408,
+      "section": "Arteries",
+      "label": "65"
+    },
+    {
+      "id": "upper-limb-model-ns15-409",
+      "path": [
+        "65"
+      ],
+      "question": "Course",
+      "answer": "Runs along side of a finger.",
+      "tags": [
+        "Course",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 409,
+      "section": "Arteries",
+      "label": "65"
+    },
+    {
+      "id": "upper-limb-model-ns15-410",
+      "path": [
+        "65"
+      ],
+      "question": "Supply",
+      "answer": "Skin, subcutaneous tissues, tendon sheaths and phalanges of corresponding side of digit.",
+      "tags": [
+        "Supply",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 410,
+      "section": "Arteries",
+      "label": "65"
+    },
+    {
+      "id": "upper-limb-model-ns15-411",
+      "path": [
+        "65"
+      ],
+      "question": "Relations",
+      "answer": "Accompanies proper digital nerve along lateral or medial aspect of digit.",
+      "tags": [
+        "Relations",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 411,
+      "section": "Arteries",
+      "label": "65"
+    },
+    {
+      "id": "upper-limb-model-ns15-413",
+      "path": [
+        "66"
+      ],
+      "question": "Identification",
+      "answer": "Dorsal digital artery",
+      "tags": [
+        "Identification",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 413,
+      "section": "Arteries",
+      "label": "66"
+    },
+    {
+      "id": "upper-limb-model-ns15-414",
+      "path": [
+        "66"
+      ],
+      "question": "Origin",
+      "answer": "Usually dorsal metacarpal arteries from dorsal carpal network.",
+      "tags": [
+        "Origin",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 414,
+      "section": "Arteries",
+      "label": "66"
+    },
+    {
+      "id": "upper-limb-model-ns15-415",
+      "path": [
+        "66"
+      ],
+      "question": "Course",
+      "answer": "Runs along dorsal aspects/sides of digits.",
+      "tags": [
+        "Course",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 415,
+      "section": "Arteries",
+      "label": "66"
+    },
+    {
+      "id": "upper-limb-model-ns15-416",
+      "path": [
+        "66"
+      ],
+      "question": "Supply",
+      "answer": "Dorsal surfaces of proximal digits; distal dorsal digits also receive palmar digital contributions.",
+      "tags": [
+        "Supply",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 416,
+      "section": "Arteries",
+      "label": "66"
+    },
+    {
+      "id": "upper-limb-model-ns15-417",
+      "path": [
+        "66"
+      ],
+      "question": "Relations",
+      "answer": "Forms dorsal vascular networks with palmar digital branches.",
+      "tags": [
+        "Relations",
+        "Artery",
+        "NS15"
+      ],
+      "sourceLine": 417,
+      "section": "Arteries",
+      "label": "66"
+    },
+    {
+      "id": "upper-limb-model-ns15-421",
+      "path": [
+        "67"
+      ],
+      "question": "Identification",
+      "answer": "Brachial plexus",
+      "tags": [
+        "Identification",
+        "Nerve",
+        "NS15"
+      ],
+      "sourceLine": 421,
+      "section": "Nerves",
+      "label": "67"
+    },
+    {
+      "id": "upper-limb-model-ns15-422",
+      "path": [
+        "67"
+      ],
+      "question": "Roots",
+      "answer": "Anterior rami of C5–T1, with possible prefixed/postfixed variation.",
+      "tags": [
+        "Roots",
+        "Nerve",
+        "NS15"
+      ],
+      "sourceLine": 422,
+      "section": "Nerves",
+      "label": "67"
+    },
+    {
+      "id": "upper-limb-model-ns15-423",
+      "path": [
+        "67"
+      ],
+      "question": "Course",
+      "answer": "Roots pass between anterior and middle scalene muscles; trunks cross posterior triangle; divisions form behind clavicle; cords surround axillary artery in axilla.",
+      "tags": [
+        "Course",
+        "Nerve",
+        "NS15"
+      ],
+      "sourceLine": 423,
+      "section": "Nerves",
+      "label": "67"
+    },
+    {
+      "id": "upper-limb-model-ns15-424",
+      "path": [
+        "67"
+      ],
+      "question": "Motor functions",
+      "answer": "Provides motor innervation to almost all muscles of te upper limb through its terminal and collateral branches.",
+      "tags": [
+        "Motor",
+        "Nerve",
+        "NS15"
+      ],
+      "sourceLine": 424,
+      "section": "Nerves",
+      "label": "67"
+    },
+    {
+      "id": "upper-limb-model-ns15-425",
+      "path": [
+        "67"
+      ],
+      "question": "Sensory functions",
+      "answer": "Provides most cutaneous and joint sensation of the upper limb through its terminal branches.",
+      "tags": [
+        "Sensory",
+        "Nerve",
+        "NS15"
+      ],
+      "sourceLine": 425,
+      "section": "Nerves",
+      "label": "67"
+    },
+    {
+      "id": "upper-limb-model-ns15-426",
+      "path": [
+        "67"
+      ],
+      "question": "Lesion",
+      "answer": "Deficits depend on level: upper trunk injury classically affects C5–C6 functions; lower trunk injury affects C8–T1 functions; cord/terminal branch lesions produce more peripheral patterns.",
+      "tags": [
+        "Lesion",
+        "Nerve",
+        "NS15"
+      ],
+      "sourceLine": 426,
+      "section": "Nerves",
+      "label": "67"
+    },
+    {
+      "id": "upper-limb-model-ns15-428",
+      "path": [
+        "68"
+      ],
+      "question": "Identification",
+      "answer": "Axillary nerve",
+      "tags": [
+        "Identification",
+        "Nerve",
+        "NS15"
+      ],
+      "sourceLine": 428,
+      "section": "Nerves",
+      "label": "68"
+    },
+    {
+      "id": "upper-limb-model-ns15-429",
+      "path": [
+        "68"
+      ],
+      "question": "Roots",
+      "answer": "C5–C6 from posterior cord of brachial plexus.",
+      "tags": [
+        "Roots",
+        "Nerve",
+        "NS15"
+      ],
+      "sourceLine": 429,
+      "section": "Nerves",
+      "label": "68"
+    },
+    {
+      "id": "upper-limb-model-ns15-430",
+      "path": [
+        "68"
+      ],
+      "question": "Course",
+      "answer": "Passes through quadrangular space with posterior circumflex humeral artery, then winds around surgical neck of humerus deep to deltoid.",
+      "tags": [
+        "Course",
+        "Nerve",
+        "NS15"
+      ],
+      "sourceLine": 430,
+      "section": "Nerves",
+      "label": "68"
+    },
+    {
+      "id": "upper-limb-model-ns15-431",
+      "path": [
+        "68"
+      ],
+      "question": "Motor functions",
+      "answer": "Deltoid and teres minor.",
+      "tags": [
+        "Motor",
+        "Nerve",
+        "NS15"
+      ],
+      "sourceLine": 431,
+      "section": "Nerves",
+      "label": "68"
+    },
+    {
+      "id": "upper-limb-model-ns15-432",
+      "path": [
+        "68"
+      ],
+      "question": "Sensory functions",
+      "answer": "Skin over superolateral arm via superior lateral cutaneous nerve of arm; articular branch to shoulder.",
+      "tags": [
+        "Sensory",
+        "Nerve",
+        "NS15"
+      ],
+      "sourceLine": 432,
+      "section": "Nerves",
+      "label": "68"
+    },
+    {
+      "id": "upper-limb-model-ns15-433",
+      "path": [
+        "68"
+      ],
+      "question": "Lesion",
+      "answer": "Weak arm abduction beyond ~15°, deltoid wasting and numbness over regimental-badge area; vulnerable in surgical-neck fractures and anterior shoulder dislocation.",
+      "tags": [
+        "Lesion",
+        "Nerve",
+        "NS15"
+      ],
+      "sourceLine": 433,
+      "section": "Nerves",
+      "label": "68"
+    },
+    {
+      "id": "upper-limb-model-ns15-435",
+      "path": [
+        "69"
+      ],
+      "question": "Identification",
+      "answer": "Medial cutaneous nerve of the forearm",
+      "tags": [
+        "Identification",
+        "Nerve",
+        "NS15"
+      ],
+      "sourceLine": 435,
+      "section": "Nerves",
+      "label": "69"
+    },
+    {
+      "id": "upper-limb-model-ns15-436",
+      "path": [
+        "69"
+      ],
+      "question": "Roots",
+      "answer": "C8–T1 from medial cord of brachial plexus.",
+      "tags": [
+        "Roots",
+        "Nerve",
+        "NS15"
+      ],
+      "sourceLine": 436,
+      "section": "Nerves",
+      "label": "69"
+    },
+    {
+      "id": "upper-limb-model-ns15-437",
+      "path": [
+        "69"
+      ],
+      "question": "Course",
+      "answer": "Descends medial arm, often accompanying basilic vein, then divides into anterior and posterior branches in forearm.",
+      "tags": [
+        "Course",
+        "Nerve",
+        "NS15"
+      ],
+      "sourceLine": 437,
+      "section": "Nerves",
+      "label": "69"
+    },
+    {
+      "id": "upper-limb-model-ns15-438",
+      "path": [
+        "69"
+      ],
+      "question": "Motor functions",
+      "answer": "None; cutaneous nerve.",
+      "tags": [
+        "Motor",
+        "Nerve",
+        "NS15"
+      ],
+      "sourceLine": 438,
+      "section": "Nerves",
+      "label": "69"
+    },
+    {
+      "id": "upper-limb-model-ns15-439",
+      "path": [
+        "69"
+      ],
+      "question": "Sensory functions",
+      "answer": "Skin of medial forearm.",
+      "tags": [
+        "Sensory",
+        "Nerve",
+        "NS15"
+      ],
+      "sourceLine": 439,
+      "section": "Nerves",
+      "label": "69"
+    },
+    {
+      "id": "upper-limb-model-ns15-440",
+      "path": [
+        "69"
+      ],
+      "question": "Lesion",
+      "answer": "Isolated injury causes sensory loss or neuropathic symptoms over medial forearm without motor weakness.",
+      "tags": [
+        "Lesion",
+        "Nerve",
+        "NS15"
+      ],
+      "sourceLine": 440,
+      "section": "Nerves",
+      "label": "69"
+    },
+    {
+      "id": "upper-limb-model-ns15-442",
+      "path": [
+        "70"
+      ],
+      "question": "Identification",
+      "answer": "Musculocutaneous nerve",
+      "tags": [
+        "Identification",
+        "Nerve",
+        "NS15"
+      ],
+      "sourceLine": 442,
+      "section": "Nerves",
+      "label": "70"
+    },
+    {
+      "id": "upper-limb-model-ns15-443",
+      "path": [
+        "70"
+      ],
+      "question": "Roots",
+      "answer": "C5–C7 from lateral cord.",
+      "tags": [
+        "Roots",
+        "Nerve",
+        "NS15"
+      ],
+      "sourceLine": 443,
+      "section": "Nerves",
+      "label": "70"
+    },
+    {
+      "id": "upper-limb-model-ns15-444",
+      "path": [
+        "70"
+      ],
+      "question": "Course",
+      "answer": "Pierces coracobrachialis, runs between biceps and brachialis, then continues as lateral cutaneous nerve of forearm.",
+      "tags": [
+        "Course",
+        "Nerve",
+        "NS15"
+      ],
+      "sourceLine": 444,
+      "section": "Nerves",
+      "label": "70"
+    },
+    {
+      "id": "upper-limb-model-ns15-445",
+      "path": [
+        "70"
+      ],
+      "question": "Motor functions",
+      "answer": "Coracobrachialis, biceps brachii and most of brachialis; elbow flexion and forearm supination via these muscles.",
+      "tags": [
+        "Motor",
+        "Nerve",
+        "NS15"
+      ],
+      "sourceLine": 445,
+      "section": "Nerves",
+      "label": "70"
+    },
+    {
+      "id": "upper-limb-model-ns15-446",
+      "path": [
+        "70"
+      ],
+      "question": "Sensory functions",
+      "answer": "Lateral forearm via lateral cutaneous nerve of forearm.",
+      "tags": [
+        "Sensory",
+        "Nerve",
+        "NS15"
+      ],
+      "sourceLine": 446,
+      "section": "Nerves",
+      "label": "70"
+    },
+    {
+      "id": "upper-limb-model-ns15-447",
+      "path": [
+        "70"
+      ],
+      "question": "Lesion",
+      "answer": "Weak elbow flexion and supination, reduced biceps reflex and sensory loss over lateral forearm.",
+      "tags": [
+        "Lesion",
+        "Nerve",
+        "NS15"
+      ],
+      "sourceLine": 447,
+      "section": "Nerves",
+      "label": "70"
+    },
+    {
+      "id": "upper-limb-model-ns15-449",
+      "path": [
+        "71"
+      ],
+      "question": "Identification",
+      "answer": "Median nerve",
+      "tags": [
+        "Identification",
+        "Nerve",
+        "NS15"
+      ],
+      "sourceLine": 449,
+      "section": "Nerves",
+      "label": "71"
+    },
+    {
+      "id": "upper-limb-model-ns15-450",
+      "path": [
+        "71"
+      ],
+      "question": "Roots",
+      "answer": "C6–T1, often with C5 contribution; formed by lateral and medial roots from lateral and medial cords.",
+      "tags": [
+        "Roots",
+        "Nerve",
+        "NS15"
+      ],
+      "sourceLine": 450,
+      "section": "Nerves",
+      "label": "71"
+    },
+    {
+      "id": "upper-limb-model-ns15-451",
+      "path": [
+        "71"
+      ],
+      "question": "Course",
+      "answer": "Descends with brachial artery, crosses cubital fossa, passes between pronator teres heads, travels between FDS and FDP, then through carpal tunnel.",
+      "tags": [
+        "Course",
+        "Nerve",
+        "NS15"
+      ],
+      "sourceLine": 451,
+      "section": "Nerves",
+      "label": "71"
+    },
+    {
+      "id": "upper-limb-model-ns15-452",
+      "path": [
+        "71"
+      ],
+      "question": "Motor functions",
+      "answer": "Most forearm flexors/pronators via median and anterior interosseous nerves; thenar muscles via recurrent branch; first two lumbricals.",
+      "tags": [
+        "Motor",
+        "Nerve",
+        "NS15"
+      ],
+      "sourceLine": 452,
+      "section": "Nerves",
+      "label": "71"
+    },
+    {
+      "id": "upper-limb-model-ns15-453",
+      "path": [
+        "71"
+      ],
+      "question": "Sensory functions",
+      "answer": "Lateral palm and palmar lateral 3½ digits; dorsal distal phalanges/nail beds of same digits.",
+      "tags": [
+        "Sensory",
+        "Nerve",
+        "NS15"
+      ],
+      "sourceLine": 453,
+      "section": "Nerves",
+      "label": "71"
+    },
+    {
+      "id": "upper-limb-model-ns15-454",
+      "path": [
+        "71"
+      ],
+      "question": "Lesion",
+      "answer": "Proximal lesion causes weak pronation, wrist/finger flexion and thenar function; carpal tunnel causes thenar weakness and paresthesia in lateral 3½ digits, usually sparing central palm.",
+      "tags": [
+        "Lesion",
+        "Nerve",
+        "NS15"
+      ],
+      "sourceLine": 454,
+      "section": "Nerves",
+      "label": "71"
+    },
+    {
+      "id": "upper-limb-model-ns15-456",
+      "path": [
+        "72"
+      ],
+      "question": "Identification",
+      "answer": "Anterior interosseus nerve",
+      "tags": [
+        "Identification",
+        "Nerve",
+        "NS15"
+      ],
+      "sourceLine": 456,
+      "section": "Nerves",
+      "label": "72"
+    },
+    {
+      "id": "upper-limb-model-ns15-457",
+      "path": [
+        "72"
+      ],
+      "question": "Roots",
+      "answer": "Predominantly C8–T1 fibres carried in median nerve.",
+      "tags": [
+        "Roots",
+        "Nerve",
+        "NS15"
+      ],
+      "sourceLine": 457,
+      "section": "Nerves",
+      "label": "72"
+    },
+    {
+      "id": "upper-limb-model-ns15-458",
+      "path": [
+        "72"
+      ],
+      "question": "Course",
+      "answer": "Branches from median nerve in proximal forearm and descends on anterior interosseous membrane with anterior interosseous artery.",
+      "tags": [
+        "Course",
+        "Nerve",
+        "NS15"
+      ],
+      "sourceLine": 458,
+      "section": "Nerves",
+      "label": "72"
+    },
+    {
+      "id": "upper-limb-model-ns15-459",
+      "path": [
+        "72"
+      ],
+      "question": "Motor functions",
+      "answer": "Flexor pollicis longus, lateral half of flexor digitorum profundus and pronator quadratus.",
+      "tags": [
+        "Motor",
+        "Nerve",
+        "NS15"
+      ],
+      "sourceLine": 459,
+      "section": "Nerves",
+      "label": "72"
+    },
+    {
+      "id": "upper-limb-model-ns15-460",
+      "path": [
+        "72"
+      ],
+      "question": "Sensory functions",
+      "answer": "No cutaneous territory; articular/proprioceptive fibres to wrist and distal radioulnar joints.",
+      "tags": [
+        "Sensory",
+        "Nerve",
+        "NS15"
+      ],
+      "sourceLine": 460,
+      "section": "Nerves",
+      "label": "72"
+    },
+    {
+      "id": "upper-limb-model-ns15-461",
+      "path": [
+        "72"
+      ],
+      "question": "Lesion",
+      "answer": "Causes weakness of thumb IP and index DIP flexion, producing an abnormal pinch/OK sign without cutaneous sensory loss.",
+      "tags": [
+        "Lesion",
+        "Nerve",
+        "NS15"
+      ],
+      "sourceLine": 461,
+      "section": "Nerves",
+      "label": "72"
+    },
+    {
+      "id": "upper-limb-model-ns15-463",
+      "path": [
+        "73"
+      ],
+      "question": "Identification",
+      "answer": "Common palmar digital nerve",
+      "tags": [
+        "Identification",
+        "Nerve",
+        "NS15"
+      ],
+      "sourceLine": 463,
+      "section": "Nerves",
+      "label": "73"
+    },
+    {
+      "id": "upper-limb-model-ns15-464",
+      "path": [
+        "73"
+      ],
+      "question": "Roots",
+      "answer": "Branches of median nerve in the palm.",
+      "tags": [
+        "Roots",
+        "Nerve",
+        "NS15"
+      ],
+      "sourceLine": 464,
+      "section": "Nerves",
+      "label": "73"
+    },
+    {
+      "id": "upper-limb-model-ns15-465",
+      "path": [
+        "73"
+      ],
+      "question": "Course",
+      "answer": "Run distally in palm toward interdigital clefts, superficial to flexor tendons.",
+      "tags": [
+        "Course",
+        "Nerve",
+        "NS15"
+      ],
+      "sourceLine": 465,
+      "section": "Nerves",
+      "label": "73"
+    },
+    {
+      "id": "upper-limb-model-ns15-466",
+      "path": [
+        "73"
+      ],
+      "question": "Motor functions",
+      "answer": "Some median common digital branches may carry motor fibres to first/second lumbricals before terminal sensory division.",
+      "tags": [
+        "Motor",
+        "Nerve",
+        "NS15"
+      ],
+      "sourceLine": 466,
+      "section": "Nerves",
+      "label": "73"
+    },
+    {
+      "id": "upper-limb-model-ns15-467",
+      "path": [
+        "73"
+      ],
+      "question": "Sensory functions",
+      "answer": "Divide into proper palmar digital nerves supplying adjacent sides of lateral digits.",
+      "tags": [
+        "Sensory",
+        "Nerve",
+        "NS15"
+      ],
+      "sourceLine": 467,
+      "section": "Nerves",
+      "label": "73"
+    },
+    {
+      "id": "upper-limb-model-ns15-468",
+      "path": [
+        "73"
+      ],
+      "question": "Lesion",
+      "answer": "Injury produces sensory loss in adjacent digital territories and may affect associated lumbrical branch depending on level.",
+      "tags": [
+        "Lesion",
+        "Nerve",
+        "NS15"
+      ],
+      "sourceLine": 468,
+      "section": "Nerves",
+      "label": "73"
+    },
+    {
+      "id": "upper-limb-model-ns15-470",
+      "path": [
+        "74"
+      ],
+      "question": "Identification",
+      "answer": "Ulnar nerve",
+      "tags": [
+        "Identification",
+        "Nerve",
+        "NS15"
+      ],
+      "sourceLine": 470,
+      "section": "Nerves",
+      "label": "74"
+    },
+    {
+      "id": "upper-limb-model-ns15-471",
+      "path": [
+        "74"
+      ],
+      "question": "Roots",
+      "answer": "C8–T1, with occasional C7 contribution; terminal branch of medial cord.",
+      "tags": [
+        "Roots",
+        "Nerve",
+        "NS15"
+      ],
+      "sourceLine": 471,
+      "section": "Nerves",
+      "label": "74"
+    },
+    {
+      "id": "upper-limb-model-ns15-472",
+      "path": [
+        "74"
+      ],
+      "question": "Course",
+      "answer": "Descends medial arm, passes posterior to medial epicondyle, enters forearm between FCU heads, travels with ulnar artery distally and enters hand through Guyon’s canal.",
+      "tags": [
+        "Course",
+        "Nerve",
+        "NS15"
+      ],
+      "sourceLine": 472,
+      "section": "Nerves",
+      "label": "74"
+    },
+    {
+      "id": "upper-limb-model-ns15-473",
+      "path": [
+        "74"
+      ],
+      "question": "Motor functions",
+      "answer": "FCU and medial half of FDP in forearm; most intrinsic hand muscles through deep branch.",
+      "tags": [
+        "Motor",
+        "Nerve",
+        "NS15"
+      ],
+      "sourceLine": 473,
+      "section": "Nerves",
+      "label": "74"
+    },
+    {
+      "id": "upper-limb-model-ns15-474",
+      "path": [
+        "74"
+      ],
+      "question": "Sensory functions",
+      "answer": "Medial 1½ digits and adjacent hand through palmar and dorsal cutaneous/superficial branches.",
+      "tags": [
+        "Sensory",
+        "Nerve",
+        "NS15"
+      ],
+      "sourceLine": 474,
+      "section": "Nerves",
+      "label": "74"
+    },
+    {
+      "id": "upper-limb-model-ns15-475",
+      "path": [
+        "74"
+      ],
+      "question": "Lesion",
+      "answer": "Weak finger abduction/adduction and key pinch with sensory loss in ulnar digits; lesion at elbow may also weaken FCU/FDP. Froment sign may be positive.",
+      "tags": [
+        "Lesion",
+        "Nerve",
+        "NS15"
+      ],
+      "sourceLine": 475,
+      "section": "Nerves",
+      "label": "74"
+    },
+    {
+      "id": "upper-limb-model-ns15-477",
+      "path": [
+        "75"
+      ],
+      "question": "Identification",
+      "answer": "Ulnar nerve",
+      "tags": [
+        "Identification",
+        "Nerve",
+        "NS15"
+      ],
+      "sourceLine": 477,
+      "section": "Nerves",
+      "label": "75"
+    },
+    {
+      "id": "upper-limb-model-ns15-478",
+      "path": [
+        "75"
+      ],
+      "question": "Roots",
+      "answer": "C8–T1, with occasional C7 contribution.",
+      "tags": [
+        "Roots",
+        "Nerve",
+        "NS15"
+      ],
+      "sourceLine": 478,
+      "section": "Nerves",
+      "label": "75"
+    },
+    {
+      "id": "upper-limb-model-ns15-479",
+      "path": [
+        "75"
+      ],
+      "question": "Course",
+      "answer": "At the wrist enters the hand superficial to flexor retinaculum through Guyon’s canal, then divides into superficial and deep branches.",
+      "tags": [
+        "Course",
+        "Nerve",
+        "NS15"
+      ],
+      "sourceLine": 479,
+      "section": "Nerves",
+      "label": "75"
+    },
+    {
+      "id": "upper-limb-model-ns15-480",
+      "path": [
+        "75"
+      ],
+      "question": "Motor functions",
+      "answer": "At hand level, motor supply is chiefly via deep branch to hypothenar muscles, interossei, medial lumbricals, adductor pollicis and deep head of FPB.",
+      "tags": [
+        "Motor",
+        "Nerve",
+        "NS15"
+      ],
+      "sourceLine": 480,
+      "section": "Nerves",
+      "label": "75"
+    },
+    {
+      "id": "upper-limb-model-ns15-481",
+      "path": [
+        "75"
+      ],
+      "question": "Sensory functions",
+      "answer": "Superficial branch supplies palmar aspects of medial 1½ digits; dorsal cutaneous branch arises proximal to the wrist.",
+      "tags": [
+        "Sensory",
+        "Nerve",
+        "NS15"
+      ],
+      "sourceLine": 481,
+      "section": "Nerves",
+      "label": "75"
+    },
+    {
+      "id": "upper-limb-model-ns15-482",
+      "path": [
+        "75"
+      ],
+      "question": "Lesion",
+      "answer": "Guyon’s canal lesion causes intrinsic hand weakness with variable palmar ulnar sensory loss while dorsal ulnar hand sensation may be spared.",
+      "tags": [
+        "Lesion",
+        "Nerve",
+        "NS15"
+      ],
+      "sourceLine": 482,
+      "section": "Nerves",
+      "label": "75"
+    },
+    {
+      "id": "upper-limb-model-ns15-484",
+      "path": [
+        "76"
+      ],
+      "question": "Identification",
+      "answer": "Dorsal branch of ulnar nerve",
+      "tags": [
+        "Identification",
+        "Nerve",
+        "NS15"
+      ],
+      "sourceLine": 484,
+      "section": "Nerves",
+      "label": "76"
+    },
+    {
+      "id": "upper-limb-model-ns15-485",
+      "path": [
+        "76"
+      ],
+      "question": "Roots",
+      "answer": "C8–T1 fibres from ulnar nerve.",
+      "tags": [
+        "Roots",
+        "Nerve",
+        "NS15"
+      ],
+      "sourceLine": 485,
+      "section": "Nerves",
+      "label": "76"
+    },
+    {
+      "id": "upper-limb-model-ns15-486",
+      "path": [
+        "76"
+      ],
+      "question": "Course",
+      "answer": "Arises in distal forearm, passes dorsally around ulna to dorsomedial hand.",
+      "tags": [
+        "Course",
+        "Nerve",
+        "NS15"
+      ],
+      "sourceLine": 486,
+      "section": "Nerves",
+      "label": "76"
+    },
+    {
+      "id": "upper-limb-model-ns15-487",
+      "path": [
+        "76"
+      ],
+      "question": "Motor functions",
+      "answer": "None; cutaneous branch.",
+      "tags": [
+        "Motor",
+        "Nerve",
+        "NS15"
+      ],
+      "sourceLine": 487,
+      "section": "Nerves",
+      "label": "76"
+    },
+    {
+      "id": "upper-limb-model-ns15-488",
+      "path": [
+        "76"
+      ],
+      "question": "Sensory functions",
+      "answer": "Dorsomedial hand and dorsal proximal parts of medial 1½ digits, with variable distribution.",
+      "tags": [
+        "Sensory",
+        "Nerve",
+        "NS15"
+      ],
+      "sourceLine": 488,
+      "section": "Nerves",
+      "label": "76"
+    },
+    {
+      "id": "upper-limb-model-ns15-489",
+      "path": [
+        "76"
+      ],
+      "question": "Lesion",
+      "answer": "Causes sensory disturbance over dorsoulnar hand; spared in lesions confined to Guyon’s canal because branch arises proximal to wrist.",
+      "tags": [
+        "Lesion",
+        "Nerve",
+        "NS15"
+      ],
+      "sourceLine": 489,
+      "section": "Nerves",
+      "label": "76"
+    },
+    {
+      "id": "upper-limb-model-ns15-491",
+      "path": [
+        "77"
+      ],
+      "question": "Identification",
+      "answer": "Deep branch of ulnar nerve",
+      "tags": [
+        "Identification",
+        "Nerve",
+        "NS15"
+      ],
+      "sourceLine": 491,
+      "section": "Nerves",
+      "label": "77"
+    },
+    {
+      "id": "upper-limb-model-ns15-492",
+      "path": [
+        "77"
+      ],
+      "question": "Roots",
+      "answer": "C8–T1.",
+      "tags": [
+        "Roots",
+        "Nerve",
+        "NS15"
+      ],
+      "sourceLine": 492,
+      "section": "Nerves",
+      "label": "77"
+    },
+    {
+      "id": "upper-limb-model-ns15-493",
+      "path": [
+        "77"
+      ],
+      "question": "Course",
+      "answer": "Passes deep across palm with deep branch of ulnar artery around hook of hamate and across metacarpal bases.",
+      "tags": [
+        "Course",
+        "Nerve",
+        "NS15"
+      ],
+      "sourceLine": 493,
+      "section": "Nerves",
+      "label": "77"
+    },
+    {
+      "id": "upper-limb-model-ns15-494",
+      "path": [
+        "77"
+      ],
+      "question": "Motor functions",
+      "answer": "Hypothenar muscles, interossei, medial two lumbricals, adductor pollicis and usually deep head of flexor pollicis brevis.",
+      "tags": [
+        "Motor",
+        "Nerve",
+        "NS15"
+      ],
+      "sourceLine": 494,
+      "section": "Nerves",
+      "label": "77"
+    },
+    {
+      "id": "upper-limb-model-ns15-495",
+      "path": [
+        "77"
+      ],
+      "question": "Sensory functions",
+      "answer": "No significant cutaneous territory; carries articular/proprioceptive fibres.",
+      "tags": [
+        "Sensory",
+        "Nerve",
+        "NS15"
+      ],
+      "sourceLine": 495,
+      "section": "Nerves",
+      "label": "77"
+    },
+    {
+      "id": "upper-limb-model-ns15-496",
+      "path": [
+        "77"
+      ],
+      "question": "Lesion",
+      "answer": "Produces intrinsic hand weakness, impaired finger abduction/adduction and weak key pinch without major cutaneous sensory loss.",
+      "tags": [
+        "Lesion",
+        "Nerve",
+        "NS15"
+      ],
+      "sourceLine": 496,
+      "section": "Nerves",
+      "label": "77"
+    },
+    {
+      "id": "upper-limb-model-ns15-498",
+      "path": [
+        "78"
+      ],
+      "question": "Identification",
+      "answer": "Superficial branch of ulnar nerve",
+      "tags": [
+        "Identification",
+        "Nerve",
+        "NS15"
+      ],
+      "sourceLine": 498,
+      "section": "Nerves",
+      "label": "78"
+    },
+    {
+      "id": "upper-limb-model-ns15-499",
+      "path": [
+        "78"
+      ],
+      "question": "Roots",
+      "answer": "C8–T1.",
+      "tags": [
+        "Roots",
+        "Nerve",
+        "NS15"
+      ],
+      "sourceLine": 499,
+      "section": "Nerves",
+      "label": "78"
+    },
+    {
+      "id": "upper-limb-model-ns15-500",
+      "path": [
+        "78"
+      ],
+      "question": "Course",
+      "answer": "Continues superficially in palm after ulnar nerve divides in Guyon’s canal.",
+      "tags": [
+        "Course",
+        "Nerve",
+        "NS15"
+      ],
+      "sourceLine": 500,
+      "section": "Nerves",
+      "label": "78"
+    },
+    {
+      "id": "upper-limb-model-ns15-501",
+      "path": [
+        "78"
+      ],
+      "question": "Motor functions",
+      "answer": "Usually supplies palmaris brevis; otherwise mainly sensory.",
+      "tags": [
+        "Motor",
+        "Nerve",
+        "NS15"
+      ],
+      "sourceLine": 501,
+      "section": "Nerves",
+      "label": "78"
+    },
+    {
+      "id": "upper-limb-model-ns15-502",
+      "path": [
+        "78"
+      ],
+      "question": "Sensory functions",
+      "answer": "Palmar surface of little finger and ulnar half of ring finger via proper/common palmar digital nerves.",
+      "tags": [
+        "Sensory",
+        "Nerve",
+        "NS15"
+      ],
+      "sourceLine": 502,
+      "section": "Nerves",
+      "label": "78"
+    },
+    {
+      "id": "upper-limb-model-ns15-503",
+      "path": [
+        "78"
+      ],
+      "question": "Lesion",
+      "answer": "Produces sensory loss in palmar medial 1½ digits with relatively preserved deep intrinsic motor function if deep branch is spared.",
+      "tags": [
+        "Lesion",
+        "Nerve",
+        "NS15"
+      ],
+      "sourceLine": 503,
+      "section": "Nerves",
+      "label": "78"
+    },
+    {
+      "id": "upper-limb-model-ns15-505",
+      "path": [
+        "79"
+      ],
+      "question": "Identification",
+      "answer": "Common palmar digital nerve",
+      "tags": [
+        "Identification",
+        "Nerve",
+        "NS15"
+      ],
+      "sourceLine": 505,
+      "section": "Nerves",
+      "label": "79"
+    },
+    {
+      "id": "upper-limb-model-ns15-506",
+      "path": [
+        "79"
+      ],
+      "question": "Roots",
+      "answer": "Ulnar common palmar digital branch from superficial branch of ulnar nerve.",
+      "tags": [
+        "Roots",
+        "Nerve",
+        "NS15"
+      ],
+      "sourceLine": 506,
+      "section": "Nerves",
+      "label": "79"
+    },
+    {
+      "id": "upper-limb-model-ns15-507",
+      "path": [
+        "79"
+      ],
+      "question": "Course",
+      "answer": "Runs distally toward the fourth interdigital cleft and divides into proper digital nerves.",
+      "tags": [
+        "Course",
+        "Nerve",
+        "NS15"
+      ],
+      "sourceLine": 507,
+      "section": "Nerves",
+      "label": "79"
+    },
+    {
+      "id": "upper-limb-model-ns15-508",
+      "path": [
+        "79"
+      ],
+      "question": "Motor functions",
+      "answer": "None of major intrinsic muscles; mainly sensory.",
+      "tags": [
+        "Motor",
+        "Nerve",
+        "NS15"
+      ],
+      "sourceLine": 508,
+      "section": "Nerves",
+      "label": "79"
+    },
+    {
+      "id": "upper-limb-model-ns15-509",
+      "path": [
+        "79"
+      ],
+      "question": "Sensory functions",
+      "answer": "Adjacent sides of ring and little fingers on palmar aspect.",
+      "tags": [
+        "Sensory",
+        "Nerve",
+        "NS15"
+      ],
+      "sourceLine": 509,
+      "section": "Nerves",
+      "label": "79"
+    },
+    {
+      "id": "upper-limb-model-ns15-510",
+      "path": [
+        "79"
+      ],
+      "question": "Lesion",
+      "answer": "Produces sensory disturbance in its digital territory.",
+      "tags": [
+        "Lesion",
+        "Nerve",
+        "NS15"
+      ],
+      "sourceLine": 510,
+      "section": "Nerves",
+      "label": "79"
+    },
+    {
+      "id": "upper-limb-model-ns15-512",
+      "path": [
+        "80"
+      ],
+      "question": "Identification",
+      "answer": "Radial nerve",
+      "tags": [
+        "Identification",
+        "Nerve",
+        "NS15"
+      ],
+      "sourceLine": 512,
+      "section": "Nerves",
+      "label": "80"
+    },
+    {
+      "id": "upper-limb-model-ns15-513",
+      "path": [
+        "80"
+      ],
+      "question": "Roots",
+      "answer": "C5–T1 from posterior cord.",
+      "tags": [
+        "Roots",
+        "Nerve",
+        "NS15"
+      ],
+      "sourceLine": 513,
+      "section": "Nerves",
+      "label": "80"
+    },
+    {
+      "id": "upper-limb-model-ns15-514",
+      "path": [
+        "80"
+      ],
+      "question": "Course",
+      "answer": "Leaves axilla through triangular interval with profunda brachii, winds in radial groove, pierces lateral intermuscular septum, then divides near lateral elbow into superficial and deep branches.",
+      "tags": [
+        "Course",
+        "Nerve",
+        "NS15"
+      ],
+      "sourceLine": 514,
+      "section": "Nerves",
+      "label": "80"
+    },
+    {
+      "id": "upper-limb-model-ns15-515",
+      "path": [
+        "80"
+      ],
+      "question": "Motor functions",
+      "answer": "Triceps, anconeus, brachioradialis, ECRL and via deep/posterior interosseous branch most forearm extensors.",
+      "tags": [
+        "Motor",
+        "Nerve",
+        "NS15"
+      ],
+      "sourceLine": 515,
+      "section": "Nerves",
+      "label": "80"
+    },
+    {
+      "id": "upper-limb-model-ns15-516",
+      "path": [
+        "80"
+      ],
+      "question": "Sensory functions",
+      "answer": "Posterior arm and forearm, lower lateral arm, and dorsolateral hand through cutaneous branches and superficial radial nerve.",
+      "tags": [
+        "Sensory",
+        "Nerve",
+        "NS15"
+      ],
+      "sourceLine": 516,
+      "section": "Nerves",
+      "label": "80"
+    },
+    {
+      "id": "upper-limb-model-ns15-517",
+      "path": [
+        "80"
+      ],
+      "question": "Lesion",
+      "answer": "Deficit depends on level; radial groove lesion classically causes wrist/finger extension weakness and dorsal hand sensory loss while triceps is largely spared.",
+      "tags": [
+        "Lesion",
+        "Nerve",
+        "NS15"
+      ],
+      "sourceLine": 517,
+      "section": "Nerves",
+      "label": "80"
+    },
+    {
+      "id": "upper-limb-model-ns15-519",
+      "path": [
+        "81"
+      ],
+      "question": "Identification",
+      "answer": "Superficial branch of the radial nerve",
+      "tags": [
+        "Identification",
+        "Nerve",
+        "NS15"
+      ],
+      "sourceLine": 519,
+      "section": "Nerves",
+      "label": "81"
+    },
+    {
+      "id": "upper-limb-model-ns15-520",
+      "path": [
+        "81"
+      ],
+      "question": "Roots",
+      "answer": "C6–C8 fibres from radial nerve.",
+      "tags": [
+        "Roots",
+        "Nerve",
+        "NS15"
+      ],
+      "sourceLine": 520,
+      "section": "Nerves",
+      "label": "81"
+    },
+    {
+      "id": "upper-limb-model-ns15-521",
+      "path": [
+        "81"
+      ],
+      "question": "Course",
+      "answer": "Descends under brachioradialis with radial artery, becomes superficial in distal forearm and crosses to dorsolateral hand.",
+      "tags": [
+        "Course",
+        "Nerve",
+        "NS15"
+      ],
+      "sourceLine": 521,
+      "section": "Nerves",
+      "label": "81"
+    },
+    {
+      "id": "upper-limb-model-ns15-522",
+      "path": [
+        "81"
+      ],
+      "question": "Motor functions",
+      "answer": "None; purely sensory terminal branch.",
+      "tags": [
+        "Motor",
+        "Nerve",
+        "NS15"
+      ],
+      "sourceLine": 522,
+      "section": "Nerves",
+      "label": "81"
+    },
+    {
+      "id": "upper-limb-model-ns15-523",
+      "path": [
+        "81"
+      ],
+      "question": "Sensory functions",
+      "answer": "Dorsolateral hand and proximal dorsal surfaces of lateral digits, usually excluding fingertips/nail beds.",
+      "tags": [
+        "Sensory",
+        "Nerve",
+        "NS15"
+      ],
+      "sourceLine": 523,
+      "section": "Nerves",
+      "label": "81"
+    },
+    {
+      "id": "upper-limb-model-ns15-524",
+      "path": [
+        "81"
+      ],
+      "question": "Lesion",
+      "answer": "Produces numbness or neuropathic pain over dorsolateral hand without motor weakness.",
+      "tags": [
+        "Lesion",
+        "Nerve",
+        "NS15"
+      ],
+      "sourceLine": 524,
+      "section": "Nerves",
+      "label": "81"
+    },
+    {
+      "id": "upper-limb-model-ns15-528",
+      "path": [
+        "82"
+      ],
+      "question": "Identification",
+      "answer": "Scapula",
+      "tags": [
+        "Identification",
+        "Bone",
+        "NS15"
+      ],
+      "sourceLine": 528,
+      "section": "Bones",
+      "label": "82"
+    },
+    {
+      "id": "upper-limb-model-ns15-529",
+      "path": [
+        "82"
+      ],
+      "question": "Articulations",
+      "answer": "Humeral head at glenoid cavity and clavicle at acromioclavicular joint.",
+      "tags": [
+        "Articulations",
+        "Bone",
+        "NS15"
+      ],
+      "sourceLine": 529,
+      "section": "Bones",
+      "label": "82"
+    },
+    {
+      "id": "upper-limb-model-ns15-530",
+      "path": [
+        "82"
+      ],
+      "question": "Landmarks",
+      "answer": "Spine, acromion, coracoid process, glenoid cavity, supraglenoid/infraglenoid tubercles, supra- and infraspinous fossae, subscapular fossa, borders and angles.",
+      "tags": [
+        "Landmarks",
+        "Bone",
+        "NS15"
+      ],
+      "sourceLine": 530,
+      "section": "Bones",
+      "label": "82"
+    },
+    {
+      "id": "upper-limb-model-ns15-531",
+      "path": [
+        "82"
+      ],
+      "question": "Muscle attachments",
+      "answer": "Rotator cuff muscles, deltoid, trapezius, biceps/triceps long heads, coracobrachialis, pectoralis minor, rhomboids, levator scapulae, serratus anterior and teres muscles.",
+      "tags": [
+        "Attachments",
+        "Bone",
+        "NS15"
+      ],
+      "sourceLine": 531,
+      "section": "Bones",
+      "label": "82"
+    },
+    {
+      "id": "upper-limb-model-ns15-532",
+      "path": [
+        "82"
+      ],
+      "question": "Orientation",
+      "answer": "Glenoid faces laterally; spine and infraspinous fossa posteriorly; subscapular fossa anteriorly; inferior angle points down.",
+      "tags": [
+        "Orientation",
+        "Bone",
+        "NS15"
+      ],
+      "sourceLine": 532,
+      "section": "Bones",
+      "label": "82"
+    },
+    {
+      "id": "upper-limb-model-ns15-534",
+      "path": [
+        "83"
+      ],
+      "question": "Identification",
+      "answer": "Spine of the scapula",
+      "tags": [
+        "Identification",
+        "BonyLandmark",
+        "NS15"
+      ],
+      "sourceLine": 534,
+      "section": "Bones",
+      "label": "83"
+    },
+    {
+      "id": "upper-limb-model-ns15-535",
+      "path": [
+        "83"
+      ],
+      "question": "Bone",
+      "answer": "Posterior scapula.",
+      "tags": [
+        "Bone",
+        "BonyLandmark",
+        "NS15"
+      ],
+      "sourceLine": 535,
+      "section": "Bones",
+      "label": "83"
+    },
+    {
+      "id": "upper-limb-model-ns15-536",
+      "path": [
+        "83"
+      ],
+      "question": "Attachments",
+      "answer": "Trapezius attaches superiorly and deltoid inferiorly; both continue onto acromion.",
+      "tags": [
+        "Attachments",
+        "BonyLandmark",
+        "NS15"
+      ],
+      "sourceLine": 536,
+      "section": "Bones",
+      "label": "83"
+    },
+    {
+      "id": "upper-limb-model-ns15-537",
+      "path": [
+        "83"
+      ],
+      "question": "Relations",
+      "answer": "Separates supraspinous and infraspinous fossae and expands laterally into acromion.",
+      "tags": [
+        "Relations",
+        "BonyLandmark",
+        "NS15"
+      ],
+      "sourceLine": 537,
+      "section": "Bones",
+      "label": "83"
+    },
+    {
+      "id": "upper-limb-model-ns15-538",
+      "path": [
+        "83"
+      ],
+      "question": "Clinical relevance",
+      "answer": "Palpable posterior landmark used to orient the scapula and identify the approximate T3 vertebral level medially.",
+      "tags": [
+        "Clinical",
+        "BonyLandmark",
+        "NS15"
+      ],
+      "sourceLine": 538,
+      "section": "Bones",
+      "label": "83"
+    },
+    {
+      "id": "upper-limb-model-ns15-540",
+      "path": [
+        "84"
+      ],
+      "question": "Identification",
+      "answer": "Coracoid process",
+      "tags": [
+        "Identification",
+        "BonyLandmark",
+        "NS15"
+      ],
+      "sourceLine": 540,
+      "section": "Bones",
+      "label": "84"
+    },
+    {
+      "id": "upper-limb-model-ns15-541",
+      "path": [
+        "84"
+      ],
+      "question": "Bone",
+      "answer": "Scapula.",
+      "tags": [
+        "Bone",
+        "BonyLandmark",
+        "NS15"
+      ],
+      "sourceLine": 541,
+      "section": "Bones",
+      "label": "84"
+    },
+    {
+      "id": "upper-limb-model-ns15-542",
+      "path": [
+        "84"
+      ],
+      "question": "Attachments",
+      "answer": "Short head of biceps and coracobrachialis arise from tip; pectoralis minor inserts medially; coracoacromial, coracoclavicular and coracohumeral ligaments attach.",
+      "tags": [
+        "Attachments",
+        "BonyLandmark",
+        "NS15"
+      ],
+      "sourceLine": 542,
+      "section": "Bones",
+      "label": "84"
+    },
+    {
+      "id": "upper-limb-model-ns15-543",
+      "path": [
+        "84"
+      ],
+      "question": "Relations",
+      "answer": "Projects anterolaterally superior to glenoid; palpable below lateral clavicle.",
+      "tags": [
+        "Relations",
+        "BonyLandmark",
+        "NS15"
+      ],
+      "sourceLine": 543,
+      "section": "Bones",
+      "label": "84"
+    },
+    {
+      "id": "upper-limb-model-ns15-544",
+      "path": [
+        "84"
+      ],
+      "question": "Clinical relevance",
+      "answer": "Important surgical and surface landmark; involved in coracoclavicular stabilisation of AC joint.",
+      "tags": [
+        "Clinical",
+        "BonyLandmark",
+        "NS15"
+      ],
+      "sourceLine": 544,
+      "section": "Bones",
+      "label": "84"
+    },
+    {
+      "id": "upper-limb-model-ns15-546",
+      "path": [
+        "85"
+      ],
+      "question": "Identification",
+      "answer": "Clavicle",
+      "tags": [
+        "Identification",
+        "Bone",
+        "NS15"
+      ],
+      "sourceLine": 546,
+      "section": "Bones",
+      "label": "85"
+    },
+    {
+      "id": "upper-limb-model-ns15-547",
+      "path": [
+        "85"
+      ],
+      "question": "Articulations",
+      "answer": "Manubrium medially at sternoclavicular joint and acromion laterally at acromioclavicular joint.",
+      "tags": [
+        "Articulations",
+        "Bone",
+        "NS15"
+      ],
+      "sourceLine": 547,
+      "section": "Bones",
+      "label": "85"
+    },
+    {
+      "id": "upper-limb-model-ns15-548",
+      "path": [
+        "85"
+      ],
+      "question": "Landmarks",
+      "answer": "Sternal end, acromial end, conoid tubercle, trapezoid line, subclavian groove and impression for costoclavicular ligament.",
+      "tags": [
+        "Landmarks",
+        "Bone",
+        "NS15"
+      ],
+      "sourceLine": 548,
+      "section": "Bones",
+      "label": "85"
+    },
+    {
+      "id": "upper-limb-model-ns15-549",
+      "path": [
+        "85"
+      ],
+      "question": "Muscle attachments",
+      "answer": "Pectoralis major, deltoid, trapezius, sternocleidomastoid and subclavius.",
+      "tags": [
+        "Attachments",
+        "Bone",
+        "NS15"
+      ],
+      "sourceLine": 549,
+      "section": "Bones",
+      "label": "85"
+    },
+    {
+      "id": "upper-limb-model-ns15-550",
+      "path": [
+        "85"
+      ],
+      "question": "Orientation",
+      "answer": "Bulky sternal end medial; flattened acromial end lateral; medial two-thirds convex anteriorly and lateral third concave anteriorly; conoid tubercle inferior/posterior.",
+      "tags": [
+        "Orientation",
+        "Bone",
+        "NS15"
+      ],
+      "sourceLine": 550,
+      "section": "Bones",
+      "label": "85"
+    },
+    {
+      "id": "upper-limb-model-ns15-552",
+      "path": [
+        "86"
+      ],
+      "question": "Identification",
+      "answer": "Humerus",
+      "tags": [
+        "Identification",
+        "Bone",
+        "NS15"
+      ],
+      "sourceLine": 552,
+      "section": "Bones",
+      "label": "86"
+    },
+    {
+      "id": "upper-limb-model-ns15-553",
+      "path": [
+        "86"
+      ],
+      "question": "Articulations",
+      "answer": "Scapula proximally at glenohumeral joint; radius and ulna distally at elbow.",
+      "tags": [
+        "Articulations",
+        "Bone",
+        "NS15"
+      ],
+      "sourceLine": 553,
+      "section": "Bones",
+      "label": "86"
+    },
+    {
+      "id": "upper-limb-model-ns15-554",
+      "path": [
+        "86"
+      ],
+      "question": "Landmarks",
+      "answer": "Head, anatomical/surgical necks, greater/lesser tubercles, intertubercular sulcus, deltoid tuberosity, radial groove, capitulum, trochlea, epicondyles and fossae.",
+      "tags": [
+        "Landmarks",
+        "Bone",
+        "NS15"
+      ],
+      "sourceLine": 554,
+      "section": "Bones",
+      "label": "86"
+    },
+    {
+      "id": "upper-limb-model-ns15-555",
+      "path": [
+        "86"
+      ],
+      "question": "Muscle attachments",
+      "answer": "Rotator cuff on tubercles; pectoralis major, latissimus dorsi and teres major around intertubercular sulcus; deltoid on tuberosity; forearm flexor/extensor groups arise from epicondyles.",
+      "tags": [
+        "Attachments",
+        "Bone",
+        "NS15"
+      ],
+      "sourceLine": 555,
+      "section": "Bones",
+      "label": "86"
+    },
+    {
+      "id": "upper-limb-model-ns15-556",
+      "path": [
+        "86"
+      ],
+      "question": "Orientation",
+      "answer": "Head faces medially, superiorly and slightly posteriorly; olecranon fossa is posterior; capitulum is lateral and trochlea medial.",
+      "tags": [
+        "Orientation",
+        "Bone",
+        "NS15"
+      ],
+      "sourceLine": 556,
+      "section": "Bones",
+      "label": "86"
+    },
+    {
+      "id": "upper-limb-model-ns15-558",
+      "path": [
+        "87"
+      ],
+      "question": "Identification",
+      "answer": "Medial epicondyle of the humerus",
+      "tags": [
+        "Identification",
+        "BonyLandmark",
+        "NS15"
+      ],
+      "sourceLine": 558,
+      "section": "Bones",
+      "label": "87"
+    },
+    {
+      "id": "upper-limb-model-ns15-559",
+      "path": [
+        "87"
+      ],
+      "question": "Bone",
+      "answer": "Distal humerus.",
+      "tags": [
+        "Bone",
+        "BonyLandmark",
+        "NS15"
+      ],
+      "sourceLine": 559,
+      "section": "Bones",
+      "label": "87"
+    },
+    {
+      "id": "upper-limb-model-ns15-560",
+      "path": [
+        "87"
+      ],
+      "question": "Attachments",
+      "answer": "Common flexor-pronator tendon and ulnar collateral ligament.",
+      "tags": [
+        "Attachments",
+        "BonyLandmark",
+        "NS15"
+      ],
+      "sourceLine": 560,
+      "section": "Bones",
+      "label": "87"
+    },
+    {
+      "id": "upper-limb-model-ns15-561",
+      "path": [
+        "87"
+      ],
+      "question": "Relations",
+      "answer": "Ulnar nerve passes posterior to it in the cubital tunnel region.",
+      "tags": [
+        "Relations",
+        "BonyLandmark",
+        "NS15"
+      ],
+      "sourceLine": 561,
+      "section": "Bones",
+      "label": "87"
+    },
+    {
+      "id": "upper-limb-model-ns15-562",
+      "path": [
+        "87"
+      ],
+      "question": "Clinical relevance",
+      "answer": "Ulnar nerve is vulnerable here; common site of traction injury/medial epicondylitis.",
+      "tags": [
+        "Clinical",
+        "BonyLandmark",
+        "NS15"
+      ],
+      "sourceLine": 562,
+      "section": "Bones",
+      "label": "87"
+    },
+    {
+      "id": "upper-limb-model-ns15-564",
+      "path": [
+        "88"
+      ],
+      "question": "Identification",
+      "answer": "Lateral epicondyle of the humerus",
+      "tags": [
+        "Identification",
+        "BonyLandmark",
+        "NS15"
+      ],
+      "sourceLine": 564,
+      "section": "Bones",
+      "label": "88"
+    },
+    {
+      "id": "upper-limb-model-ns15-565",
+      "path": [
+        "88"
+      ],
+      "question": "Bone",
+      "answer": "Distal humerus.",
+      "tags": [
+        "Bone",
+        "BonyLandmark",
+        "NS15"
+      ],
+      "sourceLine": 565,
+      "section": "Bones",
+      "label": "88"
+    },
+    {
+      "id": "upper-limb-model-ns15-566",
+      "path": [
+        "88"
+      ],
+      "question": "Attachments",
+      "answer": "Common extensor tendon, supinator and radial collateral/lateral ulnar collateral ligament complex.",
+      "tags": [
+        "Attachments",
+        "BonyLandmark",
+        "NS15"
+      ],
+      "sourceLine": 566,
+      "section": "Bones",
+      "label": "88"
+    },
+    {
+      "id": "upper-limb-model-ns15-567",
+      "path": [
+        "88"
+      ],
+      "question": "Relations",
+      "answer": "Lies lateral to capitulum; radial nerve divides anterior to lateral elbow region.",
+      "tags": [
+        "Relations",
+        "BonyLandmark",
+        "NS15"
+      ],
+      "sourceLine": 567,
+      "section": "Bones",
+      "label": "88"
+    },
+    {
+      "id": "upper-limb-model-ns15-568",
+      "path": [
+        "88"
+      ],
+      "question": "Clinical relevance",
+      "answer": "Common extensor origin is involved in lateral epicondylitis (tennis elbow).",
+      "tags": [
+        "Clinical",
+        "BonyLandmark",
+        "NS15"
+      ],
+      "sourceLine": 568,
+      "section": "Bones",
+      "label": "88"
+    },
+    {
+      "id": "upper-limb-model-ns15-570",
+      "path": [
+        "89"
+      ],
+      "question": "Identification",
+      "answer": "Olecranon",
+      "tags": [
+        "Identification",
+        "BonyLandmark",
+        "NS15"
+      ],
+      "sourceLine": 570,
+      "section": "Bones",
+      "label": "89"
+    },
+    {
+      "id": "upper-limb-model-ns15-571",
+      "path": [
+        "89"
+      ],
+      "question": "Bone",
+      "answer": "Proximal ulna.",
+      "tags": [
+        "Bone",
+        "BonyLandmark",
+        "NS15"
+      ],
+      "sourceLine": 571,
+      "section": "Bones",
+      "label": "89"
+    },
+    {
+      "id": "upper-limb-model-ns15-572",
+      "path": [
+        "89"
+      ],
+      "question": "Attachments",
+      "answer": "Triceps inserts posteriorly/superiorly; flexor carpi ulnaris arises partly from it; elbow capsule and collateral structures attach around it.",
+      "tags": [
+        "Attachments",
+        "BonyLandmark",
+        "NS15"
+      ],
+      "sourceLine": 572,
+      "section": "Bones",
+      "label": "89"
+    },
+    {
+      "id": "upper-limb-model-ns15-573",
+      "path": [
+        "89"
+      ],
+      "question": "Relations",
+      "answer": "Forms posterior point of elbow and enters olecranon fossa during extension.",
+      "tags": [
+        "Relations",
+        "BonyLandmark",
+        "NS15"
+      ],
+      "sourceLine": 573,
+      "section": "Bones",
+      "label": "89"
+    },
+    {
+      "id": "upper-limb-model-ns15-574",
+      "path": [
+        "89"
+      ],
+      "question": "Clinical relevance",
+      "answer": "Subcutaneous bursa over it can inflame (olecranon bursitis); fractures may disrupt triceps mechanism.",
+      "tags": [
+        "Clinical",
+        "BonyLandmark",
+        "NS15"
+      ],
+      "sourceLine": 574,
+      "section": "Bones",
+      "label": "89"
+    },
+    {
+      "id": "upper-limb-model-ns15-576",
+      "path": [
+        "90"
+      ],
+      "question": "Identification",
+      "answer": "Ulna",
+      "tags": [
+        "Identification",
+        "Bone",
+        "NS15"
+      ],
+      "sourceLine": 576,
+      "section": "Bones",
+      "label": "90"
+    },
+    {
+      "id": "upper-limb-model-ns15-577",
+      "path": [
+        "90"
+      ],
+      "question": "Articulations",
+      "answer": "Trochlea of humerus, radial head proximally, radius distally; does not directly articulate with carpal bones.",
+      "tags": [
+        "Articulations",
+        "Bone",
+        "NS15"
+      ],
+      "sourceLine": 577,
+      "section": "Bones",
+      "label": "90"
+    },
+    {
+      "id": "upper-limb-model-ns15-578",
+      "path": [
+        "90"
+      ],
+      "question": "Landmarks",
+      "answer": "Olecranon, coronoid process, trochlear notch, radial notch, ulnar tuberosity, shaft, head and styloid process.",
+      "tags": [
+        "Landmarks",
+        "Bone",
+        "NS15"
+      ],
+      "sourceLine": 578,
+      "section": "Bones",
+      "label": "90"
+    },
+    {
+      "id": "upper-limb-model-ns15-579",
+      "path": [
+        "90"
+      ],
+      "question": "Muscle attachments",
+      "answer": "Triceps, brachialis, FCU, FDP, pronator quadratus, supinator and multiple deep forearm muscles.",
+      "tags": [
+        "Attachments",
+        "Bone",
+        "NS15"
+      ],
+      "sourceLine": 579,
+      "section": "Bones",
+      "label": "90"
+    },
+    {
+      "id": "upper-limb-model-ns15-580",
+      "path": [
+        "90"
+      ],
+      "question": "Orientation",
+      "answer": "Trochlear notch faces anteriorly; radial notch is lateral; olecranon posterior/superior; styloid lies distally and medially/posteriorly.",
+      "tags": [
+        "Orientation",
+        "Bone",
+        "NS15"
+      ],
+      "sourceLine": 580,
+      "section": "Bones",
+      "label": "90"
+    },
+    {
+      "id": "upper-limb-model-ns15-582",
+      "path": [
+        "91"
+      ],
+      "question": "Identification",
+      "answer": "Radius",
+      "tags": [
+        "Identification",
+        "Bone",
+        "NS15"
+      ],
+      "sourceLine": 582,
+      "section": "Bones",
+      "label": "91"
+    },
+    {
+      "id": "upper-limb-model-ns15-583",
+      "path": [
+        "91"
+      ],
+      "question": "Articulations",
+      "answer": "Capitulum of humerus and ulna proximally; ulna and scaphoid/lunate distally.",
+      "tags": [
+        "Articulations",
+        "Bone",
+        "NS15"
+      ],
+      "sourceLine": 583,
+      "section": "Bones",
+      "label": "91"
+    },
+    {
+      "id": "upper-limb-model-ns15-584",
+      "path": [
+        "91"
+      ],
+      "question": "Landmarks",
+      "answer": "Head, neck, radial tuberosity, shaft, ulnar notch, dorsal tubercle and styloid process.",
+      "tags": [
+        "Landmarks",
+        "Bone",
+        "NS15"
+      ],
+      "sourceLine": 584,
+      "section": "Bones",
+      "label": "91"
+    },
+    {
+      "id": "upper-limb-model-ns15-585",
+      "path": [
+        "91"
+      ],
+      "question": "Muscle attachments",
+      "answer": "Biceps inserts on radial tuberosity; pronator teres and pronator quadratus insert on radius; supinator inserts proximally; multiple thumb muscles arise from shaft.",
+      "tags": [
+        "Attachments",
+        "Bone",
+        "NS15"
+      ],
+      "sourceLine": 585,
+      "section": "Bones",
+      "label": "91"
+    },
+    {
+      "id": "upper-limb-model-ns15-586",
+      "path": [
+        "91"
+      ],
+      "question": "Orientation",
+      "answer": "Disc-shaped head proximal; tuberosity faces medially; styloid distal/lateral; dorsal tubercle posterior.",
+      "tags": [
+        "Orientation",
+        "Bone",
+        "NS15"
+      ],
+      "sourceLine": 586,
+      "section": "Bones",
+      "label": "91"
+    },
+    {
+      "id": "upper-limb-model-ns15-588",
+      "path": [
+        "92"
+      ],
+      "question": "Identification",
+      "answer": "Pisiform",
+      "tags": [
+        "Identification",
+        "Bone",
+        "NS15"
+      ],
+      "sourceLine": 588,
+      "section": "Bones",
+      "label": "92"
+    },
+    {
+      "id": "upper-limb-model-ns15-589",
+      "path": [
+        "92"
+      ],
+      "question": "Articulations",
+      "answer": "Articulates with triquetrum on its dorsal surface.",
+      "tags": [
+        "Articulations",
+        "Bone",
+        "NS15"
+      ],
+      "sourceLine": 589,
+      "section": "Bones",
+      "label": "92"
+    },
+    {
+      "id": "upper-limb-model-ns15-590",
+      "path": [
+        "92"
+      ],
+      "question": "Landmarks",
+      "answer": "Small pea-shaped sesamoid carpal bone in flexor carpi ulnaris tendon.",
+      "tags": [
+        "Landmarks",
+        "Bone",
+        "NS15"
+      ],
+      "sourceLine": 590,
+      "section": "Bones",
+      "label": "92"
+    },
+    {
+      "id": "upper-limb-model-ns15-591",
+      "path": [
+        "92"
+      ],
+      "question": "Muscle attachments",
+      "answer": "Flexor carpi ulnaris inserts; abductor digiti minimi arises; pisohamate and pisometacarpal ligaments continue force distally.",
+      "tags": [
+        "Attachments",
+        "Bone",
+        "NS15"
+      ],
+      "sourceLine": 591,
+      "section": "Bones",
+      "label": "92"
+    },
+    {
+      "id": "upper-limb-model-ns15-592",
+      "path": [
+        "92"
+      ],
+      "question": "Orientation",
+      "answer": "Located on palmar/ulnar aspect of proximal carpus; articular facet faces dorsally.",
+      "tags": [
+        "Orientation",
+        "Bone",
+        "NS15"
+      ],
+      "sourceLine": 592,
+      "section": "Bones",
+      "label": "92"
+    },
+    {
+      "id": "upper-limb-model-ns15-593",
+      "path": [
+        "92"
+      ],
+      "question": "Clinical relevance",
+      "answer": "Forms medial boundary of Guyon’s canal and is a palpable landmark at ulnar wrist.",
+      "tags": [
+        "Clinical",
+        "Bone",
+        "NS15"
+      ],
+      "sourceLine": 593,
+      "section": "Bones",
+      "label": "92"
+    },
+    {
+      "id": "upper-limb-model-ns15-595",
+      "path": [
+        "93"
+      ],
+      "question": "Identification",
+      "answer": "Carpus (carpal bones)",
+      "tags": [
+        "Identification",
+        "BoneGroup",
+        "NS15"
+      ],
+      "sourceLine": 595,
+      "section": "Bones",
+      "label": "93"
+    },
+    {
+      "id": "upper-limb-model-ns15-596",
+      "path": [
+        "93"
+      ],
+      "question": "Components",
+      "answer": "Proximal row lateral to medial: scaphoid, lunate, triquetrum, pisiform. Distal row: trapezium, trapezoid, capitate, hamate.",
+      "tags": [
+        "Components",
+        "BoneGroup",
+        "NS15"
+      ],
+      "sourceLine": 596,
+      "section": "Bones",
+      "label": "93"
+    },
+    {
+      "id": "upper-limb-model-ns15-597",
+      "path": [
+        "93"
+      ],
+      "question": "Articulations",
+      "answer": "Radius and articular disc proximally; metacarpals distally; extensive intercarpal articulations.",
+      "tags": [
+        "Articulations",
+        "BoneGroup",
+        "NS15"
+      ],
+      "sourceLine": 597,
+      "section": "Bones",
+      "label": "93"
+    },
+    {
+      "id": "upper-limb-model-ns15-598",
+      "path": [
+        "93"
+      ],
+      "question": "Landmarks",
+      "answer": "Scaphoid tubercle and trapezium laterally; pisiform and hook of hamate medially form bony margins of carpal tunnel.",
+      "tags": [
+        "Landmarks",
+        "BoneGroup",
+        "NS15"
+      ],
+      "sourceLine": 598,
+      "section": "Bones",
+      "label": "93"
+    },
+    {
+      "id": "upper-limb-model-ns15-599",
+      "path": [
+        "93"
+      ],
+      "question": "Function",
+      "answer": "Forms the wrist skeleton, permitting mobility while transmitting load from hand to forearm.",
+      "tags": [
+        "Function",
+        "BoneGroup",
+        "NS15"
+      ],
+      "sourceLine": 599,
+      "section": "Bones",
+      "label": "93"
+    },
+    {
+      "id": "upper-limb-model-ns15-600",
+      "path": [
+        "93"
+      ],
+      "question": "Orientation",
+      "answer": "Scaphoid/trapezium lie radial; pisiform/hamate ulnar; concave palmar carpal arch is bridged by flexor retinaculum.",
+      "tags": [
+        "Orientation",
+        "BoneGroup",
+        "NS15"
+      ],
+      "sourceLine": 600,
+      "section": "Bones",
+      "label": "93"
+    },
+    {
+      "id": "upper-limb-model-ns15-602",
+      "path": [
+        "94"
+      ],
+      "question": "Identification",
+      "answer": "2nd metacarpal bone",
+      "tags": [
+        "Identification",
+        "Bone",
+        "NS15"
+      ],
+      "sourceLine": 602,
+      "section": "Bones",
+      "label": "94"
+    },
+    {
+      "id": "upper-limb-model-ns15-603",
+      "path": [
+        "94"
+      ],
+      "question": "Articulations",
+      "answer": "Trapezoid mainly, with trapezium/capitate and adjacent metacarpal bases variably; proximal phalanx of index finger distally.",
+      "tags": [
+        "Articulations",
+        "Bone",
+        "NS15"
+      ],
+      "sourceLine": 603,
+      "section": "Bones",
+      "label": "94"
+    },
+    {
+      "id": "upper-limb-model-ns15-604",
+      "path": [
+        "94"
+      ],
+      "question": "Landmarks",
+      "answer": "Base, shaft and head.",
+      "tags": [
+        "Landmarks",
+        "Bone",
+        "NS15"
+      ],
+      "sourceLine": 604,
+      "section": "Bones",
+      "label": "94"
+    },
+    {
+      "id": "upper-limb-model-ns15-605",
+      "path": [
+        "94"
+      ],
+      "question": "Muscle attachments",
+      "answer": "Flexor carpi radialis and extensor carpi radialis longus insert at base; dorsal and palmar interossei arise from shaft surfaces.",
+      "tags": [
+        "Attachments",
+        "Bone",
+        "NS15"
+      ],
+      "sourceLine": 605,
+      "section": "Bones",
+      "label": "94"
+    },
+    {
+      "id": "upper-limb-model-ns15-606",
+      "path": [
+        "94"
+      ],
+      "question": "Orientation",
+      "answer": "Base proximal, rounded head distal; radial side belongs toward thumb; shaft lies between first and third metacarpals.",
+      "tags": [
+        "Orientation",
+        "Bone",
+        "NS15"
+      ],
+      "sourceLine": 606,
+      "section": "Bones",
+      "label": "94"
+    },
+    {
+      "id": "upper-limb-model-ns15-608",
+      "path": [
+        "95"
+      ],
+      "question": "Identification",
+      "answer": "Proximal phalanx (I), middle phalanx (II), distal phalanx (III)",
+      "tags": [
+        "Identification",
+        "BoneGroup",
+        "NS15"
+      ],
+      "sourceLine": 608,
+      "section": "Bones",
+      "label": "95"
+    },
+    {
+      "id": "upper-limb-model-ns15-609",
+      "path": [
+        "95"
+      ],
+      "question": "Articulations",
+      "answer": "Proximal phalanx with metacarpal and middle phalanx; middle with proximal/distal phalanges; distal with middle phalanx.",
+      "tags": [
+        "Articulations",
+        "BoneGroup",
+        "NS15"
+      ],
+      "sourceLine": 609,
+      "section": "Bones",
+      "label": "95"
+    },
+    {
+      "id": "upper-limb-model-ns15-610",
+      "path": [
+        "95"
+      ],
+      "question": "Landmarks",
+      "answer": "Each has base, shaft and head except distal phalanx, which has a terminal tuft.",
+      "tags": [
+        "Landmarks",
+        "BoneGroup",
+        "NS15"
+      ],
+      "sourceLine": 610,
+      "section": "Bones",
+      "label": "95"
+    },
+    {
+      "id": "upper-limb-model-ns15-611",
+      "path": [
+        "95"
+      ],
+      "question": "Muscle attachments",
+      "answer": "Flexor digitorum superficialis inserts on middle phalanx; flexor digitorum profundus on distal phalanx; extensor expansion attaches across middle/distal phalanges; intrinsic hand muscles attach to proximal phalanges/extensor expansions.",
+      "tags": [
+        "Attachments",
+        "BoneGroup",
+        "NS15"
+      ],
+      "sourceLine": 611,
+      "section": "Bones",
+      "label": "95"
+    },
+    {
+      "id": "upper-limb-model-ns15-612",
+      "path": [
+        "95"
+      ],
+      "question": "Orientation",
+      "answer": "Bases are proximal and heads distal; distal phalanges have broad terminal tufts; palmar surfaces relate to flexor sheaths.",
+      "tags": [
+        "Orientation",
+        "BoneGroup",
+        "NS15"
+      ],
+      "sourceLine": 612,
+      "section": "Bones",
+      "label": "95"
+    }
+  ]
+}

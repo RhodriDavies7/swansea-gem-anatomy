@@ -1,0 +1,1196 @@
+{
+  "id": "kidney-model-ls5",
+  "name": "Kidney (Model LS5)",
+  "cards": [
+    {
+      "id": "kidney-model-ls5-3",
+      "path": [
+        "A"
+      ],
+      "question": "Identification",
+      "answer": "Renal medulla",
+      "tags": [
+        "Identification",
+        "RenalRegion",
+        "RenalRegions",
+        "LS5"
+      ],
+      "sourceLine": 3,
+      "section": "Renal regions",
+      "label": "A"
+    },
+    {
+      "id": "kidney-model-ls5-4",
+      "path": [
+        "A"
+      ],
+      "question": "Location",
+      "answer": "Inner part of the kidney deep to the renal cortex.",
+      "tags": [
+        "Location",
+        "RenalRegion",
+        "RenalRegions",
+        "LS5"
+      ],
+      "sourceLine": 4,
+      "section": "Renal regions",
+      "label": "A"
+    },
+    {
+      "id": "kidney-model-ls5-5",
+      "path": [
+        "A"
+      ],
+      "question": "Structure",
+      "answer": "Composed mainly of renal pyramids containing loops of Henle, collecting ducts and vasa recta.",
+      "tags": [
+        "Structure",
+        "RenalRegion",
+        "RenalRegions",
+        "LS5"
+      ],
+      "sourceLine": 5,
+      "section": "Renal regions",
+      "label": "A"
+    },
+    {
+      "id": "kidney-model-ls5-6",
+      "path": [
+        "A"
+      ],
+      "question": "Function",
+      "answer": "Establishes and maintains the medullary osmotic gradient required to concentrate urine.",
+      "tags": [
+        "Function",
+        "RenalRegion",
+        "RenalRegions",
+        "LS5"
+      ],
+      "sourceLine": 6,
+      "section": "Renal regions",
+      "label": "A"
+    },
+    {
+      "id": "kidney-model-ls5-7",
+      "path": [
+        "A"
+      ],
+      "question": "Blood supply",
+      "answer": "Supplied by vasa recta arising from efferent arterioles of juxtamedullary nephrons.",
+      "tags": [
+        "BloodSupply",
+        "RenalRegion",
+        "RenalRegions",
+        "LS5"
+      ],
+      "sourceLine": 7,
+      "section": "Renal regions",
+      "label": "A"
+    },
+    {
+      "id": "kidney-model-ls5-10",
+      "path": [
+        "B"
+      ],
+      "question": "Identification",
+      "answer": "Renal cortex",
+      "tags": [
+        "Identification",
+        "RenalRegion",
+        "RenalRegions",
+        "LS5"
+      ],
+      "sourceLine": 10,
+      "section": "Renal regions",
+      "label": "B"
+    },
+    {
+      "id": "kidney-model-ls5-11",
+      "path": [
+        "B"
+      ],
+      "question": "Location",
+      "answer": "Outer renal tissue beneath the capsule, extending between pyramids as renal columns.",
+      "tags": [
+        "Location",
+        "RenalRegion",
+        "RenalRegions",
+        "LS5"
+      ],
+      "sourceLine": 11,
+      "section": "Renal regions",
+      "label": "B"
+    },
+    {
+      "id": "kidney-model-ls5-12",
+      "path": [
+        "B"
+      ],
+      "question": "Structure",
+      "answer": "Contains renal corpuscles and proximal/distal convoluted tubules.",
+      "tags": [
+        "Structure",
+        "RenalRegion",
+        "RenalRegions",
+        "LS5"
+      ],
+      "sourceLine": 12,
+      "section": "Renal regions",
+      "label": "B"
+    },
+    {
+      "id": "kidney-model-ls5-13",
+      "path": [
+        "B"
+      ],
+      "question": "Function",
+      "answer": "Major site of glomerular filtration and tubular reabsorption/secretion.",
+      "tags": [
+        "Function",
+        "RenalRegion",
+        "RenalRegions",
+        "LS5"
+      ],
+      "sourceLine": 13,
+      "section": "Renal regions",
+      "label": "B"
+    },
+    {
+      "id": "kidney-model-ls5-14",
+      "path": [
+        "B"
+      ],
+      "question": "Blood supply",
+      "answer": "Receives blood through cortical radiate (interlobular) arteries and afferent arterioles.",
+      "tags": [
+        "BloodSupply",
+        "RenalRegion",
+        "RenalRegions",
+        "LS5"
+      ],
+      "sourceLine": 14,
+      "section": "Renal regions",
+      "label": "B"
+    },
+    {
+      "id": "kidney-model-ls5-18",
+      "path": [
+        "1"
+      ],
+      "question": "Identification",
+      "answer": "Renal vein",
+      "tags": [
+        "Identification",
+        "Vein",
+        "RenalVessels",
+        "LS5"
+      ],
+      "sourceLine": 18,
+      "section": "Renal vessels",
+      "label": "1"
+    },
+    {
+      "id": "kidney-model-ls5-19",
+      "path": [
+        "1"
+      ],
+      "question": "Formation",
+      "answer": "Formed by convergence of intrarenal venous channels at the renal hilum.",
+      "tags": [
+        "Formation",
+        "Vein",
+        "RenalVessels",
+        "LS5"
+      ],
+      "sourceLine": 19,
+      "section": "Renal vessels",
+      "label": "1"
+    },
+    {
+      "id": "kidney-model-ls5-20",
+      "path": [
+        "1"
+      ],
+      "question": "Course",
+      "answer": "Leaves the kidney anterior to the renal artery and drains into the inferior vena cava.",
+      "tags": [
+        "Course",
+        "Vein",
+        "RenalVessels",
+        "LS5"
+      ],
+      "sourceLine": 20,
+      "section": "Renal vessels",
+      "label": "1"
+    },
+    {
+      "id": "kidney-model-ls5-21",
+      "path": [
+        "1"
+      ],
+      "question": "Relations",
+      "answer": "At the hilum the usual anterior-to-posterior arrangement is renal vein, renal artery, renal pelvis/ureter.",
+      "tags": [
+        "Relations",
+        "Vein",
+        "RenalVessels",
+        "LS5"
+      ],
+      "sourceLine": 21,
+      "section": "Renal vessels",
+      "label": "1"
+    },
+    {
+      "id": "kidney-model-ls5-22",
+      "path": [
+        "1"
+      ],
+      "question": "Clinical relevance",
+      "answer": "The left renal vein passes anterior to the aorta and beneath the superior mesenteric artery and may be compressed in nutcracker syndrome.",
+      "tags": [
+        "Clinical",
+        "Vein",
+        "RenalVessels",
+        "LS5"
+      ],
+      "sourceLine": 22,
+      "section": "Renal vessels",
+      "label": "1"
+    },
+    {
+      "id": "kidney-model-ls5-25",
+      "path": [
+        "2"
+      ],
+      "question": "Identification",
+      "answer": "Renal artery",
+      "tags": [
+        "Identification",
+        "Artery",
+        "RenalVessels",
+        "LS5"
+      ],
+      "sourceLine": 25,
+      "section": "Renal vessels",
+      "label": "2"
+    },
+    {
+      "id": "kidney-model-ls5-26",
+      "path": [
+        "2"
+      ],
+      "question": "Origin",
+      "answer": "Direct lateral branch of the abdominal aorta, usually around L1–L2.",
+      "tags": [
+        "Origin",
+        "Artery",
+        "RenalVessels",
+        "LS5"
+      ],
+      "sourceLine": 26,
+      "section": "Renal vessels",
+      "label": "2"
+    },
+    {
+      "id": "kidney-model-ls5-27",
+      "path": [
+        "2"
+      ],
+      "question": "Course",
+      "answer": "Runs toward the renal hilum; the right renal artery passes posterior to the inferior vena cava.",
+      "tags": [
+        "Course",
+        "Artery",
+        "RenalVessels",
+        "LS5"
+      ],
+      "sourceLine": 27,
+      "section": "Renal vessels",
+      "label": "2"
+    },
+    {
+      "id": "kidney-model-ls5-28",
+      "path": [
+        "2"
+      ],
+      "question": "Branches",
+      "answer": "Divides into segmental arteries, then interlobar, arcuate and interlobular arteries.",
+      "tags": [
+        "Branches",
+        "Artery",
+        "RenalVessels",
+        "LS5"
+      ],
+      "sourceLine": 28,
+      "section": "Renal vessels",
+      "label": "2"
+    },
+    {
+      "id": "kidney-model-ls5-29",
+      "path": [
+        "2"
+      ],
+      "question": "Supply",
+      "answer": "Supplies renal parenchyma and gives rise ultimately to afferent arterioles of glomeruli.",
+      "tags": [
+        "Supply",
+        "Artery",
+        "RenalVessels",
+        "LS5"
+      ],
+      "sourceLine": 29,
+      "section": "Renal vessels",
+      "label": "2"
+    },
+    {
+      "id": "kidney-model-ls5-30",
+      "path": [
+        "2"
+      ],
+      "question": "Clinical relevance",
+      "answer": "Segmental arteries are effectively end arteries, so occlusion may cause segmental renal infarction.",
+      "tags": [
+        "Clinical",
+        "Artery",
+        "RenalVessels",
+        "LS5"
+      ],
+      "sourceLine": 30,
+      "section": "Renal vessels",
+      "label": "2"
+    },
+    {
+      "id": "kidney-model-ls5-33",
+      "path": [
+        "13"
+      ],
+      "question": "Identification",
+      "answer": "Interlobular artery",
+      "tags": [
+        "Identification",
+        "Artery",
+        "RenalVessels",
+        "LS5"
+      ],
+      "sourceLine": 33,
+      "section": "Renal vessels",
+      "label": "13"
+    },
+    {
+      "id": "kidney-model-ls5-34",
+      "path": [
+        "13"
+      ],
+      "question": "Origin",
+      "answer": "Arises from arcuate arteries at the corticomedullary junction.",
+      "tags": [
+        "Origin",
+        "Artery",
+        "RenalVessels",
+        "LS5"
+      ],
+      "sourceLine": 34,
+      "section": "Renal vessels",
+      "label": "13"
+    },
+    {
+      "id": "kidney-model-ls5-35",
+      "path": [
+        "13"
+      ],
+      "question": "Course",
+      "answer": "Radiates outward through the renal cortex toward the capsule.",
+      "tags": [
+        "Course",
+        "Artery",
+        "RenalVessels",
+        "LS5"
+      ],
+      "sourceLine": 35,
+      "section": "Renal vessels",
+      "label": "13"
+    },
+    {
+      "id": "kidney-model-ls5-36",
+      "path": [
+        "13"
+      ],
+      "question": "Branches",
+      "answer": "Gives rise to afferent arterioles supplying glomeruli.",
+      "tags": [
+        "Branches",
+        "Artery",
+        "RenalVessels",
+        "LS5"
+      ],
+      "sourceLine": 36,
+      "section": "Renal vessels",
+      "label": "13"
+    },
+    {
+      "id": "kidney-model-ls5-37",
+      "path": [
+        "13"
+      ],
+      "question": "Supply",
+      "answer": "Supplies the renal cortex and glomerular capillary beds via afferent arterioles.",
+      "tags": [
+        "Supply",
+        "Artery",
+        "RenalVessels",
+        "LS5"
+      ],
+      "sourceLine": 37,
+      "section": "Renal vessels",
+      "label": "13"
+    },
+    {
+      "id": "kidney-model-ls5-38",
+      "path": [
+        "13"
+      ],
+      "question": "Also called",
+      "answer": "Cortical radiate artery.",
+      "tags": [
+        "AlsoCalled",
+        "Artery",
+        "RenalVessels",
+        "LS5"
+      ],
+      "sourceLine": 38,
+      "section": "Renal vessels",
+      "label": "13"
+    },
+    {
+      "id": "kidney-model-ls5-41",
+      "path": [
+        "16"
+      ],
+      "question": "Identification",
+      "answer": "Arcuate artery",
+      "tags": [
+        "Identification",
+        "Artery",
+        "RenalVessels",
+        "LS5"
+      ],
+      "sourceLine": 41,
+      "section": "Renal vessels",
+      "label": "16"
+    },
+    {
+      "id": "kidney-model-ls5-42",
+      "path": [
+        "16"
+      ],
+      "question": "Origin",
+      "answer": "Arises from interlobar arteries.",
+      "tags": [
+        "Origin",
+        "Artery",
+        "RenalVessels",
+        "LS5"
+      ],
+      "sourceLine": 42,
+      "section": "Renal vessels",
+      "label": "16"
+    },
+    {
+      "id": "kidney-model-ls5-43",
+      "path": [
+        "16"
+      ],
+      "question": "Course",
+      "answer": "Arches along the corticomedullary junction at the bases of renal pyramids.",
+      "tags": [
+        "Course",
+        "Artery",
+        "RenalVessels",
+        "LS5"
+      ],
+      "sourceLine": 43,
+      "section": "Renal vessels",
+      "label": "16"
+    },
+    {
+      "id": "kidney-model-ls5-44",
+      "path": [
+        "16"
+      ],
+      "question": "Branches",
+      "answer": "Gives rise to interlobular (cortical radiate) arteries.",
+      "tags": [
+        "Branches",
+        "Artery",
+        "RenalVessels",
+        "LS5"
+      ],
+      "sourceLine": 44,
+      "section": "Renal vessels",
+      "label": "16"
+    },
+    {
+      "id": "kidney-model-ls5-45",
+      "path": [
+        "16"
+      ],
+      "question": "Supply",
+      "answer": "Supplies cortex and medulla indirectly through downstream branches.",
+      "tags": [
+        "Supply",
+        "Artery",
+        "RenalVessels",
+        "LS5"
+      ],
+      "sourceLine": 45,
+      "section": "Renal vessels",
+      "label": "16"
+    },
+    {
+      "id": "kidney-model-ls5-48",
+      "path": [
+        "17"
+      ],
+      "question": "Identification",
+      "answer": "Interlobular vein",
+      "tags": [
+        "Identification",
+        "Vein",
+        "RenalVessels",
+        "LS5"
+      ],
+      "sourceLine": 48,
+      "section": "Renal vessels",
+      "label": "17"
+    },
+    {
+      "id": "kidney-model-ls5-49",
+      "path": [
+        "17"
+      ],
+      "question": "Formation",
+      "answer": "Receives blood from cortical peritubular capillary networks and stellate veins.",
+      "tags": [
+        "Formation",
+        "Vein",
+        "RenalVessels",
+        "LS5"
+      ],
+      "sourceLine": 49,
+      "section": "Renal vessels",
+      "label": "17"
+    },
+    {
+      "id": "kidney-model-ls5-50",
+      "path": [
+        "17"
+      ],
+      "question": "Course",
+      "answer": "Descends through the cortex toward the corticomedullary junction.",
+      "tags": [
+        "Course",
+        "Vein",
+        "RenalVessels",
+        "LS5"
+      ],
+      "sourceLine": 50,
+      "section": "Renal vessels",
+      "label": "17"
+    },
+    {
+      "id": "kidney-model-ls5-51",
+      "path": [
+        "17"
+      ],
+      "question": "Termination",
+      "answer": "Drains into arcuate veins.",
+      "tags": [
+        "Termination",
+        "Vein",
+        "RenalVessels",
+        "LS5"
+      ],
+      "sourceLine": 51,
+      "section": "Renal vessels",
+      "label": "17"
+    },
+    {
+      "id": "kidney-model-ls5-52",
+      "path": [
+        "17"
+      ],
+      "question": "Also called",
+      "answer": "Cortical radiate vein.",
+      "tags": [
+        "AlsoCalled",
+        "Vein",
+        "RenalVessels",
+        "LS5"
+      ],
+      "sourceLine": 52,
+      "section": "Renal vessels",
+      "label": "17"
+    },
+    {
+      "id": "kidney-model-ls5-55",
+      "path": [
+        "18"
+      ],
+      "question": "Identification",
+      "answer": "Arcuate vein",
+      "tags": [
+        "Identification",
+        "Vein",
+        "RenalVessels",
+        "LS5"
+      ],
+      "sourceLine": 55,
+      "section": "Renal vessels",
+      "label": "18"
+    },
+    {
+      "id": "kidney-model-ls5-56",
+      "path": [
+        "18"
+      ],
+      "question": "Formation",
+      "answer": "Receives interlobular veins and venous return from medullary circulation.",
+      "tags": [
+        "Formation",
+        "Vein",
+        "RenalVessels",
+        "LS5"
+      ],
+      "sourceLine": 56,
+      "section": "Renal vessels",
+      "label": "18"
+    },
+    {
+      "id": "kidney-model-ls5-57",
+      "path": [
+        "18"
+      ],
+      "question": "Course",
+      "answer": "Runs along the corticomedullary junction parallel to arcuate arteries.",
+      "tags": [
+        "Course",
+        "Vein",
+        "RenalVessels",
+        "LS5"
+      ],
+      "sourceLine": 57,
+      "section": "Renal vessels",
+      "label": "18"
+    },
+    {
+      "id": "kidney-model-ls5-58",
+      "path": [
+        "18"
+      ],
+      "question": "Termination",
+      "answer": "Drains into interlobar veins, which converge toward the renal vein.",
+      "tags": [
+        "Termination",
+        "Vein",
+        "RenalVessels",
+        "LS5"
+      ],
+      "sourceLine": 58,
+      "section": "Renal vessels",
+      "label": "18"
+    },
+    {
+      "id": "kidney-model-ls5-62",
+      "path": [
+        "3"
+      ],
+      "question": "Identification",
+      "answer": "Ureter",
+      "tags": [
+        "Identification",
+        "Tube",
+        "CollectingSystem",
+        "LS5"
+      ],
+      "sourceLine": 62,
+      "section": "Collecting system and renal parenchyma",
+      "label": "3"
+    },
+    {
+      "id": "kidney-model-ls5-63",
+      "path": [
+        "3"
+      ],
+      "question": "Function",
+      "answer": "Transports urine from renal pelvis to urinary bladder by peristalsis.",
+      "tags": [
+        "Function",
+        "Tube",
+        "CollectingSystem",
+        "LS5"
+      ],
+      "sourceLine": 63,
+      "section": "Collecting system and renal parenchyma",
+      "label": "3"
+    },
+    {
+      "id": "kidney-model-ls5-64",
+      "path": [
+        "3"
+      ],
+      "question": "Course",
+      "answer": "Descends retroperitoneally from renal pelvis, crosses pelvic brim and enters bladder obliquely.",
+      "tags": [
+        "Course",
+        "Tube",
+        "CollectingSystem",
+        "LS5"
+      ],
+      "sourceLine": 64,
+      "section": "Collecting system and renal parenchyma",
+      "label": "3"
+    },
+    {
+      "id": "kidney-model-ls5-65",
+      "path": [
+        "3"
+      ],
+      "question": "Constrictions",
+      "answer": "Classically at pelviureteric junction, crossing of iliac vessels/pelvic brim, and vesicoureteric junction.",
+      "tags": [
+        "Constrictions",
+        "Tube",
+        "CollectingSystem",
+        "LS5"
+      ],
+      "sourceLine": 65,
+      "section": "Collecting system and renal parenchyma",
+      "label": "3"
+    },
+    {
+      "id": "kidney-model-ls5-66",
+      "path": [
+        "3"
+      ],
+      "question": "Clinical relevance",
+      "answer": "These constrictions are common sites for ureteric stone impaction.",
+      "tags": [
+        "Clinical",
+        "Tube",
+        "CollectingSystem",
+        "LS5"
+      ],
+      "sourceLine": 66,
+      "section": "Collecting system and renal parenchyma",
+      "label": "3"
+    },
+    {
+      "id": "kidney-model-ls5-69",
+      "path": [
+        "4"
+      ],
+      "question": "Identification",
+      "answer": "Pelvis of the kidney",
+      "tags": [
+        "Identification",
+        "CollectingStructure",
+        "CollectingSystem",
+        "LS5"
+      ],
+      "sourceLine": 69,
+      "section": "Collecting system and renal parenchyma",
+      "label": "4"
+    },
+    {
+      "id": "kidney-model-ls5-70",
+      "path": [
+        "4"
+      ],
+      "question": "Structure",
+      "answer": "Funnel-shaped expanded proximal part of the ureter within the renal sinus.",
+      "tags": [
+        "Structure",
+        "CollectingStructure",
+        "CollectingSystem",
+        "LS5"
+      ],
+      "sourceLine": 70,
+      "section": "Collecting system and renal parenchyma",
+      "label": "4"
+    },
+    {
+      "id": "kidney-model-ls5-71",
+      "path": [
+        "4"
+      ],
+      "question": "Formation",
+      "answer": "Formed by union of major calyces.",
+      "tags": [
+        "Formation",
+        "CollectingStructure",
+        "CollectingSystem",
+        "LS5"
+      ],
+      "sourceLine": 71,
+      "section": "Collecting system and renal parenchyma",
+      "label": "4"
+    },
+    {
+      "id": "kidney-model-ls5-72",
+      "path": [
+        "4"
+      ],
+      "question": "Function",
+      "answer": "Collects urine from major calyces and funnels it into the ureter.",
+      "tags": [
+        "Function",
+        "CollectingStructure",
+        "CollectingSystem",
+        "LS5"
+      ],
+      "sourceLine": 72,
+      "section": "Collecting system and renal parenchyma",
+      "label": "4"
+    },
+    {
+      "id": "kidney-model-ls5-73",
+      "path": [
+        "4"
+      ],
+      "question": "Relations",
+      "answer": "At the renal hilum it lies posterior to the renal artery and vein.",
+      "tags": [
+        "Relations",
+        "CollectingStructure",
+        "CollectingSystem",
+        "LS5"
+      ],
+      "sourceLine": 73,
+      "section": "Collecting system and renal parenchyma",
+      "label": "4"
+    },
+    {
+      "id": "kidney-model-ls5-76",
+      "path": [
+        "5"
+      ],
+      "question": "Identification",
+      "answer": "Minor calyx",
+      "tags": [
+        "Identification",
+        "CollectingStructure",
+        "CollectingSystem",
+        "LS5"
+      ],
+      "sourceLine": 76,
+      "section": "Collecting system and renal parenchyma",
+      "label": "5"
+    },
+    {
+      "id": "kidney-model-ls5-77",
+      "path": [
+        "5"
+      ],
+      "question": "Structure",
+      "answer": "Cup-shaped collecting space surrounding the apex of a renal papilla.",
+      "tags": [
+        "Structure",
+        "CollectingStructure",
+        "CollectingSystem",
+        "LS5"
+      ],
+      "sourceLine": 77,
+      "section": "Collecting system and renal parenchyma",
+      "label": "5"
+    },
+    {
+      "id": "kidney-model-ls5-78",
+      "path": [
+        "5"
+      ],
+      "question": "Function",
+      "answer": "Receives urine from papillary ducts at the renal papilla.",
+      "tags": [
+        "Function",
+        "CollectingStructure",
+        "CollectingSystem",
+        "LS5"
+      ],
+      "sourceLine": 78,
+      "section": "Collecting system and renal parenchyma",
+      "label": "5"
+    },
+    {
+      "id": "kidney-model-ls5-79",
+      "path": [
+        "5"
+      ],
+      "question": "Connections",
+      "answer": "Several minor calyces unite to form a major calyx.",
+      "tags": [
+        "Connections",
+        "CollectingStructure",
+        "CollectingSystem",
+        "LS5"
+      ],
+      "sourceLine": 79,
+      "section": "Collecting system and renal parenchyma",
+      "label": "5"
+    },
+    {
+      "id": "kidney-model-ls5-82",
+      "path": [
+        "6"
+      ],
+      "question": "Identification",
+      "answer": "Renal papilla and papillary ducts",
+      "tags": [
+        "Identification",
+        "RenalStructure",
+        "CollectingSystem",
+        "LS5"
+      ],
+      "sourceLine": 82,
+      "section": "Collecting system and renal parenchyma",
+      "label": "6"
+    },
+    {
+      "id": "kidney-model-ls5-83",
+      "path": [
+        "6"
+      ],
+      "question": "Location",
+      "answer": "Renal papilla is the apex of a renal pyramid projecting into a minor calyx.",
+      "tags": [
+        "Location",
+        "RenalStructure",
+        "CollectingSystem",
+        "LS5"
+      ],
+      "sourceLine": 83,
+      "section": "Collecting system and renal parenchyma",
+      "label": "6"
+    },
+    {
+      "id": "kidney-model-ls5-84",
+      "path": [
+        "6"
+      ],
+      "question": "Structure",
+      "answer": "Papillary ducts are terminal collecting ducts that open at the area cribrosa of the papilla.",
+      "tags": [
+        "Structure",
+        "RenalStructure",
+        "CollectingSystem",
+        "LS5"
+      ],
+      "sourceLine": 84,
+      "section": "Collecting system and renal parenchyma",
+      "label": "6"
+    },
+    {
+      "id": "kidney-model-ls5-85",
+      "path": [
+        "6"
+      ],
+      "question": "Function",
+      "answer": "Deliver urine from collecting ducts into the minor calyx.",
+      "tags": [
+        "Function",
+        "RenalStructure",
+        "CollectingSystem",
+        "LS5"
+      ],
+      "sourceLine": 85,
+      "section": "Collecting system and renal parenchyma",
+      "label": "6"
+    },
+    {
+      "id": "kidney-model-ls5-86",
+      "path": [
+        "6"
+      ],
+      "question": "Also called",
+      "answer": "Papillary ducts are also called ducts of Bellini.",
+      "tags": [
+        "AlsoCalled",
+        "RenalStructure",
+        "CollectingSystem",
+        "LS5"
+      ],
+      "sourceLine": 86,
+      "section": "Collecting system and renal parenchyma",
+      "label": "6"
+    },
+    {
+      "id": "kidney-model-ls5-89",
+      "path": [
+        "7"
+      ],
+      "question": "Identification",
+      "answer": "Renal pyramid",
+      "tags": [
+        "Identification",
+        "RenalStructure",
+        "CollectingSystem",
+        "LS5"
+      ],
+      "sourceLine": 89,
+      "section": "Collecting system and renal parenchyma",
+      "label": "7"
+    },
+    {
+      "id": "kidney-model-ls5-90",
+      "path": [
+        "7"
+      ],
+      "question": "Location",
+      "answer": "Conical unit of renal medulla with base toward cortex and apex forming a renal papilla.",
+      "tags": [
+        "Location",
+        "RenalStructure",
+        "CollectingSystem",
+        "LS5"
+      ],
+      "sourceLine": 90,
+      "section": "Collecting system and renal parenchyma",
+      "label": "7"
+    },
+    {
+      "id": "kidney-model-ls5-91",
+      "path": [
+        "7"
+      ],
+      "question": "Contents",
+      "answer": "Contains straight tubules, loops of Henle and collecting ducts arranged toward the papilla.",
+      "tags": [
+        "Contents",
+        "RenalStructure",
+        "CollectingSystem",
+        "LS5"
+      ],
+      "sourceLine": 91,
+      "section": "Collecting system and renal parenchyma",
+      "label": "7"
+    },
+    {
+      "id": "kidney-model-ls5-92",
+      "path": [
+        "7"
+      ],
+      "question": "Function",
+      "answer": "Contributes to urine concentration and directs collecting ducts toward the papilla.",
+      "tags": [
+        "Function",
+        "RenalStructure",
+        "CollectingSystem",
+        "LS5"
+      ],
+      "sourceLine": 92,
+      "section": "Collecting system and renal parenchyma",
+      "label": "7"
+    },
+    {
+      "id": "kidney-model-ls5-93",
+      "path": [
+        "7"
+      ],
+      "question": "Relations",
+      "answer": "Adjacent pyramids are separated by cortical extensions called renal columns.",
+      "tags": [
+        "Relations",
+        "RenalStructure",
+        "CollectingSystem",
+        "LS5"
+      ],
+      "sourceLine": 93,
+      "section": "Collecting system and renal parenchyma",
+      "label": "7"
+    },
+    {
+      "id": "kidney-model-ls5-96",
+      "path": [
+        "19"
+      ],
+      "question": "Identification",
+      "answer": "Renal papilla and papillary ducts",
+      "tags": [
+        "Identification",
+        "RenalStructure",
+        "CollectingSystem",
+        "LS5"
+      ],
+      "sourceLine": 96,
+      "section": "Collecting system and renal parenchyma",
+      "label": "19"
+    },
+    {
+      "id": "kidney-model-ls5-97",
+      "path": [
+        "19"
+      ],
+      "question": "Location",
+      "answer": "Renal papilla is the apex of a renal pyramid projecting into a minor calyx.",
+      "tags": [
+        "Location",
+        "RenalStructure",
+        "CollectingSystem",
+        "LS5"
+      ],
+      "sourceLine": 97,
+      "section": "Collecting system and renal parenchyma",
+      "label": "19"
+    },
+    {
+      "id": "kidney-model-ls5-98",
+      "path": [
+        "19"
+      ],
+      "question": "Structure",
+      "answer": "Papillary ducts are the terminal portions of collecting ducts and open on the papillary surface.",
+      "tags": [
+        "Structure",
+        "RenalStructure",
+        "CollectingSystem",
+        "LS5"
+      ],
+      "sourceLine": 98,
+      "section": "Collecting system and renal parenchyma",
+      "label": "19"
+    },
+    {
+      "id": "kidney-model-ls5-99",
+      "path": [
+        "19"
+      ],
+      "question": "Function",
+      "answer": "Drain urine into the minor calyx.",
+      "tags": [
+        "Function",
+        "RenalStructure",
+        "CollectingSystem",
+        "LS5"
+      ],
+      "sourceLine": 99,
+      "section": "Collecting system and renal parenchyma",
+      "label": "19"
+    },
+    {
+      "id": "kidney-model-ls5-100",
+      "path": [
+        "19"
+      ],
+      "question": "Model note",
+      "answer": "This structure is also labelled as number 6 on the model key; both labels have been preserved.",
+      "tags": [
+        "ModelNote",
+        "RenalStructure",
+        "CollectingSystem",
+        "LS5"
+      ],
+      "sourceLine": 100,
+      "section": "Collecting system and renal parenchyma",
+      "label": "19"
+    }
+  ]
+}

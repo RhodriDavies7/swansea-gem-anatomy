@@ -1,0 +1,1842 @@
+{
+  "id": "heart-model-hs5",
+  "name": "Heart (Model HS5)",
+  "cards": [
+    {
+      "id": "heart-model-hs5-3",
+      "path": [
+        "A"
+      ],
+      "question": "Identification",
+      "answer": "Apex of the heart",
+      "tags": [
+        "Identification",
+        "CardiacLandmark",
+        "MajorLandmarks",
+        "HS5"
+      ],
+      "sourceLine": 3,
+      "section": "Major landmarks",
+      "label": "A"
+    },
+    {
+      "id": "heart-model-hs5-4",
+      "path": [
+        "A"
+      ],
+      "question": "Position",
+      "answer": "Points forwards, downwards and to the left; in adults it usually lies deep to the left 5th intercostal space near the midclavicular line, about 9 cm from the median plane.",
+      "tags": [
+        "Position",
+        "CardiacLandmark",
+        "MajorLandmarks",
+        "HS5"
+      ],
+      "sourceLine": 4,
+      "section": "Major landmarks",
+      "label": "A"
+    },
+    {
+      "id": "heart-model-hs5-5",
+      "path": [
+        "A"
+      ],
+      "question": "Formation",
+      "answer": "Formed mainly by the left ventricle.",
+      "tags": [
+        "Structure",
+        "CardiacLandmark",
+        "MajorLandmarks",
+        "HS5"
+      ],
+      "sourceLine": 5,
+      "section": "Major landmarks",
+      "label": "A"
+    },
+    {
+      "id": "heart-model-hs5-6",
+      "path": [
+        "A"
+      ],
+      "question": "Clinical relevance",
+      "answer": "The apex beat is normally palpable in the left 5th intercostal space near the midclavicular line.",
+      "tags": [
+        "Clinical",
+        "CardiacLandmark",
+        "MajorLandmarks",
+        "HS5"
+      ],
+      "sourceLine": 6,
+      "section": "Major landmarks",
+      "label": "A"
+    },
+    {
+      "id": "heart-model-hs5-9",
+      "path": [
+        "B"
+      ],
+      "question": "Identification",
+      "answer": "Interventricular septum",
+      "tags": [
+        "Identification",
+        "CardiacStructure",
+        "MajorLandmarks",
+        "HS5"
+      ],
+      "sourceLine": 9,
+      "section": "Major landmarks",
+      "label": "B"
+    },
+    {
+      "id": "heart-model-hs5-10",
+      "path": [
+        "B"
+      ],
+      "question": "Function",
+      "answer": "Separates the right and left ventricles and allows the two circulations to operate at different pressures.",
+      "tags": [
+        "Function",
+        "CardiacStructure",
+        "MajorLandmarks",
+        "HS5"
+      ],
+      "sourceLine": 10,
+      "section": "Major landmarks",
+      "label": "B"
+    },
+    {
+      "id": "heart-model-hs5-11",
+      "path": [
+        "B"
+      ],
+      "question": "Parts",
+      "answer": "Has a large muscular part and a small membranous part.",
+      "tags": [
+        "Parts",
+        "CardiacStructure",
+        "MajorLandmarks",
+        "HS5"
+      ],
+      "sourceLine": 11,
+      "section": "Major landmarks",
+      "label": "B"
+    },
+    {
+      "id": "heart-model-hs5-12",
+      "path": [
+        "B"
+      ],
+      "question": "Relations",
+      "answer": "Traversed by components of the cardiac conduction system, including the atrioventricular bundle and bundle branches.",
+      "tags": [
+        "Relations",
+        "CardiacStructure",
+        "MajorLandmarks",
+        "HS5"
+      ],
+      "sourceLine": 12,
+      "section": "Major landmarks",
+      "label": "B"
+    },
+    {
+      "id": "heart-model-hs5-13",
+      "path": [
+        "B"
+      ],
+      "question": "Clinical relevance",
+      "answer": "Ventricular septal defects most commonly involve the membranous region.",
+      "tags": [
+        "Clinical",
+        "CardiacStructure",
+        "MajorLandmarks",
+        "HS5"
+      ],
+      "sourceLine": 13,
+      "section": "Major landmarks",
+      "label": "B"
+    },
+    {
+      "id": "heart-model-hs5-17",
+      "path": [
+        "I"
+      ],
+      "question": "Identification",
+      "answer": "Right atrium",
+      "tags": [
+        "Identification",
+        "HeartChamber",
+        "Chambers",
+        "HS5"
+      ],
+      "sourceLine": 17,
+      "section": "Chambers",
+      "label": "I"
+    },
+    {
+      "id": "heart-model-hs5-18",
+      "path": [
+        "I"
+      ],
+      "question": "Function",
+      "answer": "Receives systemic venous blood and delivers it to the right ventricle.",
+      "tags": [
+        "Function",
+        "HeartChamber",
+        "Chambers",
+        "HS5"
+      ],
+      "sourceLine": 18,
+      "section": "Chambers",
+      "label": "I"
+    },
+    {
+      "id": "heart-model-hs5-19",
+      "path": [
+        "I"
+      ],
+      "question": "Inflow",
+      "answer": "Receives blood from the superior vena cava, inferior vena cava and coronary sinus.",
+      "tags": [
+        "Contents",
+        "HeartChamber",
+        "Chambers",
+        "HS5"
+      ],
+      "sourceLine": 19,
+      "section": "Chambers",
+      "label": "I"
+    },
+    {
+      "id": "heart-model-hs5-20",
+      "path": [
+        "I"
+      ],
+      "question": "Outflow",
+      "answer": "Blood passes through the tricuspid valve into the right ventricle.",
+      "tags": [
+        "Connections",
+        "HeartChamber",
+        "Chambers",
+        "HS5"
+      ],
+      "sourceLine": 20,
+      "section": "Chambers",
+      "label": "I"
+    },
+    {
+      "id": "heart-model-hs5-21",
+      "path": [
+        "I"
+      ],
+      "question": "Internal features",
+      "answer": "Includes sinus venarum, pectinate muscles, crista terminalis and fossa ovalis.",
+      "tags": [
+        "Landmarks",
+        "HeartChamber",
+        "Chambers",
+        "HS5"
+      ],
+      "sourceLine": 21,
+      "section": "Chambers",
+      "label": "I"
+    },
+    {
+      "id": "heart-model-hs5-24",
+      "path": [
+        "II"
+      ],
+      "question": "Identification",
+      "answer": "Left atrium",
+      "tags": [
+        "Identification",
+        "HeartChamber",
+        "Chambers",
+        "HS5"
+      ],
+      "sourceLine": 24,
+      "section": "Chambers",
+      "label": "II"
+    },
+    {
+      "id": "heart-model-hs5-25",
+      "path": [
+        "II"
+      ],
+      "question": "Function",
+      "answer": "Receives oxygenated blood from the lungs and delivers it to the left ventricle.",
+      "tags": [
+        "Function",
+        "HeartChamber",
+        "Chambers",
+        "HS5"
+      ],
+      "sourceLine": 25,
+      "section": "Chambers",
+      "label": "II"
+    },
+    {
+      "id": "heart-model-hs5-26",
+      "path": [
+        "II"
+      ],
+      "question": "Inflow",
+      "answer": "Usually receives four pulmonary veins.",
+      "tags": [
+        "Contents",
+        "HeartChamber",
+        "Chambers",
+        "HS5"
+      ],
+      "sourceLine": 26,
+      "section": "Chambers",
+      "label": "II"
+    },
+    {
+      "id": "heart-model-hs5-27",
+      "path": [
+        "II"
+      ],
+      "question": "Outflow",
+      "answer": "Blood passes through the mitral valve into the left ventricle.",
+      "tags": [
+        "Connections",
+        "HeartChamber",
+        "Chambers",
+        "HS5"
+      ],
+      "sourceLine": 27,
+      "section": "Chambers",
+      "label": "II"
+    },
+    {
+      "id": "heart-model-hs5-28",
+      "path": [
+        "II"
+      ],
+      "question": "Internal features",
+      "answer": "Most of the atrial wall is smooth; pectinate muscles are mainly confined to the left auricle.",
+      "tags": [
+        "Landmarks",
+        "HeartChamber",
+        "Chambers",
+        "HS5"
+      ],
+      "sourceLine": 28,
+      "section": "Chambers",
+      "label": "II"
+    },
+    {
+      "id": "heart-model-hs5-31",
+      "path": [
+        "III"
+      ],
+      "question": "Identification",
+      "answer": "Right ventricle",
+      "tags": [
+        "Identification",
+        "HeartChamber",
+        "Chambers",
+        "HS5"
+      ],
+      "sourceLine": 31,
+      "section": "Chambers",
+      "label": "III"
+    },
+    {
+      "id": "heart-model-hs5-32",
+      "path": [
+        "III"
+      ],
+      "question": "Function",
+      "answer": "Pumps deoxygenated blood into the pulmonary circulation.",
+      "tags": [
+        "Function",
+        "HeartChamber",
+        "Chambers",
+        "HS5"
+      ],
+      "sourceLine": 32,
+      "section": "Chambers",
+      "label": "III"
+    },
+    {
+      "id": "heart-model-hs5-33",
+      "path": [
+        "III"
+      ],
+      "question": "Inflow",
+      "answer": "Receives blood from the right atrium through the tricuspid valve.",
+      "tags": [
+        "Contents",
+        "HeartChamber",
+        "Chambers",
+        "HS5"
+      ],
+      "sourceLine": 33,
+      "section": "Chambers",
+      "label": "III"
+    },
+    {
+      "id": "heart-model-hs5-34",
+      "path": [
+        "III"
+      ],
+      "question": "Outflow",
+      "answer": "Ejects blood through the pulmonary valve into the pulmonary trunk.",
+      "tags": [
+        "Connections",
+        "HeartChamber",
+        "Chambers",
+        "HS5"
+      ],
+      "sourceLine": 34,
+      "section": "Chambers",
+      "label": "III"
+    },
+    {
+      "id": "heart-model-hs5-35",
+      "path": [
+        "III"
+      ],
+      "question": "Internal features",
+      "answer": "Contains trabeculae carneae, papillary muscles, chordae tendineae and the moderator band.",
+      "tags": [
+        "Landmarks",
+        "HeartChamber",
+        "Chambers",
+        "HS5"
+      ],
+      "sourceLine": 35,
+      "section": "Chambers",
+      "label": "III"
+    },
+    {
+      "id": "heart-model-hs5-36",
+      "path": [
+        "III"
+      ],
+      "question": "Wall thickness",
+      "answer": "Thinner than the left ventricle because pulmonary vascular resistance is lower.",
+      "tags": [
+        "Relations",
+        "HeartChamber",
+        "Chambers",
+        "HS5"
+      ],
+      "sourceLine": 36,
+      "section": "Chambers",
+      "label": "III"
+    },
+    {
+      "id": "heart-model-hs5-39",
+      "path": [
+        "IV"
+      ],
+      "question": "Identification",
+      "answer": "Left ventricle",
+      "tags": [
+        "Identification",
+        "HeartChamber",
+        "Chambers",
+        "HS5"
+      ],
+      "sourceLine": 39,
+      "section": "Chambers",
+      "label": "IV"
+    },
+    {
+      "id": "heart-model-hs5-40",
+      "path": [
+        "IV"
+      ],
+      "question": "Function",
+      "answer": "Pumps oxygenated blood into the systemic circulation.",
+      "tags": [
+        "Function",
+        "HeartChamber",
+        "Chambers",
+        "HS5"
+      ],
+      "sourceLine": 40,
+      "section": "Chambers",
+      "label": "IV"
+    },
+    {
+      "id": "heart-model-hs5-41",
+      "path": [
+        "IV"
+      ],
+      "question": "Inflow",
+      "answer": "Receives blood from the left atrium through the mitral valve.",
+      "tags": [
+        "Contents",
+        "HeartChamber",
+        "Chambers",
+        "HS5"
+      ],
+      "sourceLine": 41,
+      "section": "Chambers",
+      "label": "IV"
+    },
+    {
+      "id": "heart-model-hs5-42",
+      "path": [
+        "IV"
+      ],
+      "question": "Outflow",
+      "answer": "Ejects blood through the aortic valve into the ascending aorta.",
+      "tags": [
+        "Connections",
+        "HeartChamber",
+        "Chambers",
+        "HS5"
+      ],
+      "sourceLine": 42,
+      "section": "Chambers",
+      "label": "IV"
+    },
+    {
+      "id": "heart-model-hs5-43",
+      "path": [
+        "IV"
+      ],
+      "question": "Internal features",
+      "answer": "Contains trabeculae carneae, papillary muscles and chordae tendineae.",
+      "tags": [
+        "Landmarks",
+        "HeartChamber",
+        "Chambers",
+        "HS5"
+      ],
+      "sourceLine": 43,
+      "section": "Chambers",
+      "label": "IV"
+    },
+    {
+      "id": "heart-model-hs5-44",
+      "path": [
+        "IV"
+      ],
+      "question": "Wall thickness",
+      "answer": "Has the thickest myocardium because it pumps against systemic vascular resistance.",
+      "tags": [
+        "Relations",
+        "HeartChamber",
+        "Chambers",
+        "HS5"
+      ],
+      "sourceLine": 44,
+      "section": "Chambers",
+      "label": "IV"
+    },
+    {
+      "id": "heart-model-hs5-48",
+      "path": [
+        "a"
+      ],
+      "question": "Identification",
+      "answer": "Right auricle",
+      "tags": [
+        "Identification",
+        "Auricle",
+        "AuriclesVesselsValves",
+        "HS5"
+      ],
+      "sourceLine": 48,
+      "section": "Auricles, great vessels and valves",
+      "label": "a"
+    },
+    {
+      "id": "heart-model-hs5-49",
+      "path": [
+        "a"
+      ],
+      "question": "Structure",
+      "answer": "Muscular pouch projecting from the right atrium and containing pectinate muscles.",
+      "tags": [
+        "Structure",
+        "Auricle",
+        "AuriclesVesselsValves",
+        "HS5"
+      ],
+      "sourceLine": 49,
+      "section": "Auricles, great vessels and valves",
+      "label": "a"
+    },
+    {
+      "id": "heart-model-hs5-50",
+      "path": [
+        "a"
+      ],
+      "question": "Function",
+      "answer": "Increases the capacity of the right atrium.",
+      "tags": [
+        "Function",
+        "Auricle",
+        "AuriclesVesselsValves",
+        "HS5"
+      ],
+      "sourceLine": 50,
+      "section": "Auricles, great vessels and valves",
+      "label": "a"
+    },
+    {
+      "id": "heart-model-hs5-53",
+      "path": [
+        "b"
+      ],
+      "question": "Identification",
+      "answer": "Left auricle",
+      "tags": [
+        "Identification",
+        "Auricle",
+        "AuriclesVesselsValves",
+        "HS5"
+      ],
+      "sourceLine": 53,
+      "section": "Auricles, great vessels and valves",
+      "label": "b"
+    },
+    {
+      "id": "heart-model-hs5-54",
+      "path": [
+        "b"
+      ],
+      "question": "Structure",
+      "answer": "Muscular appendage of the left atrium containing pectinate muscles.",
+      "tags": [
+        "Structure",
+        "Auricle",
+        "AuriclesVesselsValves",
+        "HS5"
+      ],
+      "sourceLine": 54,
+      "section": "Auricles, great vessels and valves",
+      "label": "b"
+    },
+    {
+      "id": "heart-model-hs5-55",
+      "path": [
+        "b"
+      ],
+      "question": "Function",
+      "answer": "Increases the capacity of the left atrium.",
+      "tags": [
+        "Function",
+        "Auricle",
+        "AuriclesVesselsValves",
+        "HS5"
+      ],
+      "sourceLine": 55,
+      "section": "Auricles, great vessels and valves",
+      "label": "b"
+    },
+    {
+      "id": "heart-model-hs5-56",
+      "path": [
+        "b"
+      ],
+      "question": "Clinical relevance",
+      "answer": "The left atrial appendage is a common site of thrombus formation in atrial fibrillation.",
+      "tags": [
+        "Clinical",
+        "Auricle",
+        "AuriclesVesselsValves",
+        "HS5"
+      ],
+      "sourceLine": 56,
+      "section": "Auricles, great vessels and valves",
+      "label": "b"
+    },
+    {
+      "id": "heart-model-hs5-59",
+      "path": [
+        "c"
+      ],
+      "question": "Identification",
+      "answer": "Superior vena cava",
+      "tags": [
+        "Identification",
+        "Vein",
+        "AuriclesVesselsValves",
+        "HS5"
+      ],
+      "sourceLine": 59,
+      "section": "Auricles, great vessels and valves",
+      "label": "c"
+    },
+    {
+      "id": "heart-model-hs5-60",
+      "path": [
+        "c"
+      ],
+      "question": "Formation",
+      "answer": "Formed by union of the right and left brachiocephalic veins.",
+      "tags": [
+        "Formation",
+        "Vein",
+        "AuriclesVesselsValves",
+        "HS5"
+      ],
+      "sourceLine": 60,
+      "section": "Auricles, great vessels and valves",
+      "label": "c"
+    },
+    {
+      "id": "heart-model-hs5-61",
+      "path": [
+        "c"
+      ],
+      "question": "Course",
+      "answer": "Descends in the right superior mediastinum and enters the superior aspect of the right atrium.",
+      "tags": [
+        "Course",
+        "Vein",
+        "AuriclesVesselsValves",
+        "HS5"
+      ],
+      "sourceLine": 61,
+      "section": "Auricles, great vessels and valves",
+      "label": "c"
+    },
+    {
+      "id": "heart-model-hs5-62",
+      "path": [
+        "c"
+      ],
+      "question": "Drainage",
+      "answer": "Returns venous blood from structures above the diaphragm except the heart and lungs.",
+      "tags": [
+        "Drainage",
+        "Vein",
+        "AuriclesVesselsValves",
+        "HS5"
+      ],
+      "sourceLine": 62,
+      "section": "Auricles, great vessels and valves",
+      "label": "c"
+    },
+    {
+      "id": "heart-model-hs5-65",
+      "path": [
+        "d"
+      ],
+      "question": "Identification",
+      "answer": "Inferior vena cava",
+      "tags": [
+        "Identification",
+        "Vein",
+        "AuriclesVesselsValves",
+        "HS5"
+      ],
+      "sourceLine": 65,
+      "section": "Auricles, great vessels and valves",
+      "label": "d"
+    },
+    {
+      "id": "heart-model-hs5-66",
+      "path": [
+        "d"
+      ],
+      "question": "Formation",
+      "answer": "Formed by union of the common iliac veins, usually at L5.",
+      "tags": [
+        "Formation",
+        "Vein",
+        "AuriclesVesselsValves",
+        "HS5"
+      ],
+      "sourceLine": 66,
+      "section": "Auricles, great vessels and valves",
+      "label": "d"
+    },
+    {
+      "id": "heart-model-hs5-67",
+      "path": [
+        "d"
+      ],
+      "question": "Course",
+      "answer": "Ascends through the diaphragm at T8 and enters the inferior aspect of the right atrium.",
+      "tags": [
+        "Course",
+        "Vein",
+        "AuriclesVesselsValves",
+        "HS5"
+      ],
+      "sourceLine": 67,
+      "section": "Auricles, great vessels and valves",
+      "label": "d"
+    },
+    {
+      "id": "heart-model-hs5-68",
+      "path": [
+        "d"
+      ],
+      "question": "Drainage",
+      "answer": "Returns venous blood from structures below the diaphragm.",
+      "tags": [
+        "Drainage",
+        "Vein",
+        "AuriclesVesselsValves",
+        "HS5"
+      ],
+      "sourceLine": 68,
+      "section": "Auricles, great vessels and valves",
+      "label": "d"
+    },
+    {
+      "id": "heart-model-hs5-71",
+      "path": [
+        "e"
+      ],
+      "question": "Identification",
+      "answer": "Tricuspid valve (right atrioventricular valve)",
+      "tags": [
+        "Identification",
+        "Valve",
+        "AuriclesVesselsValves",
+        "HS5"
+      ],
+      "sourceLine": 71,
+      "section": "Auricles, great vessels and valves",
+      "label": "e"
+    },
+    {
+      "id": "heart-model-hs5-72",
+      "path": [
+        "e"
+      ],
+      "question": "Location",
+      "answer": "Between right atrium and right ventricle.",
+      "tags": [
+        "Location",
+        "Valve",
+        "AuriclesVesselsValves",
+        "HS5"
+      ],
+      "sourceLine": 72,
+      "section": "Auricles, great vessels and valves",
+      "label": "e"
+    },
+    {
+      "id": "heart-model-hs5-73",
+      "path": [
+        "e"
+      ],
+      "question": "Structure",
+      "answer": "Usually has anterior, posterior and septal cusps attached to chordae tendineae and papillary muscles.",
+      "tags": [
+        "Structure",
+        "Valve",
+        "AuriclesVesselsValves",
+        "HS5"
+      ],
+      "sourceLine": 73,
+      "section": "Auricles, great vessels and valves",
+      "label": "e"
+    },
+    {
+      "id": "heart-model-hs5-74",
+      "path": [
+        "e"
+      ],
+      "question": "Function",
+      "answer": "Prevents backflow from right ventricle to right atrium during ventricular systole.",
+      "tags": [
+        "Function",
+        "Valve",
+        "AuriclesVesselsValves",
+        "HS5"
+      ],
+      "sourceLine": 74,
+      "section": "Auricles, great vessels and valves",
+      "label": "e"
+    },
+    {
+      "id": "heart-model-hs5-75",
+      "path": [
+        "e"
+      ],
+      "question": "Clinical relevance",
+      "answer": "Regurgitation may produce prominent systolic venous pulsation and right-sided volume overload.",
+      "tags": [
+        "Clinical",
+        "Valve",
+        "AuriclesVesselsValves",
+        "HS5"
+      ],
+      "sourceLine": 75,
+      "section": "Auricles, great vessels and valves",
+      "label": "e"
+    },
+    {
+      "id": "heart-model-hs5-78",
+      "path": [
+        "f"
+      ],
+      "question": "Identification",
+      "answer": "Pulmonary trunk",
+      "tags": [
+        "Identification",
+        "Artery",
+        "AuriclesVesselsValves",
+        "HS5"
+      ],
+      "sourceLine": 78,
+      "section": "Auricles, great vessels and valves",
+      "label": "f"
+    },
+    {
+      "id": "heart-model-hs5-79",
+      "path": [
+        "f"
+      ],
+      "question": "Origin",
+      "answer": "Arises from right ventricle through the pulmonary valve.",
+      "tags": [
+        "Origin",
+        "Artery",
+        "AuriclesVesselsValves",
+        "HS5"
+      ],
+      "sourceLine": 79,
+      "section": "Auricles, great vessels and valves",
+      "label": "f"
+    },
+    {
+      "id": "heart-model-hs5-80",
+      "path": [
+        "f"
+      ],
+      "question": "Course",
+      "answer": "Passes superiorly and posteriorly before dividing into right and left pulmonary arteries.",
+      "tags": [
+        "Course",
+        "Artery",
+        "AuriclesVesselsValves",
+        "HS5"
+      ],
+      "sourceLine": 80,
+      "section": "Auricles, great vessels and valves",
+      "label": "f"
+    },
+    {
+      "id": "heart-model-hs5-81",
+      "path": [
+        "f"
+      ],
+      "question": "Supply",
+      "answer": "Carries deoxygenated blood to the lungs.",
+      "tags": [
+        "Supply",
+        "Artery",
+        "AuriclesVesselsValves",
+        "HS5"
+      ],
+      "sourceLine": 81,
+      "section": "Auricles, great vessels and valves",
+      "label": "f"
+    },
+    {
+      "id": "heart-model-hs5-84",
+      "path": [
+        "g"
+      ],
+      "question": "Identification",
+      "answer": "Pulmonary veins",
+      "tags": [
+        "Identification",
+        "Vein",
+        "AuriclesVesselsValves",
+        "HS5"
+      ],
+      "sourceLine": 84,
+      "section": "Auricles, great vessels and valves",
+      "label": "g"
+    },
+    {
+      "id": "heart-model-hs5-85",
+      "path": [
+        "g"
+      ],
+      "question": "Drainage",
+      "answer": "Return oxygenated blood from lungs to the left atrium.",
+      "tags": [
+        "Drainage",
+        "Vein",
+        "AuriclesVesselsValves",
+        "HS5"
+      ],
+      "sourceLine": 85,
+      "section": "Auricles, great vessels and valves",
+      "label": "g"
+    },
+    {
+      "id": "heart-model-hs5-86",
+      "path": [
+        "g"
+      ],
+      "question": "Number",
+      "answer": "Usually four pulmonary veins, two from each lung.",
+      "tags": [
+        "Structure",
+        "Vein",
+        "AuriclesVesselsValves",
+        "HS5"
+      ],
+      "sourceLine": 86,
+      "section": "Auricles, great vessels and valves",
+      "label": "g"
+    },
+    {
+      "id": "heart-model-hs5-87",
+      "path": [
+        "g"
+      ],
+      "question": "Clinical relevance",
+      "answer": "Pulmonary venous ostia are important sites of ectopic activity in atrial fibrillation.",
+      "tags": [
+        "Clinical",
+        "Vein",
+        "AuriclesVesselsValves",
+        "HS5"
+      ],
+      "sourceLine": 87,
+      "section": "Auricles, great vessels and valves",
+      "label": "g"
+    },
+    {
+      "id": "heart-model-hs5-90",
+      "path": [
+        "h"
+      ],
+      "question": "Identification",
+      "answer": "Bicuspid (mitral) valve",
+      "tags": [
+        "Identification",
+        "Valve",
+        "AuriclesVesselsValves",
+        "HS5"
+      ],
+      "sourceLine": 90,
+      "section": "Auricles, great vessels and valves",
+      "label": "h"
+    },
+    {
+      "id": "heart-model-hs5-91",
+      "path": [
+        "h"
+      ],
+      "question": "Location",
+      "answer": "Between left atrium and left ventricle.",
+      "tags": [
+        "Location",
+        "Valve",
+        "AuriclesVesselsValves",
+        "HS5"
+      ],
+      "sourceLine": 91,
+      "section": "Auricles, great vessels and valves",
+      "label": "h"
+    },
+    {
+      "id": "heart-model-hs5-92",
+      "path": [
+        "h"
+      ],
+      "question": "Structure",
+      "answer": "Has anterior and posterior cusps attached to chordae tendineae and papillary muscles.",
+      "tags": [
+        "Structure",
+        "Valve",
+        "AuriclesVesselsValves",
+        "HS5"
+      ],
+      "sourceLine": 92,
+      "section": "Auricles, great vessels and valves",
+      "label": "h"
+    },
+    {
+      "id": "heart-model-hs5-93",
+      "path": [
+        "h"
+      ],
+      "question": "Function",
+      "answer": "Prevents backflow from left ventricle into left atrium during ventricular systole.",
+      "tags": [
+        "Function",
+        "Valve",
+        "AuriclesVesselsValves",
+        "HS5"
+      ],
+      "sourceLine": 93,
+      "section": "Auricles, great vessels and valves",
+      "label": "h"
+    },
+    {
+      "id": "heart-model-hs5-94",
+      "path": [
+        "h"
+      ],
+      "question": "Clinical relevance",
+      "answer": "Mitral stenosis or regurgitation may cause left atrial enlargement and pulmonary congestion.",
+      "tags": [
+        "Clinical",
+        "Valve",
+        "AuriclesVesselsValves",
+        "HS5"
+      ],
+      "sourceLine": 94,
+      "section": "Auricles, great vessels and valves",
+      "label": "h"
+    },
+    {
+      "id": "heart-model-hs5-97",
+      "path": [
+        "i"
+      ],
+      "question": "Identification",
+      "answer": "Aorta",
+      "tags": [
+        "Identification",
+        "Artery",
+        "AuriclesVesselsValves",
+        "HS5"
+      ],
+      "sourceLine": 97,
+      "section": "Auricles, great vessels and valves",
+      "label": "i"
+    },
+    {
+      "id": "heart-model-hs5-98",
+      "path": [
+        "i"
+      ],
+      "question": "Origin",
+      "answer": "Arises from left ventricle through the aortic valve.",
+      "tags": [
+        "Origin",
+        "Artery",
+        "AuriclesVesselsValves",
+        "HS5"
+      ],
+      "sourceLine": 98,
+      "section": "Auricles, great vessels and valves",
+      "label": "i"
+    },
+    {
+      "id": "heart-model-hs5-99",
+      "path": [
+        "i"
+      ],
+      "question": "Parts",
+      "answer": "Ascending aorta, arch of aorta and descending thoracic/abdominal aorta.",
+      "tags": [
+        "Parts",
+        "Artery",
+        "AuriclesVesselsValves",
+        "HS5"
+      ],
+      "sourceLine": 99,
+      "section": "Auricles, great vessels and valves",
+      "label": "i"
+    },
+    {
+      "id": "heart-model-hs5-100",
+      "path": [
+        "i"
+      ],
+      "question": "Function",
+      "answer": "Main systemic artery carrying oxygenated blood from the left ventricle.",
+      "tags": [
+        "Function",
+        "Artery",
+        "AuriclesVesselsValves",
+        "HS5"
+      ],
+      "sourceLine": 100,
+      "section": "Auricles, great vessels and valves",
+      "label": "i"
+    },
+    {
+      "id": "heart-model-hs5-103",
+      "path": [
+        "k"
+      ],
+      "question": "Identification",
+      "answer": "Semilunar valves",
+      "tags": [
+        "Identification",
+        "Valve",
+        "AuriclesVesselsValves",
+        "HS5"
+      ],
+      "sourceLine": 103,
+      "section": "Auricles, great vessels and valves",
+      "label": "k"
+    },
+    {
+      "id": "heart-model-hs5-104",
+      "path": [
+        "k"
+      ],
+      "question": "Components",
+      "answer": "The aortic and pulmonary valves are semilunar valves.",
+      "tags": [
+        "Components",
+        "Valve",
+        "AuriclesVesselsValves",
+        "HS5"
+      ],
+      "sourceLine": 104,
+      "section": "Auricles, great vessels and valves",
+      "label": "k"
+    },
+    {
+      "id": "heart-model-hs5-105",
+      "path": [
+        "k"
+      ],
+      "question": "Structure",
+      "answer": "Each has three pocket-shaped cusps and no chordae tendineae or papillary muscle attachments.",
+      "tags": [
+        "Structure",
+        "Valve",
+        "AuriclesVesselsValves",
+        "HS5"
+      ],
+      "sourceLine": 105,
+      "section": "Auricles, great vessels and valves",
+      "label": "k"
+    },
+    {
+      "id": "heart-model-hs5-106",
+      "path": [
+        "k"
+      ],
+      "question": "Function",
+      "answer": "Prevent backflow from the aorta and pulmonary trunk into the ventricles during diastole.",
+      "tags": [
+        "Function",
+        "Valve",
+        "AuriclesVesselsValves",
+        "HS5"
+      ],
+      "sourceLine": 106,
+      "section": "Auricles, great vessels and valves",
+      "label": "k"
+    },
+    {
+      "id": "heart-model-hs5-107",
+      "path": [
+        "k"
+      ],
+      "question": "Clinical relevance",
+      "answer": "Aortic stenosis causes left ventricular pressure overload; pulmonary valve disease affects right ventricular outflow.",
+      "tags": [
+        "Clinical",
+        "Valve",
+        "AuriclesVesselsValves",
+        "HS5"
+      ],
+      "sourceLine": 107,
+      "section": "Auricles, great vessels and valves",
+      "label": "k"
+    },
+    {
+      "id": "heart-model-hs5-111",
+      "path": [
+        "1"
+      ],
+      "question": "Identification",
+      "answer": "Chordae tendineae",
+      "tags": [
+        "Identification",
+        "CardiacStructure",
+        "InternalCoronary",
+        "HS5"
+      ],
+      "sourceLine": 111,
+      "section": "Internal and coronary structures",
+      "label": "1"
+    },
+    {
+      "id": "heart-model-hs5-112",
+      "path": [
+        "1"
+      ],
+      "question": "Structure",
+      "answer": "Fibrous cords connecting atrioventricular valve cusps to papillary muscles.",
+      "tags": [
+        "Structure",
+        "CardiacStructure",
+        "InternalCoronary",
+        "HS5"
+      ],
+      "sourceLine": 112,
+      "section": "Internal and coronary structures",
+      "label": "1"
+    },
+    {
+      "id": "heart-model-hs5-113",
+      "path": [
+        "1"
+      ],
+      "question": "Function",
+      "answer": "Prevent prolapse or eversion of AV valve cusps during ventricular systole.",
+      "tags": [
+        "Function",
+        "CardiacStructure",
+        "InternalCoronary",
+        "HS5"
+      ],
+      "sourceLine": 113,
+      "section": "Internal and coronary structures",
+      "label": "1"
+    },
+    {
+      "id": "heart-model-hs5-114",
+      "path": [
+        "1"
+      ],
+      "question": "Relations",
+      "answer": "Present in tricuspid and mitral valves, but not semilunar valves.",
+      "tags": [
+        "Relations",
+        "CardiacStructure",
+        "InternalCoronary",
+        "HS5"
+      ],
+      "sourceLine": 114,
+      "section": "Internal and coronary structures",
+      "label": "1"
+    },
+    {
+      "id": "heart-model-hs5-117",
+      "path": [
+        "2"
+      ],
+      "question": "Identification",
+      "answer": "Papillary muscles",
+      "tags": [
+        "Identification",
+        "Muscle",
+        "InternalCoronary",
+        "HS5"
+      ],
+      "sourceLine": 117,
+      "section": "Internal and coronary structures",
+      "label": "2"
+    },
+    {
+      "id": "heart-model-hs5-118",
+      "path": [
+        "2"
+      ],
+      "question": "Actions",
+      "answer": "Contract during ventricular systole to tense chordae tendineae and stabilise AV valve cusps.",
+      "tags": [
+        "Action",
+        "Muscle",
+        "InternalCoronary",
+        "HS5"
+      ],
+      "sourceLine": 118,
+      "section": "Internal and coronary structures",
+      "label": "2"
+    },
+    {
+      "id": "heart-model-hs5-119",
+      "path": [
+        "2"
+      ],
+      "question": "Function",
+      "answer": "Prevent valve prolapse rather than actively closing the valve.",
+      "tags": [
+        "Function",
+        "Muscle",
+        "InternalCoronary",
+        "HS5"
+      ],
+      "sourceLine": 119,
+      "section": "Internal and coronary structures",
+      "label": "2"
+    },
+    {
+      "id": "heart-model-hs5-120",
+      "path": [
+        "2"
+      ],
+      "question": "Relations",
+      "answer": "Right ventricle usually has anterior, posterior and septal papillary muscles; left ventricle has anterolateral and posteromedial papillary muscles.",
+      "tags": [
+        "Relations",
+        "Muscle",
+        "InternalCoronary",
+        "HS5"
+      ],
+      "sourceLine": 120,
+      "section": "Internal and coronary structures",
+      "label": "2"
+    },
+    {
+      "id": "heart-model-hs5-121",
+      "path": [
+        "2"
+      ],
+      "question": "Clinical relevance",
+      "answer": "Papillary muscle dysfunction or rupture can cause acute atrioventricular valve regurgitation.",
+      "tags": [
+        "Clinical",
+        "Muscle",
+        "InternalCoronary",
+        "HS5"
+      ],
+      "sourceLine": 121,
+      "section": "Internal and coronary structures",
+      "label": "2"
+    },
+    {
+      "id": "heart-model-hs5-124",
+      "path": [
+        "3"
+      ],
+      "question": "Identification",
+      "answer": "Ascending aorta",
+      "tags": [
+        "Identification",
+        "Artery",
+        "InternalCoronary",
+        "HS5"
+      ],
+      "sourceLine": 124,
+      "section": "Internal and coronary structures",
+      "label": "3"
+    },
+    {
+      "id": "heart-model-hs5-125",
+      "path": [
+        "3"
+      ],
+      "question": "Origin",
+      "answer": "Begins at the aortic valve of the left ventricle.",
+      "tags": [
+        "Origin",
+        "Artery",
+        "InternalCoronary",
+        "HS5"
+      ],
+      "sourceLine": 125,
+      "section": "Internal and coronary structures",
+      "label": "3"
+    },
+    {
+      "id": "heart-model-hs5-126",
+      "path": [
+        "3"
+      ],
+      "question": "Course",
+      "answer": "Ascends within the pericardium and continues as the arch of the aorta.",
+      "tags": [
+        "Course",
+        "Artery",
+        "InternalCoronary",
+        "HS5"
+      ],
+      "sourceLine": 126,
+      "section": "Internal and coronary structures",
+      "label": "3"
+    },
+    {
+      "id": "heart-model-hs5-127",
+      "path": [
+        "3"
+      ],
+      "question": "Branches",
+      "answer": "Right and left coronary arteries arise from the aortic sinuses.",
+      "tags": [
+        "Branches",
+        "Artery",
+        "InternalCoronary",
+        "HS5"
+      ],
+      "sourceLine": 127,
+      "section": "Internal and coronary structures",
+      "label": "3"
+    },
+    {
+      "id": "heart-model-hs5-128",
+      "path": [
+        "3"
+      ],
+      "question": "Supply",
+      "answer": "Carries oxygenated blood into the systemic circulation.",
+      "tags": [
+        "Supply",
+        "Artery",
+        "InternalCoronary",
+        "HS5"
+      ],
+      "sourceLine": 128,
+      "section": "Internal and coronary structures",
+      "label": "3"
+    },
+    {
+      "id": "heart-model-hs5-131",
+      "path": [
+        "4"
+      ],
+      "question": "Identification",
+      "answer": "Right coronary artery",
+      "tags": [
+        "Identification",
+        "Artery",
+        "InternalCoronary",
+        "HS5"
+      ],
+      "sourceLine": 131,
+      "section": "Internal and coronary structures",
+      "label": "4"
+    },
+    {
+      "id": "heart-model-hs5-132",
+      "path": [
+        "4"
+      ],
+      "question": "Origin",
+      "answer": "Arises from the right aortic sinus.",
+      "tags": [
+        "Origin",
+        "Artery",
+        "InternalCoronary",
+        "HS5"
+      ],
+      "sourceLine": 132,
+      "section": "Internal and coronary structures",
+      "label": "4"
+    },
+    {
+      "id": "heart-model-hs5-133",
+      "path": [
+        "4"
+      ],
+      "question": "Course",
+      "answer": "Runs in the right atrioventricular groove and continues toward the inferior surface of the heart.",
+      "tags": [
+        "Course",
+        "Artery",
+        "InternalCoronary",
+        "HS5"
+      ],
+      "sourceLine": 133,
+      "section": "Internal and coronary structures",
+      "label": "4"
+    },
+    {
+      "id": "heart-model-hs5-134",
+      "path": [
+        "4"
+      ],
+      "question": "Branches",
+      "answer": "Common branches include right marginal artery and, in right-dominant hearts, the posterior interventricular artery.",
+      "tags": [
+        "Branches",
+        "Artery",
+        "InternalCoronary",
+        "HS5"
+      ],
+      "sourceLine": 134,
+      "section": "Internal and coronary structures",
+      "label": "4"
+    },
+    {
+      "id": "heart-model-hs5-135",
+      "path": [
+        "4"
+      ],
+      "question": "Supply",
+      "answer": "Typically supplies right atrium, most of right ventricle, part of left ventricle, posterior third of interventricular septum and often SA/AV nodes.",
+      "tags": [
+        "Supply",
+        "Artery",
+        "InternalCoronary",
+        "HS5"
+      ],
+      "sourceLine": 135,
+      "section": "Internal and coronary structures",
+      "label": "4"
+    },
+    {
+      "id": "heart-model-hs5-136",
+      "path": [
+        "4"
+      ],
+      "question": "Clinical relevance",
+      "answer": "Occlusion may cause inferior myocardial infarction and can affect AV nodal conduction.",
+      "tags": [
+        "Clinical",
+        "Artery",
+        "InternalCoronary",
+        "HS5"
+      ],
+      "sourceLine": 136,
+      "section": "Internal and coronary structures",
+      "label": "4"
+    },
+    {
+      "id": "heart-model-hs5-139",
+      "path": [
+        "5"
+      ],
+      "question": "Identification",
+      "answer": "Left coronary artery",
+      "tags": [
+        "Identification",
+        "Artery",
+        "InternalCoronary",
+        "HS5"
+      ],
+      "sourceLine": 139,
+      "section": "Internal and coronary structures",
+      "label": "5"
+    },
+    {
+      "id": "heart-model-hs5-140",
+      "path": [
+        "5"
+      ],
+      "question": "Origin",
+      "answer": "Arises from the left aortic sinus.",
+      "tags": [
+        "Origin",
+        "Artery",
+        "InternalCoronary",
+        "HS5"
+      ],
+      "sourceLine": 140,
+      "section": "Internal and coronary structures",
+      "label": "5"
+    },
+    {
+      "id": "heart-model-hs5-141",
+      "path": [
+        "5"
+      ],
+      "question": "Course",
+      "answer": "Passes between pulmonary trunk and left auricle before dividing.",
+      "tags": [
+        "Course",
+        "Artery",
+        "InternalCoronary",
+        "HS5"
+      ],
+      "sourceLine": 141,
+      "section": "Internal and coronary structures",
+      "label": "5"
+    },
+    {
+      "id": "heart-model-hs5-142",
+      "path": [
+        "5"
+      ],
+      "question": "Branches",
+      "answer": "Usually divides into anterior interventricular (LAD) and circumflex arteries.",
+      "tags": [
+        "Branches",
+        "Artery",
+        "InternalCoronary",
+        "HS5"
+      ],
+      "sourceLine": 142,
+      "section": "Internal and coronary structures",
+      "label": "5"
+    },
+    {
+      "id": "heart-model-hs5-143",
+      "path": [
+        "5"
+      ],
+      "question": "Supply",
+      "answer": "Supplies most of left atrium and ventricle, anterior right ventricle and anterior two-thirds of interventricular septum.",
+      "tags": [
+        "Supply",
+        "Artery",
+        "InternalCoronary",
+        "HS5"
+      ],
+      "sourceLine": 143,
+      "section": "Internal and coronary structures",
+      "label": "5"
+    },
+    {
+      "id": "heart-model-hs5-144",
+      "path": [
+        "5"
+      ],
+      "question": "Clinical relevance",
+      "answer": "Proximal LAD occlusion can cause a large anterior myocardial infarction.",
+      "tags": [
+        "Clinical",
+        "Artery",
+        "InternalCoronary",
+        "HS5"
+      ],
+      "sourceLine": 144,
+      "section": "Internal and coronary structures",
+      "label": "5"
+    },
+    {
+      "id": "heart-model-hs5-147",
+      "path": [
+        "6"
+      ],
+      "question": "Identification",
+      "answer": "Coronary sinus",
+      "tags": [
+        "Identification",
+        "VenousSinus",
+        "InternalCoronary",
+        "HS5"
+      ],
+      "sourceLine": 147,
+      "section": "Internal and coronary structures",
+      "label": "6"
+    },
+    {
+      "id": "heart-model-hs5-148",
+      "path": [
+        "6"
+      ],
+      "question": "Location",
+      "answer": "Runs in the posterior atrioventricular groove.",
+      "tags": [
+        "Location",
+        "VenousSinus",
+        "InternalCoronary",
+        "HS5"
+      ],
+      "sourceLine": 148,
+      "section": "Internal and coronary structures",
+      "label": "6"
+    },
+    {
+      "id": "heart-model-hs5-149",
+      "path": [
+        "6"
+      ],
+      "question": "Drainage",
+      "answer": "Receives most venous blood from myocardium, including via great, middle and small cardiac veins.",
+      "tags": [
+        "Drainage",
+        "VenousSinus",
+        "InternalCoronary",
+        "HS5"
+      ],
+      "sourceLine": 149,
+      "section": "Internal and coronary structures",
+      "label": "6"
+    },
+    {
+      "id": "heart-model-hs5-150",
+      "path": [
+        "6"
+      ],
+      "question": "Termination",
+      "answer": "Opens into the right atrium between the inferior vena cava opening and tricuspid orifice.",
+      "tags": [
+        "Termination",
+        "VenousSinus",
+        "InternalCoronary",
+        "HS5"
+      ],
+      "sourceLine": 150,
+      "section": "Internal and coronary structures",
+      "label": "6"
+    },
+    {
+      "id": "heart-model-hs5-153",
+      "path": [
+        "7"
+      ],
+      "question": "Identification",
+      "answer": "Arch of the aorta",
+      "tags": [
+        "Identification",
+        "Artery",
+        "InternalCoronary",
+        "HS5"
+      ],
+      "sourceLine": 153,
+      "section": "Internal and coronary structures",
+      "label": "7"
+    },
+    {
+      "id": "heart-model-hs5-154",
+      "path": [
+        "7"
+      ],
+      "question": "Course",
+      "answer": "Continues from ascending aorta, arches superiorly, posteriorly and to the left, then continues as descending thoracic aorta.",
+      "tags": [
+        "Course",
+        "Artery",
+        "InternalCoronary",
+        "HS5"
+      ],
+      "sourceLine": 154,
+      "section": "Internal and coronary structures",
+      "label": "7"
+    },
+    {
+      "id": "heart-model-hs5-155",
+      "path": [
+        "7"
+      ],
+      "question": "Branches",
+      "answer": "Brachiocephalic trunk, left common carotid artery and left subclavian artery.",
+      "tags": [
+        "Branches",
+        "Artery",
+        "InternalCoronary",
+        "HS5"
+      ],
+      "sourceLine": 155,
+      "section": "Internal and coronary structures",
+      "label": "7"
+    },
+    {
+      "id": "heart-model-hs5-156",
+      "path": [
+        "7"
+      ],
+      "question": "Relations",
+      "answer": "Passes over the left main bronchus; left recurrent laryngeal nerve loops beneath the arch near ligamentum arteriosum.",
+      "tags": [
+        "Relations",
+        "Artery",
+        "InternalCoronary",
+        "HS5"
+      ],
+      "sourceLine": 156,
+      "section": "Internal and coronary structures",
+      "label": "7"
+    },
+    {
+      "id": "heart-model-hs5-157",
+      "path": [
+        "7"
+      ],
+      "question": "Clinical relevance",
+      "answer": "Aneurysm may compress the left recurrent laryngeal nerve and cause hoarseness.",
+      "tags": [
+        "Clinical",
+        "Artery",
+        "InternalCoronary",
+        "HS5"
+      ],
+      "sourceLine": 157,
+      "section": "Internal and coronary structures",
+      "label": "7"
+    }
+  ]
+}

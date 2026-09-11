@@ -1,0 +1,790 @@
+{
+  "id": "elbow-joint-model-ns18",
+  "name": "Elbow Joint (Model NS18)",
+  "cards": [
+    {
+      "id": "elbow-joint-model-ns18-2",
+      "path": [
+        "a"
+      ],
+      "question": "Identification",
+      "answer": "Humerus",
+      "tags": [
+        "Identification",
+        "Bone",
+        "NS18"
+      ],
+      "sourceLine": 2,
+      "section": "",
+      "label": "a"
+    },
+    {
+      "id": "elbow-joint-model-ns18-3",
+      "path": [
+        "a"
+      ],
+      "question": "Articulations",
+      "answer": "Articulates distally with the ulna at the trochlea and with the radius at the capitulum.",
+      "tags": [
+        "Articulations",
+        "Bone",
+        "NS18"
+      ],
+      "sourceLine": 3,
+      "section": "",
+      "label": "a"
+    },
+    {
+      "id": "elbow-joint-model-ns18-4",
+      "path": [
+        "a"
+      ],
+      "question": "Landmarks",
+      "answer": "Capitulum, trochlea, medial and lateral epicondyles, coronoid fossa, radial fossa and olecranon fossa.",
+      "tags": [
+        "Landmarks",
+        "Bone",
+        "NS18"
+      ],
+      "sourceLine": 4,
+      "section": "",
+      "label": "a"
+    },
+    {
+      "id": "elbow-joint-model-ns18-5",
+      "path": [
+        "a"
+      ],
+      "question": "Muscle attachments",
+      "answer": "Common flexor origin attaches to the medial epicondyle; common extensor origin attaches to the lateral epicondyle; brachialis and triceps attach proximally/distally around the humerus.",
+      "tags": [
+        "Attachments",
+        "Bone",
+        "NS18"
+      ],
+      "sourceLine": 5,
+      "section": "",
+      "label": "a"
+    },
+    {
+      "id": "elbow-joint-model-ns18-6",
+      "path": [
+        "a"
+      ],
+      "question": "Orientation",
+      "answer": "Capitulum lies lateral and trochlea medial; olecranon fossa is posterior.",
+      "tags": [
+        "Orientation",
+        "Bone",
+        "NS18"
+      ],
+      "sourceLine": 6,
+      "section": "",
+      "label": "a"
+    },
+    {
+      "id": "elbow-joint-model-ns18-9",
+      "path": [
+        "b"
+      ],
+      "question": "Identification",
+      "answer": "Ulna",
+      "tags": [
+        "Identification",
+        "Bone",
+        "NS18"
+      ],
+      "sourceLine": 9,
+      "section": "",
+      "label": "b"
+    },
+    {
+      "id": "elbow-joint-model-ns18-10",
+      "path": [
+        "b"
+      ],
+      "question": "Articulations",
+      "answer": "Articulates with the humeral trochlea at the trochlear notch and with the radius at the proximal and distal radioulnar joints.",
+      "tags": [
+        "Articulations",
+        "Bone",
+        "NS18"
+      ],
+      "sourceLine": 10,
+      "section": "",
+      "label": "b"
+    },
+    {
+      "id": "elbow-joint-model-ns18-11",
+      "path": [
+        "b"
+      ],
+      "question": "Landmarks",
+      "answer": "Olecranon, coronoid process, trochlear notch, radial notch and ulnar tuberosity.",
+      "tags": [
+        "Landmarks",
+        "Bone",
+        "NS18"
+      ],
+      "sourceLine": 11,
+      "section": "",
+      "label": "b"
+    },
+    {
+      "id": "elbow-joint-model-ns18-12",
+      "path": [
+        "b"
+      ],
+      "question": "Muscle attachments",
+      "answer": "Triceps inserts on olecranon; brachialis inserts on coronoid process/ulnar tuberosity; pronator teres and flexor muscles attach in the proximal forearm region.",
+      "tags": [
+        "Attachments",
+        "Bone",
+        "NS18"
+      ],
+      "sourceLine": 12,
+      "section": "",
+      "label": "b"
+    },
+    {
+      "id": "elbow-joint-model-ns18-13",
+      "path": [
+        "b"
+      ],
+      "question": "Orientation",
+      "answer": "Olecranon projects proximally/posteriorly; radial notch lies laterally.",
+      "tags": [
+        "Orientation",
+        "Bone",
+        "NS18"
+      ],
+      "sourceLine": 13,
+      "section": "",
+      "label": "b"
+    },
+    {
+      "id": "elbow-joint-model-ns18-16",
+      "path": [
+        "c"
+      ],
+      "question": "Identification",
+      "answer": "Radius",
+      "tags": [
+        "Identification",
+        "Bone",
+        "NS18"
+      ],
+      "sourceLine": 16,
+      "section": "",
+      "label": "c"
+    },
+    {
+      "id": "elbow-joint-model-ns18-17",
+      "path": [
+        "c"
+      ],
+      "question": "Articulations",
+      "answer": "Articulates proximally with capitulum of humerus and radial notch of ulna; distally with scaphoid/lunate and ulna.",
+      "tags": [
+        "Articulations",
+        "Bone",
+        "NS18"
+      ],
+      "sourceLine": 17,
+      "section": "",
+      "label": "c"
+    },
+    {
+      "id": "elbow-joint-model-ns18-18",
+      "path": [
+        "c"
+      ],
+      "question": "Landmarks",
+      "answer": "Head, neck, radial tuberosity and interosseous border.",
+      "tags": [
+        "Landmarks",
+        "Bone",
+        "NS18"
+      ],
+      "sourceLine": 18,
+      "section": "",
+      "label": "c"
+    },
+    {
+      "id": "elbow-joint-model-ns18-19",
+      "path": [
+        "c"
+      ],
+      "question": "Muscle attachments",
+      "answer": "Biceps brachii inserts on radial tuberosity; supinator wraps around proximal radius; pronator teres inserts on lateral radius.",
+      "tags": [
+        "Attachments",
+        "Bone",
+        "NS18"
+      ],
+      "sourceLine": 19,
+      "section": "",
+      "label": "c"
+    },
+    {
+      "id": "elbow-joint-model-ns18-20",
+      "path": [
+        "c"
+      ],
+      "question": "Orientation",
+      "answer": "Radial head is proximal and disc-shaped; radial tuberosity lies medially.",
+      "tags": [
+        "Orientation",
+        "Bone",
+        "NS18"
+      ],
+      "sourceLine": 20,
+      "section": "",
+      "label": "c"
+    },
+    {
+      "id": "elbow-joint-model-ns18-23",
+      "path": [
+        "1"
+      ],
+      "question": "Identification",
+      "answer": "Articular capsule",
+      "tags": [
+        "Identification",
+        "JointCapsule",
+        "NS18"
+      ],
+      "sourceLine": 23,
+      "section": "",
+      "label": "1"
+    },
+    {
+      "id": "elbow-joint-model-ns18-24",
+      "path": [
+        "1"
+      ],
+      "question": "Attachments",
+      "answer": "Proximally attaches around the distal humeral articular margins; distally attaches to the ulna and blends with the annular ligament around the radius.",
+      "tags": [
+        "Attachments",
+        "JointCapsule",
+        "NS18"
+      ],
+      "sourceLine": 24,
+      "section": "",
+      "label": "1"
+    },
+    {
+      "id": "elbow-joint-model-ns18-25",
+      "path": [
+        "1"
+      ],
+      "question": "Function",
+      "answer": "Encloses and stabilises the elbow joint while allowing flexion-extension and forearm rotation at the proximal radioulnar joint.",
+      "tags": [
+        "Function",
+        "JointCapsule",
+        "NS18"
+      ],
+      "sourceLine": 25,
+      "section": "",
+      "label": "1"
+    },
+    {
+      "id": "elbow-joint-model-ns18-26",
+      "path": [
+        "1"
+      ],
+      "question": "Relations",
+      "answer": "Reinforced medially and laterally by collateral ligaments; relatively lax anteriorly and posteriorly to permit movement.",
+      "tags": [
+        "Relations",
+        "JointCapsule",
+        "NS18"
+      ],
+      "sourceLine": 26,
+      "section": "",
+      "label": "1"
+    },
+    {
+      "id": "elbow-joint-model-ns18-29",
+      "path": [
+        "2"
+      ],
+      "question": "Identification",
+      "answer": "Radial (lateral) collateral ligament",
+      "tags": [
+        "Identification",
+        "Ligament",
+        "NS18"
+      ],
+      "sourceLine": 29,
+      "section": "",
+      "label": "2"
+    },
+    {
+      "id": "elbow-joint-model-ns18-30",
+      "path": [
+        "2"
+      ],
+      "question": "Attachments",
+      "answer": "Extends from the lateral epicondyle of humerus and blends mainly with the annular ligament.",
+      "tags": [
+        "Attachments",
+        "Ligament",
+        "NS18"
+      ],
+      "sourceLine": 30,
+      "section": "",
+      "label": "2"
+    },
+    {
+      "id": "elbow-joint-model-ns18-31",
+      "path": [
+        "2"
+      ],
+      "question": "Function",
+      "answer": "Provides lateral stability to the elbow and resists varus stress.",
+      "tags": [
+        "Function",
+        "Ligament",
+        "NS18"
+      ],
+      "sourceLine": 31,
+      "section": "",
+      "label": "2"
+    },
+    {
+      "id": "elbow-joint-model-ns18-32",
+      "path": [
+        "2"
+      ],
+      "question": "Relations",
+      "answer": "Part of the lateral collateral ligament complex, adjacent to the annular ligament of the radius.",
+      "tags": [
+        "Relations",
+        "Ligament",
+        "NS18"
+      ],
+      "sourceLine": 32,
+      "section": "",
+      "label": "2"
+    },
+    {
+      "id": "elbow-joint-model-ns18-33",
+      "path": [
+        "2"
+      ],
+      "question": "Clinical relevance",
+      "answer": "Injury to the lateral collateral complex can contribute to posterolateral rotatory instability.",
+      "tags": [
+        "Clinical",
+        "Ligament",
+        "NS18"
+      ],
+      "sourceLine": 33,
+      "section": "",
+      "label": "2"
+    },
+    {
+      "id": "elbow-joint-model-ns18-36",
+      "path": [
+        "3"
+      ],
+      "question": "Identification",
+      "answer": "Ulnar (medial) collateral ligament",
+      "tags": [
+        "Identification",
+        "Ligament",
+        "NS18"
+      ],
+      "sourceLine": 36,
+      "section": "",
+      "label": "3"
+    },
+    {
+      "id": "elbow-joint-model-ns18-37",
+      "path": [
+        "3"
+      ],
+      "question": "Attachments",
+      "answer": "Extends from the medial epicondyle of humerus to the coronoid process and olecranon of ulna.",
+      "tags": [
+        "Attachments",
+        "Ligament",
+        "NS18"
+      ],
+      "sourceLine": 37,
+      "section": "",
+      "label": "3"
+    },
+    {
+      "id": "elbow-joint-model-ns18-38",
+      "path": [
+        "3"
+      ],
+      "question": "Parts",
+      "answer": "Anterior, posterior and transverse bands.",
+      "tags": [
+        "Parts",
+        "Ligament",
+        "NS18"
+      ],
+      "sourceLine": 38,
+      "section": "",
+      "label": "3"
+    },
+    {
+      "id": "elbow-joint-model-ns18-39",
+      "path": [
+        "3"
+      ],
+      "question": "Function",
+      "answer": "Provides medial stability and resists valgus stress at the elbow.",
+      "tags": [
+        "Function",
+        "Ligament",
+        "NS18"
+      ],
+      "sourceLine": 39,
+      "section": "",
+      "label": "3"
+    },
+    {
+      "id": "elbow-joint-model-ns18-40",
+      "path": [
+        "3"
+      ],
+      "question": "Clinical relevance",
+      "answer": "Can be injured by repetitive valgus loading, especially in throwing athletes.",
+      "tags": [
+        "Clinical",
+        "Ligament",
+        "NS18"
+      ],
+      "sourceLine": 40,
+      "section": "",
+      "label": "3"
+    },
+    {
+      "id": "elbow-joint-model-ns18-43",
+      "path": [
+        "4"
+      ],
+      "question": "Identification",
+      "answer": "Annular ligament of the radius",
+      "tags": [
+        "Identification",
+        "Ligament",
+        "NS18"
+      ],
+      "sourceLine": 43,
+      "section": "",
+      "label": "4"
+    },
+    {
+      "id": "elbow-joint-model-ns18-44",
+      "path": [
+        "4"
+      ],
+      "question": "Attachments",
+      "answer": "Attaches to the anterior and posterior margins of the radial notch of the ulna and encircles the radial head.",
+      "tags": [
+        "Attachments",
+        "Ligament",
+        "NS18"
+      ],
+      "sourceLine": 44,
+      "section": "",
+      "label": "4"
+    },
+    {
+      "id": "elbow-joint-model-ns18-45",
+      "path": [
+        "4"
+      ],
+      "question": "Function",
+      "answer": "Holds the radial head against the ulna while permitting pronation and supination.",
+      "tags": [
+        "Function",
+        "Ligament",
+        "NS18"
+      ],
+      "sourceLine": 45,
+      "section": "",
+      "label": "4"
+    },
+    {
+      "id": "elbow-joint-model-ns18-46",
+      "path": [
+        "4"
+      ],
+      "question": "Relations",
+      "answer": "Forms a fibro-osseous ring with the radial notch around the radial head.",
+      "tags": [
+        "Relations",
+        "Ligament",
+        "NS18"
+      ],
+      "sourceLine": 46,
+      "section": "",
+      "label": "4"
+    },
+    {
+      "id": "elbow-joint-model-ns18-47",
+      "path": [
+        "4"
+      ],
+      "question": "Clinical relevance",
+      "answer": "In young children, radial head subluxation from the annular ligament causes nursemaid's elbow.",
+      "tags": [
+        "Clinical",
+        "Ligament",
+        "NS18"
+      ],
+      "sourceLine": 47,
+      "section": "",
+      "label": "4"
+    },
+    {
+      "id": "elbow-joint-model-ns18-50",
+      "path": [
+        "5"
+      ],
+      "question": "Identification",
+      "answer": "Tendon of biceps brachii",
+      "tags": [
+        "Identification",
+        "Tendon",
+        "NS18"
+      ],
+      "sourceLine": 50,
+      "section": "",
+      "label": "5"
+    },
+    {
+      "id": "elbow-joint-model-ns18-51",
+      "path": [
+        "5"
+      ],
+      "question": "Origin",
+      "answer": "Continuation of the biceps brachii muscle distally.",
+      "tags": [
+        "Origin",
+        "Tendon",
+        "NS18"
+      ],
+      "sourceLine": 51,
+      "section": "",
+      "label": "5"
+    },
+    {
+      "id": "elbow-joint-model-ns18-52",
+      "path": [
+        "5"
+      ],
+      "question": "Insertion",
+      "answer": "Inserts on the radial tuberosity; the bicipital aponeurosis blends with forearm fascia.",
+      "tags": [
+        "Insertion",
+        "Tendon",
+        "NS18"
+      ],
+      "sourceLine": 52,
+      "section": "",
+      "label": "5"
+    },
+    {
+      "id": "elbow-joint-model-ns18-53",
+      "path": [
+        "5"
+      ],
+      "question": "Function",
+      "answer": "Transmits biceps force for forearm supination and elbow flexion.",
+      "tags": [
+        "Function",
+        "Tendon",
+        "NS18"
+      ],
+      "sourceLine": 53,
+      "section": "",
+      "label": "5"
+    },
+    {
+      "id": "elbow-joint-model-ns18-54",
+      "path": [
+        "5"
+      ],
+      "question": "Relations",
+      "answer": "Passes anterior to the elbow joint into the cubital fossa before inserting on the radius.",
+      "tags": [
+        "Relations",
+        "Tendon",
+        "NS18"
+      ],
+      "sourceLine": 54,
+      "section": "",
+      "label": "5"
+    },
+    {
+      "id": "elbow-joint-model-ns18-55",
+      "path": [
+        "5"
+      ],
+      "question": "Clinical relevance",
+      "answer": "Distal biceps rupture weakens supination more than elbow flexion.",
+      "tags": [
+        "Clinical",
+        "Tendon",
+        "NS18"
+      ],
+      "sourceLine": 55,
+      "section": "",
+      "label": "5"
+    },
+    {
+      "id": "elbow-joint-model-ns18-58",
+      "path": [
+        "6"
+      ],
+      "question": "Identification",
+      "answer": "Oblique cord",
+      "tags": [
+        "Identification",
+        "Ligament",
+        "NS18"
+      ],
+      "sourceLine": 58,
+      "section": "",
+      "label": "6"
+    },
+    {
+      "id": "elbow-joint-model-ns18-59",
+      "path": [
+        "6"
+      ],
+      "question": "Attachments",
+      "answer": "Extends from the ulna just distal to the radial notch to the radius just distal to the radial tuberosity.",
+      "tags": [
+        "Attachments",
+        "Ligament",
+        "NS18"
+      ],
+      "sourceLine": 59,
+      "section": "",
+      "label": "6"
+    },
+    {
+      "id": "elbow-joint-model-ns18-60",
+      "path": [
+        "6"
+      ],
+      "question": "Function",
+      "answer": "Helps bind the proximal radius and ulna and may limit excessive distal displacement of the radius.",
+      "tags": [
+        "Function",
+        "Ligament",
+        "NS18"
+      ],
+      "sourceLine": 60,
+      "section": "",
+      "label": "6"
+    },
+    {
+      "id": "elbow-joint-model-ns18-61",
+      "path": [
+        "6"
+      ],
+      "question": "Relations",
+      "answer": "Runs inferolaterally from ulna to radius, opposite in fibre direction to much of the interosseous membrane.",
+      "tags": [
+        "Relations",
+        "Ligament",
+        "NS18"
+      ],
+      "sourceLine": 61,
+      "section": "",
+      "label": "6"
+    },
+    {
+      "id": "elbow-joint-model-ns18-64",
+      "path": [
+        "7"
+      ],
+      "question": "Identification",
+      "answer": "Interosseous membrane",
+      "tags": [
+        "Identification",
+        "FibrousJoint",
+        "NS18"
+      ],
+      "sourceLine": 64,
+      "section": "",
+      "label": "7"
+    },
+    {
+      "id": "elbow-joint-model-ns18-65",
+      "path": [
+        "7"
+      ],
+      "question": "Attachments",
+      "answer": "Broad fibrous sheet spanning the interosseous borders of radius and ulna.",
+      "tags": [
+        "Attachments",
+        "FibrousJoint",
+        "NS18"
+      ],
+      "sourceLine": 65,
+      "section": "",
+      "label": "7"
+    },
+    {
+      "id": "elbow-joint-model-ns18-66",
+      "path": [
+        "7"
+      ],
+      "question": "Function",
+      "answer": "Binds radius and ulna, transmits load from radius to ulna and provides muscle attachment.",
+      "tags": [
+        "Function",
+        "FibrousJoint",
+        "NS18"
+      ],
+      "sourceLine": 66,
+      "section": "",
+      "label": "7"
+    },
+    {
+      "id": "elbow-joint-model-ns18-67",
+      "path": [
+        "7"
+      ],
+      "question": "Fibre direction",
+      "answer": "Most fibres run inferomedially from radius to ulna.",
+      "tags": [
+        "Orientation",
+        "FibrousJoint",
+        "NS18"
+      ],
+      "sourceLine": 67,
+      "section": "",
+      "label": "7"
+    },
+    {
+      "id": "elbow-joint-model-ns18-68",
+      "path": [
+        "7"
+      ],
+      "question": "Relations",
+      "answer": "Separates anterior and posterior compartments of the forearm and contains openings for interosseous vessels.",
+      "tags": [
+        "Relations",
+        "FibrousJoint",
+        "NS18"
+      ],
+      "sourceLine": 68,
+      "section": "",
+      "label": "7"
+    }
+  ]
+}

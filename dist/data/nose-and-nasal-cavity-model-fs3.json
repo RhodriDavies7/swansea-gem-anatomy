@@ -1,0 +1,2537 @@
+{
+  "id": "nose-and-nasal-cavity-model-fs3",
+  "name": "Nose and Nasal Cavity (Model FS3)",
+  "cards": [
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-3",
+      "path": [
+        "a"
+      ],
+      "question": "Identification",
+      "answer": "Frontal sinus",
+      "tags": [
+        "Identification",
+        "ParanasalSinus",
+        "SinusesAndOpenings",
+        "FS3"
+      ],
+      "sourceLine": 3,
+      "section": "Paranasal sinuses, conchae and openings (a–p)",
+      "label": "a"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-4",
+      "path": [
+        "a"
+      ],
+      "question": "Location",
+      "answer": "Within the frontal bone above the nasal root and orbits.",
+      "tags": [
+        "Location",
+        "ParanasalSinus",
+        "SinusesAndOpenings",
+        "FS3"
+      ],
+      "sourceLine": 4,
+      "section": "Paranasal sinuses, conchae and openings (a–p)",
+      "label": "a"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-5",
+      "path": [
+        "a"
+      ],
+      "question": "Drainage",
+      "answer": "Drains to the middle meatus via the frontonasal pathway.",
+      "tags": [
+        "Drainage",
+        "ParanasalSinus",
+        "SinusesAndOpenings",
+        "FS3"
+      ],
+      "sourceLine": 5,
+      "section": "Paranasal sinuses, conchae and openings (a–p)",
+      "label": "a"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-6",
+      "path": [
+        "a"
+      ],
+      "question": "Relations",
+      "answer": "Closely related to the anterior cranial fossa and orbit.",
+      "tags": [
+        "Relations",
+        "ParanasalSinus",
+        "SinusesAndOpenings",
+        "FS3"
+      ],
+      "sourceLine": 6,
+      "section": "Paranasal sinuses, conchae and openings (a–p)",
+      "label": "a"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-9",
+      "path": [
+        "b"
+      ],
+      "question": "Identification",
+      "answer": "Crista galli",
+      "tags": [
+        "Identification",
+        "BonyLandmark",
+        "SinusesAndOpenings",
+        "FS3"
+      ],
+      "sourceLine": 9,
+      "section": "Paranasal sinuses, conchae and openings (a–p)",
+      "label": "b"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-10",
+      "path": [
+        "b"
+      ],
+      "question": "Bone",
+      "answer": "Midline projection of the ethmoid bone.",
+      "tags": [
+        "Bone",
+        "BonyLandmark",
+        "SinusesAndOpenings",
+        "FS3"
+      ],
+      "sourceLine": 10,
+      "section": "Paranasal sinuses, conchae and openings (a–p)",
+      "label": "b"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-11",
+      "path": [
+        "b"
+      ],
+      "question": "Attachments",
+      "answer": "Provides anterior attachment for the falx cerebri.",
+      "tags": [
+        "Attachments",
+        "BonyLandmark",
+        "SinusesAndOpenings",
+        "FS3"
+      ],
+      "sourceLine": 11,
+      "section": "Paranasal sinuses, conchae and openings (a–p)",
+      "label": "b"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-14",
+      "path": [
+        "c"
+      ],
+      "question": "Identification",
+      "answer": "Cribriform plate",
+      "tags": [
+        "Identification",
+        "BonyLandmark",
+        "SinusesAndOpenings",
+        "FS3"
+      ],
+      "sourceLine": 14,
+      "section": "Paranasal sinuses, conchae and openings (a–p)",
+      "label": "c"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-15",
+      "path": [
+        "c"
+      ],
+      "question": "Bone",
+      "answer": "Part of the ethmoid bone forming the roof of the nasal cavity.",
+      "tags": [
+        "Bone",
+        "BonyLandmark",
+        "SinusesAndOpenings",
+        "FS3"
+      ],
+      "sourceLine": 15,
+      "section": "Paranasal sinuses, conchae and openings (a–p)",
+      "label": "c"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-16",
+      "path": [
+        "c"
+      ],
+      "question": "Contents",
+      "answer": "Perforated by olfactory nerve filaments passing to the olfactory bulb.",
+      "tags": [
+        "Contents",
+        "BonyLandmark",
+        "SinusesAndOpenings",
+        "FS3"
+      ],
+      "sourceLine": 16,
+      "section": "Paranasal sinuses, conchae and openings (a–p)",
+      "label": "c"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-17",
+      "path": [
+        "c"
+      ],
+      "question": "Clinical relevance",
+      "answer": "Fracture may cause anosmia and CSF rhinorrhoea.",
+      "tags": [
+        "Clinical",
+        "BonyLandmark",
+        "SinusesAndOpenings",
+        "FS3"
+      ],
+      "sourceLine": 17,
+      "section": "Paranasal sinuses, conchae and openings (a–p)",
+      "label": "c"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-20",
+      "path": [
+        "d"
+      ],
+      "question": "Identification",
+      "answer": "Superior nasal concha",
+      "tags": [
+        "Identification",
+        "NasalConcha",
+        "SinusesAndOpenings",
+        "FS3"
+      ],
+      "sourceLine": 20,
+      "section": "Paranasal sinuses, conchae and openings (a–p)",
+      "label": "d"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-21",
+      "path": [
+        "d"
+      ],
+      "question": "Location",
+      "answer": "Upper part of the lateral nasal wall.",
+      "tags": [
+        "Location",
+        "NasalConcha",
+        "SinusesAndOpenings",
+        "FS3"
+      ],
+      "sourceLine": 21,
+      "section": "Paranasal sinuses, conchae and openings (a–p)",
+      "label": "d"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-22",
+      "path": [
+        "d"
+      ],
+      "question": "Function",
+      "answer": "Increases mucosal surface area and creates airflow turbulence.",
+      "tags": [
+        "Function",
+        "NasalConcha",
+        "SinusesAndOpenings",
+        "FS3"
+      ],
+      "sourceLine": 22,
+      "section": "Paranasal sinuses, conchae and openings (a–p)",
+      "label": "d"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-23",
+      "path": [
+        "d"
+      ],
+      "question": "Relations",
+      "answer": "Superior meatus lies inferior to it.",
+      "tags": [
+        "Relations",
+        "NasalConcha",
+        "SinusesAndOpenings",
+        "FS3"
+      ],
+      "sourceLine": 23,
+      "section": "Paranasal sinuses, conchae and openings (a–p)",
+      "label": "d"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-26",
+      "path": [
+        "e"
+      ],
+      "question": "Identification",
+      "answer": "Middle nasal concha",
+      "tags": [
+        "Identification",
+        "NasalConcha",
+        "SinusesAndOpenings",
+        "FS3"
+      ],
+      "sourceLine": 26,
+      "section": "Paranasal sinuses, conchae and openings (a–p)",
+      "label": "e"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-27",
+      "path": [
+        "e"
+      ],
+      "question": "Location",
+      "answer": "Part of the ethmoid bone on the lateral nasal wall.",
+      "tags": [
+        "Location",
+        "NasalConcha",
+        "SinusesAndOpenings",
+        "FS3"
+      ],
+      "sourceLine": 27,
+      "section": "Paranasal sinuses, conchae and openings (a–p)",
+      "label": "e"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-28",
+      "path": [
+        "e"
+      ],
+      "question": "Function",
+      "answer": "Increases surface area and helps channel airflow around sinus drainage pathways.",
+      "tags": [
+        "Function",
+        "NasalConcha",
+        "SinusesAndOpenings",
+        "FS3"
+      ],
+      "sourceLine": 28,
+      "section": "Paranasal sinuses, conchae and openings (a–p)",
+      "label": "e"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-29",
+      "path": [
+        "e"
+      ],
+      "question": "Relations",
+      "answer": "Middle meatus lies inferior to it.",
+      "tags": [
+        "Relations",
+        "NasalConcha",
+        "SinusesAndOpenings",
+        "FS3"
+      ],
+      "sourceLine": 29,
+      "section": "Paranasal sinuses, conchae and openings (a–p)",
+      "label": "e"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-32",
+      "path": [
+        "f"
+      ],
+      "question": "Identification",
+      "answer": "Uncinate process",
+      "tags": [
+        "Identification",
+        "BonyLandmark",
+        "SinusesAndOpenings",
+        "FS3"
+      ],
+      "sourceLine": 32,
+      "section": "Paranasal sinuses, conchae and openings (a–p)",
+      "label": "f"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-33",
+      "path": [
+        "f"
+      ],
+      "question": "Bone",
+      "answer": "Curved process of the ethmoid bone.",
+      "tags": [
+        "Bone",
+        "BonyLandmark",
+        "SinusesAndOpenings",
+        "FS3"
+      ],
+      "sourceLine": 33,
+      "section": "Paranasal sinuses, conchae and openings (a–p)",
+      "label": "f"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-34",
+      "path": [
+        "f"
+      ],
+      "question": "Relations",
+      "answer": "Forms part of the lateral wall of the middle meatus and helps define the hiatus semilunaris.",
+      "tags": [
+        "Relations",
+        "BonyLandmark",
+        "SinusesAndOpenings",
+        "FS3"
+      ],
+      "sourceLine": 34,
+      "section": "Paranasal sinuses, conchae and openings (a–p)",
+      "label": "f"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-37",
+      "path": [
+        "g"
+      ],
+      "question": "Identification",
+      "answer": "Ethmoid bulla",
+      "tags": [
+        "Identification",
+        "BonyLandmark",
+        "SinusesAndOpenings",
+        "FS3"
+      ],
+      "sourceLine": 37,
+      "section": "Paranasal sinuses, conchae and openings (a–p)",
+      "label": "g"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-38",
+      "path": [
+        "g"
+      ],
+      "question": "Bone",
+      "answer": "Rounded elevation formed by middle ethmoidal air cells.",
+      "tags": [
+        "Bone",
+        "BonyLandmark",
+        "SinusesAndOpenings",
+        "FS3"
+      ],
+      "sourceLine": 38,
+      "section": "Paranasal sinuses, conchae and openings (a–p)",
+      "label": "g"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-39",
+      "path": [
+        "g"
+      ],
+      "question": "Relations",
+      "answer": "Projects into the middle meatus; middle ethmoidal cells commonly open onto it.",
+      "tags": [
+        "Relations",
+        "BonyLandmark",
+        "SinusesAndOpenings",
+        "FS3"
+      ],
+      "sourceLine": 39,
+      "section": "Paranasal sinuses, conchae and openings (a–p)",
+      "label": "g"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-42",
+      "path": [
+        "h"
+      ],
+      "question": "Identification",
+      "answer": "Opening of ethmoid sinus",
+      "tags": [
+        "Identification",
+        "Opening",
+        "SinusesAndOpenings",
+        "FS3"
+      ],
+      "sourceLine": 42,
+      "section": "Paranasal sinuses, conchae and openings (a–p)",
+      "label": "h"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-43",
+      "path": [
+        "h"
+      ],
+      "question": "Location",
+      "answer": "Ethmoidal air cells open into the superior and middle meatuses depending on the cell group.",
+      "tags": [
+        "Location",
+        "Opening",
+        "SinusesAndOpenings",
+        "FS3"
+      ],
+      "sourceLine": 43,
+      "section": "Paranasal sinuses, conchae and openings (a–p)",
+      "label": "h"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-44",
+      "path": [
+        "h"
+      ],
+      "question": "Function",
+      "answer": "Allows drainage and ventilation of ethmoidal sinuses.",
+      "tags": [
+        "Function",
+        "Opening",
+        "SinusesAndOpenings",
+        "FS3"
+      ],
+      "sourceLine": 44,
+      "section": "Paranasal sinuses, conchae and openings (a–p)",
+      "label": "h"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-47",
+      "path": [
+        "i"
+      ],
+      "question": "Identification",
+      "answer": "Location of opening to frontal sinus",
+      "tags": [
+        "Identification",
+        "Opening",
+        "SinusesAndOpenings",
+        "FS3"
+      ],
+      "sourceLine": 47,
+      "section": "Paranasal sinuses, conchae and openings (a–p)",
+      "label": "i"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-48",
+      "path": [
+        "i"
+      ],
+      "question": "Location",
+      "answer": "Drains through the frontal recess/frontonasal pathway into the middle meatus.",
+      "tags": [
+        "Location",
+        "Opening",
+        "SinusesAndOpenings",
+        "FS3"
+      ],
+      "sourceLine": 48,
+      "section": "Paranasal sinuses, conchae and openings (a–p)",
+      "label": "i"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-49",
+      "path": [
+        "i"
+      ],
+      "question": "Function",
+      "answer": "Allows drainage and ventilation of the frontal sinus.",
+      "tags": [
+        "Function",
+        "Opening",
+        "SinusesAndOpenings",
+        "FS3"
+      ],
+      "sourceLine": 49,
+      "section": "Paranasal sinuses, conchae and openings (a–p)",
+      "label": "i"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-52",
+      "path": [
+        "j"
+      ],
+      "question": "Identification",
+      "answer": "No label",
+      "tags": [
+        "Identification",
+        "ModelNote",
+        "SinusesAndOpenings",
+        "FS3"
+      ],
+      "sourceLine": 52,
+      "section": "Paranasal sinuses, conchae and openings (a–p)",
+      "label": "j"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-53",
+      "path": [
+        "j"
+      ],
+      "question": "Model note",
+      "answer": "There is no labelled anatomical structure at this position on the model key.",
+      "tags": [
+        "ModelNote",
+        "SinusesAndOpenings",
+        "FS3"
+      ],
+      "sourceLine": 53,
+      "section": "Paranasal sinuses, conchae and openings (a–p)",
+      "label": "j"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-56",
+      "path": [
+        "k"
+      ],
+      "question": "Identification",
+      "answer": "Maxillary sinus",
+      "tags": [
+        "Identification",
+        "ParanasalSinus",
+        "SinusesAndOpenings",
+        "FS3"
+      ],
+      "sourceLine": 56,
+      "section": "Paranasal sinuses, conchae and openings (a–p)",
+      "label": "k"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-57",
+      "path": [
+        "k"
+      ],
+      "question": "Location",
+      "answer": "Within the body of the maxilla.",
+      "tags": [
+        "Location",
+        "ParanasalSinus",
+        "SinusesAndOpenings",
+        "FS3"
+      ],
+      "sourceLine": 57,
+      "section": "Paranasal sinuses, conchae and openings (a–p)",
+      "label": "k"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-58",
+      "path": [
+        "k"
+      ],
+      "question": "Drainage",
+      "answer": "Drains into the middle meatus through the hiatus semilunaris.",
+      "tags": [
+        "Drainage",
+        "ParanasalSinus",
+        "SinusesAndOpenings",
+        "FS3"
+      ],
+      "sourceLine": 58,
+      "section": "Paranasal sinuses, conchae and openings (a–p)",
+      "label": "k"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-59",
+      "path": [
+        "k"
+      ],
+      "question": "Clinical relevance",
+      "answer": "Its ostium is relatively high on the medial wall, which can impair drainage.",
+      "tags": [
+        "Clinical",
+        "ParanasalSinus",
+        "SinusesAndOpenings",
+        "FS3"
+      ],
+      "sourceLine": 59,
+      "section": "Paranasal sinuses, conchae and openings (a–p)",
+      "label": "k"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-62",
+      "path": [
+        "l"
+      ],
+      "question": "Identification",
+      "answer": "Section of inferior nasal concha",
+      "tags": [
+        "Identification",
+        "NasalConcha",
+        "SinusesAndOpenings",
+        "FS3"
+      ],
+      "sourceLine": 62,
+      "section": "Paranasal sinuses, conchae and openings (a–p)",
+      "label": "l"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-63",
+      "path": [
+        "l"
+      ],
+      "question": "Location",
+      "answer": "Inferior part of the lateral nasal wall.",
+      "tags": [
+        "Location",
+        "NasalConcha",
+        "SinusesAndOpenings",
+        "FS3"
+      ],
+      "sourceLine": 63,
+      "section": "Paranasal sinuses, conchae and openings (a–p)",
+      "label": "l"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-64",
+      "path": [
+        "l"
+      ],
+      "question": "Function",
+      "answer": "Increases surface area and turbulence for warming and humidifying inspired air.",
+      "tags": [
+        "Function",
+        "NasalConcha",
+        "SinusesAndOpenings",
+        "FS3"
+      ],
+      "sourceLine": 64,
+      "section": "Paranasal sinuses, conchae and openings (a–p)",
+      "label": "l"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-65",
+      "path": [
+        "l"
+      ],
+      "question": "Relations",
+      "answer": "Inferior meatus lies beneath it.",
+      "tags": [
+        "Relations",
+        "NasalConcha",
+        "SinusesAndOpenings",
+        "FS3"
+      ],
+      "sourceLine": 65,
+      "section": "Paranasal sinuses, conchae and openings (a–p)",
+      "label": "l"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-68",
+      "path": [
+        "m"
+      ],
+      "question": "Identification",
+      "answer": "Nasolacrimal duct opening",
+      "tags": [
+        "Identification",
+        "Opening",
+        "SinusesAndOpenings",
+        "FS3"
+      ],
+      "sourceLine": 68,
+      "section": "Paranasal sinuses, conchae and openings (a–p)",
+      "label": "m"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-69",
+      "path": [
+        "m"
+      ],
+      "question": "Location",
+      "answer": "Opens into the inferior nasal meatus.",
+      "tags": [
+        "Location",
+        "Opening",
+        "SinusesAndOpenings",
+        "FS3"
+      ],
+      "sourceLine": 69,
+      "section": "Paranasal sinuses, conchae and openings (a–p)",
+      "label": "m"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-70",
+      "path": [
+        "m"
+      ],
+      "question": "Function",
+      "answer": "Drains tears from the lacrimal sac into the nasal cavity.",
+      "tags": [
+        "Function",
+        "Opening",
+        "SinusesAndOpenings",
+        "FS3"
+      ],
+      "sourceLine": 70,
+      "section": "Paranasal sinuses, conchae and openings (a–p)",
+      "label": "m"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-73",
+      "path": [
+        "n"
+      ],
+      "question": "Identification",
+      "answer": "Sphenopalatine foramen",
+      "tags": [
+        "Identification",
+        "Foramen",
+        "SinusesAndOpenings",
+        "FS3"
+      ],
+      "sourceLine": 73,
+      "section": "Paranasal sinuses, conchae and openings (a–p)",
+      "label": "n"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-74",
+      "path": [
+        "n"
+      ],
+      "question": "Location",
+      "answer": "Posterior part of the lateral nasal wall between sphenoid and palatine bones.",
+      "tags": [
+        "Location",
+        "Foramen",
+        "SinusesAndOpenings",
+        "FS3"
+      ],
+      "sourceLine": 74,
+      "section": "Paranasal sinuses, conchae and openings (a–p)",
+      "label": "n"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-75",
+      "path": [
+        "n"
+      ],
+      "question": "Contents",
+      "answer": "Transmits sphenopalatine vessels and posterior superior nasal nerves.",
+      "tags": [
+        "Contents",
+        "Foramen",
+        "SinusesAndOpenings",
+        "FS3"
+      ],
+      "sourceLine": 75,
+      "section": "Paranasal sinuses, conchae and openings (a–p)",
+      "label": "n"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-76",
+      "path": [
+        "n"
+      ],
+      "question": "Clinical relevance",
+      "answer": "Sphenopalatine artery is a major source of posterior epistaxis.",
+      "tags": [
+        "Clinical",
+        "Foramen",
+        "SinusesAndOpenings",
+        "FS3"
+      ],
+      "sourceLine": 76,
+      "section": "Paranasal sinuses, conchae and openings (a–p)",
+      "label": "n"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-79",
+      "path": [
+        "o"
+      ],
+      "question": "Identification",
+      "answer": "Greater palatine foramen",
+      "tags": [
+        "Identification",
+        "Foramen",
+        "SinusesAndOpenings",
+        "FS3"
+      ],
+      "sourceLine": 79,
+      "section": "Paranasal sinuses, conchae and openings (a–p)",
+      "label": "o"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-80",
+      "path": [
+        "o"
+      ],
+      "question": "Bone",
+      "answer": "Located in the palatine bone.",
+      "tags": [
+        "Bone",
+        "Foramen",
+        "SinusesAndOpenings",
+        "FS3"
+      ],
+      "sourceLine": 80,
+      "section": "Paranasal sinuses, conchae and openings (a–p)",
+      "label": "o"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-81",
+      "path": [
+        "o"
+      ],
+      "question": "Contents",
+      "answer": "Transmits greater palatine nerve and vessels.",
+      "tags": [
+        "Contents",
+        "Foramen",
+        "SinusesAndOpenings",
+        "FS3"
+      ],
+      "sourceLine": 81,
+      "section": "Paranasal sinuses, conchae and openings (a–p)",
+      "label": "o"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-82",
+      "path": [
+        "o"
+      ],
+      "question": "Relations",
+      "answer": "Opens onto the posterolateral hard palate.",
+      "tags": [
+        "Relations",
+        "Foramen",
+        "SinusesAndOpenings",
+        "FS3"
+      ],
+      "sourceLine": 82,
+      "section": "Paranasal sinuses, conchae and openings (a–p)",
+      "label": "o"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-85",
+      "path": [
+        "p"
+      ],
+      "question": "Identification",
+      "answer": "Sphenoidal sinus",
+      "tags": [
+        "Identification",
+        "ParanasalSinus",
+        "SinusesAndOpenings",
+        "FS3"
+      ],
+      "sourceLine": 85,
+      "section": "Paranasal sinuses, conchae and openings (a–p)",
+      "label": "p"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-86",
+      "path": [
+        "p"
+      ],
+      "question": "Location",
+      "answer": "Within the body of the sphenoid bone.",
+      "tags": [
+        "Location",
+        "ParanasalSinus",
+        "SinusesAndOpenings",
+        "FS3"
+      ],
+      "sourceLine": 86,
+      "section": "Paranasal sinuses, conchae and openings (a–p)",
+      "label": "p"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-87",
+      "path": [
+        "p"
+      ],
+      "question": "Drainage",
+      "answer": "Drains into the sphenoethmoidal recess.",
+      "tags": [
+        "Drainage",
+        "ParanasalSinus",
+        "SinusesAndOpenings",
+        "FS3"
+      ],
+      "sourceLine": 87,
+      "section": "Paranasal sinuses, conchae and openings (a–p)",
+      "label": "p"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-88",
+      "path": [
+        "p"
+      ],
+      "question": "Relations",
+      "answer": "Pituitary gland lies superiorly; cavernous sinus and internal carotid arteries lie laterally.",
+      "tags": [
+        "Relations",
+        "ParanasalSinus",
+        "SinusesAndOpenings",
+        "FS3"
+      ],
+      "sourceLine": 88,
+      "section": "Paranasal sinuses, conchae and openings (a–p)",
+      "label": "p"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-89",
+      "path": [
+        "p"
+      ],
+      "question": "Clinical relevance",
+      "answer": "Provides a transsphenoidal route to the pituitary.",
+      "tags": [
+        "Clinical",
+        "ParanasalSinus",
+        "SinusesAndOpenings",
+        "FS3"
+      ],
+      "sourceLine": 89,
+      "section": "Paranasal sinuses, conchae and openings (a–p)",
+      "label": "p"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-93",
+      "path": [
+        "1"
+      ],
+      "question": "Identification",
+      "answer": "Frontal bone",
+      "tags": [
+        "Identification",
+        "Bone",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 93,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "1"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-94",
+      "path": [
+        "1"
+      ],
+      "question": "Relations",
+      "answer": "Forms the forehead, roof of orbit and part of anterior cranial fossa.",
+      "tags": [
+        "Relations",
+        "Bone",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 94,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "1"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-95",
+      "path": [
+        "1"
+      ],
+      "question": "Articulations",
+      "answer": "Articulates with parietal, sphenoid, ethmoid, nasal, maxillary, lacrimal and zygomatic bones.",
+      "tags": [
+        "Articulations",
+        "Bone",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 95,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "1"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-98",
+      "path": [
+        "2"
+      ],
+      "question": "Identification",
+      "answer": "Ethmoid bone",
+      "tags": [
+        "Identification",
+        "Bone",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 98,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "2"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-99",
+      "path": [
+        "2"
+      ],
+      "question": "Landmarks",
+      "answer": "Cribriform plate, crista galli, perpendicular plate and ethmoidal labyrinths.",
+      "tags": [
+        "Landmarks",
+        "Bone",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 99,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "2"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-100",
+      "path": [
+        "2"
+      ],
+      "question": "Relations",
+      "answer": "Contributes to nasal septum, lateral nasal wall, medial orbital wall and anterior cranial floor.",
+      "tags": [
+        "Relations",
+        "Bone",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 100,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "2"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-103",
+      "path": [
+        "3"
+      ],
+      "question": "Identification",
+      "answer": "Inferior nasal concha",
+      "tags": [
+        "Identification",
+        "Bone",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 103,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "3"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-104",
+      "path": [
+        "3"
+      ],
+      "question": "Structure",
+      "answer": "Independent curved bone of the lateral nasal wall.",
+      "tags": [
+        "Structure",
+        "Bone",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 104,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "3"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-105",
+      "path": [
+        "3"
+      ],
+      "question": "Function",
+      "answer": "Increases mucosal surface area and airflow turbulence.",
+      "tags": [
+        "Function",
+        "Bone",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 105,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "3"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-108",
+      "path": [
+        "4"
+      ],
+      "question": "Identification",
+      "answer": "Lacrimal bone",
+      "tags": [
+        "Identification",
+        "Bone",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 108,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "4"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-109",
+      "path": [
+        "4"
+      ],
+      "question": "Relations",
+      "answer": "Small bone of the medial orbital wall contributing to the lacrimal fossa.",
+      "tags": [
+        "Relations",
+        "Bone",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 109,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "4"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-110",
+      "path": [
+        "4"
+      ],
+      "question": "Function",
+      "answer": "Contributes to the bony passage for nasolacrimal drainage.",
+      "tags": [
+        "Function",
+        "Bone",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 110,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "4"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-113",
+      "path": [
+        "5"
+      ],
+      "question": "Identification",
+      "answer": "Nasal bone",
+      "tags": [
+        "Identification",
+        "Bone",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 113,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "5"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-114",
+      "path": [
+        "5"
+      ],
+      "question": "Relations",
+      "answer": "Forms the bony bridge of the nose.",
+      "tags": [
+        "Relations",
+        "Bone",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 114,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "5"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-115",
+      "path": [
+        "5"
+      ],
+      "question": "Articulations",
+      "answer": "Articulates with frontal bone, maxilla and opposite nasal bone.",
+      "tags": [
+        "Articulations",
+        "Bone",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 115,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "5"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-118",
+      "path": [
+        "6"
+      ],
+      "question": "Identification",
+      "answer": "Maxilla",
+      "tags": [
+        "Identification",
+        "Bone",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 118,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "6"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-119",
+      "path": [
+        "6"
+      ],
+      "question": "Landmarks",
+      "answer": "Alveolar process, palatine process, infraorbital foramen and maxillary sinus.",
+      "tags": [
+        "Landmarks",
+        "Bone",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 119,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "6"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-120",
+      "path": [
+        "6"
+      ],
+      "question": "Relations",
+      "answer": "Forms upper jaw, orbital floor, lateral nasal wall and anterior hard palate.",
+      "tags": [
+        "Relations",
+        "Bone",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 120,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "6"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-123",
+      "path": [
+        "7"
+      ],
+      "question": "Identification",
+      "answer": "Palatine bone",
+      "tags": [
+        "Identification",
+        "Bone",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 123,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "7"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-124",
+      "path": [
+        "7"
+      ],
+      "question": "Relations",
+      "answer": "Contributes to posterior hard palate, lateral nasal wall and floor of orbit.",
+      "tags": [
+        "Relations",
+        "Bone",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 124,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "7"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-125",
+      "path": [
+        "7"
+      ],
+      "question": "Landmarks",
+      "answer": "Horizontal and perpendicular plates.",
+      "tags": [
+        "Landmarks",
+        "Bone",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 125,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "7"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-128",
+      "path": [
+        "8"
+      ],
+      "question": "Identification",
+      "answer": "Sphenoid bone",
+      "tags": [
+        "Identification",
+        "Bone",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 128,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "8"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-129",
+      "path": [
+        "8"
+      ],
+      "question": "Landmarks",
+      "answer": "Body, greater and lesser wings and pterygoid processes.",
+      "tags": [
+        "Landmarks",
+        "Bone",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 129,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "8"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-130",
+      "path": [
+        "8"
+      ],
+      "question": "Relations",
+      "answer": "Contributes to skull base, orbit and posterior nasal region.",
+      "tags": [
+        "Relations",
+        "Bone",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 130,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "8"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-133",
+      "path": [
+        "9"
+      ],
+      "question": "Identification",
+      "answer": "Nasal cartilages",
+      "tags": [
+        "Identification",
+        "Cartilage",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 133,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "9"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-134",
+      "path": [
+        "9"
+      ],
+      "question": "Structure",
+      "answer": "Cartilaginous framework supporting the external nose.",
+      "tags": [
+        "Structure",
+        "Cartilage",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 134,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "9"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-135",
+      "path": [
+        "9"
+      ],
+      "question": "Function",
+      "answer": "Maintains nasal shape while allowing flexibility.",
+      "tags": [
+        "Function",
+        "Cartilage",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 135,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "9"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-138",
+      "path": [
+        "10"
+      ],
+      "question": "Identification",
+      "answer": "No label",
+      "tags": [
+        "Identification",
+        "ModelNote",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 138,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "10"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-139",
+      "path": [
+        "10"
+      ],
+      "question": "Model note",
+      "answer": "There is no labelled anatomical structure at this position on the model key.",
+      "tags": [
+        "ModelNote",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 139,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "10"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-142",
+      "path": [
+        "11"
+      ],
+      "question": "Identification",
+      "answer": "Superior nasal concha",
+      "tags": [
+        "Identification",
+        "NasalConcha",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 142,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "11"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-143",
+      "path": [
+        "11"
+      ],
+      "question": "Location",
+      "answer": "Upper lateral nasal wall.",
+      "tags": [
+        "Location",
+        "NasalConcha",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 143,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "11"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-144",
+      "path": [
+        "11"
+      ],
+      "question": "Function",
+      "answer": "Increases surface area and airflow turbulence.",
+      "tags": [
+        "Function",
+        "NasalConcha",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 144,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "11"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-147",
+      "path": [
+        "12"
+      ],
+      "question": "Identification",
+      "answer": "Middle nasal concha",
+      "tags": [
+        "Identification",
+        "NasalConcha",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 147,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "12"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-148",
+      "path": [
+        "12"
+      ],
+      "question": "Location",
+      "answer": "Lateral nasal wall, part of the ethmoid bone.",
+      "tags": [
+        "Location",
+        "NasalConcha",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 148,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "12"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-149",
+      "path": [
+        "12"
+      ],
+      "question": "Function",
+      "answer": "Helps direct airflow and defines the middle meatus.",
+      "tags": [
+        "Function",
+        "NasalConcha",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 149,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "12"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-152",
+      "path": [
+        "13"
+      ],
+      "question": "Identification",
+      "answer": "Inferior nasal concha",
+      "tags": [
+        "Identification",
+        "NasalConcha",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 152,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "13"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-153",
+      "path": [
+        "13"
+      ],
+      "question": "Location",
+      "answer": "Inferior lateral nasal wall.",
+      "tags": [
+        "Location",
+        "NasalConcha",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 153,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "13"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-154",
+      "path": [
+        "13"
+      ],
+      "question": "Function",
+      "answer": "Warms, humidifies and filters inspired air by increasing mucosal surface area.",
+      "tags": [
+        "Function",
+        "NasalConcha",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 154,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "13"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-157",
+      "path": [
+        "14"
+      ],
+      "question": "Identification",
+      "answer": "Superior nasal meatus",
+      "tags": [
+        "Identification",
+        "NasalMeatus",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 157,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "14"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-158",
+      "path": [
+        "14"
+      ],
+      "question": "Location",
+      "answer": "Passage inferior to the superior nasal concha.",
+      "tags": [
+        "Location",
+        "NasalMeatus",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 158,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "14"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-159",
+      "path": [
+        "14"
+      ],
+      "question": "Drainage",
+      "answer": "Receives posterior ethmoidal air cells.",
+      "tags": [
+        "Drainage",
+        "NasalMeatus",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 159,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "14"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-162",
+      "path": [
+        "15"
+      ],
+      "question": "Identification",
+      "answer": "Middle nasal meatus",
+      "tags": [
+        "Identification",
+        "NasalMeatus",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 162,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "15"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-163",
+      "path": [
+        "15"
+      ],
+      "question": "Location",
+      "answer": "Passage inferior to the middle nasal concha.",
+      "tags": [
+        "Location",
+        "NasalMeatus",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 163,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "15"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-164",
+      "path": [
+        "15"
+      ],
+      "question": "Drainage",
+      "answer": "Receives frontal, maxillary and anterior/middle ethmoidal sinus drainage.",
+      "tags": [
+        "Drainage",
+        "NasalMeatus",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 164,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "15"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-165",
+      "path": [
+        "15"
+      ],
+      "question": "Landmarks",
+      "answer": "Contains structures including bulla ethmoidalis, uncinate process and hiatus semilunaris.",
+      "tags": [
+        "Landmarks",
+        "NasalMeatus",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 165,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "15"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-168",
+      "path": [
+        "16"
+      ],
+      "question": "Identification",
+      "answer": "Inferior nasal meatus",
+      "tags": [
+        "Identification",
+        "NasalMeatus",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 168,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "16"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-169",
+      "path": [
+        "16"
+      ],
+      "question": "Location",
+      "answer": "Passage inferior to the inferior nasal concha.",
+      "tags": [
+        "Location",
+        "NasalMeatus",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 169,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "16"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-170",
+      "path": [
+        "16"
+      ],
+      "question": "Drainage",
+      "answer": "Receives the nasolacrimal duct.",
+      "tags": [
+        "Drainage",
+        "NasalMeatus",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 170,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "16"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-173",
+      "path": [
+        "17"
+      ],
+      "question": "Identification",
+      "answer": "Pharyngeal opening of auditory tube",
+      "tags": [
+        "Identification",
+        "Opening",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 173,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "17"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-174",
+      "path": [
+        "17"
+      ],
+      "question": "Location",
+      "answer": "Lateral wall of the nasopharynx.",
+      "tags": [
+        "Location",
+        "Opening",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 174,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "17"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-175",
+      "path": [
+        "17"
+      ],
+      "question": "Function",
+      "answer": "Connects nasopharynx with middle ear and helps equalise middle-ear pressure.",
+      "tags": [
+        "Function",
+        "Opening",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 175,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "17"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-178",
+      "path": [
+        "18"
+      ],
+      "question": "Identification",
+      "answer": "Pharyngeal recess",
+      "tags": [
+        "Identification",
+        "Space",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 178,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "18"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-179",
+      "path": [
+        "18"
+      ],
+      "question": "Location",
+      "answer": "Recess in the lateral nasopharyngeal wall posterior to the torus tubarius.",
+      "tags": [
+        "Location",
+        "Space",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 179,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "18"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-180",
+      "path": [
+        "18"
+      ],
+      "question": "Also called",
+      "answer": "Fossa of Rosenmüller.",
+      "tags": [
+        "AlsoCalled",
+        "Space",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 180,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "18"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-181",
+      "path": [
+        "18"
+      ],
+      "question": "Clinical relevance",
+      "answer": "Important site in nasopharyngeal carcinoma.",
+      "tags": [
+        "Clinical",
+        "Space",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 181,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "18"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-184",
+      "path": [
+        "19"
+      ],
+      "question": "Identification",
+      "answer": "Hard palate",
+      "tags": [
+        "Identification",
+        "BonyLandmark",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 184,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "19"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-185",
+      "path": [
+        "19"
+      ],
+      "question": "Structure",
+      "answer": "Formed by palatine processes of the maxillae and horizontal plates of the palatine bones.",
+      "tags": [
+        "Structure",
+        "BonyLandmark",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 185,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "19"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-186",
+      "path": [
+        "19"
+      ],
+      "question": "Function",
+      "answer": "Separates oral and nasal cavities.",
+      "tags": [
+        "Function",
+        "BonyLandmark",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 186,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "19"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-189",
+      "path": [
+        "20"
+      ],
+      "question": "Identification",
+      "answer": "Soft palate",
+      "tags": [
+        "Identification",
+        "SoftTissue",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 189,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "20"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-190",
+      "path": [
+        "20"
+      ],
+      "question": "Structure",
+      "answer": "Muscular fibrous fold extending posteriorly from the hard palate.",
+      "tags": [
+        "Structure",
+        "SoftTissue",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 190,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "20"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-191",
+      "path": [
+        "20"
+      ],
+      "question": "Function",
+      "answer": "Elevates during swallowing to close the nasopharynx and contributes to speech.",
+      "tags": [
+        "Function",
+        "SoftTissue",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 191,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "20"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-192",
+      "path": [
+        "20"
+      ],
+      "question": "Innervation",
+      "answer": "Motor mainly via pharyngeal plexus except tensor veli palatini via V3.",
+      "tags": [
+        "Innervation",
+        "SoftTissue",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 192,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "20"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-195",
+      "path": [
+        "21"
+      ],
+      "question": "Identification",
+      "answer": "Nasal vestibule",
+      "tags": [
+        "Identification",
+        "Space",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 195,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "21"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-196",
+      "path": [
+        "21"
+      ],
+      "question": "Location",
+      "answer": "Most anterior part of the nasal cavity just inside the nostril.",
+      "tags": [
+        "Location",
+        "Space",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 196,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "21"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-197",
+      "path": [
+        "21"
+      ],
+      "question": "Structure",
+      "answer": "Lined by skin and vibrissae before transitioning to respiratory mucosa.",
+      "tags": [
+        "Structure",
+        "Space",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 197,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "21"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-198",
+      "path": [
+        "21"
+      ],
+      "question": "Function",
+      "answer": "Filters large inhaled particles.",
+      "tags": [
+        "Function",
+        "Space",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 198,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "21"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-201",
+      "path": [
+        "22"
+      ],
+      "question": "Identification",
+      "answer": "Pharyngeal tonsil",
+      "tags": [
+        "Identification",
+        "LymphoidTissue",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 201,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "22"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-202",
+      "path": [
+        "22"
+      ],
+      "question": "Location",
+      "answer": "Roof and posterior wall of the nasopharynx.",
+      "tags": [
+        "Location",
+        "LymphoidTissue",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 202,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "22"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-203",
+      "path": [
+        "22"
+      ],
+      "question": "Function",
+      "answer": "Part of Waldeyer's ring and mucosal immune defence.",
+      "tags": [
+        "Function",
+        "LymphoidTissue",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 203,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "22"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-204",
+      "path": [
+        "22"
+      ],
+      "question": "Clinical relevance",
+      "answer": "Enlargement forms adenoids and may obstruct nasal breathing or auditory-tube function.",
+      "tags": [
+        "Clinical",
+        "LymphoidTissue",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 204,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "22"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-207",
+      "path": [
+        "23"
+      ],
+      "question": "Identification",
+      "answer": "Palatine tonsil",
+      "tags": [
+        "Identification",
+        "LymphoidTissue",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 207,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "23"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-208",
+      "path": [
+        "23"
+      ],
+      "question": "Location",
+      "answer": "Tonsillar fossa between palatoglossal and palatopharyngeal arches.",
+      "tags": [
+        "Location",
+        "LymphoidTissue",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 208,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "23"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-209",
+      "path": [
+        "23"
+      ],
+      "question": "Function",
+      "answer": "Part of Waldeyer's ring and mucosal immune defence.",
+      "tags": [
+        "Function",
+        "LymphoidTissue",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 209,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "23"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-210",
+      "path": [
+        "23"
+      ],
+      "question": "Clinical relevance",
+      "answer": "Glossopharyngeal nerve lies close to the tonsillar bed.",
+      "tags": [
+        "Clinical",
+        "LymphoidTissue",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 210,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "23"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-213",
+      "path": [
+        "24"
+      ],
+      "question": "Identification",
+      "answer": "Olfactory bulb",
+      "tags": [
+        "Identification",
+        "CNS",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 213,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "24"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-214",
+      "path": [
+        "24"
+      ],
+      "question": "Location",
+      "answer": "Inferior frontal-lobe surface above the cribriform plate.",
+      "tags": [
+        "Location",
+        "CNS",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 214,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "24"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-215",
+      "path": [
+        "24"
+      ],
+      "question": "Function",
+      "answer": "Receives olfactory nerve input and begins central processing of smell.",
+      "tags": [
+        "Function",
+        "CNS",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 215,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "24"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-216",
+      "path": [
+        "24"
+      ],
+      "question": "Connections",
+      "answer": "Continues posteriorly as the olfactory tract.",
+      "tags": [
+        "Connections",
+        "CNS",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 216,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "24"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-217",
+      "path": [
+        "24"
+      ],
+      "question": "Clinical relevance",
+      "answer": "Damage may cause anosmia.",
+      "tags": [
+        "Clinical",
+        "CNS",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 217,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "24"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-221",
+      "path": [
+        "46"
+      ],
+      "question": "Identification",
+      "answer": "Nasal septum",
+      "tags": [
+        "Identification",
+        "Septum",
+        "NasalSeptum",
+        "FS3"
+      ],
+      "sourceLine": 221,
+      "section": "Nasal septum",
+      "label": "46"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-222",
+      "path": [
+        "46"
+      ],
+      "question": "Structure",
+      "answer": "Midline partition dividing the nasal cavity into right and left halves.",
+      "tags": [
+        "Structure",
+        "Septum",
+        "NasalSeptum",
+        "FS3"
+      ],
+      "sourceLine": 222,
+      "section": "Nasal septum",
+      "label": "46"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-223",
+      "path": [
+        "46"
+      ],
+      "question": "Components",
+      "answer": "Formed mainly by the perpendicular plate of ethmoid, vomer and septal cartilage.",
+      "tags": [
+        "Components",
+        "Septum",
+        "NasalSeptum",
+        "FS3"
+      ],
+      "sourceLine": 223,
+      "section": "Nasal septum",
+      "label": "46"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-224",
+      "path": [
+        "46"
+      ],
+      "question": "Function",
+      "answer": "Supports the nose and directs airflow through each nasal cavity.",
+      "tags": [
+        "Function",
+        "Septum",
+        "NasalSeptum",
+        "FS3"
+      ],
+      "sourceLine": 224,
+      "section": "Nasal septum",
+      "label": "46"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-227",
+      "path": [
+        "47"
+      ],
+      "question": "Identification",
+      "answer": "Vomer",
+      "tags": [
+        "Identification",
+        "Bone",
+        "NasalSeptum",
+        "FS3"
+      ],
+      "sourceLine": 227,
+      "section": "Nasal septum",
+      "label": "47"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-228",
+      "path": [
+        "47"
+      ],
+      "question": "Location",
+      "answer": "Posteroinferior bony part of the nasal septum.",
+      "tags": [
+        "Location",
+        "Bone",
+        "NasalSeptum",
+        "FS3"
+      ],
+      "sourceLine": 228,
+      "section": "Nasal septum",
+      "label": "47"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-229",
+      "path": [
+        "47"
+      ],
+      "question": "Articulations",
+      "answer": "Articulates with sphenoid, ethmoid, maxillae and palatine bones.",
+      "tags": [
+        "Articulations",
+        "Bone",
+        "NasalSeptum",
+        "FS3"
+      ],
+      "sourceLine": 229,
+      "section": "Nasal septum",
+      "label": "47"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-232",
+      "path": [
+        "48"
+      ],
+      "question": "Identification",
+      "answer": "Perpendicular plate of ethmoid bone",
+      "tags": [
+        "Identification",
+        "BonyLandmark",
+        "NasalSeptum",
+        "FS3"
+      ],
+      "sourceLine": 232,
+      "section": "Nasal septum",
+      "label": "48"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-233",
+      "path": [
+        "48"
+      ],
+      "question": "Bone",
+      "answer": "Part of the ethmoid bone.",
+      "tags": [
+        "Bone",
+        "BonyLandmark",
+        "NasalSeptum",
+        "FS3"
+      ],
+      "sourceLine": 233,
+      "section": "Nasal septum",
+      "label": "48"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-234",
+      "path": [
+        "48"
+      ],
+      "question": "Location",
+      "answer": "Forms the superior bony part of the nasal septum.",
+      "tags": [
+        "Location",
+        "BonyLandmark",
+        "NasalSeptum",
+        "FS3"
+      ],
+      "sourceLine": 234,
+      "section": "Nasal septum",
+      "label": "48"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-237",
+      "path": [
+        "49"
+      ],
+      "question": "Identification",
+      "answer": "Septal cartilage",
+      "tags": [
+        "Identification",
+        "Cartilage",
+        "NasalSeptum",
+        "FS3"
+      ],
+      "sourceLine": 237,
+      "section": "Nasal septum",
+      "label": "49"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-238",
+      "path": [
+        "49"
+      ],
+      "question": "Location",
+      "answer": "Forms the anterior cartilaginous portion of the nasal septum.",
+      "tags": [
+        "Location",
+        "Cartilage",
+        "NasalSeptum",
+        "FS3"
+      ],
+      "sourceLine": 238,
+      "section": "Nasal septum",
+      "label": "49"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-239",
+      "path": [
+        "49"
+      ],
+      "question": "Function",
+      "answer": "Provides flexible structural support to the anterior nose.",
+      "tags": [
+        "Function",
+        "Cartilage",
+        "NasalSeptum",
+        "FS3"
+      ],
+      "sourceLine": 239,
+      "section": "Nasal septum",
+      "label": "49"
+    }
+  ]
+}

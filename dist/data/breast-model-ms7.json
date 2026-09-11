@@ -1,0 +1,838 @@
+{
+  "id": "breast-model-ms7",
+  "name": "Breast (Model MS7)",
+  "cards": [
+    {
+      "id": "breast-model-ms7-2",
+      "path": [
+        "1"
+      ],
+      "question": "Identification",
+      "answer": "Mammary gland lobe (pink)",
+      "tags": [
+        "Identification",
+        "MammaryGland",
+        "MS7"
+      ],
+      "sourceLine": 2,
+      "section": "",
+      "label": "1"
+    },
+    {
+      "id": "breast-model-ms7-3",
+      "path": [
+        "1"
+      ],
+      "question": "Structure",
+      "answer": "One of the major subdivisions of the mammary gland, composed of multiple lobules draining toward a lactiferous duct.",
+      "tags": [
+        "Structure",
+        "MammaryGland",
+        "MS7"
+      ],
+      "sourceLine": 3,
+      "section": "",
+      "label": "1"
+    },
+    {
+      "id": "breast-model-ms7-4",
+      "path": [
+        "1"
+      ],
+      "question": "Function",
+      "answer": "Contains the secretory glandular tissue responsible for milk production during lactation.",
+      "tags": [
+        "Function",
+        "MammaryGland",
+        "MS7"
+      ],
+      "sourceLine": 4,
+      "section": "",
+      "label": "1"
+    },
+    {
+      "id": "breast-model-ms7-5",
+      "path": [
+        "1"
+      ],
+      "question": "Relations",
+      "answer": "Embedded within fibrofatty tissue of the breast and arranged around the nipple.",
+      "tags": [
+        "Relations",
+        "MammaryGland",
+        "MS7"
+      ],
+      "sourceLine": 5,
+      "section": "",
+      "label": "1"
+    },
+    {
+      "id": "breast-model-ms7-8",
+      "path": [
+        "2"
+      ],
+      "question": "Identification",
+      "answer": "Mammary gland lobule (pink)",
+      "tags": [
+        "Identification",
+        "MammaryGland",
+        "MS7"
+      ],
+      "sourceLine": 8,
+      "section": "",
+      "label": "2"
+    },
+    {
+      "id": "breast-model-ms7-9",
+      "path": [
+        "2"
+      ],
+      "question": "Structure",
+      "answer": "Small glandular unit within a mammary lobe, composed of clusters of secretory alveoli/acini.",
+      "tags": [
+        "Structure",
+        "MammaryGland",
+        "MS7"
+      ],
+      "sourceLine": 9,
+      "section": "",
+      "label": "2"
+    },
+    {
+      "id": "breast-model-ms7-10",
+      "path": [
+        "2"
+      ],
+      "question": "Function",
+      "answer": "Produces milk during lactation under hormonal stimulation.",
+      "tags": [
+        "Function",
+        "MammaryGland",
+        "MS7"
+      ],
+      "sourceLine": 10,
+      "section": "",
+      "label": "2"
+    },
+    {
+      "id": "breast-model-ms7-11",
+      "path": [
+        "2"
+      ],
+      "question": "Drainage",
+      "answer": "Drains into small ducts that converge into larger lactiferous ducts.",
+      "tags": [
+        "Drainage",
+        "MammaryGland",
+        "MS7"
+      ],
+      "sourceLine": 11,
+      "section": "",
+      "label": "2"
+    },
+    {
+      "id": "breast-model-ms7-14",
+      "path": [
+        "3"
+      ],
+      "question": "Identification",
+      "answer": "Lactiferous duct (black)",
+      "tags": [
+        "Identification",
+        "Duct",
+        "MS7"
+      ],
+      "sourceLine": 14,
+      "section": "",
+      "label": "3"
+    },
+    {
+      "id": "breast-model-ms7-15",
+      "path": [
+        "3"
+      ],
+      "question": "Function",
+      "answer": "Conveys milk from the glandular lobes toward the nipple.",
+      "tags": [
+        "Function",
+        "Duct",
+        "MS7"
+      ],
+      "sourceLine": 15,
+      "section": "",
+      "label": "3"
+    },
+    {
+      "id": "breast-model-ms7-16",
+      "path": [
+        "3"
+      ],
+      "question": "Course",
+      "answer": "Runs from the mammary gland lobes toward the nipple, receiving smaller ducts from lobules.",
+      "tags": [
+        "Course",
+        "Duct",
+        "MS7"
+      ],
+      "sourceLine": 16,
+      "section": "",
+      "label": "3"
+    },
+    {
+      "id": "breast-model-ms7-17",
+      "path": [
+        "3"
+      ],
+      "question": "Termination",
+      "answer": "Opens onto the surface of the nipple through a lactiferous opening.",
+      "tags": [
+        "Termination",
+        "Duct",
+        "MS7"
+      ],
+      "sourceLine": 17,
+      "section": "",
+      "label": "3"
+    },
+    {
+      "id": "breast-model-ms7-20",
+      "path": [
+        "4"
+      ],
+      "question": "Identification",
+      "answer": "Lactiferous sinus (wider black part)",
+      "tags": [
+        "Identification",
+        "Duct",
+        "MS7"
+      ],
+      "sourceLine": 20,
+      "section": "",
+      "label": "4"
+    },
+    {
+      "id": "breast-model-ms7-21",
+      "path": [
+        "4"
+      ],
+      "question": "Structure",
+      "answer": "Dilated portion of a lactiferous duct near the nipple.",
+      "tags": [
+        "Structure",
+        "Duct",
+        "MS7"
+      ],
+      "sourceLine": 21,
+      "section": "",
+      "label": "4"
+    },
+    {
+      "id": "breast-model-ms7-22",
+      "path": [
+        "4"
+      ],
+      "question": "Function",
+      "answer": "Traditionally described as a small reservoir for milk near the nipple.",
+      "tags": [
+        "Function",
+        "Duct",
+        "MS7"
+      ],
+      "sourceLine": 22,
+      "section": "",
+      "label": "4"
+    },
+    {
+      "id": "breast-model-ms7-23",
+      "path": [
+        "4"
+      ],
+      "question": "Relations",
+      "answer": "Lies immediately deep to the nipple and areolar region along the terminal part of a lactiferous duct.",
+      "tags": [
+        "Relations",
+        "Duct",
+        "MS7"
+      ],
+      "sourceLine": 23,
+      "section": "",
+      "label": "4"
+    },
+    {
+      "id": "breast-model-ms7-26",
+      "path": [
+        "5"
+      ],
+      "question": "Identification",
+      "answer": "Areola",
+      "tags": [
+        "Identification",
+        "SurfaceAnatomy",
+        "MS7"
+      ],
+      "sourceLine": 26,
+      "section": "",
+      "label": "5"
+    },
+    {
+      "id": "breast-model-ms7-27",
+      "path": [
+        "5"
+      ],
+      "question": "Structure",
+      "answer": "Pigmented circular area of skin surrounding the nipple.",
+      "tags": [
+        "Structure",
+        "SurfaceAnatomy",
+        "MS7"
+      ],
+      "sourceLine": 27,
+      "section": "",
+      "label": "5"
+    },
+    {
+      "id": "breast-model-ms7-28",
+      "path": [
+        "5"
+      ],
+      "question": "Contents",
+      "answer": "Contains sebaceous areolar glands, including glands of Montgomery.",
+      "tags": [
+        "Contents",
+        "SurfaceAnatomy",
+        "MS7"
+      ],
+      "sourceLine": 28,
+      "section": "",
+      "label": "5"
+    },
+    {
+      "id": "breast-model-ms7-29",
+      "path": [
+        "5"
+      ],
+      "question": "Function",
+      "answer": "Provides a lubricated, pigmented surface around the nipple and contributes to the nipple–areola complex during breastfeeding.",
+      "tags": [
+        "Function",
+        "SurfaceAnatomy",
+        "MS7"
+      ],
+      "sourceLine": 29,
+      "section": "",
+      "label": "5"
+    },
+    {
+      "id": "breast-model-ms7-32",
+      "path": [
+        "6"
+      ],
+      "question": "Identification",
+      "answer": "Nipple (mammary papilla)",
+      "tags": [
+        "Identification",
+        "SurfaceAnatomy",
+        "MS7"
+      ],
+      "sourceLine": 32,
+      "section": "",
+      "label": "6"
+    },
+    {
+      "id": "breast-model-ms7-33",
+      "path": [
+        "6"
+      ],
+      "question": "Structure",
+      "answer": "Projecting central part of the breast containing openings of the lactiferous ducts.",
+      "tags": [
+        "Structure",
+        "SurfaceAnatomy",
+        "MS7"
+      ],
+      "sourceLine": 33,
+      "section": "",
+      "label": "6"
+    },
+    {
+      "id": "breast-model-ms7-34",
+      "path": [
+        "6"
+      ],
+      "question": "Function",
+      "answer": "Provides the outlet for milk during breastfeeding.",
+      "tags": [
+        "Function",
+        "SurfaceAnatomy",
+        "MS7"
+      ],
+      "sourceLine": 34,
+      "section": "",
+      "label": "6"
+    },
+    {
+      "id": "breast-model-ms7-35",
+      "path": [
+        "6"
+      ],
+      "question": "Innervation",
+      "answer": "Rich sensory innervation, predominantly from anterior and lateral cutaneous branches of thoracic intercostal nerves, especially around T4.",
+      "tags": [
+        "Innervation",
+        "SurfaceAnatomy",
+        "MS7"
+      ],
+      "sourceLine": 35,
+      "section": "",
+      "label": "6"
+    },
+    {
+      "id": "breast-model-ms7-36",
+      "path": [
+        "6"
+      ],
+      "question": "Relations",
+      "answer": "Located centrally within the areola.",
+      "tags": [
+        "Relations",
+        "SurfaceAnatomy",
+        "MS7"
+      ],
+      "sourceLine": 36,
+      "section": "",
+      "label": "6"
+    },
+    {
+      "id": "breast-model-ms7-39",
+      "path": [
+        "7"
+      ],
+      "question": "Identification",
+      "answer": "Connective tissue and fat",
+      "tags": [
+        "Identification",
+        "BreastTissue",
+        "MS7"
+      ],
+      "sourceLine": 39,
+      "section": "",
+      "label": "7"
+    },
+    {
+      "id": "breast-model-ms7-40",
+      "path": [
+        "7"
+      ],
+      "question": "Structure",
+      "answer": "Fibrous connective tissue and adipose tissue surrounding and supporting the glandular tissue.",
+      "tags": [
+        "Structure",
+        "BreastTissue",
+        "MS7"
+      ],
+      "sourceLine": 40,
+      "section": "",
+      "label": "7"
+    },
+    {
+      "id": "breast-model-ms7-41",
+      "path": [
+        "7"
+      ],
+      "question": "Function",
+      "answer": "Provides structural support, shape and cushioning to the breast.",
+      "tags": [
+        "Function",
+        "BreastTissue",
+        "MS7"
+      ],
+      "sourceLine": 41,
+      "section": "",
+      "label": "7"
+    },
+    {
+      "id": "breast-model-ms7-42",
+      "path": [
+        "7"
+      ],
+      "question": "Relations",
+      "answer": "Fibrous septa extend between skin and deep fascia and contribute to the suspensory ligaments of the breast.",
+      "tags": [
+        "Relations",
+        "BreastTissue",
+        "MS7"
+      ],
+      "sourceLine": 42,
+      "section": "",
+      "label": "7"
+    },
+    {
+      "id": "breast-model-ms7-45",
+      "path": [
+        "8"
+      ],
+      "question": "Identification",
+      "answer": "Fat",
+      "tags": [
+        "Identification",
+        "AdiposeTissue",
+        "MS7"
+      ],
+      "sourceLine": 45,
+      "section": "",
+      "label": "8"
+    },
+    {
+      "id": "breast-model-ms7-46",
+      "path": [
+        "8"
+      ],
+      "question": "Function",
+      "answer": "Contributes substantially to breast volume, contour and cushioning.",
+      "tags": [
+        "Function",
+        "AdiposeTissue",
+        "MS7"
+      ],
+      "sourceLine": 46,
+      "section": "",
+      "label": "8"
+    },
+    {
+      "id": "breast-model-ms7-47",
+      "path": [
+        "8"
+      ],
+      "question": "Relations",
+      "answer": "Surrounds and separates glandular lobes and lies within the superficial fascia of the anterior chest wall.",
+      "tags": [
+        "Relations",
+        "AdiposeTissue",
+        "MS7"
+      ],
+      "sourceLine": 47,
+      "section": "",
+      "label": "8"
+    },
+    {
+      "id": "breast-model-ms7-48",
+      "path": [
+        "8"
+      ],
+      "question": "Clinical relevance",
+      "answer": "The proportion of fat relative to glandular tissue varies with age, hormonal state and body composition.",
+      "tags": [
+        "Clinical",
+        "AdiposeTissue",
+        "MS7"
+      ],
+      "sourceLine": 48,
+      "section": "",
+      "label": "8"
+    },
+    {
+      "id": "breast-model-ms7-51",
+      "path": [
+        "9"
+      ],
+      "question": "Identification",
+      "answer": "Pectoral fascia and retromammary space",
+      "tags": [
+        "Identification",
+        "Fascia",
+        "MS7"
+      ],
+      "sourceLine": 51,
+      "section": "",
+      "label": "9"
+    },
+    {
+      "id": "breast-model-ms7-52",
+      "path": [
+        "9"
+      ],
+      "question": "Structure",
+      "answer": "Pectoral fascia covers pectoralis major; the retromammary space is a loose connective tissue plane between the breast and the deep fascia.",
+      "tags": [
+        "Structure",
+        "Fascia",
+        "MS7"
+      ],
+      "sourceLine": 52,
+      "section": "",
+      "label": "9"
+    },
+    {
+      "id": "breast-model-ms7-53",
+      "path": [
+        "9"
+      ],
+      "question": "Function",
+      "answer": "The retromammary space allows the breast to move relatively freely over the pectoral fascia.",
+      "tags": [
+        "Function",
+        "Fascia",
+        "MS7"
+      ],
+      "sourceLine": 53,
+      "section": "",
+      "label": "9"
+    },
+    {
+      "id": "breast-model-ms7-54",
+      "path": [
+        "9"
+      ],
+      "question": "Relations",
+      "answer": "Lies deep to the breast and superficial to pectoralis major.",
+      "tags": [
+        "Relations",
+        "Fascia",
+        "MS7"
+      ],
+      "sourceLine": 54,
+      "section": "",
+      "label": "9"
+    },
+    {
+      "id": "breast-model-ms7-55",
+      "path": [
+        "9"
+      ],
+      "question": "Clinical relevance",
+      "answer": "Loss of mobility over the chest wall can occur when malignancy invades the deep fascia or pectoral structures.",
+      "tags": [
+        "Clinical",
+        "Fascia",
+        "MS7"
+      ],
+      "sourceLine": 55,
+      "section": "",
+      "label": "9"
+    },
+    {
+      "id": "breast-model-ms7-58",
+      "path": [
+        "10"
+      ],
+      "question": "Identification",
+      "answer": "Pectoralis major muscle",
+      "tags": [
+        "Identification",
+        "Muscle",
+        "MS7"
+      ],
+      "sourceLine": 58,
+      "section": "",
+      "label": "10"
+    },
+    {
+      "id": "breast-model-ms7-59",
+      "path": [
+        "10"
+      ],
+      "question": "Actions",
+      "answer": "Adducts and medially rotates the arm; clavicular head flexes the arm; sternocostal head extends a flexed arm.",
+      "tags": [
+        "Action",
+        "Muscle",
+        "MS7"
+      ],
+      "sourceLine": 59,
+      "section": "",
+      "label": "10"
+    },
+    {
+      "id": "breast-model-ms7-60",
+      "path": [
+        "10"
+      ],
+      "question": "Innervation",
+      "answer": "Lateral and medial pectoral nerves (C5–T1).",
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "MS7"
+      ],
+      "sourceLine": 60,
+      "section": "",
+      "label": "10"
+    },
+    {
+      "id": "breast-model-ms7-61",
+      "path": [
+        "10"
+      ],
+      "question": "Origin",
+      "answer": "Medial half of clavicle; sternum; upper six costal cartilages; aponeurosis of external oblique.",
+      "tags": [
+        "Origin",
+        "Muscle",
+        "MS7"
+      ],
+      "sourceLine": 61,
+      "section": "",
+      "label": "10"
+    },
+    {
+      "id": "breast-model-ms7-62",
+      "path": [
+        "10"
+      ],
+      "question": "Insertion",
+      "answer": "Lateral lip of the intertubercular sulcus of the humerus.",
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "MS7"
+      ],
+      "sourceLine": 62,
+      "section": "",
+      "label": "10"
+    },
+    {
+      "id": "breast-model-ms7-65",
+      "path": [
+        "11"
+      ],
+      "question": "Identification",
+      "answer": "Areolar glands (glands of Montgomery)",
+      "tags": [
+        "Identification",
+        "Gland",
+        "MS7"
+      ],
+      "sourceLine": 65,
+      "section": "",
+      "label": "11"
+    },
+    {
+      "id": "breast-model-ms7-66",
+      "path": [
+        "11"
+      ],
+      "question": "Structure",
+      "answer": "Enlarged sebaceous glands associated with the areola.",
+      "tags": [
+        "Structure",
+        "Gland",
+        "MS7"
+      ],
+      "sourceLine": 66,
+      "section": "",
+      "label": "11"
+    },
+    {
+      "id": "breast-model-ms7-67",
+      "path": [
+        "11"
+      ],
+      "question": "Function",
+      "answer": "Secrete an oily substance that lubricates and protects the nipple–areola complex, particularly during breastfeeding.",
+      "tags": [
+        "Function",
+        "Gland",
+        "MS7"
+      ],
+      "sourceLine": 67,
+      "section": "",
+      "label": "11"
+    },
+    {
+      "id": "breast-model-ms7-68",
+      "path": [
+        "11"
+      ],
+      "question": "Location",
+      "answer": "Located within the skin of the areola and may form small visible elevations.",
+      "tags": [
+        "Location",
+        "Gland",
+        "MS7"
+      ],
+      "sourceLine": 68,
+      "section": "",
+      "label": "11"
+    },
+    {
+      "id": "breast-model-ms7-71",
+      "path": [
+        "12"
+      ],
+      "question": "Identification",
+      "answer": "Skin",
+      "tags": [
+        "Identification",
+        "Skin",
+        "MS7"
+      ],
+      "sourceLine": 71,
+      "section": "",
+      "label": "12"
+    },
+    {
+      "id": "breast-model-ms7-72",
+      "path": [
+        "12"
+      ],
+      "question": "Structure",
+      "answer": "Epidermis and dermis covering the breast, continuous with surrounding thoracic skin.",
+      "tags": [
+        "Structure",
+        "Skin",
+        "MS7"
+      ],
+      "sourceLine": 72,
+      "section": "",
+      "label": "12"
+    },
+    {
+      "id": "breast-model-ms7-73",
+      "path": [
+        "12"
+      ],
+      "question": "Function",
+      "answer": "Provides a protective external barrier and carries sensory innervation.",
+      "tags": [
+        "Function",
+        "Skin",
+        "MS7"
+      ],
+      "sourceLine": 73,
+      "section": "",
+      "label": "12"
+    },
+    {
+      "id": "breast-model-ms7-74",
+      "path": [
+        "12"
+      ],
+      "question": "Relations",
+      "answer": "Superficial to the glandular and fatty tissue; connected to deeper breast tissue by fibrous septa.",
+      "tags": [
+        "Relations",
+        "Skin",
+        "MS7"
+      ],
+      "sourceLine": 74,
+      "section": "",
+      "label": "12"
+    },
+    {
+      "id": "breast-model-ms7-75",
+      "path": [
+        "12"
+      ],
+      "question": "Clinical relevance",
+      "answer": "Skin tethering, dimpling or peau d’orange can occur when breast malignancy affects suspensory ligaments or dermal lymphatics.",
+      "tags": [
+        "Clinical",
+        "Skin",
+        "MS7"
+      ],
+      "sourceLine": 75,
+      "section": "",
+      "label": "12"
+    }
+  ]
+}

@@ -1,0 +1,2774 @@
+{
+  "id": "deep-face-model-bs8-1",
+  "name": "Deep Face (Model BS8_1)",
+  "cards": [
+    {
+      "id": "deep-face-model-bs8-1-2",
+      "path": [
+        "1"
+      ],
+      "question": "Identification",
+      "answer": "Frontal bone",
+      "tags": [
+        "Identification",
+        "Bone",
+        "BS8_1"
+      ],
+      "sourceLine": 2,
+      "section": "",
+      "label": "1"
+    },
+    {
+      "id": "deep-face-model-bs8-1-3",
+      "path": [
+        "1"
+      ],
+      "question": "Articulations",
+      "answer": "Articulates with parietal, sphenoid, ethmoid, nasal, maxillary, lacrimal and zygomatic bones.",
+      "tags": [
+        "Articulations",
+        "Bone",
+        "BS8_1"
+      ],
+      "sourceLine": 3,
+      "section": "",
+      "label": "1"
+    },
+    {
+      "id": "deep-face-model-bs8-1-4",
+      "path": [
+        "1"
+      ],
+      "question": "Landmarks",
+      "answer": "Frontal squama, orbital plates, supraorbital margins/notches and frontal sinus region.",
+      "tags": [
+        "Landmarks",
+        "Bone",
+        "BS8_1"
+      ],
+      "sourceLine": 4,
+      "section": "",
+      "label": "1"
+    },
+    {
+      "id": "deep-face-model-bs8-1-5",
+      "path": [
+        "1"
+      ],
+      "question": "Relations",
+      "answer": "Forms the forehead, orbital roofs and part of the anterior cranial fossa.",
+      "tags": [
+        "Relations",
+        "Bone",
+        "BS8_1"
+      ],
+      "sourceLine": 5,
+      "section": "",
+      "label": "1"
+    },
+    {
+      "id": "deep-face-model-bs8-1-8",
+      "path": [
+        "2"
+      ],
+      "question": "Identification",
+      "answer": "Nasal bone",
+      "tags": [
+        "Identification",
+        "Bone",
+        "BS8_1"
+      ],
+      "sourceLine": 8,
+      "section": "",
+      "label": "2"
+    },
+    {
+      "id": "deep-face-model-bs8-1-9",
+      "path": [
+        "2"
+      ],
+      "question": "Articulations",
+      "answer": "Articulates with frontal bone, maxilla and the opposite nasal bone.",
+      "tags": [
+        "Articulations",
+        "Bone",
+        "BS8_1"
+      ],
+      "sourceLine": 9,
+      "section": "",
+      "label": "2"
+    },
+    {
+      "id": "deep-face-model-bs8-1-10",
+      "path": [
+        "2"
+      ],
+      "question": "Relations",
+      "answer": "Forms the superior bony bridge of the external nose.",
+      "tags": [
+        "Relations",
+        "Bone",
+        "BS8_1"
+      ],
+      "sourceLine": 10,
+      "section": "",
+      "label": "2"
+    },
+    {
+      "id": "deep-face-model-bs8-1-11",
+      "path": [
+        "2"
+      ],
+      "question": "Landmarks",
+      "answer": "Small paired rectangular bones forming the nasal bridge.",
+      "tags": [
+        "Landmarks",
+        "Bone",
+        "BS8_1"
+      ],
+      "sourceLine": 11,
+      "section": "",
+      "label": "2"
+    },
+    {
+      "id": "deep-face-model-bs8-1-14",
+      "path": [
+        "3"
+      ],
+      "question": "Identification",
+      "answer": "Ethmoid bone",
+      "tags": [
+        "Identification",
+        "Bone",
+        "BS8_1"
+      ],
+      "sourceLine": 14,
+      "section": "",
+      "label": "3"
+    },
+    {
+      "id": "deep-face-model-bs8-1-15",
+      "path": [
+        "3"
+      ],
+      "question": "Articulations",
+      "answer": "Articulates with frontal, sphenoid, vomer, nasal, maxillary, lacrimal, palatine bones and inferior nasal conchae.",
+      "tags": [
+        "Articulations",
+        "Bone",
+        "BS8_1"
+      ],
+      "sourceLine": 15,
+      "section": "",
+      "label": "3"
+    },
+    {
+      "id": "deep-face-model-bs8-1-16",
+      "path": [
+        "3"
+      ],
+      "question": "Landmarks",
+      "answer": "Cribriform plate, crista galli, perpendicular plate, superior and middle nasal conchae and ethmoidal labyrinths.",
+      "tags": [
+        "Landmarks",
+        "Bone",
+        "BS8_1"
+      ],
+      "sourceLine": 16,
+      "section": "",
+      "label": "3"
+    },
+    {
+      "id": "deep-face-model-bs8-1-17",
+      "path": [
+        "3"
+      ],
+      "question": "Relations",
+      "answer": "Contributes to the anterior cranial floor, nasal septum and medial orbital wall.",
+      "tags": [
+        "Relations",
+        "Bone",
+        "BS8_1"
+      ],
+      "sourceLine": 17,
+      "section": "",
+      "label": "3"
+    },
+    {
+      "id": "deep-face-model-bs8-1-20",
+      "path": [
+        "4"
+      ],
+      "question": "Identification",
+      "answer": "Sphenoid bone",
+      "tags": [
+        "Identification",
+        "Bone",
+        "BS8_1"
+      ],
+      "sourceLine": 20,
+      "section": "",
+      "label": "4"
+    },
+    {
+      "id": "deep-face-model-bs8-1-21",
+      "path": [
+        "4"
+      ],
+      "question": "Articulations",
+      "answer": "Articulates with frontal, parietal, temporal, occipital, ethmoid, zygomatic, vomer and palatine bones.",
+      "tags": [
+        "Articulations",
+        "Bone",
+        "BS8_1"
+      ],
+      "sourceLine": 21,
+      "section": "",
+      "label": "4"
+    },
+    {
+      "id": "deep-face-model-bs8-1-22",
+      "path": [
+        "4"
+      ],
+      "question": "Landmarks",
+      "answer": "Body, greater and lesser wings, pterygoid processes, sella turcica, foramina rotundum and ovale.",
+      "tags": [
+        "Landmarks",
+        "Bone",
+        "BS8_1"
+      ],
+      "sourceLine": 22,
+      "section": "",
+      "label": "4"
+    },
+    {
+      "id": "deep-face-model-bs8-1-23",
+      "path": [
+        "4"
+      ],
+      "question": "Relations",
+      "answer": "Central bone of skull base; contributes to orbit, cranial fossae and pterygopalatine/infratemporal regions.",
+      "tags": [
+        "Relations",
+        "Bone",
+        "BS8_1"
+      ],
+      "sourceLine": 23,
+      "section": "",
+      "label": "4"
+    },
+    {
+      "id": "deep-face-model-bs8-1-26",
+      "path": [
+        "5"
+      ],
+      "question": "Identification",
+      "answer": "Maxilla",
+      "tags": [
+        "Identification",
+        "Bone",
+        "BS8_1"
+      ],
+      "sourceLine": 26,
+      "section": "",
+      "label": "5"
+    },
+    {
+      "id": "deep-face-model-bs8-1-27",
+      "path": [
+        "5"
+      ],
+      "question": "Articulations",
+      "answer": "Articulates with multiple facial bones and contributes to the hard palate, nasal cavity and orbit.",
+      "tags": [
+        "Articulations",
+        "Bone",
+        "BS8_1"
+      ],
+      "sourceLine": 27,
+      "section": "",
+      "label": "5"
+    },
+    {
+      "id": "deep-face-model-bs8-1-28",
+      "path": [
+        "5"
+      ],
+      "question": "Landmarks",
+      "answer": "Alveolar process, palatine process, infraorbital foramen and maxillary sinus.",
+      "tags": [
+        "Landmarks",
+        "Bone",
+        "BS8_1"
+      ],
+      "sourceLine": 28,
+      "section": "",
+      "label": "5"
+    },
+    {
+      "id": "deep-face-model-bs8-1-29",
+      "path": [
+        "5"
+      ],
+      "question": "Relations",
+      "answer": "Houses the upper teeth and forms much of the midface.",
+      "tags": [
+        "Relations",
+        "Bone",
+        "BS8_1"
+      ],
+      "sourceLine": 29,
+      "section": "",
+      "label": "5"
+    },
+    {
+      "id": "deep-face-model-bs8-1-32",
+      "path": [
+        "6"
+      ],
+      "question": "Identification",
+      "answer": "Palatine bone",
+      "tags": [
+        "Identification",
+        "Bone",
+        "BS8_1"
+      ],
+      "sourceLine": 32,
+      "section": "",
+      "label": "6"
+    },
+    {
+      "id": "deep-face-model-bs8-1-33",
+      "path": [
+        "6"
+      ],
+      "question": "Articulations",
+      "answer": "Articulates with maxilla, sphenoid, ethmoid, vomer, inferior nasal concha and opposite palatine bone.",
+      "tags": [
+        "Articulations",
+        "Bone",
+        "BS8_1"
+      ],
+      "sourceLine": 33,
+      "section": "",
+      "label": "6"
+    },
+    {
+      "id": "deep-face-model-bs8-1-34",
+      "path": [
+        "6"
+      ],
+      "question": "Relations",
+      "answer": "Horizontal plate forms posterior hard palate; perpendicular plate contributes to lateral nasal wall.",
+      "tags": [
+        "Relations",
+        "Bone",
+        "BS8_1"
+      ],
+      "sourceLine": 34,
+      "section": "",
+      "label": "6"
+    },
+    {
+      "id": "deep-face-model-bs8-1-35",
+      "path": [
+        "6"
+      ],
+      "question": "Landmarks",
+      "answer": "Horizontal plate, perpendicular plate, pyramidal process and greater/lesser palatine foramina.",
+      "tags": [
+        "Landmarks",
+        "Bone",
+        "BS8_1"
+      ],
+      "sourceLine": 35,
+      "section": "",
+      "label": "6"
+    },
+    {
+      "id": "deep-face-model-bs8-1-38",
+      "path": [
+        "7"
+      ],
+      "question": "Identification",
+      "answer": "Mandible",
+      "tags": [
+        "Identification",
+        "Bone",
+        "BS8_1"
+      ],
+      "sourceLine": 38,
+      "section": "",
+      "label": "7"
+    },
+    {
+      "id": "deep-face-model-bs8-1-39",
+      "path": [
+        "7"
+      ],
+      "question": "Articulations",
+      "answer": "Articulates with the temporal bones at the temporomandibular joints.",
+      "tags": [
+        "Articulations",
+        "Bone",
+        "BS8_1"
+      ],
+      "sourceLine": 39,
+      "section": "",
+      "label": "7"
+    },
+    {
+      "id": "deep-face-model-bs8-1-40",
+      "path": [
+        "7"
+      ],
+      "question": "Landmarks",
+      "answer": "Body, ramus, angle, coronoid process, condylar process, mental foramen and mandibular foramen.",
+      "tags": [
+        "Landmarks",
+        "Bone",
+        "BS8_1"
+      ],
+      "sourceLine": 40,
+      "section": "",
+      "label": "7"
+    },
+    {
+      "id": "deep-face-model-bs8-1-41",
+      "path": [
+        "7"
+      ],
+      "question": "Relations",
+      "answer": "Supports lower teeth and provides major attachments for muscles of mastication and floor of mouth.",
+      "tags": [
+        "Relations",
+        "Bone",
+        "BS8_1"
+      ],
+      "sourceLine": 41,
+      "section": "",
+      "label": "7"
+    },
+    {
+      "id": "deep-face-model-bs8-1-44",
+      "path": [
+        "8"
+      ],
+      "question": "Identification",
+      "answer": "Hyoid",
+      "tags": [
+        "Identification",
+        "Bone",
+        "BS8_1"
+      ],
+      "sourceLine": 44,
+      "section": "",
+      "label": "8"
+    },
+    {
+      "id": "deep-face-model-bs8-1-45",
+      "path": [
+        "8"
+      ],
+      "question": "Articulations",
+      "answer": "Does not articulate directly with other bones; suspended by muscles and ligaments.",
+      "tags": [
+        "Articulations",
+        "Bone",
+        "BS8_1"
+      ],
+      "sourceLine": 45,
+      "section": "",
+      "label": "8"
+    },
+    {
+      "id": "deep-face-model-bs8-1-46",
+      "path": [
+        "8"
+      ],
+      "question": "Landmarks",
+      "answer": "Body, greater horns and lesser horns.",
+      "tags": [
+        "Landmarks",
+        "Bone",
+        "BS8_1"
+      ],
+      "sourceLine": 46,
+      "section": "",
+      "label": "8"
+    },
+    {
+      "id": "deep-face-model-bs8-1-47",
+      "path": [
+        "8"
+      ],
+      "question": "Relations",
+      "answer": "Located in the anterior neck between the mandible and thyroid cartilage.",
+      "tags": [
+        "Relations",
+        "Bone",
+        "BS8_1"
+      ],
+      "sourceLine": 47,
+      "section": "",
+      "label": "8"
+    },
+    {
+      "id": "deep-face-model-bs8-1-50",
+      "path": [
+        "9"
+      ],
+      "question": "Identification",
+      "answer": "Lateral nasal cartilage",
+      "tags": [
+        "Identification",
+        "Cartilage",
+        "BS8_1"
+      ],
+      "sourceLine": 50,
+      "section": "",
+      "label": "9"
+    },
+    {
+      "id": "deep-face-model-bs8-1-51",
+      "path": [
+        "9"
+      ],
+      "question": "Structure",
+      "answer": "Paired hyaline cartilage forming part of the upper lateral wall of the external nose.",
+      "tags": [
+        "Structure",
+        "Cartilage",
+        "BS8_1"
+      ],
+      "sourceLine": 51,
+      "section": "",
+      "label": "9"
+    },
+    {
+      "id": "deep-face-model-bs8-1-52",
+      "path": [
+        "9"
+      ],
+      "question": "Relations",
+      "answer": "Lies inferior to nasal bone and superior to the major alar cartilage.",
+      "tags": [
+        "Relations",
+        "Cartilage",
+        "BS8_1"
+      ],
+      "sourceLine": 52,
+      "section": "",
+      "label": "9"
+    },
+    {
+      "id": "deep-face-model-bs8-1-53",
+      "path": [
+        "9"
+      ],
+      "question": "Function",
+      "answer": "Supports the lateral nasal wall and helps maintain patency of the nasal airway.",
+      "tags": [
+        "Function",
+        "Cartilage",
+        "BS8_1"
+      ],
+      "sourceLine": 53,
+      "section": "",
+      "label": "9"
+    },
+    {
+      "id": "deep-face-model-bs8-1-56",
+      "path": [
+        "10"
+      ],
+      "question": "Identification",
+      "answer": "Thyroid cartilage",
+      "tags": [
+        "Identification",
+        "Cartilage",
+        "BS8_1"
+      ],
+      "sourceLine": 56,
+      "section": "",
+      "label": "10"
+    },
+    {
+      "id": "deep-face-model-bs8-1-57",
+      "path": [
+        "10"
+      ],
+      "question": "Structure",
+      "answer": "Largest laryngeal cartilage, formed by two laminae meeting anteriorly.",
+      "tags": [
+        "Structure",
+        "Cartilage",
+        "BS8_1"
+      ],
+      "sourceLine": 57,
+      "section": "",
+      "label": "10"
+    },
+    {
+      "id": "deep-face-model-bs8-1-58",
+      "path": [
+        "10"
+      ],
+      "question": "Landmarks",
+      "answer": "Laryngeal prominence, superior/inferior horns and oblique line.",
+      "tags": [
+        "Landmarks",
+        "Cartilage",
+        "BS8_1"
+      ],
+      "sourceLine": 58,
+      "section": "",
+      "label": "10"
+    },
+    {
+      "id": "deep-face-model-bs8-1-59",
+      "path": [
+        "10"
+      ],
+      "question": "Function",
+      "answer": "Protects the vocal apparatus and provides attachment for laryngeal muscles and ligaments.",
+      "tags": [
+        "Function",
+        "Cartilage",
+        "BS8_1"
+      ],
+      "sourceLine": 59,
+      "section": "",
+      "label": "10"
+    },
+    {
+      "id": "deep-face-model-bs8-1-62",
+      "path": [
+        "11"
+      ],
+      "question": "Identification",
+      "answer": "Superior nasal concha",
+      "tags": [
+        "Identification",
+        "NasalConcha",
+        "BS8_1"
+      ],
+      "sourceLine": 62,
+      "section": "",
+      "label": "11"
+    },
+    {
+      "id": "deep-face-model-bs8-1-63",
+      "path": [
+        "11"
+      ],
+      "question": "Structure",
+      "answer": "Curved bony projection from the ethmoid bone on the superior lateral nasal wall.",
+      "tags": [
+        "Structure",
+        "NasalConcha",
+        "BS8_1"
+      ],
+      "sourceLine": 63,
+      "section": "",
+      "label": "11"
+    },
+    {
+      "id": "deep-face-model-bs8-1-64",
+      "path": [
+        "11"
+      ],
+      "question": "Function",
+      "answer": "Increases mucosal surface area and promotes warming, humidification and turbulence of inspired air.",
+      "tags": [
+        "Function",
+        "NasalConcha",
+        "BS8_1"
+      ],
+      "sourceLine": 64,
+      "section": "",
+      "label": "11"
+    },
+    {
+      "id": "deep-face-model-bs8-1-65",
+      "path": [
+        "11"
+      ],
+      "question": "Relations",
+      "answer": "Overlies the superior meatus.",
+      "tags": [
+        "Relations",
+        "NasalConcha",
+        "BS8_1"
+      ],
+      "sourceLine": 65,
+      "section": "",
+      "label": "11"
+    },
+    {
+      "id": "deep-face-model-bs8-1-68",
+      "path": [
+        "12"
+      ],
+      "question": "Identification",
+      "answer": "Middle nasal concha",
+      "tags": [
+        "Identification",
+        "NasalConcha",
+        "BS8_1"
+      ],
+      "sourceLine": 68,
+      "section": "",
+      "label": "12"
+    },
+    {
+      "id": "deep-face-model-bs8-1-69",
+      "path": [
+        "12"
+      ],
+      "question": "Structure",
+      "answer": "Curved bony projection from the ethmoid bone on the lateral nasal wall.",
+      "tags": [
+        "Structure",
+        "NasalConcha",
+        "BS8_1"
+      ],
+      "sourceLine": 69,
+      "section": "",
+      "label": "12"
+    },
+    {
+      "id": "deep-face-model-bs8-1-70",
+      "path": [
+        "12"
+      ],
+      "question": "Function",
+      "answer": "Increases mucosal surface area and influences airflow around paranasal sinus drainage pathways.",
+      "tags": [
+        "Function",
+        "NasalConcha",
+        "BS8_1"
+      ],
+      "sourceLine": 70,
+      "section": "",
+      "label": "12"
+    },
+    {
+      "id": "deep-face-model-bs8-1-71",
+      "path": [
+        "12"
+      ],
+      "question": "Relations",
+      "answer": "Overlies the middle meatus.",
+      "tags": [
+        "Relations",
+        "NasalConcha",
+        "BS8_1"
+      ],
+      "sourceLine": 71,
+      "section": "",
+      "label": "12"
+    },
+    {
+      "id": "deep-face-model-bs8-1-74",
+      "path": [
+        "13"
+      ],
+      "question": "Identification",
+      "answer": "Inferior nasal concha",
+      "tags": [
+        "Identification",
+        "NasalConcha",
+        "BS8_1"
+      ],
+      "sourceLine": 74,
+      "section": "",
+      "label": "13"
+    },
+    {
+      "id": "deep-face-model-bs8-1-75",
+      "path": [
+        "13"
+      ],
+      "question": "Structure",
+      "answer": "Separate paired bone projecting from the inferior lateral nasal wall.",
+      "tags": [
+        "Structure",
+        "NasalConcha",
+        "BS8_1"
+      ],
+      "sourceLine": 75,
+      "section": "",
+      "label": "13"
+    },
+    {
+      "id": "deep-face-model-bs8-1-76",
+      "path": [
+        "13"
+      ],
+      "question": "Function",
+      "answer": "Increases mucosal surface area and promotes warming and humidification of inspired air.",
+      "tags": [
+        "Function",
+        "NasalConcha",
+        "BS8_1"
+      ],
+      "sourceLine": 76,
+      "section": "",
+      "label": "13"
+    },
+    {
+      "id": "deep-face-model-bs8-1-77",
+      "path": [
+        "13"
+      ],
+      "question": "Relations",
+      "answer": "Overlies the inferior meatus.",
+      "tags": [
+        "Relations",
+        "NasalConcha",
+        "BS8_1"
+      ],
+      "sourceLine": 77,
+      "section": "",
+      "label": "13"
+    },
+    {
+      "id": "deep-face-model-bs8-1-80",
+      "path": [
+        "14"
+      ],
+      "question": "Identification",
+      "answer": "Palatine tonsil",
+      "tags": [
+        "Identification",
+        "LymphoidTissue",
+        "BS8_1"
+      ],
+      "sourceLine": 80,
+      "section": "",
+      "label": "14"
+    },
+    {
+      "id": "deep-face-model-bs8-1-81",
+      "path": [
+        "14"
+      ],
+      "question": "Location",
+      "answer": "Lies in the tonsillar fossa between the palatoglossal and palatopharyngeal arches.",
+      "tags": [
+        "Location",
+        "LymphoidTissue",
+        "BS8_1"
+      ],
+      "sourceLine": 81,
+      "section": "",
+      "label": "14"
+    },
+    {
+      "id": "deep-face-model-bs8-1-82",
+      "path": [
+        "14"
+      ],
+      "question": "Function",
+      "answer": "Part of Waldeyer's ring and contributes to mucosal immune surveillance.",
+      "tags": [
+        "Function",
+        "LymphoidTissue",
+        "BS8_1"
+      ],
+      "sourceLine": 82,
+      "section": "",
+      "label": "14"
+    },
+    {
+      "id": "deep-face-model-bs8-1-83",
+      "path": [
+        "14"
+      ],
+      "question": "Relations",
+      "answer": "Glossopharyngeal nerve and tonsillar vessels lie close to the tonsillar bed.",
+      "tags": [
+        "Relations",
+        "LymphoidTissue",
+        "BS8_1"
+      ],
+      "sourceLine": 83,
+      "section": "",
+      "label": "14"
+    },
+    {
+      "id": "deep-face-model-bs8-1-86",
+      "path": [
+        "15"
+      ],
+      "question": "Identification",
+      "answer": "Mylohyoid muscle",
+      "tags": [
+        "Identification",
+        "Muscle",
+        "BS8_1"
+      ],
+      "sourceLine": 86,
+      "section": "",
+      "label": "15"
+    },
+    {
+      "id": "deep-face-model-bs8-1-87",
+      "path": [
+        "15"
+      ],
+      "question": "Actions",
+      "answer": "Elevates the floor of mouth and hyoid during swallowing; assists depression of the mandible when the hyoid is fixed.",
+      "tags": [
+        "Action",
+        "Muscle",
+        "BS8_1"
+      ],
+      "sourceLine": 87,
+      "section": "",
+      "label": "15"
+    },
+    {
+      "id": "deep-face-model-bs8-1-88",
+      "path": [
+        "15"
+      ],
+      "question": "Innervation",
+      "answer": "Nerve to mylohyoid from the inferior alveolar nerve (V3).",
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "BS8_1"
+      ],
+      "sourceLine": 88,
+      "section": "",
+      "label": "15"
+    },
+    {
+      "id": "deep-face-model-bs8-1-89",
+      "path": [
+        "15"
+      ],
+      "question": "Origin",
+      "answer": "Mylohyoid line of mandible.",
+      "tags": [
+        "Origin",
+        "Muscle",
+        "BS8_1"
+      ],
+      "sourceLine": 89,
+      "section": "",
+      "label": "15"
+    },
+    {
+      "id": "deep-face-model-bs8-1-90",
+      "path": [
+        "15"
+      ],
+      "question": "Insertion",
+      "answer": "Median mylohyoid raphe and body of hyoid.",
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "BS8_1"
+      ],
+      "sourceLine": 90,
+      "section": "",
+      "label": "15"
+    },
+    {
+      "id": "deep-face-model-bs8-1-93",
+      "path": [
+        "16"
+      ],
+      "question": "Identification",
+      "answer": "Geniohyoid muscle",
+      "tags": [
+        "Identification",
+        "Muscle",
+        "BS8_1"
+      ],
+      "sourceLine": 93,
+      "section": "",
+      "label": "16"
+    },
+    {
+      "id": "deep-face-model-bs8-1-94",
+      "path": [
+        "16"
+      ],
+      "question": "Actions",
+      "answer": "Pulls the hyoid anterosuperiorly and shortens the floor of mouth; can assist mandibular depression.",
+      "tags": [
+        "Action",
+        "Muscle",
+        "BS8_1"
+      ],
+      "sourceLine": 94,
+      "section": "",
+      "label": "16"
+    },
+    {
+      "id": "deep-face-model-bs8-1-95",
+      "path": [
+        "16"
+      ],
+      "question": "Innervation",
+      "answer": "C1 fibres travelling with the hypoglossal nerve (CN XII).",
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "BS8_1"
+      ],
+      "sourceLine": 95,
+      "section": "",
+      "label": "16"
+    },
+    {
+      "id": "deep-face-model-bs8-1-96",
+      "path": [
+        "16"
+      ],
+      "question": "Origin",
+      "answer": "Inferior mental spine of mandible.",
+      "tags": [
+        "Origin",
+        "Muscle",
+        "BS8_1"
+      ],
+      "sourceLine": 96,
+      "section": "",
+      "label": "16"
+    },
+    {
+      "id": "deep-face-model-bs8-1-97",
+      "path": [
+        "16"
+      ],
+      "question": "Insertion",
+      "answer": "Body of hyoid.",
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "BS8_1"
+      ],
+      "sourceLine": 97,
+      "section": "",
+      "label": "16"
+    },
+    {
+      "id": "deep-face-model-bs8-1-100",
+      "path": [
+        "17"
+      ],
+      "question": "Identification",
+      "answer": "Sublingual gland",
+      "tags": [
+        "Identification",
+        "Gland",
+        "BS8_1"
+      ],
+      "sourceLine": 100,
+      "section": "",
+      "label": "17"
+    },
+    {
+      "id": "deep-face-model-bs8-1-101",
+      "path": [
+        "17"
+      ],
+      "question": "Function",
+      "answer": "Produces predominantly mucous saliva.",
+      "tags": [
+        "Function",
+        "Gland",
+        "BS8_1"
+      ],
+      "sourceLine": 101,
+      "section": "",
+      "label": "17"
+    },
+    {
+      "id": "deep-face-model-bs8-1-102",
+      "path": [
+        "17"
+      ],
+      "question": "Location",
+      "answer": "Floor of mouth beneath the mucosa, superior to mylohyoid and lateral to genioglossus.",
+      "tags": [
+        "Location",
+        "Gland",
+        "BS8_1"
+      ],
+      "sourceLine": 102,
+      "section": "",
+      "label": "17"
+    },
+    {
+      "id": "deep-face-model-bs8-1-103",
+      "path": [
+        "17"
+      ],
+      "question": "Drainage",
+      "answer": "Multiple small ducts open along the sublingual fold; a larger duct may join the submandibular duct.",
+      "tags": [
+        "Drainage",
+        "Gland",
+        "BS8_1"
+      ],
+      "sourceLine": 103,
+      "section": "",
+      "label": "17"
+    },
+    {
+      "id": "deep-face-model-bs8-1-104",
+      "path": [
+        "17"
+      ],
+      "question": "Innervation",
+      "answer": "Parasympathetic secretomotor fibres from facial nerve via chorda tympani, lingual nerve and submandibular ganglion.",
+      "tags": [
+        "Innervation",
+        "Gland",
+        "BS8_1"
+      ],
+      "sourceLine": 104,
+      "section": "",
+      "label": "17"
+    },
+    {
+      "id": "deep-face-model-bs8-1-107",
+      "path": [
+        "18"
+      ],
+      "question": "Identification",
+      "answer": "Submandibular gland",
+      "tags": [
+        "Identification",
+        "Gland",
+        "BS8_1"
+      ],
+      "sourceLine": 107,
+      "section": "",
+      "label": "18"
+    },
+    {
+      "id": "deep-face-model-bs8-1-108",
+      "path": [
+        "18"
+      ],
+      "question": "Function",
+      "answer": "Produces mixed serous and mucous saliva, predominantly serous.",
+      "tags": [
+        "Function",
+        "Gland",
+        "BS8_1"
+      ],
+      "sourceLine": 108,
+      "section": "",
+      "label": "18"
+    },
+    {
+      "id": "deep-face-model-bs8-1-109",
+      "path": [
+        "18"
+      ],
+      "question": "Location",
+      "answer": "Wraps around the posterior border of mylohyoid with superficial and deep parts.",
+      "tags": [
+        "Location",
+        "Gland",
+        "BS8_1"
+      ],
+      "sourceLine": 109,
+      "section": "",
+      "label": "18"
+    },
+    {
+      "id": "deep-face-model-bs8-1-110",
+      "path": [
+        "18"
+      ],
+      "question": "Drainage",
+      "answer": "Submandibular duct opens at the sublingual papilla beside the lingual frenulum.",
+      "tags": [
+        "Drainage",
+        "Gland",
+        "BS8_1"
+      ],
+      "sourceLine": 110,
+      "section": "",
+      "label": "18"
+    },
+    {
+      "id": "deep-face-model-bs8-1-111",
+      "path": [
+        "18"
+      ],
+      "question": "Innervation",
+      "answer": "Parasympathetic secretomotor fibres from facial nerve via chorda tympani, lingual nerve and submandibular ganglion.",
+      "tags": [
+        "Innervation",
+        "Gland",
+        "BS8_1"
+      ],
+      "sourceLine": 111,
+      "section": "",
+      "label": "18"
+    },
+    {
+      "id": "deep-face-model-bs8-1-114",
+      "path": [
+        "19"
+      ],
+      "question": "Identification",
+      "answer": "Common carotid artery",
+      "tags": [
+        "Identification",
+        "Artery",
+        "BS8_1"
+      ],
+      "sourceLine": 114,
+      "section": "",
+      "label": "19"
+    },
+    {
+      "id": "deep-face-model-bs8-1-115",
+      "path": [
+        "19"
+      ],
+      "question": "Origin",
+      "answer": "Right arises from brachiocephalic trunk; left arises directly from aortic arch.",
+      "tags": [
+        "Origin",
+        "Artery",
+        "BS8_1"
+      ],
+      "sourceLine": 115,
+      "section": "",
+      "label": "19"
+    },
+    {
+      "id": "deep-face-model-bs8-1-116",
+      "path": [
+        "19"
+      ],
+      "question": "Course",
+      "answer": "Ascends in the carotid sheath and usually bifurcates around the upper border of thyroid cartilage into internal and external carotid arteries.",
+      "tags": [
+        "Course",
+        "Artery",
+        "BS8_1"
+      ],
+      "sourceLine": 116,
+      "section": "",
+      "label": "19"
+    },
+    {
+      "id": "deep-face-model-bs8-1-117",
+      "path": [
+        "19"
+      ],
+      "question": "Branches",
+      "answer": "No major branches in the neck before its terminal bifurcation.",
+      "tags": [
+        "Branches",
+        "Artery",
+        "BS8_1"
+      ],
+      "sourceLine": 117,
+      "section": "",
+      "label": "19"
+    },
+    {
+      "id": "deep-face-model-bs8-1-118",
+      "path": [
+        "19"
+      ],
+      "question": "Supply",
+      "answer": "Supplies head and neck through the external and internal carotid systems.",
+      "tags": [
+        "Supply",
+        "Artery",
+        "BS8_1"
+      ],
+      "sourceLine": 118,
+      "section": "",
+      "label": "19"
+    },
+    {
+      "id": "deep-face-model-bs8-1-121",
+      "path": [
+        "20"
+      ],
+      "question": "Identification",
+      "answer": "External carotid artery",
+      "tags": [
+        "Identification",
+        "Artery",
+        "BS8_1"
+      ],
+      "sourceLine": 121,
+      "section": "",
+      "label": "20"
+    },
+    {
+      "id": "deep-face-model-bs8-1-122",
+      "path": [
+        "20"
+      ],
+      "question": "Origin",
+      "answer": "Terminal branch of common carotid artery.",
+      "tags": [
+        "Origin",
+        "Artery",
+        "BS8_1"
+      ],
+      "sourceLine": 122,
+      "section": "",
+      "label": "20"
+    },
+    {
+      "id": "deep-face-model-bs8-1-123",
+      "path": [
+        "20"
+      ],
+      "question": "Course",
+      "answer": "Ascends through the carotid triangle, passes deep to posterior belly of digastric and enters parotid gland.",
+      "tags": [
+        "Course",
+        "Artery",
+        "BS8_1"
+      ],
+      "sourceLine": 123,
+      "section": "",
+      "label": "20"
+    },
+    {
+      "id": "deep-face-model-bs8-1-124",
+      "path": [
+        "20"
+      ],
+      "question": "Branches",
+      "answer": "Superior thyroid, ascending pharyngeal, lingual, facial, occipital, posterior auricular, maxillary and superficial temporal arteries.",
+      "tags": [
+        "Branches",
+        "Artery",
+        "BS8_1"
+      ],
+      "sourceLine": 124,
+      "section": "",
+      "label": "20"
+    },
+    {
+      "id": "deep-face-model-bs8-1-125",
+      "path": [
+        "20"
+      ],
+      "question": "Supply",
+      "answer": "Most extracranial structures of head and neck.",
+      "tags": [
+        "Supply",
+        "Artery",
+        "BS8_1"
+      ],
+      "sourceLine": 125,
+      "section": "",
+      "label": "20"
+    },
+    {
+      "id": "deep-face-model-bs8-1-128",
+      "path": [
+        "21"
+      ],
+      "question": "Identification",
+      "answer": "Internal carotid artery",
+      "tags": [
+        "Identification",
+        "Artery",
+        "BS8_1"
+      ],
+      "sourceLine": 128,
+      "section": "",
+      "label": "21"
+    },
+    {
+      "id": "deep-face-model-bs8-1-129",
+      "path": [
+        "21"
+      ],
+      "question": "Origin",
+      "answer": "Terminal branch of common carotid artery.",
+      "tags": [
+        "Origin",
+        "Artery",
+        "BS8_1"
+      ],
+      "sourceLine": 129,
+      "section": "",
+      "label": "21"
+    },
+    {
+      "id": "deep-face-model-bs8-1-130",
+      "path": [
+        "21"
+      ],
+      "question": "Course",
+      "answer": "Ascends in carotid sheath without branching in the neck, enters carotid canal and continues intracranially.",
+      "tags": [
+        "Course",
+        "Artery",
+        "BS8_1"
+      ],
+      "sourceLine": 130,
+      "section": "",
+      "label": "21"
+    },
+    {
+      "id": "deep-face-model-bs8-1-131",
+      "path": [
+        "21"
+      ],
+      "question": "Supply",
+      "answer": "Major arterial supply to the brain and orbit.",
+      "tags": [
+        "Supply",
+        "Artery",
+        "BS8_1"
+      ],
+      "sourceLine": 131,
+      "section": "",
+      "label": "21"
+    },
+    {
+      "id": "deep-face-model-bs8-1-132",
+      "path": [
+        "21"
+      ],
+      "question": "Relations",
+      "answer": "Lies posterolateral to the external carotid near the bifurcation before ascending deep in the neck.",
+      "tags": [
+        "Relations",
+        "Artery",
+        "BS8_1"
+      ],
+      "sourceLine": 132,
+      "section": "",
+      "label": "21"
+    },
+    {
+      "id": "deep-face-model-bs8-1-135",
+      "path": [
+        "22"
+      ],
+      "question": "Identification",
+      "answer": "Greater palatine artery",
+      "tags": [
+        "Identification",
+        "Artery",
+        "BS8_1"
+      ],
+      "sourceLine": 135,
+      "section": "",
+      "label": "22"
+    },
+    {
+      "id": "deep-face-model-bs8-1-136",
+      "path": [
+        "22"
+      ],
+      "question": "Origin",
+      "answer": "Terminal branch of the descending palatine artery from the maxillary artery.",
+      "tags": [
+        "Origin",
+        "Artery",
+        "BS8_1"
+      ],
+      "sourceLine": 136,
+      "section": "",
+      "label": "22"
+    },
+    {
+      "id": "deep-face-model-bs8-1-137",
+      "path": [
+        "22"
+      ],
+      "question": "Course",
+      "answer": "Descends through the greater palatine canal, emerges at the greater palatine foramen and runs anteriorly on the hard palate.",
+      "tags": [
+        "Course",
+        "Artery",
+        "BS8_1"
+      ],
+      "sourceLine": 137,
+      "section": "",
+      "label": "22"
+    },
+    {
+      "id": "deep-face-model-bs8-1-138",
+      "path": [
+        "22"
+      ],
+      "question": "Supply",
+      "answer": "Hard palate, palatal gingiva and adjacent structures.",
+      "tags": [
+        "Supply",
+        "Artery",
+        "BS8_1"
+      ],
+      "sourceLine": 138,
+      "section": "",
+      "label": "22"
+    },
+    {
+      "id": "deep-face-model-bs8-1-139",
+      "path": [
+        "22"
+      ],
+      "question": "Relations",
+      "answer": "Anastomoses anteriorly with the septal branch of the sphenopalatine artery via incisive canal region.",
+      "tags": [
+        "Relations",
+        "Artery",
+        "BS8_1"
+      ],
+      "sourceLine": 139,
+      "section": "",
+      "label": "22"
+    },
+    {
+      "id": "deep-face-model-bs8-1-142",
+      "path": [
+        "23"
+      ],
+      "question": "Identification",
+      "answer": "Optic nerve",
+      "tags": [
+        "Identification",
+        "Nerve",
+        "BS8_1"
+      ],
+      "sourceLine": 142,
+      "section": "",
+      "label": "23"
+    },
+    {
+      "id": "deep-face-model-bs8-1-143",
+      "path": [
+        "23"
+      ],
+      "question": "Roots",
+      "answer": "Special sensory fibres from retinal ganglion cells; functionally part of the CNS.",
+      "tags": [
+        "Roots",
+        "Nerve",
+        "BS8_1"
+      ],
+      "sourceLine": 143,
+      "section": "",
+      "label": "23"
+    },
+    {
+      "id": "deep-face-model-bs8-1-144",
+      "path": [
+        "23"
+      ],
+      "question": "Course",
+      "answer": "Leaves the orbit through the optic canal and reaches the optic chiasm.",
+      "tags": [
+        "Course",
+        "Nerve",
+        "BS8_1"
+      ],
+      "sourceLine": 144,
+      "section": "",
+      "label": "23"
+    },
+    {
+      "id": "deep-face-model-bs8-1-145",
+      "path": [
+        "23"
+      ],
+      "question": "Sensory functions",
+      "answer": "Vision.",
+      "tags": [
+        "Sensory",
+        "Nerve",
+        "BS8_1"
+      ],
+      "sourceLine": 145,
+      "section": "",
+      "label": "23"
+    },
+    {
+      "id": "deep-face-model-bs8-1-146",
+      "path": [
+        "23"
+      ],
+      "question": "Lesion",
+      "answer": "Lesion causes ipsilateral monocular visual loss and an afferent pupillary defect.",
+      "tags": [
+        "Lesion",
+        "Nerve",
+        "BS8_1"
+      ],
+      "sourceLine": 146,
+      "section": "",
+      "label": "23"
+    },
+    {
+      "id": "deep-face-model-bs8-1-149",
+      "path": [
+        "24"
+      ],
+      "question": "Identification",
+      "answer": "Trigeminal nerve",
+      "tags": [
+        "Identification",
+        "Nerve",
+        "BS8_1"
+      ],
+      "sourceLine": 149,
+      "section": "",
+      "label": "24"
+    },
+    {
+      "id": "deep-face-model-bs8-1-150",
+      "path": [
+        "24"
+      ],
+      "question": "Roots",
+      "answer": "Large sensory root and smaller motor root emerging from the lateral pons.",
+      "tags": [
+        "Roots",
+        "Nerve",
+        "BS8_1"
+      ],
+      "sourceLine": 150,
+      "section": "",
+      "label": "24"
+    },
+    {
+      "id": "deep-face-model-bs8-1-151",
+      "path": [
+        "24"
+      ],
+      "question": "Course",
+      "answer": "Sensory root expands into the trigeminal ganglion; V1, V2 and V3 then leave the cranial cavity by different foramina.",
+      "tags": [
+        "Course",
+        "Nerve",
+        "BS8_1"
+      ],
+      "sourceLine": 151,
+      "section": "",
+      "label": "24"
+    },
+    {
+      "id": "deep-face-model-bs8-1-152",
+      "path": [
+        "24"
+      ],
+      "question": "Motor functions",
+      "answer": "Motor fibres travel with V3 to muscles of mastication and selected first-pharyngeal-arch muscles.",
+      "tags": [
+        "Motor",
+        "Nerve",
+        "BS8_1"
+      ],
+      "sourceLine": 152,
+      "section": "",
+      "label": "24"
+    },
+    {
+      "id": "deep-face-model-bs8-1-153",
+      "path": [
+        "24"
+      ],
+      "question": "Sensory functions",
+      "answer": "Major somatic sensory nerve of face, oral/nasal cavities, teeth, cornea and much of cranial dura.",
+      "tags": [
+        "Sensory",
+        "Nerve",
+        "BS8_1"
+      ],
+      "sourceLine": 153,
+      "section": "",
+      "label": "24"
+    },
+    {
+      "id": "deep-face-model-bs8-1-154",
+      "path": [
+        "24"
+      ],
+      "question": "Lesion",
+      "answer": "May cause ipsilateral facial sensory loss; motor root involvement causes weakness of mastication with the jaw deviating toward the side of the lesion on opening; the corneal reflex afferent limb may be impaired if V1 is involved.",
+      "tags": [
+        "Lesion",
+        "Nerve",
+        "BS8_1"
+      ],
+      "sourceLine": 154,
+      "section": "",
+      "label": "24"
+    },
+    {
+      "id": "deep-face-model-bs8-1-157",
+      "path": [
+        "25"
+      ],
+      "question": "Identification",
+      "answer": "Trigeminal ganglion",
+      "tags": [
+        "Identification",
+        "Ganglion",
+        "BS8_1"
+      ],
+      "sourceLine": 157,
+      "section": "",
+      "label": "25"
+    },
+    {
+      "id": "deep-face-model-bs8-1-158",
+      "path": [
+        "25"
+      ],
+      "question": "Location",
+      "answer": "Lies in Meckel's cave near the apex of the petrous temporal bone.",
+      "tags": [
+        "Location",
+        "Ganglion",
+        "BS8_1"
+      ],
+      "sourceLine": 158,
+      "section": "",
+      "label": "25"
+    },
+    {
+      "id": "deep-face-model-bs8-1-159",
+      "path": [
+        "25"
+      ],
+      "question": "Function",
+      "answer": "Contains sensory neuron cell bodies of the trigeminal nerve.",
+      "tags": [
+        "Function",
+        "Ganglion",
+        "BS8_1"
+      ],
+      "sourceLine": 159,
+      "section": "",
+      "label": "25"
+    },
+    {
+      "id": "deep-face-model-bs8-1-160",
+      "path": [
+        "25"
+      ],
+      "question": "Branches",
+      "answer": "Gives rise to ophthalmic (V1), maxillary (V2) and mandibular (V3) divisions.",
+      "tags": [
+        "Branches",
+        "Ganglion",
+        "BS8_1"
+      ],
+      "sourceLine": 160,
+      "section": "",
+      "label": "25"
+    },
+    {
+      "id": "deep-face-model-bs8-1-163",
+      "path": [
+        "26"
+      ],
+      "question": "Identification",
+      "answer": "Ophthalmic nerve",
+      "tags": [
+        "Identification",
+        "Nerve",
+        "BS8_1"
+      ],
+      "sourceLine": 163,
+      "section": "",
+      "label": "26"
+    },
+    {
+      "id": "deep-face-model-bs8-1-164",
+      "path": [
+        "26"
+      ],
+      "question": "Course",
+      "answer": "Passes in the lateral wall of the cavernous sinus and exits through the superior orbital fissure.",
+      "tags": [
+        "Course",
+        "Nerve",
+        "BS8_1"
+      ],
+      "sourceLine": 164,
+      "section": "",
+      "label": "26"
+    },
+    {
+      "id": "deep-face-model-bs8-1-165",
+      "path": [
+        "26"
+      ],
+      "question": "Sensory functions",
+      "answer": "Supplies cornea, upper eyelid, forehead, scalp, dorsum of nose and parts of nasal cavity and cranial dura.",
+      "tags": [
+        "Sensory",
+        "Nerve",
+        "BS8_1"
+      ],
+      "sourceLine": 165,
+      "section": "",
+      "label": "26"
+    },
+    {
+      "id": "deep-face-model-bs8-1-166",
+      "path": [
+        "26"
+      ],
+      "question": "Motor functions",
+      "answer": "None; purely sensory.",
+      "tags": [
+        "Motor",
+        "Nerve",
+        "BS8_1"
+      ],
+      "sourceLine": 166,
+      "section": "",
+      "label": "26"
+    },
+    {
+      "id": "deep-face-model-bs8-1-167",
+      "path": [
+        "26"
+      ],
+      "question": "Lesion",
+      "answer": "Causes sensory loss over the forehead, cornea and dorsum of the nose, with loss or reduction of the afferent limb of the corneal reflex.",
+      "tags": [
+        "Lesion",
+        "Nerve",
+        "BS8_1"
+      ],
+      "sourceLine": 167,
+      "section": "",
+      "label": "26"
+    },
+    {
+      "id": "deep-face-model-bs8-1-170",
+      "path": [
+        "27"
+      ],
+      "question": "Identification",
+      "answer": "Maxillary nerve",
+      "tags": [
+        "Identification",
+        "Nerve",
+        "BS8_1"
+      ],
+      "sourceLine": 170,
+      "section": "",
+      "label": "27"
+    },
+    {
+      "id": "deep-face-model-bs8-1-171",
+      "path": [
+        "27"
+      ],
+      "question": "Course",
+      "answer": "Passes in the lateral wall of the cavernous sinus, exits via foramen rotundum and enters the pterygopalatine fossa.",
+      "tags": [
+        "Course",
+        "Nerve",
+        "BS8_1"
+      ],
+      "sourceLine": 171,
+      "section": "",
+      "label": "27"
+    },
+    {
+      "id": "deep-face-model-bs8-1-172",
+      "path": [
+        "27"
+      ],
+      "question": "Sensory functions",
+      "answer": "Supplies midface, upper lip, maxillary teeth, palate and parts of nasal cavity.",
+      "tags": [
+        "Sensory",
+        "Nerve",
+        "BS8_1"
+      ],
+      "sourceLine": 172,
+      "section": "",
+      "label": "27"
+    },
+    {
+      "id": "deep-face-model-bs8-1-173",
+      "path": [
+        "27"
+      ],
+      "question": "Motor functions",
+      "answer": "None; purely sensory.",
+      "tags": [
+        "Motor",
+        "Nerve",
+        "BS8_1"
+      ],
+      "sourceLine": 173,
+      "section": "",
+      "label": "27"
+    },
+    {
+      "id": "deep-face-model-bs8-1-174",
+      "path": [
+        "27"
+      ],
+      "question": "Lesion",
+      "answer": "Causes sensory loss or paraesthesia over the midface, upper lip, maxillary teeth and palate; there is no motor deficit because V2 is purely sensory.",
+      "tags": [
+        "Lesion",
+        "Nerve",
+        "BS8_1"
+      ],
+      "sourceLine": 174,
+      "section": "",
+      "label": "27"
+    },
+    {
+      "id": "deep-face-model-bs8-1-177",
+      "path": [
+        "28"
+      ],
+      "question": "Identification",
+      "answer": "Mandibular nerve",
+      "tags": [
+        "Identification",
+        "Nerve",
+        "BS8_1"
+      ],
+      "sourceLine": 177,
+      "section": "",
+      "label": "28"
+    },
+    {
+      "id": "deep-face-model-bs8-1-178",
+      "path": [
+        "28"
+      ],
+      "question": "Course",
+      "answer": "Exits cranial cavity through foramen ovale and enters the infratemporal fossa.",
+      "tags": [
+        "Course",
+        "Nerve",
+        "BS8_1"
+      ],
+      "sourceLine": 178,
+      "section": "",
+      "label": "28"
+    },
+    {
+      "id": "deep-face-model-bs8-1-179",
+      "path": [
+        "28"
+      ],
+      "question": "Motor functions",
+      "answer": "Supplies muscles of mastication, mylohyoid, anterior belly of digastric, tensor tympani and tensor veli palatini.",
+      "tags": [
+        "Motor",
+        "Nerve",
+        "BS8_1"
+      ],
+      "sourceLine": 179,
+      "section": "",
+      "label": "28"
+    },
+    {
+      "id": "deep-face-model-bs8-1-180",
+      "path": [
+        "28"
+      ],
+      "question": "Sensory functions",
+      "answer": "Supplies lower face, mandibular teeth, anterior two-thirds of tongue for general sensation and parts of external ear and dura.",
+      "tags": [
+        "Sensory",
+        "Nerve",
+        "BS8_1"
+      ],
+      "sourceLine": 180,
+      "section": "",
+      "label": "28"
+    },
+    {
+      "id": "deep-face-model-bs8-1-181",
+      "path": [
+        "28"
+      ],
+      "question": "Lesion",
+      "answer": "Causes sensory loss over the lower face, mandibular teeth and general sensation from the anterior two-thirds of the tongue; motor involvement weakens mastication and the jaw deviates toward the affected side on opening.",
+      "tags": [
+        "Lesion",
+        "Nerve",
+        "BS8_1"
+      ],
+      "sourceLine": 181,
+      "section": "",
+      "label": "28"
+    },
+    {
+      "id": "deep-face-model-bs8-1-184",
+      "path": [
+        "29"
+      ],
+      "question": "Identification",
+      "answer": "Olfactory nerves",
+      "tags": [
+        "Identification",
+        "Nerve",
+        "BS8_1"
+      ],
+      "sourceLine": 184,
+      "section": "",
+      "label": "29"
+    },
+    {
+      "id": "deep-face-model-bs8-1-185",
+      "path": [
+        "29"
+      ],
+      "question": "Roots",
+      "answer": "Special sensory fibres from olfactory receptor neurons in the olfactory epithelium.",
+      "tags": [
+        "Roots",
+        "Nerve",
+        "BS8_1"
+      ],
+      "sourceLine": 185,
+      "section": "",
+      "label": "29"
+    },
+    {
+      "id": "deep-face-model-bs8-1-186",
+      "path": [
+        "29"
+      ],
+      "question": "Course",
+      "answer": "Small fascicles pass through foramina in the cribriform plate to the olfactory bulb.",
+      "tags": [
+        "Course",
+        "Nerve",
+        "BS8_1"
+      ],
+      "sourceLine": 186,
+      "section": "",
+      "label": "29"
+    },
+    {
+      "id": "deep-face-model-bs8-1-187",
+      "path": [
+        "29"
+      ],
+      "question": "Sensory functions",
+      "answer": "Smell.",
+      "tags": [
+        "Sensory",
+        "Nerve",
+        "BS8_1"
+      ],
+      "sourceLine": 187,
+      "section": "",
+      "label": "29"
+    },
+    {
+      "id": "deep-face-model-bs8-1-188",
+      "path": [
+        "29"
+      ],
+      "question": "Lesion",
+      "answer": "Injury may cause anosmia and can occur with cribriform plate fractures.",
+      "tags": [
+        "Lesion",
+        "Nerve",
+        "BS8_1"
+      ],
+      "sourceLine": 188,
+      "section": "",
+      "label": "29"
+    },
+    {
+      "id": "deep-face-model-bs8-1-191",
+      "path": [
+        "30"
+      ],
+      "question": "Identification",
+      "answer": "Palatine nerves",
+      "tags": [
+        "Identification",
+        "Nerve",
+        "BS8_1"
+      ],
+      "sourceLine": 191,
+      "section": "",
+      "label": "30"
+    },
+    {
+      "id": "deep-face-model-bs8-1-192",
+      "path": [
+        "30"
+      ],
+      "question": "Roots",
+      "answer": "Branches associated with the maxillary nerve via the pterygopalatine ganglion.",
+      "tags": [
+        "Roots",
+        "Nerve",
+        "BS8_1"
+      ],
+      "sourceLine": 192,
+      "section": "",
+      "label": "30"
+    },
+    {
+      "id": "deep-face-model-bs8-1-193",
+      "path": [
+        "30"
+      ],
+      "question": "Course",
+      "answer": "Descend through the palatine canals to the palate as greater and lesser palatine nerves.",
+      "tags": [
+        "Course",
+        "Nerve",
+        "BS8_1"
+      ],
+      "sourceLine": 193,
+      "section": "",
+      "label": "30"
+    },
+    {
+      "id": "deep-face-model-bs8-1-194",
+      "path": [
+        "30"
+      ],
+      "question": "Sensory functions",
+      "answer": "General sensation from much of the hard and soft palate.",
+      "tags": [
+        "Sensory",
+        "Nerve",
+        "BS8_1"
+      ],
+      "sourceLine": 194,
+      "section": "",
+      "label": "30"
+    },
+    {
+      "id": "deep-face-model-bs8-1-195",
+      "path": [
+        "30"
+      ],
+      "question": "Parasympathetic functions",
+      "answer": "Carry postganglionic parasympathetic secretomotor fibres to palatal glands.",
+      "tags": [
+        "Parasympathetic",
+        "Nerve",
+        "BS8_1"
+      ],
+      "sourceLine": 195,
+      "section": "",
+      "label": "30"
+    },
+    {
+      "id": "deep-face-model-bs8-1-198",
+      "path": [
+        "31"
+      ],
+      "question": "Identification",
+      "answer": "Anterior ethmoidal nerve (branch of the ophthalmic nerve)",
+      "tags": [
+        "Identification",
+        "Nerve",
+        "BS8_1"
+      ],
+      "sourceLine": 198,
+      "section": "",
+      "label": "31"
+    },
+    {
+      "id": "deep-face-model-bs8-1-199",
+      "path": [
+        "31"
+      ],
+      "question": "Origin",
+      "answer": "Branch of the nasociliary nerve from ophthalmic division of trigeminal nerve (V1).",
+      "tags": [
+        "Origin",
+        "Nerve",
+        "BS8_1"
+      ],
+      "sourceLine": 199,
+      "section": "",
+      "label": "31"
+    },
+    {
+      "id": "deep-face-model-bs8-1-200",
+      "path": [
+        "31"
+      ],
+      "question": "Course",
+      "answer": "Passes through anterior ethmoidal foramen into anterior cranial fossa, then through cribriform region into nasal cavity.",
+      "tags": [
+        "Course",
+        "Nerve",
+        "BS8_1"
+      ],
+      "sourceLine": 200,
+      "section": "",
+      "label": "31"
+    },
+    {
+      "id": "deep-face-model-bs8-1-201",
+      "path": [
+        "31"
+      ],
+      "question": "Sensory functions",
+      "answer": "Supplies anterosuperior nasal cavity and skin of lower dorsum/tip of nose via external nasal branch.",
+      "tags": [
+        "Sensory",
+        "Nerve",
+        "BS8_1"
+      ],
+      "sourceLine": 201,
+      "section": "",
+      "label": "31"
+    },
+    {
+      "id": "deep-face-model-bs8-1-204",
+      "path": [
+        "32"
+      ],
+      "question": "Identification",
+      "answer": "Greater palatine nerve",
+      "tags": [
+        "Identification",
+        "Nerve",
+        "BS8_1"
+      ],
+      "sourceLine": 204,
+      "section": "",
+      "label": "32"
+    },
+    {
+      "id": "deep-face-model-bs8-1-205",
+      "path": [
+        "32"
+      ],
+      "question": "Roots",
+      "answer": "Branch of maxillary nerve distribution via the pterygopalatine ganglion.",
+      "tags": [
+        "Roots",
+        "Nerve",
+        "BS8_1"
+      ],
+      "sourceLine": 205,
+      "section": "",
+      "label": "32"
+    },
+    {
+      "id": "deep-face-model-bs8-1-206",
+      "path": [
+        "32"
+      ],
+      "question": "Course",
+      "answer": "Descends through greater palatine canal and emerges through greater palatine foramen to run anteriorly on hard palate.",
+      "tags": [
+        "Course",
+        "Nerve",
+        "BS8_1"
+      ],
+      "sourceLine": 206,
+      "section": "",
+      "label": "32"
+    },
+    {
+      "id": "deep-face-model-bs8-1-207",
+      "path": [
+        "32"
+      ],
+      "question": "Sensory functions",
+      "answer": "Supplies most of the hard palate and palatal gingiva.",
+      "tags": [
+        "Sensory",
+        "Nerve",
+        "BS8_1"
+      ],
+      "sourceLine": 207,
+      "section": "",
+      "label": "32"
+    },
+    {
+      "id": "deep-face-model-bs8-1-208",
+      "path": [
+        "32"
+      ],
+      "question": "Parasympathetic functions",
+      "answer": "Carries postganglionic secretomotor fibres to palatal glands.",
+      "tags": [
+        "Parasympathetic",
+        "Nerve",
+        "BS8_1"
+      ],
+      "sourceLine": 208,
+      "section": "",
+      "label": "32"
+    },
+    {
+      "id": "deep-face-model-bs8-1-211",
+      "path": [
+        "33"
+      ],
+      "question": "Identification",
+      "answer": "Nasopalatine nerve",
+      "tags": [
+        "Identification",
+        "Nerve",
+        "BS8_1"
+      ],
+      "sourceLine": 211,
+      "section": "",
+      "label": "33"
+    },
+    {
+      "id": "deep-face-model-bs8-1-212",
+      "path": [
+        "33"
+      ],
+      "question": "Roots",
+      "answer": "Branch of maxillary nerve distribution via the pterygopalatine ganglion.",
+      "tags": [
+        "Roots",
+        "Nerve",
+        "BS8_1"
+      ],
+      "sourceLine": 212,
+      "section": "",
+      "label": "33"
+    },
+    {
+      "id": "deep-face-model-bs8-1-213",
+      "path": [
+        "33"
+      ],
+      "question": "Course",
+      "answer": "Enters nasal cavity through sphenopalatine foramen, crosses nasal septum and passes through incisive canal.",
+      "tags": [
+        "Course",
+        "Nerve",
+        "BS8_1"
+      ],
+      "sourceLine": 213,
+      "section": "",
+      "label": "33"
+    },
+    {
+      "id": "deep-face-model-bs8-1-214",
+      "path": [
+        "33"
+      ],
+      "question": "Sensory functions",
+      "answer": "Supplies posterior/inferior nasal septum and anterior hard palate behind the incisors.",
+      "tags": [
+        "Sensory",
+        "Nerve",
+        "BS8_1"
+      ],
+      "sourceLine": 214,
+      "section": "",
+      "label": "33"
+    },
+    {
+      "id": "deep-face-model-bs8-1-217",
+      "path": [
+        "34"
+      ],
+      "question": "Identification",
+      "answer": "Lingual nerve",
+      "tags": [
+        "Identification",
+        "Nerve",
+        "BS8_1"
+      ],
+      "sourceLine": 217,
+      "section": "",
+      "label": "34"
+    },
+    {
+      "id": "deep-face-model-bs8-1-218",
+      "path": [
+        "34"
+      ],
+      "question": "Roots",
+      "answer": "Branch of posterior division of mandibular nerve (V3).",
+      "tags": [
+        "Roots",
+        "Nerve",
+        "BS8_1"
+      ],
+      "sourceLine": 218,
+      "section": "",
+      "label": "34"
+    },
+    {
+      "id": "deep-face-model-bs8-1-219",
+      "path": [
+        "34"
+      ],
+      "question": "Course",
+      "answer": "Descends in infratemporal fossa, passes close to mandibular third molar, then runs in floor of mouth around the submandibular duct.",
+      "tags": [
+        "Course",
+        "Nerve",
+        "BS8_1"
+      ],
+      "sourceLine": 219,
+      "section": "",
+      "label": "34"
+    },
+    {
+      "id": "deep-face-model-bs8-1-220",
+      "path": [
+        "34"
+      ],
+      "question": "Sensory functions",
+      "answer": "General sensation from anterior two-thirds of tongue, floor of mouth and lingual gingiva.",
+      "tags": [
+        "Sensory",
+        "Nerve",
+        "BS8_1"
+      ],
+      "sourceLine": 220,
+      "section": "",
+      "label": "34"
+    },
+    {
+      "id": "deep-face-model-bs8-1-221",
+      "path": [
+        "34"
+      ],
+      "question": "Parasympathetic functions",
+      "answer": "Carries chorda tympani taste fibres and preganglionic parasympathetic fibres to the submandibular ganglion.",
+      "tags": [
+        "Parasympathetic",
+        "Nerve",
+        "BS8_1"
+      ],
+      "sourceLine": 221,
+      "section": "",
+      "label": "34"
+    },
+    {
+      "id": "deep-face-model-bs8-1-222",
+      "path": [
+        "34"
+      ],
+      "question": "Lesion",
+      "answer": "Can cause loss of general sensation and taste from anterior tongue and reduced salivary secretion depending on lesion site.",
+      "tags": [
+        "Lesion",
+        "Nerve",
+        "BS8_1"
+      ],
+      "sourceLine": 222,
+      "section": "",
+      "label": "34"
+    },
+    {
+      "id": "deep-face-model-bs8-1-225",
+      "path": [
+        "35"
+      ],
+      "question": "Identification",
+      "answer": "Pterygopalatine ganglion",
+      "tags": [
+        "Identification",
+        "Ganglion",
+        "BS8_1"
+      ],
+      "sourceLine": 225,
+      "section": "",
+      "label": "35"
+    },
+    {
+      "id": "deep-face-model-bs8-1-226",
+      "path": [
+        "35"
+      ],
+      "question": "Location",
+      "answer": "Lies in the pterygopalatine fossa, suspended from the maxillary nerve.",
+      "tags": [
+        "Location",
+        "Ganglion",
+        "BS8_1"
+      ],
+      "sourceLine": 226,
+      "section": "",
+      "label": "35"
+    },
+    {
+      "id": "deep-face-model-bs8-1-227",
+      "path": [
+        "35"
+      ],
+      "question": "Function",
+      "answer": "Parasympathetic ganglion for lacrimal, nasal and palatal gland secretomotor pathways.",
+      "tags": [
+        "Function",
+        "Ganglion",
+        "BS8_1"
+      ],
+      "sourceLine": 227,
+      "section": "",
+      "label": "35"
+    },
+    {
+      "id": "deep-face-model-bs8-1-228",
+      "path": [
+        "35"
+      ],
+      "question": "Roots",
+      "answer": "Preganglionic parasympathetic fibres arrive via greater petrosal nerve and nerve of pterygoid canal; sympathetic and sensory fibres pass through without synapsing.",
+      "tags": [
+        "Roots",
+        "Ganglion",
+        "BS8_1"
+      ],
+      "sourceLine": 228,
+      "section": "",
+      "label": "35"
+    },
+    {
+      "id": "deep-face-model-bs8-1-229",
+      "path": [
+        "35"
+      ],
+      "question": "Branches",
+      "answer": "Distributes fibres through branches of V2, including palatine and nasal branches.",
+      "tags": [
+        "Branches",
+        "Ganglion",
+        "BS8_1"
+      ],
+      "sourceLine": 229,
+      "section": "",
+      "label": "35"
+    },
+    {
+      "id": "deep-face-model-bs8-1-232",
+      "path": [
+        "36"
+      ],
+      "question": "Identification",
+      "answer": "Vagus nerve",
+      "tags": [
+        "Identification",
+        "Nerve",
+        "BS8_1"
+      ],
+      "sourceLine": 232,
+      "section": "",
+      "label": "36"
+    },
+    {
+      "id": "deep-face-model-bs8-1-233",
+      "path": [
+        "36"
+      ],
+      "question": "Roots",
+      "answer": "Medullary nuclei including nucleus ambiguus, dorsal motor nucleus of vagus and nucleus solitarius pathways.",
+      "tags": [
+        "Roots",
+        "Nerve",
+        "BS8_1"
+      ],
+      "sourceLine": 233,
+      "section": "",
+      "label": "36"
+    },
+    {
+      "id": "deep-face-model-bs8-1-234",
+      "path": [
+        "36"
+      ],
+      "question": "Course",
+      "answer": "Emerges from postolivary sulcus, exits through jugular foramen and descends in the carotid sheath.",
+      "tags": [
+        "Course",
+        "Nerve",
+        "BS8_1"
+      ],
+      "sourceLine": 234,
+      "section": "",
+      "label": "36"
+    },
+    {
+      "id": "deep-face-model-bs8-1-235",
+      "path": [
+        "36"
+      ],
+      "question": "Motor functions",
+      "answer": "Supplies most muscles of the palate, pharynx and larynx.",
+      "tags": [
+        "Motor",
+        "Nerve",
+        "BS8_1"
+      ],
+      "sourceLine": 235,
+      "section": "",
+      "label": "36"
+    },
+    {
+      "id": "deep-face-model-bs8-1-236",
+      "path": [
+        "36"
+      ],
+      "question": "Sensory functions",
+      "answer": "Visceral sensation from thoracoabdominal organs and sensation from larynx/pharynx; taste from epiglottic region.",
+      "tags": [
+        "Sensory",
+        "Nerve",
+        "BS8_1"
+      ],
+      "sourceLine": 236,
+      "section": "",
+      "label": "36"
+    },
+    {
+      "id": "deep-face-model-bs8-1-237",
+      "path": [
+        "36"
+      ],
+      "question": "Parasympathetic functions",
+      "answer": "Provides parasympathetic supply to thoracic and much of abdominal viscera.",
+      "tags": [
+        "Parasympathetic",
+        "Nerve",
+        "BS8_1"
+      ],
+      "sourceLine": 237,
+      "section": "",
+      "label": "36"
+    },
+    {
+      "id": "deep-face-model-bs8-1-238",
+      "path": [
+        "36"
+      ],
+      "question": "Note",
+      "answer": "May have fallen off the physical model.",
+      "tags": [
+        "ModelNote",
+        "Nerve",
+        "BS8_1"
+      ],
+      "sourceLine": 238,
+      "section": "",
+      "label": "36"
+    },
+    {
+      "id": "deep-face-model-bs8-1-239",
+      "path": [
+        "36"
+      ],
+      "question": "Lesion",
+      "answer": "May cause dysphagia and hoarseness, ipsilateral palatal weakness with the uvula deviating away from the lesion, and loss of the efferent limb of the gag reflex.",
+      "tags": [
+        "Lesion",
+        "Nerve",
+        "BS8_1"
+      ],
+      "sourceLine": 239,
+      "section": "",
+      "label": "36"
+    },
+    {
+      "id": "deep-face-model-bs8-1-242",
+      "path": [
+        "37"
+      ],
+      "question": "Identification",
+      "answer": "Hypoglossal nerve",
+      "tags": [
+        "Identification",
+        "Nerve",
+        "BS8_1"
+      ],
+      "sourceLine": 242,
+      "section": "",
+      "label": "37"
+    },
+    {
+      "id": "deep-face-model-bs8-1-243",
+      "path": [
+        "37"
+      ],
+      "question": "Roots",
+      "answer": "Hypoglossal nucleus in the medulla.",
+      "tags": [
+        "Roots",
+        "Nerve",
+        "BS8_1"
+      ],
+      "sourceLine": 243,
+      "section": "",
+      "label": "37"
+    },
+    {
+      "id": "deep-face-model-bs8-1-244",
+      "path": [
+        "37"
+      ],
+      "question": "Course",
+      "answer": "Emerges between pyramid and olive, exits via hypoglossal canal and passes toward the tongue.",
+      "tags": [
+        "Course",
+        "Nerve",
+        "BS8_1"
+      ],
+      "sourceLine": 244,
+      "section": "",
+      "label": "37"
+    },
+    {
+      "id": "deep-face-model-bs8-1-245",
+      "path": [
+        "37"
+      ],
+      "question": "Motor functions",
+      "answer": "Supplies intrinsic and extrinsic tongue muscles except palatoglossus.",
+      "tags": [
+        "Motor",
+        "Nerve",
+        "BS8_1"
+      ],
+      "sourceLine": 245,
+      "section": "",
+      "label": "37"
+    },
+    {
+      "id": "deep-face-model-bs8-1-246",
+      "path": [
+        "37"
+      ],
+      "question": "Lesion",
+      "answer": "Lower motor neuron lesion causes ipsilateral tongue weakness, atrophy and deviation toward the lesion on protrusion.",
+      "tags": [
+        "Lesion",
+        "Nerve",
+        "BS8_1"
+      ],
+      "sourceLine": 246,
+      "section": "",
+      "label": "37"
+    }
+  ]
+}

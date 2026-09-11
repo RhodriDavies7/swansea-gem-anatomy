@@ -1,0 +1,4749 @@
+{
+  "id": "female-pelvis-model-mo8",
+  "name": "Female Pelvis (Model MO8)",
+  "cards": [
+    {
+      "id": "female-pelvis-model-mo8-2",
+      "path": [
+        "1"
+      ],
+      "question": "Identification",
+      "answer": "Pubis bone",
+      "tags": [
+        "Identification",
+        "Bone",
+        "MO8"
+      ],
+      "sourceLine": 2,
+      "section": "",
+      "label": "1"
+    },
+    {
+      "id": "female-pelvis-model-mo8-3",
+      "path": [
+        "1"
+      ],
+      "question": "Articulations",
+      "answer": "Articulates with the opposite pubis at the pubic symphysis and contributes to the acetabulum and obturator foramen.",
+      "tags": [
+        "Articulations",
+        "Bone",
+        "MO8"
+      ],
+      "sourceLine": 3,
+      "section": "",
+      "label": "1"
+    },
+    {
+      "id": "female-pelvis-model-mo8-4",
+      "path": [
+        "1"
+      ],
+      "question": "Landmarks",
+      "answer": "Body, superior ramus, inferior ramus, pubic crest, pubic tubercle and pecten pubis.",
+      "tags": [
+        "Landmarks",
+        "Bone",
+        "MO8"
+      ],
+      "sourceLine": 4,
+      "section": "",
+      "label": "1"
+    },
+    {
+      "id": "female-pelvis-model-mo8-5",
+      "path": [
+        "1"
+      ],
+      "question": "Attachments",
+      "answer": "Provides attachment for adductor muscles, gracilis, rectus abdominis and pelvic/perineal structures.",
+      "tags": [
+        "Attachments",
+        "Bone",
+        "MO8"
+      ],
+      "sourceLine": 5,
+      "section": "",
+      "label": "1"
+    },
+    {
+      "id": "female-pelvis-model-mo8-8",
+      "path": [
+        "2"
+      ],
+      "question": "Identification",
+      "answer": "Ischium bone",
+      "tags": [
+        "Identification",
+        "Bone",
+        "MO8"
+      ],
+      "sourceLine": 8,
+      "section": "",
+      "label": "2"
+    },
+    {
+      "id": "female-pelvis-model-mo8-9",
+      "path": [
+        "2"
+      ],
+      "question": "Articulations",
+      "answer": "Contributes to the acetabulum and joins the pubis anteriorly and ilium superiorly.",
+      "tags": [
+        "Articulations",
+        "Bone",
+        "MO8"
+      ],
+      "sourceLine": 9,
+      "section": "",
+      "label": "2"
+    },
+    {
+      "id": "female-pelvis-model-mo8-10",
+      "path": [
+        "2"
+      ],
+      "question": "Landmarks",
+      "answer": "Ischial spine, ischial tuberosity, lesser sciatic notch and ramus.",
+      "tags": [
+        "Landmarks",
+        "Bone",
+        "MO8"
+      ],
+      "sourceLine": 10,
+      "section": "",
+      "label": "2"
+    },
+    {
+      "id": "female-pelvis-model-mo8-11",
+      "path": [
+        "2"
+      ],
+      "question": "Attachments",
+      "answer": "Provides attachment for hamstrings, sacrotuberous ligament and several pelvic/perineal muscles.",
+      "tags": [
+        "Attachments",
+        "Bone",
+        "MO8"
+      ],
+      "sourceLine": 11,
+      "section": "",
+      "label": "2"
+    },
+    {
+      "id": "female-pelvis-model-mo8-14",
+      "path": [
+        "3"
+      ],
+      "question": "Identification",
+      "answer": "Ilium bone",
+      "tags": [
+        "Identification",
+        "Bone",
+        "MO8"
+      ],
+      "sourceLine": 14,
+      "section": "",
+      "label": "3"
+    },
+    {
+      "id": "female-pelvis-model-mo8-15",
+      "path": [
+        "3"
+      ],
+      "question": "Articulations",
+      "answer": "Articulates with sacrum at the sacroiliac joint and contributes to the acetabulum.",
+      "tags": [
+        "Articulations",
+        "Bone",
+        "MO8"
+      ],
+      "sourceLine": 15,
+      "section": "",
+      "label": "3"
+    },
+    {
+      "id": "female-pelvis-model-mo8-16",
+      "path": [
+        "3"
+      ],
+      "question": "Landmarks",
+      "answer": "Iliac crest, ASIS, AIIS, PSIS, PIIS, iliac fossa and greater sciatic notch.",
+      "tags": [
+        "Landmarks",
+        "Bone",
+        "MO8"
+      ],
+      "sourceLine": 16,
+      "section": "",
+      "label": "3"
+    },
+    {
+      "id": "female-pelvis-model-mo8-17",
+      "path": [
+        "3"
+      ],
+      "question": "Attachments",
+      "answer": "Provides broad attachment for abdominal, gluteal and iliacus muscles.",
+      "tags": [
+        "Attachments",
+        "Bone",
+        "MO8"
+      ],
+      "sourceLine": 17,
+      "section": "",
+      "label": "3"
+    },
+    {
+      "id": "female-pelvis-model-mo8-20",
+      "path": [
+        "4"
+      ],
+      "question": "Identification",
+      "answer": "Iliac crest",
+      "tags": [
+        "Identification",
+        "BonyLandmark",
+        "MO8"
+      ],
+      "sourceLine": 20,
+      "section": "",
+      "label": "4"
+    },
+    {
+      "id": "female-pelvis-model-mo8-21",
+      "path": [
+        "4"
+      ],
+      "question": "Bone",
+      "answer": "Superior border of the ilium.",
+      "tags": [
+        "Bone",
+        "BonyLandmark",
+        "MO8"
+      ],
+      "sourceLine": 21,
+      "section": "",
+      "label": "4"
+    },
+    {
+      "id": "female-pelvis-model-mo8-22",
+      "path": [
+        "4"
+      ],
+      "question": "Attachments",
+      "answer": "Attachment for abdominal wall muscles, fascia lata and back muscles.",
+      "tags": [
+        "Attachments",
+        "BonyLandmark",
+        "MO8"
+      ],
+      "sourceLine": 22,
+      "section": "",
+      "label": "4"
+    },
+    {
+      "id": "female-pelvis-model-mo8-23",
+      "path": [
+        "4"
+      ],
+      "question": "Clinical relevance",
+      "answer": "Highest point is near the L4 vertebral level and is used as a surface landmark.",
+      "tags": [
+        "Clinical",
+        "BonyLandmark",
+        "MO8"
+      ],
+      "sourceLine": 23,
+      "section": "",
+      "label": "4"
+    },
+    {
+      "id": "female-pelvis-model-mo8-26",
+      "path": [
+        "5"
+      ],
+      "question": "Identification",
+      "answer": "Acetabulum",
+      "tags": [
+        "Identification",
+        "BonyLandmark",
+        "MO8"
+      ],
+      "sourceLine": 26,
+      "section": "",
+      "label": "5"
+    },
+    {
+      "id": "female-pelvis-model-mo8-27",
+      "path": [
+        "5"
+      ],
+      "question": "Bone",
+      "answer": "Cup-shaped socket formed by ilium, ischium and pubis.",
+      "tags": [
+        "Bone",
+        "BonyLandmark",
+        "MO8"
+      ],
+      "sourceLine": 27,
+      "section": "",
+      "label": "5"
+    },
+    {
+      "id": "female-pelvis-model-mo8-28",
+      "path": [
+        "5"
+      ],
+      "question": "Articulation",
+      "answer": "Articulates with the head of the femur to form the hip joint.",
+      "tags": [
+        "Articulations",
+        "BonyLandmark",
+        "MO8"
+      ],
+      "sourceLine": 28,
+      "section": "",
+      "label": "5"
+    },
+    {
+      "id": "female-pelvis-model-mo8-29",
+      "path": [
+        "5"
+      ],
+      "question": "Landmarks",
+      "answer": "Lunate surface, acetabular fossa and acetabular notch.",
+      "tags": [
+        "Landmarks",
+        "BonyLandmark",
+        "MO8"
+      ],
+      "sourceLine": 29,
+      "section": "",
+      "label": "5"
+    },
+    {
+      "id": "female-pelvis-model-mo8-32",
+      "path": [
+        "6"
+      ],
+      "question": "Identification",
+      "answer": "Ischial tuberosity",
+      "tags": [
+        "Identification",
+        "BonyLandmark",
+        "MO8"
+      ],
+      "sourceLine": 32,
+      "section": "",
+      "label": "6"
+    },
+    {
+      "id": "female-pelvis-model-mo8-33",
+      "path": [
+        "6"
+      ],
+      "question": "Bone",
+      "answer": "Inferior roughened prominence of the ischium.",
+      "tags": [
+        "Bone",
+        "BonyLandmark",
+        "MO8"
+      ],
+      "sourceLine": 33,
+      "section": "",
+      "label": "6"
+    },
+    {
+      "id": "female-pelvis-model-mo8-34",
+      "path": [
+        "6"
+      ],
+      "question": "Attachments",
+      "answer": "Hamstrings, adductor magnus and sacrotuberous ligament attach here.",
+      "tags": [
+        "Attachments",
+        "BonyLandmark",
+        "MO8"
+      ],
+      "sourceLine": 34,
+      "section": "",
+      "label": "6"
+    },
+    {
+      "id": "female-pelvis-model-mo8-35",
+      "path": [
+        "6"
+      ],
+      "question": "Clinical relevance",
+      "answer": "Weight-bearing point when sitting; important landmark for pudendal nerve blocks.",
+      "tags": [
+        "Clinical",
+        "BonyLandmark",
+        "MO8"
+      ],
+      "sourceLine": 35,
+      "section": "",
+      "label": "6"
+    },
+    {
+      "id": "female-pelvis-model-mo8-38",
+      "path": [
+        "7"
+      ],
+      "question": "Identification",
+      "answer": "Pubic symphysis",
+      "tags": [
+        "Identification",
+        "Joint",
+        "MO8"
+      ],
+      "sourceLine": 38,
+      "section": "",
+      "label": "7"
+    },
+    {
+      "id": "female-pelvis-model-mo8-39",
+      "path": [
+        "7"
+      ],
+      "question": "Type",
+      "answer": "Secondary cartilaginous joint between the bodies of the pubic bones.",
+      "tags": [
+        "Structure",
+        "Joint",
+        "MO8"
+      ],
+      "sourceLine": 39,
+      "section": "",
+      "label": "7"
+    },
+    {
+      "id": "female-pelvis-model-mo8-40",
+      "path": [
+        "7"
+      ],
+      "question": "Function",
+      "answer": "Provides a strong midline union with slight mobility, increasing during pregnancy.",
+      "tags": [
+        "Function",
+        "Joint",
+        "MO8"
+      ],
+      "sourceLine": 40,
+      "section": "",
+      "label": "7"
+    },
+    {
+      "id": "female-pelvis-model-mo8-41",
+      "path": [
+        "7"
+      ],
+      "question": "Relations",
+      "answer": "Lies anterior to the urinary bladder.",
+      "tags": [
+        "Relations",
+        "Joint",
+        "MO8"
+      ],
+      "sourceLine": 41,
+      "section": "",
+      "label": "7"
+    },
+    {
+      "id": "female-pelvis-model-mo8-44",
+      "path": [
+        "8"
+      ],
+      "question": "Identification",
+      "answer": "Sacrum",
+      "tags": [
+        "Identification",
+        "Bone",
+        "MO8"
+      ],
+      "sourceLine": 44,
+      "section": "",
+      "label": "8"
+    },
+    {
+      "id": "female-pelvis-model-mo8-45",
+      "path": [
+        "8"
+      ],
+      "question": "Articulations",
+      "answer": "Articulates with L5, both ilia and the coccyx.",
+      "tags": [
+        "Articulations",
+        "Bone",
+        "MO8"
+      ],
+      "sourceLine": 45,
+      "section": "",
+      "label": "8"
+    },
+    {
+      "id": "female-pelvis-model-mo8-46",
+      "path": [
+        "8"
+      ],
+      "question": "Landmarks",
+      "answer": "Sacral promontory, foramina, ala, sacral canal and sacral hiatus.",
+      "tags": [
+        "Landmarks",
+        "Bone",
+        "MO8"
+      ],
+      "sourceLine": 46,
+      "section": "",
+      "label": "8"
+    },
+    {
+      "id": "female-pelvis-model-mo8-47",
+      "path": [
+        "8"
+      ],
+      "question": "Relations",
+      "answer": "Forms posterior wall of the pelvis.",
+      "tags": [
+        "Relations",
+        "Bone",
+        "MO8"
+      ],
+      "sourceLine": 47,
+      "section": "",
+      "label": "8"
+    },
+    {
+      "id": "female-pelvis-model-mo8-50",
+      "path": [
+        "9"
+      ],
+      "question": "Identification",
+      "answer": "Coccyx",
+      "tags": [
+        "Identification",
+        "Bone",
+        "MO8"
+      ],
+      "sourceLine": 50,
+      "section": "",
+      "label": "9"
+    },
+    {
+      "id": "female-pelvis-model-mo8-51",
+      "path": [
+        "9"
+      ],
+      "question": "Articulations",
+      "answer": "Articulates superiorly with the sacrum.",
+      "tags": [
+        "Articulations",
+        "Bone",
+        "MO8"
+      ],
+      "sourceLine": 51,
+      "section": "",
+      "label": "9"
+    },
+    {
+      "id": "female-pelvis-model-mo8-52",
+      "path": [
+        "9"
+      ],
+      "question": "Attachments",
+      "answer": "Attachment for levator ani, coccygeus, gluteus maximus and anococcygeal ligament.",
+      "tags": [
+        "Attachments",
+        "Bone",
+        "MO8"
+      ],
+      "sourceLine": 52,
+      "section": "",
+      "label": "9"
+    },
+    {
+      "id": "female-pelvis-model-mo8-53",
+      "path": [
+        "9"
+      ],
+      "question": "Orientation",
+      "answer": "Curves anteriorly from the sacrum.",
+      "tags": [
+        "Orientation",
+        "Bone",
+        "MO8"
+      ],
+      "sourceLine": 53,
+      "section": "",
+      "label": "9"
+    },
+    {
+      "id": "female-pelvis-model-mo8-56",
+      "path": [
+        "10"
+      ],
+      "question": "Identification",
+      "answer": "5th lumbar vertebra",
+      "tags": [
+        "Identification",
+        "Bone",
+        "MO8"
+      ],
+      "sourceLine": 56,
+      "section": "",
+      "label": "10"
+    },
+    {
+      "id": "female-pelvis-model-mo8-57",
+      "path": [
+        "10"
+      ],
+      "question": "Articulations",
+      "answer": "Articulates superiorly with L4 and inferiorly with the sacrum.",
+      "tags": [
+        "Articulations",
+        "Bone",
+        "MO8"
+      ],
+      "sourceLine": 57,
+      "section": "",
+      "label": "10"
+    },
+    {
+      "id": "female-pelvis-model-mo8-58",
+      "path": [
+        "10"
+      ],
+      "question": "Relations",
+      "answer": "Forms the lumbosacral junction at L5–S1.",
+      "tags": [
+        "Relations",
+        "Bone",
+        "MO8"
+      ],
+      "sourceLine": 58,
+      "section": "",
+      "label": "10"
+    },
+    {
+      "id": "female-pelvis-model-mo8-59",
+      "path": [
+        "10"
+      ],
+      "question": "Clinical relevance",
+      "answer": "Important level for lumbosacral angle and load transmission into the pelvis.",
+      "tags": [
+        "Clinical",
+        "Bone",
+        "MO8"
+      ],
+      "sourceLine": 59,
+      "section": "",
+      "label": "10"
+    },
+    {
+      "id": "female-pelvis-model-mo8-62",
+      "path": [
+        "11"
+      ],
+      "question": "Identification",
+      "answer": "Sacral promontory",
+      "tags": [
+        "Identification",
+        "BonyLandmark",
+        "MO8"
+      ],
+      "sourceLine": 62,
+      "section": "",
+      "label": "11"
+    },
+    {
+      "id": "female-pelvis-model-mo8-63",
+      "path": [
+        "11"
+      ],
+      "question": "Bone",
+      "answer": "Anterior projecting margin of the body of S1.",
+      "tags": [
+        "Bone",
+        "BonyLandmark",
+        "MO8"
+      ],
+      "sourceLine": 63,
+      "section": "",
+      "label": "11"
+    },
+    {
+      "id": "female-pelvis-model-mo8-64",
+      "path": [
+        "11"
+      ],
+      "question": "Relations",
+      "answer": "Marks the posterior boundary of the pelvic inlet.",
+      "tags": [
+        "Relations",
+        "BonyLandmark",
+        "MO8"
+      ],
+      "sourceLine": 64,
+      "section": "",
+      "label": "11"
+    },
+    {
+      "id": "female-pelvis-model-mo8-65",
+      "path": [
+        "11"
+      ],
+      "question": "Clinical relevance",
+      "answer": "Used in obstetric assessment of pelvic dimensions.",
+      "tags": [
+        "Clinical",
+        "BonyLandmark",
+        "MO8"
+      ],
+      "sourceLine": 65,
+      "section": "",
+      "label": "11"
+    },
+    {
+      "id": "female-pelvis-model-mo8-68",
+      "path": [
+        "12"
+      ],
+      "question": "Identification",
+      "answer": "Sacrotuberous ligament",
+      "tags": [
+        "Identification",
+        "Ligament",
+        "MO8"
+      ],
+      "sourceLine": 68,
+      "section": "",
+      "label": "12"
+    },
+    {
+      "id": "female-pelvis-model-mo8-69",
+      "path": [
+        "12"
+      ],
+      "question": "Attachments",
+      "answer": "Extends from sacrum/coccyx and posterior ilium to the ischial tuberosity.",
+      "tags": [
+        "Attachments",
+        "Ligament",
+        "MO8"
+      ],
+      "sourceLine": 69,
+      "section": "",
+      "label": "12"
+    },
+    {
+      "id": "female-pelvis-model-mo8-70",
+      "path": [
+        "12"
+      ],
+      "question": "Function",
+      "answer": "Stabilises the sacroiliac region and converts sciatic notches into foramina with the sacrospinous ligament.",
+      "tags": [
+        "Function",
+        "Ligament",
+        "MO8"
+      ],
+      "sourceLine": 70,
+      "section": "",
+      "label": "12"
+    },
+    {
+      "id": "female-pelvis-model-mo8-71",
+      "path": [
+        "12"
+      ],
+      "question": "Relations",
+      "answer": "Forms part of the boundary of the greater and lesser sciatic foramina.",
+      "tags": [
+        "Relations",
+        "Ligament",
+        "MO8"
+      ],
+      "sourceLine": 71,
+      "section": "",
+      "label": "12"
+    },
+    {
+      "id": "female-pelvis-model-mo8-74",
+      "path": [
+        "13"
+      ],
+      "question": "Identification",
+      "answer": "Obturator membrane",
+      "tags": [
+        "Identification",
+        "Membrane",
+        "MO8"
+      ],
+      "sourceLine": 74,
+      "section": "",
+      "label": "13"
+    },
+    {
+      "id": "female-pelvis-model-mo8-75",
+      "path": [
+        "13"
+      ],
+      "question": "Attachments",
+      "answer": "Closes most of the obturator foramen, attaching to its bony margins.",
+      "tags": [
+        "Attachments",
+        "Membrane",
+        "MO8"
+      ],
+      "sourceLine": 75,
+      "section": "",
+      "label": "13"
+    },
+    {
+      "id": "female-pelvis-model-mo8-76",
+      "path": [
+        "13"
+      ],
+      "question": "Function",
+      "answer": "Provides muscle attachment and leaves the obturator canal for neurovascular passage.",
+      "tags": [
+        "Function",
+        "Membrane",
+        "MO8"
+      ],
+      "sourceLine": 76,
+      "section": "",
+      "label": "13"
+    },
+    {
+      "id": "female-pelvis-model-mo8-77",
+      "path": [
+        "13"
+      ],
+      "question": "Contents",
+      "answer": "Obturator nerve and vessels pass through the obturator canal.",
+      "tags": [
+        "Contents",
+        "Membrane",
+        "MO8"
+      ],
+      "sourceLine": 77,
+      "section": "",
+      "label": "13"
+    },
+    {
+      "id": "female-pelvis-model-mo8-80",
+      "path": [
+        "14"
+      ],
+      "question": "Identification",
+      "answer": "Iliacus muscle",
+      "tags": [
+        "Identification",
+        "Muscle",
+        "MO8"
+      ],
+      "sourceLine": 80,
+      "section": "",
+      "label": "14"
+    },
+    {
+      "id": "female-pelvis-model-mo8-81",
+      "path": [
+        "14"
+      ],
+      "question": "Actions",
+      "answer": "Flexes the hip and assists lateral rotation; with psoas major forms iliopsoas.",
+      "tags": [
+        "Action",
+        "Muscle",
+        "MO8"
+      ],
+      "sourceLine": 81,
+      "section": "",
+      "label": "14"
+    },
+    {
+      "id": "female-pelvis-model-mo8-82",
+      "path": [
+        "14"
+      ],
+      "question": "Innervation",
+      "answer": "Femoral nerve (L2–L3).",
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "MO8"
+      ],
+      "sourceLine": 82,
+      "section": "",
+      "label": "14"
+    },
+    {
+      "id": "female-pelvis-model-mo8-83",
+      "path": [
+        "14"
+      ],
+      "question": "Origin",
+      "answer": "Iliac fossa and inner lip of iliac crest.",
+      "tags": [
+        "Origin",
+        "Muscle",
+        "MO8"
+      ],
+      "sourceLine": 83,
+      "section": "",
+      "label": "14"
+    },
+    {
+      "id": "female-pelvis-model-mo8-84",
+      "path": [
+        "14"
+      ],
+      "question": "Insertion",
+      "answer": "Lesser trochanter via iliopsoas tendon.",
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "MO8"
+      ],
+      "sourceLine": 84,
+      "section": "",
+      "label": "14"
+    },
+    {
+      "id": "female-pelvis-model-mo8-87",
+      "path": [
+        "15"
+      ],
+      "question": "Identification",
+      "answer": "Psoas major muscle",
+      "tags": [
+        "Identification",
+        "Muscle",
+        "MO8"
+      ],
+      "sourceLine": 87,
+      "section": "",
+      "label": "15"
+    },
+    {
+      "id": "female-pelvis-model-mo8-88",
+      "path": [
+        "15"
+      ],
+      "question": "Actions",
+      "answer": "Flexes the hip and trunk; assists lateral rotation and stabilises lumbar spine.",
+      "tags": [
+        "Action",
+        "Muscle",
+        "MO8"
+      ],
+      "sourceLine": 88,
+      "section": "",
+      "label": "15"
+    },
+    {
+      "id": "female-pelvis-model-mo8-89",
+      "path": [
+        "15"
+      ],
+      "question": "Innervation",
+      "answer": "Anterior rami of L1–L3.",
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "MO8"
+      ],
+      "sourceLine": 89,
+      "section": "",
+      "label": "15"
+    },
+    {
+      "id": "female-pelvis-model-mo8-90",
+      "path": [
+        "15"
+      ],
+      "question": "Origin",
+      "answer": "Bodies, discs and transverse processes of T12–L5.",
+      "tags": [
+        "Origin",
+        "Muscle",
+        "MO8"
+      ],
+      "sourceLine": 90,
+      "section": "",
+      "label": "15"
+    },
+    {
+      "id": "female-pelvis-model-mo8-91",
+      "path": [
+        "15"
+      ],
+      "question": "Insertion",
+      "answer": "Lesser trochanter via iliopsoas tendon.",
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "MO8"
+      ],
+      "sourceLine": 91,
+      "section": "",
+      "label": "15"
+    },
+    {
+      "id": "female-pelvis-model-mo8-94",
+      "path": [
+        "16"
+      ],
+      "question": "Identification",
+      "answer": "Piriformis muscle",
+      "tags": [
+        "Identification",
+        "Muscle",
+        "MO8"
+      ],
+      "sourceLine": 94,
+      "section": "",
+      "label": "16"
+    },
+    {
+      "id": "female-pelvis-model-mo8-95",
+      "path": [
+        "16"
+      ],
+      "question": "Actions",
+      "answer": "Laterally rotates extended thigh, abducts flexed thigh and stabilises hip.",
+      "tags": [
+        "Action",
+        "Muscle",
+        "MO8"
+      ],
+      "sourceLine": 95,
+      "section": "",
+      "label": "16"
+    },
+    {
+      "id": "female-pelvis-model-mo8-96",
+      "path": [
+        "16"
+      ],
+      "question": "Innervation",
+      "answer": "Nerve to piriformis (S1–S2).",
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "MO8"
+      ],
+      "sourceLine": 96,
+      "section": "",
+      "label": "16"
+    },
+    {
+      "id": "female-pelvis-model-mo8-97",
+      "path": [
+        "16"
+      ],
+      "question": "Origin",
+      "answer": "Anterior surface of sacrum.",
+      "tags": [
+        "Origin",
+        "Muscle",
+        "MO8"
+      ],
+      "sourceLine": 97,
+      "section": "",
+      "label": "16"
+    },
+    {
+      "id": "female-pelvis-model-mo8-98",
+      "path": [
+        "16"
+      ],
+      "question": "Insertion",
+      "answer": "Superior border of greater trochanter.",
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "MO8"
+      ],
+      "sourceLine": 98,
+      "section": "",
+      "label": "16"
+    },
+    {
+      "id": "female-pelvis-model-mo8-101",
+      "path": [
+        "18"
+      ],
+      "question": "Identification",
+      "answer": "Obturator internus muscle",
+      "tags": [
+        "Identification",
+        "Muscle",
+        "MO8"
+      ],
+      "sourceLine": 101,
+      "section": "",
+      "label": "18"
+    },
+    {
+      "id": "female-pelvis-model-mo8-102",
+      "path": [
+        "18"
+      ],
+      "question": "Actions",
+      "answer": "Laterally rotates extended thigh, abducts flexed thigh and stabilises hip.",
+      "tags": [
+        "Action",
+        "Muscle",
+        "MO8"
+      ],
+      "sourceLine": 102,
+      "section": "",
+      "label": "18"
+    },
+    {
+      "id": "female-pelvis-model-mo8-103",
+      "path": [
+        "18"
+      ],
+      "question": "Innervation",
+      "answer": "Nerve to obturator internus (L5–S2).",
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "MO8"
+      ],
+      "sourceLine": 103,
+      "section": "",
+      "label": "18"
+    },
+    {
+      "id": "female-pelvis-model-mo8-104",
+      "path": [
+        "18"
+      ],
+      "question": "Origin",
+      "answer": "Pelvic surface of obturator membrane and surrounding bone.",
+      "tags": [
+        "Origin",
+        "Muscle",
+        "MO8"
+      ],
+      "sourceLine": 104,
+      "section": "",
+      "label": "18"
+    },
+    {
+      "id": "female-pelvis-model-mo8-105",
+      "path": [
+        "18"
+      ],
+      "question": "Insertion",
+      "answer": "Medial surface of greater trochanter.",
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "MO8"
+      ],
+      "sourceLine": 105,
+      "section": "",
+      "label": "18"
+    },
+    {
+      "id": "female-pelvis-model-mo8-108",
+      "path": [
+        "21"
+      ],
+      "question": "Identification",
+      "answer": "Bulbospongiosus muscle",
+      "tags": [
+        "Identification",
+        "Muscle",
+        "MO8"
+      ],
+      "sourceLine": 108,
+      "section": "",
+      "label": "21"
+    },
+    {
+      "id": "female-pelvis-model-mo8-109",
+      "path": [
+        "21"
+      ],
+      "question": "Actions",
+      "answer": "Compresses vestibular bulb and greater vestibular gland; narrows vaginal opening and assists clitoral erection.",
+      "tags": [
+        "Action",
+        "Muscle",
+        "MO8"
+      ],
+      "sourceLine": 109,
+      "section": "",
+      "label": "21"
+    },
+    {
+      "id": "female-pelvis-model-mo8-110",
+      "path": [
+        "21"
+      ],
+      "question": "Innervation",
+      "answer": "Deep branch of pudendal nerve (S2–S4).",
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "MO8"
+      ],
+      "sourceLine": 110,
+      "section": "",
+      "label": "21"
+    },
+    {
+      "id": "female-pelvis-model-mo8-111",
+      "path": [
+        "21"
+      ],
+      "question": "Origin",
+      "answer": "Perineal body.",
+      "tags": [
+        "Origin",
+        "Muscle",
+        "MO8"
+      ],
+      "sourceLine": 111,
+      "section": "",
+      "label": "21"
+    },
+    {
+      "id": "female-pelvis-model-mo8-112",
+      "path": [
+        "21"
+      ],
+      "question": "Insertion",
+      "answer": "Perineal membrane, clitoral tissues and surrounding fascia.",
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "MO8"
+      ],
+      "sourceLine": 112,
+      "section": "",
+      "label": "21"
+    },
+    {
+      "id": "female-pelvis-model-mo8-115",
+      "path": [
+        "22"
+      ],
+      "question": "Identification",
+      "answer": "Ischiocavernosus muscle",
+      "tags": [
+        "Identification",
+        "Muscle",
+        "MO8"
+      ],
+      "sourceLine": 115,
+      "section": "",
+      "label": "22"
+    },
+    {
+      "id": "female-pelvis-model-mo8-116",
+      "path": [
+        "22"
+      ],
+      "question": "Actions",
+      "answer": "Compresses the crus of clitoris and helps maintain clitoral erection.",
+      "tags": [
+        "Action",
+        "Muscle",
+        "MO8"
+      ],
+      "sourceLine": 116,
+      "section": "",
+      "label": "22"
+    },
+    {
+      "id": "female-pelvis-model-mo8-117",
+      "path": [
+        "22"
+      ],
+      "question": "Innervation",
+      "answer": "Deep branch of pudendal nerve (S2–S4).",
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "MO8"
+      ],
+      "sourceLine": 117,
+      "section": "",
+      "label": "22"
+    },
+    {
+      "id": "female-pelvis-model-mo8-118",
+      "path": [
+        "22"
+      ],
+      "question": "Origin",
+      "answer": "Ischial tuberosity and ischiopubic ramus.",
+      "tags": [
+        "Origin",
+        "Muscle",
+        "MO8"
+      ],
+      "sourceLine": 118,
+      "section": "",
+      "label": "22"
+    },
+    {
+      "id": "female-pelvis-model-mo8-119",
+      "path": [
+        "22"
+      ],
+      "question": "Insertion",
+      "answer": "Crus of clitoris/perineal membrane.",
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "MO8"
+      ],
+      "sourceLine": 119,
+      "section": "",
+      "label": "22"
+    },
+    {
+      "id": "female-pelvis-model-mo8-122",
+      "path": [
+        "23"
+      ],
+      "question": "Identification",
+      "answer": "External anal sphincter",
+      "tags": [
+        "Identification",
+        "Muscle",
+        "MO8"
+      ],
+      "sourceLine": 122,
+      "section": "",
+      "label": "23"
+    },
+    {
+      "id": "female-pelvis-model-mo8-123",
+      "path": [
+        "23"
+      ],
+      "question": "Actions",
+      "answer": "Voluntarily constricts the anal canal and contributes to faecal continence.",
+      "tags": [
+        "Action",
+        "Muscle",
+        "MO8"
+      ],
+      "sourceLine": 123,
+      "section": "",
+      "label": "23"
+    },
+    {
+      "id": "female-pelvis-model-mo8-124",
+      "path": [
+        "23"
+      ],
+      "question": "Innervation",
+      "answer": "Inferior rectal nerve from pudendal nerve (S2–S4), with S4 contribution.",
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "MO8"
+      ],
+      "sourceLine": 124,
+      "section": "",
+      "label": "23"
+    },
+    {
+      "id": "female-pelvis-model-mo8-125",
+      "path": [
+        "23"
+      ],
+      "question": "Origin",
+      "answer": "Perineal body and tissues around anal canal.",
+      "tags": [
+        "Origin",
+        "Muscle",
+        "MO8"
+      ],
+      "sourceLine": 125,
+      "section": "",
+      "label": "23"
+    },
+    {
+      "id": "female-pelvis-model-mo8-126",
+      "path": [
+        "23"
+      ],
+      "question": "Insertion",
+      "answer": "Anococcygeal ligament/coccyx region.",
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "MO8"
+      ],
+      "sourceLine": 126,
+      "section": "",
+      "label": "23"
+    },
+    {
+      "id": "female-pelvis-model-mo8-129",
+      "path": [
+        "31"
+      ],
+      "question": "Identification",
+      "answer": "Deep transverse perineal muscle",
+      "tags": [
+        "Identification",
+        "Muscle",
+        "MO8"
+      ],
+      "sourceLine": 129,
+      "section": "",
+      "label": "31"
+    },
+    {
+      "id": "female-pelvis-model-mo8-130",
+      "path": [
+        "31"
+      ],
+      "question": "Actions",
+      "answer": "Supports the perineal body and pelvic floor and helps stabilise pelvic viscera.",
+      "tags": [
+        "Action",
+        "Muscle",
+        "MO8"
+      ],
+      "sourceLine": 130,
+      "section": "",
+      "label": "31"
+    },
+    {
+      "id": "female-pelvis-model-mo8-131",
+      "path": [
+        "31"
+      ],
+      "question": "Innervation",
+      "answer": "Deep branch of pudendal nerve (S2–S4).",
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "MO8"
+      ],
+      "sourceLine": 131,
+      "section": "",
+      "label": "31"
+    },
+    {
+      "id": "female-pelvis-model-mo8-132",
+      "path": [
+        "31"
+      ],
+      "question": "Origin",
+      "answer": "Ischiopubic ramus.",
+      "tags": [
+        "Origin",
+        "Muscle",
+        "MO8"
+      ],
+      "sourceLine": 132,
+      "section": "",
+      "label": "31"
+    },
+    {
+      "id": "female-pelvis-model-mo8-133",
+      "path": [
+        "31"
+      ],
+      "question": "Insertion",
+      "answer": "Perineal body and contralateral fibres.",
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "MO8"
+      ],
+      "sourceLine": 133,
+      "section": "",
+      "label": "31"
+    },
+    {
+      "id": "female-pelvis-model-mo8-136",
+      "path": [
+        "17"
+      ],
+      "question": "Identification",
+      "answer": "Levator ani muscle group",
+      "tags": [
+        "Identification",
+        "MuscleGroup",
+        "MO8"
+      ],
+      "sourceLine": 136,
+      "section": "",
+      "label": "17"
+    },
+    {
+      "id": "female-pelvis-model-mo8-137",
+      "path": [
+        "17"
+      ],
+      "question": "Function",
+      "answer": "Forms most of the pelvic diaphragm, supports pelvic viscera and contributes to urinary and faecal continence.",
+      "tags": [
+        "Function",
+        "MuscleGroup",
+        "MO8"
+      ],
+      "sourceLine": 137,
+      "section": "",
+      "label": "17"
+    },
+    {
+      "id": "female-pelvis-model-mo8-138",
+      "path": [
+        "17"
+      ],
+      "question": "Innervation",
+      "answer": "Mainly nerve to levator ani (S3–S4), with contributions from pudendal nerve.",
+      "tags": [
+        "Innervation",
+        "MuscleGroup",
+        "MO8"
+      ],
+      "sourceLine": 138,
+      "section": "",
+      "label": "17"
+    },
+    {
+      "id": "female-pelvis-model-mo8-139",
+      "path": [
+        "17"
+      ],
+      "question": "Components",
+      "answer": "Pubococcygeus and iliococcygeus are major components; puborectalis is also usually included anatomically.",
+      "tags": [
+        "Components",
+        "MuscleGroup",
+        "MO8"
+      ],
+      "sourceLine": 139,
+      "section": "",
+      "label": "17"
+    },
+    {
+      "id": "female-pelvis-model-mo8-141",
+      "path": [
+        "17",
+        "a"
+      ],
+      "question": "Identification",
+      "answer": "Pubococcygeus muscle",
+      "tags": [
+        "Identification",
+        "Muscle",
+        "MO8"
+      ],
+      "sourceLine": 141,
+      "section": "",
+      "label": "17a"
+    },
+    {
+      "id": "female-pelvis-model-mo8-142",
+      "path": [
+        "17",
+        "a"
+      ],
+      "question": "Actions",
+      "answer": "Supports pelvic viscera and contributes to pelvic floor elevation and continence.",
+      "tags": [
+        "Action",
+        "Muscle",
+        "MO8"
+      ],
+      "sourceLine": 142,
+      "section": "",
+      "label": "17a"
+    },
+    {
+      "id": "female-pelvis-model-mo8-143",
+      "path": [
+        "17",
+        "a"
+      ],
+      "question": "Innervation",
+      "answer": "Nerve to levator ani (S3–S4), with pudendal contribution.",
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "MO8"
+      ],
+      "sourceLine": 143,
+      "section": "",
+      "label": "17a"
+    },
+    {
+      "id": "female-pelvis-model-mo8-144",
+      "path": [
+        "17",
+        "a"
+      ],
+      "question": "Origin",
+      "answer": "Body of pubis and anterior tendinous arch of obturator fascia.",
+      "tags": [
+        "Origin",
+        "Muscle",
+        "MO8"
+      ],
+      "sourceLine": 144,
+      "section": "",
+      "label": "17a"
+    },
+    {
+      "id": "female-pelvis-model-mo8-145",
+      "path": [
+        "17",
+        "a"
+      ],
+      "question": "Insertion",
+      "answer": "Perineal body, walls of pelvic viscera, anococcygeal body and coccyx region.",
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "MO8"
+      ],
+      "sourceLine": 145,
+      "section": "",
+      "label": "17a"
+    },
+    {
+      "id": "female-pelvis-model-mo8-147",
+      "path": [
+        "17",
+        "b"
+      ],
+      "question": "Identification",
+      "answer": "Iliococcygeus muscle",
+      "tags": [
+        "Identification",
+        "Muscle",
+        "MO8"
+      ],
+      "sourceLine": 147,
+      "section": "",
+      "label": "17b"
+    },
+    {
+      "id": "female-pelvis-model-mo8-148",
+      "path": [
+        "17",
+        "b"
+      ],
+      "question": "Actions",
+      "answer": "Supports pelvic viscera and elevates the pelvic floor.",
+      "tags": [
+        "Action",
+        "Muscle",
+        "MO8"
+      ],
+      "sourceLine": 148,
+      "section": "",
+      "label": "17b"
+    },
+    {
+      "id": "female-pelvis-model-mo8-149",
+      "path": [
+        "17",
+        "b"
+      ],
+      "question": "Innervation",
+      "answer": "Nerve to levator ani (S3–S4).",
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "MO8"
+      ],
+      "sourceLine": 149,
+      "section": "",
+      "label": "17b"
+    },
+    {
+      "id": "female-pelvis-model-mo8-150",
+      "path": [
+        "17",
+        "b"
+      ],
+      "question": "Origin",
+      "answer": "Tendinous arch of obturator fascia and ischial spine.",
+      "tags": [
+        "Origin",
+        "Muscle",
+        "MO8"
+      ],
+      "sourceLine": 150,
+      "section": "",
+      "label": "17b"
+    },
+    {
+      "id": "female-pelvis-model-mo8-151",
+      "path": [
+        "17",
+        "b"
+      ],
+      "question": "Insertion",
+      "answer": "Anococcygeal body/raphe and coccyx.",
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "MO8"
+      ],
+      "sourceLine": 151,
+      "section": "",
+      "label": "17b"
+    },
+    {
+      "id": "female-pelvis-model-mo8-153",
+      "path": [
+        "17",
+        "c"
+      ],
+      "question": "Identification",
+      "answer": "Coccygeus muscle (not a member of levator ani)",
+      "tags": [
+        "Identification",
+        "Muscle",
+        "MO8"
+      ],
+      "sourceLine": 153,
+      "section": "",
+      "label": "17c"
+    },
+    {
+      "id": "female-pelvis-model-mo8-154",
+      "path": [
+        "17",
+        "c"
+      ],
+      "question": "Actions",
+      "answer": "Supports pelvic viscera and draws coccyx anteriorly after defecation.",
+      "tags": [
+        "Action",
+        "Muscle",
+        "MO8"
+      ],
+      "sourceLine": 154,
+      "section": "",
+      "label": "17c"
+    },
+    {
+      "id": "female-pelvis-model-mo8-155",
+      "path": [
+        "17",
+        "c"
+      ],
+      "question": "Innervation",
+      "answer": "Anterior rami of S4–S5.",
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "MO8"
+      ],
+      "sourceLine": 155,
+      "section": "",
+      "label": "17c"
+    },
+    {
+      "id": "female-pelvis-model-mo8-156",
+      "path": [
+        "17",
+        "c"
+      ],
+      "question": "Origin",
+      "answer": "Ischial spine and sacrospinous ligament.",
+      "tags": [
+        "Origin",
+        "Muscle",
+        "MO8"
+      ],
+      "sourceLine": 156,
+      "section": "",
+      "label": "17c"
+    },
+    {
+      "id": "female-pelvis-model-mo8-157",
+      "path": [
+        "17",
+        "c"
+      ],
+      "question": "Insertion",
+      "answer": "Lateral margins of lower sacrum and coccyx.",
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "MO8"
+      ],
+      "sourceLine": 157,
+      "section": "",
+      "label": "17c"
+    },
+    {
+      "id": "female-pelvis-model-mo8-160",
+      "path": [
+        "19"
+      ],
+      "question": "Identification",
+      "answer": "Superficial transverse perineal muscle",
+      "tags": [
+        "Identification",
+        "Muscle",
+        "MO8"
+      ],
+      "sourceLine": 160,
+      "section": "",
+      "label": "19"
+    },
+    {
+      "id": "female-pelvis-model-mo8-161",
+      "path": [
+        "19"
+      ],
+      "question": "Actions",
+      "answer": "Stabilises the perineal body.",
+      "tags": [
+        "Action",
+        "Muscle",
+        "MO8"
+      ],
+      "sourceLine": 161,
+      "section": "",
+      "label": "19"
+    },
+    {
+      "id": "female-pelvis-model-mo8-162",
+      "path": [
+        "19"
+      ],
+      "question": "Innervation",
+      "answer": "Deep branch of pudendal nerve (S2–S4).",
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "MO8"
+      ],
+      "sourceLine": 162,
+      "section": "",
+      "label": "19"
+    },
+    {
+      "id": "female-pelvis-model-mo8-163",
+      "path": [
+        "19"
+      ],
+      "question": "Origin",
+      "answer": "Ischial tuberosity.",
+      "tags": [
+        "Origin",
+        "Muscle",
+        "MO8"
+      ],
+      "sourceLine": 163,
+      "section": "",
+      "label": "19"
+    },
+    {
+      "id": "female-pelvis-model-mo8-164",
+      "path": [
+        "19"
+      ],
+      "question": "Insertion",
+      "answer": "Perineal body.",
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "MO8"
+      ],
+      "sourceLine": 164,
+      "section": "",
+      "label": "19"
+    },
+    {
+      "id": "female-pelvis-model-mo8-166",
+      "path": [
+        "19",
+        "a"
+      ],
+      "question": "Identification",
+      "answer": "Greater vestibular gland (Bartholin's gland)",
+      "tags": [
+        "Identification",
+        "Gland",
+        "MO8"
+      ],
+      "sourceLine": 166,
+      "section": "",
+      "label": "19a"
+    },
+    {
+      "id": "female-pelvis-model-mo8-167",
+      "path": [
+        "19",
+        "a"
+      ],
+      "question": "Function",
+      "answer": "Secretes mucus that lubricates the vestibule, particularly during sexual arousal.",
+      "tags": [
+        "Function",
+        "Gland",
+        "MO8"
+      ],
+      "sourceLine": 167,
+      "section": "",
+      "label": "19a"
+    },
+    {
+      "id": "female-pelvis-model-mo8-168",
+      "path": [
+        "19",
+        "a"
+      ],
+      "question": "Location",
+      "answer": "Posterolateral to the vaginal opening in the superficial perineal pouch, deep to bulbospongiosus.",
+      "tags": [
+        "Location",
+        "Gland",
+        "MO8"
+      ],
+      "sourceLine": 168,
+      "section": "",
+      "label": "19a"
+    },
+    {
+      "id": "female-pelvis-model-mo8-169",
+      "path": [
+        "19",
+        "a"
+      ],
+      "question": "Drainage",
+      "answer": "Duct opens into the vestibule near the posterolateral vaginal opening.",
+      "tags": [
+        "Drainage",
+        "Gland",
+        "MO8"
+      ],
+      "sourceLine": 169,
+      "section": "",
+      "label": "19a"
+    },
+    {
+      "id": "female-pelvis-model-mo8-171",
+      "path": [
+        "19",
+        "b"
+      ],
+      "question": "Identification",
+      "answer": "Bulb of vestibule",
+      "tags": [
+        "Identification",
+        "ErectileTissue",
+        "MO8"
+      ],
+      "sourceLine": 171,
+      "section": "",
+      "label": "19b"
+    },
+    {
+      "id": "female-pelvis-model-mo8-172",
+      "path": [
+        "19",
+        "b"
+      ],
+      "question": "Structure",
+      "answer": "Paired elongated masses of erectile tissue flanking the vaginal opening.",
+      "tags": [
+        "Structure",
+        "ErectileTissue",
+        "MO8"
+      ],
+      "sourceLine": 172,
+      "section": "",
+      "label": "19b"
+    },
+    {
+      "id": "female-pelvis-model-mo8-173",
+      "path": [
+        "19",
+        "b"
+      ],
+      "question": "Function",
+      "answer": "Engorge during sexual arousal and contribute to narrowing of the vaginal opening.",
+      "tags": [
+        "Function",
+        "ErectileTissue",
+        "MO8"
+      ],
+      "sourceLine": 173,
+      "section": "",
+      "label": "19b"
+    },
+    {
+      "id": "female-pelvis-model-mo8-174",
+      "path": [
+        "19",
+        "b"
+      ],
+      "question": "Relations",
+      "answer": "Covered by bulbospongiosus muscle and lie in the superficial perineal pouch.",
+      "tags": [
+        "Relations",
+        "ErectileTissue",
+        "MO8"
+      ],
+      "sourceLine": 174,
+      "section": "",
+      "label": "19b"
+    },
+    {
+      "id": "female-pelvis-model-mo8-177",
+      "path": [
+        "20"
+      ],
+      "question": "Identification",
+      "answer": "Deep transverse perineal muscle and perineal membrane",
+      "tags": [
+        "Identification",
+        "PerinealStructure",
+        "MO8"
+      ],
+      "sourceLine": 177,
+      "section": "",
+      "label": "20"
+    },
+    {
+      "id": "female-pelvis-model-mo8-178",
+      "path": [
+        "20"
+      ],
+      "question": "Function",
+      "answer": "Helps stabilise the perineal body; the perineal membrane provides a strong fascial support across the urogenital triangle.",
+      "tags": [
+        "Function",
+        "PerinealStructure",
+        "MO8"
+      ],
+      "sourceLine": 178,
+      "section": "",
+      "label": "20"
+    },
+    {
+      "id": "female-pelvis-model-mo8-179",
+      "path": [
+        "20"
+      ],
+      "question": "Relations",
+      "answer": "Deep transverse perineal muscle lies in the deep perineal pouch adjacent to the perineal membrane.",
+      "tags": [
+        "Relations",
+        "PerinealStructure",
+        "MO8"
+      ],
+      "sourceLine": 179,
+      "section": "",
+      "label": "20"
+    },
+    {
+      "id": "female-pelvis-model-mo8-180",
+      "path": [
+        "20"
+      ],
+      "question": "Attachments",
+      "answer": "Perineal membrane attaches laterally to the ischiopubic rami.",
+      "tags": [
+        "Attachments",
+        "PerinealStructure",
+        "MO8"
+      ],
+      "sourceLine": 180,
+      "section": "",
+      "label": "20"
+    },
+    {
+      "id": "female-pelvis-model-mo8-183",
+      "path": [
+        "24"
+      ],
+      "question": "Identification",
+      "answer": "Labium majus",
+      "tags": [
+        "Identification",
+        "ExternalGenitalia",
+        "MO8"
+      ],
+      "sourceLine": 183,
+      "section": "",
+      "label": "24"
+    },
+    {
+      "id": "female-pelvis-model-mo8-184",
+      "path": [
+        "24"
+      ],
+      "question": "Structure",
+      "answer": "Paired hair-bearing skin folds containing fat and connective tissue.",
+      "tags": [
+        "Structure",
+        "ExternalGenitalia",
+        "MO8"
+      ],
+      "sourceLine": 184,
+      "section": "",
+      "label": "24"
+    },
+    {
+      "id": "female-pelvis-model-mo8-185",
+      "path": [
+        "24"
+      ],
+      "question": "Function",
+      "answer": "Protects the more medial vulval structures.",
+      "tags": [
+        "Function",
+        "ExternalGenitalia",
+        "MO8"
+      ],
+      "sourceLine": 185,
+      "section": "",
+      "label": "24"
+    },
+    {
+      "id": "female-pelvis-model-mo8-186",
+      "path": [
+        "24"
+      ],
+      "question": "Relations",
+      "answer": "Lies lateral to the labium minus and extends from mons pubis toward the perineum.",
+      "tags": [
+        "Relations",
+        "ExternalGenitalia",
+        "MO8"
+      ],
+      "sourceLine": 186,
+      "section": "",
+      "label": "24"
+    },
+    {
+      "id": "female-pelvis-model-mo8-189",
+      "path": [
+        "25"
+      ],
+      "question": "Identification",
+      "answer": "Labium minus",
+      "tags": [
+        "Identification",
+        "ExternalGenitalia",
+        "MO8"
+      ],
+      "sourceLine": 189,
+      "section": "",
+      "label": "25"
+    },
+    {
+      "id": "female-pelvis-model-mo8-190",
+      "path": [
+        "25"
+      ],
+      "question": "Structure",
+      "answer": "Paired thin hairless skin folds lacking substantial fat.",
+      "tags": [
+        "Structure",
+        "ExternalGenitalia",
+        "MO8"
+      ],
+      "sourceLine": 190,
+      "section": "",
+      "label": "25"
+    },
+    {
+      "id": "female-pelvis-model-mo8-191",
+      "path": [
+        "25"
+      ],
+      "question": "Function",
+      "answer": "Borders the vestibule and protects urethral and vaginal openings.",
+      "tags": [
+        "Function",
+        "ExternalGenitalia",
+        "MO8"
+      ],
+      "sourceLine": 191,
+      "section": "",
+      "label": "25"
+    },
+    {
+      "id": "female-pelvis-model-mo8-192",
+      "path": [
+        "25"
+      ],
+      "question": "Relations",
+      "answer": "Lies medial to labium majus and forms prepuce/frenulum around the clitoris anteriorly.",
+      "tags": [
+        "Relations",
+        "ExternalGenitalia",
+        "MO8"
+      ],
+      "sourceLine": 192,
+      "section": "",
+      "label": "25"
+    },
+    {
+      "id": "female-pelvis-model-mo8-195",
+      "path": [
+        "26"
+      ],
+      "question": "Identification",
+      "answer": "Clitoris",
+      "tags": [
+        "Identification",
+        "ErectileTissue",
+        "MO8"
+      ],
+      "sourceLine": 195,
+      "section": "",
+      "label": "26"
+    },
+    {
+      "id": "female-pelvis-model-mo8-196",
+      "path": [
+        "26"
+      ],
+      "question": "Function",
+      "answer": "Erectile sensory organ involved in sexual arousal.",
+      "tags": [
+        "Function",
+        "ErectileTissue",
+        "MO8"
+      ],
+      "sourceLine": 196,
+      "section": "",
+      "label": "26"
+    },
+    {
+      "id": "female-pelvis-model-mo8-197",
+      "path": [
+        "26"
+      ],
+      "question": "Parts",
+      "answer": "Root, body and glans; paired crura form the root.",
+      "tags": [
+        "Parts",
+        "ErectileTissue",
+        "MO8"
+      ],
+      "sourceLine": 197,
+      "section": "",
+      "label": "26"
+    },
+    {
+      "id": "female-pelvis-model-mo8-198",
+      "path": [
+        "26"
+      ],
+      "question": "Innervation",
+      "answer": "Somatic sensation mainly via dorsal nerve of clitoris from pudendal nerve.",
+      "tags": [
+        "Innervation",
+        "ErectileTissue",
+        "MO8"
+      ],
+      "sourceLine": 198,
+      "section": "",
+      "label": "26"
+    },
+    {
+      "id": "female-pelvis-model-mo8-201",
+      "path": [
+        "27"
+      ],
+      "question": "Identification",
+      "answer": "Prepuce",
+      "tags": [
+        "Identification",
+        "ExternalGenitalia",
+        "MO8"
+      ],
+      "sourceLine": 201,
+      "section": "",
+      "label": "27"
+    },
+    {
+      "id": "female-pelvis-model-mo8-202",
+      "path": [
+        "27"
+      ],
+      "question": "Structure",
+      "answer": "Fold of skin formed by anterior union of the labia minora over the glans clitoris.",
+      "tags": [
+        "Structure",
+        "ExternalGenitalia",
+        "MO8"
+      ],
+      "sourceLine": 202,
+      "section": "",
+      "label": "27"
+    },
+    {
+      "id": "female-pelvis-model-mo8-203",
+      "path": [
+        "27"
+      ],
+      "question": "Function",
+      "answer": "Covers and protects the glans clitoris.",
+      "tags": [
+        "Function",
+        "ExternalGenitalia",
+        "MO8"
+      ],
+      "sourceLine": 203,
+      "section": "",
+      "label": "27"
+    },
+    {
+      "id": "female-pelvis-model-mo8-206",
+      "path": [
+        "28"
+      ],
+      "question": "Identification",
+      "answer": "External opening of urethra",
+      "tags": [
+        "Identification",
+        "Opening",
+        "MO8"
+      ],
+      "sourceLine": 206,
+      "section": "",
+      "label": "28"
+    },
+    {
+      "id": "female-pelvis-model-mo8-207",
+      "path": [
+        "28"
+      ],
+      "question": "Location",
+      "answer": "Opens into the vestibule anterior to the vaginal opening.",
+      "tags": [
+        "Location",
+        "Opening",
+        "MO8"
+      ],
+      "sourceLine": 207,
+      "section": "",
+      "label": "28"
+    },
+    {
+      "id": "female-pelvis-model-mo8-208",
+      "path": [
+        "28"
+      ],
+      "question": "Function",
+      "answer": "External outlet for urine.",
+      "tags": [
+        "Function",
+        "Opening",
+        "MO8"
+      ],
+      "sourceLine": 208,
+      "section": "",
+      "label": "28"
+    },
+    {
+      "id": "female-pelvis-model-mo8-211",
+      "path": [
+        "29"
+      ],
+      "question": "Identification",
+      "answer": "External opening of vagina",
+      "tags": [
+        "Identification",
+        "Opening",
+        "MO8"
+      ],
+      "sourceLine": 211,
+      "section": "",
+      "label": "29"
+    },
+    {
+      "id": "female-pelvis-model-mo8-212",
+      "path": [
+        "29"
+      ],
+      "question": "Location",
+      "answer": "Opens into the vestibule posterior to the external urethral opening.",
+      "tags": [
+        "Location",
+        "Opening",
+        "MO8"
+      ],
+      "sourceLine": 212,
+      "section": "",
+      "label": "29"
+    },
+    {
+      "id": "female-pelvis-model-mo8-213",
+      "path": [
+        "29"
+      ],
+      "question": "Function",
+      "answer": "External opening of the vaginal canal.",
+      "tags": [
+        "Function",
+        "Opening",
+        "MO8"
+      ],
+      "sourceLine": 213,
+      "section": "",
+      "label": "29"
+    },
+    {
+      "id": "female-pelvis-model-mo8-216",
+      "path": [
+        "30"
+      ],
+      "question": "Identification",
+      "answer": "Vestibule of vagina",
+      "tags": [
+        "Identification",
+        "Space",
+        "MO8"
+      ],
+      "sourceLine": 216,
+      "section": "",
+      "label": "30"
+    },
+    {
+      "id": "female-pelvis-model-mo8-217",
+      "path": [
+        "30"
+      ],
+      "question": "Location",
+      "answer": "Space between the labia minora.",
+      "tags": [
+        "Location",
+        "Space",
+        "MO8"
+      ],
+      "sourceLine": 217,
+      "section": "",
+      "label": "30"
+    },
+    {
+      "id": "female-pelvis-model-mo8-218",
+      "path": [
+        "30"
+      ],
+      "question": "Contents",
+      "answer": "Contains the external urethral and vaginal openings and openings of greater vestibular glands.",
+      "tags": [
+        "Contents",
+        "Space",
+        "MO8"
+      ],
+      "sourceLine": 218,
+      "section": "",
+      "label": "30"
+    },
+    {
+      "id": "female-pelvis-model-mo8-219",
+      "path": [
+        "30"
+      ],
+      "question": "Function",
+      "answer": "Receives openings of urinary and reproductive tracts.",
+      "tags": [
+        "Function",
+        "Space",
+        "MO8"
+      ],
+      "sourceLine": 219,
+      "section": "",
+      "label": "30"
+    },
+    {
+      "id": "female-pelvis-model-mo8-222",
+      "path": [
+        "32"
+      ],
+      "question": "Identification",
+      "answer": "Inferior fascia of urogenital diaphragm",
+      "tags": [
+        "Identification",
+        "Fascia",
+        "MO8"
+      ],
+      "sourceLine": 222,
+      "section": "",
+      "label": "32"
+    },
+    {
+      "id": "female-pelvis-model-mo8-223",
+      "path": [
+        "32"
+      ],
+      "question": "Structure",
+      "answer": "Older terminology generally corresponding to the perineal membrane.",
+      "tags": [
+        "Structure",
+        "Fascia",
+        "MO8"
+      ],
+      "sourceLine": 223,
+      "section": "",
+      "label": "32"
+    },
+    {
+      "id": "female-pelvis-model-mo8-224",
+      "path": [
+        "32"
+      ],
+      "question": "Function",
+      "answer": "Supports structures of the urogenital triangle and provides muscular/fascial attachment.",
+      "tags": [
+        "Function",
+        "Fascia",
+        "MO8"
+      ],
+      "sourceLine": 224,
+      "section": "",
+      "label": "32"
+    },
+    {
+      "id": "female-pelvis-model-mo8-225",
+      "path": [
+        "32"
+      ],
+      "question": "Relations",
+      "answer": "Forms the inferior boundary of the deep perineal pouch.",
+      "tags": [
+        "Relations",
+        "Fascia",
+        "MO8"
+      ],
+      "sourceLine": 225,
+      "section": "",
+      "label": "32"
+    },
+    {
+      "id": "female-pelvis-model-mo8-228",
+      "path": [
+        "33"
+      ],
+      "question": "Identification",
+      "answer": "Common iliac artery",
+      "tags": [
+        "Identification",
+        "Artery",
+        "MO8"
+      ],
+      "sourceLine": 228,
+      "section": "",
+      "label": "33"
+    },
+    {
+      "id": "female-pelvis-model-mo8-229",
+      "path": [
+        "33"
+      ],
+      "question": "Origin",
+      "answer": "Bifurcation of abdominal aorta at about L4.",
+      "tags": [
+        "Origin",
+        "Artery",
+        "MO8"
+      ],
+      "sourceLine": 229,
+      "section": "",
+      "label": "33"
+    },
+    {
+      "id": "female-pelvis-model-mo8-230",
+      "path": [
+        "33"
+      ],
+      "question": "Course",
+      "answer": "Runs inferolaterally to divide into external and internal iliac arteries.",
+      "tags": [
+        "Course",
+        "Artery",
+        "MO8"
+      ],
+      "sourceLine": 230,
+      "section": "",
+      "label": "33"
+    },
+    {
+      "id": "female-pelvis-model-mo8-231",
+      "path": [
+        "33"
+      ],
+      "question": "Supply",
+      "answer": "Pelvis and lower limb through terminal branches.",
+      "tags": [
+        "Supply",
+        "Artery",
+        "MO8"
+      ],
+      "sourceLine": 231,
+      "section": "",
+      "label": "33"
+    },
+    {
+      "id": "female-pelvis-model-mo8-234",
+      "path": [
+        "36"
+      ],
+      "question": "Identification",
+      "answer": "External iliac artery",
+      "tags": [
+        "Identification",
+        "Artery",
+        "MO8"
+      ],
+      "sourceLine": 234,
+      "section": "",
+      "label": "36"
+    },
+    {
+      "id": "female-pelvis-model-mo8-235",
+      "path": [
+        "36"
+      ],
+      "question": "Origin",
+      "answer": "Terminal branch of common iliac artery.",
+      "tags": [
+        "Origin",
+        "Artery",
+        "MO8"
+      ],
+      "sourceLine": 235,
+      "section": "",
+      "label": "36"
+    },
+    {
+      "id": "female-pelvis-model-mo8-236",
+      "path": [
+        "36"
+      ],
+      "question": "Course",
+      "answer": "Runs along pelvic brim and passes under inguinal ligament to become femoral artery.",
+      "tags": [
+        "Course",
+        "Artery",
+        "MO8"
+      ],
+      "sourceLine": 236,
+      "section": "",
+      "label": "36"
+    },
+    {
+      "id": "female-pelvis-model-mo8-237",
+      "path": [
+        "36"
+      ],
+      "question": "Supply",
+      "answer": "Main arterial route to lower limb; also lower anterior abdominal wall.",
+      "tags": [
+        "Supply",
+        "Artery",
+        "MO8"
+      ],
+      "sourceLine": 237,
+      "section": "",
+      "label": "36"
+    },
+    {
+      "id": "female-pelvis-model-mo8-240",
+      "path": [
+        "37"
+      ],
+      "question": "Identification",
+      "answer": "Internal iliac artery",
+      "tags": [
+        "Identification",
+        "Artery",
+        "MO8"
+      ],
+      "sourceLine": 240,
+      "section": "",
+      "label": "37"
+    },
+    {
+      "id": "female-pelvis-model-mo8-241",
+      "path": [
+        "37"
+      ],
+      "question": "Origin",
+      "answer": "Terminal branch of common iliac artery.",
+      "tags": [
+        "Origin",
+        "Artery",
+        "MO8"
+      ],
+      "sourceLine": 241,
+      "section": "",
+      "label": "37"
+    },
+    {
+      "id": "female-pelvis-model-mo8-242",
+      "path": [
+        "37"
+      ],
+      "question": "Course",
+      "answer": "Descends into lesser pelvis and divides into anterior and posterior divisions.",
+      "tags": [
+        "Course",
+        "Artery",
+        "MO8"
+      ],
+      "sourceLine": 242,
+      "section": "",
+      "label": "37"
+    },
+    {
+      "id": "female-pelvis-model-mo8-243",
+      "path": [
+        "37"
+      ],
+      "question": "Supply",
+      "answer": "Pelvic viscera/walls, gluteal region and perineum.",
+      "tags": [
+        "Supply",
+        "Artery",
+        "MO8"
+      ],
+      "sourceLine": 243,
+      "section": "",
+      "label": "37"
+    },
+    {
+      "id": "female-pelvis-model-mo8-246",
+      "path": [
+        "38"
+      ],
+      "question": "Identification",
+      "answer": "Obturator artery",
+      "tags": [
+        "Identification",
+        "Artery",
+        "MO8"
+      ],
+      "sourceLine": 246,
+      "section": "",
+      "label": "38"
+    },
+    {
+      "id": "female-pelvis-model-mo8-247",
+      "path": [
+        "38"
+      ],
+      "question": "Origin",
+      "answer": "Usually anterior division of internal iliac artery.",
+      "tags": [
+        "Origin",
+        "Artery",
+        "MO8"
+      ],
+      "sourceLine": 247,
+      "section": "",
+      "label": "38"
+    },
+    {
+      "id": "female-pelvis-model-mo8-248",
+      "path": [
+        "38"
+      ],
+      "question": "Course",
+      "answer": "Runs on lateral pelvic wall through obturator canal.",
+      "tags": [
+        "Course",
+        "Artery",
+        "MO8"
+      ],
+      "sourceLine": 248,
+      "section": "",
+      "label": "38"
+    },
+    {
+      "id": "female-pelvis-model-mo8-249",
+      "path": [
+        "38"
+      ],
+      "question": "Supply",
+      "answer": "Medial thigh, hip region and pelvic structures.",
+      "tags": [
+        "Supply",
+        "Artery",
+        "MO8"
+      ],
+      "sourceLine": 249,
+      "section": "",
+      "label": "38"
+    },
+    {
+      "id": "female-pelvis-model-mo8-252",
+      "path": [
+        "39"
+      ],
+      "question": "Identification",
+      "answer": "Superior vesical artery",
+      "tags": [
+        "Identification",
+        "Artery",
+        "MO8"
+      ],
+      "sourceLine": 252,
+      "section": "",
+      "label": "39"
+    },
+    {
+      "id": "female-pelvis-model-mo8-253",
+      "path": [
+        "39"
+      ],
+      "question": "Origin",
+      "answer": "Usually arises from patent proximal umbilical artery.",
+      "tags": [
+        "Origin",
+        "Artery",
+        "MO8"
+      ],
+      "sourceLine": 253,
+      "section": "",
+      "label": "39"
+    },
+    {
+      "id": "female-pelvis-model-mo8-254",
+      "path": [
+        "39"
+      ],
+      "question": "Course",
+      "answer": "Passes to superior bladder.",
+      "tags": [
+        "Course",
+        "Artery",
+        "MO8"
+      ],
+      "sourceLine": 254,
+      "section": "",
+      "label": "39"
+    },
+    {
+      "id": "female-pelvis-model-mo8-255",
+      "path": [
+        "39"
+      ],
+      "question": "Supply",
+      "answer": "Superior urinary bladder and distal ureter.",
+      "tags": [
+        "Supply",
+        "Artery",
+        "MO8"
+      ],
+      "sourceLine": 255,
+      "section": "",
+      "label": "39"
+    },
+    {
+      "id": "female-pelvis-model-mo8-258",
+      "path": [
+        "40"
+      ],
+      "question": "Identification",
+      "answer": "Uterine artery",
+      "tags": [
+        "Identification",
+        "Artery",
+        "MO8"
+      ],
+      "sourceLine": 258,
+      "section": "",
+      "label": "40"
+    },
+    {
+      "id": "female-pelvis-model-mo8-259",
+      "path": [
+        "40"
+      ],
+      "question": "Origin",
+      "answer": "Anterior division of internal iliac artery.",
+      "tags": [
+        "Origin",
+        "Artery",
+        "MO8"
+      ],
+      "sourceLine": 259,
+      "section": "",
+      "label": "40"
+    },
+    {
+      "id": "female-pelvis-model-mo8-260",
+      "path": [
+        "40"
+      ],
+      "question": "Course",
+      "answer": "Runs medially in base of broad ligament, crosses superior to ureter, then ascends along uterus.",
+      "tags": [
+        "Course",
+        "Artery",
+        "MO8"
+      ],
+      "sourceLine": 260,
+      "section": "",
+      "label": "40"
+    },
+    {
+      "id": "female-pelvis-model-mo8-261",
+      "path": [
+        "40"
+      ],
+      "question": "Supply",
+      "answer": "Uterus, cervix, upper vagina and uterine tube via branches.",
+      "tags": [
+        "Supply",
+        "Artery",
+        "MO8"
+      ],
+      "sourceLine": 261,
+      "section": "",
+      "label": "40"
+    },
+    {
+      "id": "female-pelvis-model-mo8-264",
+      "path": [
+        "41"
+      ],
+      "question": "Identification",
+      "answer": "Superior gluteal artery",
+      "tags": [
+        "Identification",
+        "Artery",
+        "MO8"
+      ],
+      "sourceLine": 264,
+      "section": "",
+      "label": "41"
+    },
+    {
+      "id": "female-pelvis-model-mo8-265",
+      "path": [
+        "41"
+      ],
+      "question": "Origin",
+      "answer": "Posterior division of internal iliac artery.",
+      "tags": [
+        "Origin",
+        "Artery",
+        "MO8"
+      ],
+      "sourceLine": 265,
+      "section": "",
+      "label": "41"
+    },
+    {
+      "id": "female-pelvis-model-mo8-266",
+      "path": [
+        "41"
+      ],
+      "question": "Course",
+      "answer": "Exits greater sciatic foramen superior to piriformis.",
+      "tags": [
+        "Course",
+        "Artery",
+        "MO8"
+      ],
+      "sourceLine": 266,
+      "section": "",
+      "label": "41"
+    },
+    {
+      "id": "female-pelvis-model-mo8-267",
+      "path": [
+        "41"
+      ],
+      "question": "Supply",
+      "answer": "Gluteal region and adjacent muscles.",
+      "tags": [
+        "Supply",
+        "Artery",
+        "MO8"
+      ],
+      "sourceLine": 267,
+      "section": "",
+      "label": "41"
+    },
+    {
+      "id": "female-pelvis-model-mo8-270",
+      "path": [
+        "42"
+      ],
+      "question": "Identification",
+      "answer": "Inferior gluteal artery",
+      "tags": [
+        "Identification",
+        "Artery",
+        "MO8"
+      ],
+      "sourceLine": 270,
+      "section": "",
+      "label": "42"
+    },
+    {
+      "id": "female-pelvis-model-mo8-271",
+      "path": [
+        "42"
+      ],
+      "question": "Origin",
+      "answer": "Anterior division of internal iliac artery.",
+      "tags": [
+        "Origin",
+        "Artery",
+        "MO8"
+      ],
+      "sourceLine": 271,
+      "section": "",
+      "label": "42"
+    },
+    {
+      "id": "female-pelvis-model-mo8-272",
+      "path": [
+        "42"
+      ],
+      "question": "Course",
+      "answer": "Exits greater sciatic foramen inferior to piriformis.",
+      "tags": [
+        "Course",
+        "Artery",
+        "MO8"
+      ],
+      "sourceLine": 272,
+      "section": "",
+      "label": "42"
+    },
+    {
+      "id": "female-pelvis-model-mo8-273",
+      "path": [
+        "42"
+      ],
+      "question": "Supply",
+      "answer": "Gluteal region and proximal posterior thigh.",
+      "tags": [
+        "Supply",
+        "Artery",
+        "MO8"
+      ],
+      "sourceLine": 273,
+      "section": "",
+      "label": "42"
+    },
+    {
+      "id": "female-pelvis-model-mo8-276",
+      "path": [
+        "43"
+      ],
+      "question": "Identification",
+      "answer": "Internal pudendal artery",
+      "tags": [
+        "Identification",
+        "Artery",
+        "MO8"
+      ],
+      "sourceLine": 276,
+      "section": "",
+      "label": "43"
+    },
+    {
+      "id": "female-pelvis-model-mo8-277",
+      "path": [
+        "43"
+      ],
+      "question": "Origin",
+      "answer": "Anterior division of internal iliac artery.",
+      "tags": [
+        "Origin",
+        "Artery",
+        "MO8"
+      ],
+      "sourceLine": 277,
+      "section": "",
+      "label": "43"
+    },
+    {
+      "id": "female-pelvis-model-mo8-278",
+      "path": [
+        "43"
+      ],
+      "question": "Course",
+      "answer": "Exits greater sciatic foramen, hooks around ischial spine, enters lesser sciatic foramen and pudendal canal.",
+      "tags": [
+        "Course",
+        "Artery",
+        "MO8"
+      ],
+      "sourceLine": 278,
+      "section": "",
+      "label": "43"
+    },
+    {
+      "id": "female-pelvis-model-mo8-279",
+      "path": [
+        "43"
+      ],
+      "question": "Supply",
+      "answer": "Perineum and external genitalia.",
+      "tags": [
+        "Supply",
+        "Artery",
+        "MO8"
+      ],
+      "sourceLine": 279,
+      "section": "",
+      "label": "43"
+    },
+    {
+      "id": "female-pelvis-model-mo8-282",
+      "path": [
+        "34"
+      ],
+      "question": "Identification",
+      "answer": "Common iliac vein",
+      "tags": [
+        "Identification",
+        "Vein",
+        "MO8"
+      ],
+      "sourceLine": 282,
+      "section": "",
+      "label": "34"
+    },
+    {
+      "id": "female-pelvis-model-mo8-283",
+      "path": [
+        "34"
+      ],
+      "question": "Formation",
+      "answer": "Union of external and internal iliac veins.",
+      "tags": [
+        "Formation",
+        "Vein",
+        "MO8"
+      ],
+      "sourceLine": 283,
+      "section": "",
+      "label": "34"
+    },
+    {
+      "id": "female-pelvis-model-mo8-284",
+      "path": [
+        "34"
+      ],
+      "question": "Course",
+      "answer": "Ascends to join the opposite common iliac vein.",
+      "tags": [
+        "Course",
+        "Vein",
+        "MO8"
+      ],
+      "sourceLine": 284,
+      "section": "",
+      "label": "34"
+    },
+    {
+      "id": "female-pelvis-model-mo8-285",
+      "path": [
+        "34"
+      ],
+      "question": "Termination",
+      "answer": "Right and left common iliac veins form the inferior vena cava.",
+      "tags": [
+        "Termination",
+        "Vein",
+        "MO8"
+      ],
+      "sourceLine": 285,
+      "section": "",
+      "label": "34"
+    },
+    {
+      "id": "female-pelvis-model-mo8-288",
+      "path": [
+        "35"
+      ],
+      "question": "Identification",
+      "answer": "Inferior vena cava",
+      "tags": [
+        "Identification",
+        "Vein",
+        "MO8"
+      ],
+      "sourceLine": 288,
+      "section": "",
+      "label": "35"
+    },
+    {
+      "id": "female-pelvis-model-mo8-289",
+      "path": [
+        "35"
+      ],
+      "question": "Formation",
+      "answer": "Formed by union of right and left common iliac veins, usually at L5.",
+      "tags": [
+        "Formation",
+        "Vein",
+        "MO8"
+      ],
+      "sourceLine": 289,
+      "section": "",
+      "label": "35"
+    },
+    {
+      "id": "female-pelvis-model-mo8-290",
+      "path": [
+        "35"
+      ],
+      "question": "Course",
+      "answer": "Ascends on the right side of the vertebral column.",
+      "tags": [
+        "Course",
+        "Vein",
+        "MO8"
+      ],
+      "sourceLine": 290,
+      "section": "",
+      "label": "35"
+    },
+    {
+      "id": "female-pelvis-model-mo8-291",
+      "path": [
+        "35"
+      ],
+      "question": "Drainage",
+      "answer": "Returns venous blood from lower limbs, pelvis and abdomen to the right atrium.",
+      "tags": [
+        "Drainage",
+        "Vein",
+        "MO8"
+      ],
+      "sourceLine": 291,
+      "section": "",
+      "label": "35"
+    },
+    {
+      "id": "female-pelvis-model-mo8-294",
+      "path": [
+        "44"
+      ],
+      "question": "Identification",
+      "answer": "Sciatic nerve",
+      "tags": [
+        "Identification",
+        "Nerve",
+        "MO8"
+      ],
+      "sourceLine": 294,
+      "section": "",
+      "label": "44"
+    },
+    {
+      "id": "female-pelvis-model-mo8-295",
+      "path": [
+        "44"
+      ],
+      "question": "Roots",
+      "answer": "L4–S3 from the sacral plexus.",
+      "tags": [
+        "Roots",
+        "Nerve",
+        "MO8"
+      ],
+      "sourceLine": 295,
+      "section": "",
+      "label": "44"
+    },
+    {
+      "id": "female-pelvis-model-mo8-296",
+      "path": [
+        "44"
+      ],
+      "question": "Course",
+      "answer": "Leaves pelvis through greater sciatic foramen inferior to piriformis and descends in posterior thigh.",
+      "tags": [
+        "Course",
+        "Nerve",
+        "MO8"
+      ],
+      "sourceLine": 296,
+      "section": "",
+      "label": "44"
+    },
+    {
+      "id": "female-pelvis-model-mo8-297",
+      "path": [
+        "44"
+      ],
+      "question": "Motor functions",
+      "answer": "Supplies posterior thigh and, via tibial/common fibular branches, most muscles below the knee.",
+      "tags": [
+        "Motor",
+        "Nerve",
+        "MO8"
+      ],
+      "sourceLine": 297,
+      "section": "",
+      "label": "44"
+    },
+    {
+      "id": "female-pelvis-model-mo8-298",
+      "path": [
+        "44"
+      ],
+      "question": "Sensory functions",
+      "answer": "Indirectly supplies most of leg and foot through terminal branches.",
+      "tags": [
+        "Sensory",
+        "Nerve",
+        "MO8"
+      ],
+      "sourceLine": 298,
+      "section": "",
+      "label": "44"
+    },
+    {
+      "id": "female-pelvis-model-mo8-299",
+      "path": [
+        "44"
+      ],
+      "question": "Lesion",
+      "answer": "Proximal injury can cause weakness of knee flexion and severe weakness or paralysis of movements below the knee, with sensory loss over much of the leg and foot; the exact pattern depends on the level and which tibial/common fibular fibres are affected.",
+      "tags": [
+        "Lesion",
+        "Nerve",
+        "MO8"
+      ],
+      "sourceLine": 299,
+      "section": "",
+      "label": "44"
+    },
+    {
+      "id": "female-pelvis-model-mo8-302",
+      "path": [
+        "45"
+      ],
+      "question": "Identification",
+      "answer": "Sacral plexus",
+      "tags": [
+        "Identification",
+        "NervePlexus",
+        "MO8"
+      ],
+      "sourceLine": 302,
+      "section": "",
+      "label": "45"
+    },
+    {
+      "id": "female-pelvis-model-mo8-303",
+      "path": [
+        "45"
+      ],
+      "question": "Roots",
+      "answer": "L4–S4 anterior rami via lumbosacral trunk and sacral nerves.",
+      "tags": [
+        "Roots",
+        "NervePlexus",
+        "MO8"
+      ],
+      "sourceLine": 303,
+      "section": "",
+      "label": "45"
+    },
+    {
+      "id": "female-pelvis-model-mo8-304",
+      "path": [
+        "45"
+      ],
+      "question": "Location",
+      "answer": "On posterolateral pelvic wall, anterior to piriformis.",
+      "tags": [
+        "Location",
+        "NervePlexus",
+        "MO8"
+      ],
+      "sourceLine": 304,
+      "section": "",
+      "label": "45"
+    },
+    {
+      "id": "female-pelvis-model-mo8-305",
+      "path": [
+        "45"
+      ],
+      "question": "Branches",
+      "answer": "Includes sciatic, superior/inferior gluteal, pudendal, posterior femoral cutaneous and other nerves.",
+      "tags": [
+        "Branches",
+        "NervePlexus",
+        "MO8"
+      ],
+      "sourceLine": 305,
+      "section": "",
+      "label": "45"
+    },
+    {
+      "id": "female-pelvis-model-mo8-308",
+      "path": [
+        "46"
+      ],
+      "question": "Identification",
+      "answer": "Rectouterine pouch (pouch of Douglas)",
+      "tags": [
+        "Identification",
+        "PeritonealSpace",
+        "MO8"
+      ],
+      "sourceLine": 308,
+      "section": "",
+      "label": "46"
+    },
+    {
+      "id": "female-pelvis-model-mo8-309",
+      "path": [
+        "46"
+      ],
+      "question": "Location",
+      "answer": "Peritoneal recess between posterior uterus/cervix and anterior rectum.",
+      "tags": [
+        "Location",
+        "PeritonealSpace",
+        "MO8"
+      ],
+      "sourceLine": 309,
+      "section": "",
+      "label": "46"
+    },
+    {
+      "id": "female-pelvis-model-mo8-310",
+      "path": [
+        "46"
+      ],
+      "question": "Clinical relevance",
+      "answer": "Lowest part of the female peritoneal cavity when upright; fluid may collect here.",
+      "tags": [
+        "Clinical",
+        "PeritonealSpace",
+        "MO8"
+      ],
+      "sourceLine": 310,
+      "section": "",
+      "label": "46"
+    },
+    {
+      "id": "female-pelvis-model-mo8-311",
+      "path": [
+        "46"
+      ],
+      "question": "Relations",
+      "answer": "Can be accessed through the posterior vaginal fornix.",
+      "tags": [
+        "Relations",
+        "PeritonealSpace",
+        "MO8"
+      ],
+      "sourceLine": 311,
+      "section": "",
+      "label": "46"
+    },
+    {
+      "id": "female-pelvis-model-mo8-314",
+      "path": [
+        "47"
+      ],
+      "question": "Identification",
+      "answer": "Peritoneum",
+      "tags": [
+        "Identification",
+        "SerousMembrane",
+        "MO8"
+      ],
+      "sourceLine": 314,
+      "section": "",
+      "label": "47"
+    },
+    {
+      "id": "female-pelvis-model-mo8-315",
+      "path": [
+        "47"
+      ],
+      "question": "Definition",
+      "answer": "Serous membrane lining the abdominopelvic cavity and covering intraperitoneal viscera.",
+      "tags": [
+        "Definition",
+        "SerousMembrane",
+        "MO8"
+      ],
+      "sourceLine": 315,
+      "section": "",
+      "label": "47"
+    },
+    {
+      "id": "female-pelvis-model-mo8-316",
+      "path": [
+        "47"
+      ],
+      "question": "Layers",
+      "answer": "Parietal peritoneum lines the wall; visceral peritoneum covers organs.",
+      "tags": [
+        "Layers",
+        "SerousMembrane",
+        "MO8"
+      ],
+      "sourceLine": 316,
+      "section": "",
+      "label": "47"
+    },
+    {
+      "id": "female-pelvis-model-mo8-317",
+      "path": [
+        "47"
+      ],
+      "question": "Relations",
+      "answer": "Forms pelvic reflections including vesicouterine and rectouterine pouches.",
+      "tags": [
+        "Relations",
+        "SerousMembrane",
+        "MO8"
+      ],
+      "sourceLine": 317,
+      "section": "",
+      "label": "47"
+    },
+    {
+      "id": "female-pelvis-model-mo8-320",
+      "path": [
+        "48"
+      ],
+      "question": "Identification",
+      "answer": "Rectum",
+      "tags": [
+        "Identification",
+        "Organ",
+        "MO8"
+      ],
+      "sourceLine": 320,
+      "section": "",
+      "label": "48"
+    },
+    {
+      "id": "female-pelvis-model-mo8-321",
+      "path": [
+        "48"
+      ],
+      "question": "Function",
+      "answer": "Stores faeces before defecation.",
+      "tags": [
+        "Function",
+        "Organ",
+        "MO8"
+      ],
+      "sourceLine": 321,
+      "section": "",
+      "label": "48"
+    },
+    {
+      "id": "female-pelvis-model-mo8-322",
+      "path": [
+        "48"
+      ],
+      "question": "Course",
+      "answer": "Begins at rectosigmoid junction around S3 and continues to anorectal junction.",
+      "tags": [
+        "Course",
+        "Organ",
+        "MO8"
+      ],
+      "sourceLine": 322,
+      "section": "",
+      "label": "48"
+    },
+    {
+      "id": "female-pelvis-model-mo8-323",
+      "path": [
+        "48"
+      ],
+      "question": "Relations",
+      "answer": "Posterior to uterus and vagina; rectouterine pouch lies anteriorly in its upper part.",
+      "tags": [
+        "Relations",
+        "Organ",
+        "MO8"
+      ],
+      "sourceLine": 323,
+      "section": "",
+      "label": "48"
+    },
+    {
+      "id": "female-pelvis-model-mo8-324",
+      "path": [
+        "48"
+      ],
+      "question": "Blood supply",
+      "answer": "Superior rectal artery with middle/inferior rectal contributions.",
+      "tags": [
+        "BloodSupply",
+        "Organ",
+        "MO8"
+      ],
+      "sourceLine": 324,
+      "section": "",
+      "label": "48"
+    },
+    {
+      "id": "female-pelvis-model-mo8-327",
+      "path": [
+        "49"
+      ],
+      "question": "Identification",
+      "answer": "Uterus",
+      "tags": [
+        "Identification",
+        "Organ",
+        "MO8"
+      ],
+      "sourceLine": 327,
+      "section": "",
+      "label": "49"
+    },
+    {
+      "id": "female-pelvis-model-mo8-328",
+      "path": [
+        "49"
+      ],
+      "question": "Function",
+      "answer": "Site of implantation and fetal development; myometrium contracts in labour.",
+      "tags": [
+        "Function",
+        "Organ",
+        "MO8"
+      ],
+      "sourceLine": 328,
+      "section": "",
+      "label": "49"
+    },
+    {
+      "id": "female-pelvis-model-mo8-329",
+      "path": [
+        "49"
+      ],
+      "question": "Parts",
+      "answer": "Fundus, body, isthmus and cervix.",
+      "tags": [
+        "Parts",
+        "Organ",
+        "MO8"
+      ],
+      "sourceLine": 329,
+      "section": "",
+      "label": "49"
+    },
+    {
+      "id": "female-pelvis-model-mo8-330",
+      "path": [
+        "49"
+      ],
+      "question": "Position",
+      "answer": "Normally anteverted and anteflexed.",
+      "tags": [
+        "Position",
+        "Organ",
+        "MO8"
+      ],
+      "sourceLine": 330,
+      "section": "",
+      "label": "49"
+    },
+    {
+      "id": "female-pelvis-model-mo8-331",
+      "path": [
+        "49"
+      ],
+      "question": "Blood supply",
+      "answer": "Mainly uterine artery with ovarian artery anastomoses.",
+      "tags": [
+        "BloodSupply",
+        "Organ",
+        "MO8"
+      ],
+      "sourceLine": 331,
+      "section": "",
+      "label": "49"
+    },
+    {
+      "id": "female-pelvis-model-mo8-332",
+      "path": [
+        "49"
+      ],
+      "question": "Relations",
+      "answer": "Bladder anterior and rectum posterior.",
+      "tags": [
+        "Relations",
+        "Organ",
+        "MO8"
+      ],
+      "sourceLine": 332,
+      "section": "",
+      "label": "49"
+    },
+    {
+      "id": "female-pelvis-model-mo8-335",
+      "path": [
+        "50"
+      ],
+      "question": "Identification",
+      "answer": "Isthmus of uterine tube (Fallopian tube)",
+      "tags": [
+        "Identification",
+        "TubePart",
+        "MO8"
+      ],
+      "sourceLine": 335,
+      "section": "",
+      "label": "50"
+    },
+    {
+      "id": "female-pelvis-model-mo8-336",
+      "path": [
+        "50"
+      ],
+      "question": "Location",
+      "answer": "Narrow medial segment between ampulla and uterine part.",
+      "tags": [
+        "Location",
+        "TubePart",
+        "MO8"
+      ],
+      "sourceLine": 336,
+      "section": "",
+      "label": "50"
+    },
+    {
+      "id": "female-pelvis-model-mo8-337",
+      "path": [
+        "50"
+      ],
+      "question": "Function",
+      "answer": "Conducts gametes/early embryo toward the uterus.",
+      "tags": [
+        "Function",
+        "TubePart",
+        "MO8"
+      ],
+      "sourceLine": 337,
+      "section": "",
+      "label": "50"
+    },
+    {
+      "id": "female-pelvis-model-mo8-338",
+      "path": [
+        "50"
+      ],
+      "question": "Relations",
+      "answer": "Runs within the superior free margin of the broad ligament.",
+      "tags": [
+        "Relations",
+        "TubePart",
+        "MO8"
+      ],
+      "sourceLine": 338,
+      "section": "",
+      "label": "50"
+    },
+    {
+      "id": "female-pelvis-model-mo8-341",
+      "path": [
+        "51"
+      ],
+      "question": "Identification",
+      "answer": "Ampulla of uterine tube (Fallopian tube)",
+      "tags": [
+        "Identification",
+        "TubePart",
+        "MO8"
+      ],
+      "sourceLine": 341,
+      "section": "",
+      "label": "51"
+    },
+    {
+      "id": "female-pelvis-model-mo8-342",
+      "path": [
+        "51"
+      ],
+      "question": "Location",
+      "answer": "Wider, longest portion of the uterine tube lateral to the isthmus.",
+      "tags": [
+        "Location",
+        "TubePart",
+        "MO8"
+      ],
+      "sourceLine": 342,
+      "section": "",
+      "label": "51"
+    },
+    {
+      "id": "female-pelvis-model-mo8-343",
+      "path": [
+        "51"
+      ],
+      "question": "Function",
+      "answer": "Usual site of fertilisation.",
+      "tags": [
+        "Function",
+        "TubePart",
+        "MO8"
+      ],
+      "sourceLine": 343,
+      "section": "",
+      "label": "51"
+    },
+    {
+      "id": "female-pelvis-model-mo8-344",
+      "path": [
+        "51"
+      ],
+      "question": "Clinical relevance",
+      "answer": "Common site of tubal ectopic pregnancy.",
+      "tags": [
+        "Clinical",
+        "TubePart",
+        "MO8"
+      ],
+      "sourceLine": 344,
+      "section": "",
+      "label": "51"
+    },
+    {
+      "id": "female-pelvis-model-mo8-347",
+      "path": [
+        "52"
+      ],
+      "question": "Identification",
+      "answer": "Fimbriae of uterine tube",
+      "tags": [
+        "Identification",
+        "TubePart",
+        "MO8"
+      ],
+      "sourceLine": 347,
+      "section": "",
+      "label": "52"
+    },
+    {
+      "id": "female-pelvis-model-mo8-348",
+      "path": [
+        "52"
+      ],
+      "question": "Structure",
+      "answer": "Finger-like projections of the infundibulum of the uterine tube.",
+      "tags": [
+        "Structure",
+        "TubePart",
+        "MO8"
+      ],
+      "sourceLine": 348,
+      "section": "",
+      "label": "52"
+    },
+    {
+      "id": "female-pelvis-model-mo8-349",
+      "path": [
+        "52"
+      ],
+      "question": "Function",
+      "answer": "Help sweep the ovulated oocyte toward the tubal opening.",
+      "tags": [
+        "Function",
+        "TubePart",
+        "MO8"
+      ],
+      "sourceLine": 349,
+      "section": "",
+      "label": "52"
+    },
+    {
+      "id": "female-pelvis-model-mo8-350",
+      "path": [
+        "52"
+      ],
+      "question": "Relations",
+      "answer": "Lie adjacent to the ovary; one fimbria is attached to the ovary.",
+      "tags": [
+        "Relations",
+        "TubePart",
+        "MO8"
+      ],
+      "sourceLine": 350,
+      "section": "",
+      "label": "52"
+    },
+    {
+      "id": "female-pelvis-model-mo8-353",
+      "path": [
+        "53"
+      ],
+      "question": "Identification",
+      "answer": "Ovary",
+      "tags": [
+        "Identification",
+        "Organ",
+        "MO8"
+      ],
+      "sourceLine": 353,
+      "section": "",
+      "label": "53"
+    },
+    {
+      "id": "female-pelvis-model-mo8-354",
+      "path": [
+        "53"
+      ],
+      "question": "Function",
+      "answer": "Produces oocytes and secretes oestrogens/progesterone.",
+      "tags": [
+        "Function",
+        "Organ",
+        "MO8"
+      ],
+      "sourceLine": 354,
+      "section": "",
+      "label": "53"
+    },
+    {
+      "id": "female-pelvis-model-mo8-355",
+      "path": [
+        "53"
+      ],
+      "question": "Location",
+      "answer": "Usually on lateral pelvic wall in ovarian fossa.",
+      "tags": [
+        "Location",
+        "Organ",
+        "MO8"
+      ],
+      "sourceLine": 355,
+      "section": "",
+      "label": "53"
+    },
+    {
+      "id": "female-pelvis-model-mo8-356",
+      "path": [
+        "53"
+      ],
+      "question": "Attachments",
+      "answer": "Ovarian ligament, suspensory ligament and mesovarium.",
+      "tags": [
+        "Attachments",
+        "Organ",
+        "MO8"
+      ],
+      "sourceLine": 356,
+      "section": "",
+      "label": "53"
+    },
+    {
+      "id": "female-pelvis-model-mo8-357",
+      "path": [
+        "53"
+      ],
+      "question": "Blood supply",
+      "answer": "Ovarian artery with uterine artery anastomosis.",
+      "tags": [
+        "BloodSupply",
+        "Organ",
+        "MO8"
+      ],
+      "sourceLine": 357,
+      "section": "",
+      "label": "53"
+    },
+    {
+      "id": "female-pelvis-model-mo8-358",
+      "path": [
+        "53"
+      ],
+      "question": "Lymphatic drainage",
+      "answer": "Para-aortic lymph nodes.",
+      "tags": [
+        "Lymphatics",
+        "Organ",
+        "MO8"
+      ],
+      "sourceLine": 358,
+      "section": "",
+      "label": "53"
+    },
+    {
+      "id": "female-pelvis-model-mo8-361",
+      "path": [
+        "54"
+      ],
+      "question": "Identification",
+      "answer": "Ovarian ligament",
+      "tags": [
+        "Identification",
+        "Ligament",
+        "MO8"
+      ],
+      "sourceLine": 361,
+      "section": "",
+      "label": "54"
+    },
+    {
+      "id": "female-pelvis-model-mo8-362",
+      "path": [
+        "54"
+      ],
+      "question": "Attachments",
+      "answer": "Medial ovary to lateral uterus just inferior to uterine tube.",
+      "tags": [
+        "Attachments",
+        "Ligament",
+        "MO8"
+      ],
+      "sourceLine": 362,
+      "section": "",
+      "label": "54"
+    },
+    {
+      "id": "female-pelvis-model-mo8-363",
+      "path": [
+        "54"
+      ],
+      "question": "Function",
+      "answer": "Anchors ovary to uterus.",
+      "tags": [
+        "Function",
+        "Ligament",
+        "MO8"
+      ],
+      "sourceLine": 363,
+      "section": "",
+      "label": "54"
+    },
+    {
+      "id": "female-pelvis-model-mo8-364",
+      "path": [
+        "54"
+      ],
+      "question": "Embryology",
+      "answer": "Derived from gubernaculum.",
+      "tags": [
+        "Embryology",
+        "Ligament",
+        "MO8"
+      ],
+      "sourceLine": 364,
+      "section": "",
+      "label": "54"
+    },
+    {
+      "id": "female-pelvis-model-mo8-367",
+      "path": [
+        "55"
+      ],
+      "question": "Identification",
+      "answer": "Round ligament of the uterus",
+      "tags": [
+        "Identification",
+        "Ligament",
+        "MO8"
+      ],
+      "sourceLine": 367,
+      "section": "",
+      "label": "55"
+    },
+    {
+      "id": "female-pelvis-model-mo8-368",
+      "path": [
+        "55"
+      ],
+      "question": "Attachments",
+      "answer": "Uterine horn to labium majus via deep inguinal ring and inguinal canal.",
+      "tags": [
+        "Attachments",
+        "Ligament",
+        "MO8"
+      ],
+      "sourceLine": 368,
+      "section": "",
+      "label": "55"
+    },
+    {
+      "id": "female-pelvis-model-mo8-369",
+      "path": [
+        "55"
+      ],
+      "question": "Function",
+      "answer": "Helps maintain uterine anteversion.",
+      "tags": [
+        "Function",
+        "Ligament",
+        "MO8"
+      ],
+      "sourceLine": 369,
+      "section": "",
+      "label": "55"
+    },
+    {
+      "id": "female-pelvis-model-mo8-370",
+      "path": [
+        "55"
+      ],
+      "question": "Embryology",
+      "answer": "Derived from gubernaculum.",
+      "tags": [
+        "Embryology",
+        "Ligament",
+        "MO8"
+      ],
+      "sourceLine": 370,
+      "section": "",
+      "label": "55"
+    },
+    {
+      "id": "female-pelvis-model-mo8-373",
+      "path": [
+        "56"
+      ],
+      "question": "Identification",
+      "answer": "Broad ligament of the uterus",
+      "tags": [
+        "Identification",
+        "PeritonealFold",
+        "MO8"
+      ],
+      "sourceLine": 373,
+      "section": "",
+      "label": "56"
+    },
+    {
+      "id": "female-pelvis-model-mo8-374",
+      "path": [
+        "56"
+      ],
+      "question": "Structure",
+      "answer": "Double layer of peritoneum extending from lateral uterus toward pelvic walls.",
+      "tags": [
+        "Structure",
+        "PeritonealFold",
+        "MO8"
+      ],
+      "sourceLine": 374,
+      "section": "",
+      "label": "56"
+    },
+    {
+      "id": "female-pelvis-model-mo8-375",
+      "path": [
+        "56"
+      ],
+      "question": "Parts",
+      "answer": "Mesometrium, mesosalpinx and mesovarium.",
+      "tags": [
+        "Parts",
+        "PeritonealFold",
+        "MO8"
+      ],
+      "sourceLine": 375,
+      "section": "",
+      "label": "56"
+    },
+    {
+      "id": "female-pelvis-model-mo8-376",
+      "path": [
+        "56"
+      ],
+      "question": "Contents",
+      "answer": "Related to uterine tube, ovarian/uterine vessels, ligaments, nerves and connective tissue.",
+      "tags": [
+        "Contents",
+        "PeritonealFold",
+        "MO8"
+      ],
+      "sourceLine": 376,
+      "section": "",
+      "label": "56"
+    },
+    {
+      "id": "female-pelvis-model-mo8-377",
+      "path": [
+        "56"
+      ],
+      "question": "Function",
+      "answer": "Supports and suspends female reproductive structures within the pelvis.",
+      "tags": [
+        "Function",
+        "PeritonealFold",
+        "MO8"
+      ],
+      "sourceLine": 377,
+      "section": "",
+      "label": "56"
+    },
+    {
+      "id": "female-pelvis-model-mo8-380",
+      "path": [
+        "57"
+      ],
+      "question": "Identification",
+      "answer": "Rectouterine fold",
+      "tags": [
+        "Identification",
+        "PeritonealFold",
+        "MO8"
+      ],
+      "sourceLine": 380,
+      "section": "",
+      "label": "57"
+    },
+    {
+      "id": "female-pelvis-model-mo8-381",
+      "path": [
+        "57"
+      ],
+      "question": "Structure",
+      "answer": "Peritoneal fold extending posteriorly from cervix/uterus toward sacrum, overlying uterosacral supporting tissues.",
+      "tags": [
+        "Structure",
+        "PeritonealFold",
+        "MO8"
+      ],
+      "sourceLine": 381,
+      "section": "",
+      "label": "57"
+    },
+    {
+      "id": "female-pelvis-model-mo8-382",
+      "path": [
+        "57"
+      ],
+      "question": "Relations",
+      "answer": "Forms lateral boundaries of the rectouterine pouch.",
+      "tags": [
+        "Relations",
+        "PeritonealFold",
+        "MO8"
+      ],
+      "sourceLine": 382,
+      "section": "",
+      "label": "57"
+    },
+    {
+      "id": "female-pelvis-model-mo8-383",
+      "path": [
+        "57"
+      ],
+      "question": "Function",
+      "answer": "Contributes to uterine/cervical support.",
+      "tags": [
+        "Function",
+        "PeritonealFold",
+        "MO8"
+      ],
+      "sourceLine": 383,
+      "section": "",
+      "label": "57"
+    },
+    {
+      "id": "female-pelvis-model-mo8-386",
+      "path": [
+        "58"
+      ],
+      "question": "Identification",
+      "answer": "Vagina",
+      "tags": [
+        "Identification",
+        "Organ",
+        "MO8"
+      ],
+      "sourceLine": 386,
+      "section": "",
+      "label": "58"
+    },
+    {
+      "id": "female-pelvis-model-mo8-387",
+      "path": [
+        "58"
+      ],
+      "question": "Function",
+      "answer": "Canal for intercourse, menstrual flow and childbirth.",
+      "tags": [
+        "Function",
+        "Organ",
+        "MO8"
+      ],
+      "sourceLine": 387,
+      "section": "",
+      "label": "58"
+    },
+    {
+      "id": "female-pelvis-model-mo8-388",
+      "path": [
+        "58"
+      ],
+      "question": "Course",
+      "answer": "Extends from vestibule to cervix.",
+      "tags": [
+        "Course",
+        "Organ",
+        "MO8"
+      ],
+      "sourceLine": 388,
+      "section": "",
+      "label": "58"
+    },
+    {
+      "id": "female-pelvis-model-mo8-389",
+      "path": [
+        "58"
+      ],
+      "question": "Relations",
+      "answer": "Posterior to urethra/bladder and anterior to rectum.",
+      "tags": [
+        "Relations",
+        "Organ",
+        "MO8"
+      ],
+      "sourceLine": 389,
+      "section": "",
+      "label": "58"
+    },
+    {
+      "id": "female-pelvis-model-mo8-390",
+      "path": [
+        "58"
+      ],
+      "question": "Innervation",
+      "answer": "Upper part visceral autonomic; lower part somatic via pudendal nerve.",
+      "tags": [
+        "Innervation",
+        "Organ",
+        "MO8"
+      ],
+      "sourceLine": 390,
+      "section": "",
+      "label": "58"
+    },
+    {
+      "id": "female-pelvis-model-mo8-393",
+      "path": [
+        "59"
+      ],
+      "question": "Identification",
+      "answer": "Fornix of the vagina",
+      "tags": [
+        "Identification",
+        "OrganPart",
+        "MO8"
+      ],
+      "sourceLine": 393,
+      "section": "",
+      "label": "59"
+    },
+    {
+      "id": "female-pelvis-model-mo8-394",
+      "path": [
+        "59"
+      ],
+      "question": "Structure",
+      "answer": "Recess around the cervix where it projects into the vagina.",
+      "tags": [
+        "Structure",
+        "OrganPart",
+        "MO8"
+      ],
+      "sourceLine": 394,
+      "section": "",
+      "label": "59"
+    },
+    {
+      "id": "female-pelvis-model-mo8-395",
+      "path": [
+        "59"
+      ],
+      "question": "Parts",
+      "answer": "Anterior, posterior and lateral fornices.",
+      "tags": [
+        "Parts",
+        "OrganPart",
+        "MO8"
+      ],
+      "sourceLine": 395,
+      "section": "",
+      "label": "59"
+    },
+    {
+      "id": "female-pelvis-model-mo8-396",
+      "path": [
+        "59"
+      ],
+      "question": "Relations",
+      "answer": "Posterior fornix lies close to the rectouterine pouch.",
+      "tags": [
+        "Relations",
+        "OrganPart",
+        "MO8"
+      ],
+      "sourceLine": 396,
+      "section": "",
+      "label": "59"
+    },
+    {
+      "id": "female-pelvis-model-mo8-397",
+      "path": [
+        "59"
+      ],
+      "question": "Clinical relevance",
+      "answer": "Posterior fornix can provide access to the rectouterine pouch.",
+      "tags": [
+        "Clinical",
+        "OrganPart",
+        "MO8"
+      ],
+      "sourceLine": 397,
+      "section": "",
+      "label": "59"
+    },
+    {
+      "id": "female-pelvis-model-mo8-400",
+      "path": [
+        "60"
+      ],
+      "question": "Identification",
+      "answer": "Urinary bladder",
+      "tags": [
+        "Identification",
+        "Organ",
+        "MO8"
+      ],
+      "sourceLine": 400,
+      "section": "",
+      "label": "60"
+    },
+    {
+      "id": "female-pelvis-model-mo8-401",
+      "path": [
+        "60"
+      ],
+      "question": "Function",
+      "answer": "Stores urine and expels it during micturition.",
+      "tags": [
+        "Function",
+        "Organ",
+        "MO8"
+      ],
+      "sourceLine": 401,
+      "section": "",
+      "label": "60"
+    },
+    {
+      "id": "female-pelvis-model-mo8-402",
+      "path": [
+        "60"
+      ],
+      "question": "Parts",
+      "answer": "Apex, body, fundus/base and neck.",
+      "tags": [
+        "Parts",
+        "Organ",
+        "MO8"
+      ],
+      "sourceLine": 402,
+      "section": "",
+      "label": "60"
+    },
+    {
+      "id": "female-pelvis-model-mo8-403",
+      "path": [
+        "60"
+      ],
+      "question": "Relations",
+      "answer": "Posterior to pubic symphysis and anterior to uterus/vagina.",
+      "tags": [
+        "Relations",
+        "Organ",
+        "MO8"
+      ],
+      "sourceLine": 403,
+      "section": "",
+      "label": "60"
+    },
+    {
+      "id": "female-pelvis-model-mo8-404",
+      "path": [
+        "60"
+      ],
+      "question": "Innervation",
+      "answer": "Parasympathetic S2–S4 promotes voiding; sympathetic T11–L2 supports storage.",
+      "tags": [
+        "Innervation",
+        "Organ",
+        "MO8"
+      ],
+      "sourceLine": 404,
+      "section": "",
+      "label": "60"
+    },
+    {
+      "id": "female-pelvis-model-mo8-407",
+      "path": [
+        "61"
+      ],
+      "question": "Identification",
+      "answer": "Trigone of the bladder",
+      "tags": [
+        "Identification",
+        "OrganPart",
+        "MO8"
+      ],
+      "sourceLine": 407,
+      "section": "",
+      "label": "61"
+    },
+    {
+      "id": "female-pelvis-model-mo8-408",
+      "path": [
+        "61"
+      ],
+      "question": "Structure",
+      "answer": "Smooth triangular area of bladder mucosa between the two ureteric orifices and internal urethral orifice.",
+      "tags": [
+        "Structure",
+        "OrganPart",
+        "MO8"
+      ],
+      "sourceLine": 408,
+      "section": "",
+      "label": "61"
+    },
+    {
+      "id": "female-pelvis-model-mo8-409",
+      "path": [
+        "61"
+      ],
+      "question": "Function",
+      "answer": "Funnels urine toward bladder neck/urethra.",
+      "tags": [
+        "Function",
+        "OrganPart",
+        "MO8"
+      ],
+      "sourceLine": 409,
+      "section": "",
+      "label": "61"
+    },
+    {
+      "id": "female-pelvis-model-mo8-410",
+      "path": [
+        "61"
+      ],
+      "question": "Relations",
+      "answer": "Unlike most bladder mucosa, firmly adherent to underlying muscle.",
+      "tags": [
+        "Relations",
+        "OrganPart",
+        "MO8"
+      ],
+      "sourceLine": 410,
+      "section": "",
+      "label": "61"
+    },
+    {
+      "id": "female-pelvis-model-mo8-413",
+      "path": [
+        "62"
+      ],
+      "question": "Identification",
+      "answer": "Urethra",
+      "tags": [
+        "Identification",
+        "Tube",
+        "MO8"
+      ],
+      "sourceLine": 413,
+      "section": "",
+      "label": "62"
+    },
+    {
+      "id": "female-pelvis-model-mo8-414",
+      "path": [
+        "62"
+      ],
+      "question": "Function",
+      "answer": "Conducts urine from bladder to exterior.",
+      "tags": [
+        "Function",
+        "Tube",
+        "MO8"
+      ],
+      "sourceLine": 414,
+      "section": "",
+      "label": "62"
+    },
+    {
+      "id": "female-pelvis-model-mo8-415",
+      "path": [
+        "62"
+      ],
+      "question": "Course",
+      "answer": "Short female urethra passes inferoanteriorly from bladder neck to vestibule.",
+      "tags": [
+        "Course",
+        "Tube",
+        "MO8"
+      ],
+      "sourceLine": 415,
+      "section": "",
+      "label": "62"
+    },
+    {
+      "id": "female-pelvis-model-mo8-416",
+      "path": [
+        "62"
+      ],
+      "question": "Relations",
+      "answer": "Lies anterior to vagina.",
+      "tags": [
+        "Relations",
+        "Tube",
+        "MO8"
+      ],
+      "sourceLine": 416,
+      "section": "",
+      "label": "62"
+    },
+    {
+      "id": "female-pelvis-model-mo8-417",
+      "path": [
+        "62"
+      ],
+      "question": "Clinical relevance",
+      "answer": "Short length contributes to increased risk of ascending urinary infection.",
+      "tags": [
+        "Clinical",
+        "Tube",
+        "MO8"
+      ],
+      "sourceLine": 417,
+      "section": "",
+      "label": "62"
+    },
+    {
+      "id": "female-pelvis-model-mo8-420",
+      "path": [
+        "63"
+      ],
+      "question": "Identification",
+      "answer": "Ureter",
+      "tags": [
+        "Identification",
+        "Tube",
+        "MO8"
+      ],
+      "sourceLine": 420,
+      "section": "",
+      "label": "63"
+    },
+    {
+      "id": "female-pelvis-model-mo8-421",
+      "path": [
+        "63"
+      ],
+      "question": "Function",
+      "answer": "Transports urine from renal pelvis to bladder by peristalsis.",
+      "tags": [
+        "Function",
+        "Tube",
+        "MO8"
+      ],
+      "sourceLine": 421,
+      "section": "",
+      "label": "63"
+    },
+    {
+      "id": "female-pelvis-model-mo8-422",
+      "path": [
+        "63"
+      ],
+      "question": "Course",
+      "answer": "Descends retroperitoneally, crosses pelvic brim and runs on lateral pelvic wall before entering bladder.",
+      "tags": [
+        "Course",
+        "Tube",
+        "MO8"
+      ],
+      "sourceLine": 422,
+      "section": "",
+      "label": "63"
+    },
+    {
+      "id": "female-pelvis-model-mo8-423",
+      "path": [
+        "63"
+      ],
+      "question": "Relations",
+      "answer": "Passes inferior to uterine artery near cervix — 'water under the bridge'.",
+      "tags": [
+        "Relations",
+        "Tube",
+        "MO8"
+      ],
+      "sourceLine": 423,
+      "section": "",
+      "label": "63"
+    },
+    {
+      "id": "female-pelvis-model-mo8-424",
+      "path": [
+        "63"
+      ],
+      "question": "Constrictions",
+      "answer": "Pelviureteric junction, pelvic brim/iliac vessel crossing and vesicoureteric junction.",
+      "tags": [
+        "Constrictions",
+        "Tube",
+        "MO8"
+      ],
+      "sourceLine": 424,
+      "section": "",
+      "label": "63"
+    },
+    {
+      "id": "female-pelvis-model-mo8-425",
+      "path": [
+        "63"
+      ],
+      "question": "Clinical relevance",
+      "answer": "At risk during hysterectomy because of close relation to uterine artery.",
+      "tags": [
+        "Clinical",
+        "Tube",
+        "MO8"
+      ],
+      "sourceLine": 425,
+      "section": "",
+      "label": "63"
+    }
+  ]
+}

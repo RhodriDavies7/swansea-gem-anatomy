@@ -1,0 +1,3142 @@
+{
+  "id": "cranial-floor-model-bs1",
+  "name": "Cranial Floor (Model BS1)",
+  "cards": [
+    {
+      "id": "cranial-floor-model-bs1-2",
+      "path": [
+        "1"
+      ],
+      "question": "Identification",
+      "answer": "Transverse sinus",
+      "tags": [
+        "Identification",
+        "VenousSinus",
+        "BS1"
+      ],
+      "sourceLine": 2,
+      "section": "",
+      "label": "1"
+    },
+    {
+      "id": "cranial-floor-model-bs1-3",
+      "path": [
+        "1"
+      ],
+      "question": "Location",
+      "answer": "Runs laterally from the confluence of sinuses along the attached margin of the tentorium cerebelli.",
+      "tags": [
+        "Location",
+        "VenousSinus",
+        "BS1"
+      ],
+      "sourceLine": 3,
+      "section": "",
+      "label": "1"
+    },
+    {
+      "id": "cranial-floor-model-bs1-4",
+      "path": [
+        "1"
+      ],
+      "question": "Drainage",
+      "answer": "Receives blood from the confluence of sinuses and drains into the sigmoid sinus.",
+      "tags": [
+        "Drainage",
+        "VenousSinus",
+        "BS1"
+      ],
+      "sourceLine": 4,
+      "section": "",
+      "label": "1"
+    },
+    {
+      "id": "cranial-floor-model-bs1-5",
+      "path": [
+        "1"
+      ],
+      "question": "Relations",
+      "answer": "Lies in a groove of the occipital and temporal bones along the tentorial attachment.",
+      "tags": [
+        "Relations",
+        "VenousSinus",
+        "BS1"
+      ],
+      "sourceLine": 5,
+      "section": "",
+      "label": "1"
+    },
+    {
+      "id": "cranial-floor-model-bs1-8",
+      "path": [
+        "2"
+      ],
+      "question": "Identification",
+      "answer": "Sigmoid sinus",
+      "tags": [
+        "Identification",
+        "VenousSinus",
+        "BS1"
+      ],
+      "sourceLine": 8,
+      "section": "",
+      "label": "2"
+    },
+    {
+      "id": "cranial-floor-model-bs1-9",
+      "path": [
+        "2"
+      ],
+      "question": "Course",
+      "answer": "Continuation of the transverse sinus; curves inferomedially in an S-shaped groove toward the jugular foramen.",
+      "tags": [
+        "Course",
+        "VenousSinus",
+        "BS1"
+      ],
+      "sourceLine": 9,
+      "section": "",
+      "label": "2"
+    },
+    {
+      "id": "cranial-floor-model-bs1-10",
+      "path": [
+        "2"
+      ],
+      "question": "Drainage",
+      "answer": "Continues as the internal jugular vein at the jugular foramen.",
+      "tags": [
+        "Drainage",
+        "VenousSinus",
+        "BS1"
+      ],
+      "sourceLine": 10,
+      "section": "",
+      "label": "2"
+    },
+    {
+      "id": "cranial-floor-model-bs1-11",
+      "path": [
+        "2"
+      ],
+      "question": "Relations",
+      "answer": "Lies in the sigmoid sulcus of temporal and occipital bones.",
+      "tags": [
+        "Relations",
+        "VenousSinus",
+        "BS1"
+      ],
+      "sourceLine": 11,
+      "section": "",
+      "label": "2"
+    },
+    {
+      "id": "cranial-floor-model-bs1-14",
+      "path": [
+        "3"
+      ],
+      "question": "Identification",
+      "answer": "Superior petrosal sinus",
+      "tags": [
+        "Identification",
+        "VenousSinus",
+        "BS1"
+      ],
+      "sourceLine": 14,
+      "section": "",
+      "label": "3"
+    },
+    {
+      "id": "cranial-floor-model-bs1-15",
+      "path": [
+        "3"
+      ],
+      "question": "Location",
+      "answer": "Runs along the superior border of the petrous temporal bone in the attached margin of the tentorium cerebelli.",
+      "tags": [
+        "Location",
+        "VenousSinus",
+        "BS1"
+      ],
+      "sourceLine": 15,
+      "section": "",
+      "label": "3"
+    },
+    {
+      "id": "cranial-floor-model-bs1-16",
+      "path": [
+        "3"
+      ],
+      "question": "Drainage",
+      "answer": "Connects the cavernous sinus with the transverse-sigmoid sinus junction.",
+      "tags": [
+        "Drainage",
+        "VenousSinus",
+        "BS1"
+      ],
+      "sourceLine": 16,
+      "section": "",
+      "label": "3"
+    },
+    {
+      "id": "cranial-floor-model-bs1-17",
+      "path": [
+        "3"
+      ],
+      "question": "Relations",
+      "answer": "Closely related to the trigeminal root and petrous ridge.",
+      "tags": [
+        "Relations",
+        "VenousSinus",
+        "BS1"
+      ],
+      "sourceLine": 17,
+      "section": "",
+      "label": "3"
+    },
+    {
+      "id": "cranial-floor-model-bs1-20",
+      "path": [
+        "4"
+      ],
+      "question": "Identification",
+      "answer": "Inferior petrosal sinus",
+      "tags": [
+        "Identification",
+        "VenousSinus",
+        "BS1"
+      ],
+      "sourceLine": 20,
+      "section": "",
+      "label": "4"
+    },
+    {
+      "id": "cranial-floor-model-bs1-21",
+      "path": [
+        "4"
+      ],
+      "question": "Location",
+      "answer": "Runs in the petro-occipital fissure from the cavernous sinus toward the jugular foramen.",
+      "tags": [
+        "Location",
+        "VenousSinus",
+        "BS1"
+      ],
+      "sourceLine": 21,
+      "section": "",
+      "label": "4"
+    },
+    {
+      "id": "cranial-floor-model-bs1-22",
+      "path": [
+        "4"
+      ],
+      "question": "Drainage",
+      "answer": "Drains the cavernous sinus into the internal jugular vein.",
+      "tags": [
+        "Drainage",
+        "VenousSinus",
+        "BS1"
+      ],
+      "sourceLine": 22,
+      "section": "",
+      "label": "4"
+    },
+    {
+      "id": "cranial-floor-model-bs1-23",
+      "path": [
+        "4"
+      ],
+      "question": "Note",
+      "answer": "On one physical model, labels 4 and 6 are swapped; verify the structure rather than relying on the printed number alone.",
+      "tags": [
+        "ModelNote",
+        "VenousSinus",
+        "BS1"
+      ],
+      "sourceLine": 23,
+      "section": "",
+      "label": "4"
+    },
+    {
+      "id": "cranial-floor-model-bs1-26",
+      "path": [
+        "5"
+      ],
+      "question": "Identification",
+      "answer": "Cavernous sinus",
+      "tags": [
+        "Identification",
+        "VenousSinus",
+        "BS1"
+      ],
+      "sourceLine": 26,
+      "section": "",
+      "label": "5"
+    },
+    {
+      "id": "cranial-floor-model-bs1-27",
+      "path": [
+        "5"
+      ],
+      "question": "Location",
+      "answer": "Paired dural venous sinus on either side of the sella turcica.",
+      "tags": [
+        "Location",
+        "VenousSinus",
+        "BS1"
+      ],
+      "sourceLine": 27,
+      "section": "",
+      "label": "5"
+    },
+    {
+      "id": "cranial-floor-model-bs1-28",
+      "path": [
+        "5"
+      ],
+      "question": "Drainage",
+      "answer": "Receives ophthalmic veins and superficial middle cerebral vein; drains via superior and inferior petrosal sinuses and emissary connections.",
+      "tags": [
+        "Drainage",
+        "VenousSinus",
+        "BS1"
+      ],
+      "sourceLine": 28,
+      "section": "",
+      "label": "5"
+    },
+    {
+      "id": "cranial-floor-model-bs1-29",
+      "path": [
+        "5"
+      ],
+      "question": "Contents",
+      "answer": "Internal carotid artery and abducens nerve pass within the sinus; CN III, IV, V1 and V2 run in the lateral wall.",
+      "tags": [
+        "Contents",
+        "VenousSinus",
+        "BS1"
+      ],
+      "sourceLine": 29,
+      "section": "",
+      "label": "5"
+    },
+    {
+      "id": "cranial-floor-model-bs1-30",
+      "path": [
+        "5"
+      ],
+      "question": "Clinical relevance",
+      "answer": "Infection can spread from the face or orbit to cause cavernous sinus thrombosis with multiple cranial neuropathies.",
+      "tags": [
+        "Clinical",
+        "VenousSinus",
+        "BS1"
+      ],
+      "sourceLine": 30,
+      "section": "",
+      "label": "5"
+    },
+    {
+      "id": "cranial-floor-model-bs1-33",
+      "path": [
+        "6"
+      ],
+      "question": "Identification",
+      "answer": "Intercavernous sinus",
+      "tags": [
+        "Identification",
+        "VenousSinus",
+        "BS1"
+      ],
+      "sourceLine": 33,
+      "section": "",
+      "label": "6"
+    },
+    {
+      "id": "cranial-floor-model-bs1-34",
+      "path": [
+        "6"
+      ],
+      "question": "Location",
+      "answer": "Venous channels connecting the right and left cavernous sinuses across the midline around the pituitary gland.",
+      "tags": [
+        "Location",
+        "VenousSinus",
+        "BS1"
+      ],
+      "sourceLine": 34,
+      "section": "",
+      "label": "6"
+    },
+    {
+      "id": "cranial-floor-model-bs1-35",
+      "path": [
+        "6"
+      ],
+      "question": "Function",
+      "answer": "Provides communication between the paired cavernous sinuses.",
+      "tags": [
+        "Function",
+        "VenousSinus",
+        "BS1"
+      ],
+      "sourceLine": 35,
+      "section": "",
+      "label": "6"
+    },
+    {
+      "id": "cranial-floor-model-bs1-36",
+      "path": [
+        "6"
+      ],
+      "question": "Note",
+      "answer": "On one physical model, labels 4 and 6 are swapped; verify the structure rather than relying on the printed number alone.",
+      "tags": [
+        "ModelNote",
+        "VenousSinus",
+        "BS1"
+      ],
+      "sourceLine": 36,
+      "section": "",
+      "label": "6"
+    },
+    {
+      "id": "cranial-floor-model-bs1-39",
+      "path": [
+        "7"
+      ],
+      "question": "Identification",
+      "answer": "Occipital sinus",
+      "tags": [
+        "Identification",
+        "VenousSinus",
+        "BS1"
+      ],
+      "sourceLine": 39,
+      "section": "",
+      "label": "7"
+    },
+    {
+      "id": "cranial-floor-model-bs1-40",
+      "path": [
+        "7"
+      ],
+      "question": "Location",
+      "answer": "Runs in the attached margin of the falx cerebelli along the internal occipital crest.",
+      "tags": [
+        "Location",
+        "VenousSinus",
+        "BS1"
+      ],
+      "sourceLine": 40,
+      "section": "",
+      "label": "7"
+    },
+    {
+      "id": "cranial-floor-model-bs1-41",
+      "path": [
+        "7"
+      ],
+      "question": "Drainage",
+      "answer": "Communicates superiorly with the confluence of sinuses and inferiorly with the marginal sinus/internal vertebral venous plexus.",
+      "tags": [
+        "Drainage",
+        "VenousSinus",
+        "BS1"
+      ],
+      "sourceLine": 41,
+      "section": "",
+      "label": "7"
+    },
+    {
+      "id": "cranial-floor-model-bs1-44",
+      "path": [
+        "8"
+      ],
+      "question": "Identification",
+      "answer": "Internal carotid artery",
+      "tags": [
+        "Identification",
+        "Artery",
+        "BS1"
+      ],
+      "sourceLine": 44,
+      "section": "",
+      "label": "8"
+    },
+    {
+      "id": "cranial-floor-model-bs1-45",
+      "path": [
+        "8"
+      ],
+      "question": "Origin",
+      "answer": "Terminal continuation of the common carotid artery after its bifurcation in the neck.",
+      "tags": [
+        "Origin",
+        "Artery",
+        "BS1"
+      ],
+      "sourceLine": 45,
+      "section": "",
+      "label": "8"
+    },
+    {
+      "id": "cranial-floor-model-bs1-46",
+      "path": [
+        "8"
+      ],
+      "question": "Course",
+      "answer": "Enters the carotid canal, traverses the petrous temporal bone, passes through the cavernous sinus region, then enters the subarachnoid space.",
+      "tags": [
+        "Course",
+        "Artery",
+        "BS1"
+      ],
+      "sourceLine": 46,
+      "section": "",
+      "label": "8"
+    },
+    {
+      "id": "cranial-floor-model-bs1-47",
+      "path": [
+        "8"
+      ],
+      "question": "Branches",
+      "answer": "Major intracranial branches include ophthalmic, posterior communicating, anterior choroidal, anterior cerebral and middle cerebral arteries.",
+      "tags": [
+        "Branches",
+        "Artery",
+        "BS1"
+      ],
+      "sourceLine": 47,
+      "section": "",
+      "label": "8"
+    },
+    {
+      "id": "cranial-floor-model-bs1-48",
+      "path": [
+        "8"
+      ],
+      "question": "Supply",
+      "answer": "Major arterial supply to the anterior cerebral circulation and orbit.",
+      "tags": [
+        "Supply",
+        "Artery",
+        "BS1"
+      ],
+      "sourceLine": 48,
+      "section": "",
+      "label": "8"
+    },
+    {
+      "id": "cranial-floor-model-bs1-51",
+      "path": [
+        "9"
+      ],
+      "question": "Identification",
+      "answer": "Ophthalmic artery",
+      "tags": [
+        "Identification",
+        "Artery",
+        "BS1"
+      ],
+      "sourceLine": 51,
+      "section": "",
+      "label": "9"
+    },
+    {
+      "id": "cranial-floor-model-bs1-52",
+      "path": [
+        "9"
+      ],
+      "question": "Origin",
+      "answer": "Usually arises from the internal carotid artery after it leaves the cavernous sinus.",
+      "tags": [
+        "Origin",
+        "Artery",
+        "BS1"
+      ],
+      "sourceLine": 52,
+      "section": "",
+      "label": "9"
+    },
+    {
+      "id": "cranial-floor-model-bs1-53",
+      "path": [
+        "9"
+      ],
+      "question": "Course",
+      "answer": "Enters the orbit through the optic canal with the optic nerve.",
+      "tags": [
+        "Course",
+        "Artery",
+        "BS1"
+      ],
+      "sourceLine": 53,
+      "section": "",
+      "label": "9"
+    },
+    {
+      "id": "cranial-floor-model-bs1-54",
+      "path": [
+        "9"
+      ],
+      "question": "Branches",
+      "answer": "Includes central retinal, lacrimal, ciliary, supraorbital, ethmoidal and other orbital branches.",
+      "tags": [
+        "Branches",
+        "Artery",
+        "BS1"
+      ],
+      "sourceLine": 54,
+      "section": "",
+      "label": "9"
+    },
+    {
+      "id": "cranial-floor-model-bs1-55",
+      "path": [
+        "9"
+      ],
+      "question": "Supply",
+      "answer": "Orbit, retina, forehead, scalp and parts of the nasal cavity.",
+      "tags": [
+        "Supply",
+        "Artery",
+        "BS1"
+      ],
+      "sourceLine": 55,
+      "section": "",
+      "label": "9"
+    },
+    {
+      "id": "cranial-floor-model-bs1-56",
+      "path": [
+        "9"
+      ],
+      "question": "Note",
+      "answer": "May not be present on all versions of the model.",
+      "tags": [
+        "ModelNote",
+        "Artery",
+        "BS1"
+      ],
+      "sourceLine": 56,
+      "section": "",
+      "label": "9"
+    },
+    {
+      "id": "cranial-floor-model-bs1-59",
+      "path": [
+        "10"
+      ],
+      "question": "Identification",
+      "answer": "Missing",
+      "tags": [
+        "Identification",
+        "Missing",
+        "BS1"
+      ],
+      "sourceLine": 59,
+      "section": "",
+      "label": "10"
+    },
+    {
+      "id": "cranial-floor-model-bs1-60",
+      "path": [
+        "10"
+      ],
+      "question": "Note",
+      "answer": "No structure is provided for label 10 in the supplied guide.",
+      "tags": [
+        "ModelNote",
+        "Missing",
+        "BS1"
+      ],
+      "sourceLine": 60,
+      "section": "",
+      "label": "10"
+    },
+    {
+      "id": "cranial-floor-model-bs1-63",
+      "path": [
+        "11"
+      ],
+      "question": "Identification",
+      "answer": "Posterior communicating artery",
+      "tags": [
+        "Identification",
+        "Artery",
+        "BS1"
+      ],
+      "sourceLine": 63,
+      "section": "",
+      "label": "11"
+    },
+    {
+      "id": "cranial-floor-model-bs1-64",
+      "path": [
+        "11"
+      ],
+      "question": "Origin",
+      "answer": "Branch of the internal carotid artery.",
+      "tags": [
+        "Origin",
+        "Artery",
+        "BS1"
+      ],
+      "sourceLine": 64,
+      "section": "",
+      "label": "11"
+    },
+    {
+      "id": "cranial-floor-model-bs1-65",
+      "path": [
+        "11"
+      ],
+      "question": "Course",
+      "answer": "Runs posteriorly to join the posterior cerebral artery.",
+      "tags": [
+        "Course",
+        "Artery",
+        "BS1"
+      ],
+      "sourceLine": 65,
+      "section": "",
+      "label": "11"
+    },
+    {
+      "id": "cranial-floor-model-bs1-66",
+      "path": [
+        "11"
+      ],
+      "question": "Function",
+      "answer": "Forms part of the cerebral arterial circle (Circle of Willis), linking anterior and posterior circulations.",
+      "tags": [
+        "Function",
+        "Artery",
+        "BS1"
+      ],
+      "sourceLine": 66,
+      "section": "",
+      "label": "11"
+    },
+    {
+      "id": "cranial-floor-model-bs1-69",
+      "path": [
+        "12"
+      ],
+      "question": "Identification",
+      "answer": "Posterior cerebral artery",
+      "tags": [
+        "Identification",
+        "Artery",
+        "BS1"
+      ],
+      "sourceLine": 69,
+      "section": "",
+      "label": "12"
+    },
+    {
+      "id": "cranial-floor-model-bs1-70",
+      "path": [
+        "12"
+      ],
+      "question": "Origin",
+      "answer": "Terminal branch of the basilar artery.",
+      "tags": [
+        "Origin",
+        "Artery",
+        "BS1"
+      ],
+      "sourceLine": 70,
+      "section": "",
+      "label": "12"
+    },
+    {
+      "id": "cranial-floor-model-bs1-71",
+      "path": [
+        "12"
+      ],
+      "question": "Course",
+      "answer": "Curves around the midbrain toward the occipital and inferomedial temporal regions.",
+      "tags": [
+        "Course",
+        "Artery",
+        "BS1"
+      ],
+      "sourceLine": 71,
+      "section": "",
+      "label": "12"
+    },
+    {
+      "id": "cranial-floor-model-bs1-72",
+      "path": [
+        "12"
+      ],
+      "question": "Supply",
+      "answer": "Occipital lobe, inferomedial temporal lobe and deep structures via perforating branches.",
+      "tags": [
+        "Supply",
+        "Artery",
+        "BS1"
+      ],
+      "sourceLine": 72,
+      "section": "",
+      "label": "12"
+    },
+    {
+      "id": "cranial-floor-model-bs1-75",
+      "path": [
+        "13"
+      ],
+      "question": "Identification",
+      "answer": "Basilar artery",
+      "tags": [
+        "Identification",
+        "Artery",
+        "BS1"
+      ],
+      "sourceLine": 75,
+      "section": "",
+      "label": "13"
+    },
+    {
+      "id": "cranial-floor-model-bs1-76",
+      "path": [
+        "13"
+      ],
+      "question": "Origin",
+      "answer": "Formed by union of the vertebral arteries at the pontomedullary junction.",
+      "tags": [
+        "Origin",
+        "Artery",
+        "BS1"
+      ],
+      "sourceLine": 76,
+      "section": "",
+      "label": "13"
+    },
+    {
+      "id": "cranial-floor-model-bs1-77",
+      "path": [
+        "13"
+      ],
+      "question": "Course",
+      "answer": "Ascends in the basilar groove on the ventral surface of the pons.",
+      "tags": [
+        "Course",
+        "Artery",
+        "BS1"
+      ],
+      "sourceLine": 77,
+      "section": "",
+      "label": "13"
+    },
+    {
+      "id": "cranial-floor-model-bs1-78",
+      "path": [
+        "13"
+      ],
+      "question": "Branches",
+      "answer": "Gives pontine branches, AICA, labyrinthine artery often via AICA, superior cerebellar arteries and terminates as posterior cerebral arteries.",
+      "tags": [
+        "Branches",
+        "Artery",
+        "BS1"
+      ],
+      "sourceLine": 78,
+      "section": "",
+      "label": "13"
+    },
+    {
+      "id": "cranial-floor-model-bs1-79",
+      "path": [
+        "13"
+      ],
+      "question": "Supply",
+      "answer": "Brainstem, cerebellum and posterior cerebral circulation through its branches.",
+      "tags": [
+        "Supply",
+        "Artery",
+        "BS1"
+      ],
+      "sourceLine": 79,
+      "section": "",
+      "label": "13"
+    },
+    {
+      "id": "cranial-floor-model-bs1-82",
+      "path": [
+        "14"
+      ],
+      "question": "Identification",
+      "answer": "Superior cerebellar artery",
+      "tags": [
+        "Identification",
+        "Artery",
+        "BS1"
+      ],
+      "sourceLine": 82,
+      "section": "",
+      "label": "14"
+    },
+    {
+      "id": "cranial-floor-model-bs1-83",
+      "path": [
+        "14"
+      ],
+      "question": "Origin",
+      "answer": "Basilar artery near its termination.",
+      "tags": [
+        "Origin",
+        "Artery",
+        "BS1"
+      ],
+      "sourceLine": 83,
+      "section": "",
+      "label": "14"
+    },
+    {
+      "id": "cranial-floor-model-bs1-84",
+      "path": [
+        "14"
+      ],
+      "question": "Course",
+      "answer": "Passes laterally around the midbrain below the oculomotor nerve.",
+      "tags": [
+        "Course",
+        "Artery",
+        "BS1"
+      ],
+      "sourceLine": 84,
+      "section": "",
+      "label": "14"
+    },
+    {
+      "id": "cranial-floor-model-bs1-85",
+      "path": [
+        "14"
+      ],
+      "question": "Supply",
+      "answer": "Superior cerebellum, superior cerebellar peduncle and parts of the rostral brainstem.",
+      "tags": [
+        "Supply",
+        "Artery",
+        "BS1"
+      ],
+      "sourceLine": 85,
+      "section": "",
+      "label": "14"
+    },
+    {
+      "id": "cranial-floor-model-bs1-88",
+      "path": [
+        "15"
+      ],
+      "question": "Identification",
+      "answer": "Labyrinthine artery",
+      "tags": [
+        "Identification",
+        "Artery",
+        "BS1"
+      ],
+      "sourceLine": 88,
+      "section": "",
+      "label": "15"
+    },
+    {
+      "id": "cranial-floor-model-bs1-89",
+      "path": [
+        "15"
+      ],
+      "question": "Origin",
+      "answer": "Usually arises from the anterior inferior cerebellar artery, sometimes directly from the basilar artery.",
+      "tags": [
+        "Origin",
+        "Artery",
+        "BS1"
+      ],
+      "sourceLine": 89,
+      "section": "",
+      "label": "15"
+    },
+    {
+      "id": "cranial-floor-model-bs1-90",
+      "path": [
+        "15"
+      ],
+      "question": "Course",
+      "answer": "Enters the internal acoustic meatus with CN VII and VIII.",
+      "tags": [
+        "Course",
+        "Artery",
+        "BS1"
+      ],
+      "sourceLine": 90,
+      "section": "",
+      "label": "15"
+    },
+    {
+      "id": "cranial-floor-model-bs1-91",
+      "path": [
+        "15"
+      ],
+      "question": "Supply",
+      "answer": "Inner ear structures.",
+      "tags": [
+        "Supply",
+        "Artery",
+        "BS1"
+      ],
+      "sourceLine": 91,
+      "section": "",
+      "label": "15"
+    },
+    {
+      "id": "cranial-floor-model-bs1-94",
+      "path": [
+        "16"
+      ],
+      "question": "Identification",
+      "answer": "Anterior inferior cerebellar artery",
+      "tags": [
+        "Identification",
+        "Artery",
+        "BS1"
+      ],
+      "sourceLine": 94,
+      "section": "",
+      "label": "16"
+    },
+    {
+      "id": "cranial-floor-model-bs1-95",
+      "path": [
+        "16"
+      ],
+      "question": "Origin",
+      "answer": "Basilar artery.",
+      "tags": [
+        "Origin",
+        "Artery",
+        "BS1"
+      ],
+      "sourceLine": 95,
+      "section": "",
+      "label": "16"
+    },
+    {
+      "id": "cranial-floor-model-bs1-96",
+      "path": [
+        "16"
+      ],
+      "question": "Course",
+      "answer": "Passes laterally around the lower pons toward the cerebellopontine angle.",
+      "tags": [
+        "Course",
+        "Artery",
+        "BS1"
+      ],
+      "sourceLine": 96,
+      "section": "",
+      "label": "16"
+    },
+    {
+      "id": "cranial-floor-model-bs1-97",
+      "path": [
+        "16"
+      ],
+      "question": "Supply",
+      "answer": "Anteroinferior cerebellum and lateral caudal pons; may give rise to the labyrinthine artery.",
+      "tags": [
+        "Supply",
+        "Artery",
+        "BS1"
+      ],
+      "sourceLine": 97,
+      "section": "",
+      "label": "16"
+    },
+    {
+      "id": "cranial-floor-model-bs1-100",
+      "path": [
+        "17"
+      ],
+      "question": "Identification",
+      "answer": "Vertebral artery",
+      "tags": [
+        "Identification",
+        "Artery",
+        "BS1"
+      ],
+      "sourceLine": 100,
+      "section": "",
+      "label": "17"
+    },
+    {
+      "id": "cranial-floor-model-bs1-101",
+      "path": [
+        "17"
+      ],
+      "question": "Origin",
+      "answer": "First part of the subclavian artery.",
+      "tags": [
+        "Origin",
+        "Artery",
+        "BS1"
+      ],
+      "sourceLine": 101,
+      "section": "",
+      "label": "17"
+    },
+    {
+      "id": "cranial-floor-model-bs1-102",
+      "path": [
+        "17"
+      ],
+      "question": "Course",
+      "answer": "Ascends through transverse foramina, enters the skull via foramen magnum and joins the opposite vertebral artery to form the basilar artery.",
+      "tags": [
+        "Course",
+        "Artery",
+        "BS1"
+      ],
+      "sourceLine": 102,
+      "section": "",
+      "label": "17"
+    },
+    {
+      "id": "cranial-floor-model-bs1-103",
+      "path": [
+        "17"
+      ],
+      "question": "Branches",
+      "answer": "Gives posterior inferior cerebellar, anterior spinal, posterior spinal and medullary branches.",
+      "tags": [
+        "Branches",
+        "Artery",
+        "BS1"
+      ],
+      "sourceLine": 103,
+      "section": "",
+      "label": "17"
+    },
+    {
+      "id": "cranial-floor-model-bs1-104",
+      "path": [
+        "17"
+      ],
+      "question": "Supply",
+      "answer": "Medulla, spinal cord, cerebellum and posterior circulation through branches.",
+      "tags": [
+        "Supply",
+        "Artery",
+        "BS1"
+      ],
+      "sourceLine": 104,
+      "section": "",
+      "label": "17"
+    },
+    {
+      "id": "cranial-floor-model-bs1-107",
+      "path": [
+        "18"
+      ],
+      "question": "Identification",
+      "answer": "Anterior spinal artery",
+      "tags": [
+        "Identification",
+        "Artery",
+        "BS1"
+      ],
+      "sourceLine": 107,
+      "section": "",
+      "label": "18"
+    },
+    {
+      "id": "cranial-floor-model-bs1-108",
+      "path": [
+        "18"
+      ],
+      "question": "Origin",
+      "answer": "Formed by branches from the vertebral arteries.",
+      "tags": [
+        "Origin",
+        "Artery",
+        "BS1"
+      ],
+      "sourceLine": 108,
+      "section": "",
+      "label": "18"
+    },
+    {
+      "id": "cranial-floor-model-bs1-109",
+      "path": [
+        "18"
+      ],
+      "question": "Course",
+      "answer": "Descends in the anterior median fissure of the spinal cord.",
+      "tags": [
+        "Course",
+        "Artery",
+        "BS1"
+      ],
+      "sourceLine": 109,
+      "section": "",
+      "label": "18"
+    },
+    {
+      "id": "cranial-floor-model-bs1-110",
+      "path": [
+        "18"
+      ],
+      "question": "Supply",
+      "answer": "Anterior two-thirds of the spinal cord.",
+      "tags": [
+        "Supply",
+        "Artery",
+        "BS1"
+      ],
+      "sourceLine": 110,
+      "section": "",
+      "label": "18"
+    },
+    {
+      "id": "cranial-floor-model-bs1-113",
+      "path": [
+        "19"
+      ],
+      "question": "Identification",
+      "answer": "Posterior inferior cerebellar artery",
+      "tags": [
+        "Identification",
+        "Artery",
+        "BS1"
+      ],
+      "sourceLine": 113,
+      "section": "",
+      "label": "19"
+    },
+    {
+      "id": "cranial-floor-model-bs1-114",
+      "path": [
+        "19"
+      ],
+      "question": "Origin",
+      "answer": "Vertebral artery.",
+      "tags": [
+        "Origin",
+        "Artery",
+        "BS1"
+      ],
+      "sourceLine": 114,
+      "section": "",
+      "label": "19"
+    },
+    {
+      "id": "cranial-floor-model-bs1-115",
+      "path": [
+        "19"
+      ],
+      "question": "Course",
+      "answer": "Winds around the medulla toward the inferior cerebellum.",
+      "tags": [
+        "Course",
+        "Artery",
+        "BS1"
+      ],
+      "sourceLine": 115,
+      "section": "",
+      "label": "19"
+    },
+    {
+      "id": "cranial-floor-model-bs1-116",
+      "path": [
+        "19"
+      ],
+      "question": "Supply",
+      "answer": "Posteroinferior cerebellum and lateral medulla.",
+      "tags": [
+        "Supply",
+        "Artery",
+        "BS1"
+      ],
+      "sourceLine": 116,
+      "section": "",
+      "label": "19"
+    },
+    {
+      "id": "cranial-floor-model-bs1-117",
+      "path": [
+        "19"
+      ],
+      "question": "Clinical relevance",
+      "answer": "Occlusion classically causes lateral medullary (Wallenberg) syndrome.",
+      "tags": [
+        "Clinical",
+        "Artery",
+        "BS1"
+      ],
+      "sourceLine": 117,
+      "section": "",
+      "label": "19"
+    },
+    {
+      "id": "cranial-floor-model-bs1-120",
+      "path": [
+        "20"
+      ],
+      "question": "Identification",
+      "answer": "Middle meningeal artery",
+      "tags": [
+        "Identification",
+        "Artery",
+        "BS1"
+      ],
+      "sourceLine": 120,
+      "section": "",
+      "label": "20"
+    },
+    {
+      "id": "cranial-floor-model-bs1-121",
+      "path": [
+        "20"
+      ],
+      "question": "Origin",
+      "answer": "Usually a branch of the maxillary artery.",
+      "tags": [
+        "Origin",
+        "Artery",
+        "BS1"
+      ],
+      "sourceLine": 121,
+      "section": "",
+      "label": "20"
+    },
+    {
+      "id": "cranial-floor-model-bs1-122",
+      "path": [
+        "20"
+      ],
+      "question": "Course",
+      "answer": "Enters the cranial cavity through foramen spinosum and runs between dura and inner skull.",
+      "tags": [
+        "Course",
+        "Artery",
+        "BS1"
+      ],
+      "sourceLine": 122,
+      "section": "",
+      "label": "20"
+    },
+    {
+      "id": "cranial-floor-model-bs1-123",
+      "path": [
+        "20"
+      ],
+      "question": "Supply",
+      "answer": "Dura mater and calvarial structures.",
+      "tags": [
+        "Supply",
+        "Artery",
+        "BS1"
+      ],
+      "sourceLine": 123,
+      "section": "",
+      "label": "20"
+    },
+    {
+      "id": "cranial-floor-model-bs1-124",
+      "path": [
+        "20"
+      ],
+      "question": "Clinical relevance",
+      "answer": "Vulnerable near the pterion; rupture can cause an epidural haematoma.",
+      "tags": [
+        "Clinical",
+        "Artery",
+        "BS1"
+      ],
+      "sourceLine": 124,
+      "section": "",
+      "label": "20"
+    },
+    {
+      "id": "cranial-floor-model-bs1-127",
+      "path": [
+        "21"
+      ],
+      "question": "Identification",
+      "answer": "Diploic vein",
+      "tags": [
+        "Identification",
+        "Vein",
+        "BS1"
+      ],
+      "sourceLine": 127,
+      "section": "",
+      "label": "21"
+    },
+    {
+      "id": "cranial-floor-model-bs1-128",
+      "path": [
+        "21"
+      ],
+      "question": "Location",
+      "answer": "Runs within the diploë of cranial bones.",
+      "tags": [
+        "Location",
+        "Vein",
+        "BS1"
+      ],
+      "sourceLine": 128,
+      "section": "",
+      "label": "21"
+    },
+    {
+      "id": "cranial-floor-model-bs1-129",
+      "path": [
+        "21"
+      ],
+      "question": "Drainage",
+      "answer": "Communicates with dural venous sinuses, emissary veins and extracranial veins.",
+      "tags": [
+        "Drainage",
+        "Vein",
+        "BS1"
+      ],
+      "sourceLine": 129,
+      "section": "",
+      "label": "21"
+    },
+    {
+      "id": "cranial-floor-model-bs1-130",
+      "path": [
+        "21"
+      ],
+      "question": "Clinical relevance",
+      "answer": "Provides potential pathways for spread of infection between extracranial and intracranial venous systems.",
+      "tags": [
+        "Clinical",
+        "Vein",
+        "BS1"
+      ],
+      "sourceLine": 130,
+      "section": "",
+      "label": "21"
+    },
+    {
+      "id": "cranial-floor-model-bs1-133",
+      "path": [
+        "22"
+      ],
+      "question": "Identification",
+      "answer": "Diploë",
+      "tags": [
+        "Identification",
+        "BoneTissue",
+        "BS1"
+      ],
+      "sourceLine": 133,
+      "section": "",
+      "label": "22"
+    },
+    {
+      "id": "cranial-floor-model-bs1-134",
+      "path": [
+        "22"
+      ],
+      "question": "Structure",
+      "answer": "Spongy cancellous bone between the inner and outer tables of flat cranial bones.",
+      "tags": [
+        "Structure",
+        "BoneTissue",
+        "BS1"
+      ],
+      "sourceLine": 134,
+      "section": "",
+      "label": "22"
+    },
+    {
+      "id": "cranial-floor-model-bs1-135",
+      "path": [
+        "22"
+      ],
+      "question": "Contents",
+      "answer": "Contains marrow spaces and diploic veins.",
+      "tags": [
+        "Contents",
+        "BoneTissue",
+        "BS1"
+      ],
+      "sourceLine": 135,
+      "section": "",
+      "label": "22"
+    },
+    {
+      "id": "cranial-floor-model-bs1-136",
+      "path": [
+        "22"
+      ],
+      "question": "Function",
+      "answer": "Reduces skull weight while maintaining strength and houses venous channels.",
+      "tags": [
+        "Function",
+        "BoneTissue",
+        "BS1"
+      ],
+      "sourceLine": 136,
+      "section": "",
+      "label": "22"
+    },
+    {
+      "id": "cranial-floor-model-bs1-139",
+      "path": [
+        "23"
+      ],
+      "question": "Identification",
+      "answer": "Olfactory bulb",
+      "tags": [
+        "Identification",
+        "CNS",
+        "BS1"
+      ],
+      "sourceLine": 139,
+      "section": "",
+      "label": "23"
+    },
+    {
+      "id": "cranial-floor-model-bs1-140",
+      "path": [
+        "23"
+      ],
+      "question": "Function",
+      "answer": "Receives primary olfactory afferents from the nasal olfactory epithelium and begins central processing of smell.",
+      "tags": [
+        "Function",
+        "CNS",
+        "BS1"
+      ],
+      "sourceLine": 140,
+      "section": "",
+      "label": "23"
+    },
+    {
+      "id": "cranial-floor-model-bs1-141",
+      "path": [
+        "23"
+      ],
+      "question": "Relations",
+      "answer": "Lies on the cribriform plate of the ethmoid bone beneath the frontal lobe.",
+      "tags": [
+        "Relations",
+        "CNS",
+        "BS1"
+      ],
+      "sourceLine": 141,
+      "section": "",
+      "label": "23"
+    },
+    {
+      "id": "cranial-floor-model-bs1-144",
+      "path": [
+        "24"
+      ],
+      "question": "Identification",
+      "answer": "Olfactory tract (CN I)",
+      "tags": [
+        "Identification",
+        "CNS",
+        "BS1"
+      ],
+      "sourceLine": 144,
+      "section": "",
+      "label": "24"
+    },
+    {
+      "id": "cranial-floor-model-bs1-145",
+      "path": [
+        "24"
+      ],
+      "question": "Course",
+      "answer": "Extends posteriorly from the olfactory bulb along the inferior surface of the frontal lobe.",
+      "tags": [
+        "Course",
+        "CNS",
+        "BS1"
+      ],
+      "sourceLine": 145,
+      "section": "",
+      "label": "24"
+    },
+    {
+      "id": "cranial-floor-model-bs1-146",
+      "path": [
+        "24"
+      ],
+      "question": "Sensory functions",
+      "answer": "Conveys olfactory information from the bulb toward primary olfactory cortical areas.",
+      "tags": [
+        "Sensory",
+        "CNS",
+        "BS1"
+      ],
+      "sourceLine": 146,
+      "section": "",
+      "label": "24"
+    },
+    {
+      "id": "cranial-floor-model-bs1-147",
+      "path": [
+        "24"
+      ],
+      "question": "Clinical relevance",
+      "answer": "Damage can cause anosmia; cribriform plate injury may disrupt olfactory fibres.",
+      "tags": [
+        "Clinical",
+        "CNS",
+        "BS1"
+      ],
+      "sourceLine": 147,
+      "section": "",
+      "label": "24"
+    },
+    {
+      "id": "cranial-floor-model-bs1-150",
+      "path": [
+        "25"
+      ],
+      "question": "Identification",
+      "answer": "Optic nerve (CN II)",
+      "tags": [
+        "Identification",
+        "Nerve",
+        "BS1"
+      ],
+      "sourceLine": 150,
+      "section": "",
+      "label": "25"
+    },
+    {
+      "id": "cranial-floor-model-bs1-151",
+      "path": [
+        "25"
+      ],
+      "question": "Roots",
+      "answer": "Special sensory fibres from retinal ganglion cells; functionally a CNS tract.",
+      "tags": [
+        "Roots",
+        "Nerve",
+        "BS1"
+      ],
+      "sourceLine": 151,
+      "section": "",
+      "label": "25"
+    },
+    {
+      "id": "cranial-floor-model-bs1-152",
+      "path": [
+        "25"
+      ],
+      "question": "Course",
+      "answer": "Leaves the orbit through the optic canal and reaches the optic chiasm.",
+      "tags": [
+        "Course",
+        "Nerve",
+        "BS1"
+      ],
+      "sourceLine": 152,
+      "section": "",
+      "label": "25"
+    },
+    {
+      "id": "cranial-floor-model-bs1-153",
+      "path": [
+        "25"
+      ],
+      "question": "Sensory functions",
+      "answer": "Vision.",
+      "tags": [
+        "Sensory",
+        "Nerve",
+        "BS1"
+      ],
+      "sourceLine": 153,
+      "section": "",
+      "label": "25"
+    },
+    {
+      "id": "cranial-floor-model-bs1-154",
+      "path": [
+        "25"
+      ],
+      "question": "Lesion",
+      "answer": "Lesion causes ipsilateral monocular visual loss and an afferent pupillary defect.",
+      "tags": [
+        "Lesion",
+        "Nerve",
+        "BS1"
+      ],
+      "sourceLine": 154,
+      "section": "",
+      "label": "25"
+    },
+    {
+      "id": "cranial-floor-model-bs1-157",
+      "path": [
+        "26"
+      ],
+      "question": "Identification",
+      "answer": "Oculomotor nerve (CN III)",
+      "tags": [
+        "Identification",
+        "Nerve",
+        "BS1"
+      ],
+      "sourceLine": 157,
+      "section": "",
+      "label": "26"
+    },
+    {
+      "id": "cranial-floor-model-bs1-158",
+      "path": [
+        "26"
+      ],
+      "question": "Roots",
+      "answer": "Midbrain nuclei at the level of the superior colliculus; somatic motor and parasympathetic fibres.",
+      "tags": [
+        "Roots",
+        "Nerve",
+        "BS1"
+      ],
+      "sourceLine": 158,
+      "section": "",
+      "label": "26"
+    },
+    {
+      "id": "cranial-floor-model-bs1-159",
+      "path": [
+        "26"
+      ],
+      "question": "Course",
+      "answer": "Emerges from ventral midbrain, passes between posterior cerebral and superior cerebellar arteries, travels in cavernous sinus wall and enters orbit via superior orbital fissure.",
+      "tags": [
+        "Course",
+        "Nerve",
+        "BS1"
+      ],
+      "sourceLine": 159,
+      "section": "",
+      "label": "26"
+    },
+    {
+      "id": "cranial-floor-model-bs1-160",
+      "path": [
+        "26"
+      ],
+      "question": "Motor functions",
+      "answer": "Supplies superior, medial and inferior recti, inferior oblique and levator palpebrae superioris; parasympathetic fibres constrict pupil and accommodate.",
+      "tags": [
+        "Motor",
+        "Nerve",
+        "BS1"
+      ],
+      "sourceLine": 160,
+      "section": "",
+      "label": "26"
+    },
+    {
+      "id": "cranial-floor-model-bs1-161",
+      "path": [
+        "26"
+      ],
+      "question": "Lesion",
+      "answer": "Ptosis, 'down and out' eye, diplopia and possibly a dilated poorly reactive pupil.",
+      "tags": [
+        "Lesion",
+        "Nerve",
+        "BS1"
+      ],
+      "sourceLine": 161,
+      "section": "",
+      "label": "26"
+    },
+    {
+      "id": "cranial-floor-model-bs1-164",
+      "path": [
+        "27"
+      ],
+      "question": "Identification",
+      "answer": "Trochlear nerve (CN IV)",
+      "tags": [
+        "Identification",
+        "Nerve",
+        "BS1"
+      ],
+      "sourceLine": 164,
+      "section": "",
+      "label": "27"
+    },
+    {
+      "id": "cranial-floor-model-bs1-165",
+      "path": [
+        "27"
+      ],
+      "question": "Roots",
+      "answer": "Trochlear nucleus in midbrain at level of inferior colliculus.",
+      "tags": [
+        "Roots",
+        "Nerve",
+        "BS1"
+      ],
+      "sourceLine": 165,
+      "section": "",
+      "label": "27"
+    },
+    {
+      "id": "cranial-floor-model-bs1-166",
+      "path": [
+        "27"
+      ],
+      "question": "Course",
+      "answer": "Only cranial nerve to emerge dorsally from brainstem; wraps around midbrain, runs in cavernous sinus wall and enters orbit through superior orbital fissure.",
+      "tags": [
+        "Course",
+        "Nerve",
+        "BS1"
+      ],
+      "sourceLine": 166,
+      "section": "",
+      "label": "27"
+    },
+    {
+      "id": "cranial-floor-model-bs1-167",
+      "path": [
+        "27"
+      ],
+      "question": "Motor functions",
+      "answer": "Supplies superior oblique muscle.",
+      "tags": [
+        "Motor",
+        "Nerve",
+        "BS1"
+      ],
+      "sourceLine": 167,
+      "section": "",
+      "label": "27"
+    },
+    {
+      "id": "cranial-floor-model-bs1-168",
+      "path": [
+        "27"
+      ],
+      "question": "Lesion",
+      "answer": "Causes vertical diplopia, worse when looking down and in; patient may tilt head away from affected side.",
+      "tags": [
+        "Lesion",
+        "Nerve",
+        "BS1"
+      ],
+      "sourceLine": 168,
+      "section": "",
+      "label": "27"
+    },
+    {
+      "id": "cranial-floor-model-bs1-169",
+      "path": [
+        "27"
+      ],
+      "question": "Note",
+      "answer": "May not be labelled on all versions of the model.",
+      "tags": [
+        "ModelNote",
+        "Nerve",
+        "BS1"
+      ],
+      "sourceLine": 169,
+      "section": "",
+      "label": "27"
+    },
+    {
+      "id": "cranial-floor-model-bs1-172",
+      "path": [
+        "28"
+      ],
+      "question": "Identification",
+      "answer": "Trigeminal nerve (CN V)",
+      "tags": [
+        "Identification",
+        "Nerve",
+        "BS1"
+      ],
+      "sourceLine": 172,
+      "section": "",
+      "label": "28"
+    },
+    {
+      "id": "cranial-floor-model-bs1-173",
+      "path": [
+        "28"
+      ],
+      "question": "Roots",
+      "answer": "Large sensory root and smaller motor root emerging from lateral pons.",
+      "tags": [
+        "Roots",
+        "Nerve",
+        "BS1"
+      ],
+      "sourceLine": 173,
+      "section": "",
+      "label": "28"
+    },
+    {
+      "id": "cranial-floor-model-bs1-174",
+      "path": [
+        "28"
+      ],
+      "question": "Course",
+      "answer": "Sensory root expands into trigeminal ganglion; divisions V1, V2 and V3 leave via superior orbital fissure, foramen rotundum and foramen ovale respectively.",
+      "tags": [
+        "Course",
+        "Nerve",
+        "BS1"
+      ],
+      "sourceLine": 174,
+      "section": "",
+      "label": "28"
+    },
+    {
+      "id": "cranial-floor-model-bs1-175",
+      "path": [
+        "28"
+      ],
+      "question": "Motor functions",
+      "answer": "Motor fibres travel with V3 to muscles of mastication and selected first-arch muscles.",
+      "tags": [
+        "Motor",
+        "Nerve",
+        "BS1"
+      ],
+      "sourceLine": 175,
+      "section": "",
+      "label": "28"
+    },
+    {
+      "id": "cranial-floor-model-bs1-176",
+      "path": [
+        "28"
+      ],
+      "question": "Sensory functions",
+      "answer": "Major somatic sensory nerve of face, cornea, nasal/oral cavities, teeth and much of cranial dura.",
+      "tags": [
+        "Sensory",
+        "Nerve",
+        "BS1"
+      ],
+      "sourceLine": 176,
+      "section": "",
+      "label": "28"
+    },
+    {
+      "id": "cranial-floor-model-bs1-177",
+      "path": [
+        "28"
+      ],
+      "question": "Lesion",
+      "answer": "May cause ipsilateral facial sensory loss; motor root involvement causes weakness of mastication with the jaw deviating toward the side of the lesion on opening; the corneal reflex afferent limb may be impaired if V1 is involved.",
+      "tags": [
+        "Lesion",
+        "Nerve",
+        "BS1"
+      ],
+      "sourceLine": 177,
+      "section": "",
+      "label": "28"
+    },
+    {
+      "id": "cranial-floor-model-bs1-180",
+      "path": [
+        "29"
+      ],
+      "question": "Identification",
+      "answer": "Trigeminal ganglion",
+      "tags": [
+        "Identification",
+        "Ganglion",
+        "BS1"
+      ],
+      "sourceLine": 180,
+      "section": "",
+      "label": "29"
+    },
+    {
+      "id": "cranial-floor-model-bs1-181",
+      "path": [
+        "29"
+      ],
+      "question": "Location",
+      "answer": "Lies in Meckel's cave near the apex of the petrous temporal bone.",
+      "tags": [
+        "Location",
+        "Ganglion",
+        "BS1"
+      ],
+      "sourceLine": 181,
+      "section": "",
+      "label": "29"
+    },
+    {
+      "id": "cranial-floor-model-bs1-182",
+      "path": [
+        "29"
+      ],
+      "question": "Function",
+      "answer": "Contains sensory neuron cell bodies of the trigeminal nerve.",
+      "tags": [
+        "Function",
+        "Ganglion",
+        "BS1"
+      ],
+      "sourceLine": 182,
+      "section": "",
+      "label": "29"
+    },
+    {
+      "id": "cranial-floor-model-bs1-183",
+      "path": [
+        "29"
+      ],
+      "question": "Branches",
+      "answer": "Gives rise to ophthalmic (V1), maxillary (V2) and mandibular (V3) divisions.",
+      "tags": [
+        "Branches",
+        "Ganglion",
+        "BS1"
+      ],
+      "sourceLine": 183,
+      "section": "",
+      "label": "29"
+    },
+    {
+      "id": "cranial-floor-model-bs1-186",
+      "path": [
+        "30"
+      ],
+      "question": "Identification",
+      "answer": "Ophthalmic branch of trigeminal nerve (CN V1)",
+      "tags": [
+        "Identification",
+        "Nerve",
+        "BS1"
+      ],
+      "sourceLine": 186,
+      "section": "",
+      "label": "30"
+    },
+    {
+      "id": "cranial-floor-model-bs1-187",
+      "path": [
+        "30"
+      ],
+      "question": "Course",
+      "answer": "Passes in the lateral wall of the cavernous sinus and exits the skull through the superior orbital fissure.",
+      "tags": [
+        "Course",
+        "Nerve",
+        "BS1"
+      ],
+      "sourceLine": 187,
+      "section": "",
+      "label": "30"
+    },
+    {
+      "id": "cranial-floor-model-bs1-188",
+      "path": [
+        "30"
+      ],
+      "question": "Sensory functions",
+      "answer": "Sensation from cornea, upper eyelid, forehead, scalp, dorsum of nose and parts of nasal cavity and cranial dura.",
+      "tags": [
+        "Sensory",
+        "Nerve",
+        "BS1"
+      ],
+      "sourceLine": 188,
+      "section": "",
+      "label": "30"
+    },
+    {
+      "id": "cranial-floor-model-bs1-189",
+      "path": [
+        "30"
+      ],
+      "question": "Motor functions",
+      "answer": "None; purely sensory.",
+      "tags": [
+        "Motor",
+        "Nerve",
+        "BS1"
+      ],
+      "sourceLine": 189,
+      "section": "",
+      "label": "30"
+    },
+    {
+      "id": "cranial-floor-model-bs1-190",
+      "path": [
+        "30"
+      ],
+      "question": "Lesion",
+      "answer": "Sensory loss in V1 territory and reduced/absent afferent limb of corneal reflex.",
+      "tags": [
+        "Lesion",
+        "Nerve",
+        "BS1"
+      ],
+      "sourceLine": 190,
+      "section": "",
+      "label": "30"
+    },
+    {
+      "id": "cranial-floor-model-bs1-193",
+      "path": [
+        "31"
+      ],
+      "question": "Identification",
+      "answer": "Maxillary branch of trigeminal nerve (CN V2)",
+      "tags": [
+        "Identification",
+        "Nerve",
+        "BS1"
+      ],
+      "sourceLine": 193,
+      "section": "",
+      "label": "31"
+    },
+    {
+      "id": "cranial-floor-model-bs1-194",
+      "path": [
+        "31"
+      ],
+      "question": "Course",
+      "answer": "Passes in the lateral wall of the cavernous sinus and exits via foramen rotundum into the pterygopalatine fossa.",
+      "tags": [
+        "Course",
+        "Nerve",
+        "BS1"
+      ],
+      "sourceLine": 194,
+      "section": "",
+      "label": "31"
+    },
+    {
+      "id": "cranial-floor-model-bs1-195",
+      "path": [
+        "31"
+      ],
+      "question": "Sensory functions",
+      "answer": "Sensation from midface, upper lip, maxillary teeth, palate and parts of nasal cavity.",
+      "tags": [
+        "Sensory",
+        "Nerve",
+        "BS1"
+      ],
+      "sourceLine": 195,
+      "section": "",
+      "label": "31"
+    },
+    {
+      "id": "cranial-floor-model-bs1-196",
+      "path": [
+        "31"
+      ],
+      "question": "Motor functions",
+      "answer": "None; purely sensory.",
+      "tags": [
+        "Motor",
+        "Nerve",
+        "BS1"
+      ],
+      "sourceLine": 196,
+      "section": "",
+      "label": "31"
+    },
+    {
+      "id": "cranial-floor-model-bs1-197",
+      "path": [
+        "31"
+      ],
+      "question": "Lesion",
+      "answer": "Causes sensory loss or paraesthesia over the midface, upper lip, maxillary teeth and palate; there is no motor deficit because V2 is purely sensory.",
+      "tags": [
+        "Lesion",
+        "Nerve",
+        "BS1"
+      ],
+      "sourceLine": 197,
+      "section": "",
+      "label": "31"
+    },
+    {
+      "id": "cranial-floor-model-bs1-200",
+      "path": [
+        "32"
+      ],
+      "question": "Identification",
+      "answer": "Mandibular branch of trigeminal nerve (CN V3)",
+      "tags": [
+        "Identification",
+        "Nerve",
+        "BS1"
+      ],
+      "sourceLine": 200,
+      "section": "",
+      "label": "32"
+    },
+    {
+      "id": "cranial-floor-model-bs1-201",
+      "path": [
+        "32"
+      ],
+      "question": "Course",
+      "answer": "Exits cranial cavity through foramen ovale.",
+      "tags": [
+        "Course",
+        "Nerve",
+        "BS1"
+      ],
+      "sourceLine": 201,
+      "section": "",
+      "label": "32"
+    },
+    {
+      "id": "cranial-floor-model-bs1-202",
+      "path": [
+        "32"
+      ],
+      "question": "Motor functions",
+      "answer": "Supplies muscles of mastication, mylohyoid, anterior belly of digastric, tensor tympani and tensor veli palatini.",
+      "tags": [
+        "Motor",
+        "Nerve",
+        "BS1"
+      ],
+      "sourceLine": 202,
+      "section": "",
+      "label": "32"
+    },
+    {
+      "id": "cranial-floor-model-bs1-203",
+      "path": [
+        "32"
+      ],
+      "question": "Sensory functions",
+      "answer": "Sensation from lower face, mandibular teeth, anterior two-thirds of tongue for general sensation and parts of external ear and dura.",
+      "tags": [
+        "Sensory",
+        "Nerve",
+        "BS1"
+      ],
+      "sourceLine": 203,
+      "section": "",
+      "label": "32"
+    },
+    {
+      "id": "cranial-floor-model-bs1-204",
+      "path": [
+        "32"
+      ],
+      "question": "Lesion",
+      "answer": "Causes sensory loss over the lower face, mandibular teeth and general sensation from the anterior two-thirds of the tongue; motor involvement weakens mastication and the jaw deviates toward the affected side on opening.",
+      "tags": [
+        "Lesion",
+        "Nerve",
+        "BS1"
+      ],
+      "sourceLine": 204,
+      "section": "",
+      "label": "32"
+    },
+    {
+      "id": "cranial-floor-model-bs1-207",
+      "path": [
+        "33"
+      ],
+      "question": "Identification",
+      "answer": "Abducens nerve (CN VI)",
+      "tags": [
+        "Identification",
+        "Nerve",
+        "BS1"
+      ],
+      "sourceLine": 207,
+      "section": "",
+      "label": "33"
+    },
+    {
+      "id": "cranial-floor-model-bs1-208",
+      "path": [
+        "33"
+      ],
+      "question": "Roots",
+      "answer": "Abducens nucleus in caudal pons.",
+      "tags": [
+        "Roots",
+        "Nerve",
+        "BS1"
+      ],
+      "sourceLine": 208,
+      "section": "",
+      "label": "33"
+    },
+    {
+      "id": "cranial-floor-model-bs1-209",
+      "path": [
+        "33"
+      ],
+      "question": "Course",
+      "answer": "Emerges at pontomedullary junction, ascends over clivus, passes through cavernous sinus beside internal carotid artery and enters orbit via superior orbital fissure.",
+      "tags": [
+        "Course",
+        "Nerve",
+        "BS1"
+      ],
+      "sourceLine": 209,
+      "section": "",
+      "label": "33"
+    },
+    {
+      "id": "cranial-floor-model-bs1-210",
+      "path": [
+        "33"
+      ],
+      "question": "Motor functions",
+      "answer": "Supplies lateral rectus muscle, abducting the eye.",
+      "tags": [
+        "Motor",
+        "Nerve",
+        "BS1"
+      ],
+      "sourceLine": 210,
+      "section": "",
+      "label": "33"
+    },
+    {
+      "id": "cranial-floor-model-bs1-211",
+      "path": [
+        "33"
+      ],
+      "question": "Lesion",
+      "answer": "Causes failure of abduction and horizontal diplopia; affected eye rests relatively medially.",
+      "tags": [
+        "Lesion",
+        "Nerve",
+        "BS1"
+      ],
+      "sourceLine": 211,
+      "section": "",
+      "label": "33"
+    },
+    {
+      "id": "cranial-floor-model-bs1-214",
+      "path": [
+        "34"
+      ],
+      "question": "Identification",
+      "answer": "Intermediate nerve of the facial nerve",
+      "tags": [
+        "Identification",
+        "Nerve",
+        "BS1"
+      ],
+      "sourceLine": 214,
+      "section": "",
+      "label": "34"
+    },
+    {
+      "id": "cranial-floor-model-bs1-215",
+      "path": [
+        "34"
+      ],
+      "question": "Roots",
+      "answer": "Nervus intermedius carries sensory and parasympathetic fibres associated with CN VII.",
+      "tags": [
+        "Roots",
+        "Nerve",
+        "BS1"
+      ],
+      "sourceLine": 215,
+      "section": "",
+      "label": "34"
+    },
+    {
+      "id": "cranial-floor-model-bs1-216",
+      "path": [
+        "34"
+      ],
+      "question": "Course",
+      "answer": "Travels with the motor root of facial nerve through the internal acoustic meatus and facial canal.",
+      "tags": [
+        "Course",
+        "Nerve",
+        "BS1"
+      ],
+      "sourceLine": 216,
+      "section": "",
+      "label": "34"
+    },
+    {
+      "id": "cranial-floor-model-bs1-217",
+      "path": [
+        "34"
+      ],
+      "question": "Sensory functions",
+      "answer": "Carries taste from anterior two-thirds of tongue and a small amount of somatic sensation from the ear.",
+      "tags": [
+        "Sensory",
+        "Nerve",
+        "BS1"
+      ],
+      "sourceLine": 217,
+      "section": "",
+      "label": "34"
+    },
+    {
+      "id": "cranial-floor-model-bs1-218",
+      "path": [
+        "34"
+      ],
+      "question": "Parasympathetic functions",
+      "answer": "Carries preganglionic parasympathetic fibres for lacrimal, submandibular, sublingual and nasal/palatal glands.",
+      "tags": [
+        "Parasympathetic",
+        "Nerve",
+        "BS1"
+      ],
+      "sourceLine": 218,
+      "section": "",
+      "label": "34"
+    },
+    {
+      "id": "cranial-floor-model-bs1-219",
+      "path": [
+        "34"
+      ],
+      "question": "Lesion",
+      "answer": "Depending on the lesion level, may cause loss of taste from the anterior two-thirds of the tongue and reduced lacrimal, submandibular and sublingual gland secretion.",
+      "tags": [
+        "Lesion",
+        "Nerve",
+        "BS1"
+      ],
+      "sourceLine": 219,
+      "section": "",
+      "label": "34"
+    },
+    {
+      "id": "cranial-floor-model-bs1-222",
+      "path": [
+        "35"
+      ],
+      "question": "Identification",
+      "answer": "Facial nerve (CN VII)",
+      "tags": [
+        "Identification",
+        "Nerve",
+        "BS1"
+      ],
+      "sourceLine": 222,
+      "section": "",
+      "label": "35"
+    },
+    {
+      "id": "cranial-floor-model-bs1-223",
+      "path": [
+        "35"
+      ],
+      "question": "Roots",
+      "answer": "Motor nucleus of facial nerve in pons, with sensory/parasympathetic fibres travelling in nervus intermedius.",
+      "tags": [
+        "Roots",
+        "Nerve",
+        "BS1"
+      ],
+      "sourceLine": 223,
+      "section": "",
+      "label": "35"
+    },
+    {
+      "id": "cranial-floor-model-bs1-224",
+      "path": [
+        "35"
+      ],
+      "question": "Course",
+      "answer": "Enters internal acoustic meatus, traverses facial canal, exits stylomastoid foramen and branches within parotid gland.",
+      "tags": [
+        "Course",
+        "Nerve",
+        "BS1"
+      ],
+      "sourceLine": 224,
+      "section": "",
+      "label": "35"
+    },
+    {
+      "id": "cranial-floor-model-bs1-225",
+      "path": [
+        "35"
+      ],
+      "question": "Motor functions",
+      "answer": "Muscles of facial expression, stapedius, stylohyoid and posterior belly of digastric.",
+      "tags": [
+        "Motor",
+        "Nerve",
+        "BS1"
+      ],
+      "sourceLine": 225,
+      "section": "",
+      "label": "35"
+    },
+    {
+      "id": "cranial-floor-model-bs1-226",
+      "path": [
+        "35"
+      ],
+      "question": "Sensory functions",
+      "answer": "Taste from anterior two-thirds of tongue; small somatic sensory component from external ear.",
+      "tags": [
+        "Sensory",
+        "Nerve",
+        "BS1"
+      ],
+      "sourceLine": 226,
+      "section": "",
+      "label": "35"
+    },
+    {
+      "id": "cranial-floor-model-bs1-227",
+      "path": [
+        "35"
+      ],
+      "question": "Lesion",
+      "answer": "Lower motor neuron lesion causes ipsilateral weakness of upper and lower facial muscles; other deficits depend on lesion level.",
+      "tags": [
+        "Lesion",
+        "Nerve",
+        "BS1"
+      ],
+      "sourceLine": 227,
+      "section": "",
+      "label": "35"
+    },
+    {
+      "id": "cranial-floor-model-bs1-230",
+      "path": [
+        "36"
+      ],
+      "question": "Identification",
+      "answer": "Vestibulocochlear nerve (CN VIII)",
+      "tags": [
+        "Identification",
+        "Nerve",
+        "BS1"
+      ],
+      "sourceLine": 230,
+      "section": "",
+      "label": "36"
+    },
+    {
+      "id": "cranial-floor-model-bs1-231",
+      "path": [
+        "36"
+      ],
+      "question": "Roots",
+      "answer": "Cochlear and vestibular divisions entering the brainstem at the cerebellopontine angle.",
+      "tags": [
+        "Roots",
+        "Nerve",
+        "BS1"
+      ],
+      "sourceLine": 231,
+      "section": "",
+      "label": "36"
+    },
+    {
+      "id": "cranial-floor-model-bs1-232",
+      "path": [
+        "36"
+      ],
+      "question": "Course",
+      "answer": "Passes through internal acoustic meatus with CN VII.",
+      "tags": [
+        "Course",
+        "Nerve",
+        "BS1"
+      ],
+      "sourceLine": 232,
+      "section": "",
+      "label": "36"
+    },
+    {
+      "id": "cranial-floor-model-bs1-233",
+      "path": [
+        "36"
+      ],
+      "question": "Sensory functions",
+      "answer": "Hearing via cochlear division and balance/head movement via vestibular division.",
+      "tags": [
+        "Sensory",
+        "Nerve",
+        "BS1"
+      ],
+      "sourceLine": 233,
+      "section": "",
+      "label": "36"
+    },
+    {
+      "id": "cranial-floor-model-bs1-234",
+      "path": [
+        "36"
+      ],
+      "question": "Lesion",
+      "answer": "Can cause sensorineural hearing loss, tinnitus, vertigo and imbalance.",
+      "tags": [
+        "Lesion",
+        "Nerve",
+        "BS1"
+      ],
+      "sourceLine": 234,
+      "section": "",
+      "label": "36"
+    },
+    {
+      "id": "cranial-floor-model-bs1-237",
+      "path": [
+        "37"
+      ],
+      "question": "Identification",
+      "answer": "Glossopharyngeal nerve (CN IX)",
+      "tags": [
+        "Identification",
+        "Nerve",
+        "BS1"
+      ],
+      "sourceLine": 237,
+      "section": "",
+      "label": "37"
+    },
+    {
+      "id": "cranial-floor-model-bs1-238",
+      "path": [
+        "37"
+      ],
+      "question": "Roots",
+      "answer": "Medullary nuclei including nucleus ambiguus, inferior salivatory nucleus and nucleus solitarius pathways.",
+      "tags": [
+        "Roots",
+        "Nerve",
+        "BS1"
+      ],
+      "sourceLine": 238,
+      "section": "",
+      "label": "37"
+    },
+    {
+      "id": "cranial-floor-model-bs1-239",
+      "path": [
+        "37"
+      ],
+      "question": "Course",
+      "answer": "Emerges from postolivary sulcus and exits skull through jugular foramen.",
+      "tags": [
+        "Course",
+        "Nerve",
+        "BS1"
+      ],
+      "sourceLine": 239,
+      "section": "",
+      "label": "37"
+    },
+    {
+      "id": "cranial-floor-model-bs1-240",
+      "path": [
+        "37"
+      ],
+      "question": "Motor functions",
+      "answer": "Supplies stylopharyngeus.",
+      "tags": [
+        "Motor",
+        "Nerve",
+        "BS1"
+      ],
+      "sourceLine": 240,
+      "section": "",
+      "label": "37"
+    },
+    {
+      "id": "cranial-floor-model-bs1-241",
+      "path": [
+        "37"
+      ],
+      "question": "Sensory functions",
+      "answer": "General/taste sensation from posterior third of tongue, pharyngeal sensation and carotid body/sinus afferents.",
+      "tags": [
+        "Sensory",
+        "Nerve",
+        "BS1"
+      ],
+      "sourceLine": 241,
+      "section": "",
+      "label": "37"
+    },
+    {
+      "id": "cranial-floor-model-bs1-242",
+      "path": [
+        "37"
+      ],
+      "question": "Parasympathetic functions",
+      "answer": "Secretomotor pathway to parotid gland via otic ganglion.",
+      "tags": [
+        "Parasympathetic",
+        "Nerve",
+        "BS1"
+      ],
+      "sourceLine": 242,
+      "section": "",
+      "label": "37"
+    },
+    {
+      "id": "cranial-floor-model-bs1-243",
+      "path": [
+        "37"
+      ],
+      "question": "Lesion",
+      "answer": "May cause loss of taste and sensation from the posterior third of the tongue, impaired swallowing, loss of the afferent limb of the gag reflex and reduced parotid secretion.",
+      "tags": [
+        "Lesion",
+        "Nerve",
+        "BS1"
+      ],
+      "sourceLine": 243,
+      "section": "",
+      "label": "37"
+    },
+    {
+      "id": "cranial-floor-model-bs1-246",
+      "path": [
+        "38"
+      ],
+      "question": "Identification",
+      "answer": "Vagus nerve (CN X)",
+      "tags": [
+        "Identification",
+        "Nerve",
+        "BS1"
+      ],
+      "sourceLine": 246,
+      "section": "",
+      "label": "38"
+    },
+    {
+      "id": "cranial-floor-model-bs1-247",
+      "path": [
+        "38"
+      ],
+      "question": "Roots",
+      "answer": "Medullary nuclei including nucleus ambiguus, dorsal motor nucleus of vagus and nucleus solitarius pathways.",
+      "tags": [
+        "Roots",
+        "Nerve",
+        "BS1"
+      ],
+      "sourceLine": 247,
+      "section": "",
+      "label": "38"
+    },
+    {
+      "id": "cranial-floor-model-bs1-248",
+      "path": [
+        "38"
+      ],
+      "question": "Course",
+      "answer": "Emerges from postolivary sulcus, exits through jugular foramen and descends in carotid sheath into thorax and abdomen.",
+      "tags": [
+        "Course",
+        "Nerve",
+        "BS1"
+      ],
+      "sourceLine": 248,
+      "section": "",
+      "label": "38"
+    },
+    {
+      "id": "cranial-floor-model-bs1-249",
+      "path": [
+        "38"
+      ],
+      "question": "Motor functions",
+      "answer": "Supplies most muscles of palate, pharynx and larynx.",
+      "tags": [
+        "Motor",
+        "Nerve",
+        "BS1"
+      ],
+      "sourceLine": 249,
+      "section": "",
+      "label": "38"
+    },
+    {
+      "id": "cranial-floor-model-bs1-250",
+      "path": [
+        "38"
+      ],
+      "question": "Sensory functions",
+      "answer": "Visceral sensation from thoracoabdominal organs and sensation from larynx/pharynx; taste from epiglottic region.",
+      "tags": [
+        "Sensory",
+        "Nerve",
+        "BS1"
+      ],
+      "sourceLine": 250,
+      "section": "",
+      "label": "38"
+    },
+    {
+      "id": "cranial-floor-model-bs1-251",
+      "path": [
+        "38"
+      ],
+      "question": "Parasympathetic functions",
+      "answer": "Parasympathetic supply to thoracic and much of abdominal viscera.",
+      "tags": [
+        "Parasympathetic",
+        "Nerve",
+        "BS1"
+      ],
+      "sourceLine": 251,
+      "section": "",
+      "label": "38"
+    },
+    {
+      "id": "cranial-floor-model-bs1-252",
+      "path": [
+        "38"
+      ],
+      "question": "Lesion",
+      "answer": "May cause dysphagia and hoarseness, ipsilateral palatal weakness with the uvula deviating away from the lesion, and loss of the efferent limb of the gag reflex.",
+      "tags": [
+        "Lesion",
+        "Nerve",
+        "BS1"
+      ],
+      "sourceLine": 252,
+      "section": "",
+      "label": "38"
+    },
+    {
+      "id": "cranial-floor-model-bs1-255",
+      "path": [
+        "39"
+      ],
+      "question": "Identification",
+      "answer": "Accessory nerve (CN XI)",
+      "tags": [
+        "Identification",
+        "Nerve",
+        "BS1"
+      ],
+      "sourceLine": 255,
+      "section": "",
+      "label": "39"
+    },
+    {
+      "id": "cranial-floor-model-bs1-256",
+      "path": [
+        "39"
+      ],
+      "question": "Roots",
+      "answer": "Spinal rootlets from upper cervical spinal cord, classically C1–C5/6.",
+      "tags": [
+        "Roots",
+        "Nerve",
+        "BS1"
+      ],
+      "sourceLine": 256,
+      "section": "",
+      "label": "39"
+    },
+    {
+      "id": "cranial-floor-model-bs1-257",
+      "path": [
+        "39"
+      ],
+      "question": "Course",
+      "answer": "Spinal root ascends through foramen magnum and exits skull through jugular foramen.",
+      "tags": [
+        "Course",
+        "Nerve",
+        "BS1"
+      ],
+      "sourceLine": 257,
+      "section": "",
+      "label": "39"
+    },
+    {
+      "id": "cranial-floor-model-bs1-258",
+      "path": [
+        "39"
+      ],
+      "question": "Motor functions",
+      "answer": "Supplies sternocleidomastoid and trapezius.",
+      "tags": [
+        "Motor",
+        "Nerve",
+        "BS1"
+      ],
+      "sourceLine": 258,
+      "section": "",
+      "label": "39"
+    },
+    {
+      "id": "cranial-floor-model-bs1-259",
+      "path": [
+        "39"
+      ],
+      "question": "Lesion",
+      "answer": "Causes weak head turning away from affected side and shoulder droop/weak shrug on affected side.",
+      "tags": [
+        "Lesion",
+        "Nerve",
+        "BS1"
+      ],
+      "sourceLine": 259,
+      "section": "",
+      "label": "39"
+    },
+    {
+      "id": "cranial-floor-model-bs1-262",
+      "path": [
+        "40"
+      ],
+      "question": "Identification",
+      "answer": "Hypoglossal nerve (CN XII)",
+      "tags": [
+        "Identification",
+        "Nerve",
+        "BS1"
+      ],
+      "sourceLine": 262,
+      "section": "",
+      "label": "40"
+    },
+    {
+      "id": "cranial-floor-model-bs1-263",
+      "path": [
+        "40"
+      ],
+      "question": "Roots",
+      "answer": "Hypoglossal nucleus in medulla.",
+      "tags": [
+        "Roots",
+        "Nerve",
+        "BS1"
+      ],
+      "sourceLine": 263,
+      "section": "",
+      "label": "40"
+    },
+    {
+      "id": "cranial-floor-model-bs1-264",
+      "path": [
+        "40"
+      ],
+      "question": "Course",
+      "answer": "Emerges between pyramid and olive and exits through hypoglossal canal.",
+      "tags": [
+        "Course",
+        "Nerve",
+        "BS1"
+      ],
+      "sourceLine": 264,
+      "section": "",
+      "label": "40"
+    },
+    {
+      "id": "cranial-floor-model-bs1-265",
+      "path": [
+        "40"
+      ],
+      "question": "Motor functions",
+      "answer": "Supplies intrinsic and extrinsic tongue muscles except palatoglossus.",
+      "tags": [
+        "Motor",
+        "Nerve",
+        "BS1"
+      ],
+      "sourceLine": 265,
+      "section": "",
+      "label": "40"
+    },
+    {
+      "id": "cranial-floor-model-bs1-266",
+      "path": [
+        "40"
+      ],
+      "question": "Lesion",
+      "answer": "Lower motor neuron lesion causes ipsilateral tongue weakness, atrophy and deviation toward the lesion on protrusion.",
+      "tags": [
+        "Lesion",
+        "Nerve",
+        "BS1"
+      ],
+      "sourceLine": 266,
+      "section": "",
+      "label": "40"
+    },
+    {
+      "id": "cranial-floor-model-bs1-269",
+      "path": [
+        "41"
+      ],
+      "question": "Identification",
+      "answer": "Cervical nerve",
+      "tags": [
+        "Identification",
+        "Nerve",
+        "BS1"
+      ],
+      "sourceLine": 269,
+      "section": "",
+      "label": "41"
+    },
+    {
+      "id": "cranial-floor-model-bs1-270",
+      "path": [
+        "41"
+      ],
+      "question": "Roots",
+      "answer": "Arises from a cervical spinal nerve level; exact level is not specified in the supplied guide.",
+      "tags": [
+        "Roots",
+        "Nerve",
+        "BS1"
+      ],
+      "sourceLine": 270,
+      "section": "",
+      "label": "41"
+    },
+    {
+      "id": "cranial-floor-model-bs1-271",
+      "path": [
+        "41"
+      ],
+      "question": "Function",
+      "answer": "Carries somatic motor, sensory and autonomic fibres according to the specific cervical spinal nerve involved.",
+      "tags": [
+        "Function",
+        "Nerve",
+        "BS1"
+      ],
+      "sourceLine": 271,
+      "section": "",
+      "label": "41"
+    },
+    {
+      "id": "cranial-floor-model-bs1-272",
+      "path": [
+        "41"
+      ],
+      "question": "Note",
+      "answer": "The supplied guide labels this generically as 'cervical nerve' without specifying a root level.",
+      "tags": [
+        "ModelNote",
+        "Nerve",
+        "BS1"
+      ],
+      "sourceLine": 272,
+      "section": "",
+      "label": "41"
+    },
+    {
+      "id": "cranial-floor-model-bs1-275",
+      "path": [
+        "42"
+      ],
+      "question": "Identification",
+      "answer": "Pituitary gland (hypophysis)",
+      "tags": [
+        "Identification",
+        "Gland",
+        "BS1"
+      ],
+      "sourceLine": 275,
+      "section": "",
+      "label": "42"
+    },
+    {
+      "id": "cranial-floor-model-bs1-276",
+      "path": [
+        "42"
+      ],
+      "question": "Location",
+      "answer": "Lies in the hypophyseal fossa of the sella turcica and connects to the hypothalamus via the infundibulum.",
+      "tags": [
+        "Location",
+        "Gland",
+        "BS1"
+      ],
+      "sourceLine": 276,
+      "section": "",
+      "label": "42"
+    },
+    {
+      "id": "cranial-floor-model-bs1-277",
+      "path": [
+        "42"
+      ],
+      "question": "Parts",
+      "answer": "Anterior pituitary (adenohypophysis) and posterior pituitary (neurohypophysis).",
+      "tags": [
+        "Parts",
+        "Gland",
+        "BS1"
+      ],
+      "sourceLine": 277,
+      "section": "",
+      "label": "42"
+    },
+    {
+      "id": "cranial-floor-model-bs1-278",
+      "path": [
+        "42"
+      ],
+      "question": "Function",
+      "answer": "Regulates multiple endocrine axes through secretion or release of hormones controlling growth, thyroid, adrenal, gonadal, lactational and water-balance functions.",
+      "tags": [
+        "Function",
+        "Gland",
+        "BS1"
+      ],
+      "sourceLine": 278,
+      "section": "",
+      "label": "42"
+    },
+    {
+      "id": "cranial-floor-model-bs1-279",
+      "path": [
+        "42"
+      ],
+      "question": "Relations",
+      "answer": "Optic chiasm lies superiorly, sphenoidal sinus inferiorly and cavernous sinuses laterally.",
+      "tags": [
+        "Relations",
+        "Gland",
+        "BS1"
+      ],
+      "sourceLine": 279,
+      "section": "",
+      "label": "42"
+    }
+  ]
+}

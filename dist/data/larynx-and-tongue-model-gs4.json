@@ -1,0 +1,3569 @@
+{
+  "id": "larynx-and-tongue-model-gs4",
+  "name": "Larynx and Tongue (Model GS4)",
+  "cards": [
+    {
+      "id": "larynx-and-tongue-model-gs4-3",
+      "path": [
+        "1"
+      ],
+      "question": "Identification",
+      "answer": "Hyoid bone",
+      "tags": [
+        "Identification",
+        "Bone",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 3,
+      "section": "Larynx",
+      "label": "1"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-4",
+      "path": [
+        "1"
+      ],
+      "question": "Articulations",
+      "answer": "Does not articulate directly with another bone; suspended by muscles and ligaments.",
+      "tags": [
+        "Articulations",
+        "Bone",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 4,
+      "section": "Larynx",
+      "label": "1"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-5",
+      "path": [
+        "1"
+      ],
+      "question": "Function",
+      "answer": "Supports the tongue and larynx and provides attachment for suprahyoid and infrahyoid muscles.",
+      "tags": [
+        "Function",
+        "Bone",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 5,
+      "section": "Larynx",
+      "label": "1"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-7",
+      "path": [
+        "1",
+        "a"
+      ],
+      "question": "Identification",
+      "answer": "Body of hyoid bone",
+      "tags": [
+        "Identification",
+        "BonyLandmark",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 7,
+      "section": "Larynx",
+      "label": "1a"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-8",
+      "path": [
+        "1",
+        "a"
+      ],
+      "question": "Relations",
+      "answer": "Central anterior portion between the greater cornua.",
+      "tags": [
+        "Relations",
+        "BonyLandmark",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 8,
+      "section": "Larynx",
+      "label": "1a"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-10",
+      "path": [
+        "1",
+        "b"
+      ],
+      "question": "Identification",
+      "answer": "Greater cornu (horn) of hyoid bone",
+      "tags": [
+        "Identification",
+        "BonyLandmark",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 10,
+      "section": "Larynx",
+      "label": "1b"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-11",
+      "path": [
+        "1",
+        "b"
+      ],
+      "question": "Relations",
+      "answer": "Projects posterolaterally and provides muscular and ligamentous attachment.",
+      "tags": [
+        "Relations",
+        "BonyLandmark",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 11,
+      "section": "Larynx",
+      "label": "1b"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-13",
+      "path": [
+        "1",
+        "c"
+      ],
+      "question": "Identification",
+      "answer": "Lesser cornu (horn) of hyoid bone",
+      "tags": [
+        "Identification",
+        "BonyLandmark",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 13,
+      "section": "Larynx",
+      "label": "1c"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-14",
+      "path": [
+        "1",
+        "c"
+      ],
+      "question": "Attachments",
+      "answer": "Gives attachment to the stylohyoid ligament.",
+      "tags": [
+        "Attachments",
+        "BonyLandmark",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 14,
+      "section": "Larynx",
+      "label": "1c"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-17",
+      "path": [
+        "2"
+      ],
+      "question": "Identification",
+      "answer": "Thyroid cartilage",
+      "tags": [
+        "Identification",
+        "Cartilage",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 17,
+      "section": "Larynx",
+      "label": "2"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-18",
+      "path": [
+        "2"
+      ],
+      "question": "Structure",
+      "answer": "Largest laryngeal cartilage, formed by two laminae meeting anteriorly.",
+      "tags": [
+        "Structure",
+        "Cartilage",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 18,
+      "section": "Larynx",
+      "label": "2"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-19",
+      "path": [
+        "2"
+      ],
+      "question": "Function",
+      "answer": "Protects the vocal apparatus and provides attachment for laryngeal muscles and ligaments.",
+      "tags": [
+        "Function",
+        "Cartilage",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 19,
+      "section": "Larynx",
+      "label": "2"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-21",
+      "path": [
+        "2",
+        "d"
+      ],
+      "question": "Identification",
+      "answer": "Superior cornu (horn) of thyroid cartilage",
+      "tags": [
+        "Identification",
+        "CartilagePart",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 21,
+      "section": "Larynx",
+      "label": "2d"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-22",
+      "path": [
+        "2",
+        "d"
+      ],
+      "question": "Relations",
+      "answer": "Projects superiorly from the posterior border of the thyroid lamina toward the hyoid.",
+      "tags": [
+        "Relations",
+        "CartilagePart",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 22,
+      "section": "Larynx",
+      "label": "2d"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-24",
+      "path": [
+        "2",
+        "e"
+      ],
+      "question": "Identification",
+      "answer": "Inferior cornu (horn) of thyroid cartilage",
+      "tags": [
+        "Identification",
+        "CartilagePart",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 24,
+      "section": "Larynx",
+      "label": "2e"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-25",
+      "path": [
+        "2",
+        "e"
+      ],
+      "question": "Articulation",
+      "answer": "Articulates with cricoid cartilage at the cricothyroid joint.",
+      "tags": [
+        "Articulations",
+        "CartilagePart",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 25,
+      "section": "Larynx",
+      "label": "2e"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-28",
+      "path": [
+        "3"
+      ],
+      "question": "Identification",
+      "answer": "Cricoid cartilage",
+      "tags": [
+        "Identification",
+        "Cartilage",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 28,
+      "section": "Larynx",
+      "label": "3"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-29",
+      "path": [
+        "3"
+      ],
+      "question": "Structure",
+      "answer": "Only complete cartilaginous ring of the airway; narrow anterior arch and broad posterior lamina.",
+      "tags": [
+        "Structure",
+        "Cartilage",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 29,
+      "section": "Larynx",
+      "label": "3"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-30",
+      "path": [
+        "3"
+      ],
+      "question": "Function",
+      "answer": "Maintains airway patency and supports the arytenoid cartilages.",
+      "tags": [
+        "Function",
+        "Cartilage",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 30,
+      "section": "Larynx",
+      "label": "3"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-33",
+      "path": [
+        "4"
+      ],
+      "question": "Identification",
+      "answer": "Arytenoid cartilage",
+      "tags": [
+        "Identification",
+        "Cartilage",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 33,
+      "section": "Larynx",
+      "label": "4"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-34",
+      "path": [
+        "4"
+      ],
+      "question": "Structure",
+      "answer": "Paired pyramidal cartilages on the cricoid lamina.",
+      "tags": [
+        "Structure",
+        "Cartilage",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 34,
+      "section": "Larynx",
+      "label": "4"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-35",
+      "path": [
+        "4"
+      ],
+      "question": "Function",
+      "answer": "Rotate and glide to control position and tension of the vocal folds.",
+      "tags": [
+        "Function",
+        "Cartilage",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 35,
+      "section": "Larynx",
+      "label": "4"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-36",
+      "path": [
+        "4"
+      ],
+      "question": "Landmarks",
+      "answer": "Vocal process anteriorly and muscular process laterally.",
+      "tags": [
+        "Landmarks",
+        "Cartilage",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 36,
+      "section": "Larynx",
+      "label": "4"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-39",
+      "path": [
+        "5"
+      ],
+      "question": "Identification",
+      "answer": "Corniculate cartilage",
+      "tags": [
+        "Identification",
+        "Cartilage",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 39,
+      "section": "Larynx",
+      "label": "5"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-40",
+      "path": [
+        "5"
+      ],
+      "question": "Structure",
+      "answer": "Small paired elastic cartilages sitting on the arytenoid apices.",
+      "tags": [
+        "Structure",
+        "Cartilage",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 40,
+      "section": "Larynx",
+      "label": "5"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-41",
+      "path": [
+        "5"
+      ],
+      "question": "Function",
+      "answer": "Support the posterior aryepiglottic folds.",
+      "tags": [
+        "Function",
+        "Cartilage",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 41,
+      "section": "Larynx",
+      "label": "5"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-44",
+      "path": [
+        "6"
+      ],
+      "question": "Identification",
+      "answer": "Cuneiform cartilage",
+      "tags": [
+        "Identification",
+        "Cartilage",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 44,
+      "section": "Larynx",
+      "label": "6"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-45",
+      "path": [
+        "6"
+      ],
+      "question": "Structure",
+      "answer": "Small paired elastic cartilages embedded in the aryepiglottic folds.",
+      "tags": [
+        "Structure",
+        "Cartilage",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 45,
+      "section": "Larynx",
+      "label": "6"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-46",
+      "path": [
+        "6"
+      ],
+      "question": "Function",
+      "answer": "Support and stiffen the aryepiglottic folds.",
+      "tags": [
+        "Function",
+        "Cartilage",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 46,
+      "section": "Larynx",
+      "label": "6"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-49",
+      "path": [
+        "7"
+      ],
+      "question": "Identification",
+      "answer": "Tracheal cartilage",
+      "tags": [
+        "Identification",
+        "Cartilage",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 49,
+      "section": "Larynx",
+      "label": "7"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-50",
+      "path": [
+        "7"
+      ],
+      "question": "Structure",
+      "answer": "C-shaped hyaline cartilage rings open posteriorly.",
+      "tags": [
+        "Structure",
+        "Cartilage",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 50,
+      "section": "Larynx",
+      "label": "7"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-51",
+      "path": [
+        "7"
+      ],
+      "question": "Function",
+      "answer": "Maintain tracheal patency while permitting oesophageal expansion.",
+      "tags": [
+        "Function",
+        "Cartilage",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 51,
+      "section": "Larynx",
+      "label": "7"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-54",
+      "path": [
+        "8"
+      ],
+      "question": "Identification",
+      "answer": "Thyrohyoid ligament",
+      "tags": [
+        "Identification",
+        "Ligament",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 54,
+      "section": "Larynx",
+      "label": "8"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-55",
+      "path": [
+        "8"
+      ],
+      "question": "Attachments",
+      "answer": "Connects thyroid cartilage to hyoid bone as a thickening of the thyrohyoid membrane.",
+      "tags": [
+        "Attachments",
+        "Ligament",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 55,
+      "section": "Larynx",
+      "label": "8"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-56",
+      "path": [
+        "8"
+      ],
+      "question": "Function",
+      "answer": "Helps suspend the larynx from the hyoid.",
+      "tags": [
+        "Function",
+        "Ligament",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 56,
+      "section": "Larynx",
+      "label": "8"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-59",
+      "path": [
+        "9"
+      ],
+      "question": "Identification",
+      "answer": "Thyrohyoid membrane",
+      "tags": [
+        "Identification",
+        "Membrane",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 59,
+      "section": "Larynx",
+      "label": "9"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-60",
+      "path": [
+        "9"
+      ],
+      "question": "Attachments",
+      "answer": "Spans between the superior border of thyroid cartilage and hyoid bone.",
+      "tags": [
+        "Attachments",
+        "Membrane",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 60,
+      "section": "Larynx",
+      "label": "9"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-61",
+      "path": [
+        "9"
+      ],
+      "question": "Contents",
+      "answer": "Pierced laterally by the internal laryngeal nerve and superior laryngeal vessels.",
+      "tags": [
+        "Contents",
+        "Membrane",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 61,
+      "section": "Larynx",
+      "label": "9"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-64",
+      "path": [
+        "10"
+      ],
+      "question": "Identification",
+      "answer": "Cricothyroid joint capsule",
+      "tags": [
+        "Identification",
+        "JointCapsule",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 64,
+      "section": "Larynx",
+      "label": "10"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-65",
+      "path": [
+        "10"
+      ],
+      "question": "Structure",
+      "answer": "Fibrous capsule surrounding the synovial cricothyroid joint.",
+      "tags": [
+        "Structure",
+        "JointCapsule",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 65,
+      "section": "Larynx",
+      "label": "10"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-66",
+      "path": [
+        "10"
+      ],
+      "question": "Function",
+      "answer": "Permits rotation and gliding that alter vocal-fold tension.",
+      "tags": [
+        "Function",
+        "JointCapsule",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 66,
+      "section": "Larynx",
+      "label": "10"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-69",
+      "path": [
+        "11"
+      ],
+      "question": "Identification",
+      "answer": "Cricothyroid ligament",
+      "tags": [
+        "Identification",
+        "Ligament",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 69,
+      "section": "Larynx",
+      "label": "11"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-70",
+      "path": [
+        "11"
+      ],
+      "question": "Attachments",
+      "answer": "Connects cricoid cartilage to thyroid cartilage.",
+      "tags": [
+        "Attachments",
+        "Ligament",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 70,
+      "section": "Larynx",
+      "label": "11"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-71",
+      "path": [
+        "11"
+      ],
+      "question": "Clinical relevance",
+      "answer": "Median part is used for emergency cricothyrotomy.",
+      "tags": [
+        "Clinical",
+        "Ligament",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 71,
+      "section": "Larynx",
+      "label": "11"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-74",
+      "path": [
+        "12"
+      ],
+      "question": "Identification",
+      "answer": "Cricotracheal ligament",
+      "tags": [
+        "Identification",
+        "Ligament",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 74,
+      "section": "Larynx",
+      "label": "12"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-75",
+      "path": [
+        "12"
+      ],
+      "question": "Attachments",
+      "answer": "Connects inferior border of cricoid cartilage to first tracheal ring.",
+      "tags": [
+        "Attachments",
+        "Ligament",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 75,
+      "section": "Larynx",
+      "label": "12"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-76",
+      "path": [
+        "12"
+      ],
+      "question": "Function",
+      "answer": "Secures the larynx to the trachea.",
+      "tags": [
+        "Function",
+        "Ligament",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 76,
+      "section": "Larynx",
+      "label": "12"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-79",
+      "path": [
+        "13"
+      ],
+      "question": "Identification",
+      "answer": "Annular ligaments of trachea",
+      "tags": [
+        "Identification",
+        "Ligament",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 79,
+      "section": "Larynx",
+      "label": "13"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-80",
+      "path": [
+        "13"
+      ],
+      "question": "Structure",
+      "answer": "Fibroelastic tissue connecting adjacent tracheal rings.",
+      "tags": [
+        "Structure",
+        "Ligament",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 80,
+      "section": "Larynx",
+      "label": "13"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-81",
+      "path": [
+        "13"
+      ],
+      "question": "Function",
+      "answer": "Provide flexibility while maintaining continuity of the airway wall.",
+      "tags": [
+        "Function",
+        "Ligament",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 81,
+      "section": "Larynx",
+      "label": "13"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-84",
+      "path": [
+        "14"
+      ],
+      "question": "Identification",
+      "answer": "Membranous posterior wall of the trachea",
+      "tags": [
+        "Identification",
+        "AirwayWall",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 84,
+      "section": "Larynx",
+      "label": "14"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-85",
+      "path": [
+        "14"
+      ],
+      "question": "Structure",
+      "answer": "Fibromuscular posterior wall bridging the open ends of the C-shaped tracheal cartilages.",
+      "tags": [
+        "Structure",
+        "AirwayWall",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 85,
+      "section": "Larynx",
+      "label": "14"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-86",
+      "path": [
+        "14"
+      ],
+      "question": "Contents",
+      "answer": "Contains trachealis muscle and fibroelastic tissue.",
+      "tags": [
+        "Contents",
+        "AirwayWall",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 86,
+      "section": "Larynx",
+      "label": "14"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-87",
+      "path": [
+        "14"
+      ],
+      "question": "Function",
+      "answer": "Allows posterior wall movement and oesophageal expansion.",
+      "tags": [
+        "Function",
+        "AirwayWall",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 87,
+      "section": "Larynx",
+      "label": "14"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-90",
+      "path": [
+        "15"
+      ],
+      "question": "Identification",
+      "answer": "Thyrohyoid muscle",
+      "tags": [
+        "Identification",
+        "Muscle",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 90,
+      "section": "Larynx",
+      "label": "15"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-91",
+      "path": [
+        "15"
+      ],
+      "question": "Actions",
+      "answer": "Depresses hyoid or elevates larynx.",
+      "tags": [
+        "Action",
+        "Muscle",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 91,
+      "section": "Larynx",
+      "label": "15"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-92",
+      "path": [
+        "15"
+      ],
+      "question": "Innervation",
+      "answer": "C1 fibres travelling with the hypoglossal nerve.",
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 92,
+      "section": "Larynx",
+      "label": "15"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-93",
+      "path": [
+        "15"
+      ],
+      "question": "Origin",
+      "answer": "Oblique line of thyroid cartilage.",
+      "tags": [
+        "Origin",
+        "Muscle",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 93,
+      "section": "Larynx",
+      "label": "15"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-94",
+      "path": [
+        "15"
+      ],
+      "question": "Insertion",
+      "answer": "Body and greater horn of hyoid.",
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 94,
+      "section": "Larynx",
+      "label": "15"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-97",
+      "path": [
+        "16"
+      ],
+      "question": "Identification",
+      "answer": "Cricothyroid muscle",
+      "tags": [
+        "Identification",
+        "Muscle",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 97,
+      "section": "Larynx",
+      "label": "16"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-98",
+      "path": [
+        "16"
+      ],
+      "question": "Actions",
+      "answer": "Tenses and lengthens vocal folds, increasing pitch.",
+      "tags": [
+        "Action",
+        "Muscle",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 98,
+      "section": "Larynx",
+      "label": "16"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-99",
+      "path": [
+        "16"
+      ],
+      "question": "Innervation",
+      "answer": "External branch of superior laryngeal nerve (CN X).",
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 99,
+      "section": "Larynx",
+      "label": "16"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-100",
+      "path": [
+        "16"
+      ],
+      "question": "Origin",
+      "answer": "Anterolateral cricoid cartilage.",
+      "tags": [
+        "Origin",
+        "Muscle",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 100,
+      "section": "Larynx",
+      "label": "16"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-101",
+      "path": [
+        "16"
+      ],
+      "question": "Insertion",
+      "answer": "Inferior border and inferior horn of thyroid cartilage.",
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 101,
+      "section": "Larynx",
+      "label": "16"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-104",
+      "path": [
+        "17"
+      ],
+      "question": "Identification",
+      "answer": "Posterior crico-arytenoid muscle",
+      "tags": [
+        "Identification",
+        "Muscle",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 104,
+      "section": "Larynx",
+      "label": "17"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-105",
+      "path": [
+        "17"
+      ],
+      "question": "Actions",
+      "answer": "Abducts vocal folds; only intrinsic laryngeal muscle that opens the rima glottidis.",
+      "tags": [
+        "Action",
+        "Muscle",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 105,
+      "section": "Larynx",
+      "label": "17"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-106",
+      "path": [
+        "17"
+      ],
+      "question": "Innervation",
+      "answer": "Recurrent laryngeal nerve (CN X).",
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 106,
+      "section": "Larynx",
+      "label": "17"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-107",
+      "path": [
+        "17"
+      ],
+      "question": "Origin",
+      "answer": "Posterior cricoid lamina.",
+      "tags": [
+        "Origin",
+        "Muscle",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 107,
+      "section": "Larynx",
+      "label": "17"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-108",
+      "path": [
+        "17"
+      ],
+      "question": "Insertion",
+      "answer": "Muscular process of arytenoid cartilage.",
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 108,
+      "section": "Larynx",
+      "label": "17"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-109",
+      "path": [
+        "17"
+      ],
+      "question": "Clinical relevance",
+      "answer": "Bilateral paralysis can cause critical airway obstruction.",
+      "tags": [
+        "Clinical",
+        "Muscle",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 109,
+      "section": "Larynx",
+      "label": "17"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-112",
+      "path": [
+        "18"
+      ],
+      "question": "Identification",
+      "answer": "Transverse arytenoid muscle",
+      "tags": [
+        "Identification",
+        "Muscle",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 112,
+      "section": "Larynx",
+      "label": "18"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-113",
+      "path": [
+        "18"
+      ],
+      "question": "Actions",
+      "answer": "Adducts arytenoid cartilages and closes posterior rima glottidis.",
+      "tags": [
+        "Action",
+        "Muscle",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 113,
+      "section": "Larynx",
+      "label": "18"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-114",
+      "path": [
+        "18"
+      ],
+      "question": "Innervation",
+      "answer": "Recurrent laryngeal nerve (CN X).",
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 114,
+      "section": "Larynx",
+      "label": "18"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-115",
+      "path": [
+        "18"
+      ],
+      "question": "Origin",
+      "answer": "Posterior surface of one arytenoid.",
+      "tags": [
+        "Origin",
+        "Muscle",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 115,
+      "section": "Larynx",
+      "label": "18"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-116",
+      "path": [
+        "18"
+      ],
+      "question": "Insertion",
+      "answer": "Posterior surface of opposite arytenoid.",
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 116,
+      "section": "Larynx",
+      "label": "18"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-119",
+      "path": [
+        "19"
+      ],
+      "question": "Identification",
+      "answer": "Oblique arytenoid muscle",
+      "tags": [
+        "Identification",
+        "Muscle",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 119,
+      "section": "Larynx",
+      "label": "19"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-120",
+      "path": [
+        "19"
+      ],
+      "question": "Actions",
+      "answer": "Adducts arytenoids and helps close laryngeal inlet.",
+      "tags": [
+        "Action",
+        "Muscle",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 120,
+      "section": "Larynx",
+      "label": "19"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-121",
+      "path": [
+        "19"
+      ],
+      "question": "Innervation",
+      "answer": "Recurrent laryngeal nerve (CN X).",
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 121,
+      "section": "Larynx",
+      "label": "19"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-122",
+      "path": [
+        "19"
+      ],
+      "question": "Origin",
+      "answer": "Muscular process of one arytenoid.",
+      "tags": [
+        "Origin",
+        "Muscle",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 122,
+      "section": "Larynx",
+      "label": "19"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-123",
+      "path": [
+        "19"
+      ],
+      "question": "Insertion",
+      "answer": "Apex of opposite arytenoid.",
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 123,
+      "section": "Larynx",
+      "label": "19"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-126",
+      "path": [
+        "20"
+      ],
+      "question": "Identification",
+      "answer": "Superior thyroid artery",
+      "tags": [
+        "Identification",
+        "Artery",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 126,
+      "section": "Larynx",
+      "label": "20"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-127",
+      "path": [
+        "20"
+      ],
+      "question": "Origin",
+      "answer": "Usually first anterior branch of the external carotid artery.",
+      "tags": [
+        "Origin",
+        "Artery",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 127,
+      "section": "Larynx",
+      "label": "20"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-128",
+      "path": [
+        "20"
+      ],
+      "question": "Course",
+      "answer": "Descends toward superior pole of the thyroid gland.",
+      "tags": [
+        "Course",
+        "Artery",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 128,
+      "section": "Larynx",
+      "label": "20"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-129",
+      "path": [
+        "20"
+      ],
+      "question": "Branches",
+      "answer": "Gives the superior laryngeal artery.",
+      "tags": [
+        "Branches",
+        "Artery",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 129,
+      "section": "Larynx",
+      "label": "20"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-130",
+      "path": [
+        "20"
+      ],
+      "question": "Supply",
+      "answer": "Upper thyroid gland and nearby laryngeal structures.",
+      "tags": [
+        "Supply",
+        "Artery",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 130,
+      "section": "Larynx",
+      "label": "20"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-133",
+      "path": [
+        "21"
+      ],
+      "question": "Identification",
+      "answer": "Superior laryngeal artery",
+      "tags": [
+        "Identification",
+        "Artery",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 133,
+      "section": "Larynx",
+      "label": "21"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-134",
+      "path": [
+        "21"
+      ],
+      "question": "Origin",
+      "answer": "Usually a branch of the superior thyroid artery.",
+      "tags": [
+        "Origin",
+        "Artery",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 134,
+      "section": "Larynx",
+      "label": "21"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-135",
+      "path": [
+        "21"
+      ],
+      "question": "Course",
+      "answer": "Pierces the thyrohyoid membrane with the internal laryngeal nerve.",
+      "tags": [
+        "Course",
+        "Artery",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 135,
+      "section": "Larynx",
+      "label": "21"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-136",
+      "path": [
+        "21"
+      ],
+      "question": "Supply",
+      "answer": "Upper laryngeal mucosa and structures.",
+      "tags": [
+        "Supply",
+        "Artery",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 136,
+      "section": "Larynx",
+      "label": "21"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-139",
+      "path": [
+        "22"
+      ],
+      "question": "Identification",
+      "answer": "Superior laryngeal nerve",
+      "tags": [
+        "Identification",
+        "Nerve",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 139,
+      "section": "Larynx",
+      "label": "22"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-140",
+      "path": [
+        "22"
+      ],
+      "question": "Roots",
+      "answer": "Branch of the vagus nerve (CN X).",
+      "tags": [
+        "Roots",
+        "Nerve",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 140,
+      "section": "Larynx",
+      "label": "22"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-141",
+      "path": [
+        "22"
+      ],
+      "question": "Course",
+      "answer": "Divides into internal and external branches near the hyoid/larynx.",
+      "tags": [
+        "Course",
+        "Nerve",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 141,
+      "section": "Larynx",
+      "label": "22"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-142",
+      "path": [
+        "22"
+      ],
+      "question": "Motor functions",
+      "answer": "External branch supplies cricothyroid.",
+      "tags": [
+        "Motor",
+        "Nerve",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 142,
+      "section": "Larynx",
+      "label": "22"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-143",
+      "path": [
+        "22"
+      ],
+      "question": "Sensory functions",
+      "answer": "Internal branch supplies sensation above the vocal folds and is important in the cough reflex.",
+      "tags": [
+        "Sensory",
+        "Nerve",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 143,
+      "section": "Larynx",
+      "label": "22"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-144",
+      "path": [
+        "22"
+      ],
+      "question": "Lesion",
+      "answer": "External branch injury causes loss of high-pitch control and voice fatigue; internal branch injury reduces supraglottic sensation and cough reflex, increasing aspiration risk.",
+      "tags": [
+        "Lesion",
+        "Nerve",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 144,
+      "section": "Larynx",
+      "label": "22"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-147",
+      "path": [
+        "23"
+      ],
+      "question": "Identification",
+      "answer": "Epiglottis",
+      "tags": [
+        "Identification",
+        "Cartilage",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 147,
+      "section": "Larynx",
+      "label": "23"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-148",
+      "path": [
+        "23"
+      ],
+      "question": "Structure",
+      "answer": "Leaf-shaped elastic cartilage forming the anterior part of the laryngeal inlet.",
+      "tags": [
+        "Structure",
+        "Cartilage",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 148,
+      "section": "Larynx",
+      "label": "23"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-149",
+      "path": [
+        "23"
+      ],
+      "question": "Function",
+      "answer": "Helps protect the airway during swallowing.",
+      "tags": [
+        "Function",
+        "Cartilage",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 149,
+      "section": "Larynx",
+      "label": "23"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-152",
+      "path": [
+        "24"
+      ],
+      "question": "Identification",
+      "answer": "Hyo-epiglottic ligament",
+      "tags": [
+        "Identification",
+        "Ligament",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 152,
+      "section": "Larynx",
+      "label": "24"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-153",
+      "path": [
+        "24"
+      ],
+      "question": "Attachments",
+      "answer": "Connects the epiglottis to the hyoid bone.",
+      "tags": [
+        "Attachments",
+        "Ligament",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 153,
+      "section": "Larynx",
+      "label": "24"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-154",
+      "path": [
+        "24"
+      ],
+      "question": "Function",
+      "answer": "Anchors the epiglottis superiorly/anteriorly.",
+      "tags": [
+        "Function",
+        "Ligament",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 154,
+      "section": "Larynx",
+      "label": "24"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-157",
+      "path": [
+        "25"
+      ],
+      "question": "Identification",
+      "answer": "Thyro-epiglottic ligament",
+      "tags": [
+        "Identification",
+        "Ligament",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 157,
+      "section": "Larynx",
+      "label": "25"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-158",
+      "path": [
+        "25"
+      ],
+      "question": "Attachments",
+      "answer": "Connects the petiole of the epiglottis to the inner thyroid cartilage.",
+      "tags": [
+        "Attachments",
+        "Ligament",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 158,
+      "section": "Larynx",
+      "label": "25"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-159",
+      "path": [
+        "25"
+      ],
+      "question": "Function",
+      "answer": "Anchors the epiglottis inferiorly.",
+      "tags": [
+        "Function",
+        "Ligament",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 159,
+      "section": "Larynx",
+      "label": "25"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-162",
+      "path": [
+        "26"
+      ],
+      "question": "Identification",
+      "answer": "Laryngeal ventricle",
+      "tags": [
+        "Identification",
+        "Space",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 162,
+      "section": "Larynx",
+      "label": "26"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-163",
+      "path": [
+        "26"
+      ],
+      "question": "Location",
+      "answer": "Recess between vestibular fold and vocal fold.",
+      "tags": [
+        "Location",
+        "Space",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 163,
+      "section": "Larynx",
+      "label": "26"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-164",
+      "path": [
+        "26"
+      ],
+      "question": "Function",
+      "answer": "Allows independent movement of the two folds and communicates with laryngeal saccule.",
+      "tags": [
+        "Function",
+        "Space",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 164,
+      "section": "Larynx",
+      "label": "26"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-167",
+      "path": [
+        "27"
+      ],
+      "question": "Identification",
+      "answer": "Vestibular fold",
+      "tags": [
+        "Identification",
+        "LaryngealFold",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 167,
+      "section": "Larynx",
+      "label": "27"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-168",
+      "path": [
+        "27"
+      ],
+      "question": "Structure",
+      "answer": "Mucosal fold containing the vestibular ligament.",
+      "tags": [
+        "Structure",
+        "LaryngealFold",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 168,
+      "section": "Larynx",
+      "label": "27"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-169",
+      "path": [
+        "27"
+      ],
+      "question": "Function",
+      "answer": "Helps protect the airway and contributes to laryngeal closure.",
+      "tags": [
+        "Function",
+        "LaryngealFold",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 169,
+      "section": "Larynx",
+      "label": "27"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-172",
+      "path": [
+        "28"
+      ],
+      "question": "Identification",
+      "answer": "Vocal fold (mucosa covering vocal ligament)",
+      "tags": [
+        "Identification",
+        "LaryngealFold",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 172,
+      "section": "Larynx",
+      "label": "28"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-173",
+      "path": [
+        "28"
+      ],
+      "question": "Structure",
+      "answer": "Mucosa overlying the vocal ligament and vocalis muscle.",
+      "tags": [
+        "Structure",
+        "LaryngealFold",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 173,
+      "section": "Larynx",
+      "label": "28"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-174",
+      "path": [
+        "28"
+      ],
+      "question": "Function",
+      "answer": "Vibrates during phonation and closes the glottis for airway protection.",
+      "tags": [
+        "Function",
+        "LaryngealFold",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 174,
+      "section": "Larynx",
+      "label": "28"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-175",
+      "path": [
+        "28"
+      ],
+      "question": "Innervation",
+      "answer": "Motor control via recurrent laryngeal nerve except cricothyroid tensioning via external superior laryngeal nerve.",
+      "tags": [
+        "Innervation",
+        "LaryngealFold",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 175,
+      "section": "Larynx",
+      "label": "28"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-178",
+      "path": [
+        "29"
+      ],
+      "question": "Identification",
+      "answer": "Vocalis muscle",
+      "tags": [
+        "Identification",
+        "Muscle",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 178,
+      "section": "Larynx",
+      "label": "29"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-179",
+      "path": [
+        "29"
+      ],
+      "question": "Actions",
+      "answer": "Fine-tunes tension of the vocal fold.",
+      "tags": [
+        "Action",
+        "Muscle",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 179,
+      "section": "Larynx",
+      "label": "29"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-180",
+      "path": [
+        "29"
+      ],
+      "question": "Innervation",
+      "answer": "Recurrent laryngeal nerve (CN X).",
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 180,
+      "section": "Larynx",
+      "label": "29"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-181",
+      "path": [
+        "29"
+      ],
+      "question": "Origin",
+      "answer": "Inner thyroid angle/anterior vocal ligament region.",
+      "tags": [
+        "Origin",
+        "Muscle",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 181,
+      "section": "Larynx",
+      "label": "29"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-182",
+      "path": [
+        "29"
+      ],
+      "question": "Insertion",
+      "answer": "Vocal process and adjacent arytenoid cartilage.",
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 182,
+      "section": "Larynx",
+      "label": "29"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-185",
+      "path": [
+        "30"
+      ],
+      "question": "Identification",
+      "answer": "Mucosa of trachea",
+      "tags": [
+        "Identification",
+        "Mucosa",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 185,
+      "section": "Larynx",
+      "label": "30"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-186",
+      "path": [
+        "30"
+      ],
+      "question": "Structure",
+      "answer": "Respiratory mucosa lined mainly by pseudostratified ciliated columnar epithelium with goblet cells.",
+      "tags": [
+        "Structure",
+        "Mucosa",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 186,
+      "section": "Larynx",
+      "label": "30"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-187",
+      "path": [
+        "30"
+      ],
+      "question": "Function",
+      "answer": "Warms, humidifies and clears inhaled particles via mucociliary transport.",
+      "tags": [
+        "Function",
+        "Mucosa",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 187,
+      "section": "Larynx",
+      "label": "30"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-190",
+      "path": [
+        "31"
+      ],
+      "question": "Identification",
+      "answer": "Aryepiglottic fold",
+      "tags": [
+        "Identification",
+        "MucosalFold",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 190,
+      "section": "Larynx",
+      "label": "31"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-191",
+      "path": [
+        "31"
+      ],
+      "question": "Structure",
+      "answer": "Mucosal fold from arytenoid cartilage to lateral epiglottis.",
+      "tags": [
+        "Structure",
+        "MucosalFold",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 191,
+      "section": "Larynx",
+      "label": "31"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-192",
+      "path": [
+        "31"
+      ],
+      "question": "Function",
+      "answer": "Forms the lateral boundary of the laryngeal inlet and helps close it during swallowing.",
+      "tags": [
+        "Function",
+        "MucosalFold",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 192,
+      "section": "Larynx",
+      "label": "31"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-195",
+      "path": [
+        "32"
+      ],
+      "question": "Identification",
+      "answer": "Piriform sinus",
+      "tags": [
+        "Identification",
+        "Space",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 195,
+      "section": "Larynx",
+      "label": "32"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-196",
+      "path": [
+        "32"
+      ],
+      "question": "Location",
+      "answer": "Recess of the laryngopharynx lateral to the laryngeal inlet.",
+      "tags": [
+        "Location",
+        "Space",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 196,
+      "section": "Larynx",
+      "label": "32"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-197",
+      "path": [
+        "32"
+      ],
+      "question": "Relations",
+      "answer": "Internal laryngeal nerve lies deep to its mucosa.",
+      "tags": [
+        "Relations",
+        "Space",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 197,
+      "section": "Larynx",
+      "label": "32"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-198",
+      "path": [
+        "32"
+      ],
+      "question": "Clinical relevance",
+      "answer": "Foreign bodies may lodge here and injure the internal laryngeal nerve.",
+      "tags": [
+        "Clinical",
+        "Space",
+        "Larynx",
+        "GS4"
+      ],
+      "sourceLine": 198,
+      "section": "Larynx",
+      "label": "32"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-202",
+      "path": [
+        "1"
+      ],
+      "question": "Identification",
+      "answer": "Apex of the tongue",
+      "tags": [
+        "Identification",
+        "TonguePart",
+        "Tongue",
+        "GS4"
+      ],
+      "sourceLine": 202,
+      "section": "Tongue",
+      "label": "1"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-203",
+      "path": [
+        "1"
+      ],
+      "question": "Location",
+      "answer": "Anterior tip of the tongue.",
+      "tags": [
+        "Location",
+        "TonguePart",
+        "Tongue",
+        "GS4"
+      ],
+      "sourceLine": 203,
+      "section": "Tongue",
+      "label": "1"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-204",
+      "path": [
+        "1"
+      ],
+      "question": "Function",
+      "answer": "Highly mobile part used in speech, manipulation of food and taste.",
+      "tags": [
+        "Function",
+        "TonguePart",
+        "Tongue",
+        "GS4"
+      ],
+      "sourceLine": 204,
+      "section": "Tongue",
+      "label": "1"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-207",
+      "path": [
+        "2"
+      ],
+      "question": "Identification",
+      "answer": "Intrinsic muscles of the tongue",
+      "tags": [
+        "Identification",
+        "MuscleGroup",
+        "Tongue",
+        "GS4"
+      ],
+      "sourceLine": 207,
+      "section": "Tongue",
+      "label": "2"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-208",
+      "path": [
+        "2"
+      ],
+      "question": "Actions",
+      "answer": "Alter the shape of the tongue: shorten, curl, flatten and narrow it.",
+      "tags": [
+        "Action",
+        "MuscleGroup",
+        "Tongue",
+        "GS4"
+      ],
+      "sourceLine": 208,
+      "section": "Tongue",
+      "label": "2"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-209",
+      "path": [
+        "2"
+      ],
+      "question": "Innervation",
+      "answer": "Hypoglossal nerve (CN XII).",
+      "tags": [
+        "Innervation",
+        "MuscleGroup",
+        "Tongue",
+        "GS4"
+      ],
+      "sourceLine": 209,
+      "section": "Tongue",
+      "label": "2"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-210",
+      "path": [
+        "2"
+      ],
+      "question": "Components",
+      "answer": "Superior longitudinal, inferior longitudinal, transverse and vertical muscles.",
+      "tags": [
+        "Components",
+        "MuscleGroup",
+        "Tongue",
+        "GS4"
+      ],
+      "sourceLine": 210,
+      "section": "Tongue",
+      "label": "2"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-213",
+      "path": [
+        "3"
+      ],
+      "question": "Identification",
+      "answer": "Filiform papillae",
+      "tags": [
+        "Identification",
+        "Papilla",
+        "Tongue",
+        "GS4"
+      ],
+      "sourceLine": 213,
+      "section": "Tongue",
+      "label": "3"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-214",
+      "path": [
+        "3"
+      ],
+      "question": "Structure",
+      "answer": "Most numerous, slender keratinised papillae.",
+      "tags": [
+        "Structure",
+        "Papilla",
+        "Tongue",
+        "GS4"
+      ],
+      "sourceLine": 214,
+      "section": "Tongue",
+      "label": "3"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-215",
+      "path": [
+        "3"
+      ],
+      "question": "Function",
+      "answer": "Provide mechanical friction; do not contain taste buds.",
+      "tags": [
+        "Function",
+        "Papilla",
+        "Tongue",
+        "GS4"
+      ],
+      "sourceLine": 215,
+      "section": "Tongue",
+      "label": "3"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-218",
+      "path": [
+        "4"
+      ],
+      "question": "Identification",
+      "answer": "Fungiform papillae",
+      "tags": [
+        "Identification",
+        "Papilla",
+        "Tongue",
+        "GS4"
+      ],
+      "sourceLine": 218,
+      "section": "Tongue",
+      "label": "4"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-219",
+      "path": [
+        "4"
+      ],
+      "question": "Structure",
+      "answer": "Mushroom-shaped papillae scattered especially near the apex and margins.",
+      "tags": [
+        "Structure",
+        "Papilla",
+        "Tongue",
+        "GS4"
+      ],
+      "sourceLine": 219,
+      "section": "Tongue",
+      "label": "4"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-220",
+      "path": [
+        "4"
+      ],
+      "question": "Function",
+      "answer": "Contain taste buds and participate in gustation.",
+      "tags": [
+        "Function",
+        "Papilla",
+        "Tongue",
+        "GS4"
+      ],
+      "sourceLine": 220,
+      "section": "Tongue",
+      "label": "4"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-223",
+      "path": [
+        "5"
+      ],
+      "question": "Identification",
+      "answer": "Vallate papillae",
+      "tags": [
+        "Identification",
+        "Papilla",
+        "Tongue",
+        "GS4"
+      ],
+      "sourceLine": 223,
+      "section": "Tongue",
+      "label": "5"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-224",
+      "path": [
+        "5"
+      ],
+      "question": "Structure",
+      "answer": "Large papillae arranged in a V-shaped row just anterior to the sulcus terminalis.",
+      "tags": [
+        "Structure",
+        "Papilla",
+        "Tongue",
+        "GS4"
+      ],
+      "sourceLine": 224,
+      "section": "Tongue",
+      "label": "5"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-225",
+      "path": [
+        "5"
+      ],
+      "question": "Function",
+      "answer": "Contain numerous taste buds.",
+      "tags": [
+        "Function",
+        "Papilla",
+        "Tongue",
+        "GS4"
+      ],
+      "sourceLine": 225,
+      "section": "Tongue",
+      "label": "5"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-226",
+      "path": [
+        "5"
+      ],
+      "question": "Innervation",
+      "answer": "Taste from vallate papillae is carried by glossopharyngeal nerve (CN IX), despite their anterior location.",
+      "tags": [
+        "Innervation",
+        "Papilla",
+        "Tongue",
+        "GS4"
+      ],
+      "sourceLine": 226,
+      "section": "Tongue",
+      "label": "5"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-229",
+      "path": [
+        "6"
+      ],
+      "question": "Identification",
+      "answer": "Foramen caecum",
+      "tags": [
+        "Identification",
+        "Landmark",
+        "Tongue",
+        "GS4"
+      ],
+      "sourceLine": 229,
+      "section": "Tongue",
+      "label": "6"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-230",
+      "path": [
+        "6"
+      ],
+      "question": "Location",
+      "answer": "Small pit at apex of sulcus terminalis on dorsum of tongue.",
+      "tags": [
+        "Location",
+        "Landmark",
+        "Tongue",
+        "GS4"
+      ],
+      "sourceLine": 230,
+      "section": "Tongue",
+      "label": "6"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-231",
+      "path": [
+        "6"
+      ],
+      "question": "Embryology",
+      "answer": "Marks the embryological origin of the thyroglossal duct and thyroid descent.",
+      "tags": [
+        "Embryology",
+        "Landmark",
+        "Tongue",
+        "GS4"
+      ],
+      "sourceLine": 231,
+      "section": "Tongue",
+      "label": "6"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-234",
+      "path": [
+        "7"
+      ],
+      "question": "Identification",
+      "answer": "Styloglossus muscle",
+      "tags": [
+        "Identification",
+        "Muscle",
+        "Tongue",
+        "GS4"
+      ],
+      "sourceLine": 234,
+      "section": "Tongue",
+      "label": "7"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-235",
+      "path": [
+        "7"
+      ],
+      "question": "Actions",
+      "answer": "Retracts and elevates the tongue.",
+      "tags": [
+        "Action",
+        "Muscle",
+        "Tongue",
+        "GS4"
+      ],
+      "sourceLine": 235,
+      "section": "Tongue",
+      "label": "7"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-236",
+      "path": [
+        "7"
+      ],
+      "question": "Innervation",
+      "answer": "Hypoglossal nerve (CN XII).",
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "Tongue",
+        "GS4"
+      ],
+      "sourceLine": 236,
+      "section": "Tongue",
+      "label": "7"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-237",
+      "path": [
+        "7"
+      ],
+      "question": "Origin",
+      "answer": "Styloid process and stylohyoid ligament.",
+      "tags": [
+        "Origin",
+        "Muscle",
+        "Tongue",
+        "GS4"
+      ],
+      "sourceLine": 237,
+      "section": "Tongue",
+      "label": "7"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-238",
+      "path": [
+        "7"
+      ],
+      "question": "Insertion",
+      "answer": "Side of tongue.",
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "Tongue",
+        "GS4"
+      ],
+      "sourceLine": 238,
+      "section": "Tongue",
+      "label": "7"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-241",
+      "path": [
+        "8"
+      ],
+      "question": "Identification",
+      "answer": "Hyoglossus muscle",
+      "tags": [
+        "Identification",
+        "Muscle",
+        "Tongue",
+        "GS4"
+      ],
+      "sourceLine": 241,
+      "section": "Tongue",
+      "label": "8"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-242",
+      "path": [
+        "8"
+      ],
+      "question": "Actions",
+      "answer": "Depresses and retracts tongue.",
+      "tags": [
+        "Action",
+        "Muscle",
+        "Tongue",
+        "GS4"
+      ],
+      "sourceLine": 242,
+      "section": "Tongue",
+      "label": "8"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-243",
+      "path": [
+        "8"
+      ],
+      "question": "Innervation",
+      "answer": "Hypoglossal nerve (CN XII).",
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "Tongue",
+        "GS4"
+      ],
+      "sourceLine": 243,
+      "section": "Tongue",
+      "label": "8"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-244",
+      "path": [
+        "8"
+      ],
+      "question": "Origin",
+      "answer": "Body and greater horn of hyoid.",
+      "tags": [
+        "Origin",
+        "Muscle",
+        "Tongue",
+        "GS4"
+      ],
+      "sourceLine": 244,
+      "section": "Tongue",
+      "label": "8"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-245",
+      "path": [
+        "8"
+      ],
+      "question": "Insertion",
+      "answer": "Side of tongue.",
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "Tongue",
+        "GS4"
+      ],
+      "sourceLine": 245,
+      "section": "Tongue",
+      "label": "8"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-248",
+      "path": [
+        "9"
+      ],
+      "question": "Identification",
+      "answer": "Geniohyoid muscle",
+      "tags": [
+        "Identification",
+        "Muscle",
+        "Tongue",
+        "GS4"
+      ],
+      "sourceLine": 248,
+      "section": "Tongue",
+      "label": "9"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-249",
+      "path": [
+        "9"
+      ],
+      "question": "Actions",
+      "answer": "Pulls hyoid anterosuperiorly and assists mandibular depression.",
+      "tags": [
+        "Action",
+        "Muscle",
+        "Tongue",
+        "GS4"
+      ],
+      "sourceLine": 249,
+      "section": "Tongue",
+      "label": "9"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-250",
+      "path": [
+        "9"
+      ],
+      "question": "Innervation",
+      "answer": "C1 fibres via hypoglossal nerve.",
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "Tongue",
+        "GS4"
+      ],
+      "sourceLine": 250,
+      "section": "Tongue",
+      "label": "9"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-251",
+      "path": [
+        "9"
+      ],
+      "question": "Origin",
+      "answer": "Inferior mental spine of mandible.",
+      "tags": [
+        "Origin",
+        "Muscle",
+        "Tongue",
+        "GS4"
+      ],
+      "sourceLine": 251,
+      "section": "Tongue",
+      "label": "9"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-252",
+      "path": [
+        "9"
+      ],
+      "question": "Insertion",
+      "answer": "Body of hyoid.",
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "Tongue",
+        "GS4"
+      ],
+      "sourceLine": 252,
+      "section": "Tongue",
+      "label": "9"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-255",
+      "path": [
+        "10"
+      ],
+      "question": "Identification",
+      "answer": "Genioglossus muscle",
+      "tags": [
+        "Identification",
+        "Muscle",
+        "Tongue",
+        "GS4"
+      ],
+      "sourceLine": 255,
+      "section": "Tongue",
+      "label": "10"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-256",
+      "path": [
+        "10"
+      ],
+      "question": "Actions",
+      "answer": "Protrudes tongue and depresses its central part; unilateral contraction deviates tongue to the opposite side.",
+      "tags": [
+        "Action",
+        "Muscle",
+        "Tongue",
+        "GS4"
+      ],
+      "sourceLine": 256,
+      "section": "Tongue",
+      "label": "10"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-257",
+      "path": [
+        "10"
+      ],
+      "question": "Innervation",
+      "answer": "Hypoglossal nerve (CN XII).",
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "Tongue",
+        "GS4"
+      ],
+      "sourceLine": 257,
+      "section": "Tongue",
+      "label": "10"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-258",
+      "path": [
+        "10"
+      ],
+      "question": "Origin",
+      "answer": "Superior mental spine of mandible.",
+      "tags": [
+        "Origin",
+        "Muscle",
+        "Tongue",
+        "GS4"
+      ],
+      "sourceLine": 258,
+      "section": "Tongue",
+      "label": "10"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-259",
+      "path": [
+        "10"
+      ],
+      "question": "Insertion",
+      "answer": "Tongue substance and body of hyoid.",
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "Tongue",
+        "GS4"
+      ],
+      "sourceLine": 259,
+      "section": "Tongue",
+      "label": "10"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-262",
+      "path": [
+        "11"
+      ],
+      "question": "Identification",
+      "answer": "Glossopharyngeal nerve (CN IX)",
+      "tags": [
+        "Identification",
+        "Nerve",
+        "Tongue",
+        "GS4"
+      ],
+      "sourceLine": 262,
+      "section": "Tongue",
+      "label": "11"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-263",
+      "path": [
+        "11"
+      ],
+      "question": "Roots",
+      "answer": "Arises from the medulla.",
+      "tags": [
+        "Roots",
+        "Nerve",
+        "Tongue",
+        "GS4"
+      ],
+      "sourceLine": 263,
+      "section": "Tongue",
+      "label": "11"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-264",
+      "path": [
+        "11"
+      ],
+      "question": "Course",
+      "answer": "Exits via jugular foramen and passes toward pharynx and posterior tongue.",
+      "tags": [
+        "Course",
+        "Nerve",
+        "Tongue",
+        "GS4"
+      ],
+      "sourceLine": 264,
+      "section": "Tongue",
+      "label": "11"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-265",
+      "path": [
+        "11"
+      ],
+      "question": "Motor functions",
+      "answer": "Supplies stylopharyngeus; carries parasympathetic secretomotor pathway to parotid.",
+      "tags": [
+        "Motor",
+        "Nerve",
+        "Tongue",
+        "GS4"
+      ],
+      "sourceLine": 265,
+      "section": "Tongue",
+      "label": "11"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-266",
+      "path": [
+        "11"
+      ],
+      "question": "Sensory functions",
+      "answer": "General sensation and taste from posterior third of tongue; afferent limb of gag reflex.",
+      "tags": [
+        "Sensory",
+        "Nerve",
+        "Tongue",
+        "GS4"
+      ],
+      "sourceLine": 266,
+      "section": "Tongue",
+      "label": "11"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-267",
+      "path": [
+        "11"
+      ],
+      "question": "Lesion",
+      "answer": "Causes loss of taste and sensation from posterior third of tongue, impaired afferent gag reflex, dysphagia and reduced parotid secretion.",
+      "tags": [
+        "Lesion",
+        "Nerve",
+        "Tongue",
+        "GS4"
+      ],
+      "sourceLine": 267,
+      "section": "Tongue",
+      "label": "11"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-270",
+      "path": [
+        "12"
+      ],
+      "question": "Identification",
+      "answer": "Hypoglossal nerve (CN XII)",
+      "tags": [
+        "Identification",
+        "Nerve",
+        "Tongue",
+        "GS4"
+      ],
+      "sourceLine": 270,
+      "section": "Tongue",
+      "label": "12"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-271",
+      "path": [
+        "12"
+      ],
+      "question": "Roots",
+      "answer": "Arises from the hypoglossal nucleus in the medulla.",
+      "tags": [
+        "Roots",
+        "Nerve",
+        "Tongue",
+        "GS4"
+      ],
+      "sourceLine": 271,
+      "section": "Tongue",
+      "label": "12"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-272",
+      "path": [
+        "12"
+      ],
+      "question": "Course",
+      "answer": "Exits through hypoglossal canal and courses forward to the tongue.",
+      "tags": [
+        "Course",
+        "Nerve",
+        "Tongue",
+        "GS4"
+      ],
+      "sourceLine": 272,
+      "section": "Tongue",
+      "label": "12"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-273",
+      "path": [
+        "12"
+      ],
+      "question": "Motor functions",
+      "answer": "Supplies intrinsic and extrinsic tongue muscles except palatoglossus.",
+      "tags": [
+        "Motor",
+        "Nerve",
+        "Tongue",
+        "GS4"
+      ],
+      "sourceLine": 273,
+      "section": "Tongue",
+      "label": "12"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-274",
+      "path": [
+        "12"
+      ],
+      "question": "Sensory functions",
+      "answer": "No cutaneous sensory function.",
+      "tags": [
+        "Sensory",
+        "Nerve",
+        "Tongue",
+        "GS4"
+      ],
+      "sourceLine": 274,
+      "section": "Tongue",
+      "label": "12"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-275",
+      "path": [
+        "12"
+      ],
+      "question": "Lesion",
+      "answer": "Lower motor neuron lesion causes ipsilateral tongue weakness, atrophy and fasciculations, with deviation toward the lesion on protrusion.",
+      "tags": [
+        "Lesion",
+        "Nerve",
+        "Tongue",
+        "GS4"
+      ],
+      "sourceLine": 275,
+      "section": "Tongue",
+      "label": "12"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-278",
+      "path": [
+        "13"
+      ],
+      "question": "Identification",
+      "answer": "Lingual nerve",
+      "tags": [
+        "Identification",
+        "Nerve",
+        "Tongue",
+        "GS4"
+      ],
+      "sourceLine": 278,
+      "section": "Tongue",
+      "label": "13"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-279",
+      "path": [
+        "13"
+      ],
+      "question": "Roots",
+      "answer": "Branch of mandibular division of trigeminal nerve (V3).",
+      "tags": [
+        "Roots",
+        "Nerve",
+        "Tongue",
+        "GS4"
+      ],
+      "sourceLine": 279,
+      "section": "Tongue",
+      "label": "13"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-280",
+      "path": [
+        "13"
+      ],
+      "question": "Course",
+      "answer": "Passes through infratemporal fossa, receives chorda tympani, then runs in floor of mouth close to submandibular duct.",
+      "tags": [
+        "Course",
+        "Nerve",
+        "Tongue",
+        "GS4"
+      ],
+      "sourceLine": 280,
+      "section": "Tongue",
+      "label": "13"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-281",
+      "path": [
+        "13"
+      ],
+      "question": "Motor functions",
+      "answer": "No branchial motor supply to tongue muscles.",
+      "tags": [
+        "Motor",
+        "Nerve",
+        "Tongue",
+        "GS4"
+      ],
+      "sourceLine": 281,
+      "section": "Tongue",
+      "label": "13"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-282",
+      "path": [
+        "13"
+      ],
+      "question": "Sensory functions",
+      "answer": "General sensation from anterior two-thirds of tongue, floor of mouth and lingual gingiva; carries chorda tympani taste/parasympathetic fibres after they join it.",
+      "tags": [
+        "Sensory",
+        "Nerve",
+        "Tongue",
+        "GS4"
+      ],
+      "sourceLine": 282,
+      "section": "Tongue",
+      "label": "13"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-283",
+      "path": [
+        "13"
+      ],
+      "question": "Lesion",
+      "answer": "Causes loss of general sensation from anterior two-thirds of tongue; if injured distal to chorda tympani joining, also causes loss of taste and reduced submandibular/sublingual secretion on that side.",
+      "tags": [
+        "Lesion",
+        "Nerve",
+        "Tongue",
+        "GS4"
+      ],
+      "sourceLine": 283,
+      "section": "Tongue",
+      "label": "13"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-286",
+      "path": [
+        "14"
+      ],
+      "question": "Identification",
+      "answer": "Lingual artery",
+      "tags": [
+        "Identification",
+        "Artery",
+        "Tongue",
+        "GS4"
+      ],
+      "sourceLine": 286,
+      "section": "Tongue",
+      "label": "14"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-287",
+      "path": [
+        "14"
+      ],
+      "question": "Origin",
+      "answer": "Branch of the external carotid artery.",
+      "tags": [
+        "Origin",
+        "Artery",
+        "Tongue",
+        "GS4"
+      ],
+      "sourceLine": 287,
+      "section": "Tongue",
+      "label": "14"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-288",
+      "path": [
+        "14"
+      ],
+      "question": "Course",
+      "answer": "Passes deep to hyoglossus and enters the tongue.",
+      "tags": [
+        "Course",
+        "Artery",
+        "Tongue",
+        "GS4"
+      ],
+      "sourceLine": 288,
+      "section": "Tongue",
+      "label": "14"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-289",
+      "path": [
+        "14"
+      ],
+      "question": "Branches",
+      "answer": "Includes dorsal lingual, sublingual and deep lingual arteries.",
+      "tags": [
+        "Branches",
+        "Artery",
+        "Tongue",
+        "GS4"
+      ],
+      "sourceLine": 289,
+      "section": "Tongue",
+      "label": "14"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-290",
+      "path": [
+        "14"
+      ],
+      "question": "Supply",
+      "answer": "Supplies tongue and floor of mouth.",
+      "tags": [
+        "Supply",
+        "Artery",
+        "Tongue",
+        "GS4"
+      ],
+      "sourceLine": 290,
+      "section": "Tongue",
+      "label": "14"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-293",
+      "path": [
+        "15"
+      ],
+      "question": "Identification",
+      "answer": "Submandibular gland",
+      "tags": [
+        "Identification",
+        "Gland",
+        "Tongue",
+        "GS4"
+      ],
+      "sourceLine": 293,
+      "section": "Tongue",
+      "label": "15"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-294",
+      "path": [
+        "15"
+      ],
+      "question": "Location",
+      "answer": "Submandibular triangle, wrapping around posterior border of mylohyoid.",
+      "tags": [
+        "Location",
+        "Gland",
+        "Tongue",
+        "GS4"
+      ],
+      "sourceLine": 294,
+      "section": "Tongue",
+      "label": "15"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-295",
+      "path": [
+        "15"
+      ],
+      "question": "Function",
+      "answer": "Produces mixed saliva, predominantly serous.",
+      "tags": [
+        "Function",
+        "Gland",
+        "Tongue",
+        "GS4"
+      ],
+      "sourceLine": 295,
+      "section": "Tongue",
+      "label": "15"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-296",
+      "path": [
+        "15"
+      ],
+      "question": "Drainage",
+      "answer": "Submandibular duct opens at sublingual papilla beside lingual frenulum.",
+      "tags": [
+        "Drainage",
+        "Gland",
+        "Tongue",
+        "GS4"
+      ],
+      "sourceLine": 296,
+      "section": "Tongue",
+      "label": "15"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-297",
+      "path": [
+        "15"
+      ],
+      "question": "Innervation",
+      "answer": "Parasympathetic fibres from CN VII via chorda tympani, lingual nerve and submandibular ganglion.",
+      "tags": [
+        "Innervation",
+        "Gland",
+        "Tongue",
+        "GS4"
+      ],
+      "sourceLine": 297,
+      "section": "Tongue",
+      "label": "15"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-300",
+      "path": [
+        "16"
+      ],
+      "question": "Identification",
+      "answer": "Sublingual gland",
+      "tags": [
+        "Identification",
+        "Gland",
+        "Tongue",
+        "GS4"
+      ],
+      "sourceLine": 300,
+      "section": "Tongue",
+      "label": "16"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-301",
+      "path": [
+        "16"
+      ],
+      "question": "Location",
+      "answer": "Floor of mouth beneath the tongue and above mylohyoid.",
+      "tags": [
+        "Location",
+        "Gland",
+        "Tongue",
+        "GS4"
+      ],
+      "sourceLine": 301,
+      "section": "Tongue",
+      "label": "16"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-302",
+      "path": [
+        "16"
+      ],
+      "question": "Function",
+      "answer": "Produces predominantly mucous saliva.",
+      "tags": [
+        "Function",
+        "Gland",
+        "Tongue",
+        "GS4"
+      ],
+      "sourceLine": 302,
+      "section": "Tongue",
+      "label": "16"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-303",
+      "path": [
+        "16"
+      ],
+      "question": "Drainage",
+      "answer": "Multiple small ducts open along the sublingual fold; a major duct may join the submandibular duct.",
+      "tags": [
+        "Drainage",
+        "Gland",
+        "Tongue",
+        "GS4"
+      ],
+      "sourceLine": 303,
+      "section": "Tongue",
+      "label": "16"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-304",
+      "path": [
+        "16"
+      ],
+      "question": "Innervation",
+      "answer": "Parasympathetic fibres from CN VII via chorda tympani, lingual nerve and submandibular ganglion.",
+      "tags": [
+        "Innervation",
+        "Gland",
+        "Tongue",
+        "GS4"
+      ],
+      "sourceLine": 304,
+      "section": "Tongue",
+      "label": "16"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-307",
+      "path": [
+        "17"
+      ],
+      "question": "Identification",
+      "answer": "Septum of the tongue",
+      "tags": [
+        "Identification",
+        "Septum",
+        "Tongue",
+        "GS4"
+      ],
+      "sourceLine": 307,
+      "section": "Tongue",
+      "label": "17"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-308",
+      "path": [
+        "17"
+      ],
+      "question": "Structure",
+      "answer": "Midline fibrous partition within the tongue.",
+      "tags": [
+        "Structure",
+        "Septum",
+        "Tongue",
+        "GS4"
+      ],
+      "sourceLine": 308,
+      "section": "Tongue",
+      "label": "17"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-309",
+      "path": [
+        "17"
+      ],
+      "question": "Function",
+      "answer": "Separates right and left tongue musculature and provides internal support.",
+      "tags": [
+        "Function",
+        "Septum",
+        "Tongue",
+        "GS4"
+      ],
+      "sourceLine": 309,
+      "section": "Tongue",
+      "label": "17"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-312",
+      "path": [
+        "18"
+      ],
+      "question": "Identification",
+      "answer": "Mandible",
+      "tags": [
+        "Identification",
+        "Bone",
+        "Tongue",
+        "GS4"
+      ],
+      "sourceLine": 312,
+      "section": "Tongue",
+      "label": "18"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-313",
+      "path": [
+        "18"
+      ],
+      "question": "Articulations",
+      "answer": "Articulates with temporal bones at the temporomandibular joints.",
+      "tags": [
+        "Articulations",
+        "Bone",
+        "Tongue",
+        "GS4"
+      ],
+      "sourceLine": 313,
+      "section": "Tongue",
+      "label": "18"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-314",
+      "path": [
+        "18"
+      ],
+      "question": "Landmarks",
+      "answer": "Body, ramus, angle, coronoid process, condylar process, mental and mandibular foramina.",
+      "tags": [
+        "Landmarks",
+        "Bone",
+        "Tongue",
+        "GS4"
+      ],
+      "sourceLine": 314,
+      "section": "Tongue",
+      "label": "18"
+    },
+    {
+      "id": "larynx-and-tongue-model-gs4-315",
+      "path": [
+        "18"
+      ],
+      "question": "Relations",
+      "answer": "Provides attachment for several tongue and floor-of-mouth muscles.",
+      "tags": [
+        "Relations",
+        "Bone",
+        "Tongue",
+        "GS4"
+      ],
+      "sourceLine": 315,
+      "section": "Tongue",
+      "label": "18"
+    }
+  ]
+}

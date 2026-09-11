@@ -1,0 +1,149 @@
+1
+    Identification→Superior rectus muscle #Identification #Muscle #CS7
+    Actions→Elevates, adducts and intorts the eye. #Action #Muscle #CS7
+    Innervation→Oculomotor nerve (CN III), superior division. #Innervation #Muscle #CS7
+    Origin→Common tendinous ring at the orbital apex. #Origin #Muscle #CS7
+    Insertion→Superior sclera anterior to the equator of the globe. #Insertion #Muscle #CS7
+    
+2
+    Identification→Inferior rectus muscle #Identification #Muscle #CS7
+    Actions→Depresses, adducts and extorts the eye. #Action #Muscle #CS7
+    Innervation→Oculomotor nerve (CN III), inferior division. #Innervation #Muscle #CS7
+    Origin→Common tendinous ring at the orbital apex. #Origin #Muscle #CS7
+    Insertion→Inferior sclera anterior to the equator of the globe. #Insertion #Muscle #CS7
+    
+3
+    Identification→Medial rectus muscle #Identification #Muscle #CS7
+    Actions→Adducts the eye. #Action #Muscle #CS7
+    Innervation→Oculomotor nerve (CN III), inferior division. #Innervation #Muscle #CS7
+    Origin→Common tendinous ring at the orbital apex. #Origin #Muscle #CS7
+    Insertion→Medial sclera anterior to the equator of the globe. #Insertion #Muscle #CS7
+    
+4
+    Identification→Lateral rectus muscle #Identification #Muscle #CS7
+    Actions→Abducts the eye. #Action #Muscle #CS7
+    Innervation→Abducens nerve (CN VI). #Innervation #Muscle #CS7
+    Origin→Common tendinous ring at the orbital apex. #Origin #Muscle #CS7
+    Insertion→Lateral sclera anterior to the equator of the globe. #Insertion #Muscle #CS7
+    
+5
+    Identification→Tendon of superior oblique muscle #Identification #Tendon #CS7
+    Origin→Continuation of the superior oblique muscle after passing through the trochlea. #Origin #Tendon #CS7
+    Course→Reflects posterolaterally from the trochlea across the superior aspect of the globe. #Course #Tendon #CS7
+    Insertion→Posterolateral superior sclera, behind the equator of the globe. #Insertion #Tendon #CS7
+    Function→Transmits superior oblique force to intort, depress and abduct the eye. #Function #Tendon #CS7
+    
+6
+    Identification→Inferior oblique muscle #Identification #Muscle #CS7
+    Actions→Extorts, elevates and abducts the eye. #Action #Muscle #CS7
+    Innervation→Oculomotor nerve (CN III), inferior division. #Innervation #Muscle #CS7
+    Origin→Anteromedial floor of the orbit from maxilla, lateral to the nasolacrimal canal. #Origin #Muscle #CS7
+    Insertion→Posterolateral inferior sclera. #Insertion #Muscle #CS7
+    
+7
+    Identification→Sclera #Identification #EyeLayer #CS7
+    Structure→Tough opaque fibrous outer coat of the posterior five-sixths of the eyeball. #Structure #EyeLayer #CS7
+    Function→Maintains globe shape, protects intraocular contents and provides attachment for extraocular muscles. #Function #EyeLayer #CS7
+    Relations→Continuous anteriorly with cornea and posteriorly with the dural sheath of the optic nerve. #Relations #EyeLayer #CS7
+    
+8
+    Identification→Cornea #Identification #EyeLayer #CS7
+    Structure→Transparent avascular anterior part of the fibrous coat of the eye. #Structure #EyeLayer #CS7
+    Function→Provides most of the eye's refractive power and transmits light into the anterior chamber. #Function #EyeLayer #CS7
+    Innervation→Sensory innervation mainly via long ciliary nerves from nasociliary nerve (V1). #Innervation #EyeLayer #CS7
+    Note→Unlabelled on this model. #ModelNote #EyeLayer #CS7
+    
+9
+    Identification→Choroid #Identification #EyeLayer #CS7
+    Structure→Highly vascular pigmented layer between sclera and retina, forming part of the vascular tunic. #Structure #EyeLayer #CS7
+    Function→Supplies the outer retina and absorbs stray light. #Function #EyeLayer #CS7
+    Relations→Continuous anteriorly with the ciliary body. #Relations #EyeLayer #CS7
+    
+10
+    Identification→Iris #Identification #EyeStructure #CS7
+    Structure→Pigmented contractile diaphragm anterior to the lens with a central opening, the pupil. #Structure #EyeStructure #CS7
+    Function→Regulates the amount of light entering the eye by changing pupil diameter. #Function #EyeStructure #CS7
+    Innervation→Parasympathetic fibres constrict the pupil via sphincter pupillae; sympathetic fibres dilate it via dilator pupillae. #Innervation #EyeStructure #CS7
+    
+11
+    Identification→Retina #Identification #EyeLayer #CS7
+    Structure→Inner neural layer of the eye containing photoreceptors and retinal neurons. #Structure #EyeLayer #CS7
+    Function→Converts light into neural signals transmitted through the optic nerve. #Function #EyeLayer #CS7
+    Blood supply→Inner retina supplied mainly by the central retinal artery; outer retina by choroidal circulation. #BloodSupply #EyeLayer #CS7
+    
+12
+    Identification→Vitreous body #Identification #EyeContent #CS7
+    Structure→Transparent gel filling the vitreous chamber posterior to the lens. #Structure #EyeContent #CS7
+    Function→Maintains globe shape, supports the retina and transmits light to the retina. #Function #EyeContent #CS7
+    Relations→Lies between the lens and retina. #Relations #EyeContent #CS7
+    
+13
+    Identification→Lens #Identification #EyeStructure #CS7
+    Structure→Transparent biconvex avascular structure suspended by zonular fibres from the ciliary body. #Structure #EyeStructure #CS7
+    Function→Focuses light on the retina and changes shape during accommodation. #Function #EyeStructure #CS7
+    Relations→Lies posterior to iris and anterior to the vitreous body. #Relations #EyeStructure #CS7
+    Note→Unlabelled on this model. #ModelNote #EyeStructure #CS7
+    
+14
+    Identification→Dura mater covering optic nerve #Identification #Meninges #CS7
+    Structure→Outer meningeal sheath surrounding the optic nerve. #Structure #Meninges #CS7
+    Relations→Continuous posteriorly with intracranial dura and anteriorly with the sclera around the optic nerve. #Relations #Meninges #CS7
+    Clinical relevance→The subarachnoid space around the optic nerve is continuous with intracranial CSF, so raised intracranial pressure can produce papilloedema. #Clinical #Meninges #CS7
+    
+15
+    Identification→Long and short ciliary nerves and ciliary arteries entering eyeball #Identification #NeurovascularBundle #CS7
+    Course→Ciliary nerves and arteries pierce the sclera posteriorly and travel within the wall of the eyeball. #Course #NeurovascularBundle #CS7
+    Function→Ciliary nerves carry sensory/autonomic fibres; ciliary arteries supply the choroid, ciliary body and iris. #Function #NeurovascularBundle #CS7
+    Relations→Enter the posterior globe around the optic nerve. #Relations #NeurovascularBundle #CS7
+    
+16
+    Identification→Optic nerve (CN II) with central retinal artery and vein #Identification #Nerve #CS7
+    Roots→Optic nerve is formed by axons of retinal ganglion cells. #Roots #Nerve #CS7
+    Course→Leaves the posterior globe, passes through the optic canal and reaches the optic chiasm; central retinal vessels travel within the nerve. #Course #Nerve #CS7
+    Sensory functions→Vision and afferent limb of the pupillary light reflex. #Sensory #Nerve #CS7
+    Contents→Central retinal artery and vein run within the optic nerve to and from the retina. #Contents #Nerve #CS7
+    Lesion→Optic nerve lesion causes ipsilateral monocular visual loss and an afferent pupillary defect. #Lesion #Nerve #CS7
+    
+17
+    Identification→Ciliary muscle #Identification #Muscle #CS7
+    Actions→Contracts during accommodation, reducing tension on zonular fibres so the lens becomes more convex for near vision. #Action #Muscle #CS7
+    Innervation→Parasympathetic fibres from oculomotor nerve via ciliary ganglion and short ciliary nerves. #Innervation #Muscle #CS7
+    Location→Smooth muscle within the ciliary body. #Location #Muscle #CS7
+    
+18
+    Identification→Corona ciliaris #Identification #EyeStructure #CS7
+    Structure→Anterior folded part of the ciliary body formed by the ciliary processes. #Structure #EyeStructure #CS7
+    Function→Ciliary processes produce aqueous humour and give attachment to zonular fibres suspending the lens. #Function #EyeStructure #CS7
+    Relations→Lies posterior to the iris and surrounds the lens circumferentially. #Relations #EyeStructure #CS7
+    
+19
+    Identification→Vorticose vein #Identification #Vein #CS7
+    Location→Large veins draining the choroid and exiting obliquely through the posterior sclera. #Location #Vein #CS7
+    Drainage→Drain the choroidal circulation into ophthalmic veins. #Drainage #Vein #CS7
+    Relations→Typically several vorticose veins are distributed around the posterior globe. #Relations #Vein #CS7
+    
+20
+    Identification→Long and short ciliary nerves #Identification #Nerve #CS7
+    Roots→Long ciliary nerves arise from nasociliary nerve (V1); short ciliary nerves arise from the ciliary ganglion. #Roots #Nerve #CS7
+    Course→Pierce the sclera posteriorly and run forward between sclera and choroid. #Course #Nerve #CS7
+    Sensory functions→Carry sensory fibres from the eye, particularly the cornea via long ciliary pathways. #Sensory #Nerve #CS7
+    Autonomic functions→Short ciliary nerves carry parasympathetic fibres to sphincter pupillae and ciliary muscle; sympathetic fibres travel in both long and short ciliary nerves. #Autonomic #Nerve #CS7
+    Lesion→Depending on which fibres are affected, may impair corneal sensation, pupillary constriction or dilation, and accommodation.    #Lesion #Nerve #CS7
+    
+21
+    Identification→Macula of the retina (macula lutea) #Identification #RetinalLandmark #CS7
+    Location→Specialised retinal area lateral to the optic disc; the fovea centralis lies at its centre. #Location #RetinalLandmark #CS7
+    Function→Responsible for high-acuity central vision and detailed colour vision. #Function #RetinalLandmark #CS7
+    
+22
+    Identification→Retinal artery #Identification #Artery #CS7
+    Origin→Central retinal artery is usually a branch of the ophthalmic artery. #Origin #Artery #CS7
+    Course→Enters the optic nerve and reaches the retina at the optic disc. #Course #Artery #CS7
+    Supply→Supplies the inner layers of the retina. #Supply #Artery #CS7
+    Clinical relevance→Occlusion can cause sudden painless monocular visual loss. #Clinical #Artery #CS7
+    
+23
+    Identification→Retinal vein #Identification #Vein #CS7
+    Course→Central retinal vein drains the retinal venous circulation and leaves through the optic nerve. #Course #Vein #CS7
+    Drainage→Drains blood from the retina into the ophthalmic venous system and cavernous sinus circulation. #Drainage #Vein #CS7
+    Clinical relevance→Central retinal vein occlusion can cause sudden painless visual impairment with widespread retinal haemorrhages. #Clinical #Vein #CS7

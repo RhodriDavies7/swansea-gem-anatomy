@@ -1,0 +1,4806 @@
+{
+  "id": "foot-model-ns9",
+  "name": "Foot (Model NS9)",
+  "cards": [
+    {
+      "id": "foot-model-ns9-4",
+      "path": [
+        "1"
+      ],
+      "question": "Identification",
+      "answer": "Tibia",
+      "tags": [
+        "Identification",
+        "Bone",
+        "Bones",
+        "NS9"
+      ],
+      "sourceLine": 4,
+      "section": "Bones",
+      "label": "1"
+    },
+    {
+      "id": "foot-model-ns9-5",
+      "path": [
+        "1"
+      ],
+      "question": "Articulations",
+      "answer": "Articulates distally with talus and fibula; proximally with femur and fibula.",
+      "tags": [
+        "Articulations",
+        "Bone",
+        "Bones",
+        "NS9"
+      ],
+      "sourceLine": 5,
+      "section": "Bones",
+      "label": "1"
+    },
+    {
+      "id": "foot-model-ns9-6",
+      "path": [
+        "1"
+      ],
+      "question": "Landmarks",
+      "answer": "Medial malleolus, tibial plafond, anterior border and interosseous border.",
+      "tags": [
+        "Landmarks",
+        "Bone",
+        "Bones",
+        "NS9"
+      ],
+      "sourceLine": 6,
+      "section": "Bones",
+      "label": "1"
+    },
+    {
+      "id": "foot-model-ns9-7",
+      "path": [
+        "1"
+      ],
+      "question": "Orientation",
+      "answer": "Medial malleolus lies medially; sharp anterior border faces forward.",
+      "tags": [
+        "Orientation",
+        "Bone",
+        "Bones",
+        "NS9"
+      ],
+      "sourceLine": 7,
+      "section": "Bones",
+      "label": "1"
+    },
+    {
+      "id": "foot-model-ns9-10",
+      "path": [
+        "2"
+      ],
+      "question": "Identification",
+      "answer": "Medial malleolus",
+      "tags": [
+        "Identification",
+        "BonyLandmark",
+        "Bones",
+        "NS9"
+      ],
+      "sourceLine": 10,
+      "section": "Bones",
+      "label": "2"
+    },
+    {
+      "id": "foot-model-ns9-11",
+      "path": [
+        "2"
+      ],
+      "question": "Bone",
+      "answer": "Distal tibia.",
+      "tags": [
+        "Bone",
+        "BonyLandmark",
+        "Bones",
+        "NS9"
+      ],
+      "sourceLine": 11,
+      "section": "Bones",
+      "label": "2"
+    },
+    {
+      "id": "foot-model-ns9-12",
+      "path": [
+        "2"
+      ],
+      "question": "Relations",
+      "answer": "Forms the medial wall of the ankle mortise and articulates with the medial surface of the talus.",
+      "tags": [
+        "Relations",
+        "BonyLandmark",
+        "Bones",
+        "NS9"
+      ],
+      "sourceLine": 12,
+      "section": "Bones",
+      "label": "2"
+    },
+    {
+      "id": "foot-model-ns9-13",
+      "path": [
+        "2"
+      ],
+      "question": "Attachments",
+      "answer": "Gives attachment to the medial (deltoid) ligament of the ankle.",
+      "tags": [
+        "Attachments",
+        "BonyLandmark",
+        "Bones",
+        "NS9"
+      ],
+      "sourceLine": 13,
+      "section": "Bones",
+      "label": "2"
+    },
+    {
+      "id": "foot-model-ns9-16",
+      "path": [
+        "3"
+      ],
+      "question": "Identification",
+      "answer": "Fibula",
+      "tags": [
+        "Identification",
+        "Bone",
+        "Bones",
+        "NS9"
+      ],
+      "sourceLine": 16,
+      "section": "Bones",
+      "label": "3"
+    },
+    {
+      "id": "foot-model-ns9-17",
+      "path": [
+        "3"
+      ],
+      "question": "Articulations",
+      "answer": "Articulates with tibia proximally and distally; lateral malleolus articulates with talus.",
+      "tags": [
+        "Articulations",
+        "Bone",
+        "Bones",
+        "NS9"
+      ],
+      "sourceLine": 17,
+      "section": "Bones",
+      "label": "3"
+    },
+    {
+      "id": "foot-model-ns9-18",
+      "path": [
+        "3"
+      ],
+      "question": "Landmarks",
+      "answer": "Head, neck, shaft and lateral malleolus.",
+      "tags": [
+        "Landmarks",
+        "Bone",
+        "Bones",
+        "NS9"
+      ],
+      "sourceLine": 18,
+      "section": "Bones",
+      "label": "3"
+    },
+    {
+      "id": "foot-model-ns9-19",
+      "path": [
+        "3"
+      ],
+      "question": "Orientation",
+      "answer": "Lateral malleolus projects more distally and posteriorly than the medial malleolus.",
+      "tags": [
+        "Orientation",
+        "Bone",
+        "Bones",
+        "NS9"
+      ],
+      "sourceLine": 19,
+      "section": "Bones",
+      "label": "3"
+    },
+    {
+      "id": "foot-model-ns9-22",
+      "path": [
+        "4"
+      ],
+      "question": "Identification",
+      "answer": "Lateral malleolus",
+      "tags": [
+        "Identification",
+        "BonyLandmark",
+        "Bones",
+        "NS9"
+      ],
+      "sourceLine": 22,
+      "section": "Bones",
+      "label": "4"
+    },
+    {
+      "id": "foot-model-ns9-23",
+      "path": [
+        "4"
+      ],
+      "question": "Bone",
+      "answer": "Distal fibula.",
+      "tags": [
+        "Bone",
+        "BonyLandmark",
+        "Bones",
+        "NS9"
+      ],
+      "sourceLine": 23,
+      "section": "Bones",
+      "label": "4"
+    },
+    {
+      "id": "foot-model-ns9-24",
+      "path": [
+        "4"
+      ],
+      "question": "Relations",
+      "answer": "Forms the lateral wall of the ankle mortise and articulates with the lateral surface of the talus.",
+      "tags": [
+        "Relations",
+        "BonyLandmark",
+        "Bones",
+        "NS9"
+      ],
+      "sourceLine": 24,
+      "section": "Bones",
+      "label": "4"
+    },
+    {
+      "id": "foot-model-ns9-25",
+      "path": [
+        "4"
+      ],
+      "question": "Attachments",
+      "answer": "Gives attachment to lateral ankle ligaments and fibular retinacula.",
+      "tags": [
+        "Attachments",
+        "BonyLandmark",
+        "Bones",
+        "NS9"
+      ],
+      "sourceLine": 25,
+      "section": "Bones",
+      "label": "4"
+    },
+    {
+      "id": "foot-model-ns9-28",
+      "path": [
+        "5"
+      ],
+      "question": "Identification",
+      "answer": "Calcaneus",
+      "tags": [
+        "Identification",
+        "Bone",
+        "Bones",
+        "NS9"
+      ],
+      "sourceLine": 28,
+      "section": "Bones",
+      "label": "5"
+    },
+    {
+      "id": "foot-model-ns9-29",
+      "path": [
+        "5"
+      ],
+      "question": "Articulations",
+      "answer": "Articulates with talus superiorly and cuboid anteriorly.",
+      "tags": [
+        "Articulations",
+        "Bone",
+        "Bones",
+        "NS9"
+      ],
+      "sourceLine": 29,
+      "section": "Bones",
+      "label": "5"
+    },
+    {
+      "id": "foot-model-ns9-30",
+      "path": [
+        "5"
+      ],
+      "question": "Landmarks",
+      "answer": "Calcaneal tuberosity, sustentaculum tali and fibular trochlea.",
+      "tags": [
+        "Landmarks",
+        "Bone",
+        "Bones",
+        "NS9"
+      ],
+      "sourceLine": 30,
+      "section": "Bones",
+      "label": "5"
+    },
+    {
+      "id": "foot-model-ns9-31",
+      "path": [
+        "5"
+      ],
+      "question": "Attachments",
+      "answer": "Achilles tendon inserts posteriorly; plantar fascia and several intrinsic foot muscles attach to the calcaneal tuberosity.",
+      "tags": [
+        "Attachments",
+        "Bone",
+        "Bones",
+        "NS9"
+      ],
+      "sourceLine": 31,
+      "section": "Bones",
+      "label": "5"
+    },
+    {
+      "id": "foot-model-ns9-32",
+      "path": [
+        "5"
+      ],
+      "question": "Function",
+      "answer": "Forms the heel and transmits weight to the ground.",
+      "tags": [
+        "Function",
+        "Bone",
+        "Bones",
+        "NS9"
+      ],
+      "sourceLine": 32,
+      "section": "Bones",
+      "label": "5"
+    },
+    {
+      "id": "foot-model-ns9-35",
+      "path": [
+        "6"
+      ],
+      "question": "Identification",
+      "answer": "Talus",
+      "tags": [
+        "Identification",
+        "Bone",
+        "Bones",
+        "NS9"
+      ],
+      "sourceLine": 35,
+      "section": "Bones",
+      "label": "6"
+    },
+    {
+      "id": "foot-model-ns9-36",
+      "path": [
+        "6"
+      ],
+      "question": "Articulations",
+      "answer": "Articulates with tibia, fibula, calcaneus and navicular.",
+      "tags": [
+        "Articulations",
+        "Bone",
+        "Bones",
+        "NS9"
+      ],
+      "sourceLine": 36,
+      "section": "Bones",
+      "label": "6"
+    },
+    {
+      "id": "foot-model-ns9-37",
+      "path": [
+        "6"
+      ],
+      "question": "Landmarks",
+      "answer": "Head, neck, body, trochlea and posterior process.",
+      "tags": [
+        "Landmarks",
+        "Bone",
+        "Bones",
+        "NS9"
+      ],
+      "sourceLine": 37,
+      "section": "Bones",
+      "label": "6"
+    },
+    {
+      "id": "foot-model-ns9-38",
+      "path": [
+        "6"
+      ],
+      "question": "Function",
+      "answer": "Transfers body weight from tibia to the foot.",
+      "tags": [
+        "Function",
+        "Bone",
+        "Bones",
+        "NS9"
+      ],
+      "sourceLine": 38,
+      "section": "Bones",
+      "label": "6"
+    },
+    {
+      "id": "foot-model-ns9-39",
+      "path": [
+        "6"
+      ],
+      "question": "Clinical relevance",
+      "answer": "Has no muscular attachments and a vulnerable blood supply, making talar fractures prone to avascular necrosis.",
+      "tags": [
+        "Clinical",
+        "Bone",
+        "Bones",
+        "NS9"
+      ],
+      "sourceLine": 39,
+      "section": "Bones",
+      "label": "6"
+    },
+    {
+      "id": "foot-model-ns9-42",
+      "path": [
+        "7"
+      ],
+      "question": "Identification",
+      "answer": "Navicular",
+      "tags": [
+        "Identification",
+        "Bone",
+        "Bones",
+        "NS9"
+      ],
+      "sourceLine": 42,
+      "section": "Bones",
+      "label": "7"
+    },
+    {
+      "id": "foot-model-ns9-43",
+      "path": [
+        "7"
+      ],
+      "question": "Articulations",
+      "answer": "Articulates with talar head proximally and the three cuneiforms distally.",
+      "tags": [
+        "Articulations",
+        "Bone",
+        "Bones",
+        "NS9"
+      ],
+      "sourceLine": 43,
+      "section": "Bones",
+      "label": "7"
+    },
+    {
+      "id": "foot-model-ns9-44",
+      "path": [
+        "7"
+      ],
+      "question": "Landmarks",
+      "answer": "Navicular tuberosity on medial side.",
+      "tags": [
+        "Landmarks",
+        "Bone",
+        "Bones",
+        "NS9"
+      ],
+      "sourceLine": 44,
+      "section": "Bones",
+      "label": "7"
+    },
+    {
+      "id": "foot-model-ns9-45",
+      "path": [
+        "7"
+      ],
+      "question": "Attachments",
+      "answer": "Tibialis posterior inserts mainly onto the navicular tuberosity.",
+      "tags": [
+        "Attachments",
+        "Bone",
+        "Bones",
+        "NS9"
+      ],
+      "sourceLine": 45,
+      "section": "Bones",
+      "label": "7"
+    },
+    {
+      "id": "foot-model-ns9-48",
+      "path": [
+        "8"
+      ],
+      "question": "Identification",
+      "answer": "1st metatarsal",
+      "tags": [
+        "Identification",
+        "Bone",
+        "Bones",
+        "NS9"
+      ],
+      "sourceLine": 48,
+      "section": "Bones",
+      "label": "8"
+    },
+    {
+      "id": "foot-model-ns9-49",
+      "path": [
+        "8"
+      ],
+      "question": "Articulations",
+      "answer": "Articulates proximally with medial cuneiform and distally with proximal phalanx of hallux.",
+      "tags": [
+        "Articulations",
+        "Bone",
+        "Bones",
+        "NS9"
+      ],
+      "sourceLine": 49,
+      "section": "Bones",
+      "label": "8"
+    },
+    {
+      "id": "foot-model-ns9-50",
+      "path": [
+        "8"
+      ],
+      "question": "Landmarks",
+      "answer": "Base, shaft and head; head has grooves for sesamoid bones.",
+      "tags": [
+        "Landmarks",
+        "Bone",
+        "Bones",
+        "NS9"
+      ],
+      "sourceLine": 50,
+      "section": "Bones",
+      "label": "8"
+    },
+    {
+      "id": "foot-model-ns9-51",
+      "path": [
+        "8"
+      ],
+      "question": "Relations",
+      "answer": "Forms the medial forefoot and contributes to the medial longitudinal arch.",
+      "tags": [
+        "Relations",
+        "Bone",
+        "Bones",
+        "NS9"
+      ],
+      "sourceLine": 51,
+      "section": "Bones",
+      "label": "8"
+    },
+    {
+      "id": "foot-model-ns9-54",
+      "path": [
+        "9"
+      ],
+      "question": "Identification",
+      "answer": "5th metatarsal",
+      "tags": [
+        "Identification",
+        "Bone",
+        "Bones",
+        "NS9"
+      ],
+      "sourceLine": 54,
+      "section": "Bones",
+      "label": "9"
+    },
+    {
+      "id": "foot-model-ns9-55",
+      "path": [
+        "9"
+      ],
+      "question": "Articulations",
+      "answer": "Articulates proximally with cuboid and distally with proximal phalanx of little toe.",
+      "tags": [
+        "Articulations",
+        "Bone",
+        "Bones",
+        "NS9"
+      ],
+      "sourceLine": 55,
+      "section": "Bones",
+      "label": "9"
+    },
+    {
+      "id": "foot-model-ns9-56",
+      "path": [
+        "9"
+      ],
+      "question": "Landmarks",
+      "answer": "Prominent tuberosity at base.",
+      "tags": [
+        "Landmarks",
+        "Bone",
+        "Bones",
+        "NS9"
+      ],
+      "sourceLine": 56,
+      "section": "Bones",
+      "label": "9"
+    },
+    {
+      "id": "foot-model-ns9-57",
+      "path": [
+        "9"
+      ],
+      "question": "Relations",
+      "answer": "Forms the lateral border of the forefoot.",
+      "tags": [
+        "Relations",
+        "Bone",
+        "Bones",
+        "NS9"
+      ],
+      "sourceLine": 57,
+      "section": "Bones",
+      "label": "9"
+    },
+    {
+      "id": "foot-model-ns9-60",
+      "path": [
+        "10"
+      ],
+      "question": "Identification",
+      "answer": "Tuberosity of 5th metatarsal",
+      "tags": [
+        "Identification",
+        "BonyLandmark",
+        "Bones",
+        "NS9"
+      ],
+      "sourceLine": 60,
+      "section": "Bones",
+      "label": "10"
+    },
+    {
+      "id": "foot-model-ns9-61",
+      "path": [
+        "10"
+      ],
+      "question": "Bone",
+      "answer": "Base of the 5th metatarsal.",
+      "tags": [
+        "Bone",
+        "BonyLandmark",
+        "Bones",
+        "NS9"
+      ],
+      "sourceLine": 61,
+      "section": "Bones",
+      "label": "10"
+    },
+    {
+      "id": "foot-model-ns9-62",
+      "path": [
+        "10"
+      ],
+      "question": "Attachments",
+      "answer": "Fibularis brevis inserts here; lateral band of plantar aponeurosis also attaches.",
+      "tags": [
+        "Attachments",
+        "BonyLandmark",
+        "Bones",
+        "NS9"
+      ],
+      "sourceLine": 62,
+      "section": "Bones",
+      "label": "10"
+    },
+    {
+      "id": "foot-model-ns9-63",
+      "path": [
+        "10"
+      ],
+      "question": "Clinical relevance",
+      "answer": "Avulsion fractures may occur with forceful inversion of the foot.",
+      "tags": [
+        "Clinical",
+        "BonyLandmark",
+        "Bones",
+        "NS9"
+      ],
+      "sourceLine": 63,
+      "section": "Bones",
+      "label": "10"
+    },
+    {
+      "id": "foot-model-ns9-68",
+      "path": [
+        "11"
+      ],
+      "question": "Identification",
+      "answer": "Tibialis anterior",
+      "tags": [
+        "Identification",
+        "Muscle",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 68,
+      "section": "Muscles",
+      "label": "11"
+    },
+    {
+      "id": "foot-model-ns9-69",
+      "path": [
+        "11"
+      ],
+      "question": "Actions",
+      "answer": "Dorsiflexes ankle and inverts foot; supports medial longitudinal arch.",
+      "tags": [
+        "Action",
+        "Muscle",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 69,
+      "section": "Muscles",
+      "label": "11"
+    },
+    {
+      "id": "foot-model-ns9-70",
+      "path": [
+        "11"
+      ],
+      "question": "Innervation",
+      "answer": "Deep fibular nerve (L4–L5).",
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 70,
+      "section": "Muscles",
+      "label": "11"
+    },
+    {
+      "id": "foot-model-ns9-71",
+      "path": [
+        "11"
+      ],
+      "question": "Origin",
+      "answer": "Lateral condyle and superior lateral tibia with interosseous membrane.",
+      "tags": [
+        "Origin",
+        "Muscle",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 71,
+      "section": "Muscles",
+      "label": "11"
+    },
+    {
+      "id": "foot-model-ns9-72",
+      "path": [
+        "11"
+      ],
+      "question": "Insertion",
+      "answer": "Medial cuneiform and base of 1st metatarsal.",
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 72,
+      "section": "Muscles",
+      "label": "11"
+    },
+    {
+      "id": "foot-model-ns9-75",
+      "path": [
+        "12"
+      ],
+      "question": "Identification",
+      "answer": "Extensor hallucis longus",
+      "tags": [
+        "Identification",
+        "Muscle",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 75,
+      "section": "Muscles",
+      "label": "12"
+    },
+    {
+      "id": "foot-model-ns9-76",
+      "path": [
+        "12"
+      ],
+      "question": "Actions",
+      "answer": "Extends hallux and dorsiflexes ankle.",
+      "tags": [
+        "Action",
+        "Muscle",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 76,
+      "section": "Muscles",
+      "label": "12"
+    },
+    {
+      "id": "foot-model-ns9-77",
+      "path": [
+        "12"
+      ],
+      "question": "Innervation",
+      "answer": "Deep fibular nerve (L5).",
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 77,
+      "section": "Muscles",
+      "label": "12"
+    },
+    {
+      "id": "foot-model-ns9-78",
+      "path": [
+        "12"
+      ],
+      "question": "Origin",
+      "answer": "Middle anterior fibula and interosseous membrane.",
+      "tags": [
+        "Origin",
+        "Muscle",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 78,
+      "section": "Muscles",
+      "label": "12"
+    },
+    {
+      "id": "foot-model-ns9-79",
+      "path": [
+        "12"
+      ],
+      "question": "Insertion",
+      "answer": "Dorsal base of distal phalanx of hallux.",
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 79,
+      "section": "Muscles",
+      "label": "12"
+    },
+    {
+      "id": "foot-model-ns9-82",
+      "path": [
+        "13"
+      ],
+      "question": "Identification",
+      "answer": "Extensor digitorum longus",
+      "tags": [
+        "Identification",
+        "Muscle",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 82,
+      "section": "Muscles",
+      "label": "13"
+    },
+    {
+      "id": "foot-model-ns9-83",
+      "path": [
+        "13"
+      ],
+      "question": "Actions",
+      "answer": "Extends lateral four toes and dorsiflexes ankle; assists eversion.",
+      "tags": [
+        "Action",
+        "Muscle",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 83,
+      "section": "Muscles",
+      "label": "13"
+    },
+    {
+      "id": "foot-model-ns9-84",
+      "path": [
+        "13"
+      ],
+      "question": "Innervation",
+      "answer": "Deep fibular nerve (L5–S1).",
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 84,
+      "section": "Muscles",
+      "label": "13"
+    },
+    {
+      "id": "foot-model-ns9-85",
+      "path": [
+        "13"
+      ],
+      "question": "Origin",
+      "answer": "Lateral tibial condyle, anterior fibula and interosseous membrane.",
+      "tags": [
+        "Origin",
+        "Muscle",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 85,
+      "section": "Muscles",
+      "label": "13"
+    },
+    {
+      "id": "foot-model-ns9-86",
+      "path": [
+        "13"
+      ],
+      "question": "Insertion",
+      "answer": "Extensor expansions of lateral four toes.",
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 86,
+      "section": "Muscles",
+      "label": "13"
+    },
+    {
+      "id": "foot-model-ns9-89",
+      "path": [
+        "14"
+      ],
+      "question": "Identification",
+      "answer": "Fibularis (peroneus) tertius",
+      "tags": [
+        "Identification",
+        "Muscle",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 89,
+      "section": "Muscles",
+      "label": "14"
+    },
+    {
+      "id": "foot-model-ns9-90",
+      "path": [
+        "14"
+      ],
+      "question": "Actions",
+      "answer": "Dorsiflexes ankle and assists eversion.",
+      "tags": [
+        "Action",
+        "Muscle",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 90,
+      "section": "Muscles",
+      "label": "14"
+    },
+    {
+      "id": "foot-model-ns9-91",
+      "path": [
+        "14"
+      ],
+      "question": "Innervation",
+      "answer": "Deep fibular nerve (L5–S1).",
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 91,
+      "section": "Muscles",
+      "label": "14"
+    },
+    {
+      "id": "foot-model-ns9-92",
+      "path": [
+        "14"
+      ],
+      "question": "Origin",
+      "answer": "Inferior anterior fibula and interosseous membrane.",
+      "tags": [
+        "Origin",
+        "Muscle",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 92,
+      "section": "Muscles",
+      "label": "14"
+    },
+    {
+      "id": "foot-model-ns9-93",
+      "path": [
+        "14"
+      ],
+      "question": "Insertion",
+      "answer": "Dorsum of base of 5th metatarsal.",
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 93,
+      "section": "Muscles",
+      "label": "14"
+    },
+    {
+      "id": "foot-model-ns9-96",
+      "path": [
+        "15"
+      ],
+      "question": "Identification",
+      "answer": "Extensor digitorum brevis",
+      "tags": [
+        "Identification",
+        "Muscle",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 96,
+      "section": "Muscles",
+      "label": "15"
+    },
+    {
+      "id": "foot-model-ns9-97",
+      "path": [
+        "15"
+      ],
+      "question": "Actions",
+      "answer": "Assists extension of toes 2–4.",
+      "tags": [
+        "Action",
+        "Muscle",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 97,
+      "section": "Muscles",
+      "label": "15"
+    },
+    {
+      "id": "foot-model-ns9-98",
+      "path": [
+        "15"
+      ],
+      "question": "Innervation",
+      "answer": "Deep fibular nerve (L5–S1).",
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 98,
+      "section": "Muscles",
+      "label": "15"
+    },
+    {
+      "id": "foot-model-ns9-99",
+      "path": [
+        "15"
+      ],
+      "question": "Origin",
+      "answer": "Superolateral calcaneus.",
+      "tags": [
+        "Origin",
+        "Muscle",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 99,
+      "section": "Muscles",
+      "label": "15"
+    },
+    {
+      "id": "foot-model-ns9-100",
+      "path": [
+        "15"
+      ],
+      "question": "Insertion",
+      "answer": "Tendons to toes 2–4 joining extensor expansions.",
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 100,
+      "section": "Muscles",
+      "label": "15"
+    },
+    {
+      "id": "foot-model-ns9-103",
+      "path": [
+        "16"
+      ],
+      "question": "Identification",
+      "answer": "Extensor hallucis brevis",
+      "tags": [
+        "Identification",
+        "Muscle",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 103,
+      "section": "Muscles",
+      "label": "16"
+    },
+    {
+      "id": "foot-model-ns9-104",
+      "path": [
+        "16"
+      ],
+      "question": "Actions",
+      "answer": "Extends the hallux at the metatarsophalangeal joint.",
+      "tags": [
+        "Action",
+        "Muscle",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 104,
+      "section": "Muscles",
+      "label": "16"
+    },
+    {
+      "id": "foot-model-ns9-105",
+      "path": [
+        "16"
+      ],
+      "question": "Innervation",
+      "answer": "Deep fibular nerve (L5–S1).",
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 105,
+      "section": "Muscles",
+      "label": "16"
+    },
+    {
+      "id": "foot-model-ns9-106",
+      "path": [
+        "16"
+      ],
+      "question": "Origin",
+      "answer": "Superolateral calcaneus as medial part of extensor digitorum brevis complex.",
+      "tags": [
+        "Origin",
+        "Muscle",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 106,
+      "section": "Muscles",
+      "label": "16"
+    },
+    {
+      "id": "foot-model-ns9-107",
+      "path": [
+        "16"
+      ],
+      "question": "Insertion",
+      "answer": "Dorsal base of proximal phalanx of hallux.",
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 107,
+      "section": "Muscles",
+      "label": "16"
+    },
+    {
+      "id": "foot-model-ns9-110",
+      "path": [
+        "17"
+      ],
+      "question": "Identification",
+      "answer": "Fibularis (peroneus) brevis",
+      "tags": [
+        "Identification",
+        "Muscle",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 110,
+      "section": "Muscles",
+      "label": "17"
+    },
+    {
+      "id": "foot-model-ns9-111",
+      "path": [
+        "17"
+      ],
+      "question": "Actions",
+      "answer": "Everts foot and weakly plantarflexes ankle.",
+      "tags": [
+        "Action",
+        "Muscle",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 111,
+      "section": "Muscles",
+      "label": "17"
+    },
+    {
+      "id": "foot-model-ns9-112",
+      "path": [
+        "17"
+      ],
+      "question": "Innervation",
+      "answer": "Superficial fibular nerve (L5–S2).",
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 112,
+      "section": "Muscles",
+      "label": "17"
+    },
+    {
+      "id": "foot-model-ns9-113",
+      "path": [
+        "17"
+      ],
+      "question": "Origin",
+      "answer": "Inferior two-thirds of lateral fibula.",
+      "tags": [
+        "Origin",
+        "Muscle",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 113,
+      "section": "Muscles",
+      "label": "17"
+    },
+    {
+      "id": "foot-model-ns9-114",
+      "path": [
+        "17"
+      ],
+      "question": "Insertion",
+      "answer": "Tuberosity at base of 5th metatarsal.",
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 114,
+      "section": "Muscles",
+      "label": "17"
+    },
+    {
+      "id": "foot-model-ns9-117",
+      "path": [
+        "18"
+      ],
+      "question": "Identification",
+      "answer": "Fibularis (peroneus) longus",
+      "tags": [
+        "Identification",
+        "Muscle",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 117,
+      "section": "Muscles",
+      "label": "18"
+    },
+    {
+      "id": "foot-model-ns9-118",
+      "path": [
+        "18"
+      ],
+      "question": "Actions",
+      "answer": "Everts foot, weakly plantarflexes ankle and supports transverse/lateral arches.",
+      "tags": [
+        "Action",
+        "Muscle",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 118,
+      "section": "Muscles",
+      "label": "18"
+    },
+    {
+      "id": "foot-model-ns9-119",
+      "path": [
+        "18"
+      ],
+      "question": "Innervation",
+      "answer": "Superficial fibular nerve (L5–S2).",
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 119,
+      "section": "Muscles",
+      "label": "18"
+    },
+    {
+      "id": "foot-model-ns9-120",
+      "path": [
+        "18"
+      ],
+      "question": "Origin",
+      "answer": "Head and superior lateral fibula.",
+      "tags": [
+        "Origin",
+        "Muscle",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 120,
+      "section": "Muscles",
+      "label": "18"
+    },
+    {
+      "id": "foot-model-ns9-121",
+      "path": [
+        "18"
+      ],
+      "question": "Insertion",
+      "answer": "Base of 1st metatarsal and medial cuneiform on plantar surface.",
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 121,
+      "section": "Muscles",
+      "label": "18"
+    },
+    {
+      "id": "foot-model-ns9-124",
+      "path": [
+        "19"
+      ],
+      "question": "Identification",
+      "answer": "Calcaneal (Achilles) tendon",
+      "tags": [
+        "Identification",
+        "Tendon",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 124,
+      "section": "Muscles",
+      "label": "19"
+    },
+    {
+      "id": "foot-model-ns9-125",
+      "path": [
+        "19"
+      ],
+      "question": "Origin",
+      "answer": "Formed mainly by gastrocnemius and soleus tendons, with variable plantaris contribution.",
+      "tags": [
+        "Origin",
+        "Tendon",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 125,
+      "section": "Muscles",
+      "label": "19"
+    },
+    {
+      "id": "foot-model-ns9-126",
+      "path": [
+        "19"
+      ],
+      "question": "Insertion",
+      "answer": "Posterior calcaneal tuberosity.",
+      "tags": [
+        "Insertion",
+        "Tendon",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 126,
+      "section": "Muscles",
+      "label": "19"
+    },
+    {
+      "id": "foot-model-ns9-127",
+      "path": [
+        "19"
+      ],
+      "question": "Function",
+      "answer": "Transmits triceps surae force for powerful plantarflexion.",
+      "tags": [
+        "Function",
+        "Tendon",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 127,
+      "section": "Muscles",
+      "label": "19"
+    },
+    {
+      "id": "foot-model-ns9-128",
+      "path": [
+        "19"
+      ],
+      "question": "Clinical relevance",
+      "answer": "Achilles rupture causes marked weakness of plantarflexion and an abnormal Thompson test.",
+      "tags": [
+        "Clinical",
+        "Tendon",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 128,
+      "section": "Muscles",
+      "label": "19"
+    },
+    {
+      "id": "foot-model-ns9-131",
+      "path": [
+        "20"
+      ],
+      "question": "Identification",
+      "answer": "Flexor hallucis longus",
+      "tags": [
+        "Identification",
+        "Muscle",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 131,
+      "section": "Muscles",
+      "label": "20"
+    },
+    {
+      "id": "foot-model-ns9-132",
+      "path": [
+        "20"
+      ],
+      "question": "Actions",
+      "answer": "Flexes hallux, plantarflexes ankle and supports medial longitudinal arch.",
+      "tags": [
+        "Action",
+        "Muscle",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 132,
+      "section": "Muscles",
+      "label": "20"
+    },
+    {
+      "id": "foot-model-ns9-133",
+      "path": [
+        "20"
+      ],
+      "question": "Innervation",
+      "answer": "Tibial nerve (S2–S3).",
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 133,
+      "section": "Muscles",
+      "label": "20"
+    },
+    {
+      "id": "foot-model-ns9-134",
+      "path": [
+        "20"
+      ],
+      "question": "Origin",
+      "answer": "Inferior posterior fibula and interosseous membrane.",
+      "tags": [
+        "Origin",
+        "Muscle",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 134,
+      "section": "Muscles",
+      "label": "20"
+    },
+    {
+      "id": "foot-model-ns9-135",
+      "path": [
+        "20"
+      ],
+      "question": "Insertion",
+      "answer": "Base of distal phalanx of hallux.",
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 135,
+      "section": "Muscles",
+      "label": "20"
+    },
+    {
+      "id": "foot-model-ns9-138",
+      "path": [
+        "21"
+      ],
+      "question": "Identification",
+      "answer": "Flexor digitorum longus",
+      "tags": [
+        "Identification",
+        "Muscle",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 138,
+      "section": "Muscles",
+      "label": "21"
+    },
+    {
+      "id": "foot-model-ns9-139",
+      "path": [
+        "21"
+      ],
+      "question": "Actions",
+      "answer": "Flexes lateral four toes, plantarflexes ankle and supports longitudinal arches.",
+      "tags": [
+        "Action",
+        "Muscle",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 139,
+      "section": "Muscles",
+      "label": "21"
+    },
+    {
+      "id": "foot-model-ns9-140",
+      "path": [
+        "21"
+      ],
+      "question": "Innervation",
+      "answer": "Tibial nerve (S2–S3).",
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 140,
+      "section": "Muscles",
+      "label": "21"
+    },
+    {
+      "id": "foot-model-ns9-141",
+      "path": [
+        "21"
+      ],
+      "question": "Origin",
+      "answer": "Posterior tibia inferior to soleal line.",
+      "tags": [
+        "Origin",
+        "Muscle",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 141,
+      "section": "Muscles",
+      "label": "21"
+    },
+    {
+      "id": "foot-model-ns9-142",
+      "path": [
+        "21"
+      ],
+      "question": "Insertion",
+      "answer": "Bases of distal phalanges of toes 2–5.",
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 142,
+      "section": "Muscles",
+      "label": "21"
+    },
+    {
+      "id": "foot-model-ns9-145",
+      "path": [
+        "22"
+      ],
+      "question": "Identification",
+      "answer": "Flexor digitorum longus tendon",
+      "tags": [
+        "Identification",
+        "Tendon",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 145,
+      "section": "Muscles",
+      "label": "22"
+    },
+    {
+      "id": "foot-model-ns9-146",
+      "path": [
+        "22"
+      ],
+      "question": "Course",
+      "answer": "Passes posterior to medial malleolus, enters sole and divides into four tendons for toes 2–5.",
+      "tags": [
+        "Course",
+        "Tendon",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 146,
+      "section": "Muscles",
+      "label": "22"
+    },
+    {
+      "id": "foot-model-ns9-147",
+      "path": [
+        "22"
+      ],
+      "question": "Insertion",
+      "answer": "Bases of distal phalanges of toes 2–5.",
+      "tags": [
+        "Insertion",
+        "Tendon",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 147,
+      "section": "Muscles",
+      "label": "22"
+    },
+    {
+      "id": "foot-model-ns9-148",
+      "path": [
+        "22"
+      ],
+      "question": "Function",
+      "answer": "Transmits flexor digitorum longus force to flex the lateral four toes.",
+      "tags": [
+        "Function",
+        "Tendon",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 148,
+      "section": "Muscles",
+      "label": "22"
+    },
+    {
+      "id": "foot-model-ns9-149",
+      "path": [
+        "22"
+      ],
+      "question": "Relations",
+      "answer": "Receives insertion of quadratus plantae and gives origin to lumbricals in the sole.",
+      "tags": [
+        "Relations",
+        "Tendon",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 149,
+      "section": "Muscles",
+      "label": "22"
+    },
+    {
+      "id": "foot-model-ns9-152",
+      "path": [
+        "23"
+      ],
+      "question": "Identification",
+      "answer": "Quadratus plantae",
+      "tags": [
+        "Identification",
+        "Muscle",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 152,
+      "section": "Muscles",
+      "label": "23"
+    },
+    {
+      "id": "foot-model-ns9-153",
+      "path": [
+        "23"
+      ],
+      "question": "Actions",
+      "answer": "Assists flexor digitorum longus by straightening its oblique pull on toes 2–5.",
+      "tags": [
+        "Action",
+        "Muscle",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 153,
+      "section": "Muscles",
+      "label": "23"
+    },
+    {
+      "id": "foot-model-ns9-154",
+      "path": [
+        "23"
+      ],
+      "question": "Innervation",
+      "answer": "Lateral plantar nerve (S2–S3).",
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 154,
+      "section": "Muscles",
+      "label": "23"
+    },
+    {
+      "id": "foot-model-ns9-155",
+      "path": [
+        "23"
+      ],
+      "question": "Origin",
+      "answer": "Medial and lateral plantar surfaces of calcaneus.",
+      "tags": [
+        "Origin",
+        "Muscle",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 155,
+      "section": "Muscles",
+      "label": "23"
+    },
+    {
+      "id": "foot-model-ns9-156",
+      "path": [
+        "23"
+      ],
+      "question": "Insertion",
+      "answer": "Posterolateral margin of flexor digitorum longus tendon.",
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 156,
+      "section": "Muscles",
+      "label": "23"
+    },
+    {
+      "id": "foot-model-ns9-159",
+      "path": [
+        "24"
+      ],
+      "question": "Identification",
+      "answer": "Tibialis posterior tendon",
+      "tags": [
+        "Identification",
+        "Tendon",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 159,
+      "section": "Muscles",
+      "label": "24"
+    },
+    {
+      "id": "foot-model-ns9-160",
+      "path": [
+        "24"
+      ],
+      "question": "Course",
+      "answer": "Passes posterior to medial malleolus and deep to flexor retinaculum before entering medial foot.",
+      "tags": [
+        "Course",
+        "Tendon",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 160,
+      "section": "Muscles",
+      "label": "24"
+    },
+    {
+      "id": "foot-model-ns9-161",
+      "path": [
+        "24"
+      ],
+      "question": "Insertion",
+      "answer": "Mainly navicular tuberosity, with expansions to cuneiforms, cuboid and bases of metatarsals 2–4.",
+      "tags": [
+        "Insertion",
+        "Tendon",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 161,
+      "section": "Muscles",
+      "label": "24"
+    },
+    {
+      "id": "foot-model-ns9-162",
+      "path": [
+        "24"
+      ],
+      "question": "Function",
+      "answer": "Transmits tibialis posterior force for inversion, plantarflexion and support of medial longitudinal arch.",
+      "tags": [
+        "Function",
+        "Tendon",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 162,
+      "section": "Muscles",
+      "label": "24"
+    },
+    {
+      "id": "foot-model-ns9-165",
+      "path": [
+        "25"
+      ],
+      "question": "Identification",
+      "answer": "Abductor hallucis",
+      "tags": [
+        "Identification",
+        "Muscle",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 165,
+      "section": "Muscles",
+      "label": "25"
+    },
+    {
+      "id": "foot-model-ns9-166",
+      "path": [
+        "25"
+      ],
+      "question": "Actions",
+      "answer": "Abducts and flexes hallux; supports medial longitudinal arch.",
+      "tags": [
+        "Action",
+        "Muscle",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 166,
+      "section": "Muscles",
+      "label": "25"
+    },
+    {
+      "id": "foot-model-ns9-167",
+      "path": [
+        "25"
+      ],
+      "question": "Innervation",
+      "answer": "Medial plantar nerve (S2–S3).",
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 167,
+      "section": "Muscles",
+      "label": "25"
+    },
+    {
+      "id": "foot-model-ns9-168",
+      "path": [
+        "25"
+      ],
+      "question": "Origin",
+      "answer": "Medial calcaneal tubercle, flexor retinaculum and plantar aponeurosis.",
+      "tags": [
+        "Origin",
+        "Muscle",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 168,
+      "section": "Muscles",
+      "label": "25"
+    },
+    {
+      "id": "foot-model-ns9-169",
+      "path": [
+        "25"
+      ],
+      "question": "Insertion",
+      "answer": "Medial base of proximal phalanx of hallux.",
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 169,
+      "section": "Muscles",
+      "label": "25"
+    },
+    {
+      "id": "foot-model-ns9-172",
+      "path": [
+        "26"
+      ],
+      "question": "Identification",
+      "answer": "Flexor hallucis brevis",
+      "tags": [
+        "Identification",
+        "Muscle",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 172,
+      "section": "Muscles",
+      "label": "26"
+    },
+    {
+      "id": "foot-model-ns9-173",
+      "path": [
+        "26"
+      ],
+      "question": "Actions",
+      "answer": "Flexes hallux at the metatarsophalangeal joint and supports medial arch.",
+      "tags": [
+        "Action",
+        "Muscle",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 173,
+      "section": "Muscles",
+      "label": "26"
+    },
+    {
+      "id": "foot-model-ns9-174",
+      "path": [
+        "26"
+      ],
+      "question": "Innervation",
+      "answer": "Medial plantar nerve, with possible lateral plantar contribution to lateral head (S2–S3).",
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 174,
+      "section": "Muscles",
+      "label": "26"
+    },
+    {
+      "id": "foot-model-ns9-175",
+      "path": [
+        "26"
+      ],
+      "question": "Origin",
+      "answer": "Plantar cuboid and lateral cuneiform with tendon of tibialis posterior.",
+      "tags": [
+        "Origin",
+        "Muscle",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 175,
+      "section": "Muscles",
+      "label": "26"
+    },
+    {
+      "id": "foot-model-ns9-176",
+      "path": [
+        "26"
+      ],
+      "question": "Insertion",
+      "answer": "Both sides of base of proximal phalanx of hallux via sesamoids.",
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 176,
+      "section": "Muscles",
+      "label": "26"
+    },
+    {
+      "id": "foot-model-ns9-179",
+      "path": [
+        "27"
+      ],
+      "question": "Identification",
+      "answer": "Flexor digitorum brevis",
+      "tags": [
+        "Identification",
+        "Muscle",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 179,
+      "section": "Muscles",
+      "label": "27"
+    },
+    {
+      "id": "foot-model-ns9-180",
+      "path": [
+        "27"
+      ],
+      "question": "Actions",
+      "answer": "Flexes toes 2–5 at proximal interphalangeal joints.",
+      "tags": [
+        "Action",
+        "Muscle",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 180,
+      "section": "Muscles",
+      "label": "27"
+    },
+    {
+      "id": "foot-model-ns9-181",
+      "path": [
+        "27"
+      ],
+      "question": "Innervation",
+      "answer": "Medial plantar nerve (S2–S3).",
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 181,
+      "section": "Muscles",
+      "label": "27"
+    },
+    {
+      "id": "foot-model-ns9-182",
+      "path": [
+        "27"
+      ],
+      "question": "Origin",
+      "answer": "Medial calcaneal tubercle and plantar aponeurosis.",
+      "tags": [
+        "Origin",
+        "Muscle",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 182,
+      "section": "Muscles",
+      "label": "27"
+    },
+    {
+      "id": "foot-model-ns9-183",
+      "path": [
+        "27"
+      ],
+      "question": "Insertion",
+      "answer": "Sides of middle phalanges of toes 2–5.",
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 183,
+      "section": "Muscles",
+      "label": "27"
+    },
+    {
+      "id": "foot-model-ns9-186",
+      "path": [
+        "28"
+      ],
+      "question": "Identification",
+      "answer": "Flexor digiti minimi brevis",
+      "tags": [
+        "Identification",
+        "Muscle",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 186,
+      "section": "Muscles",
+      "label": "28"
+    },
+    {
+      "id": "foot-model-ns9-187",
+      "path": [
+        "28"
+      ],
+      "question": "Actions",
+      "answer": "Flexes the 5th toe at the metatarsophalangeal joint.",
+      "tags": [
+        "Action",
+        "Muscle",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 187,
+      "section": "Muscles",
+      "label": "28"
+    },
+    {
+      "id": "foot-model-ns9-188",
+      "path": [
+        "28"
+      ],
+      "question": "Innervation",
+      "answer": "Superficial branch of lateral plantar nerve (S2–S3).",
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 188,
+      "section": "Muscles",
+      "label": "28"
+    },
+    {
+      "id": "foot-model-ns9-189",
+      "path": [
+        "28"
+      ],
+      "question": "Origin",
+      "answer": "Base of 5th metatarsal and sheath of fibularis longus tendon.",
+      "tags": [
+        "Origin",
+        "Muscle",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 189,
+      "section": "Muscles",
+      "label": "28"
+    },
+    {
+      "id": "foot-model-ns9-190",
+      "path": [
+        "28"
+      ],
+      "question": "Insertion",
+      "answer": "Base of proximal phalanx of 5th toe.",
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 190,
+      "section": "Muscles",
+      "label": "28"
+    },
+    {
+      "id": "foot-model-ns9-193",
+      "path": [
+        "29"
+      ],
+      "question": "Identification",
+      "answer": "Abductor digiti minimi",
+      "tags": [
+        "Identification",
+        "Muscle",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 193,
+      "section": "Muscles",
+      "label": "29"
+    },
+    {
+      "id": "foot-model-ns9-194",
+      "path": [
+        "29"
+      ],
+      "question": "Actions",
+      "answer": "Abducts and flexes 5th toe; supports lateral longitudinal arch.",
+      "tags": [
+        "Action",
+        "Muscle",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 194,
+      "section": "Muscles",
+      "label": "29"
+    },
+    {
+      "id": "foot-model-ns9-195",
+      "path": [
+        "29"
+      ],
+      "question": "Innervation",
+      "answer": "Lateral plantar nerve (S2–S3).",
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 195,
+      "section": "Muscles",
+      "label": "29"
+    },
+    {
+      "id": "foot-model-ns9-196",
+      "path": [
+        "29"
+      ],
+      "question": "Origin",
+      "answer": "Calcaneal tuberosity and plantar aponeurosis.",
+      "tags": [
+        "Origin",
+        "Muscle",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 196,
+      "section": "Muscles",
+      "label": "29"
+    },
+    {
+      "id": "foot-model-ns9-197",
+      "path": [
+        "29"
+      ],
+      "question": "Insertion",
+      "answer": "Lateral base of proximal phalanx of 5th toe.",
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 197,
+      "section": "Muscles",
+      "label": "29"
+    },
+    {
+      "id": "foot-model-ns9-200",
+      "path": [
+        "30"
+      ],
+      "question": "Identification",
+      "answer": "Lumbricals",
+      "tags": [
+        "Identification",
+        "Muscle",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 200,
+      "section": "Muscles",
+      "label": "30"
+    },
+    {
+      "id": "foot-model-ns9-201",
+      "path": [
+        "30"
+      ],
+      "question": "Actions",
+      "answer": "Flex metatarsophalangeal joints and extend interphalangeal joints of toes 2–5.",
+      "tags": [
+        "Action",
+        "Muscle",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 201,
+      "section": "Muscles",
+      "label": "30"
+    },
+    {
+      "id": "foot-model-ns9-202",
+      "path": [
+        "30"
+      ],
+      "question": "Innervation",
+      "answer": "1st lumbrical: medial plantar nerve; 2nd–4th: lateral plantar nerve (S2–S3).",
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 202,
+      "section": "Muscles",
+      "label": "30"
+    },
+    {
+      "id": "foot-model-ns9-203",
+      "path": [
+        "30"
+      ],
+      "question": "Origin",
+      "answer": "Tendons of flexor digitorum longus.",
+      "tags": [
+        "Origin",
+        "Muscle",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 203,
+      "section": "Muscles",
+      "label": "30"
+    },
+    {
+      "id": "foot-model-ns9-204",
+      "path": [
+        "30"
+      ],
+      "question": "Insertion",
+      "answer": "Medial sides of extensor expansions of toes 2–5.",
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 204,
+      "section": "Muscles",
+      "label": "30"
+    },
+    {
+      "id": "foot-model-ns9-207",
+      "path": [
+        "31"
+      ],
+      "question": "Identification",
+      "answer": "Adductor hallucis",
+      "tags": [
+        "Identification",
+        "Muscle",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 207,
+      "section": "Muscles",
+      "label": "31"
+    },
+    {
+      "id": "foot-model-ns9-208",
+      "path": [
+        "31"
+      ],
+      "question": "Actions",
+      "answer": "Adducts hallux and supports transverse arch of foot.",
+      "tags": [
+        "Action",
+        "Muscle",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 208,
+      "section": "Muscles",
+      "label": "31"
+    },
+    {
+      "id": "foot-model-ns9-209",
+      "path": [
+        "31"
+      ],
+      "question": "Innervation",
+      "answer": "Deep branch of lateral plantar nerve (S2–S3).",
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 209,
+      "section": "Muscles",
+      "label": "31"
+    },
+    {
+      "id": "foot-model-ns9-210",
+      "path": [
+        "31"
+      ],
+      "question": "Insertion",
+      "answer": "Lateral side of base of proximal phalanx of hallux.",
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 210,
+      "section": "Muscles",
+      "label": "31"
+    },
+    {
+      "id": "foot-model-ns9-212",
+      "path": [
+        "31",
+        "a"
+      ],
+      "question": "Identification",
+      "answer": "Oblique head of adductor hallucis",
+      "tags": [
+        "Identification",
+        "MusclePart",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 212,
+      "section": "Muscles",
+      "label": "31a"
+    },
+    {
+      "id": "foot-model-ns9-213",
+      "path": [
+        "31",
+        "a"
+      ],
+      "question": "Origin",
+      "answer": "Bases of metatarsals 2–4 and sheath of fibularis longus tendon.",
+      "tags": [
+        "Origin",
+        "MusclePart",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 213,
+      "section": "Muscles",
+      "label": "31a"
+    },
+    {
+      "id": "foot-model-ns9-214",
+      "path": [
+        "31",
+        "a"
+      ],
+      "question": "Function",
+      "answer": "Adducts hallux and contributes to transverse arch support.",
+      "tags": [
+        "Function",
+        "MusclePart",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 214,
+      "section": "Muscles",
+      "label": "31a"
+    },
+    {
+      "id": "foot-model-ns9-216",
+      "path": [
+        "31",
+        "b"
+      ],
+      "question": "Identification",
+      "answer": "Transverse head of adductor hallucis",
+      "tags": [
+        "Identification",
+        "MusclePart",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 216,
+      "section": "Muscles",
+      "label": "31b"
+    },
+    {
+      "id": "foot-model-ns9-217",
+      "path": [
+        "31",
+        "b"
+      ],
+      "question": "Origin",
+      "answer": "Plantar ligaments of metatarsophalangeal joints 3–5 and deep transverse metatarsal ligament.",
+      "tags": [
+        "Origin",
+        "MusclePart",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 217,
+      "section": "Muscles",
+      "label": "31b"
+    },
+    {
+      "id": "foot-model-ns9-218",
+      "path": [
+        "31",
+        "b"
+      ],
+      "question": "Function",
+      "answer": "Adducts hallux and helps maintain transverse arch.",
+      "tags": [
+        "Function",
+        "MusclePart",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 218,
+      "section": "Muscles",
+      "label": "31b"
+    },
+    {
+      "id": "foot-model-ns9-221",
+      "path": [
+        "32"
+      ],
+      "question": "Identification",
+      "answer": "Plantar interosseus",
+      "tags": [
+        "Identification",
+        "Muscle",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 221,
+      "section": "Muscles",
+      "label": "32"
+    },
+    {
+      "id": "foot-model-ns9-222",
+      "path": [
+        "32"
+      ],
+      "question": "Actions",
+      "answer": "Adducts toes 3–5 toward the 2nd toe; flexes MTP joints and extends IP joints.",
+      "tags": [
+        "Action",
+        "Muscle",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 222,
+      "section": "Muscles",
+      "label": "32"
+    },
+    {
+      "id": "foot-model-ns9-223",
+      "path": [
+        "32"
+      ],
+      "question": "Innervation",
+      "answer": "Lateral plantar nerve (S2–S3).",
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 223,
+      "section": "Muscles",
+      "label": "32"
+    },
+    {
+      "id": "foot-model-ns9-224",
+      "path": [
+        "32"
+      ],
+      "question": "Origin",
+      "answer": "Medial sides of metatarsals 3–5.",
+      "tags": [
+        "Origin",
+        "Muscle",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 224,
+      "section": "Muscles",
+      "label": "32"
+    },
+    {
+      "id": "foot-model-ns9-225",
+      "path": [
+        "32"
+      ],
+      "question": "Insertion",
+      "answer": "Medial bases of proximal phalanges and extensor expansions of toes 3–5.",
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 225,
+      "section": "Muscles",
+      "label": "32"
+    },
+    {
+      "id": "foot-model-ns9-228",
+      "path": [
+        "33"
+      ],
+      "question": "Identification",
+      "answer": "Dorsal interosseus",
+      "tags": [
+        "Identification",
+        "Muscle",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 228,
+      "section": "Muscles",
+      "label": "33"
+    },
+    {
+      "id": "foot-model-ns9-229",
+      "path": [
+        "33"
+      ],
+      "question": "Actions",
+      "answer": "Abducts toes 2–4 from the axis of the 2nd toe; flexes MTP joints and extends IP joints.",
+      "tags": [
+        "Action",
+        "Muscle",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 229,
+      "section": "Muscles",
+      "label": "33"
+    },
+    {
+      "id": "foot-model-ns9-230",
+      "path": [
+        "33"
+      ],
+      "question": "Innervation",
+      "answer": "Lateral plantar nerve (S2–S3).",
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 230,
+      "section": "Muscles",
+      "label": "33"
+    },
+    {
+      "id": "foot-model-ns9-231",
+      "path": [
+        "33"
+      ],
+      "question": "Origin",
+      "answer": "Adjacent sides of metatarsals 1–5.",
+      "tags": [
+        "Origin",
+        "Muscle",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 231,
+      "section": "Muscles",
+      "label": "33"
+    },
+    {
+      "id": "foot-model-ns9-232",
+      "path": [
+        "33"
+      ],
+      "question": "Insertion",
+      "answer": "1st inserts medially on 2nd toe; others insert laterally on toes 2–4.",
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "Muscles",
+        "NS9"
+      ],
+      "sourceLine": 232,
+      "section": "Muscles",
+      "label": "33"
+    },
+    {
+      "id": "foot-model-ns9-237",
+      "path": [
+        "34"
+      ],
+      "question": "Identification",
+      "answer": "Inferior extensor retinaculum",
+      "tags": [
+        "Identification",
+        "Retinaculum",
+        "Ligaments",
+        "NS9"
+      ],
+      "sourceLine": 237,
+      "section": "Ligaments of the ankle joint",
+      "label": "34"
+    },
+    {
+      "id": "foot-model-ns9-238",
+      "path": [
+        "34"
+      ],
+      "question": "Attachments",
+      "answer": "Y-shaped thickening of deep fascia attached laterally to calcaneus and medially toward medial malleolus/plantar aponeurosis region.",
+      "tags": [
+        "Attachments",
+        "Retinaculum",
+        "Ligaments",
+        "NS9"
+      ],
+      "sourceLine": 238,
+      "section": "Ligaments of the ankle joint",
+      "label": "34"
+    },
+    {
+      "id": "foot-model-ns9-239",
+      "path": [
+        "34"
+      ],
+      "question": "Function",
+      "answer": "Holds anterior compartment extensor tendons close to the ankle and prevents bowstringing.",
+      "tags": [
+        "Function",
+        "Retinaculum",
+        "Ligaments",
+        "NS9"
+      ],
+      "sourceLine": 239,
+      "section": "Ligaments of the ankle joint",
+      "label": "34"
+    },
+    {
+      "id": "foot-model-ns9-240",
+      "path": [
+        "34"
+      ],
+      "question": "Contents",
+      "answer": "Related to tendons of tibialis anterior, extensor hallucis longus, extensor digitorum longus and fibularis tertius, with anterior tibial/dorsalis pedis vessels and deep fibular nerve.",
+      "tags": [
+        "Contents",
+        "Retinaculum",
+        "Ligaments",
+        "NS9"
+      ],
+      "sourceLine": 240,
+      "section": "Ligaments of the ankle joint",
+      "label": "34"
+    },
+    {
+      "id": "foot-model-ns9-243",
+      "path": [
+        "35"
+      ],
+      "question": "Identification",
+      "answer": "Flexor retinaculum of the foot",
+      "tags": [
+        "Identification",
+        "Retinaculum",
+        "Ligaments",
+        "NS9"
+      ],
+      "sourceLine": 243,
+      "section": "Ligaments of the ankle joint",
+      "label": "35"
+    },
+    {
+      "id": "foot-model-ns9-244",
+      "path": [
+        "35"
+      ],
+      "question": "Attachments",
+      "answer": "Extends from medial malleolus to medial calcaneus.",
+      "tags": [
+        "Attachments",
+        "Retinaculum",
+        "Ligaments",
+        "NS9"
+      ],
+      "sourceLine": 244,
+      "section": "Ligaments of the ankle joint",
+      "label": "35"
+    },
+    {
+      "id": "foot-model-ns9-245",
+      "path": [
+        "35"
+      ],
+      "question": "Function",
+      "answer": "Holds flexor tendons and neurovascular structures behind the medial malleolus.",
+      "tags": [
+        "Function",
+        "Retinaculum",
+        "Ligaments",
+        "NS9"
+      ],
+      "sourceLine": 245,
+      "section": "Ligaments of the ankle joint",
+      "label": "35"
+    },
+    {
+      "id": "foot-model-ns9-246",
+      "path": [
+        "35"
+      ],
+      "question": "Contents",
+      "answer": "From anterior to posterior: tibialis posterior, flexor digitorum longus, posterior tibial vessels, tibial nerve, flexor hallucis longus.",
+      "tags": [
+        "Contents",
+        "Retinaculum",
+        "Ligaments",
+        "NS9"
+      ],
+      "sourceLine": 246,
+      "section": "Ligaments of the ankle joint",
+      "label": "35"
+    },
+    {
+      "id": "foot-model-ns9-247",
+      "path": [
+        "35"
+      ],
+      "question": "Clinical relevance",
+      "answer": "Compression of tibial nerve deep to the retinaculum causes tarsal tunnel syndrome.",
+      "tags": [
+        "Clinical",
+        "Retinaculum",
+        "Ligaments",
+        "NS9"
+      ],
+      "sourceLine": 247,
+      "section": "Ligaments of the ankle joint",
+      "label": "35"
+    },
+    {
+      "id": "foot-model-ns9-250",
+      "path": [
+        "36"
+      ],
+      "question": "Identification",
+      "answer": "Superior fibular (peroneal) retinaculum",
+      "tags": [
+        "Identification",
+        "Retinaculum",
+        "Ligaments",
+        "NS9"
+      ],
+      "sourceLine": 250,
+      "section": "Ligaments of the ankle joint",
+      "label": "36"
+    },
+    {
+      "id": "foot-model-ns9-251",
+      "path": [
+        "36"
+      ],
+      "question": "Attachments",
+      "answer": "Extends from lateral malleolus to lateral calcaneus.",
+      "tags": [
+        "Attachments",
+        "Retinaculum",
+        "Ligaments",
+        "NS9"
+      ],
+      "sourceLine": 251,
+      "section": "Ligaments of the ankle joint",
+      "label": "36"
+    },
+    {
+      "id": "foot-model-ns9-252",
+      "path": [
+        "36"
+      ],
+      "question": "Function",
+      "answer": "Holds fibularis longus and brevis tendons behind the lateral malleolus.",
+      "tags": [
+        "Function",
+        "Retinaculum",
+        "Ligaments",
+        "NS9"
+      ],
+      "sourceLine": 252,
+      "section": "Ligaments of the ankle joint",
+      "label": "36"
+    },
+    {
+      "id": "foot-model-ns9-253",
+      "path": [
+        "36"
+      ],
+      "question": "Relations",
+      "answer": "Lies superficial to the fibular tendons posterior to the lateral malleolus.",
+      "tags": [
+        "Relations",
+        "Retinaculum",
+        "Ligaments",
+        "NS9"
+      ],
+      "sourceLine": 253,
+      "section": "Ligaments of the ankle joint",
+      "label": "36"
+    },
+    {
+      "id": "foot-model-ns9-256",
+      "path": [
+        "37"
+      ],
+      "question": "Identification",
+      "answer": "Inferior fibular (peroneal) retinaculum",
+      "tags": [
+        "Identification",
+        "Retinaculum",
+        "Ligaments",
+        "NS9"
+      ],
+      "sourceLine": 256,
+      "section": "Ligaments of the ankle joint",
+      "label": "37"
+    },
+    {
+      "id": "foot-model-ns9-257",
+      "path": [
+        "37"
+      ],
+      "question": "Attachments",
+      "answer": "Attaches to lateral calcaneus and blends anteriorly with the inferior extensor retinaculum.",
+      "tags": [
+        "Attachments",
+        "Retinaculum",
+        "Ligaments",
+        "NS9"
+      ],
+      "sourceLine": 257,
+      "section": "Ligaments of the ankle joint",
+      "label": "37"
+    },
+    {
+      "id": "foot-model-ns9-258",
+      "path": [
+        "37"
+      ],
+      "question": "Function",
+      "answer": "Secures fibularis longus and brevis tendons against lateral calcaneus.",
+      "tags": [
+        "Function",
+        "Retinaculum",
+        "Ligaments",
+        "NS9"
+      ],
+      "sourceLine": 258,
+      "section": "Ligaments of the ankle joint",
+      "label": "37"
+    },
+    {
+      "id": "foot-model-ns9-261",
+      "path": [
+        "38"
+      ],
+      "question": "Identification",
+      "answer": "Medial (deltoid) ligament",
+      "tags": [
+        "Identification",
+        "Ligament",
+        "Ligaments",
+        "NS9"
+      ],
+      "sourceLine": 261,
+      "section": "Ligaments of the ankle joint",
+      "label": "38"
+    },
+    {
+      "id": "foot-model-ns9-262",
+      "path": [
+        "38"
+      ],
+      "question": "Attachments",
+      "answer": "Broad ligament from medial malleolus to talus, calcaneus and navicular.",
+      "tags": [
+        "Attachments",
+        "Ligament",
+        "Ligaments",
+        "NS9"
+      ],
+      "sourceLine": 262,
+      "section": "Ligaments of the ankle joint",
+      "label": "38"
+    },
+    {
+      "id": "foot-model-ns9-263",
+      "path": [
+        "38"
+      ],
+      "question": "Parts",
+      "answer": "Includes tibionavicular, tibiocalcaneal, anterior tibiotalar and posterior tibiotalar components.",
+      "tags": [
+        "Parts",
+        "Ligament",
+        "Ligaments",
+        "NS9"
+      ],
+      "sourceLine": 263,
+      "section": "Ligaments of the ankle joint",
+      "label": "38"
+    },
+    {
+      "id": "foot-model-ns9-264",
+      "path": [
+        "38"
+      ],
+      "question": "Function",
+      "answer": "Stabilises medial ankle and strongly resists excessive eversion.",
+      "tags": [
+        "Function",
+        "Ligament",
+        "Ligaments",
+        "NS9"
+      ],
+      "sourceLine": 264,
+      "section": "Ligaments of the ankle joint",
+      "label": "38"
+    },
+    {
+      "id": "foot-model-ns9-267",
+      "path": [
+        "39"
+      ],
+      "question": "Identification",
+      "answer": "Anterior inferior tibiofibular ligament",
+      "tags": [
+        "Identification",
+        "Ligament",
+        "Ligaments",
+        "NS9"
+      ],
+      "sourceLine": 267,
+      "section": "Ligaments of the ankle joint",
+      "label": "39"
+    },
+    {
+      "id": "foot-model-ns9-268",
+      "path": [
+        "39"
+      ],
+      "question": "Attachments",
+      "answer": "Connects distal anterior tibia to distal fibula.",
+      "tags": [
+        "Attachments",
+        "Ligament",
+        "Ligaments",
+        "NS9"
+      ],
+      "sourceLine": 268,
+      "section": "Ligaments of the ankle joint",
+      "label": "39"
+    },
+    {
+      "id": "foot-model-ns9-269",
+      "path": [
+        "39"
+      ],
+      "question": "Function",
+      "answer": "Stabilises the distal tibiofibular syndesmosis and ankle mortise.",
+      "tags": [
+        "Function",
+        "Ligament",
+        "Ligaments",
+        "NS9"
+      ],
+      "sourceLine": 269,
+      "section": "Ligaments of the ankle joint",
+      "label": "39"
+    },
+    {
+      "id": "foot-model-ns9-270",
+      "path": [
+        "39"
+      ],
+      "question": "Clinical relevance",
+      "answer": "Commonly injured in a high ankle sprain.",
+      "tags": [
+        "Clinical",
+        "Ligament",
+        "Ligaments",
+        "NS9"
+      ],
+      "sourceLine": 270,
+      "section": "Ligaments of the ankle joint",
+      "label": "39"
+    },
+    {
+      "id": "foot-model-ns9-273",
+      "path": [
+        "40"
+      ],
+      "question": "Identification",
+      "answer": "Posterior tibiofibular ligament",
+      "tags": [
+        "Identification",
+        "Ligament",
+        "Ligaments",
+        "NS9"
+      ],
+      "sourceLine": 273,
+      "section": "Ligaments of the ankle joint",
+      "label": "40"
+    },
+    {
+      "id": "foot-model-ns9-274",
+      "path": [
+        "40"
+      ],
+      "question": "Attachments",
+      "answer": "Connects posterior distal tibia to posterior distal fibula.",
+      "tags": [
+        "Attachments",
+        "Ligament",
+        "Ligaments",
+        "NS9"
+      ],
+      "sourceLine": 274,
+      "section": "Ligaments of the ankle joint",
+      "label": "40"
+    },
+    {
+      "id": "foot-model-ns9-275",
+      "path": [
+        "40"
+      ],
+      "question": "Function",
+      "answer": "Reinforces the posterior distal tibiofibular syndesmosis and stabilises the ankle mortise.",
+      "tags": [
+        "Function",
+        "Ligament",
+        "Ligaments",
+        "NS9"
+      ],
+      "sourceLine": 275,
+      "section": "Ligaments of the ankle joint",
+      "label": "40"
+    },
+    {
+      "id": "foot-model-ns9-280",
+      "path": [
+        "41"
+      ],
+      "question": "Identification",
+      "answer": "Anterior tibial artery",
+      "tags": [
+        "Identification",
+        "Artery",
+        "ArteriesAndNerves",
+        "NS9"
+      ],
+      "sourceLine": 280,
+      "section": "Arteries and nerves",
+      "label": "41"
+    },
+    {
+      "id": "foot-model-ns9-281",
+      "path": [
+        "41"
+      ],
+      "question": "Origin",
+      "answer": "Terminal branch of popliteal artery.",
+      "tags": [
+        "Origin",
+        "Artery",
+        "ArteriesAndNerves",
+        "NS9"
+      ],
+      "sourceLine": 281,
+      "section": "Arteries and nerves",
+      "label": "41"
+    },
+    {
+      "id": "foot-model-ns9-282",
+      "path": [
+        "41"
+      ],
+      "question": "Course",
+      "answer": "Passes through proximal interosseous membrane into anterior leg and descends with deep fibular nerve.",
+      "tags": [
+        "Course",
+        "Artery",
+        "ArteriesAndNerves",
+        "NS9"
+      ],
+      "sourceLine": 282,
+      "section": "Arteries and nerves",
+      "label": "41"
+    },
+    {
+      "id": "foot-model-ns9-283",
+      "path": [
+        "41"
+      ],
+      "question": "Termination",
+      "answer": "Continues as dorsalis pedis artery distal to the ankle.",
+      "tags": [
+        "Termination",
+        "Artery",
+        "ArteriesAndNerves",
+        "NS9"
+      ],
+      "sourceLine": 283,
+      "section": "Arteries and nerves",
+      "label": "41"
+    },
+    {
+      "id": "foot-model-ns9-284",
+      "path": [
+        "41"
+      ],
+      "question": "Supply",
+      "answer": "Anterior compartment of leg and dorsum of foot through its continuation.",
+      "tags": [
+        "Supply",
+        "Artery",
+        "ArteriesAndNerves",
+        "NS9"
+      ],
+      "sourceLine": 284,
+      "section": "Arteries and nerves",
+      "label": "41"
+    },
+    {
+      "id": "foot-model-ns9-287",
+      "path": [
+        "42"
+      ],
+      "question": "Identification",
+      "answer": "Deep fibular (peroneal) nerve",
+      "tags": [
+        "Identification",
+        "Nerve",
+        "ArteriesAndNerves",
+        "NS9"
+      ],
+      "sourceLine": 287,
+      "section": "Arteries and nerves",
+      "label": "42"
+    },
+    {
+      "id": "foot-model-ns9-288",
+      "path": [
+        "42"
+      ],
+      "question": "Roots",
+      "answer": "L4–S1, terminal branch of common fibular nerve.",
+      "tags": [
+        "Roots",
+        "Nerve",
+        "ArteriesAndNerves",
+        "NS9"
+      ],
+      "sourceLine": 288,
+      "section": "Arteries and nerves",
+      "label": "42"
+    },
+    {
+      "id": "foot-model-ns9-289",
+      "path": [
+        "42"
+      ],
+      "question": "Course",
+      "answer": "Descends in anterior leg with anterior tibial artery and enters dorsum of foot deep to extensor retinacula.",
+      "tags": [
+        "Course",
+        "Nerve",
+        "ArteriesAndNerves",
+        "NS9"
+      ],
+      "sourceLine": 289,
+      "section": "Arteries and nerves",
+      "label": "42"
+    },
+    {
+      "id": "foot-model-ns9-290",
+      "path": [
+        "42"
+      ],
+      "question": "Motor functions",
+      "answer": "Supplies anterior compartment muscles and extensor digitorum brevis/extensor hallucis brevis.",
+      "tags": [
+        "Motor",
+        "Nerve",
+        "ArteriesAndNerves",
+        "NS9"
+      ],
+      "sourceLine": 290,
+      "section": "Arteries and nerves",
+      "label": "42"
+    },
+    {
+      "id": "foot-model-ns9-291",
+      "path": [
+        "42"
+      ],
+      "question": "Sensory functions",
+      "answer": "Sensation to first dorsal web space.",
+      "tags": [
+        "Sensory",
+        "Nerve",
+        "ArteriesAndNerves",
+        "NS9"
+      ],
+      "sourceLine": 291,
+      "section": "Arteries and nerves",
+      "label": "42"
+    },
+    {
+      "id": "foot-model-ns9-292",
+      "path": [
+        "42"
+      ],
+      "question": "Lesion",
+      "answer": "Causes weakness of dorsiflexion and toe extension if injured proximally, with sensory loss in the first dorsal web space.",
+      "tags": [
+        "Lesion",
+        "Nerve",
+        "ArteriesAndNerves",
+        "NS9"
+      ],
+      "sourceLine": 292,
+      "section": "Arteries and nerves",
+      "label": "42"
+    },
+    {
+      "id": "foot-model-ns9-295",
+      "path": [
+        "43"
+      ],
+      "question": "Identification",
+      "answer": "Medial dorsal cutaneous nerve",
+      "tags": [
+        "Identification",
+        "Nerve",
+        "ArteriesAndNerves",
+        "NS9"
+      ],
+      "sourceLine": 295,
+      "section": "Arteries and nerves",
+      "label": "43"
+    },
+    {
+      "id": "foot-model-ns9-296",
+      "path": [
+        "43"
+      ],
+      "question": "Roots",
+      "answer": "Branch of superficial fibular nerve.",
+      "tags": [
+        "Roots",
+        "Nerve",
+        "ArteriesAndNerves",
+        "NS9"
+      ],
+      "sourceLine": 296,
+      "section": "Arteries and nerves",
+      "label": "43"
+    },
+    {
+      "id": "foot-model-ns9-297",
+      "path": [
+        "43"
+      ],
+      "question": "Course",
+      "answer": "Passes onto dorsum of foot and divides into dorsal digital branches.",
+      "tags": [
+        "Course",
+        "Nerve",
+        "ArteriesAndNerves",
+        "NS9"
+      ],
+      "sourceLine": 297,
+      "section": "Arteries and nerves",
+      "label": "43"
+    },
+    {
+      "id": "foot-model-ns9-298",
+      "path": [
+        "43"
+      ],
+      "question": "Sensory functions",
+      "answer": "Supplies much of medial dorsum of foot and dorsal aspects of adjacent toes, excluding key deep fibular/saphenous territories.",
+      "tags": [
+        "Sensory",
+        "Nerve",
+        "ArteriesAndNerves",
+        "NS9"
+      ],
+      "sourceLine": 298,
+      "section": "Arteries and nerves",
+      "label": "43"
+    },
+    {
+      "id": "foot-model-ns9-299",
+      "path": [
+        "43"
+      ],
+      "question": "Lesion",
+      "answer": "Causes numbness or paraesthesia over its cutaneous territory on the medial dorsum of the foot without motor weakness.",
+      "tags": [
+        "Lesion",
+        "Nerve",
+        "ArteriesAndNerves",
+        "NS9"
+      ],
+      "sourceLine": 299,
+      "section": "Arteries and nerves",
+      "label": "43"
+    },
+    {
+      "id": "foot-model-ns9-302",
+      "path": [
+        "44"
+      ],
+      "question": "Identification",
+      "answer": "Intermediate dorsal cutaneous nerve",
+      "tags": [
+        "Identification",
+        "Nerve",
+        "ArteriesAndNerves",
+        "NS9"
+      ],
+      "sourceLine": 302,
+      "section": "Arteries and nerves",
+      "label": "44"
+    },
+    {
+      "id": "foot-model-ns9-303",
+      "path": [
+        "44"
+      ],
+      "question": "Roots",
+      "answer": "Branch of superficial fibular nerve.",
+      "tags": [
+        "Roots",
+        "Nerve",
+        "ArteriesAndNerves",
+        "NS9"
+      ],
+      "sourceLine": 303,
+      "section": "Arteries and nerves",
+      "label": "44"
+    },
+    {
+      "id": "foot-model-ns9-304",
+      "path": [
+        "44"
+      ],
+      "question": "Course",
+      "answer": "Runs over dorsolateral foot and divides into dorsal digital branches.",
+      "tags": [
+        "Course",
+        "Nerve",
+        "ArteriesAndNerves",
+        "NS9"
+      ],
+      "sourceLine": 304,
+      "section": "Arteries and nerves",
+      "label": "44"
+    },
+    {
+      "id": "foot-model-ns9-305",
+      "path": [
+        "44"
+      ],
+      "question": "Sensory functions",
+      "answer": "Supplies central/lateral dorsum of foot and adjacent dorsal toe surfaces.",
+      "tags": [
+        "Sensory",
+        "Nerve",
+        "ArteriesAndNerves",
+        "NS9"
+      ],
+      "sourceLine": 305,
+      "section": "Arteries and nerves",
+      "label": "44"
+    },
+    {
+      "id": "foot-model-ns9-306",
+      "path": [
+        "44"
+      ],
+      "question": "Lesion",
+      "answer": "Causes numbness or paraesthesia over the central to lateral dorsum of the foot without motor weakness.",
+      "tags": [
+        "Lesion",
+        "Nerve",
+        "ArteriesAndNerves",
+        "NS9"
+      ],
+      "sourceLine": 306,
+      "section": "Arteries and nerves",
+      "label": "44"
+    },
+    {
+      "id": "foot-model-ns9-309",
+      "path": [
+        "45"
+      ],
+      "question": "Identification",
+      "answer": "Lateral dorsal cutaneous nerve (branch of sural nerve)",
+      "tags": [
+        "Identification",
+        "Nerve",
+        "ArteriesAndNerves",
+        "NS9"
+      ],
+      "sourceLine": 309,
+      "section": "Arteries and nerves",
+      "label": "45"
+    },
+    {
+      "id": "foot-model-ns9-310",
+      "path": [
+        "45"
+      ],
+      "question": "Roots",
+      "answer": "Continuation/terminal branch of sural nerve.",
+      "tags": [
+        "Roots",
+        "Nerve",
+        "ArteriesAndNerves",
+        "NS9"
+      ],
+      "sourceLine": 310,
+      "section": "Arteries and nerves",
+      "label": "45"
+    },
+    {
+      "id": "foot-model-ns9-311",
+      "path": [
+        "45"
+      ],
+      "question": "Course",
+      "answer": "Passes behind lateral malleolus onto lateral dorsum of foot.",
+      "tags": [
+        "Course",
+        "Nerve",
+        "ArteriesAndNerves",
+        "NS9"
+      ],
+      "sourceLine": 311,
+      "section": "Arteries and nerves",
+      "label": "45"
+    },
+    {
+      "id": "foot-model-ns9-312",
+      "path": [
+        "45"
+      ],
+      "question": "Sensory functions",
+      "answer": "Supplies lateral side of foot and lateral aspect of 5th toe.",
+      "tags": [
+        "Sensory",
+        "Nerve",
+        "ArteriesAndNerves",
+        "NS9"
+      ],
+      "sourceLine": 312,
+      "section": "Arteries and nerves",
+      "label": "45"
+    },
+    {
+      "id": "foot-model-ns9-313",
+      "path": [
+        "45"
+      ],
+      "question": "Lesion",
+      "answer": "Causes sensory loss or paraesthesia along the lateral foot and lateral aspect of the 5th toe.",
+      "tags": [
+        "Lesion",
+        "Nerve",
+        "ArteriesAndNerves",
+        "NS9"
+      ],
+      "sourceLine": 313,
+      "section": "Arteries and nerves",
+      "label": "45"
+    },
+    {
+      "id": "foot-model-ns9-316",
+      "path": [
+        "46"
+      ],
+      "question": "Identification",
+      "answer": "Lateral calcaneal branches of sural nerve",
+      "tags": [
+        "Identification",
+        "Nerve",
+        "ArteriesAndNerves",
+        "NS9"
+      ],
+      "sourceLine": 316,
+      "section": "Arteries and nerves",
+      "label": "46"
+    },
+    {
+      "id": "foot-model-ns9-317",
+      "path": [
+        "46"
+      ],
+      "question": "Origin",
+      "answer": "Cutaneous branches of the sural nerve.",
+      "tags": [
+        "Origin",
+        "Nerve",
+        "ArteriesAndNerves",
+        "NS9"
+      ],
+      "sourceLine": 317,
+      "section": "Arteries and nerves",
+      "label": "46"
+    },
+    {
+      "id": "foot-model-ns9-318",
+      "path": [
+        "46"
+      ],
+      "question": "Sensory functions",
+      "answer": "Supply skin over lateral heel.",
+      "tags": [
+        "Sensory",
+        "Nerve",
+        "ArteriesAndNerves",
+        "NS9"
+      ],
+      "sourceLine": 318,
+      "section": "Arteries and nerves",
+      "label": "46"
+    },
+    {
+      "id": "foot-model-ns9-319",
+      "path": [
+        "46"
+      ],
+      "question": "Lesion",
+      "answer": "Causes numbness or altered sensation over the lateral heel.",
+      "tags": [
+        "Lesion",
+        "Nerve",
+        "ArteriesAndNerves",
+        "NS9"
+      ],
+      "sourceLine": 319,
+      "section": "Arteries and nerves",
+      "label": "46"
+    },
+    {
+      "id": "foot-model-ns9-320",
+      "path": [
+        "46"
+      ],
+      "question": "Relations",
+      "answer": "Arise near the lateral ankle/heel region.",
+      "tags": [
+        "Relations",
+        "Nerve",
+        "ArteriesAndNerves",
+        "NS9"
+      ],
+      "sourceLine": 320,
+      "section": "Arteries and nerves",
+      "label": "46"
+    },
+    {
+      "id": "foot-model-ns9-323",
+      "path": [
+        "47"
+      ],
+      "question": "Identification",
+      "answer": "Dorsalis pedis artery",
+      "tags": [
+        "Identification",
+        "Artery",
+        "ArteriesAndNerves",
+        "NS9"
+      ],
+      "sourceLine": 323,
+      "section": "Arteries and nerves",
+      "label": "47"
+    },
+    {
+      "id": "foot-model-ns9-324",
+      "path": [
+        "47"
+      ],
+      "question": "Origin",
+      "answer": "Continuation of anterior tibial artery distal to ankle.",
+      "tags": [
+        "Origin",
+        "Artery",
+        "ArteriesAndNerves",
+        "NS9"
+      ],
+      "sourceLine": 324,
+      "section": "Arteries and nerves",
+      "label": "47"
+    },
+    {
+      "id": "foot-model-ns9-325",
+      "path": [
+        "47"
+      ],
+      "question": "Course",
+      "answer": "Runs on dorsum of foot lateral to extensor hallucis longus tendon toward first intermetatarsal space.",
+      "tags": [
+        "Course",
+        "Artery",
+        "ArteriesAndNerves",
+        "NS9"
+      ],
+      "sourceLine": 325,
+      "section": "Arteries and nerves",
+      "label": "47"
+    },
+    {
+      "id": "foot-model-ns9-326",
+      "path": [
+        "47"
+      ],
+      "question": "Branches",
+      "answer": "Gives lateral tarsal, arcuate, dorsal metatarsal and deep plantar branches.",
+      "tags": [
+        "Branches",
+        "Artery",
+        "ArteriesAndNerves",
+        "NS9"
+      ],
+      "sourceLine": 326,
+      "section": "Arteries and nerves",
+      "label": "47"
+    },
+    {
+      "id": "foot-model-ns9-327",
+      "path": [
+        "47"
+      ],
+      "question": "Supply",
+      "answer": "Dorsum of foot and contributes to plantar arch.",
+      "tags": [
+        "Supply",
+        "Artery",
+        "ArteriesAndNerves",
+        "NS9"
+      ],
+      "sourceLine": 327,
+      "section": "Arteries and nerves",
+      "label": "47"
+    },
+    {
+      "id": "foot-model-ns9-330",
+      "path": [
+        "48"
+      ],
+      "question": "Identification",
+      "answer": "Deep plantar artery",
+      "tags": [
+        "Identification",
+        "Artery",
+        "ArteriesAndNerves",
+        "NS9"
+      ],
+      "sourceLine": 330,
+      "section": "Arteries and nerves",
+      "label": "48"
+    },
+    {
+      "id": "foot-model-ns9-331",
+      "path": [
+        "48"
+      ],
+      "question": "Origin",
+      "answer": "Terminal deep plantar branch of dorsalis pedis artery.",
+      "tags": [
+        "Origin",
+        "Artery",
+        "ArteriesAndNerves",
+        "NS9"
+      ],
+      "sourceLine": 331,
+      "section": "Arteries and nerves",
+      "label": "48"
+    },
+    {
+      "id": "foot-model-ns9-332",
+      "path": [
+        "48"
+      ],
+      "question": "Course",
+      "answer": "Passes through first intermetatarsal space into sole.",
+      "tags": [
+        "Course",
+        "Artery",
+        "ArteriesAndNerves",
+        "NS9"
+      ],
+      "sourceLine": 332,
+      "section": "Arteries and nerves",
+      "label": "48"
+    },
+    {
+      "id": "foot-model-ns9-333",
+      "path": [
+        "48"
+      ],
+      "question": "Function",
+      "answer": "Joins lateral plantar artery to complete the deep plantar arch.",
+      "tags": [
+        "Function",
+        "Artery",
+        "ArteriesAndNerves",
+        "NS9"
+      ],
+      "sourceLine": 333,
+      "section": "Arteries and nerves",
+      "label": "48"
+    },
+    {
+      "id": "foot-model-ns9-336",
+      "path": [
+        "49"
+      ],
+      "question": "Identification",
+      "answer": "Dorsal metatarsal arteries",
+      "tags": [
+        "Identification",
+        "Artery",
+        "ArteriesAndNerves",
+        "NS9"
+      ],
+      "sourceLine": 336,
+      "section": "Arteries and nerves",
+      "label": "49"
+    },
+    {
+      "id": "foot-model-ns9-337",
+      "path": [
+        "49"
+      ],
+      "question": "Origin",
+      "answer": "Arise mainly from arcuate artery and dorsalis pedis system.",
+      "tags": [
+        "Origin",
+        "Artery",
+        "ArteriesAndNerves",
+        "NS9"
+      ],
+      "sourceLine": 337,
+      "section": "Arteries and nerves",
+      "label": "49"
+    },
+    {
+      "id": "foot-model-ns9-338",
+      "path": [
+        "49"
+      ],
+      "question": "Course",
+      "answer": "Run distally in dorsal intermetatarsal spaces.",
+      "tags": [
+        "Course",
+        "Artery",
+        "ArteriesAndNerves",
+        "NS9"
+      ],
+      "sourceLine": 338,
+      "section": "Arteries and nerves",
+      "label": "49"
+    },
+    {
+      "id": "foot-model-ns9-339",
+      "path": [
+        "49"
+      ],
+      "question": "Supply",
+      "answer": "Dorsum of toes and adjacent foot through dorsal digital branches.",
+      "tags": [
+        "Supply",
+        "Artery",
+        "ArteriesAndNerves",
+        "NS9"
+      ],
+      "sourceLine": 339,
+      "section": "Arteries and nerves",
+      "label": "49"
+    },
+    {
+      "id": "foot-model-ns9-342",
+      "path": [
+        "50"
+      ],
+      "question": "Identification",
+      "answer": "Lateral calcaneal branches of fibular artery",
+      "tags": [
+        "Identification",
+        "Artery",
+        "ArteriesAndNerves",
+        "NS9"
+      ],
+      "sourceLine": 342,
+      "section": "Arteries and nerves",
+      "label": "50"
+    },
+    {
+      "id": "foot-model-ns9-343",
+      "path": [
+        "50"
+      ],
+      "question": "Origin",
+      "answer": "Branches derived from the fibular (peroneal) artery.",
+      "tags": [
+        "Origin",
+        "Artery",
+        "ArteriesAndNerves",
+        "NS9"
+      ],
+      "sourceLine": 343,
+      "section": "Arteries and nerves",
+      "label": "50"
+    },
+    {
+      "id": "foot-model-ns9-344",
+      "path": [
+        "50"
+      ],
+      "question": "Course",
+      "answer": "Reach the lateral calcaneal/heel region.",
+      "tags": [
+        "Course",
+        "Artery",
+        "ArteriesAndNerves",
+        "NS9"
+      ],
+      "sourceLine": 344,
+      "section": "Arteries and nerves",
+      "label": "50"
+    },
+    {
+      "id": "foot-model-ns9-345",
+      "path": [
+        "50"
+      ],
+      "question": "Supply",
+      "answer": "Lateral heel and adjacent tissues.",
+      "tags": [
+        "Supply",
+        "Artery",
+        "ArteriesAndNerves",
+        "NS9"
+      ],
+      "sourceLine": 345,
+      "section": "Arteries and nerves",
+      "label": "50"
+    },
+    {
+      "id": "foot-model-ns9-348",
+      "path": [
+        "51"
+      ],
+      "question": "Identification",
+      "answer": "Ramus communicans (communicating branch)",
+      "tags": [
+        "Identification",
+        "Artery",
+        "ArteriesAndNerves",
+        "NS9"
+      ],
+      "sourceLine": 348,
+      "section": "Arteries and nerves",
+      "label": "51"
+    },
+    {
+      "id": "foot-model-ns9-349",
+      "path": [
+        "51"
+      ],
+      "question": "Function",
+      "answer": "Provides an anastomotic communication between distal posterior tibial and fibular arterial territories.",
+      "tags": [
+        "Function",
+        "Artery",
+        "ArteriesAndNerves",
+        "NS9"
+      ],
+      "sourceLine": 349,
+      "section": "Arteries and nerves",
+      "label": "51"
+    },
+    {
+      "id": "foot-model-ns9-350",
+      "path": [
+        "51"
+      ],
+      "question": "Relations",
+      "answer": "Located in the distal posterior leg/ankle vascular network.",
+      "tags": [
+        "Relations",
+        "Artery",
+        "ArteriesAndNerves",
+        "NS9"
+      ],
+      "sourceLine": 350,
+      "section": "Arteries and nerves",
+      "label": "51"
+    },
+    {
+      "id": "foot-model-ns9-353",
+      "path": [
+        "52"
+      ],
+      "question": "Identification",
+      "answer": "Posterior tibial artery",
+      "tags": [
+        "Identification",
+        "Artery",
+        "ArteriesAndNerves",
+        "NS9"
+      ],
+      "sourceLine": 353,
+      "section": "Arteries and nerves",
+      "label": "52"
+    },
+    {
+      "id": "foot-model-ns9-354",
+      "path": [
+        "52"
+      ],
+      "question": "Origin",
+      "answer": "Terminal branch of popliteal artery.",
+      "tags": [
+        "Origin",
+        "Artery",
+        "ArteriesAndNerves",
+        "NS9"
+      ],
+      "sourceLine": 354,
+      "section": "Arteries and nerves",
+      "label": "52"
+    },
+    {
+      "id": "foot-model-ns9-355",
+      "path": [
+        "52"
+      ],
+      "question": "Course",
+      "answer": "Descends in deep posterior leg and passes behind medial malleolus beneath flexor retinaculum.",
+      "tags": [
+        "Course",
+        "Artery",
+        "ArteriesAndNerves",
+        "NS9"
+      ],
+      "sourceLine": 355,
+      "section": "Arteries and nerves",
+      "label": "52"
+    },
+    {
+      "id": "foot-model-ns9-356",
+      "path": [
+        "52"
+      ],
+      "question": "Branches",
+      "answer": "Gives fibular artery, calcaneal branches and terminates as medial and lateral plantar arteries.",
+      "tags": [
+        "Branches",
+        "Artery",
+        "ArteriesAndNerves",
+        "NS9"
+      ],
+      "sourceLine": 356,
+      "section": "Arteries and nerves",
+      "label": "52"
+    },
+    {
+      "id": "foot-model-ns9-357",
+      "path": [
+        "52"
+      ],
+      "question": "Supply",
+      "answer": "Posterior leg and plantar foot through its branches.",
+      "tags": [
+        "Supply",
+        "Artery",
+        "ArteriesAndNerves",
+        "NS9"
+      ],
+      "sourceLine": 357,
+      "section": "Arteries and nerves",
+      "label": "52"
+    },
+    {
+      "id": "foot-model-ns9-360",
+      "path": [
+        "53"
+      ],
+      "question": "Identification",
+      "answer": "Medial calcaneal branches of posterior tibial artery",
+      "tags": [
+        "Identification",
+        "Artery",
+        "ArteriesAndNerves",
+        "NS9"
+      ],
+      "sourceLine": 360,
+      "section": "Arteries and nerves",
+      "label": "53"
+    },
+    {
+      "id": "foot-model-ns9-361",
+      "path": [
+        "53"
+      ],
+      "question": "Origin",
+      "answer": "Branches of posterior tibial artery near the ankle.",
+      "tags": [
+        "Origin",
+        "Artery",
+        "ArteriesAndNerves",
+        "NS9"
+      ],
+      "sourceLine": 361,
+      "section": "Arteries and nerves",
+      "label": "53"
+    },
+    {
+      "id": "foot-model-ns9-362",
+      "path": [
+        "53"
+      ],
+      "question": "Supply",
+      "answer": "Medial heel and calcaneal region.",
+      "tags": [
+        "Supply",
+        "Artery",
+        "ArteriesAndNerves",
+        "NS9"
+      ],
+      "sourceLine": 362,
+      "section": "Arteries and nerves",
+      "label": "53"
+    },
+    {
+      "id": "foot-model-ns9-365",
+      "path": [
+        "54"
+      ],
+      "question": "Identification",
+      "answer": "Medial plantar artery",
+      "tags": [
+        "Identification",
+        "Artery",
+        "ArteriesAndNerves",
+        "NS9"
+      ],
+      "sourceLine": 365,
+      "section": "Arteries and nerves",
+      "label": "54"
+    },
+    {
+      "id": "foot-model-ns9-366",
+      "path": [
+        "54"
+      ],
+      "question": "Origin",
+      "answer": "Smaller terminal branch of posterior tibial artery.",
+      "tags": [
+        "Origin",
+        "Artery",
+        "ArteriesAndNerves",
+        "NS9"
+      ],
+      "sourceLine": 366,
+      "section": "Arteries and nerves",
+      "label": "54"
+    },
+    {
+      "id": "foot-model-ns9-367",
+      "path": [
+        "54"
+      ],
+      "question": "Course",
+      "answer": "Runs anteriorly along medial sole with medial plantar nerve.",
+      "tags": [
+        "Course",
+        "Artery",
+        "ArteriesAndNerves",
+        "NS9"
+      ],
+      "sourceLine": 367,
+      "section": "Arteries and nerves",
+      "label": "54"
+    },
+    {
+      "id": "foot-model-ns9-368",
+      "path": [
+        "54"
+      ],
+      "question": "Supply",
+      "answer": "Medial sole and hallux region.",
+      "tags": [
+        "Supply",
+        "Artery",
+        "ArteriesAndNerves",
+        "NS9"
+      ],
+      "sourceLine": 368,
+      "section": "Arteries and nerves",
+      "label": "54"
+    },
+    {
+      "id": "foot-model-ns9-371",
+      "path": [
+        "55"
+      ],
+      "question": "Identification",
+      "answer": "Lateral plantar artery",
+      "tags": [
+        "Identification",
+        "Artery",
+        "ArteriesAndNerves",
+        "NS9"
+      ],
+      "sourceLine": 371,
+      "section": "Arteries and nerves",
+      "label": "55"
+    },
+    {
+      "id": "foot-model-ns9-372",
+      "path": [
+        "55"
+      ],
+      "question": "Origin",
+      "answer": "Larger terminal branch of posterior tibial artery.",
+      "tags": [
+        "Origin",
+        "Artery",
+        "ArteriesAndNerves",
+        "NS9"
+      ],
+      "sourceLine": 372,
+      "section": "Arteries and nerves",
+      "label": "55"
+    },
+    {
+      "id": "foot-model-ns9-373",
+      "path": [
+        "55"
+      ],
+      "question": "Course",
+      "answer": "Runs obliquely across sole then curves medially to form most of the deep plantar arch.",
+      "tags": [
+        "Course",
+        "Artery",
+        "ArteriesAndNerves",
+        "NS9"
+      ],
+      "sourceLine": 373,
+      "section": "Arteries and nerves",
+      "label": "55"
+    },
+    {
+      "id": "foot-model-ns9-374",
+      "path": [
+        "55"
+      ],
+      "question": "Supply",
+      "answer": "Lateral sole and much of plantar forefoot.",
+      "tags": [
+        "Supply",
+        "Artery",
+        "ArteriesAndNerves",
+        "NS9"
+      ],
+      "sourceLine": 374,
+      "section": "Arteries and nerves",
+      "label": "55"
+    },
+    {
+      "id": "foot-model-ns9-377",
+      "path": [
+        "56"
+      ],
+      "question": "Identification",
+      "answer": "Deep plantar arch",
+      "tags": [
+        "Identification",
+        "Artery",
+        "ArteriesAndNerves",
+        "NS9"
+      ],
+      "sourceLine": 377,
+      "section": "Arteries and nerves",
+      "label": "56"
+    },
+    {
+      "id": "foot-model-ns9-378",
+      "path": [
+        "56"
+      ],
+      "question": "Formation",
+      "answer": "Formed mainly by lateral plantar artery and completed medially by deep plantar branch of dorsalis pedis.",
+      "tags": [
+        "Formation",
+        "Artery",
+        "ArteriesAndNerves",
+        "NS9"
+      ],
+      "sourceLine": 378,
+      "section": "Arteries and nerves",
+      "label": "56"
+    },
+    {
+      "id": "foot-model-ns9-379",
+      "path": [
+        "56"
+      ],
+      "question": "Location",
+      "answer": "Deep in sole across bases of metatarsals.",
+      "tags": [
+        "Location",
+        "Artery",
+        "ArteriesAndNerves",
+        "NS9"
+      ],
+      "sourceLine": 379,
+      "section": "Arteries and nerves",
+      "label": "56"
+    },
+    {
+      "id": "foot-model-ns9-380",
+      "path": [
+        "56"
+      ],
+      "question": "Branches",
+      "answer": "Gives plantar metatarsal arteries and perforating branches.",
+      "tags": [
+        "Branches",
+        "Artery",
+        "ArteriesAndNerves",
+        "NS9"
+      ],
+      "sourceLine": 380,
+      "section": "Arteries and nerves",
+      "label": "56"
+    },
+    {
+      "id": "foot-model-ns9-381",
+      "path": [
+        "56"
+      ],
+      "question": "Supply",
+      "answer": "Deep plantar forefoot and toes through branches.",
+      "tags": [
+        "Supply",
+        "Artery",
+        "ArteriesAndNerves",
+        "NS9"
+      ],
+      "sourceLine": 381,
+      "section": "Arteries and nerves",
+      "label": "56"
+    },
+    {
+      "id": "foot-model-ns9-384",
+      "path": [
+        "57"
+      ],
+      "question": "Identification",
+      "answer": "Plantar metatarsal artery",
+      "tags": [
+        "Identification",
+        "Artery",
+        "ArteriesAndNerves",
+        "NS9"
+      ],
+      "sourceLine": 384,
+      "section": "Arteries and nerves",
+      "label": "57"
+    },
+    {
+      "id": "foot-model-ns9-385",
+      "path": [
+        "57"
+      ],
+      "question": "Origin",
+      "answer": "Branches of the deep plantar arch.",
+      "tags": [
+        "Origin",
+        "Artery",
+        "ArteriesAndNerves",
+        "NS9"
+      ],
+      "sourceLine": 385,
+      "section": "Arteries and nerves",
+      "label": "57"
+    },
+    {
+      "id": "foot-model-ns9-386",
+      "path": [
+        "57"
+      ],
+      "question": "Course",
+      "answer": "Run distally in plantar intermetatarsal spaces.",
+      "tags": [
+        "Course",
+        "Artery",
+        "ArteriesAndNerves",
+        "NS9"
+      ],
+      "sourceLine": 386,
+      "section": "Arteries and nerves",
+      "label": "57"
+    },
+    {
+      "id": "foot-model-ns9-387",
+      "path": [
+        "57"
+      ],
+      "question": "Supply",
+      "answer": "Divide into plantar digital arteries supplying toes.",
+      "tags": [
+        "Supply",
+        "Artery",
+        "ArteriesAndNerves",
+        "NS9"
+      ],
+      "sourceLine": 387,
+      "section": "Arteries and nerves",
+      "label": "57"
+    },
+    {
+      "id": "foot-model-ns9-390",
+      "path": [
+        "58"
+      ],
+      "question": "Identification",
+      "answer": "Tibial nerve",
+      "tags": [
+        "Identification",
+        "Nerve",
+        "ArteriesAndNerves",
+        "NS9"
+      ],
+      "sourceLine": 390,
+      "section": "Arteries and nerves",
+      "label": "58"
+    },
+    {
+      "id": "foot-model-ns9-391",
+      "path": [
+        "58"
+      ],
+      "question": "Roots",
+      "answer": "L4–S3, terminal branch of sciatic nerve.",
+      "tags": [
+        "Roots",
+        "Nerve",
+        "ArteriesAndNerves",
+        "NS9"
+      ],
+      "sourceLine": 391,
+      "section": "Arteries and nerves",
+      "label": "58"
+    },
+    {
+      "id": "foot-model-ns9-392",
+      "path": [
+        "58"
+      ],
+      "question": "Course",
+      "answer": "Descends in posterior leg, passes behind medial malleolus beneath flexor retinaculum and divides into medial/lateral plantar nerves.",
+      "tags": [
+        "Course",
+        "Nerve",
+        "ArteriesAndNerves",
+        "NS9"
+      ],
+      "sourceLine": 392,
+      "section": "Arteries and nerves",
+      "label": "58"
+    },
+    {
+      "id": "foot-model-ns9-393",
+      "path": [
+        "58"
+      ],
+      "question": "Motor functions",
+      "answer": "Supplies posterior leg and, through plantar branches, most intrinsic muscles of sole.",
+      "tags": [
+        "Motor",
+        "Nerve",
+        "ArteriesAndNerves",
+        "NS9"
+      ],
+      "sourceLine": 393,
+      "section": "Arteries and nerves",
+      "label": "58"
+    },
+    {
+      "id": "foot-model-ns9-394",
+      "path": [
+        "58"
+      ],
+      "question": "Sensory functions",
+      "answer": "Supplies heel and sole via calcaneal and plantar branches.",
+      "tags": [
+        "Sensory",
+        "Nerve",
+        "ArteriesAndNerves",
+        "NS9"
+      ],
+      "sourceLine": 394,
+      "section": "Arteries and nerves",
+      "label": "58"
+    },
+    {
+      "id": "foot-model-ns9-395",
+      "path": [
+        "58"
+      ],
+      "question": "Lesion",
+      "answer": "Proximal injury causes weak plantarflexion, toe flexion and inversion with sensory loss over the sole; compression at the tarsal tunnel mainly causes plantar pain/paraesthesia and intrinsic foot weakness.",
+      "tags": [
+        "Lesion",
+        "Nerve",
+        "ArteriesAndNerves",
+        "NS9"
+      ],
+      "sourceLine": 395,
+      "section": "Arteries and nerves",
+      "label": "58"
+    },
+    {
+      "id": "foot-model-ns9-398",
+      "path": [
+        "59"
+      ],
+      "question": "Identification",
+      "answer": "Medial plantar nerve",
+      "tags": [
+        "Identification",
+        "Nerve",
+        "ArteriesAndNerves",
+        "NS9"
+      ],
+      "sourceLine": 398,
+      "section": "Arteries and nerves",
+      "label": "59"
+    },
+    {
+      "id": "foot-model-ns9-399",
+      "path": [
+        "59"
+      ],
+      "question": "Roots",
+      "answer": "Terminal branch of tibial nerve, mainly L4–L5.",
+      "tags": [
+        "Roots",
+        "Nerve",
+        "ArteriesAndNerves",
+        "NS9"
+      ],
+      "sourceLine": 399,
+      "section": "Arteries and nerves",
+      "label": "59"
+    },
+    {
+      "id": "foot-model-ns9-400",
+      "path": [
+        "59"
+      ],
+      "question": "Course",
+      "answer": "Runs anteriorly in medial sole with medial plantar artery.",
+      "tags": [
+        "Course",
+        "Nerve",
+        "ArteriesAndNerves",
+        "NS9"
+      ],
+      "sourceLine": 400,
+      "section": "Arteries and nerves",
+      "label": "59"
+    },
+    {
+      "id": "foot-model-ns9-401",
+      "path": [
+        "59"
+      ],
+      "question": "Motor functions",
+      "answer": "Supplies abductor hallucis, flexor digitorum brevis, flexor hallucis brevis and first lumbrical.",
+      "tags": [
+        "Motor",
+        "Nerve",
+        "ArteriesAndNerves",
+        "NS9"
+      ],
+      "sourceLine": 401,
+      "section": "Arteries and nerves",
+      "label": "59"
+    },
+    {
+      "id": "foot-model-ns9-402",
+      "path": [
+        "59"
+      ],
+      "question": "Sensory functions",
+      "answer": "Supplies medial sole and plantar surfaces of medial 3½ toes.",
+      "tags": [
+        "Sensory",
+        "Nerve",
+        "ArteriesAndNerves",
+        "NS9"
+      ],
+      "sourceLine": 402,
+      "section": "Arteries and nerves",
+      "label": "59"
+    },
+    {
+      "id": "foot-model-ns9-403",
+      "path": [
+        "59"
+      ],
+      "question": "Lesion",
+      "answer": "Causes sensory disturbance over the medial sole and medial 3½ toes with weakness of muscles such as abductor hallucis; entrapment may cause 'jogger's foot'.",
+      "tags": [
+        "Lesion",
+        "Nerve",
+        "ArteriesAndNerves",
+        "NS9"
+      ],
+      "sourceLine": 403,
+      "section": "Arteries and nerves",
+      "label": "59"
+    },
+    {
+      "id": "foot-model-ns9-406",
+      "path": [
+        "60"
+      ],
+      "question": "Identification",
+      "answer": "Lateral plantar nerve",
+      "tags": [
+        "Identification",
+        "Nerve",
+        "ArteriesAndNerves",
+        "NS9"
+      ],
+      "sourceLine": 406,
+      "section": "Arteries and nerves",
+      "label": "60"
+    },
+    {
+      "id": "foot-model-ns9-407",
+      "path": [
+        "60"
+      ],
+      "question": "Roots",
+      "answer": "Terminal branch of tibial nerve, mainly S1–S2.",
+      "tags": [
+        "Roots",
+        "Nerve",
+        "ArteriesAndNerves",
+        "NS9"
+      ],
+      "sourceLine": 407,
+      "section": "Arteries and nerves",
+      "label": "60"
+    },
+    {
+      "id": "foot-model-ns9-408",
+      "path": [
+        "60"
+      ],
+      "question": "Course",
+      "answer": "Runs obliquely across sole with lateral plantar artery and divides into superficial/deep branches.",
+      "tags": [
+        "Course",
+        "Nerve",
+        "ArteriesAndNerves",
+        "NS9"
+      ],
+      "sourceLine": 408,
+      "section": "Arteries and nerves",
+      "label": "60"
+    },
+    {
+      "id": "foot-model-ns9-409",
+      "path": [
+        "60"
+      ],
+      "question": "Motor functions",
+      "answer": "Supplies most intrinsic muscles of sole not supplied by medial plantar nerve.",
+      "tags": [
+        "Motor",
+        "Nerve",
+        "ArteriesAndNerves",
+        "NS9"
+      ],
+      "sourceLine": 409,
+      "section": "Arteries and nerves",
+      "label": "60"
+    },
+    {
+      "id": "foot-model-ns9-410",
+      "path": [
+        "60"
+      ],
+      "question": "Sensory functions",
+      "answer": "Supplies lateral sole and plantar surfaces of lateral 1½ toes.",
+      "tags": [
+        "Sensory",
+        "Nerve",
+        "ArteriesAndNerves",
+        "NS9"
+      ],
+      "sourceLine": 410,
+      "section": "Arteries and nerves",
+      "label": "60"
+    },
+    {
+      "id": "foot-model-ns9-411",
+      "path": [
+        "60"
+      ],
+      "question": "Lesion",
+      "answer": "Causes weakness of most intrinsic foot muscles with sensory loss or paraesthesia over the lateral sole and lateral 1½ toes.",
+      "tags": [
+        "Lesion",
+        "Nerve",
+        "ArteriesAndNerves",
+        "NS9"
+      ],
+      "sourceLine": 411,
+      "section": "Arteries and nerves",
+      "label": "60"
+    }
+  ]
+}

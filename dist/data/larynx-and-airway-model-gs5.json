@@ -1,0 +1,3322 @@
+{
+  "id": "larynx-and-airway-model-gs5",
+  "name": "Larynx and Airway (Model GS5)",
+  "cards": [
+    {
+      "id": "larynx-and-airway-model-gs5-4",
+      "path": [
+        "1"
+      ],
+      "question": "Identification",
+      "answer": "Hyoid bone",
+      "tags": [
+        "Identification",
+        "Bone",
+        "CartilagesAndBones",
+        "GS5"
+      ],
+      "sourceLine": 4,
+      "section": "Hyoid and laryngeal cartilages",
+      "label": "1"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-5",
+      "path": [
+        "1"
+      ],
+      "question": "Articulations",
+      "answer": "Does not articulate directly with any other bone; suspended by muscles and ligaments.",
+      "tags": [
+        "Articulations",
+        "Bone",
+        "CartilagesAndBones",
+        "GS5"
+      ],
+      "sourceLine": 5,
+      "section": "Hyoid and laryngeal cartilages",
+      "label": "1"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-6",
+      "path": [
+        "1"
+      ],
+      "question": "Function",
+      "answer": "Provides attachment for tongue, suprahyoid and infrahyoid muscles and helps support the larynx.",
+      "tags": [
+        "Function",
+        "Bone",
+        "CartilagesAndBones",
+        "GS5"
+      ],
+      "sourceLine": 6,
+      "section": "Hyoid and laryngeal cartilages",
+      "label": "1"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-8",
+      "path": [
+        "1",
+        "a"
+      ],
+      "question": "Identification",
+      "answer": "Body of hyoid bone",
+      "tags": [
+        "Identification",
+        "BonyLandmark",
+        "CartilagesAndBones",
+        "GS5"
+      ],
+      "sourceLine": 8,
+      "section": "Hyoid and laryngeal cartilages",
+      "label": "1a"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-9",
+      "path": [
+        "1",
+        "a"
+      ],
+      "question": "Relations",
+      "answer": "Central anterior part of the hyoid between the greater horns.",
+      "tags": [
+        "Relations",
+        "BonyLandmark",
+        "CartilagesAndBones",
+        "GS5"
+      ],
+      "sourceLine": 9,
+      "section": "Hyoid and laryngeal cartilages",
+      "label": "1a"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-11",
+      "path": [
+        "1",
+        "b"
+      ],
+      "question": "Identification",
+      "answer": "Greater horn (cornu) of hyoid bone",
+      "tags": [
+        "Identification",
+        "BonyLandmark",
+        "CartilagesAndBones",
+        "GS5"
+      ],
+      "sourceLine": 11,
+      "section": "Hyoid and laryngeal cartilages",
+      "label": "1b"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-12",
+      "path": [
+        "1",
+        "b"
+      ],
+      "question": "Relations",
+      "answer": "Projects posterolaterally and provides muscular and ligamentous attachment.",
+      "tags": [
+        "Relations",
+        "BonyLandmark",
+        "CartilagesAndBones",
+        "GS5"
+      ],
+      "sourceLine": 12,
+      "section": "Hyoid and laryngeal cartilages",
+      "label": "1b"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-14",
+      "path": [
+        "1",
+        "c"
+      ],
+      "question": "Identification",
+      "answer": "Lesser horn (cornu) of hyoid bone",
+      "tags": [
+        "Identification",
+        "BonyLandmark",
+        "CartilagesAndBones",
+        "GS5"
+      ],
+      "sourceLine": 14,
+      "section": "Hyoid and laryngeal cartilages",
+      "label": "1c"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-15",
+      "path": [
+        "1",
+        "c"
+      ],
+      "question": "Attachments",
+      "answer": "Gives attachment to the stylohyoid ligament.",
+      "tags": [
+        "Attachments",
+        "BonyLandmark",
+        "CartilagesAndBones",
+        "GS5"
+      ],
+      "sourceLine": 15,
+      "section": "Hyoid and laryngeal cartilages",
+      "label": "1c"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-18",
+      "path": [
+        "2"
+      ],
+      "question": "Identification",
+      "answer": "Thyroid cartilage",
+      "tags": [
+        "Identification",
+        "Cartilage",
+        "CartilagesAndBones",
+        "GS5"
+      ],
+      "sourceLine": 18,
+      "section": "Hyoid and laryngeal cartilages",
+      "label": "2"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-19",
+      "path": [
+        "2"
+      ],
+      "question": "Structure",
+      "answer": "Largest laryngeal cartilage, formed by two laminae meeting anteriorly.",
+      "tags": [
+        "Structure",
+        "Cartilage",
+        "CartilagesAndBones",
+        "GS5"
+      ],
+      "sourceLine": 19,
+      "section": "Hyoid and laryngeal cartilages",
+      "label": "2"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-20",
+      "path": [
+        "2"
+      ],
+      "question": "Function",
+      "answer": "Protects the vocal apparatus and provides attachment for laryngeal muscles and ligaments.",
+      "tags": [
+        "Function",
+        "Cartilage",
+        "CartilagesAndBones",
+        "GS5"
+      ],
+      "sourceLine": 20,
+      "section": "Hyoid and laryngeal cartilages",
+      "label": "2"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-21",
+      "path": [
+        "2"
+      ],
+      "question": "Landmarks",
+      "answer": "Laryngeal prominence, superior and inferior horns, superior thyroid notch and oblique line.",
+      "tags": [
+        "Landmarks",
+        "Cartilage",
+        "CartilagesAndBones",
+        "GS5"
+      ],
+      "sourceLine": 21,
+      "section": "Hyoid and laryngeal cartilages",
+      "label": "2"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-23",
+      "path": [
+        "2",
+        "d"
+      ],
+      "question": "Identification",
+      "answer": "Superior horn (cornu) of thyroid cartilage",
+      "tags": [
+        "Identification",
+        "CartilagePart",
+        "CartilagesAndBones",
+        "GS5"
+      ],
+      "sourceLine": 23,
+      "section": "Hyoid and laryngeal cartilages",
+      "label": "2d"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-24",
+      "path": [
+        "2",
+        "d"
+      ],
+      "question": "Relations",
+      "answer": "Projects superiorly from the posterior border of the thyroid lamina toward the hyoid.",
+      "tags": [
+        "Relations",
+        "CartilagePart",
+        "CartilagesAndBones",
+        "GS5"
+      ],
+      "sourceLine": 24,
+      "section": "Hyoid and laryngeal cartilages",
+      "label": "2d"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-26",
+      "path": [
+        "2",
+        "e"
+      ],
+      "question": "Identification",
+      "answer": "Inferior horn (cornu) of thyroid cartilage",
+      "tags": [
+        "Identification",
+        "CartilagePart",
+        "CartilagesAndBones",
+        "GS5"
+      ],
+      "sourceLine": 26,
+      "section": "Hyoid and laryngeal cartilages",
+      "label": "2e"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-27",
+      "path": [
+        "2",
+        "e"
+      ],
+      "question": "Articulation",
+      "answer": "Articulates with cricoid cartilage at the cricothyroid joint.",
+      "tags": [
+        "Articulations",
+        "CartilagePart",
+        "CartilagesAndBones",
+        "GS5"
+      ],
+      "sourceLine": 27,
+      "section": "Hyoid and laryngeal cartilages",
+      "label": "2e"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-30",
+      "path": [
+        "3"
+      ],
+      "question": "Identification",
+      "answer": "Cricoid cartilage",
+      "tags": [
+        "Identification",
+        "Cartilage",
+        "CartilagesAndBones",
+        "GS5"
+      ],
+      "sourceLine": 30,
+      "section": "Hyoid and laryngeal cartilages",
+      "label": "3"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-31",
+      "path": [
+        "3"
+      ],
+      "question": "Structure",
+      "answer": "Only complete cartilaginous ring of the airway; narrow anterior arch and broad posterior lamina.",
+      "tags": [
+        "Structure",
+        "Cartilage",
+        "CartilagesAndBones",
+        "GS5"
+      ],
+      "sourceLine": 31,
+      "section": "Hyoid and laryngeal cartilages",
+      "label": "3"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-32",
+      "path": [
+        "3"
+      ],
+      "question": "Function",
+      "answer": "Maintains airway patency and supports the arytenoid cartilages.",
+      "tags": [
+        "Function",
+        "Cartilage",
+        "CartilagesAndBones",
+        "GS5"
+      ],
+      "sourceLine": 32,
+      "section": "Hyoid and laryngeal cartilages",
+      "label": "3"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-33",
+      "path": [
+        "3"
+      ],
+      "question": "Relations",
+      "answer": "Inferior to thyroid cartilage and superior to the first tracheal ring.",
+      "tags": [
+        "Relations",
+        "Cartilage",
+        "CartilagesAndBones",
+        "GS5"
+      ],
+      "sourceLine": 33,
+      "section": "Hyoid and laryngeal cartilages",
+      "label": "3"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-34",
+      "path": [
+        "3"
+      ],
+      "question": "Clinical relevance",
+      "answer": "Cricoid cartilage lies around C6, where the larynx continues as the trachea.",
+      "tags": [
+        "Clinical",
+        "Cartilage",
+        "CartilagesAndBones",
+        "GS5"
+      ],
+      "sourceLine": 34,
+      "section": "Hyoid and laryngeal cartilages",
+      "label": "3"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-37",
+      "path": [
+        "4"
+      ],
+      "question": "Identification",
+      "answer": "Arytenoid cartilage",
+      "tags": [
+        "Identification",
+        "Cartilage",
+        "CartilagesAndBones",
+        "GS5"
+      ],
+      "sourceLine": 37,
+      "section": "Hyoid and laryngeal cartilages",
+      "label": "4"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-38",
+      "path": [
+        "4"
+      ],
+      "question": "Structure",
+      "answer": "Paired pyramidal cartilages sitting on the superior border of the cricoid lamina.",
+      "tags": [
+        "Structure",
+        "Cartilage",
+        "CartilagesAndBones",
+        "GS5"
+      ],
+      "sourceLine": 38,
+      "section": "Hyoid and laryngeal cartilages",
+      "label": "4"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-39",
+      "path": [
+        "4"
+      ],
+      "question": "Landmarks",
+      "answer": "Each has a vocal process anteriorly and muscular process laterally.",
+      "tags": [
+        "Landmarks",
+        "Cartilage",
+        "CartilagesAndBones",
+        "GS5"
+      ],
+      "sourceLine": 39,
+      "section": "Hyoid and laryngeal cartilages",
+      "label": "4"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-40",
+      "path": [
+        "4"
+      ],
+      "question": "Function",
+      "answer": "Rotates and glides to abduct/adduct and tension the vocal folds.",
+      "tags": [
+        "Function",
+        "Cartilage",
+        "CartilagesAndBones",
+        "GS5"
+      ],
+      "sourceLine": 40,
+      "section": "Hyoid and laryngeal cartilages",
+      "label": "4"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-43",
+      "path": [
+        "5"
+      ],
+      "question": "Identification",
+      "answer": "Corniculate cartilage (cartilage of Santorini)",
+      "tags": [
+        "Identification",
+        "Cartilage",
+        "CartilagesAndBones",
+        "GS5"
+      ],
+      "sourceLine": 43,
+      "section": "Hyoid and laryngeal cartilages",
+      "label": "5"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-44",
+      "path": [
+        "5"
+      ],
+      "question": "Structure",
+      "answer": "Small paired conical elastic cartilages atop the arytenoid cartilages.",
+      "tags": [
+        "Structure",
+        "Cartilage",
+        "CartilagesAndBones",
+        "GS5"
+      ],
+      "sourceLine": 44,
+      "section": "Hyoid and laryngeal cartilages",
+      "label": "5"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-45",
+      "path": [
+        "5"
+      ],
+      "question": "Relations",
+      "answer": "Lie within the aryepiglottic folds.",
+      "tags": [
+        "Relations",
+        "Cartilage",
+        "CartilagesAndBones",
+        "GS5"
+      ],
+      "sourceLine": 45,
+      "section": "Hyoid and laryngeal cartilages",
+      "label": "5"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-46",
+      "path": [
+        "5"
+      ],
+      "question": "Function",
+      "answer": "Support the posterior aryepiglottic folds.",
+      "tags": [
+        "Function",
+        "Cartilage",
+        "CartilagesAndBones",
+        "GS5"
+      ],
+      "sourceLine": 46,
+      "section": "Hyoid and laryngeal cartilages",
+      "label": "5"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-49",
+      "path": [
+        "6"
+      ],
+      "question": "Identification",
+      "answer": "Cuneiform cartilage (cartilage of Wrisberg)",
+      "tags": [
+        "Identification",
+        "Cartilage",
+        "CartilagesAndBones",
+        "GS5"
+      ],
+      "sourceLine": 49,
+      "section": "Hyoid and laryngeal cartilages",
+      "label": "6"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-50",
+      "path": [
+        "6"
+      ],
+      "question": "Structure",
+      "answer": "Small paired elastic cartilages embedded in the aryepiglottic folds.",
+      "tags": [
+        "Structure",
+        "Cartilage",
+        "CartilagesAndBones",
+        "GS5"
+      ],
+      "sourceLine": 50,
+      "section": "Hyoid and laryngeal cartilages",
+      "label": "6"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-51",
+      "path": [
+        "6"
+      ],
+      "question": "Function",
+      "answer": "Support and stiffen the aryepiglottic folds.",
+      "tags": [
+        "Function",
+        "Cartilage",
+        "CartilagesAndBones",
+        "GS5"
+      ],
+      "sourceLine": 51,
+      "section": "Hyoid and laryngeal cartilages",
+      "label": "6"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-54",
+      "path": [
+        "7"
+      ],
+      "question": "Identification",
+      "answer": "Tracheal cartilage",
+      "tags": [
+        "Identification",
+        "Cartilage",
+        "AirwayFramework",
+        "GS5"
+      ],
+      "sourceLine": 54,
+      "section": "Hyoid and laryngeal cartilages",
+      "label": "7"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-55",
+      "path": [
+        "7"
+      ],
+      "question": "Structure",
+      "answer": "C-shaped hyaline cartilage rings open posteriorly.",
+      "tags": [
+        "Structure",
+        "Cartilage",
+        "AirwayFramework",
+        "GS5"
+      ],
+      "sourceLine": 55,
+      "section": "Hyoid and laryngeal cartilages",
+      "label": "7"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-56",
+      "path": [
+        "7"
+      ],
+      "question": "Function",
+      "answer": "Maintain tracheal patency while permitting posterior oesophageal expansion.",
+      "tags": [
+        "Function",
+        "Cartilage",
+        "AirwayFramework",
+        "GS5"
+      ],
+      "sourceLine": 56,
+      "section": "Hyoid and laryngeal cartilages",
+      "label": "7"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-57",
+      "path": [
+        "7"
+      ],
+      "question": "Relations",
+      "answer": "Posterior gap is bridged by trachealis muscle and fibroelastic tissue.",
+      "tags": [
+        "Relations",
+        "Cartilage",
+        "AirwayFramework",
+        "GS5"
+      ],
+      "sourceLine": 57,
+      "section": "Hyoid and laryngeal cartilages",
+      "label": "7"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-62",
+      "path": [
+        "8"
+      ],
+      "question": "Identification",
+      "answer": "Thyrohyoid membrane (median thyrohyoid ligament part)",
+      "tags": [
+        "Identification",
+        "Membrane",
+        "MembranesLigaments",
+        "GS5"
+      ],
+      "sourceLine": 62,
+      "section": "Membranes, ligaments and joints",
+      "label": "8"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-63",
+      "path": [
+        "8"
+      ],
+      "question": "Attachments",
+      "answer": "Spans between superior thyroid cartilage and hyoid; thickened centrally as the median thyrohyoid ligament.",
+      "tags": [
+        "Attachments",
+        "Membrane",
+        "MembranesLigaments",
+        "GS5"
+      ],
+      "sourceLine": 63,
+      "section": "Membranes, ligaments and joints",
+      "label": "8"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-64",
+      "path": [
+        "8"
+      ],
+      "question": "Function",
+      "answer": "Suspends the larynx from the hyoid bone.",
+      "tags": [
+        "Function",
+        "Membrane",
+        "MembranesLigaments",
+        "GS5"
+      ],
+      "sourceLine": 64,
+      "section": "Membranes, ligaments and joints",
+      "label": "8"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-67",
+      "path": [
+        "9"
+      ],
+      "question": "Identification",
+      "answer": "Thyrohyoid membrane (lateral)",
+      "tags": [
+        "Identification",
+        "Membrane",
+        "MembranesLigaments",
+        "GS5"
+      ],
+      "sourceLine": 67,
+      "section": "Membranes, ligaments and joints",
+      "label": "9"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-68",
+      "path": [
+        "9"
+      ],
+      "question": "Attachments",
+      "answer": "Extends between thyroid cartilage and hyoid laterally.",
+      "tags": [
+        "Attachments",
+        "Membrane",
+        "MembranesLigaments",
+        "GS5"
+      ],
+      "sourceLine": 68,
+      "section": "Membranes, ligaments and joints",
+      "label": "9"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-69",
+      "path": [
+        "9"
+      ],
+      "question": "Contents",
+      "answer": "Pierced by the internal laryngeal nerve and superior laryngeal vessels.",
+      "tags": [
+        "Contents",
+        "Membrane",
+        "MembranesLigaments",
+        "GS5"
+      ],
+      "sourceLine": 69,
+      "section": "Membranes, ligaments and joints",
+      "label": "9"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-70",
+      "path": [
+        "9"
+      ],
+      "question": "Clinical relevance",
+      "answer": "Important landmark for the internal branch of the superior laryngeal nerve.",
+      "tags": [
+        "Clinical",
+        "Membrane",
+        "MembranesLigaments",
+        "GS5"
+      ],
+      "sourceLine": 70,
+      "section": "Membranes, ligaments and joints",
+      "label": "9"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-73",
+      "path": [
+        "10"
+      ],
+      "question": "Identification",
+      "answer": "Capsule of cricothyroid joint",
+      "tags": [
+        "Identification",
+        "JointCapsule",
+        "MembranesLigaments",
+        "GS5"
+      ],
+      "sourceLine": 73,
+      "section": "Membranes, ligaments and joints",
+      "label": "10"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-74",
+      "path": [
+        "10"
+      ],
+      "question": "Structure",
+      "answer": "Fibrous capsule enclosing the synovial articulation between inferior horn of thyroid cartilage and cricoid cartilage.",
+      "tags": [
+        "Structure",
+        "JointCapsule",
+        "MembranesLigaments",
+        "GS5"
+      ],
+      "sourceLine": 74,
+      "section": "Membranes, ligaments and joints",
+      "label": "10"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-75",
+      "path": [
+        "10"
+      ],
+      "question": "Function",
+      "answer": "Allows rotation and gliding that alter vocal-fold tension.",
+      "tags": [
+        "Function",
+        "JointCapsule",
+        "MembranesLigaments",
+        "GS5"
+      ],
+      "sourceLine": 75,
+      "section": "Membranes, ligaments and joints",
+      "label": "10"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-78",
+      "path": [
+        "11"
+      ],
+      "question": "Identification",
+      "answer": "Median cricothyroid ligament",
+      "tags": [
+        "Identification",
+        "Ligament",
+        "MembranesLigaments",
+        "GS5"
+      ],
+      "sourceLine": 78,
+      "section": "Membranes, ligaments and joints",
+      "label": "11"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-79",
+      "path": [
+        "11"
+      ],
+      "question": "Attachments",
+      "answer": "Connects inferior border of thyroid cartilage to superior border of cricoid arch in the midline.",
+      "tags": [
+        "Attachments",
+        "Ligament",
+        "MembranesLigaments",
+        "GS5"
+      ],
+      "sourceLine": 79,
+      "section": "Membranes, ligaments and joints",
+      "label": "11"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-80",
+      "path": [
+        "11"
+      ],
+      "question": "Function",
+      "answer": "Strengthens the anterior laryngeal framework.",
+      "tags": [
+        "Function",
+        "Ligament",
+        "MembranesLigaments",
+        "GS5"
+      ],
+      "sourceLine": 80,
+      "section": "Membranes, ligaments and joints",
+      "label": "11"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-81",
+      "path": [
+        "11"
+      ],
+      "question": "Clinical relevance",
+      "answer": "Site used for emergency cricothyrotomy.",
+      "tags": [
+        "Clinical",
+        "Ligament",
+        "MembranesLigaments",
+        "GS5"
+      ],
+      "sourceLine": 81,
+      "section": "Membranes, ligaments and joints",
+      "label": "11"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-84",
+      "path": [
+        "12"
+      ],
+      "question": "Identification",
+      "answer": "Cricotracheal ligament",
+      "tags": [
+        "Identification",
+        "Ligament",
+        "MembranesLigaments",
+        "GS5"
+      ],
+      "sourceLine": 84,
+      "section": "Membranes, ligaments and joints",
+      "label": "12"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-85",
+      "path": [
+        "12"
+      ],
+      "question": "Attachments",
+      "answer": "Connects inferior border of cricoid cartilage to the first tracheal ring.",
+      "tags": [
+        "Attachments",
+        "Ligament",
+        "MembranesLigaments",
+        "GS5"
+      ],
+      "sourceLine": 85,
+      "section": "Membranes, ligaments and joints",
+      "label": "12"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-86",
+      "path": [
+        "12"
+      ],
+      "question": "Function",
+      "answer": "Secures the larynx to the trachea while allowing movement.",
+      "tags": [
+        "Function",
+        "Ligament",
+        "MembranesLigaments",
+        "GS5"
+      ],
+      "sourceLine": 86,
+      "section": "Membranes, ligaments and joints",
+      "label": "12"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-89",
+      "path": [
+        "13"
+      ],
+      "question": "Identification",
+      "answer": "Annular ligament of trachea",
+      "tags": [
+        "Identification",
+        "Ligament",
+        "MembranesLigaments",
+        "GS5"
+      ],
+      "sourceLine": 89,
+      "section": "Membranes, ligaments and joints",
+      "label": "13"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-90",
+      "path": [
+        "13"
+      ],
+      "question": "Structure",
+      "answer": "Fibroelastic tissue connecting adjacent tracheal cartilage rings.",
+      "tags": [
+        "Structure",
+        "Ligament",
+        "MembranesLigaments",
+        "GS5"
+      ],
+      "sourceLine": 90,
+      "section": "Membranes, ligaments and joints",
+      "label": "13"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-91",
+      "path": [
+        "13"
+      ],
+      "question": "Function",
+      "answer": "Provides flexibility while maintaining continuity of the tracheal wall.",
+      "tags": [
+        "Function",
+        "Ligament",
+        "MembranesLigaments",
+        "GS5"
+      ],
+      "sourceLine": 91,
+      "section": "Membranes, ligaments and joints",
+      "label": "13"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-96",
+      "path": [
+        "14"
+      ],
+      "question": "Identification",
+      "answer": "Trachealis muscle",
+      "tags": [
+        "Identification",
+        "Muscle",
+        "Muscles",
+        "GS5"
+      ],
+      "sourceLine": 96,
+      "section": "Laryngeal and airway muscles",
+      "label": "14"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-97",
+      "path": [
+        "14"
+      ],
+      "question": "Actions",
+      "answer": "Narrows the tracheal lumen during coughing and relaxes to allow oesophageal expansion.",
+      "tags": [
+        "Action",
+        "Muscle",
+        "Muscles",
+        "GS5"
+      ],
+      "sourceLine": 97,
+      "section": "Laryngeal and airway muscles",
+      "label": "14"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-98",
+      "path": [
+        "14"
+      ],
+      "question": "Innervation",
+      "answer": "Autonomic fibres, mainly vagal parasympathetic with sympathetic input.",
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "Muscles",
+        "GS5"
+      ],
+      "sourceLine": 98,
+      "section": "Laryngeal and airway muscles",
+      "label": "14"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-99",
+      "path": [
+        "14"
+      ],
+      "question": "Origin",
+      "answer": "Posterior ends of tracheal cartilage rings.",
+      "tags": [
+        "Origin",
+        "Muscle",
+        "Muscles",
+        "GS5"
+      ],
+      "sourceLine": 99,
+      "section": "Laryngeal and airway muscles",
+      "label": "14"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-100",
+      "path": [
+        "14"
+      ],
+      "question": "Insertion",
+      "answer": "Spans the posterior membranous wall between the cartilage ends.",
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "Muscles",
+        "GS5"
+      ],
+      "sourceLine": 100,
+      "section": "Laryngeal and airway muscles",
+      "label": "14"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-103",
+      "path": [
+        "15"
+      ],
+      "question": "Identification",
+      "answer": "Thyrohyoid muscle",
+      "tags": [
+        "Identification",
+        "Muscle",
+        "Muscles",
+        "GS5"
+      ],
+      "sourceLine": 103,
+      "section": "Laryngeal and airway muscles",
+      "label": "15"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-104",
+      "path": [
+        "15"
+      ],
+      "question": "Actions",
+      "answer": "Depresses the hyoid or elevates the larynx.",
+      "tags": [
+        "Action",
+        "Muscle",
+        "Muscles",
+        "GS5"
+      ],
+      "sourceLine": 104,
+      "section": "Laryngeal and airway muscles",
+      "label": "15"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-105",
+      "path": [
+        "15"
+      ],
+      "question": "Innervation",
+      "answer": "C1 fibres travelling with the hypoglossal nerve.",
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "Muscles",
+        "GS5"
+      ],
+      "sourceLine": 105,
+      "section": "Laryngeal and airway muscles",
+      "label": "15"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-106",
+      "path": [
+        "15"
+      ],
+      "question": "Origin",
+      "answer": "Oblique line of thyroid cartilage.",
+      "tags": [
+        "Origin",
+        "Muscle",
+        "Muscles",
+        "GS5"
+      ],
+      "sourceLine": 106,
+      "section": "Laryngeal and airway muscles",
+      "label": "15"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-107",
+      "path": [
+        "15"
+      ],
+      "question": "Insertion",
+      "answer": "Inferior border of body and greater horn of hyoid.",
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "Muscles",
+        "GS5"
+      ],
+      "sourceLine": 107,
+      "section": "Laryngeal and airway muscles",
+      "label": "15"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-110",
+      "path": [
+        "16"
+      ],
+      "question": "Identification",
+      "answer": "Cricothyroid muscle",
+      "tags": [
+        "Identification",
+        "Muscle",
+        "Muscles",
+        "GS5"
+      ],
+      "sourceLine": 110,
+      "section": "Laryngeal and airway muscles",
+      "label": "16"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-111",
+      "path": [
+        "16"
+      ],
+      "question": "Actions",
+      "answer": "Tenses and lengthens the vocal folds, increasing pitch.",
+      "tags": [
+        "Action",
+        "Muscle",
+        "Muscles",
+        "GS5"
+      ],
+      "sourceLine": 111,
+      "section": "Laryngeal and airway muscles",
+      "label": "16"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-112",
+      "path": [
+        "16"
+      ],
+      "question": "Innervation",
+      "answer": "External branch of superior laryngeal nerve (CN X).",
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "Muscles",
+        "GS5"
+      ],
+      "sourceLine": 112,
+      "section": "Laryngeal and airway muscles",
+      "label": "16"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-113",
+      "path": [
+        "16"
+      ],
+      "question": "Origin",
+      "answer": "Anterolateral cricoid cartilage.",
+      "tags": [
+        "Origin",
+        "Muscle",
+        "Muscles",
+        "GS5"
+      ],
+      "sourceLine": 113,
+      "section": "Laryngeal and airway muscles",
+      "label": "16"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-114",
+      "path": [
+        "16"
+      ],
+      "question": "Insertion",
+      "answer": "Inferior border and inferior horn of thyroid cartilage.",
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "Muscles",
+        "GS5"
+      ],
+      "sourceLine": 114,
+      "section": "Laryngeal and airway muscles",
+      "label": "16"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-116",
+      "path": [
+        "16",
+        "a"
+      ],
+      "question": "Identification",
+      "answer": "Pars recta of cricothyroid muscle",
+      "tags": [
+        "Identification",
+        "MusclePart",
+        "Muscles",
+        "GS5"
+      ],
+      "sourceLine": 116,
+      "section": "Laryngeal and airway muscles",
+      "label": "16a"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-117",
+      "path": [
+        "16",
+        "a"
+      ],
+      "question": "Function",
+      "answer": "More vertical fibres contributing to thyroid-cricoid movement and vocal-fold tension.",
+      "tags": [
+        "Function",
+        "MusclePart",
+        "Muscles",
+        "GS5"
+      ],
+      "sourceLine": 117,
+      "section": "Laryngeal and airway muscles",
+      "label": "16a"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-119",
+      "path": [
+        "16",
+        "b"
+      ],
+      "question": "Identification",
+      "answer": "Pars obliqua of cricothyroid muscle",
+      "tags": [
+        "Identification",
+        "MusclePart",
+        "Muscles",
+        "GS5"
+      ],
+      "sourceLine": 119,
+      "section": "Laryngeal and airway muscles",
+      "label": "16b"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-120",
+      "path": [
+        "16",
+        "b"
+      ],
+      "question": "Function",
+      "answer": "Oblique fibres contributing to rotation/gliding at the cricothyroid joint and vocal-fold tension.",
+      "tags": [
+        "Function",
+        "MusclePart",
+        "Muscles",
+        "GS5"
+      ],
+      "sourceLine": 120,
+      "section": "Laryngeal and airway muscles",
+      "label": "16b"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-123",
+      "path": [
+        "17"
+      ],
+      "question": "Identification",
+      "answer": "Posterior cricoarytenoid muscle",
+      "tags": [
+        "Identification",
+        "Muscle",
+        "Muscles",
+        "GS5"
+      ],
+      "sourceLine": 123,
+      "section": "Laryngeal and airway muscles",
+      "label": "17"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-124",
+      "path": [
+        "17"
+      ],
+      "question": "Actions",
+      "answer": "Abducts the vocal folds by laterally rotating arytenoid cartilages and opens the rima glottidis.",
+      "tags": [
+        "Action",
+        "Muscle",
+        "Muscles",
+        "GS5"
+      ],
+      "sourceLine": 124,
+      "section": "Laryngeal and airway muscles",
+      "label": "17"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-125",
+      "path": [
+        "17"
+      ],
+      "question": "Innervation",
+      "answer": "Recurrent laryngeal nerve (CN X).",
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "Muscles",
+        "GS5"
+      ],
+      "sourceLine": 125,
+      "section": "Laryngeal and airway muscles",
+      "label": "17"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-126",
+      "path": [
+        "17"
+      ],
+      "question": "Origin",
+      "answer": "Posterior surface of cricoid lamina.",
+      "tags": [
+        "Origin",
+        "Muscle",
+        "Muscles",
+        "GS5"
+      ],
+      "sourceLine": 126,
+      "section": "Laryngeal and airway muscles",
+      "label": "17"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-127",
+      "path": [
+        "17"
+      ],
+      "question": "Insertion",
+      "answer": "Muscular process of arytenoid cartilage.",
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "Muscles",
+        "GS5"
+      ],
+      "sourceLine": 127,
+      "section": "Laryngeal and airway muscles",
+      "label": "17"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-128",
+      "path": [
+        "17"
+      ],
+      "question": "Clinical relevance",
+      "answer": "Only muscle that abducts the vocal folds; bilateral paralysis can critically obstruct the airway.",
+      "tags": [
+        "Clinical",
+        "Muscle",
+        "Muscles",
+        "GS5"
+      ],
+      "sourceLine": 128,
+      "section": "Laryngeal and airway muscles",
+      "label": "17"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-131",
+      "path": [
+        "18"
+      ],
+      "question": "Identification",
+      "answer": "Transverse arytenoid muscle",
+      "tags": [
+        "Identification",
+        "Muscle",
+        "Muscles",
+        "GS5"
+      ],
+      "sourceLine": 131,
+      "section": "Laryngeal and airway muscles",
+      "label": "18"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-132",
+      "path": [
+        "18"
+      ],
+      "question": "Actions",
+      "answer": "Adducts arytenoid cartilages and closes the posterior rima glottidis.",
+      "tags": [
+        "Action",
+        "Muscle",
+        "Muscles",
+        "GS5"
+      ],
+      "sourceLine": 132,
+      "section": "Laryngeal and airway muscles",
+      "label": "18"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-133",
+      "path": [
+        "18"
+      ],
+      "question": "Innervation",
+      "answer": "Recurrent laryngeal nerve (CN X).",
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "Muscles",
+        "GS5"
+      ],
+      "sourceLine": 133,
+      "section": "Laryngeal and airway muscles",
+      "label": "18"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-134",
+      "path": [
+        "18"
+      ],
+      "question": "Origin",
+      "answer": "Posterior surface of one arytenoid cartilage.",
+      "tags": [
+        "Origin",
+        "Muscle",
+        "Muscles",
+        "GS5"
+      ],
+      "sourceLine": 134,
+      "section": "Laryngeal and airway muscles",
+      "label": "18"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-135",
+      "path": [
+        "18"
+      ],
+      "question": "Insertion",
+      "answer": "Posterior surface of the opposite arytenoid cartilage.",
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "Muscles",
+        "GS5"
+      ],
+      "sourceLine": 135,
+      "section": "Laryngeal and airway muscles",
+      "label": "18"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-138",
+      "path": [
+        "19"
+      ],
+      "question": "Identification",
+      "answer": "Oblique arytenoid muscle",
+      "tags": [
+        "Identification",
+        "Muscle",
+        "Muscles",
+        "GS5"
+      ],
+      "sourceLine": 138,
+      "section": "Laryngeal and airway muscles",
+      "label": "19"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-139",
+      "path": [
+        "19"
+      ],
+      "question": "Actions",
+      "answer": "Adducts arytenoid cartilages and helps close the laryngeal inlet.",
+      "tags": [
+        "Action",
+        "Muscle",
+        "Muscles",
+        "GS5"
+      ],
+      "sourceLine": 139,
+      "section": "Laryngeal and airway muscles",
+      "label": "19"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-140",
+      "path": [
+        "19"
+      ],
+      "question": "Innervation",
+      "answer": "Recurrent laryngeal nerve (CN X).",
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "Muscles",
+        "GS5"
+      ],
+      "sourceLine": 140,
+      "section": "Laryngeal and airway muscles",
+      "label": "19"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-141",
+      "path": [
+        "19"
+      ],
+      "question": "Origin",
+      "answer": "Muscular process of one arytenoid cartilage.",
+      "tags": [
+        "Origin",
+        "Muscle",
+        "Muscles",
+        "GS5"
+      ],
+      "sourceLine": 141,
+      "section": "Laryngeal and airway muscles",
+      "label": "19"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-142",
+      "path": [
+        "19"
+      ],
+      "question": "Insertion",
+      "answer": "Apex of the opposite arytenoid; continues into aryepiglottic fibres.",
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "Muscles",
+        "GS5"
+      ],
+      "sourceLine": 142,
+      "section": "Laryngeal and airway muscles",
+      "label": "19"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-145",
+      "path": [
+        "20"
+      ],
+      "question": "Identification",
+      "answer": "Lateral cricoarytenoid muscle",
+      "tags": [
+        "Identification",
+        "Muscle",
+        "Muscles",
+        "GS5"
+      ],
+      "sourceLine": 145,
+      "section": "Laryngeal and airway muscles",
+      "label": "20"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-146",
+      "path": [
+        "20"
+      ],
+      "question": "Actions",
+      "answer": "Adducts the vocal folds by medially rotating the arytenoid cartilages.",
+      "tags": [
+        "Action",
+        "Muscle",
+        "Muscles",
+        "GS5"
+      ],
+      "sourceLine": 146,
+      "section": "Laryngeal and airway muscles",
+      "label": "20"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-147",
+      "path": [
+        "20"
+      ],
+      "question": "Innervation",
+      "answer": "Recurrent laryngeal nerve (CN X).",
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "Muscles",
+        "GS5"
+      ],
+      "sourceLine": 147,
+      "section": "Laryngeal and airway muscles",
+      "label": "20"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-148",
+      "path": [
+        "20"
+      ],
+      "question": "Origin",
+      "answer": "Upper border of lateral cricoid arch.",
+      "tags": [
+        "Origin",
+        "Muscle",
+        "Muscles",
+        "GS5"
+      ],
+      "sourceLine": 148,
+      "section": "Laryngeal and airway muscles",
+      "label": "20"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-149",
+      "path": [
+        "20"
+      ],
+      "question": "Insertion",
+      "answer": "Muscular process of arytenoid cartilage.",
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "Muscles",
+        "GS5"
+      ],
+      "sourceLine": 149,
+      "section": "Laryngeal and airway muscles",
+      "label": "20"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-152",
+      "path": [
+        "21"
+      ],
+      "question": "Identification",
+      "answer": "Aryepiglottic muscle",
+      "tags": [
+        "Identification",
+        "Muscle",
+        "Muscles",
+        "GS5"
+      ],
+      "sourceLine": 152,
+      "section": "Laryngeal and airway muscles",
+      "label": "21"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-153",
+      "path": [
+        "21"
+      ],
+      "question": "Actions",
+      "answer": "Narrows the laryngeal inlet by drawing the aryepiglottic folds together.",
+      "tags": [
+        "Action",
+        "Muscle",
+        "Muscles",
+        "GS5"
+      ],
+      "sourceLine": 153,
+      "section": "Laryngeal and airway muscles",
+      "label": "21"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-154",
+      "path": [
+        "21"
+      ],
+      "question": "Innervation",
+      "answer": "Recurrent laryngeal nerve via inferior laryngeal nerve (CN X).",
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "Muscles",
+        "GS5"
+      ],
+      "sourceLine": 154,
+      "section": "Laryngeal and airway muscles",
+      "label": "21"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-155",
+      "path": [
+        "21"
+      ],
+      "question": "Origin",
+      "answer": "Continuation of oblique arytenoid fibres.",
+      "tags": [
+        "Origin",
+        "Muscle",
+        "Muscles",
+        "GS5"
+      ],
+      "sourceLine": 155,
+      "section": "Laryngeal and airway muscles",
+      "label": "21"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-156",
+      "path": [
+        "21"
+      ],
+      "question": "Insertion",
+      "answer": "Lateral margin of epiglottis and aryepiglottic fold.",
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "Muscles",
+        "GS5"
+      ],
+      "sourceLine": 156,
+      "section": "Laryngeal and airway muscles",
+      "label": "21"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-159",
+      "path": [
+        "22"
+      ],
+      "question": "Identification",
+      "answer": "Thyroarytenoid muscle",
+      "tags": [
+        "Identification",
+        "Muscle",
+        "Muscles",
+        "GS5"
+      ],
+      "sourceLine": 159,
+      "section": "Laryngeal and airway muscles",
+      "label": "22"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-160",
+      "path": [
+        "22"
+      ],
+      "question": "Actions",
+      "answer": "Relaxes and shortens the vocal folds and assists adduction.",
+      "tags": [
+        "Action",
+        "Muscle",
+        "Muscles",
+        "GS5"
+      ],
+      "sourceLine": 160,
+      "section": "Laryngeal and airway muscles",
+      "label": "22"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-161",
+      "path": [
+        "22"
+      ],
+      "question": "Innervation",
+      "answer": "Recurrent laryngeal nerve (CN X).",
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "Muscles",
+        "GS5"
+      ],
+      "sourceLine": 161,
+      "section": "Laryngeal and airway muscles",
+      "label": "22"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-162",
+      "path": [
+        "22"
+      ],
+      "question": "Origin",
+      "answer": "Inner surface of thyroid cartilage near the angle.",
+      "tags": [
+        "Origin",
+        "Muscle",
+        "Muscles",
+        "GS5"
+      ],
+      "sourceLine": 162,
+      "section": "Laryngeal and airway muscles",
+      "label": "22"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-163",
+      "path": [
+        "22"
+      ],
+      "question": "Insertion",
+      "answer": "Anterolateral surface and vocal process of arytenoid cartilage.",
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "Muscles",
+        "GS5"
+      ],
+      "sourceLine": 163,
+      "section": "Laryngeal and airway muscles",
+      "label": "22"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-165",
+      "path": [
+        "22",
+        "a"
+      ],
+      "question": "Identification",
+      "answer": "Deep part of thyroarytenoid muscle",
+      "tags": [
+        "Identification",
+        "MusclePart",
+        "Muscles",
+        "GS5"
+      ],
+      "sourceLine": 165,
+      "section": "Laryngeal and airway muscles",
+      "label": "22a"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-166",
+      "path": [
+        "22",
+        "a"
+      ],
+      "question": "Function",
+      "answer": "Medial fibres contribute to fine adjustment of vocal-fold tension and are closely related to vocalis.",
+      "tags": [
+        "Function",
+        "MusclePart",
+        "Muscles",
+        "GS5"
+      ],
+      "sourceLine": 166,
+      "section": "Laryngeal and airway muscles",
+      "label": "22a"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-168",
+      "path": [
+        "22",
+        "b"
+      ],
+      "question": "Identification",
+      "answer": "External part of thyroarytenoid muscle",
+      "tags": [
+        "Identification",
+        "MusclePart",
+        "Muscles",
+        "GS5"
+      ],
+      "sourceLine": 168,
+      "section": "Laryngeal and airway muscles",
+      "label": "22b"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-169",
+      "path": [
+        "22",
+        "b"
+      ],
+      "question": "Function",
+      "answer": "Lateral fibres help shorten and relax the vocal folds and contribute to laryngeal closure.",
+      "tags": [
+        "Function",
+        "MusclePart",
+        "Muscles",
+        "GS5"
+      ],
+      "sourceLine": 169,
+      "section": "Laryngeal and airway muscles",
+      "label": "22b"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-172",
+      "path": [
+        "23"
+      ],
+      "question": "Identification",
+      "answer": "Thyroepiglottic muscle",
+      "tags": [
+        "Identification",
+        "Muscle",
+        "Muscles",
+        "GS5"
+      ],
+      "sourceLine": 172,
+      "section": "Laryngeal and airway muscles",
+      "label": "23"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-173",
+      "path": [
+        "23"
+      ],
+      "question": "Actions",
+      "answer": "Widens the laryngeal inlet by drawing the epiglottis laterally.",
+      "tags": [
+        "Action",
+        "Muscle",
+        "Muscles",
+        "GS5"
+      ],
+      "sourceLine": 173,
+      "section": "Laryngeal and airway muscles",
+      "label": "23"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-174",
+      "path": [
+        "23"
+      ],
+      "question": "Innervation",
+      "answer": "Recurrent laryngeal nerve via inferior laryngeal nerve (CN X).",
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "Muscles",
+        "GS5"
+      ],
+      "sourceLine": 174,
+      "section": "Laryngeal and airway muscles",
+      "label": "23"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-175",
+      "path": [
+        "23"
+      ],
+      "question": "Origin",
+      "answer": "Continuation of thyroarytenoid fibres.",
+      "tags": [
+        "Origin",
+        "Muscle",
+        "Muscles",
+        "GS5"
+      ],
+      "sourceLine": 175,
+      "section": "Laryngeal and airway muscles",
+      "label": "23"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-176",
+      "path": [
+        "23"
+      ],
+      "question": "Insertion",
+      "answer": "Lateral margin of epiglottis and aryepiglottic fold.",
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "Muscles",
+        "GS5"
+      ],
+      "sourceLine": 176,
+      "section": "Laryngeal and airway muscles",
+      "label": "23"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-179",
+      "path": [
+        "37"
+      ],
+      "question": "Identification",
+      "answer": "Stylopharyngeus muscle",
+      "tags": [
+        "Identification",
+        "Muscle",
+        "Muscles",
+        "GS5"
+      ],
+      "sourceLine": 179,
+      "section": "Laryngeal and airway muscles",
+      "label": "37"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-180",
+      "path": [
+        "37"
+      ],
+      "question": "Actions",
+      "answer": "Elevates the pharynx and larynx during swallowing and speech.",
+      "tags": [
+        "Action",
+        "Muscle",
+        "Muscles",
+        "GS5"
+      ],
+      "sourceLine": 180,
+      "section": "Laryngeal and airway muscles",
+      "label": "37"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-181",
+      "path": [
+        "37"
+      ],
+      "question": "Innervation",
+      "answer": "Glossopharyngeal nerve (CN IX).",
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "Muscles",
+        "GS5"
+      ],
+      "sourceLine": 181,
+      "section": "Laryngeal and airway muscles",
+      "label": "37"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-182",
+      "path": [
+        "37"
+      ],
+      "question": "Origin",
+      "answer": "Styloid process.",
+      "tags": [
+        "Origin",
+        "Muscle",
+        "Muscles",
+        "GS5"
+      ],
+      "sourceLine": 182,
+      "section": "Laryngeal and airway muscles",
+      "label": "37"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-183",
+      "path": [
+        "37"
+      ],
+      "question": "Insertion",
+      "answer": "Pharyngeal wall and posterior border of thyroid cartilage.",
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "Muscles",
+        "GS5"
+      ],
+      "sourceLine": 183,
+      "section": "Laryngeal and airway muscles",
+      "label": "37"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-186",
+      "path": [
+        "40"
+      ],
+      "question": "Identification",
+      "answer": "Vocalis muscle (medial part of thyroarytenoid muscle)",
+      "tags": [
+        "Identification",
+        "Muscle",
+        "Muscles",
+        "GS5"
+      ],
+      "sourceLine": 186,
+      "section": "Laryngeal and airway muscles",
+      "label": "40"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-187",
+      "path": [
+        "40"
+      ],
+      "question": "Actions",
+      "answer": "Fine-tunes vocal-fold tension by selectively tensing or relaxing portions of the vocal ligament.",
+      "tags": [
+        "Action",
+        "Muscle",
+        "Muscles",
+        "GS5"
+      ],
+      "sourceLine": 187,
+      "section": "Laryngeal and airway muscles",
+      "label": "40"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-188",
+      "path": [
+        "40"
+      ],
+      "question": "Innervation",
+      "answer": "Recurrent laryngeal nerve (CN X).",
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "Muscles",
+        "GS5"
+      ],
+      "sourceLine": 188,
+      "section": "Laryngeal and airway muscles",
+      "label": "40"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-189",
+      "path": [
+        "40"
+      ],
+      "question": "Origin",
+      "answer": "Inner thyroid angle/anterior vocal-ligament region.",
+      "tags": [
+        "Origin",
+        "Muscle",
+        "Muscles",
+        "GS5"
+      ],
+      "sourceLine": 189,
+      "section": "Laryngeal and airway muscles",
+      "label": "40"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-190",
+      "path": [
+        "40"
+      ],
+      "question": "Insertion",
+      "answer": "Vocal process and adjacent arytenoid cartilage.",
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "Muscles",
+        "GS5"
+      ],
+      "sourceLine": 190,
+      "section": "Laryngeal and airway muscles",
+      "label": "40"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-195",
+      "path": [
+        "24"
+      ],
+      "question": "Identification",
+      "answer": "Superior thyroid artery",
+      "tags": [
+        "Identification",
+        "Artery",
+        "ArteriesAndNerves",
+        "GS5"
+      ],
+      "sourceLine": 195,
+      "section": "Arteries and nerves",
+      "label": "24"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-196",
+      "path": [
+        "24"
+      ],
+      "question": "Origin",
+      "answer": "Usually the first anterior branch of the external carotid artery.",
+      "tags": [
+        "Origin",
+        "Artery",
+        "ArteriesAndNerves",
+        "GS5"
+      ],
+      "sourceLine": 196,
+      "section": "Arteries and nerves",
+      "label": "24"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-197",
+      "path": [
+        "24"
+      ],
+      "question": "Course",
+      "answer": "Descends toward the superior pole of the thyroid gland.",
+      "tags": [
+        "Course",
+        "Artery",
+        "ArteriesAndNerves",
+        "GS5"
+      ],
+      "sourceLine": 197,
+      "section": "Arteries and nerves",
+      "label": "24"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-198",
+      "path": [
+        "24"
+      ],
+      "question": "Branches",
+      "answer": "Gives the superior laryngeal artery among other branches.",
+      "tags": [
+        "Branches",
+        "Artery",
+        "ArteriesAndNerves",
+        "GS5"
+      ],
+      "sourceLine": 198,
+      "section": "Arteries and nerves",
+      "label": "24"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-199",
+      "path": [
+        "24"
+      ],
+      "question": "Supply",
+      "answer": "Upper thyroid gland and nearby laryngeal and infrahyoid structures.",
+      "tags": [
+        "Supply",
+        "Artery",
+        "ArteriesAndNerves",
+        "GS5"
+      ],
+      "sourceLine": 199,
+      "section": "Arteries and nerves",
+      "label": "24"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-202",
+      "path": [
+        "25"
+      ],
+      "question": "Identification",
+      "answer": "Superior laryngeal artery",
+      "tags": [
+        "Identification",
+        "Artery",
+        "ArteriesAndNerves",
+        "GS5"
+      ],
+      "sourceLine": 202,
+      "section": "Arteries and nerves",
+      "label": "25"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-203",
+      "path": [
+        "25"
+      ],
+      "question": "Origin",
+      "answer": "Usually a branch of the superior thyroid artery.",
+      "tags": [
+        "Origin",
+        "Artery",
+        "ArteriesAndNerves",
+        "GS5"
+      ],
+      "sourceLine": 203,
+      "section": "Arteries and nerves",
+      "label": "25"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-204",
+      "path": [
+        "25"
+      ],
+      "question": "Course",
+      "answer": "Pierces the thyrohyoid membrane with the internal laryngeal nerve.",
+      "tags": [
+        "Course",
+        "Artery",
+        "ArteriesAndNerves",
+        "GS5"
+      ],
+      "sourceLine": 204,
+      "section": "Arteries and nerves",
+      "label": "25"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-205",
+      "path": [
+        "25"
+      ],
+      "question": "Supply",
+      "answer": "Supplies the upper laryngeal mucosa and structures.",
+      "tags": [
+        "Supply",
+        "Artery",
+        "ArteriesAndNerves",
+        "GS5"
+      ],
+      "sourceLine": 205,
+      "section": "Arteries and nerves",
+      "label": "25"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-208",
+      "path": [
+        "26"
+      ],
+      "question": "Identification",
+      "answer": "Superior laryngeal nerve",
+      "tags": [
+        "Identification",
+        "Nerve",
+        "ArteriesAndNerves",
+        "GS5"
+      ],
+      "sourceLine": 208,
+      "section": "Arteries and nerves",
+      "label": "26"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-209",
+      "path": [
+        "26"
+      ],
+      "question": "Roots",
+      "answer": "Branch of the vagus nerve (CN X).",
+      "tags": [
+        "Roots",
+        "Nerve",
+        "ArteriesAndNerves",
+        "GS5"
+      ],
+      "sourceLine": 209,
+      "section": "Arteries and nerves",
+      "label": "26"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-210",
+      "path": [
+        "26"
+      ],
+      "question": "Course",
+      "answer": "Descends from the vagus and divides into internal and external branches near the hyoid/larynx.",
+      "tags": [
+        "Course",
+        "Nerve",
+        "ArteriesAndNerves",
+        "GS5"
+      ],
+      "sourceLine": 210,
+      "section": "Arteries and nerves",
+      "label": "26"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-211",
+      "path": [
+        "26"
+      ],
+      "question": "Motor functions",
+      "answer": "External branch supplies cricothyroid and contributes to inferior pharyngeal constrictor innervation.",
+      "tags": [
+        "Motor",
+        "Nerve",
+        "ArteriesAndNerves",
+        "GS5"
+      ],
+      "sourceLine": 211,
+      "section": "Arteries and nerves",
+      "label": "26"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-212",
+      "path": [
+        "26"
+      ],
+      "question": "Sensory functions",
+      "answer": "Internal branch provides sensation above the vocal folds and forms an important afferent limb of the cough reflex.",
+      "tags": [
+        "Sensory",
+        "Nerve",
+        "ArteriesAndNerves",
+        "GS5"
+      ],
+      "sourceLine": 212,
+      "section": "Arteries and nerves",
+      "label": "26"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-213",
+      "path": [
+        "26"
+      ],
+      "question": "Lesion",
+      "answer": "External branch injury causes reduced ability to produce high-pitched sounds and voice fatigue; internal branch injury reduces supraglottic sensation and the cough reflex, increasing aspiration risk.",
+      "tags": [
+        "Lesion",
+        "Nerve",
+        "ArteriesAndNerves",
+        "GS5"
+      ],
+      "sourceLine": 213,
+      "section": "Arteries and nerves",
+      "label": "26"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-216",
+      "path": [
+        "27"
+      ],
+      "question": "Identification",
+      "answer": "Recurrent laryngeal nerve",
+      "tags": [
+        "Identification",
+        "Nerve",
+        "ArteriesAndNerves",
+        "GS5"
+      ],
+      "sourceLine": 216,
+      "section": "Arteries and nerves",
+      "label": "27"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-217",
+      "path": [
+        "27"
+      ],
+      "question": "Roots",
+      "answer": "Branch of the vagus nerve (CN X).",
+      "tags": [
+        "Roots",
+        "Nerve",
+        "ArteriesAndNerves",
+        "GS5"
+      ],
+      "sourceLine": 217,
+      "section": "Arteries and nerves",
+      "label": "27"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-218",
+      "path": [
+        "27"
+      ],
+      "question": "Course",
+      "answer": "Right loops under the subclavian artery; left loops under the aortic arch near the ligamentum arteriosum; both ascend in the tracheo-oesophageal groove and enter the larynx as inferior laryngeal nerves.",
+      "tags": [
+        "Course",
+        "Nerve",
+        "ArteriesAndNerves",
+        "GS5"
+      ],
+      "sourceLine": 218,
+      "section": "Arteries and nerves",
+      "label": "27"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-219",
+      "path": [
+        "27"
+      ],
+      "question": "Motor functions",
+      "answer": "Supplies all intrinsic laryngeal muscles except cricothyroid.",
+      "tags": [
+        "Motor",
+        "Nerve",
+        "ArteriesAndNerves",
+        "GS5"
+      ],
+      "sourceLine": 219,
+      "section": "Arteries and nerves",
+      "label": "27"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-220",
+      "path": [
+        "27"
+      ],
+      "question": "Sensory functions",
+      "answer": "Supplies laryngeal mucosa below the vocal folds.",
+      "tags": [
+        "Sensory",
+        "Nerve",
+        "ArteriesAndNerves",
+        "GS5"
+      ],
+      "sourceLine": 220,
+      "section": "Arteries and nerves",
+      "label": "27"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-221",
+      "path": [
+        "27"
+      ],
+      "question": "Lesion",
+      "answer": "Unilateral injury causes hoarseness from ipsilateral vocal-fold paralysis; bilateral injury can cause severe airway obstruction because both vocal folds may remain near the midline.",
+      "tags": [
+        "Lesion",
+        "Nerve",
+        "ArteriesAndNerves",
+        "GS5"
+      ],
+      "sourceLine": 221,
+      "section": "Arteries and nerves",
+      "label": "27"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-222",
+      "path": [
+        "27"
+      ],
+      "question": "Clinical relevance",
+      "answer": "At risk in thyroid surgery and mediastinal pathology; the left nerve may be affected by aortic arch enlargement.",
+      "tags": [
+        "Clinical",
+        "Nerve",
+        "ArteriesAndNerves",
+        "GS5"
+      ],
+      "sourceLine": 222,
+      "section": "Arteries and nerves",
+      "label": "27"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-227",
+      "path": [
+        "28"
+      ],
+      "question": "Identification",
+      "answer": "Epiglottic cartilage",
+      "tags": [
+        "Identification",
+        "Cartilage",
+        "InternalLarynx",
+        "GS5"
+      ],
+      "sourceLine": 227,
+      "section": "Internal laryngeal structures and mucosa",
+      "label": "28"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-228",
+      "path": [
+        "28"
+      ],
+      "question": "Structure",
+      "answer": "Leaf-shaped elastic cartilage forming the structural core of the epiglottis.",
+      "tags": [
+        "Structure",
+        "Cartilage",
+        "InternalLarynx",
+        "GS5"
+      ],
+      "sourceLine": 228,
+      "section": "Internal laryngeal structures and mucosa",
+      "label": "28"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-229",
+      "path": [
+        "28"
+      ],
+      "question": "Function",
+      "answer": "Helps protect the laryngeal inlet during swallowing.",
+      "tags": [
+        "Function",
+        "Cartilage",
+        "InternalLarynx",
+        "GS5"
+      ],
+      "sourceLine": 229,
+      "section": "Internal laryngeal structures and mucosa",
+      "label": "28"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-230",
+      "path": [
+        "28"
+      ],
+      "question": "Attachments",
+      "answer": "Connected to thyroid cartilage by the thyroepiglottic ligament and to hyoid by the hyoepiglottic ligament.",
+      "tags": [
+        "Attachments",
+        "Cartilage",
+        "InternalLarynx",
+        "GS5"
+      ],
+      "sourceLine": 230,
+      "section": "Internal laryngeal structures and mucosa",
+      "label": "28"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-233",
+      "path": [
+        "29"
+      ],
+      "question": "Identification",
+      "answer": "Hyoepiglottic ligament",
+      "tags": [
+        "Identification",
+        "Ligament",
+        "InternalLarynx",
+        "GS5"
+      ],
+      "sourceLine": 233,
+      "section": "Internal laryngeal structures and mucosa",
+      "label": "29"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-234",
+      "path": [
+        "29"
+      ],
+      "question": "Attachments",
+      "answer": "Connects the anterior surface of the epiglottis to the body of the hyoid.",
+      "tags": [
+        "Attachments",
+        "Ligament",
+        "InternalLarynx",
+        "GS5"
+      ],
+      "sourceLine": 234,
+      "section": "Internal laryngeal structures and mucosa",
+      "label": "29"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-235",
+      "path": [
+        "29"
+      ],
+      "question": "Function",
+      "answer": "Helps anchor the epiglottis to the hyoid.",
+      "tags": [
+        "Function",
+        "Ligament",
+        "InternalLarynx",
+        "GS5"
+      ],
+      "sourceLine": 235,
+      "section": "Internal laryngeal structures and mucosa",
+      "label": "29"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-238",
+      "path": [
+        "30"
+      ],
+      "question": "Identification",
+      "answer": "Thyroepiglottic ligament",
+      "tags": [
+        "Identification",
+        "Ligament",
+        "InternalLarynx",
+        "GS5"
+      ],
+      "sourceLine": 238,
+      "section": "Internal laryngeal structures and mucosa",
+      "label": "30"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-239",
+      "path": [
+        "30"
+      ],
+      "question": "Attachments",
+      "answer": "Connects the petiole of the epiglottis to the inner surface of the thyroid cartilage.",
+      "tags": [
+        "Attachments",
+        "Ligament",
+        "InternalLarynx",
+        "GS5"
+      ],
+      "sourceLine": 239,
+      "section": "Internal laryngeal structures and mucosa",
+      "label": "30"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-240",
+      "path": [
+        "30"
+      ],
+      "question": "Function",
+      "answer": "Anchors the epiglottis inferiorly within the laryngeal framework.",
+      "tags": [
+        "Function",
+        "Ligament",
+        "InternalLarynx",
+        "GS5"
+      ],
+      "sourceLine": 240,
+      "section": "Internal laryngeal structures and mucosa",
+      "label": "30"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-243",
+      "path": [
+        "31"
+      ],
+      "question": "Identification",
+      "answer": "Ventricle of the larynx",
+      "tags": [
+        "Identification",
+        "Space",
+        "InternalLarynx",
+        "GS5"
+      ],
+      "sourceLine": 243,
+      "section": "Internal laryngeal structures and mucosa",
+      "label": "31"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-244",
+      "path": [
+        "31"
+      ],
+      "question": "Location",
+      "answer": "Recess between the vestibular fold superiorly and vocal fold inferiorly.",
+      "tags": [
+        "Location",
+        "Space",
+        "InternalLarynx",
+        "GS5"
+      ],
+      "sourceLine": 244,
+      "section": "Internal laryngeal structures and mucosa",
+      "label": "31"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-245",
+      "path": [
+        "31"
+      ],
+      "question": "Function",
+      "answer": "Permits independent movement of the folds and communicates with the laryngeal saccule.",
+      "tags": [
+        "Function",
+        "Space",
+        "InternalLarynx",
+        "GS5"
+      ],
+      "sourceLine": 245,
+      "section": "Internal laryngeal structures and mucosa",
+      "label": "31"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-248",
+      "path": [
+        "32"
+      ],
+      "question": "Identification",
+      "answer": "Vestibular fold (false vocal cord)",
+      "tags": [
+        "Identification",
+        "LaryngealFold",
+        "InternalLarynx",
+        "GS5"
+      ],
+      "sourceLine": 248,
+      "section": "Internal laryngeal structures and mucosa",
+      "label": "32"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-249",
+      "path": [
+        "32"
+      ],
+      "question": "Structure",
+      "answer": "Mucosal fold containing the vestibular ligament.",
+      "tags": [
+        "Structure",
+        "LaryngealFold",
+        "InternalLarynx",
+        "GS5"
+      ],
+      "sourceLine": 249,
+      "section": "Internal laryngeal structures and mucosa",
+      "label": "32"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-250",
+      "path": [
+        "32"
+      ],
+      "question": "Function",
+      "answer": "Helps protect the airway and contributes to laryngeal closure.",
+      "tags": [
+        "Function",
+        "LaryngealFold",
+        "InternalLarynx",
+        "GS5"
+      ],
+      "sourceLine": 250,
+      "section": "Internal laryngeal structures and mucosa",
+      "label": "32"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-251",
+      "path": [
+        "32"
+      ],
+      "question": "Relations",
+      "answer": "Lies superior to the true vocal fold.",
+      "tags": [
+        "Relations",
+        "LaryngealFold",
+        "InternalLarynx",
+        "GS5"
+      ],
+      "sourceLine": 251,
+      "section": "Internal laryngeal structures and mucosa",
+      "label": "32"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-254",
+      "path": [
+        "33"
+      ],
+      "question": "Identification",
+      "answer": "Vocal fold (true vocal cord)",
+      "tags": [
+        "Identification",
+        "LaryngealFold",
+        "InternalLarynx",
+        "GS5"
+      ],
+      "sourceLine": 254,
+      "section": "Internal laryngeal structures and mucosa",
+      "label": "33"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-255",
+      "path": [
+        "33"
+      ],
+      "question": "Structure",
+      "answer": "Contains the vocal ligament and vocalis muscle, covered by mucosa.",
+      "tags": [
+        "Structure",
+        "LaryngealFold",
+        "InternalLarynx",
+        "GS5"
+      ],
+      "sourceLine": 255,
+      "section": "Internal laryngeal structures and mucosa",
+      "label": "33"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-256",
+      "path": [
+        "33"
+      ],
+      "question": "Function",
+      "answer": "Vibrates during phonation and closes the glottis for airway protection.",
+      "tags": [
+        "Function",
+        "LaryngealFold",
+        "InternalLarynx",
+        "GS5"
+      ],
+      "sourceLine": 256,
+      "section": "Internal laryngeal structures and mucosa",
+      "label": "33"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-257",
+      "path": [
+        "33"
+      ],
+      "question": "Innervation",
+      "answer": "Motor control via recurrent laryngeal nerve except cricothyroid tensioning via external superior laryngeal nerve.",
+      "tags": [
+        "Innervation",
+        "LaryngealFold",
+        "InternalLarynx",
+        "GS5"
+      ],
+      "sourceLine": 257,
+      "section": "Internal laryngeal structures and mucosa",
+      "label": "33"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-258",
+      "path": [
+        "33"
+      ],
+      "question": "Clinical relevance",
+      "answer": "Impaired mobility causes dysphonia; bilateral dysfunction can threaten the airway.",
+      "tags": [
+        "Clinical",
+        "LaryngealFold",
+        "InternalLarynx",
+        "GS5"
+      ],
+      "sourceLine": 258,
+      "section": "Internal laryngeal structures and mucosa",
+      "label": "33"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-261",
+      "path": [
+        "34"
+      ],
+      "question": "Identification",
+      "answer": "Mucous membrane of the trachea",
+      "tags": [
+        "Identification",
+        "Mucosa",
+        "InternalLarynx",
+        "GS5"
+      ],
+      "sourceLine": 261,
+      "section": "Internal laryngeal structures and mucosa",
+      "label": "34"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-262",
+      "path": [
+        "34"
+      ],
+      "question": "Structure",
+      "answer": "Respiratory mucosa lined mainly by pseudostratified ciliated columnar epithelium with goblet cells.",
+      "tags": [
+        "Structure",
+        "Mucosa",
+        "InternalLarynx",
+        "GS5"
+      ],
+      "sourceLine": 262,
+      "section": "Internal laryngeal structures and mucosa",
+      "label": "34"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-263",
+      "path": [
+        "34"
+      ],
+      "question": "Function",
+      "answer": "Warms, humidifies and clears inhaled particles via the mucociliary escalator.",
+      "tags": [
+        "Function",
+        "Mucosa",
+        "InternalLarynx",
+        "GS5"
+      ],
+      "sourceLine": 263,
+      "section": "Internal laryngeal structures and mucosa",
+      "label": "34"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-266",
+      "path": [
+        "35"
+      ],
+      "question": "Identification",
+      "answer": "Epiglottic vallecula",
+      "tags": [
+        "Identification",
+        "Space",
+        "InternalLarynx",
+        "GS5"
+      ],
+      "sourceLine": 266,
+      "section": "Internal laryngeal structures and mucosa",
+      "label": "35"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-267",
+      "path": [
+        "35"
+      ],
+      "question": "Location",
+      "answer": "Depression between the base of the tongue and epiglottis.",
+      "tags": [
+        "Location",
+        "Space",
+        "InternalLarynx",
+        "GS5"
+      ],
+      "sourceLine": 267,
+      "section": "Internal laryngeal structures and mucosa",
+      "label": "35"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-268",
+      "path": [
+        "35"
+      ],
+      "question": "Clinical relevance",
+      "answer": "Important landmark during direct laryngoscopy; the tip of a Macintosh blade is commonly placed here.",
+      "tags": [
+        "Clinical",
+        "Space",
+        "InternalLarynx",
+        "GS5"
+      ],
+      "sourceLine": 268,
+      "section": "Internal laryngeal structures and mucosa",
+      "label": "35"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-271",
+      "path": [
+        "36"
+      ],
+      "question": "Identification",
+      "answer": "Piriform recess",
+      "tags": [
+        "Identification",
+        "Space",
+        "InternalLarynx",
+        "GS5"
+      ],
+      "sourceLine": 271,
+      "section": "Internal laryngeal structures and mucosa",
+      "label": "36"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-272",
+      "path": [
+        "36"
+      ],
+      "question": "Location",
+      "answer": "Mucosal recess of the laryngopharynx lateral to the laryngeal inlet.",
+      "tags": [
+        "Location",
+        "Space",
+        "InternalLarynx",
+        "GS5"
+      ],
+      "sourceLine": 272,
+      "section": "Internal laryngeal structures and mucosa",
+      "label": "36"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-273",
+      "path": [
+        "36"
+      ],
+      "question": "Relations",
+      "answer": "The internal laryngeal nerve lies deep to the mucosa in this region.",
+      "tags": [
+        "Relations",
+        "Space",
+        "InternalLarynx",
+        "GS5"
+      ],
+      "sourceLine": 273,
+      "section": "Internal laryngeal structures and mucosa",
+      "label": "36"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-274",
+      "path": [
+        "36"
+      ],
+      "question": "Clinical relevance",
+      "answer": "Foreign bodies may lodge here and can damage the internal laryngeal nerve.",
+      "tags": [
+        "Clinical",
+        "Space",
+        "InternalLarynx",
+        "GS5"
+      ],
+      "sourceLine": 274,
+      "section": "Internal laryngeal structures and mucosa",
+      "label": "36"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-277",
+      "path": [
+        "38"
+      ],
+      "question": "Identification",
+      "answer": "Pharyngoepiglottic fold",
+      "tags": [
+        "Identification",
+        "MucosalFold",
+        "InternalLarynx",
+        "GS5"
+      ],
+      "sourceLine": 277,
+      "section": "Internal laryngeal structures and mucosa",
+      "label": "38"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-278",
+      "path": [
+        "38"
+      ],
+      "question": "Structure",
+      "answer": "Mucosal fold extending from the lateral epiglottis toward the pharyngeal wall.",
+      "tags": [
+        "Structure",
+        "MucosalFold",
+        "InternalLarynx",
+        "GS5"
+      ],
+      "sourceLine": 278,
+      "section": "Internal laryngeal structures and mucosa",
+      "label": "38"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-279",
+      "path": [
+        "38"
+      ],
+      "question": "Function",
+      "answer": "Contributes to the boundary of the laryngeal inlet and channels swallowed material laterally.",
+      "tags": [
+        "Function",
+        "MucosalFold",
+        "InternalLarynx",
+        "GS5"
+      ],
+      "sourceLine": 279,
+      "section": "Internal laryngeal structures and mucosa",
+      "label": "38"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-282",
+      "path": [
+        "39"
+      ],
+      "question": "Identification",
+      "answer": "Aryepiglottic fold",
+      "tags": [
+        "Identification",
+        "MucosalFold",
+        "InternalLarynx",
+        "GS5"
+      ],
+      "sourceLine": 282,
+      "section": "Internal laryngeal structures and mucosa",
+      "label": "39"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-283",
+      "path": [
+        "39"
+      ],
+      "question": "Structure",
+      "answer": "Mucosal fold extending from arytenoid cartilage to lateral epiglottis and containing aryepiglottic muscle and small cartilages.",
+      "tags": [
+        "Structure",
+        "MucosalFold",
+        "InternalLarynx",
+        "GS5"
+      ],
+      "sourceLine": 283,
+      "section": "Internal laryngeal structures and mucosa",
+      "label": "39"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-284",
+      "path": [
+        "39"
+      ],
+      "question": "Function",
+      "answer": "Forms the lateral margin of the laryngeal inlet and helps close it during swallowing.",
+      "tags": [
+        "Function",
+        "MucosalFold",
+        "InternalLarynx",
+        "GS5"
+      ],
+      "sourceLine": 284,
+      "section": "Internal laryngeal structures and mucosa",
+      "label": "39"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-289",
+      "path": [
+        "A"
+      ],
+      "question": "Identification",
+      "answer": "Right main bronchus",
+      "tags": [
+        "Identification",
+        "Bronchus",
+        "Bronchi",
+        "GS5"
+      ],
+      "sourceLine": 289,
+      "section": "Main bronchi",
+      "label": "A"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-290",
+      "path": [
+        "A"
+      ],
+      "question": "Course",
+      "answer": "Passes from the tracheal bifurcation toward the right lung; shorter, wider and more vertical than the left main bronchus.",
+      "tags": [
+        "Course",
+        "Bronchus",
+        "Bronchi",
+        "GS5"
+      ],
+      "sourceLine": 290,
+      "section": "Main bronchi",
+      "label": "A"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-291",
+      "path": [
+        "A"
+      ],
+      "question": "Branches",
+      "answer": "Divides into right lobar bronchi; the superior lobar bronchus is eparterial.",
+      "tags": [
+        "Branches",
+        "Bronchus",
+        "Bronchi",
+        "GS5"
+      ],
+      "sourceLine": 291,
+      "section": "Main bronchi",
+      "label": "A"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-292",
+      "path": [
+        "A"
+      ],
+      "question": "Clinical relevance",
+      "answer": "Aspirated foreign bodies are more likely to enter the right main bronchus because of its more vertical course.",
+      "tags": [
+        "Clinical",
+        "Bronchus",
+        "Bronchi",
+        "GS5"
+      ],
+      "sourceLine": 292,
+      "section": "Main bronchi",
+      "label": "A"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-295",
+      "path": [
+        "B"
+      ],
+      "question": "Identification",
+      "answer": "Left main bronchus",
+      "tags": [
+        "Identification",
+        "Bronchus",
+        "Bronchi",
+        "GS5"
+      ],
+      "sourceLine": 295,
+      "section": "Main bronchi",
+      "label": "B"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-296",
+      "path": [
+        "B"
+      ],
+      "question": "Course",
+      "answer": "Passes inferolaterally toward the left lung; longer, narrower and more oblique than the right main bronchus.",
+      "tags": [
+        "Course",
+        "Bronchus",
+        "Bronchi",
+        "GS5"
+      ],
+      "sourceLine": 296,
+      "section": "Main bronchi",
+      "label": "B"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-297",
+      "path": [
+        "B"
+      ],
+      "question": "Branches",
+      "answer": "Divides into superior and inferior lobar bronchi.",
+      "tags": [
+        "Branches",
+        "Bronchus",
+        "Bronchi",
+        "GS5"
+      ],
+      "sourceLine": 297,
+      "section": "Main bronchi",
+      "label": "B"
+    },
+    {
+      "id": "larynx-and-airway-model-gs5-298",
+      "path": [
+        "B"
+      ],
+      "question": "Relations",
+      "answer": "Passes inferior to the aortic arch and anterior to the oesophagus and descending aorta.",
+      "tags": [
+        "Relations",
+        "Bronchus",
+        "Bronchi",
+        "GS5"
+      ],
+      "sourceLine": 298,
+      "section": "Main bronchi",
+      "label": "B"
+    }
+  ]
+}

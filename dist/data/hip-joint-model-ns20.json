@@ -1,0 +1,1030 @@
+{
+  "id": "hip-joint-model-ns20",
+  "name": "Hip Joint (Model NS20)",
+  "cards": [
+    {
+      "id": "hip-joint-model-ns20-3",
+      "path": [
+        "1"
+      ],
+      "question": "Identification",
+      "answer": "Hip bone (os coxae)",
+      "tags": [
+        "Identification",
+        "Bone",
+        "Bones",
+        "NS20"
+      ],
+      "sourceLine": 3,
+      "section": "Bones and bony landmarks",
+      "label": "1"
+    },
+    {
+      "id": "hip-joint-model-ns20-4",
+      "path": [
+        "1"
+      ],
+      "question": "Components",
+      "answer": "Formed by the ilium, pubis and ischium, which fuse around the acetabulum.",
+      "tags": [
+        "Components",
+        "Bone",
+        "Bones",
+        "NS20"
+      ],
+      "sourceLine": 4,
+      "section": "Bones and bony landmarks",
+      "label": "1"
+    },
+    {
+      "id": "hip-joint-model-ns20-5",
+      "path": [
+        "1"
+      ],
+      "question": "Function",
+      "answer": "Transmits body weight from axial skeleton to lower limb and forms the acetabulum.",
+      "tags": [
+        "Function",
+        "Bone",
+        "Bones",
+        "NS20"
+      ],
+      "sourceLine": 5,
+      "section": "Bones and bony landmarks",
+      "label": "1"
+    },
+    {
+      "id": "hip-joint-model-ns20-7",
+      "path": [
+        "1",
+        "a"
+      ],
+      "question": "Identification",
+      "answer": "Ilium",
+      "tags": [
+        "Identification",
+        "Bone",
+        "Bones",
+        "NS20"
+      ],
+      "sourceLine": 7,
+      "section": "Bones and bony landmarks",
+      "label": "1a"
+    },
+    {
+      "id": "hip-joint-model-ns20-8",
+      "path": [
+        "1",
+        "a"
+      ],
+      "question": "Articulations",
+      "answer": "Articulates posteriorly with the sacrum and contributes superiorly to the acetabulum.",
+      "tags": [
+        "Articulations",
+        "Bone",
+        "Bones",
+        "NS20"
+      ],
+      "sourceLine": 8,
+      "section": "Bones and bony landmarks",
+      "label": "1a"
+    },
+    {
+      "id": "hip-joint-model-ns20-9",
+      "path": [
+        "1",
+        "a"
+      ],
+      "question": "Landmarks",
+      "answer": "Iliac crest, ASIS, AIIS, PSIS, PIIS, iliac fossa and greater sciatic notch.",
+      "tags": [
+        "Landmarks",
+        "Bone",
+        "Bones",
+        "NS20"
+      ],
+      "sourceLine": 9,
+      "section": "Bones and bony landmarks",
+      "label": "1a"
+    },
+    {
+      "id": "hip-joint-model-ns20-10",
+      "path": [
+        "1",
+        "a"
+      ],
+      "question": "Function",
+      "answer": "Broad superior part of hip bone transmitting load through the sacroiliac joint.",
+      "tags": [
+        "Function",
+        "Bone",
+        "Bones",
+        "NS20"
+      ],
+      "sourceLine": 10,
+      "section": "Bones and bony landmarks",
+      "label": "1a"
+    },
+    {
+      "id": "hip-joint-model-ns20-12",
+      "path": [
+        "1",
+        "b"
+      ],
+      "question": "Identification",
+      "answer": "Pubis",
+      "tags": [
+        "Identification",
+        "Bone",
+        "Bones",
+        "NS20"
+      ],
+      "sourceLine": 12,
+      "section": "Bones and bony landmarks",
+      "label": "1b"
+    },
+    {
+      "id": "hip-joint-model-ns20-13",
+      "path": [
+        "1",
+        "b"
+      ],
+      "question": "Articulations",
+      "answer": "Articulates with opposite pubis at pubic symphysis and contributes to acetabulum and obturator foramen.",
+      "tags": [
+        "Articulations",
+        "Bone",
+        "Bones",
+        "NS20"
+      ],
+      "sourceLine": 13,
+      "section": "Bones and bony landmarks",
+      "label": "1b"
+    },
+    {
+      "id": "hip-joint-model-ns20-14",
+      "path": [
+        "1",
+        "b"
+      ],
+      "question": "Landmarks",
+      "answer": "Body, superior ramus, inferior ramus, pubic crest and pubic tubercle.",
+      "tags": [
+        "Landmarks",
+        "Bone",
+        "Bones",
+        "NS20"
+      ],
+      "sourceLine": 14,
+      "section": "Bones and bony landmarks",
+      "label": "1b"
+    },
+    {
+      "id": "hip-joint-model-ns20-16",
+      "path": [
+        "1",
+        "c"
+      ],
+      "question": "Identification",
+      "answer": "Ischium",
+      "tags": [
+        "Identification",
+        "Bone",
+        "Bones",
+        "NS20"
+      ],
+      "sourceLine": 16,
+      "section": "Bones and bony landmarks",
+      "label": "1c"
+    },
+    {
+      "id": "hip-joint-model-ns20-17",
+      "path": [
+        "1",
+        "c"
+      ],
+      "question": "Articulations",
+      "answer": "Contributes posteroinferiorly to acetabulum and joins pubis anteriorly.",
+      "tags": [
+        "Articulations",
+        "Bone",
+        "Bones",
+        "NS20"
+      ],
+      "sourceLine": 17,
+      "section": "Bones and bony landmarks",
+      "label": "1c"
+    },
+    {
+      "id": "hip-joint-model-ns20-18",
+      "path": [
+        "1",
+        "c"
+      ],
+      "question": "Landmarks",
+      "answer": "Ischial spine, ischial tuberosity, lesser sciatic notch and ramus.",
+      "tags": [
+        "Landmarks",
+        "Bone",
+        "Bones",
+        "NS20"
+      ],
+      "sourceLine": 18,
+      "section": "Bones and bony landmarks",
+      "label": "1c"
+    },
+    {
+      "id": "hip-joint-model-ns20-21",
+      "path": [
+        "2"
+      ],
+      "question": "Identification",
+      "answer": "Femur",
+      "tags": [
+        "Identification",
+        "Bone",
+        "Bones",
+        "NS20"
+      ],
+      "sourceLine": 21,
+      "section": "Bones and bony landmarks",
+      "label": "2"
+    },
+    {
+      "id": "hip-joint-model-ns20-22",
+      "path": [
+        "2"
+      ],
+      "question": "Articulations",
+      "answer": "Articulates proximally with acetabulum and distally with tibia and patella.",
+      "tags": [
+        "Articulations",
+        "Bone",
+        "Bones",
+        "NS20"
+      ],
+      "sourceLine": 22,
+      "section": "Bones and bony landmarks",
+      "label": "2"
+    },
+    {
+      "id": "hip-joint-model-ns20-23",
+      "path": [
+        "2"
+      ],
+      "question": "Function",
+      "answer": "Transmits body weight and acts as the major lever of the thigh.",
+      "tags": [
+        "Function",
+        "Bone",
+        "Bones",
+        "NS20"
+      ],
+      "sourceLine": 23,
+      "section": "Bones and bony landmarks",
+      "label": "2"
+    },
+    {
+      "id": "hip-joint-model-ns20-25",
+      "path": [
+        "2",
+        "d"
+      ],
+      "question": "Identification",
+      "answer": "Head of femur",
+      "tags": [
+        "Identification",
+        "BonyLandmark",
+        "Bones",
+        "NS20"
+      ],
+      "sourceLine": 25,
+      "section": "Bones and bony landmarks",
+      "label": "2d"
+    },
+    {
+      "id": "hip-joint-model-ns20-26",
+      "path": [
+        "2",
+        "d"
+      ],
+      "question": "Articulation",
+      "answer": "Articulates with lunate surface of acetabulum.",
+      "tags": [
+        "Articulations",
+        "BonyLandmark",
+        "Bones",
+        "NS20"
+      ],
+      "sourceLine": 26,
+      "section": "Bones and bony landmarks",
+      "label": "2d"
+    },
+    {
+      "id": "hip-joint-model-ns20-27",
+      "path": [
+        "2",
+        "d"
+      ],
+      "question": "Relations",
+      "answer": "Covered by articular cartilage except at fovea capitis.",
+      "tags": [
+        "Relations",
+        "BonyLandmark",
+        "Bones",
+        "NS20"
+      ],
+      "sourceLine": 27,
+      "section": "Bones and bony landmarks",
+      "label": "2d"
+    },
+    {
+      "id": "hip-joint-model-ns20-28",
+      "path": [
+        "2",
+        "d"
+      ],
+      "question": "Blood supply",
+      "answer": "Mainly retinacular branches of medial circumflex femoral artery; artery in ligament of head is usually minor in adults.",
+      "tags": [
+        "BloodSupply",
+        "BonyLandmark",
+        "Bones",
+        "NS20"
+      ],
+      "sourceLine": 28,
+      "section": "Bones and bony landmarks",
+      "label": "2d"
+    },
+    {
+      "id": "hip-joint-model-ns20-29",
+      "path": [
+        "2",
+        "d"
+      ],
+      "question": "Clinical relevance",
+      "answer": "Intracapsular femoral-neck fractures may disrupt retinacular vessels and cause avascular necrosis.",
+      "tags": [
+        "Clinical",
+        "BonyLandmark",
+        "Bones",
+        "NS20"
+      ],
+      "sourceLine": 29,
+      "section": "Bones and bony landmarks",
+      "label": "2d"
+    },
+    {
+      "id": "hip-joint-model-ns20-31",
+      "path": [
+        "2",
+        "e"
+      ],
+      "question": "Identification",
+      "answer": "Greater trochanter",
+      "tags": [
+        "Identification",
+        "BonyLandmark",
+        "Bones",
+        "NS20"
+      ],
+      "sourceLine": 31,
+      "section": "Bones and bony landmarks",
+      "label": "2e"
+    },
+    {
+      "id": "hip-joint-model-ns20-32",
+      "path": [
+        "2",
+        "e"
+      ],
+      "question": "Attachments",
+      "answer": "Major attachment site for gluteus medius/minimus, piriformis, obturator internus and gemelli.",
+      "tags": [
+        "Attachments",
+        "BonyLandmark",
+        "Bones",
+        "NS20"
+      ],
+      "sourceLine": 32,
+      "section": "Bones and bony landmarks",
+      "label": "2e"
+    },
+    {
+      "id": "hip-joint-model-ns20-33",
+      "path": [
+        "2",
+        "e"
+      ],
+      "question": "Relations",
+      "answer": "Large lateral projection of proximal femur.",
+      "tags": [
+        "Relations",
+        "BonyLandmark",
+        "Bones",
+        "NS20"
+      ],
+      "sourceLine": 33,
+      "section": "Bones and bony landmarks",
+      "label": "2e"
+    },
+    {
+      "id": "hip-joint-model-ns20-35",
+      "path": [
+        "2",
+        "f"
+      ],
+      "question": "Identification",
+      "answer": "Lesser trochanter",
+      "tags": [
+        "Identification",
+        "BonyLandmark",
+        "Bones",
+        "NS20"
+      ],
+      "sourceLine": 35,
+      "section": "Bones and bony landmarks",
+      "label": "2f"
+    },
+    {
+      "id": "hip-joint-model-ns20-36",
+      "path": [
+        "2",
+        "f"
+      ],
+      "question": "Attachments",
+      "answer": "Insertion of iliopsoas tendon.",
+      "tags": [
+        "Attachments",
+        "BonyLandmark",
+        "Bones",
+        "NS20"
+      ],
+      "sourceLine": 36,
+      "section": "Bones and bony landmarks",
+      "label": "2f"
+    },
+    {
+      "id": "hip-joint-model-ns20-37",
+      "path": [
+        "2",
+        "f"
+      ],
+      "question": "Relations",
+      "answer": "Posteromedial projection of proximal femur.",
+      "tags": [
+        "Relations",
+        "BonyLandmark",
+        "Bones",
+        "NS20"
+      ],
+      "sourceLine": 37,
+      "section": "Bones and bony landmarks",
+      "label": "2f"
+    },
+    {
+      "id": "hip-joint-model-ns20-41",
+      "path": [
+        "3"
+      ],
+      "question": "Identification",
+      "answer": "Iliofemoral ligament",
+      "tags": [
+        "Identification",
+        "Ligament",
+        "LigamentsAndJoint",
+        "NS20"
+      ],
+      "sourceLine": 41,
+      "section": "Ligaments and joint structures",
+      "label": "3"
+    },
+    {
+      "id": "hip-joint-model-ns20-42",
+      "path": [
+        "3"
+      ],
+      "question": "Attachments",
+      "answer": "From anterior inferior iliac spine and adjacent acetabular rim to intertrochanteric line of femur.",
+      "tags": [
+        "Attachments",
+        "Ligament",
+        "LigamentsAndJoint",
+        "NS20"
+      ],
+      "sourceLine": 42,
+      "section": "Ligaments and joint structures",
+      "label": "3"
+    },
+    {
+      "id": "hip-joint-model-ns20-43",
+      "path": [
+        "3"
+      ],
+      "question": "Function",
+      "answer": "Strongly resists hyperextension of the hip and helps maintain upright posture with minimal muscular effort.",
+      "tags": [
+        "Function",
+        "Ligament",
+        "LigamentsAndJoint",
+        "NS20"
+      ],
+      "sourceLine": 43,
+      "section": "Ligaments and joint structures",
+      "label": "3"
+    },
+    {
+      "id": "hip-joint-model-ns20-44",
+      "path": [
+        "3"
+      ],
+      "question": "Structure",
+      "answer": "Y-shaped thickening of anterior joint capsule; one of the strongest ligaments in the body.",
+      "tags": [
+        "Structure",
+        "Ligament",
+        "LigamentsAndJoint",
+        "NS20"
+      ],
+      "sourceLine": 44,
+      "section": "Ligaments and joint structures",
+      "label": "3"
+    },
+    {
+      "id": "hip-joint-model-ns20-45",
+      "path": [
+        "3"
+      ],
+      "question": "Clinical relevance",
+      "answer": "Its tension in extension contributes to stability of the standing hip.",
+      "tags": [
+        "Clinical",
+        "Ligament",
+        "LigamentsAndJoint",
+        "NS20"
+      ],
+      "sourceLine": 45,
+      "section": "Ligaments and joint structures",
+      "label": "3"
+    },
+    {
+      "id": "hip-joint-model-ns20-48",
+      "path": [
+        "4"
+      ],
+      "question": "Identification",
+      "answer": "Ischiofemoral ligament",
+      "tags": [
+        "Identification",
+        "Ligament",
+        "LigamentsAndJoint",
+        "NS20"
+      ],
+      "sourceLine": 48,
+      "section": "Ligaments and joint structures",
+      "label": "4"
+    },
+    {
+      "id": "hip-joint-model-ns20-49",
+      "path": [
+        "4"
+      ],
+      "question": "Attachments",
+      "answer": "From ischial part of acetabular rim to posterior femoral neck/greater trochanter region.",
+      "tags": [
+        "Attachments",
+        "Ligament",
+        "LigamentsAndJoint",
+        "NS20"
+      ],
+      "sourceLine": 49,
+      "section": "Ligaments and joint structures",
+      "label": "4"
+    },
+    {
+      "id": "hip-joint-model-ns20-50",
+      "path": [
+        "4"
+      ],
+      "question": "Function",
+      "answer": "Reinforces posterior capsule and limits extension and internal rotation.",
+      "tags": [
+        "Function",
+        "Ligament",
+        "LigamentsAndJoint",
+        "NS20"
+      ],
+      "sourceLine": 50,
+      "section": "Ligaments and joint structures",
+      "label": "4"
+    },
+    {
+      "id": "hip-joint-model-ns20-51",
+      "path": [
+        "4"
+      ],
+      "question": "Relations",
+      "answer": "Fibres spiral superolaterally around the femoral neck.",
+      "tags": [
+        "Relations",
+        "Ligament",
+        "LigamentsAndJoint",
+        "NS20"
+      ],
+      "sourceLine": 51,
+      "section": "Ligaments and joint structures",
+      "label": "4"
+    },
+    {
+      "id": "hip-joint-model-ns20-54",
+      "path": [
+        "5"
+      ],
+      "question": "Identification",
+      "answer": "Pubofemoral ligament",
+      "tags": [
+        "Identification",
+        "Ligament",
+        "LigamentsAndJoint",
+        "NS20"
+      ],
+      "sourceLine": 54,
+      "section": "Ligaments and joint structures",
+      "label": "5"
+    },
+    {
+      "id": "hip-joint-model-ns20-55",
+      "path": [
+        "5"
+      ],
+      "question": "Attachments",
+      "answer": "From pubic part of acetabular rim and superior pubic ramus to inferior capsule/intertrochanteric region.",
+      "tags": [
+        "Attachments",
+        "Ligament",
+        "LigamentsAndJoint",
+        "NS20"
+      ],
+      "sourceLine": 55,
+      "section": "Ligaments and joint structures",
+      "label": "5"
+    },
+    {
+      "id": "hip-joint-model-ns20-56",
+      "path": [
+        "5"
+      ],
+      "question": "Function",
+      "answer": "Limits excessive abduction and extension of the hip.",
+      "tags": [
+        "Function",
+        "Ligament",
+        "LigamentsAndJoint",
+        "NS20"
+      ],
+      "sourceLine": 56,
+      "section": "Ligaments and joint structures",
+      "label": "5"
+    },
+    {
+      "id": "hip-joint-model-ns20-57",
+      "path": [
+        "5"
+      ],
+      "question": "Relations",
+      "answer": "Reinforces the inferomedial part of the joint capsule.",
+      "tags": [
+        "Relations",
+        "Ligament",
+        "LigamentsAndJoint",
+        "NS20"
+      ],
+      "sourceLine": 57,
+      "section": "Ligaments and joint structures",
+      "label": "5"
+    },
+    {
+      "id": "hip-joint-model-ns20-60",
+      "path": [
+        "6"
+      ],
+      "question": "Identification",
+      "answer": "Acetabular labrum",
+      "tags": [
+        "Identification",
+        "Fibrocartilage",
+        "LigamentsAndJoint",
+        "NS20"
+      ],
+      "sourceLine": 60,
+      "section": "Ligaments and joint structures",
+      "label": "6"
+    },
+    {
+      "id": "hip-joint-model-ns20-61",
+      "path": [
+        "6"
+      ],
+      "question": "Structure",
+      "answer": "Fibrocartilaginous rim attached to margin of acetabulum.",
+      "tags": [
+        "Structure",
+        "Fibrocartilage",
+        "LigamentsAndJoint",
+        "NS20"
+      ],
+      "sourceLine": 61,
+      "section": "Ligaments and joint structures",
+      "label": "6"
+    },
+    {
+      "id": "hip-joint-model-ns20-62",
+      "path": [
+        "6"
+      ],
+      "question": "Function",
+      "answer": "Deepens acetabular socket and improves hip-joint stability and seal.",
+      "tags": [
+        "Function",
+        "Fibrocartilage",
+        "LigamentsAndJoint",
+        "NS20"
+      ],
+      "sourceLine": 62,
+      "section": "Ligaments and joint structures",
+      "label": "6"
+    },
+    {
+      "id": "hip-joint-model-ns20-63",
+      "path": [
+        "6"
+      ],
+      "question": "Relations",
+      "answer": "Continuous inferiorly with transverse acetabular ligament across acetabular notch.",
+      "tags": [
+        "Relations",
+        "Fibrocartilage",
+        "LigamentsAndJoint",
+        "NS20"
+      ],
+      "sourceLine": 63,
+      "section": "Ligaments and joint structures",
+      "label": "6"
+    },
+    {
+      "id": "hip-joint-model-ns20-64",
+      "path": [
+        "6"
+      ],
+      "question": "Clinical relevance",
+      "answer": "Labral tears can cause groin pain, clicking and mechanical symptoms.",
+      "tags": [
+        "Clinical",
+        "Fibrocartilage",
+        "LigamentsAndJoint",
+        "NS20"
+      ],
+      "sourceLine": 64,
+      "section": "Ligaments and joint structures",
+      "label": "6"
+    },
+    {
+      "id": "hip-joint-model-ns20-67",
+      "path": [
+        "7"
+      ],
+      "question": "Identification",
+      "answer": "Orbicular zone of the fibrous joint capsule",
+      "tags": [
+        "Identification",
+        "Capsule",
+        "LigamentsAndJoint",
+        "NS20"
+      ],
+      "sourceLine": 67,
+      "section": "Ligaments and joint structures",
+      "label": "7"
+    },
+    {
+      "id": "hip-joint-model-ns20-68",
+      "path": [
+        "7"
+      ],
+      "question": "Structure",
+      "answer": "Circular fibres of the fibrous capsule that encircle the femoral neck.",
+      "tags": [
+        "Structure",
+        "Capsule",
+        "LigamentsAndJoint",
+        "NS20"
+      ],
+      "sourceLine": 68,
+      "section": "Ligaments and joint structures",
+      "label": "7"
+    },
+    {
+      "id": "hip-joint-model-ns20-69",
+      "path": [
+        "7"
+      ],
+      "question": "Function",
+      "answer": "Helps retain the femoral head within the acetabulum and resists distraction.",
+      "tags": [
+        "Function",
+        "Capsule",
+        "LigamentsAndJoint",
+        "NS20"
+      ],
+      "sourceLine": 69,
+      "section": "Ligaments and joint structures",
+      "label": "7"
+    },
+    {
+      "id": "hip-joint-model-ns20-70",
+      "path": [
+        "7"
+      ],
+      "question": "Relations",
+      "answer": "Deep circular component of the hip-joint capsule.",
+      "tags": [
+        "Relations",
+        "Capsule",
+        "LigamentsAndJoint",
+        "NS20"
+      ],
+      "sourceLine": 70,
+      "section": "Ligaments and joint structures",
+      "label": "7"
+    },
+    {
+      "id": "hip-joint-model-ns20-73",
+      "path": [
+        "8"
+      ],
+      "question": "Identification",
+      "answer": "Ligament of head of the femur (round ligament; ligamentum teres)",
+      "tags": [
+        "Identification",
+        "Ligament",
+        "LigamentsAndJoint",
+        "NS20"
+      ],
+      "sourceLine": 73,
+      "section": "Ligaments and joint structures",
+      "label": "8"
+    },
+    {
+      "id": "hip-joint-model-ns20-74",
+      "path": [
+        "8"
+      ],
+      "question": "Attachments",
+      "answer": "From fovea capitis of femoral head to margins of acetabular notch and transverse acetabular ligament.",
+      "tags": [
+        "Attachments",
+        "Ligament",
+        "LigamentsAndJoint",
+        "NS20"
+      ],
+      "sourceLine": 74,
+      "section": "Ligaments and joint structures",
+      "label": "8"
+    },
+    {
+      "id": "hip-joint-model-ns20-75",
+      "path": [
+        "8"
+      ],
+      "question": "Function",
+      "answer": "Provides limited mechanical stability and carries a small artery to the femoral head.",
+      "tags": [
+        "Function",
+        "Ligament",
+        "LigamentsAndJoint",
+        "NS20"
+      ],
+      "sourceLine": 75,
+      "section": "Ligaments and joint structures",
+      "label": "8"
+    },
+    {
+      "id": "hip-joint-model-ns20-76",
+      "path": [
+        "8"
+      ],
+      "question": "Blood supply",
+      "answer": "Carries the acetabular branch of obturator artery, particularly important in children.",
+      "tags": [
+        "BloodSupply",
+        "Ligament",
+        "LigamentsAndJoint",
+        "NS20"
+      ],
+      "sourceLine": 76,
+      "section": "Ligaments and joint structures",
+      "label": "8"
+    },
+    {
+      "id": "hip-joint-model-ns20-77",
+      "path": [
+        "8"
+      ],
+      "question": "Clinical relevance",
+      "answer": "Can be torn during traumatic hip dislocation.",
+      "tags": [
+        "Clinical",
+        "Ligament",
+        "LigamentsAndJoint",
+        "NS20"
+      ],
+      "sourceLine": 77,
+      "section": "Ligaments and joint structures",
+      "label": "8"
+    },
+    {
+      "id": "hip-joint-model-ns20-80",
+      "path": [
+        "9"
+      ],
+      "question": "Identification",
+      "answer": "Obturator membrane",
+      "tags": [
+        "Identification",
+        "Membrane",
+        "LigamentsAndJoint",
+        "NS20"
+      ],
+      "sourceLine": 80,
+      "section": "Ligaments and joint structures",
+      "label": "9"
+    },
+    {
+      "id": "hip-joint-model-ns20-81",
+      "path": [
+        "9"
+      ],
+      "question": "Attachments",
+      "answer": "Attaches around margins of obturator foramen, leaving the obturator canal superiorly.",
+      "tags": [
+        "Attachments",
+        "Membrane",
+        "LigamentsAndJoint",
+        "NS20"
+      ],
+      "sourceLine": 81,
+      "section": "Ligaments and joint structures",
+      "label": "9"
+    },
+    {
+      "id": "hip-joint-model-ns20-82",
+      "path": [
+        "9"
+      ],
+      "question": "Function",
+      "answer": "Closes most of obturator foramen and provides attachment for obturator muscles.",
+      "tags": [
+        "Function",
+        "Membrane",
+        "LigamentsAndJoint",
+        "NS20"
+      ],
+      "sourceLine": 82,
+      "section": "Ligaments and joint structures",
+      "label": "9"
+    },
+    {
+      "id": "hip-joint-model-ns20-83",
+      "path": [
+        "9"
+      ],
+      "question": "Contents",
+      "answer": "Obturator nerve and vessels pass through the obturator canal.",
+      "tags": [
+        "Contents",
+        "Membrane",
+        "LigamentsAndJoint",
+        "NS20"
+      ],
+      "sourceLine": 83,
+      "section": "Ligaments and joint structures",
+      "label": "9"
+    },
+    {
+      "id": "hip-joint-model-ns20-84",
+      "path": [
+        "9"
+      ],
+      "question": "Relations",
+      "answer": "Obturator internus arises from its pelvic surface and obturator externus from its external surface.",
+      "tags": [
+        "Relations",
+        "Membrane",
+        "LigamentsAndJoint",
+        "NS20"
+      ],
+      "sourceLine": 84,
+      "section": "Ligaments and joint structures",
+      "label": "9"
+    }
+  ]
+}

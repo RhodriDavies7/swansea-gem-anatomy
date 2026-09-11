@@ -1,0 +1,1422 @@
+{
+  "id": "urinary-system-model-ls3-1",
+  "name": "Urinary System (Model LS3_1)",
+  "cards": [
+    {
+      "id": "urinary-system-model-ls3-1-3",
+      "path": [
+        "1"
+      ],
+      "question": "Identification",
+      "answer": "Kidney",
+      "tags": [
+        "Identification",
+        "Organ",
+        "UrinarySystem",
+        "LS3_1"
+      ],
+      "sourceLine": 3,
+      "section": "Major urinary structures",
+      "label": "1"
+    },
+    {
+      "id": "urinary-system-model-ls3-1-4",
+      "path": [
+        "1"
+      ],
+      "question": "Location",
+      "answer": "Retroperitoneal organ on the posterior abdominal wall; the right kidney usually lies slightly lower than the left.",
+      "tags": [
+        "Location",
+        "Organ",
+        "UrinarySystem",
+        "LS3_1"
+      ],
+      "sourceLine": 4,
+      "section": "Major urinary structures",
+      "label": "1"
+    },
+    {
+      "id": "urinary-system-model-ls3-1-5",
+      "path": [
+        "1"
+      ],
+      "question": "Function",
+      "answer": "Filters blood, regulates fluid/electrolyte and acid-base balance, excretes waste and has endocrine functions including renin and erythropoietin production.",
+      "tags": [
+        "Function",
+        "Organ",
+        "UrinarySystem",
+        "LS3_1"
+      ],
+      "sourceLine": 5,
+      "section": "Major urinary structures",
+      "label": "1"
+    },
+    {
+      "id": "urinary-system-model-ls3-1-6",
+      "path": [
+        "1"
+      ],
+      "question": "Blood supply",
+      "answer": "Renal arteries from the abdominal aorta; renal veins drain to the inferior vena cava.",
+      "tags": [
+        "BloodSupply",
+        "Organ",
+        "UrinarySystem",
+        "LS3_1"
+      ],
+      "sourceLine": 6,
+      "section": "Major urinary structures",
+      "label": "1"
+    },
+    {
+      "id": "urinary-system-model-ls3-1-9",
+      "path": [
+        "2"
+      ],
+      "question": "Identification",
+      "answer": "Ureter",
+      "tags": [
+        "Identification",
+        "Tube",
+        "UrinarySystem",
+        "LS3_1"
+      ],
+      "sourceLine": 9,
+      "section": "Major urinary structures",
+      "label": "2"
+    },
+    {
+      "id": "urinary-system-model-ls3-1-10",
+      "path": [
+        "2"
+      ],
+      "question": "Function",
+      "answer": "Transports urine from the renal pelvis to the urinary bladder by peristalsis.",
+      "tags": [
+        "Function",
+        "Tube",
+        "UrinarySystem",
+        "LS3_1"
+      ],
+      "sourceLine": 10,
+      "section": "Major urinary structures",
+      "label": "2"
+    },
+    {
+      "id": "urinary-system-model-ls3-1-11",
+      "path": [
+        "2"
+      ],
+      "question": "Course",
+      "answer": "Descends retroperitoneally from the renal pelvis, crosses the pelvic brim and enters the bladder obliquely.",
+      "tags": [
+        "Course",
+        "Tube",
+        "UrinarySystem",
+        "LS3_1"
+      ],
+      "sourceLine": 11,
+      "section": "Major urinary structures",
+      "label": "2"
+    },
+    {
+      "id": "urinary-system-model-ls3-1-12",
+      "path": [
+        "2"
+      ],
+      "question": "Constrictions",
+      "answer": "Common narrowing sites are the pelvi-ureteric junction, crossing of the iliac vessels/pelvic brim, and vesico-ureteric junction.",
+      "tags": [
+        "Constrictions",
+        "Tube",
+        "UrinarySystem",
+        "LS3_1"
+      ],
+      "sourceLine": 12,
+      "section": "Major urinary structures",
+      "label": "2"
+    },
+    {
+      "id": "urinary-system-model-ls3-1-13",
+      "path": [
+        "2"
+      ],
+      "question": "Clinical relevance",
+      "answer": "Ureteric calculi commonly lodge at the physiological constrictions.",
+      "tags": [
+        "Clinical",
+        "Tube",
+        "UrinarySystem",
+        "LS3_1"
+      ],
+      "sourceLine": 13,
+      "section": "Major urinary structures",
+      "label": "2"
+    },
+    {
+      "id": "urinary-system-model-ls3-1-16",
+      "path": [
+        "3"
+      ],
+      "question": "Identification",
+      "answer": "Urinary bladder",
+      "tags": [
+        "Identification",
+        "Organ",
+        "UrinarySystem",
+        "LS3_1"
+      ],
+      "sourceLine": 16,
+      "section": "Major urinary structures",
+      "label": "3"
+    },
+    {
+      "id": "urinary-system-model-ls3-1-17",
+      "path": [
+        "3"
+      ],
+      "question": "Location",
+      "answer": "Muscular reservoir in the lesser pelvis, posterior to the pubic symphysis.",
+      "tags": [
+        "Location",
+        "Organ",
+        "UrinarySystem",
+        "LS3_1"
+      ],
+      "sourceLine": 17,
+      "section": "Major urinary structures",
+      "label": "3"
+    },
+    {
+      "id": "urinary-system-model-ls3-1-18",
+      "path": [
+        "3"
+      ],
+      "question": "Function",
+      "answer": "Stores urine and expels it during micturition.",
+      "tags": [
+        "Function",
+        "Organ",
+        "UrinarySystem",
+        "LS3_1"
+      ],
+      "sourceLine": 18,
+      "section": "Major urinary structures",
+      "label": "3"
+    },
+    {
+      "id": "urinary-system-model-ls3-1-19",
+      "path": [
+        "3"
+      ],
+      "question": "Parts",
+      "answer": "Apex, body, fundus/base and neck.",
+      "tags": [
+        "Parts",
+        "Organ",
+        "UrinarySystem",
+        "LS3_1"
+      ],
+      "sourceLine": 19,
+      "section": "Major urinary structures",
+      "label": "3"
+    },
+    {
+      "id": "urinary-system-model-ls3-1-22",
+      "path": [
+        "4"
+      ],
+      "question": "Identification",
+      "answer": "Urethra",
+      "tags": [
+        "Identification",
+        "Tube",
+        "UrinarySystem",
+        "LS3_1"
+      ],
+      "sourceLine": 22,
+      "section": "Major urinary structures",
+      "label": "4"
+    },
+    {
+      "id": "urinary-system-model-ls3-1-23",
+      "path": [
+        "4"
+      ],
+      "question": "Function",
+      "answer": "Conducts urine from the bladder to the exterior.",
+      "tags": [
+        "Function",
+        "Tube",
+        "UrinarySystem",
+        "LS3_1"
+      ],
+      "sourceLine": 23,
+      "section": "Major urinary structures",
+      "label": "4"
+    },
+    {
+      "id": "urinary-system-model-ls3-1-24",
+      "path": [
+        "4"
+      ],
+      "question": "Connections",
+      "answer": "Begins at the internal urethral orifice and ends at the external urethral orifice.",
+      "tags": [
+        "Connections",
+        "Tube",
+        "UrinarySystem",
+        "LS3_1"
+      ],
+      "sourceLine": 24,
+      "section": "Major urinary structures",
+      "label": "4"
+    },
+    {
+      "id": "urinary-system-model-ls3-1-27",
+      "path": [
+        "5"
+      ],
+      "question": "Identification",
+      "answer": "Not included on this model",
+      "tags": [
+        "Identification",
+        "ModelNote",
+        "UrinarySystem",
+        "LS3_1"
+      ],
+      "sourceLine": 27,
+      "section": "Major urinary structures",
+      "label": "5"
+    },
+    {
+      "id": "urinary-system-model-ls3-1-28",
+      "path": [
+        "5"
+      ],
+      "question": "Model note",
+      "answer": "The model key specifically states that label 5 is not included on this model.",
+      "tags": [
+        "ModelNote",
+        "UrinarySystem",
+        "LS3_1"
+      ],
+      "sourceLine": 28,
+      "section": "Major urinary structures",
+      "label": "5"
+    },
+    {
+      "id": "urinary-system-model-ls3-1-31",
+      "path": [
+        "6"
+      ],
+      "question": "Identification",
+      "answer": "Detrusor muscle",
+      "tags": [
+        "Identification",
+        "Muscle",
+        "UrinarySystem",
+        "LS3_1"
+      ],
+      "sourceLine": 31,
+      "section": "Major urinary structures",
+      "label": "6"
+    },
+    {
+      "id": "urinary-system-model-ls3-1-32",
+      "path": [
+        "6"
+      ],
+      "question": "Actions",
+      "answer": "Contracts to expel urine during micturition.",
+      "tags": [
+        "Action",
+        "Muscle",
+        "UrinarySystem",
+        "LS3_1"
+      ],
+      "sourceLine": 32,
+      "section": "Major urinary structures",
+      "label": "6"
+    },
+    {
+      "id": "urinary-system-model-ls3-1-33",
+      "path": [
+        "6"
+      ],
+      "question": "Structure",
+      "answer": "Smooth muscle forming most of the bladder wall.",
+      "tags": [
+        "Structure",
+        "Muscle",
+        "UrinarySystem",
+        "LS3_1"
+      ],
+      "sourceLine": 33,
+      "section": "Major urinary structures",
+      "label": "6"
+    },
+    {
+      "id": "urinary-system-model-ls3-1-34",
+      "path": [
+        "6"
+      ],
+      "question": "Innervation",
+      "answer": "Parasympathetic fibres from pelvic splanchnic nerves (S2–S4) promote contraction.",
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "UrinarySystem",
+        "LS3_1"
+      ],
+      "sourceLine": 34,
+      "section": "Major urinary structures",
+      "label": "6"
+    },
+    {
+      "id": "urinary-system-model-ls3-1-37",
+      "path": [
+        "7"
+      ],
+      "question": "Identification",
+      "answer": "Internal urethral orifice",
+      "tags": [
+        "Identification",
+        "Opening",
+        "UrinarySystem",
+        "LS3_1"
+      ],
+      "sourceLine": 37,
+      "section": "Major urinary structures",
+      "label": "7"
+    },
+    {
+      "id": "urinary-system-model-ls3-1-38",
+      "path": [
+        "7"
+      ],
+      "question": "Location",
+      "answer": "Opening at the bladder neck where the urethra begins.",
+      "tags": [
+        "Location",
+        "Opening",
+        "UrinarySystem",
+        "LS3_1"
+      ],
+      "sourceLine": 38,
+      "section": "Major urinary structures",
+      "label": "7"
+    },
+    {
+      "id": "urinary-system-model-ls3-1-39",
+      "path": [
+        "7"
+      ],
+      "question": "Relations",
+      "answer": "Forms the inferior point of the bladder trigone.",
+      "tags": [
+        "Relations",
+        "Opening",
+        "UrinarySystem",
+        "LS3_1"
+      ],
+      "sourceLine": 39,
+      "section": "Major urinary structures",
+      "label": "7"
+    },
+    {
+      "id": "urinary-system-model-ls3-1-40",
+      "path": [
+        "7"
+      ],
+      "question": "Function",
+      "answer": "Allows urine to pass from bladder into urethra.",
+      "tags": [
+        "Function",
+        "Opening",
+        "UrinarySystem",
+        "LS3_1"
+      ],
+      "sourceLine": 40,
+      "section": "Major urinary structures",
+      "label": "7"
+    },
+    {
+      "id": "urinary-system-model-ls3-1-44",
+      "path": [
+        "8"
+      ],
+      "question": "Identification",
+      "answer": "Coronal section of kidney",
+      "tags": [
+        "Identification",
+        "OrganSection",
+        "KidneySection",
+        "LS3_1"
+      ],
+      "sourceLine": 44,
+      "section": "Coronal section of kidney (8a–g)",
+      "label": "8"
+    },
+    {
+      "id": "urinary-system-model-ls3-1-45",
+      "path": [
+        "8"
+      ],
+      "question": "Structure",
+      "answer": "Demonstrates the cortex, medulla, collecting system, renal sinus and renal vessels in section.",
+      "tags": [
+        "Structure",
+        "OrganSection",
+        "KidneySection",
+        "LS3_1"
+      ],
+      "sourceLine": 45,
+      "section": "Coronal section of kidney (8a–g)",
+      "label": "8"
+    },
+    {
+      "id": "urinary-system-model-ls3-1-47",
+      "path": [
+        "8",
+        "a"
+      ],
+      "question": "Identification",
+      "answer": "Renal cortex",
+      "tags": [
+        "Identification",
+        "KidneyRegion",
+        "KidneySection",
+        "LS3_1"
+      ],
+      "sourceLine": 47,
+      "section": "Coronal section of kidney (8a–g)",
+      "label": "8a"
+    },
+    {
+      "id": "urinary-system-model-ls3-1-48",
+      "path": [
+        "8",
+        "a"
+      ],
+      "question": "Location",
+      "answer": "Outer region of the kidney beneath the renal capsule.",
+      "tags": [
+        "Location",
+        "KidneyRegion",
+        "KidneySection",
+        "LS3_1"
+      ],
+      "sourceLine": 48,
+      "section": "Coronal section of kidney (8a–g)",
+      "label": "8a"
+    },
+    {
+      "id": "urinary-system-model-ls3-1-49",
+      "path": [
+        "8",
+        "a"
+      ],
+      "question": "Contents",
+      "answer": "Contains renal corpuscles and much of the proximal and distal convoluted tubules.",
+      "tags": [
+        "Contents",
+        "KidneyRegion",
+        "KidneySection",
+        "LS3_1"
+      ],
+      "sourceLine": 49,
+      "section": "Coronal section of kidney (8a–g)",
+      "label": "8a"
+    },
+    {
+      "id": "urinary-system-model-ls3-1-50",
+      "path": [
+        "8",
+        "a"
+      ],
+      "question": "Function",
+      "answer": "Major site of glomerular filtration and tubular processing.",
+      "tags": [
+        "Function",
+        "KidneyRegion",
+        "KidneySection",
+        "LS3_1"
+      ],
+      "sourceLine": 50,
+      "section": "Coronal section of kidney (8a–g)",
+      "label": "8a"
+    },
+    {
+      "id": "urinary-system-model-ls3-1-52",
+      "path": [
+        "8",
+        "b"
+      ],
+      "question": "Identification",
+      "answer": "Cortical column",
+      "tags": [
+        "Identification",
+        "KidneyRegion",
+        "KidneySection",
+        "LS3_1"
+      ],
+      "sourceLine": 52,
+      "section": "Coronal section of kidney (8a–g)",
+      "label": "8b"
+    },
+    {
+      "id": "urinary-system-model-ls3-1-53",
+      "path": [
+        "8",
+        "b"
+      ],
+      "question": "Structure",
+      "answer": "Extension of renal cortex between adjacent renal pyramids.",
+      "tags": [
+        "Structure",
+        "KidneyRegion",
+        "KidneySection",
+        "LS3_1"
+      ],
+      "sourceLine": 53,
+      "section": "Coronal section of kidney (8a–g)",
+      "label": "8b"
+    },
+    {
+      "id": "urinary-system-model-ls3-1-54",
+      "path": [
+        "8",
+        "b"
+      ],
+      "question": "Function",
+      "answer": "Separates renal pyramids and carries vessels between cortex and medulla.",
+      "tags": [
+        "Function",
+        "KidneyRegion",
+        "KidneySection",
+        "LS3_1"
+      ],
+      "sourceLine": 54,
+      "section": "Coronal section of kidney (8a–g)",
+      "label": "8b"
+    },
+    {
+      "id": "urinary-system-model-ls3-1-56",
+      "path": [
+        "8",
+        "c"
+      ],
+      "question": "Identification",
+      "answer": "Renal pelvis",
+      "tags": [
+        "Identification",
+        "CollectingSystem",
+        "KidneySection",
+        "LS3_1"
+      ],
+      "sourceLine": 56,
+      "section": "Coronal section of kidney (8a–g)",
+      "label": "8c"
+    },
+    {
+      "id": "urinary-system-model-ls3-1-57",
+      "path": [
+        "8",
+        "c"
+      ],
+      "question": "Formation",
+      "answer": "Funnel-shaped expansion formed by convergence of the major calyces.",
+      "tags": [
+        "Formation",
+        "CollectingSystem",
+        "KidneySection",
+        "LS3_1"
+      ],
+      "sourceLine": 57,
+      "section": "Coronal section of kidney (8a–g)",
+      "label": "8c"
+    },
+    {
+      "id": "urinary-system-model-ls3-1-58",
+      "path": [
+        "8",
+        "c"
+      ],
+      "question": "Function",
+      "answer": "Collects urine and continues as the ureter.",
+      "tags": [
+        "Function",
+        "CollectingSystem",
+        "KidneySection",
+        "LS3_1"
+      ],
+      "sourceLine": 58,
+      "section": "Coronal section of kidney (8a–g)",
+      "label": "8c"
+    },
+    {
+      "id": "urinary-system-model-ls3-1-60",
+      "path": [
+        "8",
+        "d"
+      ],
+      "question": "Identification",
+      "answer": "Renal sinus (fat)",
+      "tags": [
+        "Identification",
+        "Space",
+        "KidneySection",
+        "LS3_1"
+      ],
+      "sourceLine": 60,
+      "section": "Coronal section of kidney (8a–g)",
+      "label": "8d"
+    },
+    {
+      "id": "urinary-system-model-ls3-1-61",
+      "path": [
+        "8",
+        "d"
+      ],
+      "question": "Location",
+      "answer": "Internal cavity of the kidney opening at the renal hilum.",
+      "tags": [
+        "Location",
+        "Space",
+        "KidneySection",
+        "LS3_1"
+      ],
+      "sourceLine": 61,
+      "section": "Coronal section of kidney (8a–g)",
+      "label": "8d"
+    },
+    {
+      "id": "urinary-system-model-ls3-1-62",
+      "path": [
+        "8",
+        "d"
+      ],
+      "question": "Contents",
+      "answer": "Contains renal pelvis, calyces, vessels, nerves and fat.",
+      "tags": [
+        "Contents",
+        "Space",
+        "KidneySection",
+        "LS3_1"
+      ],
+      "sourceLine": 62,
+      "section": "Coronal section of kidney (8a–g)",
+      "label": "8d"
+    },
+    {
+      "id": "urinary-system-model-ls3-1-64",
+      "path": [
+        "8",
+        "e"
+      ],
+      "question": "Identification",
+      "answer": "Branch of the renal artery",
+      "tags": [
+        "Identification",
+        "Artery",
+        "KidneySection",
+        "LS3_1"
+      ],
+      "sourceLine": 64,
+      "section": "Coronal section of kidney (8a–g)",
+      "label": "8e"
+    },
+    {
+      "id": "urinary-system-model-ls3-1-65",
+      "path": [
+        "8",
+        "e"
+      ],
+      "question": "Origin",
+      "answer": "Derived from the renal artery after it enters the renal hilum.",
+      "tags": [
+        "Origin",
+        "Artery",
+        "KidneySection",
+        "LS3_1"
+      ],
+      "sourceLine": 65,
+      "section": "Coronal section of kidney (8a–g)",
+      "label": "8e"
+    },
+    {
+      "id": "urinary-system-model-ls3-1-66",
+      "path": [
+        "8",
+        "e"
+      ],
+      "question": "Supply",
+      "answer": "Supplies renal parenchyma through segmental and subsequent intrarenal arterial branches.",
+      "tags": [
+        "Supply",
+        "Artery",
+        "KidneySection",
+        "LS3_1"
+      ],
+      "sourceLine": 66,
+      "section": "Coronal section of kidney (8a–g)",
+      "label": "8e"
+    },
+    {
+      "id": "urinary-system-model-ls3-1-68",
+      "path": [
+        "8",
+        "f"
+      ],
+      "question": "Identification",
+      "answer": "Minor calyx",
+      "tags": [
+        "Identification",
+        "CollectingSystem",
+        "KidneySection",
+        "LS3_1"
+      ],
+      "sourceLine": 68,
+      "section": "Coronal section of kidney (8a–g)",
+      "label": "8f"
+    },
+    {
+      "id": "urinary-system-model-ls3-1-69",
+      "path": [
+        "8",
+        "f"
+      ],
+      "question": "Structure",
+      "answer": "Cup-shaped collecting structure surrounding a renal papilla.",
+      "tags": [
+        "Structure",
+        "CollectingSystem",
+        "KidneySection",
+        "LS3_1"
+      ],
+      "sourceLine": 69,
+      "section": "Coronal section of kidney (8a–g)",
+      "label": "8f"
+    },
+    {
+      "id": "urinary-system-model-ls3-1-70",
+      "path": [
+        "8",
+        "f"
+      ],
+      "question": "Function",
+      "answer": "Receives urine from papillary ducts and drains toward major calyces.",
+      "tags": [
+        "Function",
+        "CollectingSystem",
+        "KidneySection",
+        "LS3_1"
+      ],
+      "sourceLine": 70,
+      "section": "Coronal section of kidney (8a–g)",
+      "label": "8f"
+    },
+    {
+      "id": "urinary-system-model-ls3-1-72",
+      "path": [
+        "8",
+        "g"
+      ],
+      "question": "Identification",
+      "answer": "Medullary (renal) pyramid",
+      "tags": [
+        "Identification",
+        "KidneyRegion",
+        "KidneySection",
+        "LS3_1"
+      ],
+      "sourceLine": 72,
+      "section": "Coronal section of kidney (8a–g)",
+      "label": "8g"
+    },
+    {
+      "id": "urinary-system-model-ls3-1-73",
+      "path": [
+        "8",
+        "g"
+      ],
+      "question": "Location",
+      "answer": "Conical region of renal medulla with base toward the cortex and apex forming a renal papilla.",
+      "tags": [
+        "Location",
+        "KidneyRegion",
+        "KidneySection",
+        "LS3_1"
+      ],
+      "sourceLine": 73,
+      "section": "Coronal section of kidney (8a–g)",
+      "label": "8g"
+    },
+    {
+      "id": "urinary-system-model-ls3-1-74",
+      "path": [
+        "8",
+        "g"
+      ],
+      "question": "Contents",
+      "answer": "Contains loops of Henle, collecting ducts and associated vessels.",
+      "tags": [
+        "Contents",
+        "KidneyRegion",
+        "KidneySection",
+        "LS3_1"
+      ],
+      "sourceLine": 74,
+      "section": "Coronal section of kidney (8a–g)",
+      "label": "8g"
+    },
+    {
+      "id": "urinary-system-model-ls3-1-75",
+      "path": [
+        "8",
+        "g"
+      ],
+      "question": "Function",
+      "answer": "Contributes to urine concentration and conducts urine toward the papilla.",
+      "tags": [
+        "Function",
+        "KidneyRegion",
+        "KidneySection",
+        "LS3_1"
+      ],
+      "sourceLine": 75,
+      "section": "Coronal section of kidney (8a–g)",
+      "label": "8g"
+    },
+    {
+      "id": "urinary-system-model-ls3-1-79",
+      "path": [
+        "9"
+      ],
+      "question": "Identification",
+      "answer": "Suprarenal (adrenal) gland",
+      "tags": [
+        "Identification",
+        "Gland",
+        "MajorVesselsAndGlands",
+        "LS3_1"
+      ],
+      "sourceLine": 79,
+      "section": "Suprarenal gland and major vessels",
+      "label": "9"
+    },
+    {
+      "id": "urinary-system-model-ls3-1-80",
+      "path": [
+        "9"
+      ],
+      "question": "Location",
+      "answer": "Retroperitoneal endocrine gland on the superior pole of each kidney.",
+      "tags": [
+        "Location",
+        "Gland",
+        "MajorVesselsAndGlands",
+        "LS3_1"
+      ],
+      "sourceLine": 80,
+      "section": "Suprarenal gland and major vessels",
+      "label": "9"
+    },
+    {
+      "id": "urinary-system-model-ls3-1-81",
+      "path": [
+        "9"
+      ],
+      "question": "Structure",
+      "answer": "Outer cortex and inner medulla.",
+      "tags": [
+        "Structure",
+        "Gland",
+        "MajorVesselsAndGlands",
+        "LS3_1"
+      ],
+      "sourceLine": 81,
+      "section": "Suprarenal gland and major vessels",
+      "label": "9"
+    },
+    {
+      "id": "urinary-system-model-ls3-1-82",
+      "path": [
+        "9"
+      ],
+      "question": "Function",
+      "answer": "Cortex produces steroid hormones; medulla produces catecholamines.",
+      "tags": [
+        "Function",
+        "Gland",
+        "MajorVesselsAndGlands",
+        "LS3_1"
+      ],
+      "sourceLine": 82,
+      "section": "Suprarenal gland and major vessels",
+      "label": "9"
+    },
+    {
+      "id": "urinary-system-model-ls3-1-83",
+      "path": [
+        "9"
+      ],
+      "question": "Blood supply",
+      "answer": "Supplied by superior, middle and inferior suprarenal arteries.",
+      "tags": [
+        "BloodSupply",
+        "Gland",
+        "MajorVesselsAndGlands",
+        "LS3_1"
+      ],
+      "sourceLine": 83,
+      "section": "Suprarenal gland and major vessels",
+      "label": "9"
+    },
+    {
+      "id": "urinary-system-model-ls3-1-86",
+      "path": [
+        "10"
+      ],
+      "question": "Identification",
+      "answer": "Abdominal aorta",
+      "tags": [
+        "Identification",
+        "Artery",
+        "MajorVesselsAndGlands",
+        "LS3_1"
+      ],
+      "sourceLine": 86,
+      "section": "Suprarenal gland and major vessels",
+      "label": "10"
+    },
+    {
+      "id": "urinary-system-model-ls3-1-87",
+      "path": [
+        "10"
+      ],
+      "question": "Course",
+      "answer": "Continuation of thoracic aorta after passing through the aortic hiatus at T12; descends anterior to vertebral bodies.",
+      "tags": [
+        "Course",
+        "Artery",
+        "MajorVesselsAndGlands",
+        "LS3_1"
+      ],
+      "sourceLine": 87,
+      "section": "Suprarenal gland and major vessels",
+      "label": "10"
+    },
+    {
+      "id": "urinary-system-model-ls3-1-88",
+      "path": [
+        "10"
+      ],
+      "question": "Branches",
+      "answer": "Major branches include coeliac trunk, superior mesenteric, renal, gonadal and inferior mesenteric arteries.",
+      "tags": [
+        "Branches",
+        "Artery",
+        "MajorVesselsAndGlands",
+        "LS3_1"
+      ],
+      "sourceLine": 88,
+      "section": "Suprarenal gland and major vessels",
+      "label": "10"
+    },
+    {
+      "id": "urinary-system-model-ls3-1-89",
+      "path": [
+        "10"
+      ],
+      "question": "Termination",
+      "answer": "Bifurcates into common iliac arteries around L4.",
+      "tags": [
+        "Termination",
+        "Artery",
+        "MajorVesselsAndGlands",
+        "LS3_1"
+      ],
+      "sourceLine": 89,
+      "section": "Suprarenal gland and major vessels",
+      "label": "10"
+    },
+    {
+      "id": "urinary-system-model-ls3-1-92",
+      "path": [
+        "11"
+      ],
+      "question": "Identification",
+      "answer": "Inferior vena cava",
+      "tags": [
+        "Identification",
+        "Vein",
+        "MajorVesselsAndGlands",
+        "LS3_1"
+      ],
+      "sourceLine": 92,
+      "section": "Suprarenal gland and major vessels",
+      "label": "11"
+    },
+    {
+      "id": "urinary-system-model-ls3-1-93",
+      "path": [
+        "11"
+      ],
+      "question": "Formation",
+      "answer": "Formed by union of the common iliac veins, usually at L5.",
+      "tags": [
+        "Formation",
+        "Vein",
+        "MajorVesselsAndGlands",
+        "LS3_1"
+      ],
+      "sourceLine": 93,
+      "section": "Suprarenal gland and major vessels",
+      "label": "11"
+    },
+    {
+      "id": "urinary-system-model-ls3-1-94",
+      "path": [
+        "11"
+      ],
+      "question": "Course",
+      "answer": "Ascends to the right of the abdominal aorta and passes through the diaphragm at T8.",
+      "tags": [
+        "Course",
+        "Vein",
+        "MajorVesselsAndGlands",
+        "LS3_1"
+      ],
+      "sourceLine": 94,
+      "section": "Suprarenal gland and major vessels",
+      "label": "11"
+    },
+    {
+      "id": "urinary-system-model-ls3-1-95",
+      "path": [
+        "11"
+      ],
+      "question": "Drainage",
+      "answer": "Receives renal veins and returns systemic venous blood to the right atrium.",
+      "tags": [
+        "Drainage",
+        "Vein",
+        "MajorVesselsAndGlands",
+        "LS3_1"
+      ],
+      "sourceLine": 95,
+      "section": "Suprarenal gland and major vessels",
+      "label": "11"
+    },
+    {
+      "id": "urinary-system-model-ls3-1-98",
+      "path": [
+        "12"
+      ],
+      "question": "Identification",
+      "answer": "Left renal artery",
+      "tags": [
+        "Identification",
+        "Artery",
+        "MajorVesselsAndGlands",
+        "LS3_1"
+      ],
+      "sourceLine": 98,
+      "section": "Suprarenal gland and major vessels",
+      "label": "12"
+    },
+    {
+      "id": "urinary-system-model-ls3-1-99",
+      "path": [
+        "12"
+      ],
+      "question": "Origin",
+      "answer": "Branch of the abdominal aorta, usually around L1–L2.",
+      "tags": [
+        "Origin",
+        "Artery",
+        "MajorVesselsAndGlands",
+        "LS3_1"
+      ],
+      "sourceLine": 99,
+      "section": "Suprarenal gland and major vessels",
+      "label": "12"
+    },
+    {
+      "id": "urinary-system-model-ls3-1-100",
+      "path": [
+        "12"
+      ],
+      "question": "Course",
+      "answer": "Passes laterally toward the left renal hilum.",
+      "tags": [
+        "Course",
+        "Artery",
+        "MajorVesselsAndGlands",
+        "LS3_1"
+      ],
+      "sourceLine": 100,
+      "section": "Suprarenal gland and major vessels",
+      "label": "12"
+    },
+    {
+      "id": "urinary-system-model-ls3-1-101",
+      "path": [
+        "12"
+      ],
+      "question": "Branches",
+      "answer": "Divides into segmental arteries near the renal hilum.",
+      "tags": [
+        "Branches",
+        "Artery",
+        "MajorVesselsAndGlands",
+        "LS3_1"
+      ],
+      "sourceLine": 101,
+      "section": "Suprarenal gland and major vessels",
+      "label": "12"
+    },
+    {
+      "id": "urinary-system-model-ls3-1-102",
+      "path": [
+        "12"
+      ],
+      "question": "Supply",
+      "answer": "Supplies the left kidney.",
+      "tags": [
+        "Supply",
+        "Artery",
+        "MajorVesselsAndGlands",
+        "LS3_1"
+      ],
+      "sourceLine": 102,
+      "section": "Suprarenal gland and major vessels",
+      "label": "12"
+    },
+    {
+      "id": "urinary-system-model-ls3-1-105",
+      "path": [
+        "13"
+      ],
+      "question": "Identification",
+      "answer": "Right renal vein",
+      "tags": [
+        "Identification",
+        "Vein",
+        "MajorVesselsAndGlands",
+        "LS3_1"
+      ],
+      "sourceLine": 105,
+      "section": "Suprarenal gland and major vessels",
+      "label": "13"
+    },
+    {
+      "id": "urinary-system-model-ls3-1-106",
+      "path": [
+        "13"
+      ],
+      "question": "Formation",
+      "answer": "Drains venous blood from the right kidney.",
+      "tags": [
+        "Formation",
+        "Vein",
+        "MajorVesselsAndGlands",
+        "LS3_1"
+      ],
+      "sourceLine": 106,
+      "section": "Suprarenal gland and major vessels",
+      "label": "13"
+    },
+    {
+      "id": "urinary-system-model-ls3-1-107",
+      "path": [
+        "13"
+      ],
+      "question": "Course",
+      "answer": "Short vein passing from right renal hilum directly to the inferior vena cava.",
+      "tags": [
+        "Course",
+        "Vein",
+        "MajorVesselsAndGlands",
+        "LS3_1"
+      ],
+      "sourceLine": 107,
+      "section": "Suprarenal gland and major vessels",
+      "label": "13"
+    },
+    {
+      "id": "urinary-system-model-ls3-1-108",
+      "path": [
+        "13"
+      ],
+      "question": "Termination",
+      "answer": "Inferior vena cava.",
+      "tags": [
+        "Termination",
+        "Vein",
+        "MajorVesselsAndGlands",
+        "LS3_1"
+      ],
+      "sourceLine": 108,
+      "section": "Suprarenal gland and major vessels",
+      "label": "13"
+    },
+    {
+      "id": "urinary-system-model-ls3-1-112",
+      "path": [
+        "14"
+      ],
+      "question": "Identification",
+      "answer": "Ureteric orifice",
+      "tags": [
+        "Identification",
+        "Opening",
+        "Bladder",
+        "LS3_1"
+      ],
+      "sourceLine": 112,
+      "section": "Bladder openings and trigone",
+      "label": "14"
+    },
+    {
+      "id": "urinary-system-model-ls3-1-113",
+      "path": [
+        "14"
+      ],
+      "question": "Location",
+      "answer": "Paired openings where the ureters enter the posterolateral bladder wall.",
+      "tags": [
+        "Location",
+        "Opening",
+        "Bladder",
+        "LS3_1"
+      ],
+      "sourceLine": 113,
+      "section": "Bladder openings and trigone",
+      "label": "14"
+    },
+    {
+      "id": "urinary-system-model-ls3-1-114",
+      "path": [
+        "14"
+      ],
+      "question": "Relations",
+      "answer": "Form the two superior corners of the bladder trigone.",
+      "tags": [
+        "Relations",
+        "Opening",
+        "Bladder",
+        "LS3_1"
+      ],
+      "sourceLine": 114,
+      "section": "Bladder openings and trigone",
+      "label": "14"
+    },
+    {
+      "id": "urinary-system-model-ls3-1-115",
+      "path": [
+        "14"
+      ],
+      "question": "Function",
+      "answer": "Permit urine to enter the bladder; oblique intramural course helps resist vesico-ureteric reflux.",
+      "tags": [
+        "Function",
+        "Opening",
+        "Bladder",
+        "LS3_1"
+      ],
+      "sourceLine": 115,
+      "section": "Bladder openings and trigone",
+      "label": "14"
+    },
+    {
+      "id": "urinary-system-model-ls3-1-118",
+      "path": [
+        "15"
+      ],
+      "question": "Identification",
+      "answer": "Trigone of the bladder",
+      "tags": [
+        "Identification",
+        "BladderRegion",
+        "Bladder",
+        "LS3_1"
+      ],
+      "sourceLine": 118,
+      "section": "Bladder openings and trigone",
+      "label": "15"
+    },
+    {
+      "id": "urinary-system-model-ls3-1-119",
+      "path": [
+        "15"
+      ],
+      "question": "Location",
+      "answer": "Smooth triangular area on the internal bladder base.",
+      "tags": [
+        "Location",
+        "BladderRegion",
+        "Bladder",
+        "LS3_1"
+      ],
+      "sourceLine": 119,
+      "section": "Bladder openings and trigone",
+      "label": "15"
+    },
+    {
+      "id": "urinary-system-model-ls3-1-120",
+      "path": [
+        "15"
+      ],
+      "question": "Boundaries",
+      "answer": "Two ureteric orifices superolaterally and internal urethral orifice inferiorly.",
+      "tags": [
+        "Landmarks",
+        "BladderRegion",
+        "Bladder",
+        "LS3_1"
+      ],
+      "sourceLine": 120,
+      "section": "Bladder openings and trigone",
+      "label": "15"
+    },
+    {
+      "id": "urinary-system-model-ls3-1-121",
+      "path": [
+        "15"
+      ],
+      "question": "Structure",
+      "answer": "Unlike most bladder mucosa, it is smooth and lacks rugae when empty.",
+      "tags": [
+        "Structure",
+        "BladderRegion",
+        "Bladder",
+        "LS3_1"
+      ],
+      "sourceLine": 121,
+      "section": "Bladder openings and trigone",
+      "label": "15"
+    },
+    {
+      "id": "urinary-system-model-ls3-1-122",
+      "path": [
+        "15"
+      ],
+      "question": "Clinical relevance",
+      "answer": "Clinically important region around the ureteric and urethral openings.",
+      "tags": [
+        "Clinical",
+        "BladderRegion",
+        "Bladder",
+        "LS3_1"
+      ],
+      "sourceLine": 122,
+      "section": "Bladder openings and trigone",
+      "label": "15"
+    }
+  ]
+}

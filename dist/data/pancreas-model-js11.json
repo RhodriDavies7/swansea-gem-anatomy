@@ -1,0 +1,1451 @@
+{
+  "id": "pancreas-model-js11",
+  "name": "Pancreas (Model JS11)",
+  "cards": [
+    {
+      "id": "pancreas-model-js11-3",
+      "path": [
+        "A"
+      ],
+      "question": "Identification",
+      "answer": "Pancreas",
+      "tags": [
+        "Identification",
+        "Organ",
+        "MajorOrgans",
+        "JS11"
+      ],
+      "sourceLine": 3,
+      "section": "Major organs",
+      "label": "A"
+    },
+    {
+      "id": "pancreas-model-js11-4",
+      "path": [
+        "A"
+      ],
+      "question": "Location",
+      "answer": "Retroperitoneal organ extending transversely from the duodenum toward the spleen.",
+      "tags": [
+        "Location",
+        "Organ",
+        "MajorOrgans",
+        "JS11"
+      ],
+      "sourceLine": 4,
+      "section": "Major organs",
+      "label": "A"
+    },
+    {
+      "id": "pancreas-model-js11-5",
+      "path": [
+        "A"
+      ],
+      "question": "Parts",
+      "answer": "Head, uncinate process, neck, body and tail.",
+      "tags": [
+        "Parts",
+        "Organ",
+        "MajorOrgans",
+        "JS11"
+      ],
+      "sourceLine": 5,
+      "section": "Major organs",
+      "label": "A"
+    },
+    {
+      "id": "pancreas-model-js11-6",
+      "path": [
+        "A"
+      ],
+      "question": "Function",
+      "answer": "Exocrine secretion of digestive enzymes and bicarbonate; endocrine secretion including insulin and glucagon.",
+      "tags": [
+        "Function",
+        "Organ",
+        "MajorOrgans",
+        "JS11"
+      ],
+      "sourceLine": 6,
+      "section": "Major organs",
+      "label": "A"
+    },
+    {
+      "id": "pancreas-model-js11-7",
+      "path": [
+        "A"
+      ],
+      "question": "Blood supply",
+      "answer": "Mainly pancreatic branches of splenic artery and superior/inferior pancreaticoduodenal arteries.",
+      "tags": [
+        "BloodSupply",
+        "Organ",
+        "MajorOrgans",
+        "JS11"
+      ],
+      "sourceLine": 7,
+      "section": "Major organs",
+      "label": "A"
+    },
+    {
+      "id": "pancreas-model-js11-8",
+      "path": [
+        "A"
+      ],
+      "question": "Relations",
+      "answer": "Head lies within the C-shaped duodenum; tail approaches the splenic hilum.",
+      "tags": [
+        "Relations",
+        "Organ",
+        "MajorOrgans",
+        "JS11"
+      ],
+      "sourceLine": 8,
+      "section": "Major organs",
+      "label": "A"
+    },
+    {
+      "id": "pancreas-model-js11-11",
+      "path": [
+        "B"
+      ],
+      "question": "Identification",
+      "answer": "Spleen",
+      "tags": [
+        "Identification",
+        "Organ",
+        "MajorOrgans",
+        "JS11"
+      ],
+      "sourceLine": 11,
+      "section": "Major organs",
+      "label": "B"
+    },
+    {
+      "id": "pancreas-model-js11-12",
+      "path": [
+        "B"
+      ],
+      "question": "Location",
+      "answer": "Left upper quadrant, deep to ribs 9–11.",
+      "tags": [
+        "Location",
+        "Organ",
+        "MajorOrgans",
+        "JS11"
+      ],
+      "sourceLine": 12,
+      "section": "Major organs",
+      "label": "B"
+    },
+    {
+      "id": "pancreas-model-js11-13",
+      "path": [
+        "B"
+      ],
+      "question": "Function",
+      "answer": "Filters blood, removes senescent erythrocytes and supports immune function.",
+      "tags": [
+        "Function",
+        "Organ",
+        "MajorOrgans",
+        "JS11"
+      ],
+      "sourceLine": 13,
+      "section": "Major organs",
+      "label": "B"
+    },
+    {
+      "id": "pancreas-model-js11-14",
+      "path": [
+        "B"
+      ],
+      "question": "Blood supply",
+      "answer": "Splenic artery; venous drainage via splenic vein.",
+      "tags": [
+        "BloodSupply",
+        "Organ",
+        "MajorOrgans",
+        "JS11"
+      ],
+      "sourceLine": 14,
+      "section": "Major organs",
+      "label": "B"
+    },
+    {
+      "id": "pancreas-model-js11-15",
+      "path": [
+        "B"
+      ],
+      "question": "Relations",
+      "answer": "Related to stomach, left kidney, colon and tail of pancreas.",
+      "tags": [
+        "Relations",
+        "Organ",
+        "MajorOrgans",
+        "JS11"
+      ],
+      "sourceLine": 15,
+      "section": "Major organs",
+      "label": "B"
+    },
+    {
+      "id": "pancreas-model-js11-18",
+      "path": [
+        "C"
+      ],
+      "question": "Identification",
+      "answer": "Duodenum",
+      "tags": [
+        "Identification",
+        "Organ",
+        "MajorOrgans",
+        "JS11"
+      ],
+      "sourceLine": 18,
+      "section": "Major organs",
+      "label": "C"
+    },
+    {
+      "id": "pancreas-model-js11-19",
+      "path": [
+        "C"
+      ],
+      "question": "Parts",
+      "answer": "Superior, descending, horizontal and ascending parts.",
+      "tags": [
+        "Parts",
+        "Organ",
+        "MajorOrgans",
+        "JS11"
+      ],
+      "sourceLine": 19,
+      "section": "Major organs",
+      "label": "C"
+    },
+    {
+      "id": "pancreas-model-js11-20",
+      "path": [
+        "C"
+      ],
+      "question": "Function",
+      "answer": "Receives gastric chyme, bile and pancreatic secretions and begins major small-intestinal digestion.",
+      "tags": [
+        "Function",
+        "Organ",
+        "MajorOrgans",
+        "JS11"
+      ],
+      "sourceLine": 20,
+      "section": "Major organs",
+      "label": "C"
+    },
+    {
+      "id": "pancreas-model-js11-21",
+      "path": [
+        "C"
+      ],
+      "question": "Relations",
+      "answer": "C-shaped around the pancreatic head.",
+      "tags": [
+        "Relations",
+        "Organ",
+        "MajorOrgans",
+        "JS11"
+      ],
+      "sourceLine": 21,
+      "section": "Major organs",
+      "label": "C"
+    },
+    {
+      "id": "pancreas-model-js11-22",
+      "path": [
+        "C"
+      ],
+      "question": "Blood supply",
+      "answer": "Superior pancreaticoduodenal branches from gastroduodenal artery and inferior pancreaticoduodenal branches from SMA.",
+      "tags": [
+        "BloodSupply",
+        "Organ",
+        "MajorOrgans",
+        "JS11"
+      ],
+      "sourceLine": 22,
+      "section": "Major organs",
+      "label": "C"
+    },
+    {
+      "id": "pancreas-model-js11-26",
+      "path": [
+        "1"
+      ],
+      "question": "Identification",
+      "answer": "Major pancreatic duct (duct of Wirsung)",
+      "tags": [
+        "Identification",
+        "Duct",
+        "Ducts",
+        "JS11"
+      ],
+      "sourceLine": 26,
+      "section": "Pancreatic and biliary ducts",
+      "label": "1"
+    },
+    {
+      "id": "pancreas-model-js11-27",
+      "path": [
+        "1"
+      ],
+      "question": "Course",
+      "answer": "Runs from the tail through the body toward the pancreatic head.",
+      "tags": [
+        "Course",
+        "Duct",
+        "Ducts",
+        "JS11"
+      ],
+      "sourceLine": 27,
+      "section": "Pancreatic and biliary ducts",
+      "label": "1"
+    },
+    {
+      "id": "pancreas-model-js11-28",
+      "path": [
+        "1"
+      ],
+      "question": "Termination",
+      "answer": "Usually joins the common bile duct to form the hepatopancreatic ampulla and opens at the major duodenal papilla.",
+      "tags": [
+        "Termination",
+        "Duct",
+        "Ducts",
+        "JS11"
+      ],
+      "sourceLine": 28,
+      "section": "Pancreatic and biliary ducts",
+      "label": "1"
+    },
+    {
+      "id": "pancreas-model-js11-29",
+      "path": [
+        "1"
+      ],
+      "question": "Function",
+      "answer": "Drains most exocrine pancreatic secretions into the duodenum.",
+      "tags": [
+        "Function",
+        "Duct",
+        "Ducts",
+        "JS11"
+      ],
+      "sourceLine": 29,
+      "section": "Pancreatic and biliary ducts",
+      "label": "1"
+    },
+    {
+      "id": "pancreas-model-js11-30",
+      "path": [
+        "1"
+      ],
+      "question": "Clinical relevance",
+      "answer": "Obstruction can contribute to pancreatitis.",
+      "tags": [
+        "Clinical",
+        "Duct",
+        "Ducts",
+        "JS11"
+      ],
+      "sourceLine": 30,
+      "section": "Pancreatic and biliary ducts",
+      "label": "1"
+    },
+    {
+      "id": "pancreas-model-js11-33",
+      "path": [
+        "2"
+      ],
+      "question": "Identification",
+      "answer": "Accessory pancreatic duct (duct of Santorini)",
+      "tags": [
+        "Identification",
+        "Duct",
+        "Ducts",
+        "JS11"
+      ],
+      "sourceLine": 33,
+      "section": "Pancreatic and biliary ducts",
+      "label": "2"
+    },
+    {
+      "id": "pancreas-model-js11-34",
+      "path": [
+        "2"
+      ],
+      "question": "Course",
+      "answer": "Drains part of the pancreatic head and may communicate with the major pancreatic duct.",
+      "tags": [
+        "Course",
+        "Duct",
+        "Ducts",
+        "JS11"
+      ],
+      "sourceLine": 34,
+      "section": "Pancreatic and biliary ducts",
+      "label": "2"
+    },
+    {
+      "id": "pancreas-model-js11-35",
+      "path": [
+        "2"
+      ],
+      "question": "Termination",
+      "answer": "Typically opens into the minor duodenal papilla.",
+      "tags": [
+        "Termination",
+        "Duct",
+        "Ducts",
+        "JS11"
+      ],
+      "sourceLine": 35,
+      "section": "Pancreatic and biliary ducts",
+      "label": "2"
+    },
+    {
+      "id": "pancreas-model-js11-36",
+      "path": [
+        "2"
+      ],
+      "question": "Function",
+      "answer": "Provides an additional drainage route for pancreatic secretions.",
+      "tags": [
+        "Function",
+        "Duct",
+        "Ducts",
+        "JS11"
+      ],
+      "sourceLine": 36,
+      "section": "Pancreatic and biliary ducts",
+      "label": "2"
+    },
+    {
+      "id": "pancreas-model-js11-39",
+      "path": [
+        "3"
+      ],
+      "question": "Identification",
+      "answer": "Common bile duct",
+      "tags": [
+        "Identification",
+        "Duct",
+        "Ducts",
+        "JS11"
+      ],
+      "sourceLine": 39,
+      "section": "Pancreatic and biliary ducts",
+      "label": "3"
+    },
+    {
+      "id": "pancreas-model-js11-40",
+      "path": [
+        "3"
+      ],
+      "question": "Formation",
+      "answer": "Formed by union of the common hepatic duct and cystic duct.",
+      "tags": [
+        "Formation",
+        "Duct",
+        "Ducts",
+        "JS11"
+      ],
+      "sourceLine": 40,
+      "section": "Pancreatic and biliary ducts",
+      "label": "3"
+    },
+    {
+      "id": "pancreas-model-js11-41",
+      "path": [
+        "3"
+      ],
+      "question": "Course",
+      "answer": "Descends in the hepatoduodenal ligament, passes posterior to the first part of the duodenum and through/behind the pancreatic head.",
+      "tags": [
+        "Course",
+        "Duct",
+        "Ducts",
+        "JS11"
+      ],
+      "sourceLine": 41,
+      "section": "Pancreatic and biliary ducts",
+      "label": "3"
+    },
+    {
+      "id": "pancreas-model-js11-42",
+      "path": [
+        "3"
+      ],
+      "question": "Termination",
+      "answer": "Usually joins the major pancreatic duct and opens at the major duodenal papilla.",
+      "tags": [
+        "Termination",
+        "Duct",
+        "Ducts",
+        "JS11"
+      ],
+      "sourceLine": 42,
+      "section": "Pancreatic and biliary ducts",
+      "label": "3"
+    },
+    {
+      "id": "pancreas-model-js11-43",
+      "path": [
+        "3"
+      ],
+      "question": "Function",
+      "answer": "Carries bile to the second part of the duodenum.",
+      "tags": [
+        "Function",
+        "Duct",
+        "Ducts",
+        "JS11"
+      ],
+      "sourceLine": 43,
+      "section": "Pancreatic and biliary ducts",
+      "label": "3"
+    },
+    {
+      "id": "pancreas-model-js11-46",
+      "path": [
+        "4"
+      ],
+      "question": "Identification",
+      "answer": "Longitudinal fold of the duodenum",
+      "tags": [
+        "Identification",
+        "MucosalFold",
+        "Ducts",
+        "JS11"
+      ],
+      "sourceLine": 46,
+      "section": "Pancreatic and biliary ducts",
+      "label": "4"
+    },
+    {
+      "id": "pancreas-model-js11-47",
+      "path": [
+        "4"
+      ],
+      "question": "Location",
+      "answer": "Longitudinal mucosal fold on the medial wall of the descending duodenum.",
+      "tags": [
+        "Location",
+        "MucosalFold",
+        "Ducts",
+        "JS11"
+      ],
+      "sourceLine": 47,
+      "section": "Pancreatic and biliary ducts",
+      "label": "4"
+    },
+    {
+      "id": "pancreas-model-js11-48",
+      "path": [
+        "4"
+      ],
+      "question": "Relations",
+      "answer": "The major duodenal papilla lies on the fold.",
+      "tags": [
+        "Relations",
+        "MucosalFold",
+        "Ducts",
+        "JS11"
+      ],
+      "sourceLine": 48,
+      "section": "Pancreatic and biliary ducts",
+      "label": "4"
+    },
+    {
+      "id": "pancreas-model-js11-49",
+      "path": [
+        "4"
+      ],
+      "question": "Function",
+      "answer": "Marks the region where bile and pancreatic secretions enter the duodenum.",
+      "tags": [
+        "Function",
+        "MucosalFold",
+        "Ducts",
+        "JS11"
+      ],
+      "sourceLine": 49,
+      "section": "Pancreatic and biliary ducts",
+      "label": "4"
+    },
+    {
+      "id": "pancreas-model-js11-53",
+      "path": [
+        "5"
+      ],
+      "question": "Identification",
+      "answer": "Portal vein",
+      "tags": [
+        "Identification",
+        "Vein",
+        "Veins",
+        "JS11"
+      ],
+      "sourceLine": 53,
+      "section": "Veins",
+      "label": "5"
+    },
+    {
+      "id": "pancreas-model-js11-54",
+      "path": [
+        "5"
+      ],
+      "question": "Formation",
+      "answer": "Usually formed by union of the superior mesenteric and splenic veins behind the neck of the pancreas.",
+      "tags": [
+        "Formation",
+        "Vein",
+        "Veins",
+        "JS11"
+      ],
+      "sourceLine": 54,
+      "section": "Veins",
+      "label": "5"
+    },
+    {
+      "id": "pancreas-model-js11-55",
+      "path": [
+        "5"
+      ],
+      "question": "Course",
+      "answer": "Ascends posterior to the first part of the duodenum and within the hepatoduodenal ligament to the liver.",
+      "tags": [
+        "Course",
+        "Vein",
+        "Veins",
+        "JS11"
+      ],
+      "sourceLine": 55,
+      "section": "Veins",
+      "label": "5"
+    },
+    {
+      "id": "pancreas-model-js11-56",
+      "path": [
+        "5"
+      ],
+      "question": "Drainage",
+      "answer": "Carries nutrient-rich venous blood from the gastrointestinal tract, spleen, pancreas and gallbladder to the liver.",
+      "tags": [
+        "Drainage",
+        "Vein",
+        "Veins",
+        "JS11"
+      ],
+      "sourceLine": 56,
+      "section": "Veins",
+      "label": "5"
+    },
+    {
+      "id": "pancreas-model-js11-57",
+      "path": [
+        "5"
+      ],
+      "question": "Clinical relevance",
+      "answer": "Portal hypertension can cause varices, ascites and portosystemic collateral formation.",
+      "tags": [
+        "Clinical",
+        "Vein",
+        "Veins",
+        "JS11"
+      ],
+      "sourceLine": 57,
+      "section": "Veins",
+      "label": "5"
+    },
+    {
+      "id": "pancreas-model-js11-60",
+      "path": [
+        "6"
+      ],
+      "question": "Identification",
+      "answer": "Splenic vein",
+      "tags": [
+        "Identification",
+        "Vein",
+        "Veins",
+        "JS11"
+      ],
+      "sourceLine": 60,
+      "section": "Veins",
+      "label": "6"
+    },
+    {
+      "id": "pancreas-model-js11-61",
+      "path": [
+        "6"
+      ],
+      "question": "Formation",
+      "answer": "Receives venous drainage from the spleen and tributaries from pancreas and stomach.",
+      "tags": [
+        "Formation",
+        "Vein",
+        "Veins",
+        "JS11"
+      ],
+      "sourceLine": 61,
+      "section": "Veins",
+      "label": "6"
+    },
+    {
+      "id": "pancreas-model-js11-62",
+      "path": [
+        "6"
+      ],
+      "question": "Course",
+      "answer": "Runs along the posterior surface of the pancreas.",
+      "tags": [
+        "Course",
+        "Vein",
+        "Veins",
+        "JS11"
+      ],
+      "sourceLine": 62,
+      "section": "Veins",
+      "label": "6"
+    },
+    {
+      "id": "pancreas-model-js11-63",
+      "path": [
+        "6"
+      ],
+      "question": "Termination",
+      "answer": "Joins the superior mesenteric vein to form the portal vein.",
+      "tags": [
+        "Termination",
+        "Vein",
+        "Veins",
+        "JS11"
+      ],
+      "sourceLine": 63,
+      "section": "Veins",
+      "label": "6"
+    },
+    {
+      "id": "pancreas-model-js11-64",
+      "path": [
+        "6"
+      ],
+      "question": "Relations",
+      "answer": "Closely related to the posterior surface of the pancreatic body.",
+      "tags": [
+        "Relations",
+        "Vein",
+        "Veins",
+        "JS11"
+      ],
+      "sourceLine": 64,
+      "section": "Veins",
+      "label": "6"
+    },
+    {
+      "id": "pancreas-model-js11-67",
+      "path": [
+        "7"
+      ],
+      "question": "Identification",
+      "answer": "Superior mesenteric vein",
+      "tags": [
+        "Identification",
+        "Vein",
+        "Veins",
+        "JS11"
+      ],
+      "sourceLine": 67,
+      "section": "Veins",
+      "label": "7"
+    },
+    {
+      "id": "pancreas-model-js11-68",
+      "path": [
+        "7"
+      ],
+      "question": "Formation",
+      "answer": "Formed by tributaries draining the small intestine and much of the large intestine.",
+      "tags": [
+        "Formation",
+        "Vein",
+        "Veins",
+        "JS11"
+      ],
+      "sourceLine": 68,
+      "section": "Veins",
+      "label": "7"
+    },
+    {
+      "id": "pancreas-model-js11-69",
+      "path": [
+        "7"
+      ],
+      "question": "Course",
+      "answer": "Ascends in the root of the mesentery and passes anterior to the third part of the duodenum.",
+      "tags": [
+        "Course",
+        "Vein",
+        "Veins",
+        "JS11"
+      ],
+      "sourceLine": 69,
+      "section": "Veins",
+      "label": "7"
+    },
+    {
+      "id": "pancreas-model-js11-70",
+      "path": [
+        "7"
+      ],
+      "question": "Termination",
+      "answer": "Joins the splenic vein behind the neck of the pancreas to form the portal vein.",
+      "tags": [
+        "Termination",
+        "Vein",
+        "Veins",
+        "JS11"
+      ],
+      "sourceLine": 70,
+      "section": "Veins",
+      "label": "7"
+    },
+    {
+      "id": "pancreas-model-js11-71",
+      "path": [
+        "7"
+      ],
+      "question": "Drainage",
+      "answer": "Drains the midgut-derived gastrointestinal tract.",
+      "tags": [
+        "Drainage",
+        "Vein",
+        "Veins",
+        "JS11"
+      ],
+      "sourceLine": 71,
+      "section": "Veins",
+      "label": "7"
+    },
+    {
+      "id": "pancreas-model-js11-75",
+      "path": [
+        "8"
+      ],
+      "question": "Identification",
+      "answer": "Coeliac trunk",
+      "tags": [
+        "Identification",
+        "Artery",
+        "Arteries",
+        "JS11"
+      ],
+      "sourceLine": 75,
+      "section": "Arteries",
+      "label": "8"
+    },
+    {
+      "id": "pancreas-model-js11-76",
+      "path": [
+        "8"
+      ],
+      "question": "Origin",
+      "answer": "Arises from the abdominal aorta around T12, just below the aortic hiatus.",
+      "tags": [
+        "Origin",
+        "Artery",
+        "Arteries",
+        "JS11"
+      ],
+      "sourceLine": 76,
+      "section": "Arteries",
+      "label": "8"
+    },
+    {
+      "id": "pancreas-model-js11-77",
+      "path": [
+        "8"
+      ],
+      "question": "Branches",
+      "answer": "Classically divides into left gastric, splenic and common hepatic arteries.",
+      "tags": [
+        "Branches",
+        "Artery",
+        "Arteries",
+        "JS11"
+      ],
+      "sourceLine": 77,
+      "section": "Arteries",
+      "label": "8"
+    },
+    {
+      "id": "pancreas-model-js11-78",
+      "path": [
+        "8"
+      ],
+      "question": "Supply",
+      "answer": "Supplies foregut-derived abdominal organs.",
+      "tags": [
+        "Supply",
+        "Artery",
+        "Arteries",
+        "JS11"
+      ],
+      "sourceLine": 78,
+      "section": "Arteries",
+      "label": "8"
+    },
+    {
+      "id": "pancreas-model-js11-81",
+      "path": [
+        "9"
+      ],
+      "question": "Identification",
+      "answer": "Hepatic artery",
+      "tags": [
+        "Identification",
+        "Artery",
+        "Arteries",
+        "JS11"
+      ],
+      "sourceLine": 81,
+      "section": "Arteries",
+      "label": "9"
+    },
+    {
+      "id": "pancreas-model-js11-82",
+      "path": [
+        "9"
+      ],
+      "question": "Origin",
+      "answer": "Common hepatic artery is a branch of the coeliac trunk; proper hepatic artery continues after giving the gastroduodenal artery.",
+      "tags": [
+        "Origin",
+        "Artery",
+        "Arteries",
+        "JS11"
+      ],
+      "sourceLine": 82,
+      "section": "Arteries",
+      "label": "9"
+    },
+    {
+      "id": "pancreas-model-js11-83",
+      "path": [
+        "9"
+      ],
+      "question": "Course",
+      "answer": "Proper hepatic artery ascends in the hepatoduodenal ligament.",
+      "tags": [
+        "Course",
+        "Artery",
+        "Arteries",
+        "JS11"
+      ],
+      "sourceLine": 83,
+      "section": "Arteries",
+      "label": "9"
+    },
+    {
+      "id": "pancreas-model-js11-84",
+      "path": [
+        "9"
+      ],
+      "question": "Branches",
+      "answer": "Commonly gives right and left hepatic branches distally.",
+      "tags": [
+        "Branches",
+        "Artery",
+        "Arteries",
+        "JS11"
+      ],
+      "sourceLine": 84,
+      "section": "Arteries",
+      "label": "9"
+    },
+    {
+      "id": "pancreas-model-js11-85",
+      "path": [
+        "9"
+      ],
+      "question": "Supply",
+      "answer": "Provides arterial blood to liver and parts of the biliary system.",
+      "tags": [
+        "Supply",
+        "Artery",
+        "Arteries",
+        "JS11"
+      ],
+      "sourceLine": 85,
+      "section": "Arteries",
+      "label": "9"
+    },
+    {
+      "id": "pancreas-model-js11-88",
+      "path": [
+        "10"
+      ],
+      "question": "Identification",
+      "answer": "Splenic artery",
+      "tags": [
+        "Identification",
+        "Artery",
+        "Arteries",
+        "JS11"
+      ],
+      "sourceLine": 88,
+      "section": "Arteries",
+      "label": "10"
+    },
+    {
+      "id": "pancreas-model-js11-89",
+      "path": [
+        "10"
+      ],
+      "question": "Origin",
+      "answer": "Branch of the coeliac trunk.",
+      "tags": [
+        "Origin",
+        "Artery",
+        "Arteries",
+        "JS11"
+      ],
+      "sourceLine": 89,
+      "section": "Arteries",
+      "label": "10"
+    },
+    {
+      "id": "pancreas-model-js11-90",
+      "path": [
+        "10"
+      ],
+      "question": "Course",
+      "answer": "Runs tortuously along the superior border of the pancreas toward the spleen.",
+      "tags": [
+        "Course",
+        "Artery",
+        "Arteries",
+        "JS11"
+      ],
+      "sourceLine": 90,
+      "section": "Arteries",
+      "label": "10"
+    },
+    {
+      "id": "pancreas-model-js11-91",
+      "path": [
+        "10"
+      ],
+      "question": "Branches",
+      "answer": "Gives pancreatic branches and short gastric/left gastro-omental branches.",
+      "tags": [
+        "Branches",
+        "Artery",
+        "Arteries",
+        "JS11"
+      ],
+      "sourceLine": 91,
+      "section": "Arteries",
+      "label": "10"
+    },
+    {
+      "id": "pancreas-model-js11-92",
+      "path": [
+        "10"
+      ],
+      "question": "Supply",
+      "answer": "Supplies spleen and contributes to blood supply of pancreas and stomach.",
+      "tags": [
+        "Supply",
+        "Artery",
+        "Arteries",
+        "JS11"
+      ],
+      "sourceLine": 92,
+      "section": "Arteries",
+      "label": "10"
+    },
+    {
+      "id": "pancreas-model-js11-95",
+      "path": [
+        "11"
+      ],
+      "question": "Identification",
+      "answer": "Gastric artery",
+      "tags": [
+        "Identification",
+        "Artery",
+        "Arteries",
+        "JS11"
+      ],
+      "sourceLine": 95,
+      "section": "Arteries",
+      "label": "11"
+    },
+    {
+      "id": "pancreas-model-js11-96",
+      "path": [
+        "11"
+      ],
+      "question": "Origin",
+      "answer": "The left gastric artery is a branch of the coeliac trunk.",
+      "tags": [
+        "Origin",
+        "Artery",
+        "Arteries",
+        "JS11"
+      ],
+      "sourceLine": 96,
+      "section": "Arteries",
+      "label": "11"
+    },
+    {
+      "id": "pancreas-model-js11-97",
+      "path": [
+        "11"
+      ],
+      "question": "Course",
+      "answer": "Runs toward the lesser curvature of the stomach.",
+      "tags": [
+        "Course",
+        "Artery",
+        "Arteries",
+        "JS11"
+      ],
+      "sourceLine": 97,
+      "section": "Arteries",
+      "label": "11"
+    },
+    {
+      "id": "pancreas-model-js11-98",
+      "path": [
+        "11"
+      ],
+      "question": "Supply",
+      "answer": "Supplies the stomach and lower oesophagus.",
+      "tags": [
+        "Supply",
+        "Artery",
+        "Arteries",
+        "JS11"
+      ],
+      "sourceLine": 98,
+      "section": "Arteries",
+      "label": "11"
+    },
+    {
+      "id": "pancreas-model-js11-99",
+      "path": [
+        "11"
+      ],
+      "question": "Model note",
+      "answer": "The supplied model key states 'Gastric artery'; this card uses the left gastric artery as the usual named coeliac branch.",
+      "tags": [
+        "ModelNote",
+        "Artery",
+        "Arteries",
+        "JS11"
+      ],
+      "sourceLine": 99,
+      "section": "Arteries",
+      "label": "11"
+    },
+    {
+      "id": "pancreas-model-js11-102",
+      "path": [
+        "12"
+      ],
+      "question": "Identification",
+      "answer": "Gastroduodenal artery",
+      "tags": [
+        "Identification",
+        "Artery",
+        "Arteries",
+        "JS11"
+      ],
+      "sourceLine": 102,
+      "section": "Arteries",
+      "label": "12"
+    },
+    {
+      "id": "pancreas-model-js11-103",
+      "path": [
+        "12"
+      ],
+      "question": "Origin",
+      "answer": "Usually arises from the common hepatic artery.",
+      "tags": [
+        "Origin",
+        "Artery",
+        "Arteries",
+        "JS11"
+      ],
+      "sourceLine": 103,
+      "section": "Arteries",
+      "label": "12"
+    },
+    {
+      "id": "pancreas-model-js11-104",
+      "path": [
+        "12"
+      ],
+      "question": "Course",
+      "answer": "Descends posterior to the first part of the duodenum.",
+      "tags": [
+        "Course",
+        "Artery",
+        "Arteries",
+        "JS11"
+      ],
+      "sourceLine": 104,
+      "section": "Arteries",
+      "label": "12"
+    },
+    {
+      "id": "pancreas-model-js11-105",
+      "path": [
+        "12"
+      ],
+      "question": "Branches",
+      "answer": "Gives superior pancreaticoduodenal and right gastro-omental arteries.",
+      "tags": [
+        "Branches",
+        "Artery",
+        "Arteries",
+        "JS11"
+      ],
+      "sourceLine": 105,
+      "section": "Arteries",
+      "label": "12"
+    },
+    {
+      "id": "pancreas-model-js11-106",
+      "path": [
+        "12"
+      ],
+      "question": "Supply",
+      "answer": "Supplies proximal duodenum, pancreatic head and part of stomach.",
+      "tags": [
+        "Supply",
+        "Artery",
+        "Arteries",
+        "JS11"
+      ],
+      "sourceLine": 106,
+      "section": "Arteries",
+      "label": "12"
+    },
+    {
+      "id": "pancreas-model-js11-107",
+      "path": [
+        "12"
+      ],
+      "question": "Clinical relevance",
+      "answer": "Posterior duodenal ulcers may erode this artery and cause major haemorrhage.",
+      "tags": [
+        "Clinical",
+        "Artery",
+        "Arteries",
+        "JS11"
+      ],
+      "sourceLine": 107,
+      "section": "Arteries",
+      "label": "12"
+    },
+    {
+      "id": "pancreas-model-js11-110",
+      "path": [
+        "13"
+      ],
+      "question": "Identification",
+      "answer": "Superior mesenteric artery",
+      "tags": [
+        "Identification",
+        "Artery",
+        "Arteries",
+        "JS11"
+      ],
+      "sourceLine": 110,
+      "section": "Arteries",
+      "label": "13"
+    },
+    {
+      "id": "pancreas-model-js11-111",
+      "path": [
+        "13"
+      ],
+      "question": "Origin",
+      "answer": "Arises from the anterior abdominal aorta at approximately L1.",
+      "tags": [
+        "Origin",
+        "Artery",
+        "Arteries",
+        "JS11"
+      ],
+      "sourceLine": 111,
+      "section": "Arteries",
+      "label": "13"
+    },
+    {
+      "id": "pancreas-model-js11-112",
+      "path": [
+        "13"
+      ],
+      "question": "Course",
+      "answer": "Passes posterior to the neck of the pancreas and anterior to the third part of the duodenum.",
+      "tags": [
+        "Course",
+        "Artery",
+        "Arteries",
+        "JS11"
+      ],
+      "sourceLine": 112,
+      "section": "Arteries",
+      "label": "13"
+    },
+    {
+      "id": "pancreas-model-js11-113",
+      "path": [
+        "13"
+      ],
+      "question": "Branches",
+      "answer": "Gives inferior pancreaticoduodenal, intestinal, ileocolic, right colic and middle colic branches.",
+      "tags": [
+        "Branches",
+        "Artery",
+        "Arteries",
+        "JS11"
+      ],
+      "sourceLine": 113,
+      "section": "Arteries",
+      "label": "13"
+    },
+    {
+      "id": "pancreas-model-js11-114",
+      "path": [
+        "13"
+      ],
+      "question": "Supply",
+      "answer": "Supplies the midgut.",
+      "tags": [
+        "Supply",
+        "Artery",
+        "Arteries",
+        "JS11"
+      ],
+      "sourceLine": 114,
+      "section": "Arteries",
+      "label": "13"
+    },
+    {
+      "id": "pancreas-model-js11-117",
+      "path": [
+        "14"
+      ],
+      "question": "Identification",
+      "answer": "Inferior pancreaticoduodenal artery",
+      "tags": [
+        "Identification",
+        "Artery",
+        "Arteries",
+        "JS11"
+      ],
+      "sourceLine": 117,
+      "section": "Arteries",
+      "label": "14"
+    },
+    {
+      "id": "pancreas-model-js11-118",
+      "path": [
+        "14"
+      ],
+      "question": "Origin",
+      "answer": "Usually the first branch of the superior mesenteric artery.",
+      "tags": [
+        "Origin",
+        "Artery",
+        "Arteries",
+        "JS11"
+      ],
+      "sourceLine": 118,
+      "section": "Arteries",
+      "label": "14"
+    },
+    {
+      "id": "pancreas-model-js11-119",
+      "path": [
+        "14"
+      ],
+      "question": "Course",
+      "answer": "Runs around the head of the pancreas and duodenum.",
+      "tags": [
+        "Course",
+        "Artery",
+        "Arteries",
+        "JS11"
+      ],
+      "sourceLine": 119,
+      "section": "Arteries",
+      "label": "14"
+    },
+    {
+      "id": "pancreas-model-js11-120",
+      "path": [
+        "14"
+      ],
+      "question": "Branches",
+      "answer": "Typically divides into anterior and posterior branches.",
+      "tags": [
+        "Branches",
+        "Artery",
+        "Arteries",
+        "JS11"
+      ],
+      "sourceLine": 120,
+      "section": "Arteries",
+      "label": "14"
+    },
+    {
+      "id": "pancreas-model-js11-121",
+      "path": [
+        "14"
+      ],
+      "question": "Supply",
+      "answer": "Supplies the inferior pancreatic head and distal duodenum.",
+      "tags": [
+        "Supply",
+        "Artery",
+        "Arteries",
+        "JS11"
+      ],
+      "sourceLine": 121,
+      "section": "Arteries",
+      "label": "14"
+    },
+    {
+      "id": "pancreas-model-js11-122",
+      "path": [
+        "14"
+      ],
+      "question": "Connections",
+      "answer": "Anastomoses with superior pancreaticoduodenal branches, linking coeliac and SMA circulations.",
+      "tags": [
+        "Connections",
+        "Artery",
+        "Arteries",
+        "JS11"
+      ],
+      "sourceLine": 122,
+      "section": "Arteries",
+      "label": "14"
+    }
+  ]
+}

@@ -1,0 +1,1610 @@
+{
+  "id": "inner-ear-model-ds17",
+  "name": "Inner Ear (Model DS17)",
+  "cards": [
+    {
+      "id": "inner-ear-model-ds17-3",
+      "path": [
+        "1"
+      ],
+      "question": "Identification",
+      "answer": "Tympanic membrane (ear drum)",
+      "tags": [
+        "Identification",
+        "Membrane",
+        "MiddleEar",
+        "DS17"
+      ],
+      "sourceLine": 3,
+      "section": "Tympanic membrane and ossicles",
+      "label": "1"
+    },
+    {
+      "id": "inner-ear-model-ds17-4",
+      "path": [
+        "1"
+      ],
+      "question": "Structure",
+      "answer": "Thin semitransparent membrane separating external acoustic meatus from middle ear.",
+      "tags": [
+        "Structure",
+        "Membrane",
+        "MiddleEar",
+        "DS17"
+      ],
+      "sourceLine": 4,
+      "section": "Tympanic membrane and ossicles",
+      "label": "1"
+    },
+    {
+      "id": "inner-ear-model-ds17-5",
+      "path": [
+        "1"
+      ],
+      "question": "Function",
+      "answer": "Vibrates in response to sound and transmits mechanical energy to the malleus.",
+      "tags": [
+        "Function",
+        "Membrane",
+        "MiddleEar",
+        "DS17"
+      ],
+      "sourceLine": 5,
+      "section": "Tympanic membrane and ossicles",
+      "label": "1"
+    },
+    {
+      "id": "inner-ear-model-ds17-6",
+      "path": [
+        "1"
+      ],
+      "question": "Innervation",
+      "answer": "External surface mainly auriculotemporal and vagal branches; internal surface mainly glossopharyngeal via tympanic plexus.",
+      "tags": [
+        "Innervation",
+        "Membrane",
+        "MiddleEar",
+        "DS17"
+      ],
+      "sourceLine": 6,
+      "section": "Tympanic membrane and ossicles",
+      "label": "1"
+    },
+    {
+      "id": "inner-ear-model-ds17-7",
+      "path": [
+        "1"
+      ],
+      "question": "Clinical relevance",
+      "answer": "Perforation can cause conductive hearing loss and predispose to middle-ear infection.",
+      "tags": [
+        "Clinical",
+        "Membrane",
+        "MiddleEar",
+        "DS17"
+      ],
+      "sourceLine": 7,
+      "section": "Tympanic membrane and ossicles",
+      "label": "1"
+    },
+    {
+      "id": "inner-ear-model-ds17-10",
+      "path": [
+        "2"
+      ],
+      "question": "Identification",
+      "answer": "Tympanic ring",
+      "tags": [
+        "Identification",
+        "Bone",
+        "MiddleEar",
+        "DS17"
+      ],
+      "sourceLine": 10,
+      "section": "Tympanic membrane and ossicles",
+      "label": "2"
+    },
+    {
+      "id": "inner-ear-model-ds17-11",
+      "path": [
+        "2"
+      ],
+      "question": "Structure",
+      "answer": "Bony ring of temporal bone supporting much of the tympanic membrane.",
+      "tags": [
+        "Structure",
+        "Bone",
+        "MiddleEar",
+        "DS17"
+      ],
+      "sourceLine": 11,
+      "section": "Tympanic membrane and ossicles",
+      "label": "2"
+    },
+    {
+      "id": "inner-ear-model-ds17-12",
+      "path": [
+        "2"
+      ],
+      "question": "Relations",
+      "answer": "Forms part of the external acoustic meatus and surrounds the tympanic membrane.",
+      "tags": [
+        "Relations",
+        "Bone",
+        "MiddleEar",
+        "DS17"
+      ],
+      "sourceLine": 12,
+      "section": "Tympanic membrane and ossicles",
+      "label": "2"
+    },
+    {
+      "id": "inner-ear-model-ds17-15",
+      "path": [
+        "3"
+      ],
+      "question": "Identification",
+      "answer": "Malleus",
+      "tags": [
+        "Identification",
+        "Ossicle",
+        "MiddleEar",
+        "DS17"
+      ],
+      "sourceLine": 15,
+      "section": "Tympanic membrane and ossicles",
+      "label": "3"
+    },
+    {
+      "id": "inner-ear-model-ds17-16",
+      "path": [
+        "3"
+      ],
+      "question": "Function",
+      "answer": "Transmits vibrations from tympanic membrane to incus.",
+      "tags": [
+        "Function",
+        "Ossicle",
+        "MiddleEar",
+        "DS17"
+      ],
+      "sourceLine": 16,
+      "section": "Tympanic membrane and ossicles",
+      "label": "3"
+    },
+    {
+      "id": "inner-ear-model-ds17-17",
+      "path": [
+        "3"
+      ],
+      "question": "Articulations",
+      "answer": "Articulates with incus at the incudomalleolar joint.",
+      "tags": [
+        "Articulations",
+        "Ossicle",
+        "MiddleEar",
+        "DS17"
+      ],
+      "sourceLine": 17,
+      "section": "Tympanic membrane and ossicles",
+      "label": "3"
+    },
+    {
+      "id": "inner-ear-model-ds17-19",
+      "path": [
+        "3",
+        "a"
+      ],
+      "question": "Identification",
+      "answer": "Head of malleus",
+      "tags": [
+        "Identification",
+        "OssiclePart",
+        "MiddleEar",
+        "DS17"
+      ],
+      "sourceLine": 19,
+      "section": "Tympanic membrane and ossicles",
+      "label": "3a"
+    },
+    {
+      "id": "inner-ear-model-ds17-20",
+      "path": [
+        "3",
+        "a"
+      ],
+      "question": "Relations",
+      "answer": "Lies in epitympanic recess and articulates with body of incus.",
+      "tags": [
+        "Relations",
+        "OssiclePart",
+        "MiddleEar",
+        "DS17"
+      ],
+      "sourceLine": 20,
+      "section": "Tympanic membrane and ossicles",
+      "label": "3a"
+    },
+    {
+      "id": "inner-ear-model-ds17-22",
+      "path": [
+        "3",
+        "b"
+      ],
+      "question": "Identification",
+      "answer": "Handle of malleus",
+      "tags": [
+        "Identification",
+        "OssiclePart",
+        "MiddleEar",
+        "DS17"
+      ],
+      "sourceLine": 22,
+      "section": "Tympanic membrane and ossicles",
+      "label": "3b"
+    },
+    {
+      "id": "inner-ear-model-ds17-23",
+      "path": [
+        "3",
+        "b"
+      ],
+      "question": "Relations",
+      "answer": "Embedded in tympanic membrane and visible through it clinically.",
+      "tags": [
+        "Relations",
+        "OssiclePart",
+        "MiddleEar",
+        "DS17"
+      ],
+      "sourceLine": 23,
+      "section": "Tympanic membrane and ossicles",
+      "label": "3b"
+    },
+    {
+      "id": "inner-ear-model-ds17-24",
+      "path": [
+        "3",
+        "b"
+      ],
+      "question": "Function",
+      "answer": "Receives vibration directly from tympanic membrane.",
+      "tags": [
+        "Function",
+        "OssiclePart",
+        "MiddleEar",
+        "DS17"
+      ],
+      "sourceLine": 24,
+      "section": "Tympanic membrane and ossicles",
+      "label": "3b"
+    },
+    {
+      "id": "inner-ear-model-ds17-26",
+      "path": [
+        "3",
+        "c"
+      ],
+      "question": "Identification",
+      "answer": "Neck of malleus",
+      "tags": [
+        "Identification",
+        "OssiclePart",
+        "MiddleEar",
+        "DS17"
+      ],
+      "sourceLine": 26,
+      "section": "Tympanic membrane and ossicles",
+      "label": "3c"
+    },
+    {
+      "id": "inner-ear-model-ds17-27",
+      "path": [
+        "3",
+        "c"
+      ],
+      "question": "Relations",
+      "answer": "Narrow segment between head and handle.",
+      "tags": [
+        "Relations",
+        "OssiclePart",
+        "MiddleEar",
+        "DS17"
+      ],
+      "sourceLine": 27,
+      "section": "Tympanic membrane and ossicles",
+      "label": "3c"
+    },
+    {
+      "id": "inner-ear-model-ds17-30",
+      "path": [
+        "4"
+      ],
+      "question": "Identification",
+      "answer": "Incus",
+      "tags": [
+        "Identification",
+        "Ossicle",
+        "MiddleEar",
+        "DS17"
+      ],
+      "sourceLine": 30,
+      "section": "Tympanic membrane and ossicles",
+      "label": "4"
+    },
+    {
+      "id": "inner-ear-model-ds17-31",
+      "path": [
+        "4"
+      ],
+      "question": "Function",
+      "answer": "Transmits vibration from malleus to stapes.",
+      "tags": [
+        "Function",
+        "Ossicle",
+        "MiddleEar",
+        "DS17"
+      ],
+      "sourceLine": 31,
+      "section": "Tympanic membrane and ossicles",
+      "label": "4"
+    },
+    {
+      "id": "inner-ear-model-ds17-32",
+      "path": [
+        "4"
+      ],
+      "question": "Articulations",
+      "answer": "Articulates with malleus proximally and stapes via lenticular process distally.",
+      "tags": [
+        "Articulations",
+        "Ossicle",
+        "MiddleEar",
+        "DS17"
+      ],
+      "sourceLine": 32,
+      "section": "Tympanic membrane and ossicles",
+      "label": "4"
+    },
+    {
+      "id": "inner-ear-model-ds17-34",
+      "path": [
+        "4",
+        "a"
+      ],
+      "question": "Identification",
+      "answer": "Short limb of incus",
+      "tags": [
+        "Identification",
+        "OssiclePart",
+        "MiddleEar",
+        "DS17"
+      ],
+      "sourceLine": 34,
+      "section": "Tympanic membrane and ossicles",
+      "label": "4a"
+    },
+    {
+      "id": "inner-ear-model-ds17-35",
+      "path": [
+        "4",
+        "a"
+      ],
+      "question": "Relations",
+      "answer": "Projects posteriorly and is anchored in the fossa incudis.",
+      "tags": [
+        "Relations",
+        "OssiclePart",
+        "MiddleEar",
+        "DS17"
+      ],
+      "sourceLine": 35,
+      "section": "Tympanic membrane and ossicles",
+      "label": "4a"
+    },
+    {
+      "id": "inner-ear-model-ds17-37",
+      "path": [
+        "4",
+        "b"
+      ],
+      "question": "Identification",
+      "answer": "Long limb of incus",
+      "tags": [
+        "Identification",
+        "OssiclePart",
+        "MiddleEar",
+        "DS17"
+      ],
+      "sourceLine": 37,
+      "section": "Tympanic membrane and ossicles",
+      "label": "4b"
+    },
+    {
+      "id": "inner-ear-model-ds17-38",
+      "path": [
+        "4",
+        "b"
+      ],
+      "question": "Relations",
+      "answer": "Descends approximately parallel to handle of malleus and ends in lenticular process.",
+      "tags": [
+        "Relations",
+        "OssiclePart",
+        "MiddleEar",
+        "DS17"
+      ],
+      "sourceLine": 38,
+      "section": "Tympanic membrane and ossicles",
+      "label": "4b"
+    },
+    {
+      "id": "inner-ear-model-ds17-41",
+      "path": [
+        "5"
+      ],
+      "question": "Identification",
+      "answer": "Stapes",
+      "tags": [
+        "Identification",
+        "Ossicle",
+        "MiddleEar",
+        "DS17"
+      ],
+      "sourceLine": 41,
+      "section": "Tympanic membrane and ossicles",
+      "label": "5"
+    },
+    {
+      "id": "inner-ear-model-ds17-42",
+      "path": [
+        "5"
+      ],
+      "question": "Function",
+      "answer": "Transmits ossicular vibration to inner ear via oval window.",
+      "tags": [
+        "Function",
+        "Ossicle",
+        "MiddleEar",
+        "DS17"
+      ],
+      "sourceLine": 42,
+      "section": "Tympanic membrane and ossicles",
+      "label": "5"
+    },
+    {
+      "id": "inner-ear-model-ds17-43",
+      "path": [
+        "5"
+      ],
+      "question": "Articulations",
+      "answer": "Head articulates with lenticular process of incus; base occupies oval window.",
+      "tags": [
+        "Articulations",
+        "Ossicle",
+        "MiddleEar",
+        "DS17"
+      ],
+      "sourceLine": 43,
+      "section": "Tympanic membrane and ossicles",
+      "label": "5"
+    },
+    {
+      "id": "inner-ear-model-ds17-45",
+      "path": [
+        "5",
+        "a"
+      ],
+      "question": "Identification",
+      "answer": "Head of stapes",
+      "tags": [
+        "Identification",
+        "OssiclePart",
+        "MiddleEar",
+        "DS17"
+      ],
+      "sourceLine": 45,
+      "section": "Tympanic membrane and ossicles",
+      "label": "5a"
+    },
+    {
+      "id": "inner-ear-model-ds17-46",
+      "path": [
+        "5",
+        "a"
+      ],
+      "question": "Relations",
+      "answer": "Articulates with lenticular process of incus.",
+      "tags": [
+        "Relations",
+        "OssiclePart",
+        "MiddleEar",
+        "DS17"
+      ],
+      "sourceLine": 46,
+      "section": "Tympanic membrane and ossicles",
+      "label": "5a"
+    },
+    {
+      "id": "inner-ear-model-ds17-48",
+      "path": [
+        "5",
+        "b"
+      ],
+      "question": "Identification",
+      "answer": "Limb (crus) of stapes",
+      "tags": [
+        "Identification",
+        "OssiclePart",
+        "MiddleEar",
+        "DS17"
+      ],
+      "sourceLine": 48,
+      "section": "Tympanic membrane and ossicles",
+      "label": "5b"
+    },
+    {
+      "id": "inner-ear-model-ds17-49",
+      "path": [
+        "5",
+        "b"
+      ],
+      "question": "Structure",
+      "answer": "Anterior and posterior crura connect the head to the base.",
+      "tags": [
+        "Structure",
+        "OssiclePart",
+        "MiddleEar",
+        "DS17"
+      ],
+      "sourceLine": 49,
+      "section": "Tympanic membrane and ossicles",
+      "label": "5b"
+    },
+    {
+      "id": "inner-ear-model-ds17-51",
+      "path": [
+        "5",
+        "c"
+      ],
+      "question": "Identification",
+      "answer": "Base of stapes",
+      "tags": [
+        "Identification",
+        "OssiclePart",
+        "MiddleEar",
+        "DS17"
+      ],
+      "sourceLine": 51,
+      "section": "Tympanic membrane and ossicles",
+      "label": "5c"
+    },
+    {
+      "id": "inner-ear-model-ds17-52",
+      "path": [
+        "5",
+        "c"
+      ],
+      "question": "Relations",
+      "answer": "Fits into the oval window and transmits vibration to perilymph of scala vestibuli.",
+      "tags": [
+        "Relations",
+        "OssiclePart",
+        "MiddleEar",
+        "DS17"
+      ],
+      "sourceLine": 52,
+      "section": "Tympanic membrane and ossicles",
+      "label": "5c"
+    },
+    {
+      "id": "inner-ear-model-ds17-55",
+      "path": [
+        "6"
+      ],
+      "question": "Identification",
+      "answer": "Lenticular process of incus",
+      "tags": [
+        "Identification",
+        "OssiclePart",
+        "MiddleEar",
+        "DS17"
+      ],
+      "sourceLine": 55,
+      "section": "Tympanic membrane and ossicles",
+      "label": "6"
+    },
+    {
+      "id": "inner-ear-model-ds17-56",
+      "path": [
+        "6"
+      ],
+      "question": "Structure",
+      "answer": "Small terminal process of the long limb of the incus.",
+      "tags": [
+        "Structure",
+        "OssiclePart",
+        "MiddleEar",
+        "DS17"
+      ],
+      "sourceLine": 56,
+      "section": "Tympanic membrane and ossicles",
+      "label": "6"
+    },
+    {
+      "id": "inner-ear-model-ds17-57",
+      "path": [
+        "6"
+      ],
+      "question": "Articulation",
+      "answer": "Articulates with the head of the stapes.",
+      "tags": [
+        "Articulations",
+        "OssiclePart",
+        "MiddleEar",
+        "DS17"
+      ],
+      "sourceLine": 57,
+      "section": "Tympanic membrane and ossicles",
+      "label": "6"
+    },
+    {
+      "id": "inner-ear-model-ds17-60",
+      "path": [
+        "7"
+      ],
+      "question": "Identification",
+      "answer": "Tensor tympani muscle",
+      "tags": [
+        "Identification",
+        "Muscle",
+        "MiddleEar",
+        "DS17"
+      ],
+      "sourceLine": 60,
+      "section": "Tympanic membrane and ossicles",
+      "label": "7"
+    },
+    {
+      "id": "inner-ear-model-ds17-61",
+      "path": [
+        "7"
+      ],
+      "question": "Actions",
+      "answer": "Tenses the tympanic membrane by pulling the malleus medially, dampening excessive vibration.",
+      "tags": [
+        "Action",
+        "Muscle",
+        "MiddleEar",
+        "DS17"
+      ],
+      "sourceLine": 61,
+      "section": "Tympanic membrane and ossicles",
+      "label": "7"
+    },
+    {
+      "id": "inner-ear-model-ds17-62",
+      "path": [
+        "7"
+      ],
+      "question": "Innervation",
+      "answer": "Nerve to tensor tympani from mandibular division of trigeminal nerve (V3).",
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "MiddleEar",
+        "DS17"
+      ],
+      "sourceLine": 62,
+      "section": "Tympanic membrane and ossicles",
+      "label": "7"
+    },
+    {
+      "id": "inner-ear-model-ds17-63",
+      "path": [
+        "7"
+      ],
+      "question": "Origin",
+      "answer": "Cartilaginous auditory tube and adjacent sphenoid/temporal bone.",
+      "tags": [
+        "Origin",
+        "Muscle",
+        "MiddleEar",
+        "DS17"
+      ],
+      "sourceLine": 63,
+      "section": "Tympanic membrane and ossicles",
+      "label": "7"
+    },
+    {
+      "id": "inner-ear-model-ds17-64",
+      "path": [
+        "7"
+      ],
+      "question": "Insertion",
+      "answer": "Handle of malleus.",
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "MiddleEar",
+        "DS17"
+      ],
+      "sourceLine": 64,
+      "section": "Tympanic membrane and ossicles",
+      "label": "7"
+    },
+    {
+      "id": "inner-ear-model-ds17-68",
+      "path": [
+        "8"
+      ],
+      "question": "Identification",
+      "answer": "Vestibule",
+      "tags": [
+        "Identification",
+        "InnerEar",
+        "VestibularApparatus",
+        "DS17"
+      ],
+      "sourceLine": 68,
+      "section": "Vestibular apparatus",
+      "label": "8"
+    },
+    {
+      "id": "inner-ear-model-ds17-69",
+      "path": [
+        "8"
+      ],
+      "question": "Location",
+      "answer": "Central part of bony labyrinth between cochlea and semicircular canals.",
+      "tags": [
+        "Location",
+        "InnerEar",
+        "VestibularApparatus",
+        "DS17"
+      ],
+      "sourceLine": 69,
+      "section": "Vestibular apparatus",
+      "label": "8"
+    },
+    {
+      "id": "inner-ear-model-ds17-70",
+      "path": [
+        "8"
+      ],
+      "question": "Contents",
+      "answer": "Contains utricle and saccule of membranous labyrinth.",
+      "tags": [
+        "Contents",
+        "InnerEar",
+        "VestibularApparatus",
+        "DS17"
+      ],
+      "sourceLine": 70,
+      "section": "Vestibular apparatus",
+      "label": "8"
+    },
+    {
+      "id": "inner-ear-model-ds17-71",
+      "path": [
+        "8"
+      ],
+      "question": "Function",
+      "answer": "Detects linear acceleration and head position relative to gravity.",
+      "tags": [
+        "Function",
+        "InnerEar",
+        "VestibularApparatus",
+        "DS17"
+      ],
+      "sourceLine": 71,
+      "section": "Vestibular apparatus",
+      "label": "8"
+    },
+    {
+      "id": "inner-ear-model-ds17-74",
+      "path": [
+        "9"
+      ],
+      "question": "Identification",
+      "answer": "Oval window",
+      "tags": [
+        "Identification",
+        "Opening",
+        "VestibularApparatus",
+        "DS17"
+      ],
+      "sourceLine": 74,
+      "section": "Vestibular apparatus",
+      "label": "9"
+    },
+    {
+      "id": "inner-ear-model-ds17-75",
+      "path": [
+        "9"
+      ],
+      "question": "Location",
+      "answer": "Opening between middle ear and vestibule, occupied by base of stapes.",
+      "tags": [
+        "Location",
+        "Opening",
+        "VestibularApparatus",
+        "DS17"
+      ],
+      "sourceLine": 75,
+      "section": "Vestibular apparatus",
+      "label": "9"
+    },
+    {
+      "id": "inner-ear-model-ds17-76",
+      "path": [
+        "9"
+      ],
+      "question": "Function",
+      "answer": "Transmits stapes vibration into perilymph of inner ear.",
+      "tags": [
+        "Function",
+        "Opening",
+        "VestibularApparatus",
+        "DS17"
+      ],
+      "sourceLine": 76,
+      "section": "Vestibular apparatus",
+      "label": "9"
+    },
+    {
+      "id": "inner-ear-model-ds17-79",
+      "path": [
+        "10"
+      ],
+      "question": "Identification",
+      "answer": "Round window",
+      "tags": [
+        "Identification",
+        "Opening",
+        "VestibularApparatus",
+        "DS17"
+      ],
+      "sourceLine": 79,
+      "section": "Vestibular apparatus",
+      "label": "10"
+    },
+    {
+      "id": "inner-ear-model-ds17-80",
+      "path": [
+        "10"
+      ],
+      "question": "Location",
+      "answer": "Opening from scala tympani into middle-ear region, closed by secondary tympanic membrane.",
+      "tags": [
+        "Location",
+        "Opening",
+        "VestibularApparatus",
+        "DS17"
+      ],
+      "sourceLine": 80,
+      "section": "Vestibular apparatus",
+      "label": "10"
+    },
+    {
+      "id": "inner-ear-model-ds17-81",
+      "path": [
+        "10"
+      ],
+      "question": "Function",
+      "answer": "Allows pressure release/displacement of cochlear fluids during sound transmission.",
+      "tags": [
+        "Function",
+        "Opening",
+        "VestibularApparatus",
+        "DS17"
+      ],
+      "sourceLine": 81,
+      "section": "Vestibular apparatus",
+      "label": "10"
+    },
+    {
+      "id": "inner-ear-model-ds17-84",
+      "path": [
+        "11"
+      ],
+      "question": "Identification",
+      "answer": "Lateral semicircular canal",
+      "tags": [
+        "Identification",
+        "SemicircularCanal",
+        "VestibularApparatus",
+        "DS17"
+      ],
+      "sourceLine": 84,
+      "section": "Vestibular apparatus",
+      "label": "11"
+    },
+    {
+      "id": "inner-ear-model-ds17-85",
+      "path": [
+        "11"
+      ],
+      "question": "Function",
+      "answer": "Detects angular acceleration of the head in its anatomical plane.",
+      "tags": [
+        "Function",
+        "SemicircularCanal",
+        "VestibularApparatus",
+        "DS17"
+      ],
+      "sourceLine": 85,
+      "section": "Vestibular apparatus",
+      "label": "11"
+    },
+    {
+      "id": "inner-ear-model-ds17-86",
+      "path": [
+        "11"
+      ],
+      "question": "Contents",
+      "answer": "Contains corresponding semicircular duct within the bony labyrinth.",
+      "tags": [
+        "Contents",
+        "SemicircularCanal",
+        "VestibularApparatus",
+        "DS17"
+      ],
+      "sourceLine": 86,
+      "section": "Vestibular apparatus",
+      "label": "11"
+    },
+    {
+      "id": "inner-ear-model-ds17-88",
+      "path": [
+        "11",
+        "a"
+      ],
+      "question": "Identification",
+      "answer": "Bony ampulla of lateral semicircular canal",
+      "tags": [
+        "Identification",
+        "Ampulla",
+        "VestibularApparatus",
+        "DS17"
+      ],
+      "sourceLine": 88,
+      "section": "Vestibular apparatus",
+      "label": "11a"
+    },
+    {
+      "id": "inner-ear-model-ds17-89",
+      "path": [
+        "11",
+        "a"
+      ],
+      "question": "Function",
+      "answer": "Expanded end housing the sensory crista ampullaris within the membranous ampulla, which detects angular acceleration.",
+      "tags": [
+        "Function",
+        "Ampulla",
+        "VestibularApparatus",
+        "DS17"
+      ],
+      "sourceLine": 89,
+      "section": "Vestibular apparatus",
+      "label": "11a"
+    },
+    {
+      "id": "inner-ear-model-ds17-92",
+      "path": [
+        "12"
+      ],
+      "question": "Identification",
+      "answer": "Anterior semicircular canal",
+      "tags": [
+        "Identification",
+        "SemicircularCanal",
+        "VestibularApparatus",
+        "DS17"
+      ],
+      "sourceLine": 92,
+      "section": "Vestibular apparatus",
+      "label": "12"
+    },
+    {
+      "id": "inner-ear-model-ds17-93",
+      "path": [
+        "12"
+      ],
+      "question": "Function",
+      "answer": "Detects angular acceleration of the head in its anatomical plane.",
+      "tags": [
+        "Function",
+        "SemicircularCanal",
+        "VestibularApparatus",
+        "DS17"
+      ],
+      "sourceLine": 93,
+      "section": "Vestibular apparatus",
+      "label": "12"
+    },
+    {
+      "id": "inner-ear-model-ds17-94",
+      "path": [
+        "12"
+      ],
+      "question": "Contents",
+      "answer": "Contains corresponding semicircular duct within the bony labyrinth.",
+      "tags": [
+        "Contents",
+        "SemicircularCanal",
+        "VestibularApparatus",
+        "DS17"
+      ],
+      "sourceLine": 94,
+      "section": "Vestibular apparatus",
+      "label": "12"
+    },
+    {
+      "id": "inner-ear-model-ds17-96",
+      "path": [
+        "12",
+        "b"
+      ],
+      "question": "Identification",
+      "answer": "Bony ampulla of anterior semicircular canal",
+      "tags": [
+        "Identification",
+        "Ampulla",
+        "VestibularApparatus",
+        "DS17"
+      ],
+      "sourceLine": 96,
+      "section": "Vestibular apparatus",
+      "label": "12b"
+    },
+    {
+      "id": "inner-ear-model-ds17-97",
+      "path": [
+        "12",
+        "b"
+      ],
+      "question": "Function",
+      "answer": "Expanded end housing the sensory crista ampullaris within the membranous ampulla, which detects angular acceleration.",
+      "tags": [
+        "Function",
+        "Ampulla",
+        "VestibularApparatus",
+        "DS17"
+      ],
+      "sourceLine": 97,
+      "section": "Vestibular apparatus",
+      "label": "12b"
+    },
+    {
+      "id": "inner-ear-model-ds17-100",
+      "path": [
+        "13"
+      ],
+      "question": "Identification",
+      "answer": "Posterior semicircular canal",
+      "tags": [
+        "Identification",
+        "SemicircularCanal",
+        "VestibularApparatus",
+        "DS17"
+      ],
+      "sourceLine": 100,
+      "section": "Vestibular apparatus",
+      "label": "13"
+    },
+    {
+      "id": "inner-ear-model-ds17-101",
+      "path": [
+        "13"
+      ],
+      "question": "Function",
+      "answer": "Detects angular acceleration of the head in its anatomical plane.",
+      "tags": [
+        "Function",
+        "SemicircularCanal",
+        "VestibularApparatus",
+        "DS17"
+      ],
+      "sourceLine": 101,
+      "section": "Vestibular apparatus",
+      "label": "13"
+    },
+    {
+      "id": "inner-ear-model-ds17-102",
+      "path": [
+        "13"
+      ],
+      "question": "Contents",
+      "answer": "Contains corresponding semicircular duct within the bony labyrinth.",
+      "tags": [
+        "Contents",
+        "SemicircularCanal",
+        "VestibularApparatus",
+        "DS17"
+      ],
+      "sourceLine": 102,
+      "section": "Vestibular apparatus",
+      "label": "13"
+    },
+    {
+      "id": "inner-ear-model-ds17-104",
+      "path": [
+        "13",
+        "c"
+      ],
+      "question": "Identification",
+      "answer": "Bony ampulla of posterior semicircular canal",
+      "tags": [
+        "Identification",
+        "Ampulla",
+        "VestibularApparatus",
+        "DS17"
+      ],
+      "sourceLine": 104,
+      "section": "Vestibular apparatus",
+      "label": "13c"
+    },
+    {
+      "id": "inner-ear-model-ds17-105",
+      "path": [
+        "13",
+        "c"
+      ],
+      "question": "Function",
+      "answer": "Expanded end housing the sensory crista ampullaris within the membranous ampulla, which detects angular acceleration.",
+      "tags": [
+        "Function",
+        "Ampulla",
+        "VestibularApparatus",
+        "DS17"
+      ],
+      "sourceLine": 105,
+      "section": "Vestibular apparatus",
+      "label": "13c"
+    },
+    {
+      "id": "inner-ear-model-ds17-109",
+      "path": [
+        "14"
+      ],
+      "question": "Identification",
+      "answer": "Cochlea",
+      "tags": [
+        "Identification",
+        "InnerEar",
+        "Cochlea",
+        "DS17"
+      ],
+      "sourceLine": 109,
+      "section": "Cochlea and auditory structures",
+      "label": "14"
+    },
+    {
+      "id": "inner-ear-model-ds17-110",
+      "path": [
+        "14"
+      ],
+      "question": "Structure",
+      "answer": "Spiral bony labyrinth making about 2.5 turns around the modiolus.",
+      "tags": [
+        "Structure",
+        "InnerEar",
+        "Cochlea",
+        "DS17"
+      ],
+      "sourceLine": 110,
+      "section": "Cochlea and auditory structures",
+      "label": "14"
+    },
+    {
+      "id": "inner-ear-model-ds17-111",
+      "path": [
+        "14"
+      ],
+      "question": "Function",
+      "answer": "Contains the sensory apparatus for hearing.",
+      "tags": [
+        "Function",
+        "InnerEar",
+        "Cochlea",
+        "DS17"
+      ],
+      "sourceLine": 111,
+      "section": "Cochlea and auditory structures",
+      "label": "14"
+    },
+    {
+      "id": "inner-ear-model-ds17-112",
+      "path": [
+        "14"
+      ],
+      "question": "Compartments",
+      "answer": "Contains scala vestibuli, cochlear duct and scala tympani.",
+      "tags": [
+        "Parts",
+        "InnerEar",
+        "Cochlea",
+        "DS17"
+      ],
+      "sourceLine": 112,
+      "section": "Cochlea and auditory structures",
+      "label": "14"
+    },
+    {
+      "id": "inner-ear-model-ds17-115",
+      "path": [
+        "15"
+      ],
+      "question": "Identification",
+      "answer": "Cochlear nerve",
+      "tags": [
+        "Identification",
+        "Nerve",
+        "Cochlea",
+        "DS17"
+      ],
+      "sourceLine": 115,
+      "section": "Cochlea and auditory structures",
+      "label": "15"
+    },
+    {
+      "id": "inner-ear-model-ds17-116",
+      "path": [
+        "15"
+      ],
+      "question": "Roots",
+      "answer": "Peripheral processes arise from spiral ganglion neurons receiving input from hair cells of organ of Corti.",
+      "tags": [
+        "Roots",
+        "Nerve",
+        "Cochlea",
+        "DS17"
+      ],
+      "sourceLine": 116,
+      "section": "Cochlea and auditory structures",
+      "label": "15"
+    },
+    {
+      "id": "inner-ear-model-ds17-117",
+      "path": [
+        "15"
+      ],
+      "question": "Course",
+      "answer": "Central processes form the cochlear division of CN VIII and enter brainstem at pontomedullary junction.",
+      "tags": [
+        "Course",
+        "Nerve",
+        "Cochlea",
+        "DS17"
+      ],
+      "sourceLine": 117,
+      "section": "Cochlea and auditory structures",
+      "label": "15"
+    },
+    {
+      "id": "inner-ear-model-ds17-118",
+      "path": [
+        "15"
+      ],
+      "question": "Sensory functions",
+      "answer": "Carries auditory information from cochlea to brainstem.",
+      "tags": [
+        "Sensory",
+        "Nerve",
+        "Cochlea",
+        "DS17"
+      ],
+      "sourceLine": 118,
+      "section": "Cochlea and auditory structures",
+      "label": "15"
+    },
+    {
+      "id": "inner-ear-model-ds17-119",
+      "path": [
+        "15"
+      ],
+      "question": "Lesion",
+      "answer": "Causes ipsilateral sensorineural hearing loss; may also produce tinnitus depending on site and pathology.",
+      "tags": [
+        "Lesion",
+        "Nerve",
+        "Cochlea",
+        "DS17"
+      ],
+      "sourceLine": 119,
+      "section": "Cochlea and auditory structures",
+      "label": "15"
+    },
+    {
+      "id": "inner-ear-model-ds17-122",
+      "path": [
+        "16"
+      ],
+      "question": "Identification",
+      "answer": "Scala tympani",
+      "tags": [
+        "Identification",
+        "CochlearSpace",
+        "Cochlea",
+        "DS17"
+      ],
+      "sourceLine": 122,
+      "section": "Cochlea and auditory structures",
+      "label": "16"
+    },
+    {
+      "id": "inner-ear-model-ds17-123",
+      "path": [
+        "16"
+      ],
+      "question": "Location",
+      "answer": "Perilymph-filled compartment inferior to cochlear duct.",
+      "tags": [
+        "Location",
+        "CochlearSpace",
+        "Cochlea",
+        "DS17"
+      ],
+      "sourceLine": 123,
+      "section": "Cochlea and auditory structures",
+      "label": "16"
+    },
+    {
+      "id": "inner-ear-model-ds17-124",
+      "path": [
+        "16"
+      ],
+      "question": "Connections",
+      "answer": "Communicates with scala vestibuli at helicotrema near cochlear apex.",
+      "tags": [
+        "Connections",
+        "CochlearSpace",
+        "Cochlea",
+        "DS17"
+      ],
+      "sourceLine": 124,
+      "section": "Cochlea and auditory structures",
+      "label": "16"
+    },
+    {
+      "id": "inner-ear-model-ds17-125",
+      "path": [
+        "16"
+      ],
+      "question": "Relations",
+      "answer": "Ends basally at round window.",
+      "tags": [
+        "Relations",
+        "CochlearSpace",
+        "Cochlea",
+        "DS17"
+      ],
+      "sourceLine": 125,
+      "section": "Cochlea and auditory structures",
+      "label": "16"
+    },
+    {
+      "id": "inner-ear-model-ds17-128",
+      "path": [
+        "17"
+      ],
+      "question": "Identification",
+      "answer": "Scala vestibuli",
+      "tags": [
+        "Identification",
+        "CochlearSpace",
+        "Cochlea",
+        "DS17"
+      ],
+      "sourceLine": 128,
+      "section": "Cochlea and auditory structures",
+      "label": "17"
+    },
+    {
+      "id": "inner-ear-model-ds17-129",
+      "path": [
+        "17"
+      ],
+      "question": "Location",
+      "answer": "Perilymph-filled compartment superior to cochlear duct.",
+      "tags": [
+        "Location",
+        "CochlearSpace",
+        "Cochlea",
+        "DS17"
+      ],
+      "sourceLine": 129,
+      "section": "Cochlea and auditory structures",
+      "label": "17"
+    },
+    {
+      "id": "inner-ear-model-ds17-130",
+      "path": [
+        "17"
+      ],
+      "question": "Connections",
+      "answer": "Begins at oval window and communicates with scala tympani at helicotrema.",
+      "tags": [
+        "Connections",
+        "CochlearSpace",
+        "Cochlea",
+        "DS17"
+      ],
+      "sourceLine": 130,
+      "section": "Cochlea and auditory structures",
+      "label": "17"
+    },
+    {
+      "id": "inner-ear-model-ds17-131",
+      "path": [
+        "17"
+      ],
+      "question": "Function",
+      "answer": "Conducts pressure waves from stapes through cochlea.",
+      "tags": [
+        "Function",
+        "CochlearSpace",
+        "Cochlea",
+        "DS17"
+      ],
+      "sourceLine": 131,
+      "section": "Cochlea and auditory structures",
+      "label": "17"
+    },
+    {
+      "id": "inner-ear-model-ds17-134",
+      "path": [
+        "18"
+      ],
+      "question": "Identification",
+      "answer": "Cochlear duct",
+      "tags": [
+        "Identification",
+        "CochlearDuct",
+        "Cochlea",
+        "DS17"
+      ],
+      "sourceLine": 134,
+      "section": "Cochlea and auditory structures",
+      "label": "18"
+    },
+    {
+      "id": "inner-ear-model-ds17-135",
+      "path": [
+        "18"
+      ],
+      "question": "Location",
+      "answer": "Endolymph-filled membranous duct between scala vestibuli and scala tympani.",
+      "tags": [
+        "Location",
+        "CochlearDuct",
+        "Cochlea",
+        "DS17"
+      ],
+      "sourceLine": 135,
+      "section": "Cochlea and auditory structures",
+      "label": "18"
+    },
+    {
+      "id": "inner-ear-model-ds17-136",
+      "path": [
+        "18"
+      ],
+      "question": "Boundaries",
+      "answer": "Separated from scala vestibuli by vestibular membrane and from scala tympani by basilar membrane.",
+      "tags": [
+        "Relations",
+        "CochlearDuct",
+        "Cochlea",
+        "DS17"
+      ],
+      "sourceLine": 136,
+      "section": "Cochlea and auditory structures",
+      "label": "18"
+    },
+    {
+      "id": "inner-ear-model-ds17-137",
+      "path": [
+        "18"
+      ],
+      "question": "Contents",
+      "answer": "Contains organ of Corti on basilar membrane.",
+      "tags": [
+        "Contents",
+        "CochlearDuct",
+        "Cochlea",
+        "DS17"
+      ],
+      "sourceLine": 137,
+      "section": "Cochlea and auditory structures",
+      "label": "18"
+    },
+    {
+      "id": "inner-ear-model-ds17-140",
+      "path": [
+        "19"
+      ],
+      "question": "Identification",
+      "answer": "Location of the spiral organ (organ of Corti)",
+      "tags": [
+        "Identification",
+        "SensoryOrgan",
+        "Cochlea",
+        "DS17"
+      ],
+      "sourceLine": 140,
+      "section": "Cochlea and auditory structures",
+      "label": "19"
+    },
+    {
+      "id": "inner-ear-model-ds17-141",
+      "path": [
+        "19"
+      ],
+      "question": "Location",
+      "answer": "Lies on basilar membrane within the cochlear duct.",
+      "tags": [
+        "Location",
+        "SensoryOrgan",
+        "Cochlea",
+        "DS17"
+      ],
+      "sourceLine": 141,
+      "section": "Cochlea and auditory structures",
+      "label": "19"
+    },
+    {
+      "id": "inner-ear-model-ds17-142",
+      "path": [
+        "19"
+      ],
+      "question": "Function",
+      "answer": "Converts mechanical sound vibrations into neural signals via inner and outer hair cells.",
+      "tags": [
+        "Function",
+        "SensoryOrgan",
+        "Cochlea",
+        "DS17"
+      ],
+      "sourceLine": 142,
+      "section": "Cochlea and auditory structures",
+      "label": "19"
+    },
+    {
+      "id": "inner-ear-model-ds17-143",
+      "path": [
+        "19"
+      ],
+      "question": "Relations",
+      "answer": "Hair-cell stereocilia interact with the overlying tectorial membrane.",
+      "tags": [
+        "Relations",
+        "SensoryOrgan",
+        "Cochlea",
+        "DS17"
+      ],
+      "sourceLine": 143,
+      "section": "Cochlea and auditory structures",
+      "label": "19"
+    },
+    {
+      "id": "inner-ear-model-ds17-144",
+      "path": [
+        "19"
+      ],
+      "question": "Innervation",
+      "answer": "Hair cells synapse with fibres of cochlear nerve via spiral ganglion neurons.",
+      "tags": [
+        "Innervation",
+        "SensoryOrgan",
+        "Cochlea",
+        "DS17"
+      ],
+      "sourceLine": 144,
+      "section": "Cochlea and auditory structures",
+      "label": "19"
+    }
+  ]
+}
