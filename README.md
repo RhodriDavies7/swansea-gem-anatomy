@@ -1,4 +1,4 @@
-# Anatomy model revision
+# Swansea GEM Anatomy
 
 A standalone static website using the 34 supplied RemNote guides (6,353 cards). Model titles, question wording, answers, tag spelling and source ordering are preserved. No importer, database, accounts, spaced repetition, browser storage, or persistent learning state.
 
@@ -18,7 +18,7 @@ Choose a model, All cards or Identification only, and In order or Random. Tag ch
 
 Start creates an in-memory snapshot. Random order is shuffled once per run with Fisher–Yates, without duplicates. Reveal an answer before advancing. Previous hides the answer again. Space reveals and arrow keys navigate when focus is on the card. Buttons also work with standard keyboard activation. Reaching the last card offers a fresh run or a return to the filters. Reloading resets everything.
 
-The export contains text, not photographs. Identification prompts show the original model label and section for use alongside the physical model. Other cards show the structure name as context. Identification answers remain hidden until revealed.
+The export contains text, not photographs. Identification prompts show the original model label and section for use alongside the physical model. Other cards hide the structure name until Show structure name is selected or the answer is revealed. The hint reveals only the name, not the answer; it resets on each card. Identification answers remain hidden until revealed.
 
 ## Files and architecture
 
@@ -59,3 +59,13 @@ The two source filenames `Stomach (Model NS15)` and `Upper Limb (Model NS15)` ar
 ## Share or host
 
 Upload the contents of `dist/` to any static web host. No Node server, secrets, database, or build step is needed in production. Keep data filenames and relative paths together. `source-guides/` and tests need not be published. A private hosting preview is separate from the runnable local codebase.
+
+## Model selection images
+
+All 34 models have a thumbnail in the model list and a larger photograph beside the selected model's name. Images use contain sizing so tall models are shown in full, without cropping. They do not appear on revision cards.
+
+Original photographs remain in Images/. Browser-ready copies are in dist/images/. Each entry in dist/data/models.json has an image path relative to dist/. To replace an image, replace that file. To add one, copy it into dist/images/ and set the model's image field, for example images/ms7.jpg. JPG, JPEG and PNG are supported.
+
+Colon-separated image codes map to underscore-separated model codes (BS8:1 → BS8_1). The Stomach (Model NS15) entry explicitly uses JS4.jpg, which depicts the stomach; Upper Limb uses NS15.jpg. Display names and card data remain unchanged.
+
+Tag search filters the visible chips only, ignoring case and an optional leading #. Selected tags remain active when hidden by a search. Clear the search to see all chips again; Clear filters removes the selected tags. Switching models clears the tag search.
