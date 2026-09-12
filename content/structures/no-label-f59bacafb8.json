@@ -1,0 +1,70 @@
+{
+  "id": "no-label-f59bacafb8",
+  "name": "No label",
+  "aliases": [],
+  "scope": "nose-and-nasal-cavity-model-fs3[\"Bones, conchae, meatuses and pharyngeal structures\",[\"10\"]]",
+  "kind": "model-note",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Respiratory"
+  ],
+  "organs": [],
+  "tags": [
+    "ModelNote",
+    "NasalCavity"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-d756b1f61f",
+      "variants": [
+        {
+          "id": "v-d756b1f61f",
+          "answer": "No label",
+          "sources": [
+            {
+              "modelId": "nose-and-nasal-cavity-model-fs3",
+              "cardId": "nose-and-nasal-cavity-model-fs3-138",
+              "sourceLine": 138
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c0d9dc54c1",
+      "question": "Model note",
+      "preferredVariantId": "v-71b239ea9e",
+      "variants": [
+        {
+          "id": "v-71b239ea9e",
+          "answer": "There is no labelled anatomical structure at this position on the model key.",
+          "sources": [
+            {
+              "modelId": "nose-and-nasal-cavity-model-fs3",
+              "cardId": "nose-and-nasal-cavity-model-fs3-139",
+              "sourceLine": 139
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "nose-and-nasal-cavity-model-fs3",
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "path": [
+        "10"
+      ],
+      "label": "10"
+    }
+  ]
+}

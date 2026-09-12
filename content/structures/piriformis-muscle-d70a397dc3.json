@@ -1,0 +1,182 @@
+{
+  "id": "piriformis-muscle-d70a397dc3",
+  "name": "Piriformis muscle",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Lower limb",
+    "Pelvis"
+  ],
+  "systems": [
+    "Musculoskeletal",
+    "Reproductive"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-59fa02725e",
+      "variants": [
+        {
+          "id": "v-59fa02725e",
+          "answer": "Piriformis muscle",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-94",
+              "sourceLine": 94
+            },
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-27",
+              "sourceLine": 27
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-bec78b9bbb",
+      "variants": [
+        {
+          "id": "v-bec78b9bbb",
+          "answer": "Laterally rotates extended thigh, abducts flexed thigh and stabilises hip.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-95",
+              "sourceLine": 95
+            }
+          ]
+        },
+        {
+          "id": "v-3f43763510",
+          "answer": "Laterally rotates the extended hip; abducts the flexed hip; stabilises the femoral head.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-28",
+              "sourceLine": 28
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-61db042abf",
+      "variants": [
+        {
+          "id": "v-61db042abf",
+          "answer": "Nerve to piriformis (S1–S2).",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-96",
+              "sourceLine": 96
+            },
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-29",
+              "sourceLine": 29
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-ca2f772b4f",
+      "variants": [
+        {
+          "id": "v-ca2f772b4f",
+          "answer": "Anterior surface of sacrum.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-97",
+              "sourceLine": 97
+            }
+          ]
+        },
+        {
+          "id": "v-f38fd2777d",
+          "answer": "Anterior sacrum, mainly between anterior sacral foramina; contributions from sacrotuberous ligament.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-30",
+              "sourceLine": 30
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-e0878a2acf",
+      "variants": [
+        {
+          "id": "v-e0878a2acf",
+          "answer": "Superior border of greater trochanter.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-98",
+              "sourceLine": 98
+            },
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-31",
+              "sourceLine": 31
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "female-pelvis-model-mo8",
+      "section": "",
+      "path": [
+        "16"
+      ],
+      "label": "16"
+    },
+    {
+      "modelId": "lower-limb-model-ns10",
+      "section": "Muscles",
+      "path": [
+        "5"
+      ],
+      "label": "5"
+    }
+  ]
+}

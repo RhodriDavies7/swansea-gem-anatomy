@@ -1,0 +1,347 @@
+{
+  "id": "ulnar-nerve-86ea789df7",
+  "name": "Ulnar nerve",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Nerves"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [],
+  "tags": [
+    "ArteriesAndNerves",
+    "Course",
+    "Lesion",
+    "Motor",
+    "Nerve",
+    "Roots",
+    "Sensory"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-e0c82f5609",
+      "variants": [
+        {
+          "id": "v-e0c82f5609",
+          "answer": "Ulnar nerve",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-222",
+              "sourceLine": 222
+            },
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-470",
+              "sourceLine": 470
+            },
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-477",
+              "sourceLine": 477
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-4d78ec7d11",
+      "question": "Roots",
+      "preferredVariantId": "v-4e87fed952",
+      "variants": [
+        {
+          "id": "v-75e1ae90dc",
+          "answer": "C8–T1, terminal branch of the medial cord of the brachial plexus.",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-223",
+              "sourceLine": 223
+            }
+          ]
+        },
+        {
+          "id": "v-4e87fed952",
+          "answer": "C8–T1, with occasional C7 contribution; terminal branch of medial cord.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-471",
+              "sourceLine": 471
+            }
+          ]
+        },
+        {
+          "id": "v-f312f001e9",
+          "answer": "C8–T1, with occasional C7 contribution.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-478",
+              "sourceLine": 478
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-916ade44f4",
+      "variants": [
+        {
+          "id": "v-45e4a85488",
+          "answer": "Passes behind medial epicondyle, descends medial forearm and enters hand superficial to flexor retinaculum through Guyon's canal.",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-224",
+              "sourceLine": 224
+            }
+          ]
+        },
+        {
+          "id": "v-916ade44f4",
+          "answer": "Descends medial arm, passes posterior to medial epicondyle, enters forearm between FCU heads, travels with ulnar artery distally and enters hand through Guyon’s canal.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-472",
+              "sourceLine": 472
+            }
+          ]
+        },
+        {
+          "id": "v-0396d2ba8b",
+          "answer": "At the wrist enters the hand superficial to flexor retinaculum through Guyon’s canal, then divides into superficial and deep branches.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-479",
+              "sourceLine": 479
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-c8b6915183",
+      "question": "Motor functions",
+      "preferredVariantId": "curated-150f375c73",
+      "variants": [
+        {
+          "id": "v-f7b5abe7df",
+          "answer": "In the hand supplies hypothenar muscles, interossei, adductor pollicis, deep head of flexor pollicis brevis and medial two lumbricals.",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-225",
+              "sourceLine": 225
+            }
+          ]
+        },
+        {
+          "id": "v-766304789a",
+          "answer": "FCU and medial half of FDP in forearm; most intrinsic hand muscles through deep branch.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-473",
+              "sourceLine": 473
+            }
+          ]
+        },
+        {
+          "id": "v-abaee77ff5",
+          "answer": "At hand level, motor supply is chiefly via deep branch to hypothenar muscles, interossei, medial lumbricals, adductor pollicis and deep head of FPB.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-480",
+              "sourceLine": 480
+            }
+          ]
+        },
+        {
+          "id": "curated-150f375c73",
+          "answer": "Forearm: flexor carpi ulnaris and medial half of flexor digitorum profundus. Hand: most intrinsic muscles, including interossei, medial two lumbricals, hypothenar muscles and adductor pollicis.",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-225",
+              "sourceLine": 225
+            },
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-473",
+              "sourceLine": 473
+            },
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-480",
+              "sourceLine": 480
+            }
+          ],
+          "editorial": true
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-a453254382",
+      "question": "Sensory functions",
+      "preferredVariantId": "v-6fc7f440e9",
+      "variants": [
+        {
+          "id": "v-6fc7f440e9",
+          "answer": "Supplies palmar and dorsal aspects of medial 1½ digits and adjacent hand through palmar, dorsal and digital branches.",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-226",
+              "sourceLine": 226
+            }
+          ]
+        },
+        {
+          "id": "v-d10b2d04a6",
+          "answer": "Medial 1½ digits and adjacent hand through palmar and dorsal cutaneous/superficial branches.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-474",
+              "sourceLine": 474
+            }
+          ]
+        },
+        {
+          "id": "v-b9b829b542",
+          "answer": "Superficial branch supplies palmar aspects of medial 1½ digits; dorsal cutaneous branch arises proximal to the wrist.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-481",
+              "sourceLine": 481
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-bc53d10c57",
+      "question": "Lesion",
+      "preferredVariantId": "curated-22ba8f485e",
+      "variants": [
+        {
+          "id": "v-29da6450bf",
+          "answer": "Causes weakness of finger abduction/adduction, weak thumb adduction with positive Froment sign, sensory loss over medial 1½ digits and ulnar clawing, especially with distal lesions.",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-227",
+              "sourceLine": 227
+            }
+          ]
+        },
+        {
+          "id": "v-0f90d988b8",
+          "answer": "Weak finger abduction/adduction and key pinch with sensory loss in ulnar digits; lesion at elbow may also weaken FCU/FDP. Froment sign may be positive.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-475",
+              "sourceLine": 475
+            }
+          ]
+        },
+        {
+          "id": "v-14fecc4618",
+          "answer": "Guyon’s canal lesion causes intrinsic hand weakness with variable palmar ulnar sensory loss while dorsal ulnar hand sensation may be spared.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-482",
+              "sourceLine": 482
+            }
+          ]
+        },
+        {
+          "id": "curated-22ba8f485e",
+          "answer": "Weak finger abduction/adduction and thumb adduction (Froment sign), medial 1½-digit sensory loss and ulnar clawing. Elbow lesions may also weaken FCU/FDP; Guyon’s canal lesions can spare dorsal hand sensation.",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-227",
+              "sourceLine": 227
+            },
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-475",
+              "sourceLine": 475
+            },
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-482",
+              "sourceLine": 482
+            }
+          ],
+          "editorial": true
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "hand-model-ns13",
+      "section": "Arteries and nerves",
+      "path": [
+        "6"
+      ],
+      "label": "6"
+    },
+    {
+      "modelId": "upper-limb-model-ns15",
+      "section": "Nerves",
+      "path": [
+        "74"
+      ],
+      "label": "74"
+    },
+    {
+      "modelId": "upper-limb-model-ns15",
+      "section": "Nerves",
+      "path": [
+        "75"
+      ],
+      "label": "75"
+    }
+  ]
+}

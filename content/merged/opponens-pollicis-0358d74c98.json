@@ -1,0 +1,127 @@
+{
+  "id": "opponens-pollicis-0358d74c98",
+  "name": "Opponens pollicis",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-695d285d48",
+      "variants": [
+        {
+          "id": "v-695d285d48",
+          "answer": "Opponens pollicis",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-186",
+              "sourceLine": 186
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-6dc01f23d9",
+      "variants": [
+        {
+          "id": "v-6dc01f23d9",
+          "answer": "Opposes the thumb by flexing and medially rotating the first metacarpal at the carpometacarpal joint.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-187",
+              "sourceLine": 187
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-3ae2425f1f",
+      "variants": [
+        {
+          "id": "v-3ae2425f1f",
+          "answer": "Recurrent branch of median nerve (C8–T1).",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-188",
+              "sourceLine": 188
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-08f1a11a47",
+      "variants": [
+        {
+          "id": "v-08f1a11a47",
+          "answer": "Flexor retinaculum and tubercle of trapezium.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-189",
+              "sourceLine": 189
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-a8703d37e0",
+      "variants": [
+        {
+          "id": "v-a8703d37e0",
+          "answer": "Lateral side of first metacarpal.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-190",
+              "sourceLine": 190
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "upper-limb-model-ns15",
+      "section": "Muscles",
+      "path": [
+        "31"
+      ],
+      "label": "31"
+    }
+  ]
+}

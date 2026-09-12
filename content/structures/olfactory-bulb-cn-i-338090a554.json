@@ -1,0 +1,128 @@
+{
+  "id": "olfactory-bulb-cn-i-338090a554",
+  "name": "Olfactory bulb (CN I)",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Nerves"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [],
+  "tags": [
+    "Brain",
+    "Course",
+    "Lesion",
+    "Nerve",
+    "Roots",
+    "Sensory"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-812117e8f8",
+      "variants": [
+        {
+          "id": "v-812117e8f8",
+          "answer": "Olfactory bulb (CN I)",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-735",
+              "sourceLine": 735
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-4d78ec7d11",
+      "question": "Roots",
+      "preferredVariantId": "v-c1cb11a5dd",
+      "variants": [
+        {
+          "id": "v-c1cb11a5dd",
+          "answer": "Receives axons from olfactory receptor neurons through the cribriform plate.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-736",
+              "sourceLine": 736
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-d408e1add8",
+      "variants": [
+        {
+          "id": "v-d408e1add8",
+          "answer": "Continues posteriorly as the olfactory tract.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-737",
+              "sourceLine": 737
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-a453254382",
+      "question": "Sensory functions",
+      "preferredVariantId": "v-b7a0555e8a",
+      "variants": [
+        {
+          "id": "v-b7a0555e8a",
+          "answer": "Mediates smell.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-738",
+              "sourceLine": 738
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-bc53d10c57",
+      "question": "Lesion",
+      "preferredVariantId": "v-4a7a50cd3b",
+      "variants": [
+        {
+          "id": "v-4a7a50cd3b",
+          "answer": "Causes anosmia; cribriform plate injury may also produce CSF rhinorrhoea.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-739",
+              "sourceLine": 739
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "head-and-neck-model-cs17-2",
+      "section": "Internal brain structures and cranial nerves (1–26)",
+      "path": [
+        "15"
+      ],
+      "label": "15"
+    }
+  ]
+}

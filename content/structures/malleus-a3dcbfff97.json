@@ -1,0 +1,180 @@
+{
+  "id": "malleus-a3dcbfff97",
+  "name": "Malleus",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [],
+  "organs": [
+    "Ear"
+  ],
+  "tags": [
+    "Articulations",
+    "Function",
+    "MiddleEar",
+    "Ossicle",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-b13b6284e2",
+      "variants": [
+        {
+          "id": "v-b13b6284e2",
+          "answer": "Malleus",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-137",
+              "sourceLine": 137
+            },
+            {
+              "modelId": "ear-model-ds3",
+              "cardId": "ear-model-ds3-39",
+              "sourceLine": 39
+            },
+            {
+              "modelId": "inner-ear-model-ds17",
+              "cardId": "inner-ear-model-ds17-15",
+              "sourceLine": 15
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-a40bee8d10",
+      "question": "Articulations",
+      "preferredVariantId": "v-1325dfb4df",
+      "variants": [
+        {
+          "id": "v-1325dfb4df",
+          "answer": "Articulates with the incus at the incudomalleolar joint.",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-138",
+              "sourceLine": 138
+            },
+            {
+              "modelId": "ear-model-ds3",
+              "cardId": "ear-model-ds3-40",
+              "sourceLine": 40
+            }
+          ]
+        },
+        {
+          "id": "v-3582482d28",
+          "answer": "Articulates with incus at the incudomalleolar joint.",
+          "sources": [
+            {
+              "modelId": "inner-ear-model-ds17",
+              "cardId": "inner-ear-model-ds17-17",
+              "sourceLine": 17
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-5d8e2ffec8",
+      "variants": [
+        {
+          "id": "v-5d8e2ffec8",
+          "answer": "Transmits vibration from the tympanic membrane to the incus.",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-139",
+              "sourceLine": 139
+            },
+            {
+              "modelId": "ear-model-ds3",
+              "cardId": "ear-model-ds3-41",
+              "sourceLine": 41
+            }
+          ]
+        },
+        {
+          "id": "v-a80ead99c8",
+          "answer": "Transmits vibrations from tympanic membrane to incus.",
+          "sources": [
+            {
+              "modelId": "inner-ear-model-ds17",
+              "cardId": "inner-ear-model-ds17-16",
+              "sourceLine": 16
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-1b47e1f0f3",
+      "variants": [
+        {
+          "id": "v-1b47e1f0f3",
+          "answer": "Handle is attached to the tympanic membrane.",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-140",
+              "sourceLine": 140
+            },
+            {
+              "modelId": "ear-model-ds3",
+              "cardId": "ear-model-ds3-42",
+              "sourceLine": 42
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "ear-largest-model-ds1",
+      "section": "C. Middle ear",
+      "path": [
+        "25"
+      ],
+      "label": "25"
+    },
+    {
+      "modelId": "ear-model-ds3",
+      "section": "B. Middle ear",
+      "path": [
+        "7"
+      ],
+      "label": "7"
+    },
+    {
+      "modelId": "inner-ear-model-ds17",
+      "section": "Tympanic membrane and ossicles",
+      "path": [
+        "3"
+      ],
+      "label": "3"
+    }
+  ]
+}

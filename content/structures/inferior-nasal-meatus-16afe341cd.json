@@ -1,0 +1,90 @@
+{
+  "id": "inferior-nasal-meatus-16afe341cd",
+  "name": "Inferior nasal meatus",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Respiratory"
+  ],
+  "organs": [],
+  "tags": [
+    "Drainage",
+    "Location",
+    "NasalCavity",
+    "NasalMeatus"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-9a37356df8",
+      "variants": [
+        {
+          "id": "v-9a37356df8",
+          "answer": "Inferior nasal meatus",
+          "sources": [
+            {
+              "modelId": "nose-and-nasal-cavity-model-fs3",
+              "cardId": "nose-and-nasal-cavity-model-fs3-168",
+              "sourceLine": 168
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-dc224e5b5c",
+      "variants": [
+        {
+          "id": "v-dc224e5b5c",
+          "answer": "Passage inferior to the inferior nasal concha.",
+          "sources": [
+            {
+              "modelId": "nose-and-nasal-cavity-model-fs3",
+              "cardId": "nose-and-nasal-cavity-model-fs3-169",
+              "sourceLine": 169
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-74a64b1943",
+      "question": "Drainage",
+      "preferredVariantId": "v-9c9ef1421d",
+      "variants": [
+        {
+          "id": "v-9c9ef1421d",
+          "answer": "Receives the nasolacrimal duct.",
+          "sources": [
+            {
+              "modelId": "nose-and-nasal-cavity-model-fs3",
+              "cardId": "nose-and-nasal-cavity-model-fs3-170",
+              "sourceLine": 170
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "nose-and-nasal-cavity-model-fs3",
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "path": [
+        "16"
+      ],
+      "label": "16"
+    }
+  ]
+}

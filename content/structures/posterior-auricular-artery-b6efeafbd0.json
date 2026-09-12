@@ -1,0 +1,109 @@
+{
+  "id": "posterior-auricular-artery-b6efeafbd0",
+  "name": "Posterior auricular artery",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Arteries"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Cardiovascular"
+  ],
+  "organs": [],
+  "tags": [
+    "Artery",
+    "BloodVesselsAndNerves",
+    "Course",
+    "Origin",
+    "Supply"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-5d6a8b924e",
+      "variants": [
+        {
+          "id": "v-5d6a8b924e",
+          "answer": "Posterior auricular artery",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-681",
+              "sourceLine": 681
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-5ef00ee00c",
+      "variants": [
+        {
+          "id": "v-5ef00ee00c",
+          "answer": "External carotid artery.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-682",
+              "sourceLine": 682
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-186f16add9",
+      "variants": [
+        {
+          "id": "v-186f16add9",
+          "answer": "Ascends posterior to auricle.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-683",
+              "sourceLine": 683
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-222db0fc1c",
+      "question": "Supply",
+      "preferredVariantId": "v-64419659d2",
+      "variants": [
+        {
+          "id": "v-64419659d2",
+          "answer": "Auricle and scalp posterior to ear.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-684",
+              "sourceLine": 684
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "half-head-and-neck-model-bs9",
+      "section": "Blood vessels and nerves",
+      "path": [
+        "64"
+      ],
+      "label": "64"
+    }
+  ]
+}

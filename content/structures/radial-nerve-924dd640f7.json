@@ -1,0 +1,269 @@
+{
+  "id": "radial-nerve-924dd640f7",
+  "name": "Radial nerve",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Nerves"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [],
+  "tags": [
+    "ArteriesAndNerves",
+    "Course",
+    "Lesion",
+    "Motor",
+    "Nerve",
+    "Roots",
+    "Sensory"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-b95f49621c",
+      "variants": [
+        {
+          "id": "v-b95f49621c",
+          "answer": "Radial nerve",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-242",
+              "sourceLine": 242
+            },
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-512",
+              "sourceLine": 512
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-4d78ec7d11",
+      "question": "Roots",
+      "preferredVariantId": "v-1a4909cd7f",
+      "variants": [
+        {
+          "id": "v-1a4909cd7f",
+          "answer": "C5–T1, terminal branch of the posterior cord of the brachial plexus.",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-243",
+              "sourceLine": 243
+            }
+          ]
+        },
+        {
+          "id": "v-ab18f2b528",
+          "answer": "C5–T1 from posterior cord.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-513",
+              "sourceLine": 513
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-048c7ecdfa",
+      "variants": [
+        {
+          "id": "v-e17f997632",
+          "answer": "Travels in radial groove of humerus, divides near lateral elbow into superficial sensory and deep motor branches; superficial branch reaches dorsolateral hand.",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-244",
+              "sourceLine": 244
+            }
+          ]
+        },
+        {
+          "id": "v-048c7ecdfa",
+          "answer": "Leaves axilla through triangular interval with profunda brachii, winds in radial groove, pierces lateral intermuscular septum, then divides near lateral elbow into superficial and deep branches.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-514",
+              "sourceLine": 514
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-c8b6915183",
+      "question": "Motor functions",
+      "preferredVariantId": "curated-8f9e1b5563",
+      "variants": [
+        {
+          "id": "v-aa579225e7",
+          "answer": "Supplies extensor muscles of arm and forearm through radial/deep branch/posterior interosseous nerve; no intrinsic hand muscles are supplied.",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-245",
+              "sourceLine": 245
+            }
+          ]
+        },
+        {
+          "id": "v-5b59124c17",
+          "answer": "Triceps, anconeus, brachioradialis, ECRL and via deep/posterior interosseous branch most forearm extensors.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-515",
+              "sourceLine": 515
+            }
+          ]
+        },
+        {
+          "id": "curated-8f9e1b5563",
+          "answer": "Supplies triceps, anconeus, brachioradialis and the wrist/finger extensors through its deep branch and posterior interosseous nerve. No intrinsic hand muscles.",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-245",
+              "sourceLine": 245
+            },
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-515",
+              "sourceLine": 515
+            }
+          ],
+          "editorial": true
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-a453254382",
+      "question": "Sensory functions",
+      "preferredVariantId": "v-ef647653b3",
+      "variants": [
+        {
+          "id": "v-40c19da128",
+          "answer": "Superficial radial branch supplies dorsolateral hand and proximal dorsal portions of lateral 3½ digits, excluding fingertips.",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-246",
+              "sourceLine": 246
+            }
+          ]
+        },
+        {
+          "id": "v-ef647653b3",
+          "answer": "Posterior arm and forearm, lower lateral arm, and dorsolateral hand through cutaneous branches and superficial radial nerve.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-516",
+              "sourceLine": 516
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-bc53d10c57",
+      "question": "Lesion",
+      "preferredVariantId": "curated-79515d7072",
+      "variants": [
+        {
+          "id": "v-70c10b4c41",
+          "answer": "Proximal radial nerve injury may cause wrist drop with weakness of wrist/finger extension and sensory loss over dorsolateral hand; an isolated superficial branch lesion causes sensory symptoms without motor weakness.",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-247",
+              "sourceLine": 247
+            }
+          ]
+        },
+        {
+          "id": "v-779b7377a8",
+          "answer": "Deficit depends on level; radial groove lesion classically causes wrist/finger extension weakness and dorsal hand sensory loss while triceps is largely spared.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-517",
+              "sourceLine": 517
+            }
+          ]
+        },
+        {
+          "id": "curated-79515d7072",
+          "answer": "Radial groove injury: wrist/finger extension weakness and dorsolateral hand sensory loss, with triceps largely spared. An isolated superficial branch lesion causes sensory symptoms without motor weakness.",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-247",
+              "sourceLine": 247
+            },
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-517",
+              "sourceLine": 517
+            }
+          ],
+          "editorial": true
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "hand-model-ns13",
+      "section": "Arteries and nerves",
+      "path": [
+        "7"
+      ],
+      "label": "7"
+    },
+    {
+      "modelId": "upper-limb-model-ns15",
+      "section": "Nerves",
+      "path": [
+        "80"
+      ],
+      "label": "80"
+    }
+  ]
+}

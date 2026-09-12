@@ -1,0 +1,108 @@
+{
+  "id": "ascending-branch-of-lateral-circumflex-femoral-artery-825ef5b96b",
+  "name": "Ascending branch of lateral circumflex femoral artery",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Arteries"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Cardiovascular"
+  ],
+  "organs": [],
+  "tags": [
+    "Artery",
+    "Course",
+    "Origin",
+    "Supply"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-33168246ef",
+      "variants": [
+        {
+          "id": "v-33168246ef",
+          "answer": "Ascending branch of lateral circumflex femoral artery",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-370",
+              "sourceLine": 370
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-c4eb70aa0b",
+      "variants": [
+        {
+          "id": "v-c4eb70aa0b",
+          "answer": "Lateral circumflex femoral artery.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-371",
+              "sourceLine": 371
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-b231112615",
+      "variants": [
+        {
+          "id": "v-b231112615",
+          "answer": "Ascends toward greater trochanter, deep to tensor fasciae latae.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-372",
+              "sourceLine": 372
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-222db0fc1c",
+      "question": "Supply",
+      "preferredVariantId": "v-21de7a792d",
+      "variants": [
+        {
+          "id": "v-21de7a792d",
+          "answer": "Lateral hip muscles and hip region; contributes to trochanteric anastomosis.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-373",
+              "sourceLine": 373
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "lower-limb-model-ns10",
+      "section": "Blood vessels",
+      "path": [
+        "48"
+      ],
+      "label": "48"
+    }
+  ]
+}

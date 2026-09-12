@@ -1,0 +1,196 @@
+{
+  "id": "internal-pudendal-artery-e4ebc57f7f",
+  "name": "Internal pudendal artery",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Arteries"
+  ],
+  "regions": [
+    "Lower limb",
+    "Pelvis"
+  ],
+  "systems": [
+    "Cardiovascular",
+    "Reproductive"
+  ],
+  "organs": [],
+  "tags": [
+    "Artery",
+    "Branches",
+    "Course",
+    "Origin",
+    "Relations",
+    "Supply"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-715d54b0bb",
+      "variants": [
+        {
+          "id": "v-715d54b0bb",
+          "answer": "Internal pudendal artery",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-276",
+              "sourceLine": 276
+            },
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-343",
+              "sourceLine": 343
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-9523de79d2",
+      "variants": [
+        {
+          "id": "v-9523de79d2",
+          "answer": "Anterior division of internal iliac artery.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-277",
+              "sourceLine": 277
+            },
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-344",
+              "sourceLine": 344
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-612abf18f6",
+      "variants": [
+        {
+          "id": "v-7758b067f4",
+          "answer": "Exits greater sciatic foramen, hooks around ischial spine, enters lesser sciatic foramen and pudendal canal.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-278",
+              "sourceLine": 278
+            }
+          ]
+        },
+        {
+          "id": "v-612abf18f6",
+          "answer": "Exits greater sciatic foramen below piriformis, hooks around ischial spine, enters lesser sciatic foramen and runs in pudendal canal.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-345",
+              "sourceLine": 345
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-222db0fc1c",
+      "question": "Supply",
+      "preferredVariantId": "v-ee3ee4db07",
+      "variants": [
+        {
+          "id": "v-fe743a94dd",
+          "answer": "Perineum and external genitalia.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-279",
+              "sourceLine": 279
+            }
+          ]
+        },
+        {
+          "id": "v-ee3ee4db07",
+          "answer": "Perineum, external genitalia and lower anal canal.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-347",
+              "sourceLine": 347
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-f578227926",
+      "question": "Branches",
+      "preferredVariantId": "v-94b37f361d",
+      "variants": [
+        {
+          "id": "v-94b37f361d",
+          "answer": "Inferior rectal, perineal, urethral and genital branches, including deep and dorsal arteries of penis or clitoris.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-346",
+              "sourceLine": 346
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-75edde2bde",
+      "variants": [
+        {
+          "id": "v-75edde2bde",
+          "answer": "Travels with pudendal nerve near sacrospinous ligament and then in obturator fascia along lateral wall of ischioanal fossa.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-348",
+              "sourceLine": 348
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "female-pelvis-model-mo8",
+      "section": "",
+      "path": [
+        "43"
+      ],
+      "label": "43"
+    },
+    {
+      "modelId": "lower-limb-model-ns10",
+      "section": "Blood vessels",
+      "path": [
+        "44"
+      ],
+      "label": "44"
+    }
+  ]
+}

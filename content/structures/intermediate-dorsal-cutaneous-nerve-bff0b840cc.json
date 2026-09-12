@@ -1,0 +1,128 @@
+{
+  "id": "intermediate-dorsal-cutaneous-nerve-bff0b840cc",
+  "name": "Intermediate dorsal cutaneous nerve",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Nerves"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [],
+  "tags": [
+    "ArteriesAndNerves",
+    "Course",
+    "Lesion",
+    "Nerve",
+    "Roots",
+    "Sensory"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-93f855bf16",
+      "variants": [
+        {
+          "id": "v-93f855bf16",
+          "answer": "Intermediate dorsal cutaneous nerve",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-302",
+              "sourceLine": 302
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-4d78ec7d11",
+      "question": "Roots",
+      "preferredVariantId": "v-941fce5528",
+      "variants": [
+        {
+          "id": "v-941fce5528",
+          "answer": "Branch of superficial fibular nerve.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-303",
+              "sourceLine": 303
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-2c448356a5",
+      "variants": [
+        {
+          "id": "v-2c448356a5",
+          "answer": "Runs over dorsolateral foot and divides into dorsal digital branches.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-304",
+              "sourceLine": 304
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-a453254382",
+      "question": "Sensory functions",
+      "preferredVariantId": "v-f14d95549e",
+      "variants": [
+        {
+          "id": "v-f14d95549e",
+          "answer": "Supplies central/lateral dorsum of foot and adjacent dorsal toe surfaces.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-305",
+              "sourceLine": 305
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-bc53d10c57",
+      "question": "Lesion",
+      "preferredVariantId": "v-c87228645b",
+      "variants": [
+        {
+          "id": "v-c87228645b",
+          "answer": "Causes numbness or paraesthesia over the central to lateral dorsum of the foot without motor weakness.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-306",
+              "sourceLine": 306
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "foot-model-ns9",
+      "section": "Arteries and nerves",
+      "path": [
+        "44"
+      ],
+      "label": "44"
+    }
+  ]
+}

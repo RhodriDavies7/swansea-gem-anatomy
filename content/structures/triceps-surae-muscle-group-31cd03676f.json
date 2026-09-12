@@ -1,0 +1,127 @@
+{
+  "id": "triceps-surae-muscle-group-31cd03676f",
+  "name": "Triceps surae muscle group",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-271cf26422",
+      "variants": [
+        {
+          "id": "v-271cf26422",
+          "answer": "Triceps surae muscle group",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-184",
+              "sourceLine": 184
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-257e65f548",
+      "variants": [
+        {
+          "id": "v-257e65f548",
+          "answer": "Plantarflexes the ankle and raises the heel; gastrocnemius also flexes the knee; soleus helps maintain standing posture.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-185",
+              "sourceLine": 185
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-dcf5ce77f1",
+      "variants": [
+        {
+          "id": "v-dcf5ce77f1",
+          "answer": "Tibial nerve (mainly S1–S2).",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-186",
+              "sourceLine": 186
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-6d68be14bb",
+      "variants": [
+        {
+          "id": "v-6d68be14bb",
+          "answer": "Gastrocnemius: distal femur above both condyles. Soleus: posterior proximal tibia and fibula.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-187",
+              "sourceLine": 187
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-2f53a84647",
+      "variants": [
+        {
+          "id": "v-2f53a84647",
+          "answer": "Posterior calcaneus through calcaneal tendon.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-188",
+              "sourceLine": 188
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "lower-limb-model-ns10",
+      "section": "Muscles",
+      "path": [
+        "24"
+      ],
+      "label": "24"
+    }
+  ]
+}

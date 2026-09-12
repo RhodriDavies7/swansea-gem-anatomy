@@ -1,0 +1,90 @@
+{
+  "id": "hip-bone-os-coxae-00ee45fa6e",
+  "name": "Hip bone (os coxae)",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Bones"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Bone",
+    "Bones",
+    "Components",
+    "Function"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-b01980e150",
+      "variants": [
+        {
+          "id": "v-b01980e150",
+          "answer": "Hip bone (os coxae)",
+          "sources": [
+            {
+              "modelId": "hip-joint-model-ns20",
+              "cardId": "hip-joint-model-ns20-3",
+              "sourceLine": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9289473eee",
+      "question": "Components",
+      "preferredVariantId": "v-f34bf9f6ad",
+      "variants": [
+        {
+          "id": "v-f34bf9f6ad",
+          "answer": "Formed by the ilium, pubis and ischium, which fuse around the acetabulum.",
+          "sources": [
+            {
+              "modelId": "hip-joint-model-ns20",
+              "cardId": "hip-joint-model-ns20-4",
+              "sourceLine": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-753526a1ae",
+      "variants": [
+        {
+          "id": "v-753526a1ae",
+          "answer": "Transmits body weight from axial skeleton to lower limb and forms the acetabulum.",
+          "sources": [
+            {
+              "modelId": "hip-joint-model-ns20",
+              "cardId": "hip-joint-model-ns20-5",
+              "sourceLine": 5
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "hip-joint-model-ns20",
+      "section": "Bones and bony landmarks",
+      "path": [
+        "1"
+      ],
+      "label": "1"
+    }
+  ]
+}

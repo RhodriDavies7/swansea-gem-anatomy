@@ -1,0 +1,128 @@
+{
+  "id": "scalenus-anterior-muscle-121c12151a",
+  "name": "Scalenus anterior muscle",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "HeadNeckMuscles",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-88c057c1bd",
+      "variants": [
+        {
+          "id": "v-88c057c1bd",
+          "answer": "Scalenus anterior muscle",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-624",
+              "sourceLine": 624
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-f3e919d96e",
+      "variants": [
+        {
+          "id": "v-f3e919d96e",
+          "answer": "Elevates 1st rib and flexes/laterally flexes neck.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-625",
+              "sourceLine": 625
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-4a81f1e2ce",
+      "variants": [
+        {
+          "id": "v-4a81f1e2ce",
+          "answer": "Anterior rami C4–C6.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-626",
+              "sourceLine": 626
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-03e6020967",
+      "variants": [
+        {
+          "id": "v-03e6020967",
+          "answer": "Anterior tubercles of transverse processes C3–C6.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-627",
+              "sourceLine": 627
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-15ba4b8de5",
+      "variants": [
+        {
+          "id": "v-15ba4b8de5",
+          "answer": "Scalene tubercle of 1st rib.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-628",
+              "sourceLine": 628
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "half-head-and-neck-model-bs9",
+      "section": "Musculature of the head and neck",
+      "path": [
+        "57"
+      ],
+      "label": "57"
+    }
+  ]
+}

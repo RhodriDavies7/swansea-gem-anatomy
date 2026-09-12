@@ -1,0 +1,124 @@
+{
+  "id": "body-of-hyoid-bone-eb5bfebf0b",
+  "name": "Body of hyoid bone",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Bones"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Musculoskeletal",
+    "Respiratory"
+  ],
+  "organs": [
+    "Larynx"
+  ],
+  "tags": [
+    "BonyLandmark",
+    "CartilagesAndBones",
+    "Larynx",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-a9c25ec945",
+      "variants": [
+        {
+          "id": "v-a9c25ec945",
+          "answer": "Body of hyoid bone",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-8",
+              "sourceLine": 8
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-8",
+              "sourceLine": 8
+            },
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-7",
+              "sourceLine": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-27eff59cd5",
+      "variants": [
+        {
+          "id": "v-27eff59cd5",
+          "answer": "Central anterior part of the hyoid between the greater horns.",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-9",
+              "sourceLine": 9
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-9",
+              "sourceLine": 9
+            }
+          ]
+        },
+        {
+          "id": "v-b39928fd3c",
+          "answer": "Central anterior portion between the greater cornua.",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-8",
+              "sourceLine": 8
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "larynx-model-gs7",
+      "section": "Hyoid and laryngeal cartilages",
+      "path": [
+        "1",
+        "a"
+      ],
+      "label": "1a"
+    },
+    {
+      "modelId": "larynx-and-airway-model-gs5",
+      "section": "Hyoid and laryngeal cartilages",
+      "path": [
+        "1",
+        "a"
+      ],
+      "label": "1a"
+    },
+    {
+      "modelId": "larynx-and-tongue-model-gs4",
+      "section": "Larynx",
+      "path": [
+        "1",
+        "a"
+      ],
+      "label": "1a"
+    }
+  ]
+}

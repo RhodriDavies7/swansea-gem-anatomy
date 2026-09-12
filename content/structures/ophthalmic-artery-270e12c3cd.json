@@ -1,0 +1,146 @@
+{
+  "id": "ophthalmic-artery-270e12c3cd",
+  "name": "Ophthalmic artery",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Arteries"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Cardiovascular"
+  ],
+  "organs": [],
+  "tags": [
+    "Artery",
+    "Branches",
+    "Course",
+    "ModelNote",
+    "Origin",
+    "Supply"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-01bc3be806",
+      "variants": [
+        {
+          "id": "v-01bc3be806",
+          "answer": "Ophthalmic artery",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-51",
+              "sourceLine": 51
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-109bf14f86",
+      "variants": [
+        {
+          "id": "v-109bf14f86",
+          "answer": "Usually arises from the internal carotid artery after it leaves the cavernous sinus.",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-52",
+              "sourceLine": 52
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-bbcf81e0c2",
+      "variants": [
+        {
+          "id": "v-bbcf81e0c2",
+          "answer": "Enters the orbit through the optic canal with the optic nerve.",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-53",
+              "sourceLine": 53
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f578227926",
+      "question": "Branches",
+      "preferredVariantId": "v-ed57f48ad9",
+      "variants": [
+        {
+          "id": "v-ed57f48ad9",
+          "answer": "Includes central retinal, lacrimal, ciliary, supraorbital, ethmoidal and other orbital branches.",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-54",
+              "sourceLine": 54
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-222db0fc1c",
+      "question": "Supply",
+      "preferredVariantId": "v-90df849f48",
+      "variants": [
+        {
+          "id": "v-90df849f48",
+          "answer": "Orbit, retina, forehead, scalp and parts of the nasal cavity.",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-55",
+              "sourceLine": 55
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-2c924e3088",
+      "question": "Note",
+      "preferredVariantId": "v-34f941fa41",
+      "variants": [
+        {
+          "id": "v-34f941fa41",
+          "answer": "May not be present on all versions of the model.",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-56",
+              "sourceLine": 56
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "cranial-floor-model-bs1",
+      "section": "",
+      "path": [
+        "9"
+      ],
+      "label": "9"
+    }
+  ]
+}

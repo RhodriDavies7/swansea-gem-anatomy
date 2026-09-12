@@ -1,0 +1,128 @@
+{
+  "id": "quadratus-plantae-ecc6278fdd",
+  "name": "Quadratus plantae",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Muscles",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-a213b27068",
+      "variants": [
+        {
+          "id": "v-a213b27068",
+          "answer": "Quadratus plantae",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-152",
+              "sourceLine": 152
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-9d1a3719e3",
+      "variants": [
+        {
+          "id": "v-9d1a3719e3",
+          "answer": "Assists flexor digitorum longus by straightening its oblique pull on toes 2–5.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-153",
+              "sourceLine": 153
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-88c8052b1c",
+      "variants": [
+        {
+          "id": "v-88c8052b1c",
+          "answer": "Lateral plantar nerve (S2–S3).",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-154",
+              "sourceLine": 154
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-818b6ec2a0",
+      "variants": [
+        {
+          "id": "v-818b6ec2a0",
+          "answer": "Medial and lateral plantar surfaces of calcaneus.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-155",
+              "sourceLine": 155
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-2ee49dc98c",
+      "variants": [
+        {
+          "id": "v-2ee49dc98c",
+          "answer": "Posterolateral margin of flexor digitorum longus tendon.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-156",
+              "sourceLine": 156
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "foot-model-ns9",
+      "section": "Muscles",
+      "path": [
+        "23"
+      ],
+      "label": "23"
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "id": "1st-dorsal-metacarpal-artery-42e1526284",
+  "name": "1st dorsal metacarpal artery",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Arteries"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [
+    "Cardiovascular"
+  ],
+  "organs": [],
+  "tags": [
+    "Artery",
+    "Course",
+    "Origin",
+    "Relations",
+    "Supply"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-f56f956421",
+      "variants": [
+        {
+          "id": "v-f56f956421",
+          "answer": "1st dorsal metacarpal artery",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-359",
+              "sourceLine": 359
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-c717f92394",
+      "variants": [
+        {
+          "id": "v-c717f92394",
+          "answer": "Usually radial artery or dorsal carpal network.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-360",
+              "sourceLine": 360
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-03c810aa59",
+      "variants": [
+        {
+          "id": "v-03c810aa59",
+          "answer": "Runs dorsally in first intermetacarpal region.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-361",
+              "sourceLine": 361
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-222db0fc1c",
+      "question": "Supply",
+      "preferredVariantId": "v-3bc060d282",
+      "variants": [
+        {
+          "id": "v-3bc060d282",
+          "answer": "Adjacent sides of thumb and index region on dorsum.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-362",
+              "sourceLine": 362
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-8423e8b836",
+      "variants": [
+        {
+          "id": "v-8423e8b836",
+          "answer": "Located near first dorsal interosseous muscle and anatomical snuffbox region.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-363",
+              "sourceLine": 363
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "upper-limb-model-ns15",
+      "section": "Arteries",
+      "path": [
+        "58"
+      ],
+      "label": "58"
+    }
+  ]
+}

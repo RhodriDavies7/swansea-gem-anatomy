@@ -1,0 +1,128 @@
+{
+  "id": "suprarenal-adrenal-gland-bde85ec8c7",
+  "name": "Suprarenal (adrenal) gland",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Organs"
+  ],
+  "regions": [
+    "Abdomen"
+  ],
+  "systems": [
+    "Urinary"
+  ],
+  "organs": [],
+  "tags": [
+    "BloodSupply",
+    "Function",
+    "Gland",
+    "Location",
+    "MajorVesselsAndGlands",
+    "Structure"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-8cd847f964",
+      "variants": [
+        {
+          "id": "v-8cd847f964",
+          "answer": "Suprarenal (adrenal) gland",
+          "sources": [
+            {
+              "modelId": "urinary-system-model-ls3-1",
+              "cardId": "urinary-system-model-ls3-1-79",
+              "sourceLine": 79
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-1e4e31db55",
+      "variants": [
+        {
+          "id": "v-1e4e31db55",
+          "answer": "Retroperitoneal endocrine gland on the superior pole of each kidney.",
+          "sources": [
+            {
+              "modelId": "urinary-system-model-ls3-1",
+              "cardId": "urinary-system-model-ls3-1-80",
+              "sourceLine": 80
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-584d3306f3",
+      "variants": [
+        {
+          "id": "v-584d3306f3",
+          "answer": "Outer cortex and inner medulla.",
+          "sources": [
+            {
+              "modelId": "urinary-system-model-ls3-1",
+              "cardId": "urinary-system-model-ls3-1-81",
+              "sourceLine": 81
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-1a98edc355",
+      "variants": [
+        {
+          "id": "v-1a98edc355",
+          "answer": "Cortex produces steroid hormones; medulla produces catecholamines.",
+          "sources": [
+            {
+              "modelId": "urinary-system-model-ls3-1",
+              "cardId": "urinary-system-model-ls3-1-82",
+              "sourceLine": 82
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-a707f7e176",
+      "question": "Blood supply",
+      "preferredVariantId": "v-92c2e5d3a2",
+      "variants": [
+        {
+          "id": "v-92c2e5d3a2",
+          "answer": "Supplied by superior, middle and inferior suprarenal arteries.",
+          "sources": [
+            {
+              "modelId": "urinary-system-model-ls3-1",
+              "cardId": "urinary-system-model-ls3-1-83",
+              "sourceLine": 83
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "urinary-system-model-ls3-1",
+      "section": "Suprarenal gland and major vessels",
+      "path": [
+        "9"
+      ],
+      "label": "9"
+    }
+  ]
+}

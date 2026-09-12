@@ -1,0 +1,207 @@
+{
+  "id": "long-and-short-ciliary-nerves-b11a103c81",
+  "name": "Long and short ciliary nerves",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Nerves"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [
+    "Eye"
+  ],
+  "tags": [
+    "Autonomic",
+    "Course",
+    "Eye",
+    "Lesion",
+    "Nerve",
+    "Roots",
+    "Sensory"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-2b8d628b40",
+      "variants": [
+        {
+          "id": "v-2b8d628b40",
+          "answer": "Long and short ciliary nerves",
+          "sources": [
+            {
+              "modelId": "eyeball-with-part-of-orbit-model-cs2",
+              "cardId": "eyeball-with-part-of-orbit-model-cs2-128",
+              "sourceLine": 128
+            },
+            {
+              "modelId": "eyeball-model-cs7",
+              "cardId": "eyeball-model-cs7-126",
+              "sourceLine": 126
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-4d78ec7d11",
+      "question": "Roots",
+      "preferredVariantId": "v-6b82c64150",
+      "variants": [
+        {
+          "id": "v-6b82c64150",
+          "answer": "Long ciliary nerves arise from nasociliary nerve (V1); short ciliary nerves arise from the ciliary ganglion.",
+          "sources": [
+            {
+              "modelId": "eyeball-with-part-of-orbit-model-cs2",
+              "cardId": "eyeball-with-part-of-orbit-model-cs2-129",
+              "sourceLine": 129
+            },
+            {
+              "modelId": "eyeball-model-cs7",
+              "cardId": "eyeball-model-cs7-127",
+              "sourceLine": 127
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-d44d306996",
+      "variants": [
+        {
+          "id": "v-d44d306996",
+          "answer": "Pierce sclera posteriorly and run forward between sclera and choroid.",
+          "sources": [
+            {
+              "modelId": "eyeball-with-part-of-orbit-model-cs2",
+              "cardId": "eyeball-with-part-of-orbit-model-cs2-130",
+              "sourceLine": 130
+            }
+          ]
+        },
+        {
+          "id": "v-07a70d89a6",
+          "answer": "Pierce the sclera posteriorly and run forward between sclera and choroid.",
+          "sources": [
+            {
+              "modelId": "eyeball-model-cs7",
+              "cardId": "eyeball-model-cs7-128",
+              "sourceLine": 128
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-a453254382",
+      "question": "Sensory functions",
+      "preferredVariantId": "v-950393e1bd",
+      "variants": [
+        {
+          "id": "v-950393e1bd",
+          "answer": "Carry sensory fibres from the eye, especially cornea via long ciliary pathways.",
+          "sources": [
+            {
+              "modelId": "eyeball-with-part-of-orbit-model-cs2",
+              "cardId": "eyeball-with-part-of-orbit-model-cs2-131",
+              "sourceLine": 131
+            }
+          ]
+        },
+        {
+          "id": "v-f42c2483e5",
+          "answer": "Carry sensory fibres from the eye, particularly the cornea via long ciliary pathways.",
+          "sources": [
+            {
+              "modelId": "eyeball-model-cs7",
+              "cardId": "eyeball-model-cs7-129",
+              "sourceLine": 129
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-47f6fc5937",
+      "question": "Autonomic functions",
+      "preferredVariantId": "v-0f95680b7b",
+      "variants": [
+        {
+          "id": "v-0f95680b7b",
+          "answer": "Short ciliary nerves carry parasympathetic fibres to sphincter pupillae and ciliary muscle; sympathetic fibres travel in both long and short ciliary nerves.",
+          "sources": [
+            {
+              "modelId": "eyeball-with-part-of-orbit-model-cs2",
+              "cardId": "eyeball-with-part-of-orbit-model-cs2-132",
+              "sourceLine": 132
+            },
+            {
+              "modelId": "eyeball-model-cs7",
+              "cardId": "eyeball-model-cs7-130",
+              "sourceLine": 130
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-bc53d10c57",
+      "question": "Lesion",
+      "preferredVariantId": "v-87b135a717",
+      "variants": [
+        {
+          "id": "v-87b135a717",
+          "answer": "Depending on which fibres are affected, may impair corneal sensation, pupillary constriction or dilation, and accommodation.",
+          "sources": [
+            {
+              "modelId": "eyeball-with-part-of-orbit-model-cs2",
+              "cardId": "eyeball-with-part-of-orbit-model-cs2-133",
+              "sourceLine": 133
+            },
+            {
+              "modelId": "eyeball-model-cs7",
+              "cardId": "eyeball-model-cs7-131",
+              "sourceLine": 131
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "eyeball-with-part-of-orbit-model-cs2",
+      "section": "Eye",
+      "path": [
+        "20"
+      ],
+      "label": "20"
+    },
+    {
+      "modelId": "eyeball-model-cs7",
+      "section": "",
+      "path": [
+        "20"
+      ],
+      "label": "20"
+    }
+  ]
+}

@@ -1,0 +1,326 @@
+{
+  "id": "glossopharyngeal-nerve-cn-ix-e8f791f8c3",
+  "name": "Glossopharyngeal nerve (CN IX)",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Nerves"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Nervous",
+    "Respiratory"
+  ],
+  "organs": [
+    "Larynx"
+  ],
+  "tags": [
+    "Brain",
+    "Course",
+    "Lesion",
+    "Motor",
+    "Nerve",
+    "Parasympathetic",
+    "Roots",
+    "Sensory",
+    "Tongue"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-8d755a398a",
+      "variants": [
+        {
+          "id": "v-8d755a398a",
+          "answer": "Glossopharyngeal nerve (CN IX)",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-237",
+              "sourceLine": 237
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-797",
+              "sourceLine": 797
+            },
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-262",
+              "sourceLine": 262
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-4d78ec7d11",
+      "question": "Roots",
+      "preferredVariantId": "v-900edfc90d",
+      "variants": [
+        {
+          "id": "v-900edfc90d",
+          "answer": "Medullary nuclei including nucleus ambiguus, inferior salivatory nucleus and nucleus solitarius pathways.",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-238",
+              "sourceLine": 238
+            }
+          ]
+        },
+        {
+          "id": "v-4642fdc221",
+          "answer": "Arises from medulla.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-798",
+              "sourceLine": 798
+            }
+          ]
+        },
+        {
+          "id": "v-0868ba1239",
+          "answer": "Arises from the medulla.",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-263",
+              "sourceLine": 263
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-8e2d09a239",
+      "variants": [
+        {
+          "id": "v-b1b3003fca",
+          "answer": "Emerges from postolivary sulcus and exits skull through jugular foramen.",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-239",
+              "sourceLine": 239
+            }
+          ]
+        },
+        {
+          "id": "v-8e2d09a239",
+          "answer": "Exits skull via jugular foramen and descends between internal carotid artery and internal jugular vein toward pharynx/tongue.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-799",
+              "sourceLine": 799
+            }
+          ]
+        },
+        {
+          "id": "v-8ab9b188b9",
+          "answer": "Exits via jugular foramen and passes toward pharynx and posterior tongue.",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-264",
+              "sourceLine": 264
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-c8b6915183",
+      "question": "Motor functions",
+      "preferredVariantId": "v-a6d7af84ce",
+      "variants": [
+        {
+          "id": "v-2d89b59cd6",
+          "answer": "Supplies stylopharyngeus.",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-240",
+              "sourceLine": 240
+            }
+          ]
+        },
+        {
+          "id": "v-a6d7af84ce",
+          "answer": "Supplies stylopharyngeus; parasympathetic secretomotor pathway supplies parotid gland.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-800",
+              "sourceLine": 800
+            }
+          ]
+        },
+        {
+          "id": "v-f3f9c4e188",
+          "answer": "Supplies stylopharyngeus; carries parasympathetic secretomotor pathway to parotid.",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-265",
+              "sourceLine": 265
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-a453254382",
+      "question": "Sensory functions",
+      "preferredVariantId": "v-a97ca9899e",
+      "variants": [
+        {
+          "id": "v-92259f3bf2",
+          "answer": "General/taste sensation from posterior third of tongue, pharyngeal sensation and carotid body/sinus afferents.",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-241",
+              "sourceLine": 241
+            }
+          ]
+        },
+        {
+          "id": "v-a97ca9899e",
+          "answer": "Taste and general sensation from posterior third of tongue; carotid body/sinus afferents; afferent limb of gag reflex.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-801",
+              "sourceLine": 801
+            }
+          ]
+        },
+        {
+          "id": "v-04df6e2847",
+          "answer": "General sensation and taste from posterior third of tongue; afferent limb of gag reflex.",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-266",
+              "sourceLine": 266
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-9f76a2a9d2",
+      "question": "Parasympathetic functions",
+      "preferredVariantId": "v-a4f917d5d1",
+      "variants": [
+        {
+          "id": "v-a4f917d5d1",
+          "answer": "Secretomotor pathway to parotid gland via otic ganglion.",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-242",
+              "sourceLine": 242
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-bc53d10c57",
+      "question": "Lesion",
+      "preferredVariantId": "v-7cbb82134a",
+      "variants": [
+        {
+          "id": "v-7cbb82134a",
+          "answer": "May cause loss of taste and sensation from the posterior third of the tongue, impaired swallowing, loss of the afferent limb of the gag reflex and reduced parotid secretion.",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-243",
+              "sourceLine": 243
+            }
+          ]
+        },
+        {
+          "id": "v-79237f5327",
+          "answer": "May cause loss of posterior tongue taste/sensation, impaired afferent gag reflex, dysphagia and reduced parotid secretion.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-802",
+              "sourceLine": 802
+            }
+          ]
+        },
+        {
+          "id": "v-dd94b384e6",
+          "answer": "Causes loss of taste and sensation from posterior third of tongue, impaired afferent gag reflex, dysphagia and reduced parotid secretion.",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-267",
+              "sourceLine": 267
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "cranial-floor-model-bs1",
+      "section": "",
+      "path": [
+        "37"
+      ],
+      "label": "37"
+    },
+    {
+      "modelId": "head-and-neck-model-cs17-2",
+      "section": "Internal brain structures and cranial nerves (1–26)",
+      "path": [
+        "23"
+      ],
+      "label": "23"
+    },
+    {
+      "modelId": "larynx-and-tongue-model-gs4",
+      "section": "Tongue",
+      "path": [
+        "11"
+      ],
+      "label": "11"
+    }
+  ]
+}

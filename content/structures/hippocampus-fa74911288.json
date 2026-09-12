@@ -1,0 +1,90 @@
+{
+  "id": "hippocampus-fa74911288",
+  "name": "Hippocampus",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [],
+  "tags": [
+    "Brain",
+    "CNS",
+    "Function",
+    "Location"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-dc46d08414",
+      "variants": [
+        {
+          "id": "v-dc46d08414",
+          "answer": "Hippocampus",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-672",
+              "sourceLine": 672
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-1582f2eac8",
+      "variants": [
+        {
+          "id": "v-1582f2eac8",
+          "answer": "Medial temporal lobe, forming floor of inferior horn of lateral ventricle.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-673",
+              "sourceLine": 673
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-76465d6ce5",
+      "variants": [
+        {
+          "id": "v-76465d6ce5",
+          "answer": "Critical for formation and consolidation of declarative memory.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-674",
+              "sourceLine": 674
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "head-and-neck-model-cs17-2",
+      "section": "Internal brain structures and cranial nerves (1–26)",
+      "path": [
+        "2"
+      ],
+      "label": "2"
+    }
+  ]
+}

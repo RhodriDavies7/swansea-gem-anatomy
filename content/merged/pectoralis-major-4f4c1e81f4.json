@@ -1,0 +1,127 @@
+{
+  "id": "pectoralis-major-4f4c1e81f4",
+  "name": "Pectoralis major",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-28ec4bb911",
+      "variants": [
+        {
+          "id": "v-28ec4bb911",
+          "answer": "Pectoralis major",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-45",
+              "sourceLine": 45
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-d15bcb97d0",
+      "variants": [
+        {
+          "id": "v-d15bcb97d0",
+          "answer": "Adducts and medially rotates the arm; clavicular head flexes the arm; sternocostal head extends a flexed arm.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-46",
+              "sourceLine": 46
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-7a00205c6c",
+      "variants": [
+        {
+          "id": "v-7a00205c6c",
+          "answer": "Lateral and medial pectoral nerves (C5–T1).",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-47",
+              "sourceLine": 47
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-15c5172dfd",
+      "variants": [
+        {
+          "id": "v-15c5172dfd",
+          "answer": "Medial half of clavicle; sternum; upper six costal cartilages; aponeurosis of external oblique.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-48",
+              "sourceLine": 48
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-c4bf134c5a",
+      "variants": [
+        {
+          "id": "v-c4bf134c5a",
+          "answer": "Lateral lip of intertubercular sulcus of humerus.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-49",
+              "sourceLine": 49
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "upper-limb-model-ns15",
+      "section": "Muscles",
+      "path": [
+        "8"
+      ],
+      "label": "8"
+    }
+  ]
+}

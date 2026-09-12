@@ -1,0 +1,109 @@
+{
+  "id": "5th-lumbar-vertebra-2de61cb512",
+  "name": "5th lumbar vertebra",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Bones"
+  ],
+  "regions": [
+    "Pelvis"
+  ],
+  "systems": [
+    "Musculoskeletal",
+    "Reproductive"
+  ],
+  "organs": [],
+  "tags": [
+    "Articulations",
+    "Bone",
+    "Clinical",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-4087d2cae8",
+      "variants": [
+        {
+          "id": "v-4087d2cae8",
+          "answer": "5th lumbar vertebra",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-56",
+              "sourceLine": 56
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-a40bee8d10",
+      "question": "Articulations",
+      "preferredVariantId": "v-203392aba8",
+      "variants": [
+        {
+          "id": "v-203392aba8",
+          "answer": "Articulates superiorly with L4 and inferiorly with the sacrum.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-57",
+              "sourceLine": 57
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-487d8cdc79",
+      "variants": [
+        {
+          "id": "v-487d8cdc79",
+          "answer": "Forms the lumbosacral junction at L5–S1.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-58",
+              "sourceLine": 58
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-b03737e3cd",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-21d7e1a7de",
+      "variants": [
+        {
+          "id": "v-21d7e1a7de",
+          "answer": "Important level for lumbosacral angle and load transmission into the pelvis.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-59",
+              "sourceLine": 59
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "female-pelvis-model-mo8",
+      "section": "",
+      "path": [
+        "10"
+      ],
+      "label": "10"
+    }
+  ]
+}

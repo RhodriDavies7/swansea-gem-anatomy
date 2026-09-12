@@ -1,0 +1,125 @@
+{
+  "id": "interosseous-membrane-fb3d948a6b",
+  "name": "Interosseous membrane",
+  "aliases": [],
+  "scope": "Upper limb",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [],
+  "organs": [],
+  "tags": [
+    "Attachments",
+    "FibrousJoint",
+    "Function",
+    "Orientation",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-c2560be3e5",
+      "variants": [
+        {
+          "id": "v-c2560be3e5",
+          "answer": "Interosseous membrane",
+          "sources": [
+            {
+              "modelId": "elbow-joint-model-ns18",
+              "cardId": "elbow-joint-model-ns18-64",
+              "sourceLine": 64
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6771ade6e8",
+      "question": "Attachments",
+      "preferredVariantId": "v-fb920ff5c5",
+      "variants": [
+        {
+          "id": "v-fb920ff5c5",
+          "answer": "Broad fibrous sheet spanning the interosseous borders of radius and ulna.",
+          "sources": [
+            {
+              "modelId": "elbow-joint-model-ns18",
+              "cardId": "elbow-joint-model-ns18-65",
+              "sourceLine": 65
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-25cb12f37a",
+      "variants": [
+        {
+          "id": "v-25cb12f37a",
+          "answer": "Binds radius and ulna, transmits load from radius to ulna and provides muscle attachment.",
+          "sources": [
+            {
+              "modelId": "elbow-joint-model-ns18",
+              "cardId": "elbow-joint-model-ns18-66",
+              "sourceLine": 66
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-47b629e1de",
+      "question": "Fibre direction",
+      "preferredVariantId": "v-0749621ad9",
+      "variants": [
+        {
+          "id": "v-0749621ad9",
+          "answer": "Most fibres run inferomedially from radius to ulna.",
+          "sources": [
+            {
+              "modelId": "elbow-joint-model-ns18",
+              "cardId": "elbow-joint-model-ns18-67",
+              "sourceLine": 67
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-88829ad927",
+      "variants": [
+        {
+          "id": "v-88829ad927",
+          "answer": "Separates anterior and posterior compartments of the forearm and contains openings for interosseous vessels.",
+          "sources": [
+            {
+              "modelId": "elbow-joint-model-ns18",
+              "cardId": "elbow-joint-model-ns18-68",
+              "sourceLine": 68
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "elbow-joint-model-ns18",
+      "section": "",
+      "path": [
+        "7"
+      ],
+      "label": "7"
+    }
+  ]
+}

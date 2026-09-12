@@ -1,0 +1,128 @@
+{
+  "id": "tendon-of-the-extensor-digitorum-muscle-18caf58cee",
+  "name": "Tendon of the extensor digitorum muscle",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Tendons"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Course",
+    "Function",
+    "Insertion",
+    "MusclesAndTendons",
+    "Relations",
+    "Tendon"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-c9d0add0ab",
+      "variants": [
+        {
+          "id": "v-c9d0add0ab",
+          "answer": "Tendon of the extensor digitorum muscle",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-38",
+              "sourceLine": 38
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-fcecd689a3",
+      "variants": [
+        {
+          "id": "v-fcecd689a3",
+          "answer": "Passes beneath the extensor retinaculum in the fourth dorsal compartment and continues onto digits 2–5.",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-39",
+              "sourceLine": 39
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-55844fc2d8",
+      "variants": [
+        {
+          "id": "v-55844fc2d8",
+          "answer": "Extensor expansions of digits 2–5, ultimately reaching middle and distal phalanges through central and lateral bands.",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-40",
+              "sourceLine": 40
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-4f906e4792",
+      "variants": [
+        {
+          "id": "v-4f906e4792",
+          "answer": "Transmits extensor digitorum force to extend the fingers.",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-41",
+              "sourceLine": 41
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-6e0d831091",
+      "variants": [
+        {
+          "id": "v-6e0d831091",
+          "answer": "Connected to adjacent extensor tendons by juncturae tendinum on the dorsum of the hand.",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-42",
+              "sourceLine": 42
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "hand-model-ns13",
+      "section": "Muscles, tendons and pulleys",
+      "path": [
+        "b"
+      ],
+      "label": "b"
+    }
+  ]
+}

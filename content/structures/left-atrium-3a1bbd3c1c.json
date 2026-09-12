@@ -1,0 +1,194 @@
+{
+  "id": "left-atrium-3a1bbd3c1c",
+  "name": "Left atrium",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck",
+    "Thorax"
+  ],
+  "systems": [
+    "Cardiovascular",
+    "Respiratory"
+  ],
+  "organs": [
+    "Heart",
+    "Larynx"
+  ],
+  "tags": [
+    "Chambers",
+    "Connections",
+    "Contents",
+    "Function",
+    "HeartChamber",
+    "HeartChambers",
+    "Landmarks"
+  ],
+  "imageIds": [
+    "img-6f90fbf41601"
+  ],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-8e79b78347",
+      "variants": [
+        {
+          "id": "v-8e79b78347",
+          "answer": "Left atrium",
+          "sources": [
+            {
+              "modelId": "heart-model-hs5",
+              "cardId": "heart-model-hs5-24",
+              "sourceLine": 24
+            },
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-134",
+              "sourceLine": 134
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-d4a383518a",
+      "variants": [
+        {
+          "id": "v-4a46c4d138",
+          "answer": "Receives oxygenated blood from the lungs and delivers it to the left ventricle.",
+          "sources": [
+            {
+              "modelId": "heart-model-hs5",
+              "cardId": "heart-model-hs5-25",
+              "sourceLine": 25
+            }
+          ]
+        },
+        {
+          "id": "v-d4a383518a",
+          "answer": "Receives oxygenated blood from pulmonary veins and delivers it to left ventricle.",
+          "sources": [
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-135",
+              "sourceLine": 135
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-434bed5fc1",
+      "question": "Inflow",
+      "preferredVariantId": "v-afeb215cd3",
+      "variants": [
+        {
+          "id": "v-afeb215cd3",
+          "answer": "Usually receives four pulmonary veins.",
+          "sources": [
+            {
+              "modelId": "heart-model-hs5",
+              "cardId": "heart-model-hs5-26",
+              "sourceLine": 26
+            }
+          ]
+        },
+        {
+          "id": "v-6e267e6ce7",
+          "answer": "Usually four pulmonary veins.",
+          "sources": [
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-136",
+              "sourceLine": 136
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-fc92a7d5c4",
+      "question": "Outflow",
+      "preferredVariantId": "v-ce2aa0537b",
+      "variants": [
+        {
+          "id": "v-ce2aa0537b",
+          "answer": "Blood passes through the mitral valve into the left ventricle.",
+          "sources": [
+            {
+              "modelId": "heart-model-hs5",
+              "cardId": "heart-model-hs5-27",
+              "sourceLine": 27
+            }
+          ]
+        },
+        {
+          "id": "v-b823b6b53e",
+          "answer": "Through mitral valve into left ventricle.",
+          "sources": [
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-137",
+              "sourceLine": 137
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-0681aa149d",
+      "question": "Internal features",
+      "preferredVariantId": "v-29755a5491",
+      "variants": [
+        {
+          "id": "v-29755a5491",
+          "answer": "Most of the atrial wall is smooth; pectinate muscles are mainly confined to the left auricle.",
+          "sources": [
+            {
+              "modelId": "heart-model-hs5",
+              "cardId": "heart-model-hs5-28",
+              "sourceLine": 28
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "heart-model-hs5",
+      "section": "Chambers",
+      "path": [
+        "II"
+      ],
+      "label": "II"
+    },
+    {
+      "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+      "section": "Heart chambers and auricles",
+      "path": [
+        "17"
+      ],
+      "label": "17"
+    }
+  ]
+}

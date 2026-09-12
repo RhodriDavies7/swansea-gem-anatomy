@@ -1,0 +1,109 @@
+{
+  "id": "deep-plantar-artery-13fc4d0af5",
+  "name": "Deep plantar artery",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Arteries"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Cardiovascular"
+  ],
+  "organs": [],
+  "tags": [
+    "ArteriesAndNerves",
+    "Artery",
+    "Course",
+    "Function",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-aad17a06f8",
+      "variants": [
+        {
+          "id": "v-aad17a06f8",
+          "answer": "Deep plantar artery",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-330",
+              "sourceLine": 330
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-bb4c9469e3",
+      "variants": [
+        {
+          "id": "v-bb4c9469e3",
+          "answer": "Terminal deep plantar branch of dorsalis pedis artery.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-331",
+              "sourceLine": 331
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-67d6e98f93",
+      "variants": [
+        {
+          "id": "v-67d6e98f93",
+          "answer": "Passes through first intermetatarsal space into sole.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-332",
+              "sourceLine": 332
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-08c440ed82",
+      "variants": [
+        {
+          "id": "v-08c440ed82",
+          "answer": "Joins lateral plantar artery to complete the deep plantar arch.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-333",
+              "sourceLine": 333
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "foot-model-ns9",
+      "section": "Arteries and nerves",
+      "path": [
+        "48"
+      ],
+      "label": "48"
+    }
+  ]
+}

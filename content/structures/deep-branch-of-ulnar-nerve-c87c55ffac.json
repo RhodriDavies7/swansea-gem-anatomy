@@ -1,0 +1,146 @@
+{
+  "id": "deep-branch-of-ulnar-nerve-c87c55ffac",
+  "name": "Deep branch of ulnar nerve",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Nerves"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [],
+  "tags": [
+    "Course",
+    "Lesion",
+    "Motor",
+    "Nerve",
+    "Roots",
+    "Sensory"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-2c608d5d43",
+      "variants": [
+        {
+          "id": "v-2c608d5d43",
+          "answer": "Deep branch of ulnar nerve",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-491",
+              "sourceLine": 491
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-4d78ec7d11",
+      "question": "Roots",
+      "preferredVariantId": "v-dfb6ed9d15",
+      "variants": [
+        {
+          "id": "v-dfb6ed9d15",
+          "answer": "C8–T1.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-492",
+              "sourceLine": 492
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-f24a75d0e3",
+      "variants": [
+        {
+          "id": "v-f24a75d0e3",
+          "answer": "Passes deep across palm with deep branch of ulnar artery around hook of hamate and across metacarpal bases.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-493",
+              "sourceLine": 493
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c8b6915183",
+      "question": "Motor functions",
+      "preferredVariantId": "v-5a8cbe9bc0",
+      "variants": [
+        {
+          "id": "v-5a8cbe9bc0",
+          "answer": "Hypothenar muscles, interossei, medial two lumbricals, adductor pollicis and usually deep head of flexor pollicis brevis.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-494",
+              "sourceLine": 494
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-a453254382",
+      "question": "Sensory functions",
+      "preferredVariantId": "v-950460225a",
+      "variants": [
+        {
+          "id": "v-950460225a",
+          "answer": "No significant cutaneous territory; carries articular/proprioceptive fibres.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-495",
+              "sourceLine": 495
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-bc53d10c57",
+      "question": "Lesion",
+      "preferredVariantId": "v-973f8735ac",
+      "variants": [
+        {
+          "id": "v-973f8735ac",
+          "answer": "Produces intrinsic hand weakness, impaired finger abduction/adduction and weak key pinch without major cutaneous sensory loss.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-496",
+              "sourceLine": 496
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "upper-limb-model-ns15",
+      "section": "Nerves",
+      "path": [
+        "77"
+      ],
+      "label": "77"
+    }
+  ]
+}

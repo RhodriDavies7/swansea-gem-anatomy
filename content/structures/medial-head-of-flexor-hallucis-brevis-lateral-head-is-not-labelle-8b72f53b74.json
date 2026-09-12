@@ -1,0 +1,127 @@
+{
+  "id": "medial-head-of-flexor-hallucis-brevis-lateral-head-is-not-labelle-8b72f53b74",
+  "name": "Medial head of flexor hallucis brevis (lateral head is not labelled)",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-e6946b276f",
+      "variants": [
+        {
+          "id": "v-e6946b276f",
+          "answer": "Medial head of flexor hallucis brevis (lateral head is not labelled)",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-263",
+              "sourceLine": 263
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-9193d2c077",
+      "variants": [
+        {
+          "id": "v-9193d2c077",
+          "answer": "Flexes the great toe at its metatarsophalangeal joint; supports the medial forefoot.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-264",
+              "sourceLine": 264
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-c53fadca30",
+      "variants": [
+        {
+          "id": "v-c53fadca30",
+          "answer": "Medial plantar nerve (S2–S3).",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-265",
+              "sourceLine": 265
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-b8833cb4ed",
+      "variants": [
+        {
+          "id": "v-b8833cb4ed",
+          "answer": "Shared proximal origin from plantar cuboid and lateral cuneiform, with a contribution from tibialis posterior tendon.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-266",
+              "sourceLine": 266
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-062085e3c1",
+      "variants": [
+        {
+          "id": "v-062085e3c1",
+          "answer": "Medial base of proximal phalanx of great toe through a tendon containing the medial sesamoid.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-267",
+              "sourceLine": 267
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "lower-limb-model-ns10",
+      "section": "Muscles",
+      "path": [
+        "33"
+      ],
+      "label": "33"
+    }
+  ]
+}

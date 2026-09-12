@@ -1,0 +1,220 @@
+{
+  "id": "ulnar-artery-f345942001",
+  "name": "Ulnar artery",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Arteries"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [
+    "Cardiovascular"
+  ],
+  "organs": [],
+  "tags": [
+    "ArteriesAndNerves",
+    "Artery",
+    "Branches",
+    "Course",
+    "Origin",
+    "Relations",
+    "Supply"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-62504ba3a9",
+      "variants": [
+        {
+          "id": "v-62504ba3a9",
+          "answer": "Ulnar artery",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-196",
+              "sourceLine": 196
+            },
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-365",
+              "sourceLine": 365
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-b13a50ae40",
+      "variants": [
+        {
+          "id": "v-b13a50ae40",
+          "answer": "Terminal branch of brachial artery in the cubital fossa.",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-197",
+              "sourceLine": 197
+            }
+          ]
+        },
+        {
+          "id": "v-8559937ce2",
+          "answer": "Terminal branch of brachial artery in cubital fossa.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-366",
+              "sourceLine": 366
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-287220e02e",
+      "variants": [
+        {
+          "id": "v-c9c57f2e19",
+          "answer": "Descends medial forearm and enters hand superficial to flexor retinaculum through Guyon's canal region.",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-198",
+              "sourceLine": 198
+            }
+          ]
+        },
+        {
+          "id": "v-287220e02e",
+          "answer": "Passes deep to pronator teres, descends medial forearm and enters hand superficial to flexor retinaculum through Guyon’s canal.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-367",
+              "sourceLine": 367
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-f578227926",
+      "question": "Branches",
+      "preferredVariantId": "v-03c5286a57",
+      "variants": [
+        {
+          "id": "v-1b0d0b3696",
+          "answer": "Forms most of the superficial palmar arch and contributes to the deep palmar arch.",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-199",
+              "sourceLine": 199
+            }
+          ]
+        },
+        {
+          "id": "v-03c5286a57",
+          "answer": "Anterior and posterior ulnar recurrent, common interosseous, muscular, palmar and dorsal carpal branches; continues mainly into superficial palmar arch.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-368",
+              "sourceLine": 368
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-222db0fc1c",
+      "question": "Supply",
+      "preferredVariantId": "v-0616b54a87",
+      "variants": [
+        {
+          "id": "v-eafd264052",
+          "answer": "Major arterial supply to superficial palm and medial digits.",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-200",
+              "sourceLine": 200
+            }
+          ]
+        },
+        {
+          "id": "v-0616b54a87",
+          "answer": "Medial forearm and major superficial arterial supply of hand.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-369",
+              "sourceLine": 369
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-8e03c43ce5",
+      "variants": [
+        {
+          "id": "v-8e03c43ce5",
+          "answer": "Travels with ulnar nerve in distal forearm, artery generally lateral to nerve.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-370",
+              "sourceLine": 370
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "hand-model-ns13",
+      "section": "Arteries and nerves",
+      "path": [
+        "2"
+      ],
+      "label": "2"
+    },
+    {
+      "modelId": "upper-limb-model-ns15",
+      "section": "Arteries",
+      "path": [
+        "59"
+      ],
+      "label": "59"
+    }
+  ]
+}

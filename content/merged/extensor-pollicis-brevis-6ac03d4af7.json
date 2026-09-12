@@ -1,0 +1,127 @@
+{
+  "id": "extensor-pollicis-brevis-6ac03d4af7",
+  "name": "Extensor pollicis brevis",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-78b834e4eb",
+      "variants": [
+        {
+          "id": "v-78b834e4eb",
+          "answer": "Extensor pollicis brevis",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-130",
+              "sourceLine": 130
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-ae2c62e46a",
+      "variants": [
+        {
+          "id": "v-ae2c62e46a",
+          "answer": "Extends the thumb at the MCP joint and assists extension at the carpometacarpal joint.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-131",
+              "sourceLine": 131
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-6f015ae0cc",
+      "variants": [
+        {
+          "id": "v-6f015ae0cc",
+          "answer": "Posterior interosseous nerve (C7–C8).",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-132",
+              "sourceLine": 132
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-d16aa005a2",
+      "variants": [
+        {
+          "id": "v-d16aa005a2",
+          "answer": "Posterior radius and adjacent interosseous membrane.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-133",
+              "sourceLine": 133
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-5314961656",
+      "variants": [
+        {
+          "id": "v-5314961656",
+          "answer": "Dorsal base of proximal phalanx of thumb.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-134",
+              "sourceLine": 134
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "upper-limb-model-ns15",
+      "section": "Muscles",
+      "path": [
+        "22"
+      ],
+      "label": "22"
+    }
+  ]
+}

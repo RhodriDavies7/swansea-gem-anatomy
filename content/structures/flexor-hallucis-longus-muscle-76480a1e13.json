@@ -1,0 +1,203 @@
+{
+  "id": "flexor-hallucis-longus-muscle-76480a1e13",
+  "name": "Flexor hallucis longus muscle",
+  "aliases": [
+    "Flexor hallucis longus"
+  ],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Origin",
+    "Muscles"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-563941d14d",
+      "variants": [
+        {
+          "id": "v-563941d14d",
+          "answer": "Flexor hallucis longus muscle",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-239",
+              "sourceLine": 239
+            }
+          ]
+        },
+        {
+          "id": "v-084154ac69",
+          "answer": "Flexor hallucis longus",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-131",
+              "sourceLine": 131
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-b51ff78972",
+      "variants": [
+        {
+          "id": "v-b51ff78972",
+          "answer": "Flexes the great toe, especially its interphalangeal joint; assists plantarflexion and push-off; supports medial longitudinal arch.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-240",
+              "sourceLine": 240
+            }
+          ]
+        },
+        {
+          "id": "v-a61005d606",
+          "answer": "Flexes hallux, plantarflexes ankle and supports medial longitudinal arch.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-132",
+              "sourceLine": 132
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-dd11168c0a",
+      "variants": [
+        {
+          "id": "v-dd11168c0a",
+          "answer": "Tibial nerve (S2–S3).",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-241",
+              "sourceLine": 241
+            },
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-133",
+              "sourceLine": 133
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-faf20c9618",
+      "variants": [
+        {
+          "id": "v-faf20c9618",
+          "answer": "Inferior two-thirds of posterior fibula and adjacent interosseous membrane.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-242",
+              "sourceLine": 242
+            }
+          ]
+        },
+        {
+          "id": "v-2f97aee8bb",
+          "answer": "Inferior posterior fibula and interosseous membrane.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-134",
+              "sourceLine": 134
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-f0d7be0db1",
+      "variants": [
+        {
+          "id": "v-f0d7be0db1",
+          "answer": "Plantar base of distal phalanx of great toe.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-243",
+              "sourceLine": 243
+            }
+          ]
+        },
+        {
+          "id": "v-0ec7160308",
+          "answer": "Base of distal phalanx of hallux.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-135",
+              "sourceLine": 135
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "lower-limb-model-ns10",
+      "section": "Muscles",
+      "path": [
+        "29"
+      ],
+      "label": "29"
+    },
+    {
+      "modelId": "foot-model-ns9",
+      "section": "Muscles",
+      "path": [
+        "20"
+      ],
+      "label": "20"
+    }
+  ]
+}

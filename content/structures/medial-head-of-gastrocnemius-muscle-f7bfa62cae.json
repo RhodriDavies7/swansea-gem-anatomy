@@ -1,0 +1,128 @@
+{
+  "id": "medial-head-of-gastrocnemius-muscle-f7bfa62cae",
+  "name": "Medial head of gastrocnemius muscle",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-586326f92b",
+      "variants": [
+        {
+          "id": "v-586326f92b",
+          "answer": "Medial head of gastrocnemius muscle",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-190",
+              "sourceLine": 190
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-a419562c38",
+      "variants": [
+        {
+          "id": "v-a419562c38",
+          "answer": "Plantarflexes the ankle and flexes the knee.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-191",
+              "sourceLine": 191
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-e952a2186f",
+      "variants": [
+        {
+          "id": "v-e952a2186f",
+          "answer": "Tibial nerve (S1–S2).",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-192",
+              "sourceLine": 192
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-8d520cc651",
+      "variants": [
+        {
+          "id": "v-8d520cc651",
+          "answer": "Posterior femur superior to medial condyle and adjacent knee capsule.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-193",
+              "sourceLine": 193
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-b3cede683e",
+      "variants": [
+        {
+          "id": "v-b3cede683e",
+          "answer": "Posterior calcaneus via calcaneal tendon.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-194",
+              "sourceLine": 194
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "lower-limb-model-ns10",
+      "section": "Muscles",
+      "path": [
+        "24",
+        "24a"
+      ],
+      "label": "24a"
+    }
+  ]
+}

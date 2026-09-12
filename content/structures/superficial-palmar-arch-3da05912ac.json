@@ -1,0 +1,224 @@
+{
+  "id": "superficial-palmar-arch-3da05912ac",
+  "name": "Superficial palmar arch",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Arteries"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [
+    "Cardiovascular"
+  ],
+  "organs": [],
+  "tags": [
+    "ArteriesAndNerves",
+    "Artery",
+    "Branches",
+    "Course",
+    "Formation",
+    "Location",
+    "Relations",
+    "Supply"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-bb70b29364",
+      "variants": [
+        {
+          "id": "v-bb70b29364",
+          "answer": "Superficial palmar arch",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-203",
+              "sourceLine": 203
+            },
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-393",
+              "sourceLine": 393
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-bc0bd86b8f",
+      "question": "Formation",
+      "preferredVariantId": "v-906cce6e07",
+      "variants": [
+        {
+          "id": "v-906cce6e07",
+          "answer": "Formed mainly by ulnar artery and usually completed by a superficial branch of radial artery.",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-204",
+              "sourceLine": 204
+            }
+          ]
+        },
+        {
+          "id": "v-8350431581",
+          "answer": "Mainly terminal ulnar artery, usually completed laterally by superficial palmar branch of radial artery.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-394",
+              "sourceLine": 394
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-43d89615fd",
+      "variants": [
+        {
+          "id": "v-43d89615fd",
+          "answer": "Lies superficial to flexor tendons and deep to palmar aponeurosis.",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-205",
+              "sourceLine": 205
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f578227926",
+      "question": "Branches",
+      "preferredVariantId": "v-00e207ea89",
+      "variants": [
+        {
+          "id": "v-4040d691d6",
+          "answer": "Gives common palmar digital arteries that divide into proper palmar digital arteries.",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-206",
+              "sourceLine": 206
+            }
+          ]
+        },
+        {
+          "id": "v-00e207ea89",
+          "answer": "Common palmar digital arteries and a proper digital branch to ulnar side of little finger.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-396",
+              "sourceLine": 396
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-222db0fc1c",
+      "question": "Supply",
+      "preferredVariantId": "v-4ba2b048db",
+      "variants": [
+        {
+          "id": "v-4ba2b048db",
+          "answer": "Supplies palm and digits through digital branches.",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-207",
+              "sourceLine": 207
+            }
+          ]
+        },
+        {
+          "id": "v-32eccb0406",
+          "answer": "Major blood supply to palm and digits.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-397",
+              "sourceLine": 397
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-fb251cb6bc",
+      "variants": [
+        {
+          "id": "v-fb251cb6bc",
+          "answer": "Curves across palm deep to palmar aponeurosis and superficial to long flexor tendons.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-395",
+              "sourceLine": 395
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-46501e2bed",
+      "variants": [
+        {
+          "id": "v-46501e2bed",
+          "answer": "More superficial than deep palmar arch; level roughly corresponds to distal border of fully extended thumb.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-398",
+              "sourceLine": 398
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "hand-model-ns13",
+      "section": "Arteries and nerves",
+      "path": [
+        "3"
+      ],
+      "label": "3"
+    },
+    {
+      "modelId": "upper-limb-model-ns15",
+      "section": "Arteries",
+      "path": [
+        "63"
+      ],
+      "label": "63"
+    }
+  ]
+}

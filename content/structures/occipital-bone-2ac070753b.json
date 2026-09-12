@@ -1,0 +1,182 @@
+{
+  "id": "occipital-bone-2ac070753b",
+  "name": "Occipital bone",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Bones"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Articulations",
+    "Bone",
+    "BonyStructures",
+    "HeadNeck",
+    "Landmarks",
+    "MidSagittal",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-5bca3caebe",
+      "variants": [
+        {
+          "id": "v-5bca3caebe",
+          "answer": "Occipital bone",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-191",
+              "sourceLine": 191
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-30",
+              "sourceLine": 30
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-14",
+              "sourceLine": 14
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-a40bee8d10",
+      "question": "Articulations",
+      "preferredVariantId": "v-13d86ec080",
+      "variants": [
+        {
+          "id": "v-13d86ec080",
+          "answer": "Articulates with parietal and temporal bones and atlas.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-192",
+              "sourceLine": 192
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-31",
+              "sourceLine": 31
+            }
+          ]
+        },
+        {
+          "id": "v-f53072e8b5",
+          "answer": "Articulates with parietal, temporal bones and atlas.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-15",
+              "sourceLine": 15
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-626b6c1d45",
+      "question": "Landmarks",
+      "preferredVariantId": "v-659dc771f2",
+      "variants": [
+        {
+          "id": "v-659dc771f2",
+          "answer": "Foramen magnum, occipital condyles, external occipital protuberance and clivus contribution.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-193",
+              "sourceLine": 193
+            }
+          ]
+        },
+        {
+          "id": "v-0919907ce6",
+          "answer": "Foramen magnum, occipital condyles and external occipital protuberance.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-32",
+              "sourceLine": 32
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-16",
+              "sourceLine": 16
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-f9ac51d311",
+      "variants": [
+        {
+          "id": "v-f9ac51d311",
+          "answer": "Forms posterior cranial vault and much of posterior cranial fossa.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-194",
+              "sourceLine": 194
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-33",
+              "sourceLine": 33
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "coronal-and-mid-sagittal-head-mb20",
+      "section": "Bony structures",
+      "path": [
+        "F"
+      ],
+      "label": "F"
+    },
+    {
+      "modelId": "half-head-and-neck-model-bs9",
+      "section": "Bony structures",
+      "path": [
+        "F"
+      ],
+      "label": "F"
+    },
+    {
+      "modelId": "head-and-neck-model-cs17-2",
+      "section": "Bony structures, foramina and ear structures",
+      "path": [
+        "3"
+      ],
+      "label": "3"
+    }
+  ]
+}

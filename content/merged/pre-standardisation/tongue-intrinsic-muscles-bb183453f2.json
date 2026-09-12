@@ -1,0 +1,147 @@
+{
+  "id": "tongue-intrinsic-muscles-bb183453f2",
+  "name": "Tongue intrinsic muscles",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "Components",
+    "Coronal",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-37a76be69a",
+      "variants": [
+        {
+          "id": "v-37a76be69a",
+          "answer": "Tongue intrinsic muscles",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-122",
+              "sourceLine": 122
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-4d9d0ab698",
+      "variants": [
+        {
+          "id": "v-4d9d0ab698",
+          "answer": "Alter the shape of the tongue for speech, swallowing and manipulation of food.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-123",
+              "sourceLine": 123
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-c9d44d3215",
+      "variants": [
+        {
+          "id": "v-c9d44d3215",
+          "answer": "Hypoglossal nerve (CN XII).",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-124",
+              "sourceLine": 124
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9289473eee",
+      "question": "Components",
+      "preferredVariantId": "v-6919763ae4",
+      "variants": [
+        {
+          "id": "v-6919763ae4",
+          "answer": "Superior longitudinal, inferior longitudinal, transverse and vertical intrinsic muscles.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-125",
+              "sourceLine": 125
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-02186f2814",
+      "variants": [
+        {
+          "id": "v-02186f2814",
+          "answer": "Arise within the tongue from connective tissue and septal structures rather than from bone.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-126",
+              "sourceLine": 126
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-dc5e7db557",
+      "variants": [
+        {
+          "id": "v-dc5e7db557",
+          "answer": "Insert into the substance and mucosa of the tongue.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-127",
+              "sourceLine": 127
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "coronal-and-mid-sagittal-head-mb20",
+      "section": "Coronal head",
+      "path": [
+        "24"
+      ],
+      "label": "24"
+    }
+  ]
+}

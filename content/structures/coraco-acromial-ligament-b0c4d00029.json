@@ -1,0 +1,127 @@
+{
+  "id": "coraco-acromial-ligament-b0c4d00029",
+  "name": "Coraco-acromial ligament",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Ligaments"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Attachments",
+    "Clinical",
+    "Function",
+    "Ligament",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-dbd525fa7c",
+      "variants": [
+        {
+          "id": "v-dbd525fa7c",
+          "answer": "Coraco-acromial ligament",
+          "sources": [
+            {
+              "modelId": "deep-shoulder-model-ns17",
+              "cardId": "deep-shoulder-model-ns17-57",
+              "sourceLine": 57
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6771ade6e8",
+      "question": "Attachments",
+      "preferredVariantId": "v-1a05071813",
+      "variants": [
+        {
+          "id": "v-1a05071813",
+          "answer": "Extends from the coracoid process to the acromion.",
+          "sources": [
+            {
+              "modelId": "deep-shoulder-model-ns17",
+              "cardId": "deep-shoulder-model-ns17-58",
+              "sourceLine": 58
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-7e28f5ac26",
+      "variants": [
+        {
+          "id": "v-7e28f5ac26",
+          "answer": "Forms the coracoacromial arch, limiting superior displacement of the humeral head.",
+          "sources": [
+            {
+              "modelId": "deep-shoulder-model-ns17",
+              "cardId": "deep-shoulder-model-ns17-59",
+              "sourceLine": 59
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-b40a7bf967",
+      "variants": [
+        {
+          "id": "v-b40a7bf967",
+          "answer": "Forms the superior roof over the humeral head, subacromial bursa and supraspinatus tendon.",
+          "sources": [
+            {
+              "modelId": "deep-shoulder-model-ns17",
+              "cardId": "deep-shoulder-model-ns17-60",
+              "sourceLine": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-b03737e3cd",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-ae2ad3f6be",
+      "variants": [
+        {
+          "id": "v-ae2ad3f6be",
+          "answer": "Can contribute to subacromial impingement.",
+          "sources": [
+            {
+              "modelId": "deep-shoulder-model-ns17",
+              "cardId": "deep-shoulder-model-ns17-61",
+              "sourceLine": 61
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "deep-shoulder-model-ns17",
+      "section": "",
+      "path": [
+        "9"
+      ],
+      "label": "9"
+    }
+  ]
+}

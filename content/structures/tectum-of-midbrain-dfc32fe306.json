@@ -1,0 +1,124 @@
+{
+  "id": "tectum-of-midbrain-dfc32fe306",
+  "name": "Tectum of midbrain",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [],
+  "tags": [
+    "CNS",
+    "Function",
+    "MidSagittal",
+    "MidlineStructures",
+    "Structure"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-2afae243d9",
+      "variants": [
+        {
+          "id": "v-2afae243d9",
+          "answer": "Tectum of midbrain",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-311",
+              "sourceLine": 311
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-176",
+              "sourceLine": 176
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-a4d2d9a0ad",
+      "variants": [
+        {
+          "id": "v-a4d2d9a0ad",
+          "answer": "Dorsal midbrain containing superior and inferior colliculi.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-312",
+              "sourceLine": 312
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-177",
+              "sourceLine": 177
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-e5940d1229",
+      "variants": [
+        {
+          "id": "v-e5940d1229",
+          "answer": "Superior colliculi mediate visual orienting reflexes; inferior colliculi participate in auditory pathways.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-313",
+              "sourceLine": 313
+            }
+          ]
+        },
+        {
+          "id": "v-5d1615a9ed",
+          "answer": "Mediates visual and auditory orienting reflexes.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-178",
+              "sourceLine": 178
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "coronal-and-mid-sagittal-head-mb20",
+      "section": "Other midline structures",
+      "path": [
+        "13"
+      ],
+      "label": "13"
+    },
+    {
+      "modelId": "half-head-and-neck-model-bs9",
+      "section": "Other midline structures",
+      "path": [
+        "13"
+      ],
+      "label": "13"
+    }
+  ]
+}

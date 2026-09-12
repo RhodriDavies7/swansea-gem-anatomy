@@ -1,0 +1,208 @@
+{
+  "id": "hepatic-artery-fea6002cb1",
+  "name": "Hepatic artery",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Arteries"
+  ],
+  "regions": [
+    "Abdomen"
+  ],
+  "systems": [
+    "Cardiovascular",
+    "Digestive"
+  ],
+  "organs": [
+    "Liver",
+    "Pancreas"
+  ],
+  "tags": [
+    "Arteries",
+    "Artery",
+    "Branches",
+    "Course",
+    "Origin",
+    "Supply",
+    "Vessels"
+  ],
+  "imageIds": [
+    "img-d24d041180f6"
+  ],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-246f231a26",
+      "variants": [
+        {
+          "id": "v-246f231a26",
+          "answer": "Hepatic artery",
+          "sources": [
+            {
+              "modelId": "liver-js5",
+              "cardId": "liver-js5-82",
+              "sourceLine": 82
+            },
+            {
+              "modelId": "pancreas-model-js11",
+              "cardId": "pancreas-model-js11-81",
+              "sourceLine": 81
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-f52f8fa1de",
+      "variants": [
+        {
+          "id": "v-54bf624a41",
+          "answer": "Proper hepatic artery is a branch of the common hepatic artery from the coeliac trunk.",
+          "sources": [
+            {
+              "modelId": "liver-js5",
+              "cardId": "liver-js5-83",
+              "sourceLine": 83
+            }
+          ]
+        },
+        {
+          "id": "v-f52f8fa1de",
+          "answer": "Common hepatic artery is a branch of the coeliac trunk; proper hepatic artery continues after giving the gastroduodenal artery.",
+          "sources": [
+            {
+              "modelId": "pancreas-model-js11",
+              "cardId": "pancreas-model-js11-82",
+              "sourceLine": 82
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-3a3a9035d9",
+      "variants": [
+        {
+          "id": "v-6dcdb08d7c",
+          "answer": "Ascends in the hepatoduodenal ligament within the portal triad.",
+          "sources": [
+            {
+              "modelId": "liver-js5",
+              "cardId": "liver-js5-84",
+              "sourceLine": 84
+            }
+          ]
+        },
+        {
+          "id": "v-3a3a9035d9",
+          "answer": "Proper hepatic artery ascends in the hepatoduodenal ligament.",
+          "sources": [
+            {
+              "modelId": "pancreas-model-js11",
+              "cardId": "pancreas-model-js11-83",
+              "sourceLine": 83
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-f578227926",
+      "question": "Branches",
+      "preferredVariantId": "v-8ba9f05924",
+      "variants": [
+        {
+          "id": "v-8ba9f05924",
+          "answer": "Usually divides into right and left hepatic arteries.",
+          "sources": [
+            {
+              "modelId": "liver-js5",
+              "cardId": "liver-js5-85",
+              "sourceLine": 85
+            }
+          ]
+        },
+        {
+          "id": "v-a2babc5be9",
+          "answer": "Commonly gives right and left hepatic branches distally.",
+          "sources": [
+            {
+              "modelId": "pancreas-model-js11",
+              "cardId": "pancreas-model-js11-84",
+              "sourceLine": 84
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-222db0fc1c",
+      "question": "Supply",
+      "preferredVariantId": "v-5cade4ad50",
+      "variants": [
+        {
+          "id": "v-5cade4ad50",
+          "answer": "Provides oxygenated arterial blood to the liver and biliary apparatus.",
+          "sources": [
+            {
+              "modelId": "liver-js5",
+              "cardId": "liver-js5-86",
+              "sourceLine": 86
+            }
+          ]
+        },
+        {
+          "id": "v-88ecfc39f1",
+          "answer": "Provides arterial blood to liver and parts of the biliary system.",
+          "sources": [
+            {
+              "modelId": "pancreas-model-js11",
+              "cardId": "pancreas-model-js11-85",
+              "sourceLine": 85
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "liver-js5",
+      "section": "Vessels",
+      "path": [
+        "13"
+      ],
+      "label": "13"
+    },
+    {
+      "modelId": "pancreas-model-js11",
+      "section": "Arteries",
+      "path": [
+        "9"
+      ],
+      "label": "9"
+    }
+  ]
+}

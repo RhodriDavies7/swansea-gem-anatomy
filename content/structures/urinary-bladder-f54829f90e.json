@@ -1,0 +1,336 @@
+{
+  "id": "urinary-bladder-f54829f90e",
+  "name": "Urinary bladder",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Organs"
+  ],
+  "regions": [
+    "Abdomen",
+    "Pelvis"
+  ],
+  "systems": [
+    "Reproductive",
+    "Urinary"
+  ],
+  "organs": [],
+  "tags": [
+    "BloodSupply",
+    "Function",
+    "Innervation",
+    "Location",
+    "Organ",
+    "Parts",
+    "Relations",
+    "UrinarySystem"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-43becf28c0",
+      "variants": [
+        {
+          "id": "v-43becf28c0",
+          "answer": "Urinary bladder",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-400",
+              "sourceLine": 400
+            },
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-52",
+              "sourceLine": 52
+            },
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-21",
+              "sourceLine": 21
+            },
+            {
+              "modelId": "urinary-system-model-ls3-1",
+              "cardId": "urinary-system-model-ls3-1-16",
+              "sourceLine": 16
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-33ebda984a",
+      "variants": [
+        {
+          "id": "v-33ebda984a",
+          "answer": "Stores urine and expels it during micturition.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-401",
+              "sourceLine": 401
+            },
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-53",
+              "sourceLine": 53
+            },
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-22",
+              "sourceLine": 22
+            },
+            {
+              "modelId": "urinary-system-model-ls3-1",
+              "cardId": "urinary-system-model-ls3-1-18",
+              "sourceLine": 18
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-e374280917",
+      "question": "Parts",
+      "preferredVariantId": "v-058551dd72",
+      "variants": [
+        {
+          "id": "v-058551dd72",
+          "answer": "Apex, body, fundus/base and neck.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-402",
+              "sourceLine": 402
+            },
+            {
+              "modelId": "urinary-system-model-ls3-1",
+              "cardId": "urinary-system-model-ls3-1-19",
+              "sourceLine": 19
+            }
+          ]
+        },
+        {
+          "id": "v-0589b0d639",
+          "answer": "Apex, body, fundus/base and neck; the internal surface includes the trigone.",
+          "sources": [
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-54",
+              "sourceLine": 54
+            },
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-23",
+              "sourceLine": 23
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "curated-7ad0d71e85",
+      "variants": [
+        {
+          "id": "v-289f7af00f",
+          "answer": "Posterior to pubic symphysis and anterior to uterus/vagina.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-403",
+              "sourceLine": 403
+            }
+          ]
+        },
+        {
+          "id": "v-cc91933b30",
+          "answer": "Lies posterior to the pubic symphysis and anterior to the uterus and vagina; the superior surface is related to peritoneum.",
+          "sources": [
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-55",
+              "sourceLine": 55
+            }
+          ]
+        },
+        {
+          "id": "v-704de01337",
+          "answer": "In the male, lies posterior to the pubic symphysis and anterior to the rectum; seminal vesicles and ampullae of the ductus deferens lie between bladder and rectum.",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-24",
+              "sourceLine": 24
+            }
+          ]
+        },
+        {
+          "id": "curated-7ad0d71e85",
+          "answer": "Behind the pubic symphysis. Female: anterior to the uterus and vagina. Male: anterior to the rectum, with seminal vesicles and ductus deferens ampullae intervening.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-403",
+              "sourceLine": 403
+            },
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-55",
+              "sourceLine": 55
+            },
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-24",
+              "sourceLine": 24
+            }
+          ],
+          "editorial": true
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-cdb56ab2e3",
+      "variants": [
+        {
+          "id": "v-578e4e3a43",
+          "answer": "Parasympathetic S2–S4 promotes voiding; sympathetic T11–L2 supports storage.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-404",
+              "sourceLine": 404
+            }
+          ]
+        },
+        {
+          "id": "v-6b5f5c2d24",
+          "answer": "Parasympathetic pelvic splanchnic nerves (S2–S4) contract detrusor and promote voiding; sympathetic fibres from T11–L2 favour storage.",
+          "sources": [
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-56",
+              "sourceLine": 56
+            }
+          ]
+        },
+        {
+          "id": "v-cdb56ab2e3",
+          "answer": "Parasympathetic pelvic splanchnic nerves (S2–S4) contract detrusor and promote voiding; sympathetic fibres from T11–L2 favour storage; somatic pudendal control acts on the external urethral sphincter.",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-25",
+              "sourceLine": 25
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-a707f7e176",
+      "question": "Blood supply",
+      "preferredVariantId": "v-465f28be85",
+      "variants": [
+        {
+          "id": "v-465f28be85",
+          "answer": "Mainly superior vesical arteries, with additional vesical branches from internal iliac derivatives.",
+          "sources": [
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-57",
+              "sourceLine": 57
+            }
+          ]
+        },
+        {
+          "id": "v-106732fce6",
+          "answer": "Superior vesical arteries and usually inferior vesical arteries; veins drain to the vesical venous plexus.",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-26",
+              "sourceLine": 26
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-c2b6e46224",
+      "variants": [
+        {
+          "id": "v-c2b6e46224",
+          "answer": "Muscular reservoir in the lesser pelvis, posterior to the pubic symphysis.",
+          "sources": [
+            {
+              "modelId": "urinary-system-model-ls3-1",
+              "cardId": "urinary-system-model-ls3-1-17",
+              "sourceLine": 17
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "female-pelvis-model-mo8",
+      "section": "",
+      "path": [
+        "60"
+      ],
+      "label": "60"
+    },
+    {
+      "modelId": "female-reproductive-system-model-ms1",
+      "section": "",
+      "path": [
+        "8"
+      ],
+      "label": "8"
+    },
+    {
+      "modelId": "male-reproductive-system-model-ms2",
+      "section": "",
+      "path": [
+        "4"
+      ],
+      "label": "4"
+    },
+    {
+      "modelId": "urinary-system-model-ls3-1",
+      "section": "Major urinary structures",
+      "path": [
+        "3"
+      ],
+      "label": "3"
+    }
+  ]
+}

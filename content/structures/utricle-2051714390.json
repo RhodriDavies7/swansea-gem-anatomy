@@ -1,0 +1,90 @@
+{
+  "id": "utricle-2051714390",
+  "name": "Utricle",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [],
+  "organs": [
+    "Ear"
+  ],
+  "tags": [
+    "Function",
+    "InnerEar",
+    "Location",
+    "VestibularOrgan"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-0e1580fe27",
+      "variants": [
+        {
+          "id": "v-0e1580fe27",
+          "answer": "Utricle",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-281",
+              "sourceLine": 281
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-8d3ba190a8",
+      "variants": [
+        {
+          "id": "v-8d3ba190a8",
+          "answer": "Membranous labyrinth structure within the vestibule, connected to the semicircular ducts.",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-282",
+              "sourceLine": 282
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-5aa997d2a3",
+      "variants": [
+        {
+          "id": "v-5aa997d2a3",
+          "answer": "Detects linear acceleration mainly in the horizontal plane and static head position.",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-283",
+              "sourceLine": 283
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "ear-largest-model-ds1",
+      "section": "D. Inner ear",
+      "path": [
+        "43"
+      ],
+      "label": "43"
+    }
+  ]
+}

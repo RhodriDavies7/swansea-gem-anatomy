@@ -1,0 +1,200 @@
+{
+  "id": "ulna-05ed45f32e",
+  "name": "Ulna",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Bones"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Articulations",
+    "Attachments",
+    "Bone",
+    "Landmarks",
+    "Orientation"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-6584ea37ae",
+      "variants": [
+        {
+          "id": "v-6584ea37ae",
+          "answer": "Ulna",
+          "sources": [
+            {
+              "modelId": "elbow-joint-model-ns18",
+              "cardId": "elbow-joint-model-ns18-9",
+              "sourceLine": 9
+            },
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-576",
+              "sourceLine": 576
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-a40bee8d10",
+      "question": "Articulations",
+      "preferredVariantId": "v-08d8c4c5ca",
+      "variants": [
+        {
+          "id": "v-dae9c034a2",
+          "answer": "Articulates with the humeral trochlea at the trochlear notch and with the radius at the proximal and distal radioulnar joints.",
+          "sources": [
+            {
+              "modelId": "elbow-joint-model-ns18",
+              "cardId": "elbow-joint-model-ns18-10",
+              "sourceLine": 10
+            }
+          ]
+        },
+        {
+          "id": "v-08d8c4c5ca",
+          "answer": "Trochlea of humerus, radial head proximally, radius distally; does not directly articulate with carpal bones.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-577",
+              "sourceLine": 577
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-626b6c1d45",
+      "question": "Landmarks",
+      "preferredVariantId": "v-8fb284b911",
+      "variants": [
+        {
+          "id": "v-c3330e32d7",
+          "answer": "Olecranon, coronoid process, trochlear notch, radial notch and ulnar tuberosity.",
+          "sources": [
+            {
+              "modelId": "elbow-joint-model-ns18",
+              "cardId": "elbow-joint-model-ns18-11",
+              "sourceLine": 11
+            }
+          ]
+        },
+        {
+          "id": "v-8fb284b911",
+          "answer": "Olecranon, coronoid process, trochlear notch, radial notch, ulnar tuberosity, shaft, head and styloid process.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-578",
+              "sourceLine": 578
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-2389607e0b",
+      "question": "Muscle attachments",
+      "preferredVariantId": "v-13a9db2400",
+      "variants": [
+        {
+          "id": "v-13a9db2400",
+          "answer": "Triceps inserts on olecranon; brachialis inserts on coronoid process/ulnar tuberosity; pronator teres and flexor muscles attach in the proximal forearm region.",
+          "sources": [
+            {
+              "modelId": "elbow-joint-model-ns18",
+              "cardId": "elbow-joint-model-ns18-12",
+              "sourceLine": 12
+            }
+          ]
+        },
+        {
+          "id": "v-b37efa8e33",
+          "answer": "Triceps, brachialis, FCU, FDP, pronator quadratus, supinator and multiple deep forearm muscles.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-579",
+              "sourceLine": 579
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-86e4e38754",
+      "question": "Orientation",
+      "preferredVariantId": "v-2949799b10",
+      "variants": [
+        {
+          "id": "v-171fcb85d4",
+          "answer": "Olecranon projects proximally/posteriorly; radial notch lies laterally.",
+          "sources": [
+            {
+              "modelId": "elbow-joint-model-ns18",
+              "cardId": "elbow-joint-model-ns18-13",
+              "sourceLine": 13
+            }
+          ]
+        },
+        {
+          "id": "v-2949799b10",
+          "answer": "Trochlear notch faces anteriorly; radial notch is lateral; olecranon posterior/superior; styloid lies distally and medially/posteriorly.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-580",
+              "sourceLine": 580
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "elbow-joint-model-ns18",
+      "section": "",
+      "path": [
+        "b"
+      ],
+      "label": "b"
+    },
+    {
+      "modelId": "upper-limb-model-ns15",
+      "section": "Bones",
+      "path": [
+        "90"
+      ],
+      "label": "90"
+    }
+  ]
+}

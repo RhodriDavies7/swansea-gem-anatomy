@@ -1,0 +1,127 @@
+{
+  "id": "palmaris-longus-83a20995f1",
+  "name": "Palmaris longus",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-1315aab99e",
+      "variants": [
+        {
+          "id": "v-1315aab99e",
+          "answer": "Palmaris longus",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-81",
+              "sourceLine": 81
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-3c71cbccf1",
+      "variants": [
+        {
+          "id": "v-3c71cbccf1",
+          "answer": "Weakly flexes the wrist and tenses the palmar aponeurosis.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-82",
+              "sourceLine": 82
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-233e76cede",
+      "variants": [
+        {
+          "id": "v-233e76cede",
+          "answer": "Median nerve (C7–C8).",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-83",
+              "sourceLine": 83
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-e53c0cc7fd",
+      "variants": [
+        {
+          "id": "v-e53c0cc7fd",
+          "answer": "Common flexor tendon from medial epicondyle of humerus.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-84",
+              "sourceLine": 84
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-bb7053da56",
+      "variants": [
+        {
+          "id": "v-bb7053da56",
+          "answer": "Flexor retinaculum and palmar aponeurosis.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-85",
+              "sourceLine": 85
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "upper-limb-model-ns15",
+      "section": "Muscles",
+      "path": [
+        "14"
+      ],
+      "label": "14"
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "id": "mammillary-body-eac83fb7a5",
+  "name": "Mammillary body",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [],
+  "tags": [
+    "CNS",
+    "Function",
+    "Location",
+    "MidSagittal",
+    "MidlineStructures"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-e6f60048dd",
+      "variants": [
+        {
+          "id": "v-e6f60048dd",
+          "answer": "Mammillary body",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-307",
+              "sourceLine": 307
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-171",
+              "sourceLine": 171
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-7ccf1d26d1",
+      "variants": [
+        {
+          "id": "v-7ccf1d26d1",
+          "answer": "Small rounded hypothalamic structure on inferior brain surface.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-308",
+              "sourceLine": 308
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-172",
+              "sourceLine": 172
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-e9dc7b405f",
+      "variants": [
+        {
+          "id": "v-e9dc7b405f",
+          "answer": "Part of limbic memory circuitry; receives hippocampal input via fornix.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-309",
+              "sourceLine": 309
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-173",
+              "sourceLine": 173
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "coronal-and-mid-sagittal-head-mb20",
+      "section": "Other midline structures",
+      "path": [
+        "12"
+      ],
+      "label": "12"
+    },
+    {
+      "modelId": "half-head-and-neck-model-bs9",
+      "section": "Other midline structures",
+      "path": [
+        "12"
+      ],
+      "label": "12"
+    }
+  ]
+}

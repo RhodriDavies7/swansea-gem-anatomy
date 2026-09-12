@@ -1,0 +1,109 @@
+{
+  "id": "plantar-metatarsal-artery-f7970b6912",
+  "name": "Plantar metatarsal artery",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Arteries"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Cardiovascular"
+  ],
+  "organs": [],
+  "tags": [
+    "ArteriesAndNerves",
+    "Artery",
+    "Course",
+    "Origin",
+    "Supply"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-3a32e2ebdb",
+      "variants": [
+        {
+          "id": "v-3a32e2ebdb",
+          "answer": "Plantar metatarsal artery",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-384",
+              "sourceLine": 384
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-d6cb932275",
+      "variants": [
+        {
+          "id": "v-d6cb932275",
+          "answer": "Branches of the deep plantar arch.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-385",
+              "sourceLine": 385
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-b1a55f45de",
+      "variants": [
+        {
+          "id": "v-b1a55f45de",
+          "answer": "Run distally in plantar intermetatarsal spaces.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-386",
+              "sourceLine": 386
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-222db0fc1c",
+      "question": "Supply",
+      "preferredVariantId": "v-e5e6eb729e",
+      "variants": [
+        {
+          "id": "v-e5e6eb729e",
+          "answer": "Divide into plantar digital arteries supplying toes.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-387",
+              "sourceLine": 387
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "foot-model-ns9",
+      "section": "Arteries and nerves",
+      "path": [
+        "57"
+      ],
+      "label": "57"
+    }
+  ]
+}

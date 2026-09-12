@@ -1,0 +1,128 @@
+{
+  "id": "facial-canal-containing-the-facial-nerve-cn-vii-8568a1deb7",
+  "name": "Facial canal containing the facial nerve (CN VII)",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [],
+  "organs": [
+    "Ear"
+  ],
+  "tags": [
+    "Canal",
+    "Clinical",
+    "Contents",
+    "Course",
+    "InnerEar",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-e8f05091ce",
+      "variants": [
+        {
+          "id": "v-e8f05091ce",
+          "answer": "Facial canal containing the facial nerve (CN VII)",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-310",
+              "sourceLine": 310
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-8590da8dbc",
+      "variants": [
+        {
+          "id": "v-8590da8dbc",
+          "answer": "Bony canal in the temporal bone carrying CN VII from the internal acoustic meatus to the stylomastoid foramen.",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-311",
+              "sourceLine": 311
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f5cbdf6bfb",
+      "question": "Contents",
+      "preferredVariantId": "v-58498c45e3",
+      "variants": [
+        {
+          "id": "v-58498c45e3",
+          "answer": "Facial nerve and associated vessels.",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-312",
+              "sourceLine": 312
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-52d63597ad",
+      "variants": [
+        {
+          "id": "v-52d63597ad",
+          "answer": "Runs in close relation to the middle and inner ear; includes labyrinthine, tympanic and mastoid segments.",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-313",
+              "sourceLine": 313
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-b03737e3cd",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-0301a4e4f6",
+      "variants": [
+        {
+          "id": "v-0301a4e4f6",
+          "answer": "Facial nerve can be affected by temporal bone disease, inflammation or fracture along the canal.",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-314",
+              "sourceLine": 314
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "ear-largest-model-ds1",
+      "section": "D. Inner ear",
+      "path": [
+        "48"
+      ],
+      "label": "48"
+    }
+  ]
+}

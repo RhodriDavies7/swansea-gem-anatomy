@@ -1,0 +1,116 @@
+{
+  "id": "cuneiform-cartilage-cartilage-of-wrisberg-e9e2f360b7",
+  "name": "Cuneiform cartilage (cartilage of Wrisberg)",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Cartilage"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Musculoskeletal",
+    "Respiratory"
+  ],
+  "organs": [
+    "Larynx"
+  ],
+  "tags": [
+    "Cartilage",
+    "CartilagesAndBones",
+    "Function",
+    "Structure"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-c780927d13",
+      "variants": [
+        {
+          "id": "v-c780927d13",
+          "answer": "Cuneiform cartilage (cartilage of Wrisberg)",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-49",
+              "sourceLine": 49
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-49",
+              "sourceLine": 49
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-147d337d95",
+      "variants": [
+        {
+          "id": "v-147d337d95",
+          "answer": "Small paired elastic cartilages embedded in the aryepiglottic folds.",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-50",
+              "sourceLine": 50
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-50",
+              "sourceLine": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-5f1e27d1ef",
+      "variants": [
+        {
+          "id": "v-5f1e27d1ef",
+          "answer": "Support and stiffen the aryepiglottic folds.",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-51",
+              "sourceLine": 51
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-51",
+              "sourceLine": 51
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "larynx-model-gs7",
+      "section": "Hyoid and laryngeal cartilages",
+      "path": [
+        "6"
+      ],
+      "label": "6"
+    },
+    {
+      "modelId": "larynx-and-airway-model-gs5",
+      "section": "Hyoid and laryngeal cartilages",
+      "path": [
+        "6"
+      ],
+      "label": "6"
+    }
+  ]
+}

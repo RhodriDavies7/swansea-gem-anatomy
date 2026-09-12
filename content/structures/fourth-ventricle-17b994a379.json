@@ -1,0 +1,198 @@
+{
+  "id": "fourth-ventricle-17b994a379",
+  "name": "Fourth ventricle",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [],
+  "tags": [
+    "Brain",
+    "Connections",
+    "Function",
+    "Location",
+    "MidSagittal",
+    "MidlineStructures",
+    "Ventricle"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-21a0bf5954",
+      "variants": [
+        {
+          "id": "v-21a0bf5954",
+          "answer": "Fourth ventricle",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-337",
+              "sourceLine": 337
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-209",
+              "sourceLine": 209
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-725",
+              "sourceLine": 725
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-b562e8ae8b",
+      "variants": [
+        {
+          "id": "v-b562e8ae8b",
+          "answer": "Between pons/upper medulla anteriorly and cerebellum posteriorly.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-338",
+              "sourceLine": 338
+            }
+          ]
+        },
+        {
+          "id": "v-92fdd5fd0d",
+          "answer": "Between pons/upper medulla and cerebellum.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-210",
+              "sourceLine": 210
+            }
+          ]
+        },
+        {
+          "id": "v-bd7a92b148",
+          "answer": "Between pons/medulla and cerebellum.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-726",
+              "sourceLine": 726
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-8f3509b64e",
+      "question": "Connections",
+      "preferredVariantId": "v-499c640e2c",
+      "variants": [
+        {
+          "id": "v-499c640e2c",
+          "answer": "Receives CSF from cerebral aqueduct and continues into central canal; communicates with subarachnoid space through median and lateral apertures.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-339",
+              "sourceLine": 339
+            }
+          ]
+        },
+        {
+          "id": "v-3cf9cfe91b",
+          "answer": "Receives CSF from cerebral aqueduct and communicates with central canal/subarachnoid space.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-211",
+              "sourceLine": 211
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-12b05c747b",
+      "variants": [
+        {
+          "id": "v-12b05c747b",
+          "answer": "Contains and conducts cerebrospinal fluid.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-340",
+              "sourceLine": 340
+            }
+          ]
+        },
+        {
+          "id": "v-f72114d237",
+          "answer": "Contains and conducts CSF.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-212",
+              "sourceLine": 212
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-727",
+              "sourceLine": 727
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "coronal-and-mid-sagittal-head-mb20",
+      "section": "Other midline structures",
+      "path": [
+        "19"
+      ],
+      "label": "19"
+    },
+    {
+      "modelId": "half-head-and-neck-model-bs9",
+      "section": "Other midline structures",
+      "path": [
+        "19"
+      ],
+      "label": "19"
+    },
+    {
+      "modelId": "head-and-neck-model-cs17-2",
+      "section": "Internal brain structures and cranial nerves (1–26)",
+      "path": [
+        "13"
+      ],
+      "label": "13"
+    }
+  ]
+}

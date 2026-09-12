@@ -1,0 +1,213 @@
+{
+  "id": "portal-vein-3854add8df",
+  "name": "Portal vein",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Veins"
+  ],
+  "regions": [
+    "Abdomen"
+  ],
+  "systems": [
+    "Cardiovascular",
+    "Digestive"
+  ],
+  "organs": [
+    "Liver",
+    "Pancreas"
+  ],
+  "tags": [
+    "Clinical",
+    "Course",
+    "Drainage",
+    "Formation",
+    "Vein",
+    "Veins",
+    "Vessels"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-20b0dca70f",
+      "variants": [
+        {
+          "id": "v-20b0dca70f",
+          "answer": "Portal vein",
+          "sources": [
+            {
+              "modelId": "liver-js5",
+              "cardId": "liver-js5-89",
+              "sourceLine": 89
+            },
+            {
+              "modelId": "pancreas-model-js11",
+              "cardId": "pancreas-model-js11-53",
+              "sourceLine": 53
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-bc0bd86b8f",
+      "question": "Formation",
+      "preferredVariantId": "v-b7d6fe32e7",
+      "variants": [
+        {
+          "id": "v-b7d6fe32e7",
+          "answer": "Usually formed by union of the superior mesenteric and splenic veins behind the neck of the pancreas.",
+          "sources": [
+            {
+              "modelId": "liver-js5",
+              "cardId": "liver-js5-90",
+              "sourceLine": 90
+            },
+            {
+              "modelId": "pancreas-model-js11",
+              "cardId": "pancreas-model-js11-54",
+              "sourceLine": 54
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "curated-975505934e",
+      "variants": [
+        {
+          "id": "v-456c9cccc8",
+          "answer": "Ascends in the hepatoduodenal ligament posterior to the hepatic artery and bile duct.",
+          "sources": [
+            {
+              "modelId": "liver-js5",
+              "cardId": "liver-js5-91",
+              "sourceLine": 91
+            }
+          ]
+        },
+        {
+          "id": "v-36be48de8c",
+          "answer": "Ascends posterior to the first part of the duodenum and within the hepatoduodenal ligament to the liver.",
+          "sources": [
+            {
+              "modelId": "pancreas-model-js11",
+              "cardId": "pancreas-model-js11-55",
+              "sourceLine": 55
+            }
+          ]
+        },
+        {
+          "id": "curated-975505934e",
+          "answer": "Passes behind the first part of the duodenum, then ascends in the hepatoduodenal ligament posterior to the hepatic artery and bile duct.",
+          "sources": [
+            {
+              "modelId": "liver-js5",
+              "cardId": "liver-js5-91",
+              "sourceLine": 91
+            },
+            {
+              "modelId": "pancreas-model-js11",
+              "cardId": "pancreas-model-js11-55",
+              "sourceLine": 55
+            }
+          ],
+          "editorial": true
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-74a64b1943",
+      "question": "Drainage",
+      "preferredVariantId": "v-7e0e00516f",
+      "variants": [
+        {
+          "id": "v-7e0e00516f",
+          "answer": "Carries nutrient-rich venous blood from most of the gastrointestinal tract, spleen, pancreas and gallbladder to the liver.",
+          "sources": [
+            {
+              "modelId": "liver-js5",
+              "cardId": "liver-js5-92",
+              "sourceLine": 92
+            }
+          ]
+        },
+        {
+          "id": "v-241287ee49",
+          "answer": "Carries nutrient-rich venous blood from the gastrointestinal tract, spleen, pancreas and gallbladder to the liver.",
+          "sources": [
+            {
+              "modelId": "pancreas-model-js11",
+              "cardId": "pancreas-model-js11-56",
+              "sourceLine": 56
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-b03737e3cd",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-3cfbebec21",
+      "variants": [
+        {
+          "id": "v-3cfbebec21",
+          "answer": "Portal hypertension can produce oesophageal varices, ascites and portosystemic collateral enlargement.",
+          "sources": [
+            {
+              "modelId": "liver-js5",
+              "cardId": "liver-js5-93",
+              "sourceLine": 93
+            }
+          ]
+        },
+        {
+          "id": "v-4fe1ba54fb",
+          "answer": "Portal hypertension can cause varices, ascites and portosystemic collateral formation.",
+          "sources": [
+            {
+              "modelId": "pancreas-model-js11",
+              "cardId": "pancreas-model-js11-57",
+              "sourceLine": 57
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "liver-js5",
+      "section": "Vessels",
+      "path": [
+        "14"
+      ],
+      "label": "14"
+    },
+    {
+      "modelId": "pancreas-model-js11",
+      "section": "Veins",
+      "path": [
+        "5"
+      ],
+      "label": "5"
+    }
+  ]
+}

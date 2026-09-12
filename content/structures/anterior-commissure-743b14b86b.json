@@ -1,0 +1,159 @@
+{
+  "id": "anterior-commissure-743b14b86b",
+  "name": "Anterior commissure",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [],
+  "tags": [
+    "Brain",
+    "CNS",
+    "Function",
+    "MidSagittal",
+    "MidlineStructures",
+    "Structure"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-c1366c8857",
+      "variants": [
+        {
+          "id": "v-c1366c8857",
+          "answer": "Anterior commissure",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-274",
+              "sourceLine": 274
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-129",
+              "sourceLine": 129
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-697",
+              "sourceLine": 697
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-75355eddaf",
+      "variants": [
+        {
+          "id": "v-75355eddaf",
+          "answer": "Small commissural fibre bundle crossing anterior wall of third ventricle region.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-275",
+              "sourceLine": 275
+            }
+          ]
+        },
+        {
+          "id": "v-1a671d2768",
+          "answer": "Small commissural fibre bundle crossing near anterior wall of third ventricle.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-130",
+              "sourceLine": 130
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-f874027c22",
+      "variants": [
+        {
+          "id": "v-80a88d0da1",
+          "answer": "Connects parts of temporal lobes and olfactory-related regions across hemispheres.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-276",
+              "sourceLine": 276
+            }
+          ]
+        },
+        {
+          "id": "v-f7876e9b33",
+          "answer": "Connects temporal/olfactory-related regions across hemispheres.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-131",
+              "sourceLine": 131
+            }
+          ]
+        },
+        {
+          "id": "v-f874027c22",
+          "answer": "Connects temporal and olfactory-related regions across hemispheres.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-698",
+              "sourceLine": 698
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "coronal-and-mid-sagittal-head-mb20",
+      "section": "Other midline structures",
+      "path": [
+        "4"
+      ],
+      "label": "4"
+    },
+    {
+      "modelId": "half-head-and-neck-model-bs9",
+      "section": "Other midline structures",
+      "path": [
+        "4"
+      ],
+      "label": "4"
+    },
+    {
+      "modelId": "head-and-neck-model-cs17-2",
+      "section": "Internal brain structures and cranial nerves (1–26)",
+      "path": [
+        "7"
+      ],
+      "label": "7"
+    }
+  ]
+}

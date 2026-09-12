@@ -1,0 +1,282 @@
+{
+  "id": "urethra-4b33aa096e",
+  "name": "Urethra",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Abdomen",
+    "Pelvis"
+  ],
+  "systems": [
+    "Reproductive",
+    "Urinary"
+  ],
+  "organs": [],
+  "tags": [
+    "Clinical",
+    "Connections",
+    "Course",
+    "Function",
+    "Relations",
+    "Tube",
+    "UrinarySystem"
+  ],
+  "imageIds": [
+    "img-94d6638f5d8c"
+  ],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-1ad8391921",
+      "variants": [
+        {
+          "id": "v-1ad8391921",
+          "answer": "Urethra",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-413",
+              "sourceLine": 413
+            },
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-45",
+              "sourceLine": 45
+            },
+            {
+              "modelId": "urinary-system-model-ls3-1",
+              "cardId": "urinary-system-model-ls3-1-22",
+              "sourceLine": 22
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-6f5d854d1d",
+      "variants": [
+        {
+          "id": "v-01250c36de",
+          "answer": "Conducts urine from bladder to exterior.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-414",
+              "sourceLine": 414
+            }
+          ]
+        },
+        {
+          "id": "v-6f5d854d1d",
+          "answer": "Conducts urine from the urinary bladder to the external urethral orifice.",
+          "sources": [
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-46",
+              "sourceLine": 46
+            }
+          ]
+        },
+        {
+          "id": "v-82404789ad",
+          "answer": "Conducts urine from the bladder to the exterior.",
+          "sources": [
+            {
+              "modelId": "urinary-system-model-ls3-1",
+              "cardId": "urinary-system-model-ls3-1-23",
+              "sourceLine": 23
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "curated-1519534605",
+      "variants": [
+        {
+          "id": "v-b8d5e41997",
+          "answer": "Short female urethra passes inferoanteriorly from bladder neck to vestibule.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-415",
+              "sourceLine": 415
+            }
+          ]
+        },
+        {
+          "id": "v-0aa7e5be66",
+          "answer": "Short tube passing inferoanteriorly from the bladder neck through the pelvic floor to open in the vestibule.",
+          "sources": [
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-47",
+              "sourceLine": 47
+            }
+          ]
+        },
+        {
+          "id": "curated-1519534605",
+          "answer": "In females, passes inferoanteriorly from the bladder neck through the pelvic floor to open in the vestibule.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-415",
+              "sourceLine": 415
+            },
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-47",
+              "sourceLine": 47
+            }
+          ],
+          "editorial": true
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "curated-7e6815d048",
+      "variants": [
+        {
+          "id": "v-e435cf7bde",
+          "answer": "Lies anterior to vagina.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-416",
+              "sourceLine": 416
+            }
+          ]
+        },
+        {
+          "id": "v-7a90c3a7ff",
+          "answer": "Lies anterior to the vagina and is closely related to its anterior wall.",
+          "sources": [
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-48",
+              "sourceLine": 48
+            }
+          ]
+        },
+        {
+          "id": "curated-7e6815d048",
+          "answer": "In females, lies anterior to the vagina and is closely related to its anterior wall.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-416",
+              "sourceLine": 416
+            },
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-48",
+              "sourceLine": 48
+            }
+          ],
+          "editorial": true
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-b03737e3cd",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-43cd0751bb",
+      "variants": [
+        {
+          "id": "v-df655081f2",
+          "answer": "Short length contributes to increased risk of ascending urinary infection.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-417",
+              "sourceLine": 417
+            }
+          ]
+        },
+        {
+          "id": "v-43cd0751bb",
+          "answer": "The short female urethra contributes to a higher risk of ascending urinary tract infection.",
+          "sources": [
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-49",
+              "sourceLine": 49
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-8f3509b64e",
+      "question": "Connections",
+      "preferredVariantId": "v-fcf9ebdac2",
+      "variants": [
+        {
+          "id": "v-fcf9ebdac2",
+          "answer": "Begins at the internal urethral orifice and ends at the external urethral orifice.",
+          "sources": [
+            {
+              "modelId": "urinary-system-model-ls3-1",
+              "cardId": "urinary-system-model-ls3-1-24",
+              "sourceLine": 24
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "female-pelvis-model-mo8",
+      "section": "",
+      "path": [
+        "62"
+      ],
+      "label": "62"
+    },
+    {
+      "modelId": "female-reproductive-system-model-ms1",
+      "section": "",
+      "path": [
+        "7"
+      ],
+      "label": "7"
+    },
+    {
+      "modelId": "urinary-system-model-ls3-1",
+      "section": "Major urinary structures",
+      "path": [
+        "4"
+      ],
+      "label": "4"
+    }
+  ]
+}

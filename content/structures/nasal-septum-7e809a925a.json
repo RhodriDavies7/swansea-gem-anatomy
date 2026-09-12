@@ -1,0 +1,191 @@
+{
+  "id": "nasal-septum-7e809a925a",
+  "name": "Nasal septum",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Respiratory"
+  ],
+  "organs": [],
+  "tags": [
+    "BloodSupply",
+    "Clinical",
+    "Components",
+    "Coronal",
+    "Function",
+    "NasalSeptum",
+    "Septum",
+    "Structure"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-c76805d43d",
+      "variants": [
+        {
+          "id": "v-c76805d43d",
+          "answer": "Nasal septum",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-46",
+              "sourceLine": 46
+            },
+            {
+              "modelId": "nose-and-nasal-cavity-model-fs3",
+              "cardId": "nose-and-nasal-cavity-model-fs3-221",
+              "sourceLine": 221
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-b407c9cd86",
+      "variants": [
+        {
+          "id": "v-b407c9cd86",
+          "answer": "Formed mainly by perpendicular plate of ethmoid, vomer and septal cartilage.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-47",
+              "sourceLine": 47
+            }
+          ]
+        },
+        {
+          "id": "v-4268f158d0",
+          "answer": "Midline partition dividing the nasal cavity into right and left halves.",
+          "sources": [
+            {
+              "modelId": "nose-and-nasal-cavity-model-fs3",
+              "cardId": "nose-and-nasal-cavity-model-fs3-222",
+              "sourceLine": 222
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-8f5db4a7df",
+      "variants": [
+        {
+          "id": "v-8f5db4a7df",
+          "answer": "Divides the nasal cavity into right and left passages and supports nasal airflow.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-48",
+              "sourceLine": 48
+            }
+          ]
+        },
+        {
+          "id": "v-d6c411beca",
+          "answer": "Supports the nose and directs airflow through each nasal cavity.",
+          "sources": [
+            {
+              "modelId": "nose-and-nasal-cavity-model-fs3",
+              "cardId": "nose-and-nasal-cavity-model-fs3-224",
+              "sourceLine": 224
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-a707f7e176",
+      "question": "Blood supply",
+      "preferredVariantId": "v-bdd60098b4",
+      "variants": [
+        {
+          "id": "v-bdd60098b4",
+          "answer": "Rich vascular supply including Kiesselbach's area anteriorly.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-49",
+              "sourceLine": 49
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-b03737e3cd",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-df9e704508",
+      "variants": [
+        {
+          "id": "v-df9e704508",
+          "answer": "Septal deviation can obstruct airflow; anterior septum is a common site of epistaxis.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-50",
+              "sourceLine": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9289473eee",
+      "question": "Components",
+      "preferredVariantId": "v-3358de214e",
+      "variants": [
+        {
+          "id": "v-3358de214e",
+          "answer": "Formed mainly by the perpendicular plate of ethmoid, vomer and septal cartilage.",
+          "sources": [
+            {
+              "modelId": "nose-and-nasal-cavity-model-fs3",
+              "cardId": "nose-and-nasal-cavity-model-fs3-223",
+              "sourceLine": 223
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "coronal-and-mid-sagittal-head-mb20",
+      "section": "Coronal head",
+      "path": [
+        "10"
+      ],
+      "label": "10"
+    },
+    {
+      "modelId": "nose-and-nasal-cavity-model-fs3",
+      "section": "Nasal septum",
+      "path": [
+        "46"
+      ],
+      "label": "46"
+    }
+  ]
+}

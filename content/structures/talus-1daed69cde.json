@@ -1,0 +1,128 @@
+{
+  "id": "talus-1daed69cde",
+  "name": "Talus",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Bones"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Articulations",
+    "Bone",
+    "Bones",
+    "Clinical",
+    "Function",
+    "Landmarks"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-331d0bc5b7",
+      "variants": [
+        {
+          "id": "v-331d0bc5b7",
+          "answer": "Talus",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-35",
+              "sourceLine": 35
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-a40bee8d10",
+      "question": "Articulations",
+      "preferredVariantId": "v-9ff751ecab",
+      "variants": [
+        {
+          "id": "v-9ff751ecab",
+          "answer": "Articulates with tibia, fibula, calcaneus and navicular.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-36",
+              "sourceLine": 36
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-626b6c1d45",
+      "question": "Landmarks",
+      "preferredVariantId": "v-e0d08daf5e",
+      "variants": [
+        {
+          "id": "v-e0d08daf5e",
+          "answer": "Head, neck, body, trochlea and posterior process.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-37",
+              "sourceLine": 37
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-0c7793fdbb",
+      "variants": [
+        {
+          "id": "v-0c7793fdbb",
+          "answer": "Transfers body weight from tibia to the foot.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-38",
+              "sourceLine": 38
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-b03737e3cd",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-9c2f974933",
+      "variants": [
+        {
+          "id": "v-9c2f974933",
+          "answer": "Has no muscular attachments and a vulnerable blood supply, making talar fractures prone to avascular necrosis.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-39",
+              "sourceLine": 39
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "foot-model-ns9",
+      "section": "Bones",
+      "path": [
+        "6"
+      ],
+      "label": "6"
+    }
+  ]
+}

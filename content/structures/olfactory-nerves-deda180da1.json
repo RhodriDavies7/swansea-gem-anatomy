@@ -1,0 +1,127 @@
+{
+  "id": "olfactory-nerves-deda180da1",
+  "name": "Olfactory nerves",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Nerves"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [],
+  "tags": [
+    "Course",
+    "Lesion",
+    "Nerve",
+    "Roots",
+    "Sensory"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-3f9fb729a9",
+      "variants": [
+        {
+          "id": "v-3f9fb729a9",
+          "answer": "Olfactory nerves",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-184",
+              "sourceLine": 184
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-4d78ec7d11",
+      "question": "Roots",
+      "preferredVariantId": "v-9fed840d79",
+      "variants": [
+        {
+          "id": "v-9fed840d79",
+          "answer": "Special sensory fibres from olfactory receptor neurons in the olfactory epithelium.",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-185",
+              "sourceLine": 185
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-9c3f3070e4",
+      "variants": [
+        {
+          "id": "v-9c3f3070e4",
+          "answer": "Small fascicles pass through foramina in the cribriform plate to the olfactory bulb.",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-186",
+              "sourceLine": 186
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-a453254382",
+      "question": "Sensory functions",
+      "preferredVariantId": "v-61f2d07043",
+      "variants": [
+        {
+          "id": "v-61f2d07043",
+          "answer": "Smell.",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-187",
+              "sourceLine": 187
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-bc53d10c57",
+      "question": "Lesion",
+      "preferredVariantId": "v-fd798897e2",
+      "variants": [
+        {
+          "id": "v-fd798897e2",
+          "answer": "Injury may cause anosmia and can occur with cribriform plate fractures.",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-188",
+              "sourceLine": 188
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "deep-face-model-bs8-1",
+      "section": "",
+      "path": [
+        "29"
+      ],
+      "label": "29"
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "id": "scalenus-medius-muscle-2ac443fcf7",
+  "name": "Scalenus medius muscle",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "HeadNeckMuscles",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-0b49811014",
+      "variants": [
+        {
+          "id": "v-0b49811014",
+          "answer": "Scalenus medius muscle",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-617",
+              "sourceLine": 617
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-a44d05ec8e",
+      "variants": [
+        {
+          "id": "v-a44d05ec8e",
+          "answer": "Elevates 1st rib and laterally flexes neck.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-618",
+              "sourceLine": 618
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-712b70d112",
+      "variants": [
+        {
+          "id": "v-712b70d112",
+          "answer": "Anterior rami of cervical nerves, mainly C3–C8.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-619",
+              "sourceLine": 619
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-4d8170a05d",
+      "variants": [
+        {
+          "id": "v-4d8170a05d",
+          "answer": "Posterior tubercles of transverse processes C2–C7.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-620",
+              "sourceLine": 620
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-52cb5c5129",
+      "variants": [
+        {
+          "id": "v-52cb5c5129",
+          "answer": "Superior surface of 1st rib posterior to subclavian groove.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-621",
+              "sourceLine": 621
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "half-head-and-neck-model-bs9",
+      "section": "Musculature of the head and neck",
+      "path": [
+        "56"
+      ],
+      "label": "56"
+    }
+  ]
+}

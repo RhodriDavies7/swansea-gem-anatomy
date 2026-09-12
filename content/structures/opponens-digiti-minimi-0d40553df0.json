@@ -1,0 +1,127 @@
+{
+  "id": "opponens-digiti-minimi-0d40553df0",
+  "name": "Opponens digiti minimi",
+  "aliases": [],
+  "scope": "Upper limb",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-77482f305d",
+      "variants": [
+        {
+          "id": "v-77482f305d",
+          "answer": "Opponens digiti minimi",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-192",
+              "sourceLine": 192
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-d2fa53057d",
+      "variants": [
+        {
+          "id": "v-d2fa53057d",
+          "answer": "Draws the fifth metacarpal anteriorly and rotates it to assist opposition/cupping of the palm.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-193",
+              "sourceLine": 193
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-5d580a350d",
+      "variants": [
+        {
+          "id": "v-5d580a350d",
+          "answer": "Deep branch of ulnar nerve (C8–T1).",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-194",
+              "sourceLine": 194
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-c0795a810b",
+      "variants": [
+        {
+          "id": "v-c0795a810b",
+          "answer": "Hook of hamate and flexor retinaculum.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-195",
+              "sourceLine": 195
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-876758ad20",
+      "variants": [
+        {
+          "id": "v-876758ad20",
+          "answer": "Medial border of fifth metacarpal.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-196",
+              "sourceLine": 196
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "upper-limb-model-ns15",
+      "section": "Muscles",
+      "path": [
+        "32"
+      ],
+      "label": "32"
+    }
+  ]
+}

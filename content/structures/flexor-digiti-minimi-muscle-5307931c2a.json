@@ -1,0 +1,127 @@
+{
+  "id": "flexor-digiti-minimi-muscle-5307931c2a",
+  "name": "Flexor digiti minimi muscle",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-edc384d1bd",
+      "variants": [
+        {
+          "id": "v-edc384d1bd",
+          "answer": "Flexor digiti minimi muscle",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-275",
+              "sourceLine": 275
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-2429e36cd7",
+      "variants": [
+        {
+          "id": "v-2429e36cd7",
+          "answer": "Flexes the fifth toe at its metatarsophalangeal joint (the foot muscle is also called flexor digiti minimi brevis).",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-276",
+              "sourceLine": 276
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-ed8767c60d",
+      "variants": [
+        {
+          "id": "v-ed8767c60d",
+          "answer": "Superficial branch of lateral plantar nerve (S2–S3).",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-277",
+              "sourceLine": 277
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-7fd9ac257a",
+      "variants": [
+        {
+          "id": "v-7fd9ac257a",
+          "answer": "Plantar base of fifth metatarsal and sheath of fibularis longus tendon.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-278",
+              "sourceLine": 278
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-b01dd7579f",
+      "variants": [
+        {
+          "id": "v-b01dd7579f",
+          "answer": "Base of proximal phalanx of fifth toe.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-279",
+              "sourceLine": 279
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "lower-limb-model-ns10",
+      "section": "Muscles",
+      "path": [
+        "35"
+      ],
+      "label": "35"
+    }
+  ]
+}

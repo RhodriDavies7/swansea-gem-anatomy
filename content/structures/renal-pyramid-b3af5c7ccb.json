@@ -1,0 +1,206 @@
+{
+  "id": "renal-pyramid-b3af5c7ccb",
+  "name": "Renal pyramid",
+  "aliases": [
+    "Medullary (renal) pyramid"
+  ],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Abdomen"
+  ],
+  "systems": [
+    "Urinary"
+  ],
+  "organs": [
+    "Kidney"
+  ],
+  "tags": [
+    "CollectingSystem",
+    "Contents",
+    "Function",
+    "Location",
+    "Relations",
+    "RenalStructure",
+    "KidneyRegion",
+    "KidneySection"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-e29d571c17",
+      "variants": [
+        {
+          "id": "v-e29d571c17",
+          "answer": "Renal pyramid",
+          "sources": [
+            {
+              "modelId": "kidney-model-ls5",
+              "cardId": "kidney-model-ls5-89",
+              "sourceLine": 89
+            }
+          ]
+        },
+        {
+          "id": "v-f3afbc69e2",
+          "answer": "Medullary (renal) pyramid",
+          "sources": [
+            {
+              "modelId": "urinary-system-model-ls3-1",
+              "cardId": "urinary-system-model-ls3-1-72",
+              "sourceLine": 72
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-58e1d9f889",
+      "variants": [
+        {
+          "id": "v-58e1d9f889",
+          "answer": "Conical unit of renal medulla with base toward cortex and apex forming a renal papilla.",
+          "sources": [
+            {
+              "modelId": "kidney-model-ls5",
+              "cardId": "kidney-model-ls5-90",
+              "sourceLine": 90
+            }
+          ]
+        },
+        {
+          "id": "v-bb68884298",
+          "answer": "Conical region of renal medulla with base toward the cortex and apex forming a renal papilla.",
+          "sources": [
+            {
+              "modelId": "urinary-system-model-ls3-1",
+              "cardId": "urinary-system-model-ls3-1-73",
+              "sourceLine": 73
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-f5cbdf6bfb",
+      "question": "Contents",
+      "preferredVariantId": "v-270ac6be75",
+      "variants": [
+        {
+          "id": "v-270ac6be75",
+          "answer": "Contains straight tubules, loops of Henle and collecting ducts arranged toward the papilla.",
+          "sources": [
+            {
+              "modelId": "kidney-model-ls5",
+              "cardId": "kidney-model-ls5-91",
+              "sourceLine": 91
+            }
+          ]
+        },
+        {
+          "id": "v-cceeaad92c",
+          "answer": "Contains loops of Henle, collecting ducts and associated vessels.",
+          "sources": [
+            {
+              "modelId": "urinary-system-model-ls3-1",
+              "cardId": "urinary-system-model-ls3-1-74",
+              "sourceLine": 74
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-09bf841081",
+      "variants": [
+        {
+          "id": "v-0bcde0943e",
+          "answer": "Contributes to urine concentration and directs collecting ducts toward the papilla.",
+          "sources": [
+            {
+              "modelId": "kidney-model-ls5",
+              "cardId": "kidney-model-ls5-92",
+              "sourceLine": 92
+            }
+          ]
+        },
+        {
+          "id": "v-09bf841081",
+          "answer": "Contributes to urine concentration and conducts urine toward the papilla.",
+          "sources": [
+            {
+              "modelId": "urinary-system-model-ls3-1",
+              "cardId": "urinary-system-model-ls3-1-75",
+              "sourceLine": 75
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-ebc7f3a8d6",
+      "variants": [
+        {
+          "id": "v-ebc7f3a8d6",
+          "answer": "Adjacent pyramids are separated by cortical extensions called renal columns.",
+          "sources": [
+            {
+              "modelId": "kidney-model-ls5",
+              "cardId": "kidney-model-ls5-93",
+              "sourceLine": 93
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "kidney-model-ls5",
+      "section": "Collecting system and renal parenchyma",
+      "path": [
+        "7"
+      ],
+      "label": "7"
+    },
+    {
+      "modelId": "urinary-system-model-ls3-1",
+      "section": "Coronal section of kidney (8a–g)",
+      "path": [
+        "8",
+        "g"
+      ],
+      "label": "8g"
+    }
+  ],
+  "redirectIds": [
+    "medullary-renal-pyramid-b36bbfc2dd"
+  ]
+}

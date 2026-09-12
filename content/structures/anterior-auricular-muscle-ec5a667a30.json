@@ -1,0 +1,162 @@
+{
+  "id": "anterior-auricular-muscle-ec5a667a30",
+  "name": "Anterior auricular muscle",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "HeadNeck",
+    "HeadNeckMuscles",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-7d6b1a9c94",
+      "variants": [
+        {
+          "id": "v-7d6b1a9c94",
+          "answer": "Anterior auricular muscle",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-512",
+              "sourceLine": 512
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-265",
+              "sourceLine": 265
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-96018ae243",
+      "variants": [
+        {
+          "id": "v-96018ae243",
+          "answer": "Draws auricle forward.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-513",
+              "sourceLine": 513
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-266",
+              "sourceLine": 266
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-879edabd6f",
+      "variants": [
+        {
+          "id": "v-879edabd6f",
+          "answer": "Facial nerve (CN VII), temporal branches.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-514",
+              "sourceLine": 514
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-267",
+              "sourceLine": 267
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-fbf7061e7f",
+      "variants": [
+        {
+          "id": "v-fbf7061e7f",
+          "answer": "Temporal fascia.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-515",
+              "sourceLine": 515
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-268",
+              "sourceLine": 268
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-bc7decdca8",
+      "variants": [
+        {
+          "id": "v-bc7decdca8",
+          "answer": "Anterior auricle.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-516",
+              "sourceLine": 516
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-269",
+              "sourceLine": 269
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "half-head-and-neck-model-bs9",
+      "section": "Musculature of the head and neck",
+      "path": [
+        "41"
+      ],
+      "label": "41"
+    },
+    {
+      "modelId": "head-and-neck-model-cs17-2",
+      "section": "Musculature of the head and neck",
+      "path": [
+        "44"
+      ],
+      "label": "44"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "id": "macula-of-the-retina-macula-lutea-d07a1640dc",
+  "name": "Macula of the retina (macula lutea)",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [],
+  "organs": [
+    "Eye"
+  ],
+  "tags": [
+    "Function",
+    "Location",
+    "RetinalLandmark"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-603373f104",
+      "variants": [
+        {
+          "id": "v-603373f104",
+          "answer": "Macula of the retina (macula lutea)",
+          "sources": [
+            {
+              "modelId": "eyeball-model-cs7",
+              "cardId": "eyeball-model-cs7-134",
+              "sourceLine": 134
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-d6dd02d6c3",
+      "variants": [
+        {
+          "id": "v-d6dd02d6c3",
+          "answer": "Specialised retinal area lateral to the optic disc; the fovea centralis lies at its centre.",
+          "sources": [
+            {
+              "modelId": "eyeball-model-cs7",
+              "cardId": "eyeball-model-cs7-135",
+              "sourceLine": 135
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-430ae478f6",
+      "variants": [
+        {
+          "id": "v-430ae478f6",
+          "answer": "Responsible for high-acuity central vision and detailed colour vision.",
+          "sources": [
+            {
+              "modelId": "eyeball-model-cs7",
+              "cardId": "eyeball-model-cs7-136",
+              "sourceLine": 136
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "eyeball-model-cs7",
+      "section": "",
+      "path": [
+        "21"
+      ],
+      "label": "21"
+    }
+  ]
+}

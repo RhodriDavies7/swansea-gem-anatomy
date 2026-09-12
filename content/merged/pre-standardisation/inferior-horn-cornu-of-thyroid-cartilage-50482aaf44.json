@@ -1,0 +1,93 @@
+{
+  "id": "inferior-horn-cornu-of-thyroid-cartilage-50482aaf44",
+  "name": "Inferior horn (cornu) of thyroid cartilage",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Cartilage"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Respiratory"
+  ],
+  "organs": [
+    "Larynx"
+  ],
+  "tags": [
+    "Articulations",
+    "CartilagePart",
+    "CartilagesAndBones"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-aa70a47e6c",
+      "variants": [
+        {
+          "id": "v-aa70a47e6c",
+          "answer": "Inferior horn (cornu) of thyroid cartilage",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-26",
+              "sourceLine": 26
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-26",
+              "sourceLine": 26
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-b3e7bd5736",
+      "question": "Articulation",
+      "preferredVariantId": "v-47cc7faec3",
+      "variants": [
+        {
+          "id": "v-47cc7faec3",
+          "answer": "Articulates with cricoid cartilage at the cricothyroid joint.",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-27",
+              "sourceLine": 27
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-27",
+              "sourceLine": 27
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "larynx-model-gs7",
+      "section": "Hyoid and laryngeal cartilages",
+      "path": [
+        "2",
+        "e"
+      ],
+      "label": "2e"
+    },
+    {
+      "modelId": "larynx-and-airway-model-gs5",
+      "section": "Hyoid and laryngeal cartilages",
+      "path": [
+        "2",
+        "e"
+      ],
+      "label": "2e"
+    }
+  ]
+}

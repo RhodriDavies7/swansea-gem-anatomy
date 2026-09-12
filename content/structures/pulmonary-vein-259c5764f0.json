@@ -1,0 +1,93 @@
+{
+  "id": "pulmonary-vein-259c5764f0",
+  "name": "Pulmonary vein",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Veins"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Cardiovascular",
+    "Respiratory"
+  ],
+  "organs": [
+    "Larynx"
+  ],
+  "tags": [
+    "CardiacVesselsValves",
+    "Drainage",
+    "Structure",
+    "Vein"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-c022f0c7cc",
+      "variants": [
+        {
+          "id": "v-c022f0c7cc",
+          "answer": "Pulmonary vein",
+          "sources": [
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-194",
+              "sourceLine": 194
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-74a64b1943",
+      "question": "Drainage",
+      "preferredVariantId": "v-145d993c4b",
+      "variants": [
+        {
+          "id": "v-145d993c4b",
+          "answer": "Returns oxygenated blood from lungs to left atrium.",
+          "sources": [
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-195",
+              "sourceLine": 195
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-b7baa1d40c",
+      "question": "Number",
+      "preferredVariantId": "v-c498f113fc",
+      "variants": [
+        {
+          "id": "v-c498f113fc",
+          "answer": "Usually four pulmonary veins, two from each lung.",
+          "sources": [
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-196",
+              "sourceLine": 196
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+      "section": "Cardiac vessels and valves",
+      "path": [
+        "27"
+      ],
+      "label": "27"
+    }
+  ]
+}

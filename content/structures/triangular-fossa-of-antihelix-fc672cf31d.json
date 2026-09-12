@@ -1,0 +1,90 @@
+{
+  "id": "triangular-fossa-of-antihelix-fc672cf31d",
+  "name": "Triangular fossa of antihelix",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [],
+  "organs": [
+    "Ear"
+  ],
+  "tags": [
+    "Auricle",
+    "ExternalEar",
+    "Location",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-6543f9c5ce",
+      "variants": [
+        {
+          "id": "v-6543f9c5ce",
+          "answer": "Triangular fossa of antihelix",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-24",
+              "sourceLine": 24
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-e490a2aebd",
+      "variants": [
+        {
+          "id": "v-e490a2aebd",
+          "answer": "Depression between the superior and inferior crura of the antihelix.",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-25",
+              "sourceLine": 25
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-4415851db8",
+      "variants": [
+        {
+          "id": "v-4415851db8",
+          "answer": "Lies in the superior part of the auricle.",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-26",
+              "sourceLine": 26
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "ear-largest-model-ds1",
+      "section": "A. External ear",
+      "path": [
+        "5"
+      ],
+      "label": "5"
+    }
+  ]
+}

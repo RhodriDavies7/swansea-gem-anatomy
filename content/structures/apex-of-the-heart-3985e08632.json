@@ -1,0 +1,109 @@
+{
+  "id": "apex-of-the-heart-3985e08632",
+  "name": "Apex of the heart",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Thorax"
+  ],
+  "systems": [],
+  "organs": [
+    "Heart"
+  ],
+  "tags": [
+    "CardiacLandmark",
+    "Clinical",
+    "MajorLandmarks",
+    "Position",
+    "Structure"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-ff16463c08",
+      "variants": [
+        {
+          "id": "v-ff16463c08",
+          "answer": "Apex of the heart",
+          "sources": [
+            {
+              "modelId": "heart-model-hs5",
+              "cardId": "heart-model-hs5-3",
+              "sourceLine": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-cf1c85adba",
+      "question": "Position",
+      "preferredVariantId": "v-e16c5eae5b",
+      "variants": [
+        {
+          "id": "v-e16c5eae5b",
+          "answer": "Points forwards, downwards and to the left; in adults it usually lies deep to the left 5th intercostal space near the midclavicular line, about 9 cm from the median plane.",
+          "sources": [
+            {
+              "modelId": "heart-model-hs5",
+              "cardId": "heart-model-hs5-4",
+              "sourceLine": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-bc0bd86b8f",
+      "question": "Formation",
+      "preferredVariantId": "v-01a9179469",
+      "variants": [
+        {
+          "id": "v-01a9179469",
+          "answer": "Formed mainly by the left ventricle.",
+          "sources": [
+            {
+              "modelId": "heart-model-hs5",
+              "cardId": "heart-model-hs5-5",
+              "sourceLine": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-b03737e3cd",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-4643e3c87c",
+      "variants": [
+        {
+          "id": "v-4643e3c87c",
+          "answer": "The apex beat is normally palpable in the left 5th intercostal space near the midclavicular line.",
+          "sources": [
+            {
+              "modelId": "heart-model-hs5",
+              "cardId": "heart-model-hs5-6",
+              "sourceLine": 6
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "heart-model-hs5",
+      "section": "Major landmarks",
+      "path": [
+        "A"
+      ],
+      "label": "A"
+    }
+  ]
+}

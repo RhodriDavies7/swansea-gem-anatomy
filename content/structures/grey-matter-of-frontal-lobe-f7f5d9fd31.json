@@ -1,0 +1,109 @@
+{
+  "id": "grey-matter-of-frontal-lobe-f7f5d9fd31",
+  "name": "Grey matter of frontal lobe",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [],
+  "tags": [
+    "CNS",
+    "Coronal",
+    "Function",
+    "Relations",
+    "Structure"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-622e85c795",
+      "variants": [
+        {
+          "id": "v-622e85c795",
+          "answer": "Grey matter of frontal lobe",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-25",
+              "sourceLine": 25
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-52bc569620",
+      "variants": [
+        {
+          "id": "v-52bc569620",
+          "answer": "Cerebral cortex composed predominantly of neuronal cell bodies, dendrites and synapses.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-26",
+              "sourceLine": 26
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-0d6118b0c3",
+      "variants": [
+        {
+          "id": "v-0d6118b0c3",
+          "answer": "Frontal cortical regions contribute to executive function, behaviour, motor planning and voluntary movement.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-27",
+              "sourceLine": 27
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-468ed7066c",
+      "variants": [
+        {
+          "id": "v-468ed7066c",
+          "answer": "Forms the superficial cortex overlying the subcortical white matter.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-28",
+              "sourceLine": 28
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "coronal-and-mid-sagittal-head-mb20",
+      "section": "Coronal head",
+      "path": [
+        "6"
+      ],
+      "label": "6"
+    }
+  ]
+}

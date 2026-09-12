@@ -1,0 +1,115 @@
+{
+  "id": "mucous-membrane-of-the-trachea-0e0407e57e",
+  "name": "Mucous membrane of the trachea",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Respiratory"
+  ],
+  "organs": [
+    "Larynx"
+  ],
+  "tags": [
+    "Function",
+    "InternalLarynx",
+    "Mucosa",
+    "Structure"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-8f70c18fce",
+      "variants": [
+        {
+          "id": "v-8f70c18fce",
+          "answer": "Mucous membrane of the trachea",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-261",
+              "sourceLine": 261
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-261",
+              "sourceLine": 261
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-11732cf3a7",
+      "variants": [
+        {
+          "id": "v-11732cf3a7",
+          "answer": "Respiratory mucosa lined mainly by pseudostratified ciliated columnar epithelium with goblet cells.",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-262",
+              "sourceLine": 262
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-262",
+              "sourceLine": 262
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-89de10ae10",
+      "variants": [
+        {
+          "id": "v-89de10ae10",
+          "answer": "Warms, humidifies and clears inhaled particles via the mucociliary escalator.",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-263",
+              "sourceLine": 263
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-263",
+              "sourceLine": 263
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "larynx-model-gs7",
+      "section": "Internal laryngeal structures and mucosa",
+      "path": [
+        "34"
+      ],
+      "label": "34"
+    },
+    {
+      "modelId": "larynx-and-airway-model-gs5",
+      "section": "Internal laryngeal structures and mucosa",
+      "path": [
+        "34"
+      ],
+      "label": "34"
+    }
+  ]
+}

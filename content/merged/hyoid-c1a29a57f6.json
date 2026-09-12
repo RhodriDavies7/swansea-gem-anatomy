@@ -1,0 +1,108 @@
+{
+  "id": "hyoid-c1a29a57f6",
+  "name": "Hyoid",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Bones"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Articulations",
+    "Bone",
+    "Landmarks",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-504c3fde53",
+      "variants": [
+        {
+          "id": "v-504c3fde53",
+          "answer": "Hyoid",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-44",
+              "sourceLine": 44
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-a40bee8d10",
+      "question": "Articulations",
+      "preferredVariantId": "v-c5b4af2ac1",
+      "variants": [
+        {
+          "id": "v-c5b4af2ac1",
+          "answer": "Does not articulate directly with other bones; suspended by muscles and ligaments.",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-45",
+              "sourceLine": 45
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-626b6c1d45",
+      "question": "Landmarks",
+      "preferredVariantId": "v-c0673afb68",
+      "variants": [
+        {
+          "id": "v-c0673afb68",
+          "answer": "Body, greater horns and lesser horns.",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-46",
+              "sourceLine": 46
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-f8b735f61a",
+      "variants": [
+        {
+          "id": "v-f8b735f61a",
+          "answer": "Located in the anterior neck between the mandible and thyroid cartilage.",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-47",
+              "sourceLine": 47
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "deep-face-model-bs8-1",
+      "section": "",
+      "path": [
+        "8"
+      ],
+      "label": "8"
+    }
+  ]
+}

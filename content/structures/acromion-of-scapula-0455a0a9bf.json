@@ -1,0 +1,127 @@
+{
+  "id": "acromion-of-scapula-0455a0a9bf",
+  "name": "Acromion (of scapula)",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Bones"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Attachments",
+    "Bone",
+    "BonyLandmark",
+    "Clinical",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-3ab095023e",
+      "variants": [
+        {
+          "id": "v-3ab095023e",
+          "answer": "Acromion (of scapula)",
+          "sources": [
+            {
+              "modelId": "deep-shoulder-model-ns17",
+              "cardId": "deep-shoulder-model-ns17-9",
+              "sourceLine": 9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-bcf605d6bb",
+      "question": "Bone",
+      "preferredVariantId": "v-8b89fc5935",
+      "variants": [
+        {
+          "id": "v-8b89fc5935",
+          "answer": "Scapula.",
+          "sources": [
+            {
+              "modelId": "deep-shoulder-model-ns17",
+              "cardId": "deep-shoulder-model-ns17-10",
+              "sourceLine": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6771ade6e8",
+      "question": "Attachments",
+      "preferredVariantId": "v-15a710edc1",
+      "variants": [
+        {
+          "id": "v-15a710edc1",
+          "answer": "Deltoid arises from its lateral border and trapezius inserts on its medial/superior aspect; acromioclavicular and coraco-acromial ligaments attach nearby.",
+          "sources": [
+            {
+              "modelId": "deep-shoulder-model-ns17",
+              "cardId": "deep-shoulder-model-ns17-11",
+              "sourceLine": 11
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-a4c640e8f1",
+      "variants": [
+        {
+          "id": "v-a4c640e8f1",
+          "answer": "Forms the summit of the shoulder and the roof over the glenohumeral joint/subacromial space.",
+          "sources": [
+            {
+              "modelId": "deep-shoulder-model-ns17",
+              "cardId": "deep-shoulder-model-ns17-12",
+              "sourceLine": 12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-b03737e3cd",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-7b961c7449",
+      "variants": [
+        {
+          "id": "v-7b961c7449",
+          "answer": "Subacromial impingement may involve structures passing beneath the acromion.",
+          "sources": [
+            {
+              "modelId": "deep-shoulder-model-ns17",
+              "cardId": "deep-shoulder-model-ns17-13",
+              "sourceLine": 13
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "deep-shoulder-model-ns17",
+      "section": "",
+      "path": [
+        "2"
+      ],
+      "label": "2"
+    }
+  ]
+}

@@ -2,8 +2,11 @@ import test from 'node:test';
 import assert from 'node:assert/strict';
 import {readFile} from 'node:fs/promises';
 import {filterCards,makeRun,structureFor} from '../dist/logic.js';
+import {hydrateModel} from '../dist/data.js';
+const rawCatalog=JSON.parse(await readFile(new URL('../dist/data/catalog.json',import.meta.url)));
+const catalog={...rawCatalog,byId:new Map(rawCatalog.structures.map(s=>[s.id,s]))};
 const manifest=JSON.parse(await readFile(new URL('../dist/data/models.json',import.meta.url)));
-const models=await Promise.all(manifest.map(m=>readFile(new URL('../dist/data/'+m.file,import.meta.url)).then(JSON.parse)));
+const models=await Promise.all(manifest.map(m=>readFile(new URL('../dist/data/'+m.file,import.meta.url)).then(JSON.parse).then(m=>hydrateModel(m,catalog,{original:true}))));
 test('all 34 guides retain every card, answer, tag and source order',async()=>{
  assert.equal(models.length,34);assert.equal(models.reduce((n,m)=>n+m.cards.length,0),6353);
  for(const [i,m] of models.entries()){

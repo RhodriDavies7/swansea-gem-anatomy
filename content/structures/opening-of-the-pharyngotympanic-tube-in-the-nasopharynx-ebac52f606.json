@@ -1,0 +1,113 @@
+{
+  "id": "opening-of-the-pharyngotympanic-tube-in-the-nasopharynx-ebac52f606",
+  "name": "Opening of the pharyngotympanic tube in the nasopharynx",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [],
+  "organs": [
+    "Ear"
+  ],
+  "tags": [
+    "Function",
+    "Location",
+    "MiddleEar",
+    "Opening"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-95b246444d",
+      "variants": [
+        {
+          "id": "v-95b246444d",
+          "answer": "Opening of the pharyngotympanic tube in the nasopharynx",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-132",
+              "sourceLine": 132
+            },
+            {
+              "modelId": "ear-model-ds3",
+              "cardId": "ear-model-ds3-34",
+              "sourceLine": 34
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-14b2351bb9",
+      "variants": [
+        {
+          "id": "v-14b2351bb9",
+          "answer": "Lateral wall of the nasopharynx.",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-133",
+              "sourceLine": 133
+            },
+            {
+              "modelId": "ear-model-ds3",
+              "cardId": "ear-model-ds3-35",
+              "sourceLine": 35
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-1ffc12ed71",
+      "variants": [
+        {
+          "id": "v-1ffc12ed71",
+          "answer": "Permits communication between the nasopharynx and middle ear to equalise pressure across the tympanic membrane.",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-134",
+              "sourceLine": 134
+            },
+            {
+              "modelId": "ear-model-ds3",
+              "cardId": "ear-model-ds3-36",
+              "sourceLine": 36
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "ear-largest-model-ds1",
+      "section": "C. Middle ear",
+      "path": [
+        "24"
+      ],
+      "label": "24"
+    },
+    {
+      "modelId": "ear-model-ds3",
+      "section": "B. Middle ear",
+      "path": [
+        "6"
+      ],
+      "label": "6"
+    }
+  ]
+}

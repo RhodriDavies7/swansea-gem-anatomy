@@ -1,0 +1,127 @@
+{
+  "id": "nipple-mammary-papilla-b6bd6abd0f",
+  "name": "Nipple (mammary papilla)",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Thorax"
+  ],
+  "systems": [],
+  "organs": [
+    "Breast"
+  ],
+  "tags": [
+    "Function",
+    "Innervation",
+    "Relations",
+    "Structure",
+    "SurfaceAnatomy"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-22a5f3e216",
+      "variants": [
+        {
+          "id": "v-22a5f3e216",
+          "answer": "Nipple (mammary papilla)",
+          "sources": [
+            {
+              "modelId": "breast-model-ms7",
+              "cardId": "breast-model-ms7-32",
+              "sourceLine": 32
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-60cbc0fe7d",
+      "variants": [
+        {
+          "id": "v-60cbc0fe7d",
+          "answer": "Projecting central part of the breast containing openings of the lactiferous ducts.",
+          "sources": [
+            {
+              "modelId": "breast-model-ms7",
+              "cardId": "breast-model-ms7-33",
+              "sourceLine": 33
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-c6fe64acfe",
+      "variants": [
+        {
+          "id": "v-c6fe64acfe",
+          "answer": "Provides the outlet for milk during breastfeeding.",
+          "sources": [
+            {
+              "modelId": "breast-model-ms7",
+              "cardId": "breast-model-ms7-34",
+              "sourceLine": 34
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-7614b554e5",
+      "variants": [
+        {
+          "id": "v-7614b554e5",
+          "answer": "Rich sensory innervation, predominantly from anterior and lateral cutaneous branches of thoracic intercostal nerves, especially around T4.",
+          "sources": [
+            {
+              "modelId": "breast-model-ms7",
+              "cardId": "breast-model-ms7-35",
+              "sourceLine": 35
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-e7c4799bc4",
+      "variants": [
+        {
+          "id": "v-e7c4799bc4",
+          "answer": "Located centrally within the areola.",
+          "sources": [
+            {
+              "modelId": "breast-model-ms7",
+              "cardId": "breast-model-ms7-36",
+              "sourceLine": 36
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "breast-model-ms7",
+      "section": "",
+      "path": [
+        "6"
+      ],
+      "label": "6"
+    }
+  ]
+}

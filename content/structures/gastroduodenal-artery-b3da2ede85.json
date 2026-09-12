@@ -1,0 +1,150 @@
+{
+  "id": "gastroduodenal-artery-b3da2ede85",
+  "name": "Gastroduodenal artery",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Arteries"
+  ],
+  "regions": [
+    "Abdomen"
+  ],
+  "systems": [
+    "Cardiovascular",
+    "Digestive"
+  ],
+  "organs": [
+    "Pancreas"
+  ],
+  "tags": [
+    "Arteries",
+    "Artery",
+    "Branches",
+    "Clinical",
+    "Course",
+    "Origin",
+    "Supply"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-fa33e72f68",
+      "variants": [
+        {
+          "id": "v-fa33e72f68",
+          "answer": "Gastroduodenal artery",
+          "sources": [
+            {
+              "modelId": "pancreas-model-js11",
+              "cardId": "pancreas-model-js11-102",
+              "sourceLine": 102
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-ad245797eb",
+      "variants": [
+        {
+          "id": "v-ad245797eb",
+          "answer": "Usually arises from the common hepatic artery.",
+          "sources": [
+            {
+              "modelId": "pancreas-model-js11",
+              "cardId": "pancreas-model-js11-103",
+              "sourceLine": 103
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-f1e3903491",
+      "variants": [
+        {
+          "id": "v-f1e3903491",
+          "answer": "Descends posterior to the first part of the duodenum.",
+          "sources": [
+            {
+              "modelId": "pancreas-model-js11",
+              "cardId": "pancreas-model-js11-104",
+              "sourceLine": 104
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f578227926",
+      "question": "Branches",
+      "preferredVariantId": "v-8b33bf417e",
+      "variants": [
+        {
+          "id": "v-8b33bf417e",
+          "answer": "Gives superior pancreaticoduodenal and right gastro-omental arteries.",
+          "sources": [
+            {
+              "modelId": "pancreas-model-js11",
+              "cardId": "pancreas-model-js11-105",
+              "sourceLine": 105
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-222db0fc1c",
+      "question": "Supply",
+      "preferredVariantId": "v-3c165fa3f5",
+      "variants": [
+        {
+          "id": "v-3c165fa3f5",
+          "answer": "Supplies proximal duodenum, pancreatic head and part of stomach.",
+          "sources": [
+            {
+              "modelId": "pancreas-model-js11",
+              "cardId": "pancreas-model-js11-106",
+              "sourceLine": 106
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-b03737e3cd",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-0adb4d6071",
+      "variants": [
+        {
+          "id": "v-0adb4d6071",
+          "answer": "Posterior duodenal ulcers may erode this artery and cause major haemorrhage.",
+          "sources": [
+            {
+              "modelId": "pancreas-model-js11",
+              "cardId": "pancreas-model-js11-107",
+              "sourceLine": 107
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "pancreas-model-js11",
+      "section": "Arteries",
+      "path": [
+        "12"
+      ],
+      "label": "12"
+    }
+  ]
+}

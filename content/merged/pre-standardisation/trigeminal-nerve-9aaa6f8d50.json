@@ -1,0 +1,146 @@
+{
+  "id": "trigeminal-nerve-9aaa6f8d50",
+  "name": "Trigeminal nerve",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Nerves"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [],
+  "tags": [
+    "Course",
+    "Lesion",
+    "Motor",
+    "Nerve",
+    "Roots",
+    "Sensory"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-4cc4e88bb9",
+      "variants": [
+        {
+          "id": "v-4cc4e88bb9",
+          "answer": "Trigeminal nerve",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-149",
+              "sourceLine": 149
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-4d78ec7d11",
+      "question": "Roots",
+      "preferredVariantId": "v-2322fc10e3",
+      "variants": [
+        {
+          "id": "v-2322fc10e3",
+          "answer": "Large sensory root and smaller motor root emerging from the lateral pons.",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-150",
+              "sourceLine": 150
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-804e5719c1",
+      "variants": [
+        {
+          "id": "v-804e5719c1",
+          "answer": "Sensory root expands into the trigeminal ganglion; V1, V2 and V3 then leave the cranial cavity by different foramina.",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-151",
+              "sourceLine": 151
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c8b6915183",
+      "question": "Motor functions",
+      "preferredVariantId": "v-75ed1b73c8",
+      "variants": [
+        {
+          "id": "v-75ed1b73c8",
+          "answer": "Motor fibres travel with V3 to muscles of mastication and selected first-pharyngeal-arch muscles.",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-152",
+              "sourceLine": 152
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-a453254382",
+      "question": "Sensory functions",
+      "preferredVariantId": "v-70ec4568e7",
+      "variants": [
+        {
+          "id": "v-70ec4568e7",
+          "answer": "Major somatic sensory nerve of face, oral/nasal cavities, teeth, cornea and much of cranial dura.",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-153",
+              "sourceLine": 153
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-bc53d10c57",
+      "question": "Lesion",
+      "preferredVariantId": "v-8573805e9d",
+      "variants": [
+        {
+          "id": "v-8573805e9d",
+          "answer": "May cause ipsilateral facial sensory loss; motor root involvement causes weakness of mastication with the jaw deviating toward the side of the lesion on opening; the corneal reflex afferent limb may be impaired if V1 is involved.",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-154",
+              "sourceLine": 154
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "deep-face-model-bs8-1",
+      "section": "",
+      "path": [
+        "24"
+      ],
+      "label": "24"
+    }
+  ]
+}

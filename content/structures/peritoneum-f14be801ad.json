@@ -1,0 +1,305 @@
+{
+  "id": "peritoneum-f14be801ad",
+  "name": "Peritoneum",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Abdomen",
+    "Pelvis"
+  ],
+  "systems": [
+    "Digestive",
+    "Reproductive"
+  ],
+  "organs": [
+    "Stomach"
+  ],
+  "tags": [
+    "Definition",
+    "Function",
+    "GastricWall",
+    "Innervation",
+    "Layers",
+    "Relations",
+    "Serosa",
+    "SerousMembrane",
+    "Structure"
+  ],
+  "imageIds": [
+    "img-281f038962ac"
+  ],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-94e758d01f",
+      "variants": [
+        {
+          "id": "v-94e758d01f",
+          "answer": "Peritoneum",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-314",
+              "sourceLine": 314
+            },
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-190",
+              "sourceLine": 190
+            },
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-212",
+              "sourceLine": 212
+            },
+            {
+              "modelId": "stomach-model-ns15",
+              "cardId": "stomach-model-ns15-55",
+              "sourceLine": 55
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-bf1be2b7ad",
+      "question": "Definition",
+      "preferredVariantId": "v-4ef3324169",
+      "variants": [
+        {
+          "id": "v-4ef3324169",
+          "answer": "Serous membrane lining the abdominopelvic cavity and covering intraperitoneal viscera.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-315",
+              "sourceLine": 315
+            },
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-191",
+              "sourceLine": 191
+            },
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-213",
+              "sourceLine": 213
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f055f18aea",
+      "question": "Layers",
+      "preferredVariantId": "v-2bae3b4353",
+      "variants": [
+        {
+          "id": "v-2bae3b4353",
+          "answer": "Parietal peritoneum lines the wall; visceral peritoneum covers organs.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-316",
+              "sourceLine": 316
+            }
+          ]
+        },
+        {
+          "id": "v-79ddf806a3",
+          "answer": "Parietal peritoneum lines the body wall; visceral peritoneum covers organs.",
+          "sources": [
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-192",
+              "sourceLine": 192
+            },
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-214",
+              "sourceLine": 214
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "curated-001faa51ee",
+      "variants": [
+        {
+          "id": "v-ab1731a30e",
+          "answer": "Forms pelvic reflections including vesicouterine and rectouterine pouches.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-317",
+              "sourceLine": 317
+            }
+          ]
+        },
+        {
+          "id": "v-2cde01a909",
+          "answer": "In the female pelvis, reflects between bladder and uterus to form the vesicouterine pouch and between uterus and rectum to form the rectouterine pouch (pouch of Douglas).",
+          "sources": [
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-193",
+              "sourceLine": 193
+            }
+          ]
+        },
+        {
+          "id": "v-b2b07f7347",
+          "answer": "In the male pelvis, reflects from the bladder onto the rectum to form the rectovesical pouch.",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-215",
+              "sourceLine": 215
+            }
+          ]
+        },
+        {
+          "id": "curated-001faa51ee",
+          "answer": "Female pelvis: vesicouterine pouch between bladder and uterus; rectouterine pouch (pouch of Douglas) between uterus and rectum. Male pelvis: rectovesical pouch between bladder and rectum.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-317",
+              "sourceLine": 317
+            },
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-193",
+              "sourceLine": 193
+            },
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-215",
+              "sourceLine": 215
+            }
+          ],
+          "editorial": true
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-167a910e20",
+      "variants": [
+        {
+          "id": "v-167a910e20",
+          "answer": "Parietal peritoneum has somatic innervation and is pain-sensitive; visceral peritoneum carries visceral afferent fibres with autonomic nerves.",
+          "sources": [
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-194",
+              "sourceLine": 194
+            }
+          ]
+        },
+        {
+          "id": "v-3cb589ac8a",
+          "answer": "Parietal peritoneum has somatic innervation and is pain-sensitive; visceral peritoneum has autonomic visceral afferent innervation.",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-216",
+              "sourceLine": 216
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-92e120646a",
+      "variants": [
+        {
+          "id": "v-92e120646a",
+          "answer": "Visceral peritoneum forms the serosal covering of the stomach.",
+          "sources": [
+            {
+              "modelId": "stomach-model-ns15",
+              "cardId": "stomach-model-ns15-56",
+              "sourceLine": 56
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-e74afb6163",
+      "variants": [
+        {
+          "id": "v-e74afb6163",
+          "answer": "Provides a smooth lubricated surface allowing movement within the peritoneal cavity.",
+          "sources": [
+            {
+              "modelId": "stomach-model-ns15",
+              "cardId": "stomach-model-ns15-57",
+              "sourceLine": 57
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "female-pelvis-model-mo8",
+      "section": "",
+      "path": [
+        "47"
+      ],
+      "label": "47"
+    },
+    {
+      "modelId": "female-reproductive-system-model-ms1",
+      "section": "",
+      "path": [
+        "26"
+      ],
+      "label": "26"
+    },
+    {
+      "modelId": "male-reproductive-system-model-ms2",
+      "section": "",
+      "path": [
+        "23"
+      ],
+      "label": "23"
+    },
+    {
+      "modelId": "stomach-model-ns15",
+      "section": "Gastric wall and muscle layers",
+      "path": [
+        "10"
+      ],
+      "label": "10"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "id": "inferior-extensor-retinaculum-788b197f75",
+  "name": "Inferior extensor retinaculum",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [],
+  "organs": [],
+  "tags": [
+    "Attachments",
+    "Contents",
+    "Function",
+    "Ligaments",
+    "Retinaculum"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-07f37825ed",
+      "variants": [
+        {
+          "id": "v-07f37825ed",
+          "answer": "Inferior extensor retinaculum",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-237",
+              "sourceLine": 237
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6771ade6e8",
+      "question": "Attachments",
+      "preferredVariantId": "v-2643705c44",
+      "variants": [
+        {
+          "id": "v-2643705c44",
+          "answer": "Y-shaped thickening of deep fascia attached laterally to calcaneus and medially toward medial malleolus/plantar aponeurosis region.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-238",
+              "sourceLine": 238
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-2a805d4bbe",
+      "variants": [
+        {
+          "id": "v-2a805d4bbe",
+          "answer": "Holds anterior compartment extensor tendons close to the ankle and prevents bowstringing.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-239",
+              "sourceLine": 239
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f5cbdf6bfb",
+      "question": "Contents",
+      "preferredVariantId": "v-ec5c042b3f",
+      "variants": [
+        {
+          "id": "v-ec5c042b3f",
+          "answer": "Related to tendons of tibialis anterior, extensor hallucis longus, extensor digitorum longus and fibularis tertius, with anterior tibial/dorsalis pedis vessels and deep fibular nerve.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-240",
+              "sourceLine": 240
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "foot-model-ns9",
+      "section": "Ligaments of the ankle joint",
+      "path": [
+        "34"
+      ],
+      "label": "34"
+    }
+  ]
+}

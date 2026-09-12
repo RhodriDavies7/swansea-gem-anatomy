@@ -1,0 +1,148 @@
+{
+  "id": "optic-nerve-cn-ii-with-central-retinal-artery-and-vein-88b927793b",
+  "name": "Optic nerve (CN II) with central retinal artery and vein",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Nerves"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [
+    "Eye"
+  ],
+  "tags": [
+    "Contents",
+    "Course",
+    "Lesion",
+    "Nerve",
+    "Roots",
+    "Sensory"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-2aa4e05db0",
+      "variants": [
+        {
+          "id": "v-2aa4e05db0",
+          "answer": "Optic nerve (CN II) with central retinal artery and vein",
+          "sources": [
+            {
+              "modelId": "eyeball-model-cs7",
+              "cardId": "eyeball-model-cs7-100",
+              "sourceLine": 100
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-4d78ec7d11",
+      "question": "Roots",
+      "preferredVariantId": "v-afd7812719",
+      "variants": [
+        {
+          "id": "v-afd7812719",
+          "answer": "Optic nerve is formed by axons of retinal ganglion cells.",
+          "sources": [
+            {
+              "modelId": "eyeball-model-cs7",
+              "cardId": "eyeball-model-cs7-101",
+              "sourceLine": 101
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-121ab93034",
+      "variants": [
+        {
+          "id": "v-121ab93034",
+          "answer": "Leaves the posterior globe, passes through the optic canal and reaches the optic chiasm; central retinal vessels travel within the nerve.",
+          "sources": [
+            {
+              "modelId": "eyeball-model-cs7",
+              "cardId": "eyeball-model-cs7-102",
+              "sourceLine": 102
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-a453254382",
+      "question": "Sensory functions",
+      "preferredVariantId": "v-aba06331cc",
+      "variants": [
+        {
+          "id": "v-aba06331cc",
+          "answer": "Vision and afferent limb of the pupillary light reflex.",
+          "sources": [
+            {
+              "modelId": "eyeball-model-cs7",
+              "cardId": "eyeball-model-cs7-103",
+              "sourceLine": 103
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f5cbdf6bfb",
+      "question": "Contents",
+      "preferredVariantId": "v-65c92d77db",
+      "variants": [
+        {
+          "id": "v-65c92d77db",
+          "answer": "Central retinal artery and vein run within the optic nerve to and from the retina.",
+          "sources": [
+            {
+              "modelId": "eyeball-model-cs7",
+              "cardId": "eyeball-model-cs7-104",
+              "sourceLine": 104
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-bc53d10c57",
+      "question": "Lesion",
+      "preferredVariantId": "v-f6ae1a7d58",
+      "variants": [
+        {
+          "id": "v-f6ae1a7d58",
+          "answer": "Optic nerve lesion causes ipsilateral monocular visual loss and an afferent pupillary defect.",
+          "sources": [
+            {
+              "modelId": "eyeball-model-cs7",
+              "cardId": "eyeball-model-cs7-105",
+              "sourceLine": 105
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "eyeball-model-cs7",
+      "section": "",
+      "path": [
+        "16"
+      ],
+      "label": "16"
+    }
+  ]
+}

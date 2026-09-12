@@ -1,0 +1,68 @@
+{
+  "id": "missing-69f51fb7cb",
+  "name": "Missing",
+  "aliases": [],
+  "scope": "cranial-floor-model-bs1[\"\",[\"10\"]]",
+  "kind": "model-note",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [],
+  "organs": [],
+  "tags": [
+    "Missing",
+    "ModelNote"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-92185dc52f",
+      "variants": [
+        {
+          "id": "v-92185dc52f",
+          "answer": "Missing",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-59",
+              "sourceLine": 59
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-2c924e3088",
+      "question": "Note",
+      "preferredVariantId": "v-2a3499a805",
+      "variants": [
+        {
+          "id": "v-2a3499a805",
+          "answer": "No structure is provided for label 10 in the supplied guide.",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-60",
+              "sourceLine": 60
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "cranial-floor-model-bs1",
+      "section": "",
+      "path": [
+        "10"
+      ],
+      "label": "10"
+    }
+  ]
+}

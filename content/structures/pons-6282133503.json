@@ -1,0 +1,217 @@
+{
+  "id": "pons-6282133503",
+  "name": "Pons",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [],
+  "tags": [
+    "Brain",
+    "CNS",
+    "Function",
+    "Location",
+    "MidSagittal",
+    "MidlineStructures",
+    "NervousStructures"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-2db3a3f28e",
+      "variants": [
+        {
+          "id": "v-2db3a3f28e",
+          "answer": "Pons",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-250",
+              "sourceLine": 250
+            },
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-323",
+              "sourceLine": 323
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-101",
+              "sourceLine": 101
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-191",
+              "sourceLine": 191
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-606",
+              "sourceLine": 606
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-612424452f",
+      "variants": [
+        {
+          "id": "v-612424452f",
+          "answer": "Middle part of brainstem between midbrain and medulla.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-251",
+              "sourceLine": 251
+            }
+          ]
+        },
+        {
+          "id": "v-c43de59c98",
+          "answer": "Brainstem between midbrain and medulla.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-324",
+              "sourceLine": 324
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-192",
+              "sourceLine": 192
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-607",
+              "sourceLine": 607
+            }
+          ]
+        },
+        {
+          "id": "v-bf366d2e69",
+          "answer": "Middle brainstem between midbrain and medulla.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-102",
+              "sourceLine": 102
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-3317411dce",
+      "variants": [
+        {
+          "id": "v-3317411dce",
+          "answer": "Contains ascending/descending tracts and nuclei involved in facial sensation/movement, hearing, balance and respiratory modulation.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-252",
+              "sourceLine": 252
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-103",
+              "sourceLine": 103
+            }
+          ]
+        },
+        {
+          "id": "v-eb3710b2fe",
+          "answer": "Contains relay nuclei, cranial nerve nuclei and major tracts; contributes to respiratory control.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-325",
+              "sourceLine": 325
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-193",
+              "sourceLine": 193
+            }
+          ]
+        },
+        {
+          "id": "v-6259a60c4d",
+          "answer": "Contains relay nuclei, cranial nerve nuclei and major tracts.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-608",
+              "sourceLine": 608
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "coronal-and-mid-sagittal-head-mb20",
+      "section": "Nervous structures",
+      "path": [
+        "D"
+      ],
+      "label": "D"
+    },
+    {
+      "modelId": "coronal-and-mid-sagittal-head-mb20",
+      "section": "Other midline structures",
+      "path": [
+        "16"
+      ],
+      "label": "16"
+    },
+    {
+      "modelId": "half-head-and-neck-model-bs9",
+      "section": "Nervous structures",
+      "path": [
+        "D"
+      ],
+      "label": "D"
+    },
+    {
+      "modelId": "half-head-and-neck-model-bs9",
+      "section": "Other midline structures",
+      "path": [
+        "16"
+      ],
+      "label": "16"
+    },
+    {
+      "modelId": "head-and-neck-model-cs17-2",
+      "section": "Gross brain, meninges and venous structures (A–N)",
+      "path": [
+        "B"
+      ],
+      "label": "B"
+    }
+  ]
+}

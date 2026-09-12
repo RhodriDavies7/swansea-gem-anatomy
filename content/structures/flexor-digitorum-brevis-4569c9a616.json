@@ -1,0 +1,191 @@
+{
+  "id": "flexor-digitorum-brevis-4569c9a616",
+  "name": "Flexor digitorum brevis",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Muscles",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-16d520a645",
+      "variants": [
+        {
+          "id": "v-16d520a645",
+          "answer": "Flexor digitorum brevis",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-179",
+              "sourceLine": 179
+            },
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-281",
+              "sourceLine": 281
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-e53bcb4045",
+      "variants": [
+        {
+          "id": "v-fd3c9cea9d",
+          "answer": "Flexes toes 2–5 at proximal interphalangeal joints.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-180",
+              "sourceLine": 180
+            }
+          ]
+        },
+        {
+          "id": "v-e53bcb4045",
+          "answer": "Flexes toes 2–5 at proximal interphalangeal joints and assists metatarsophalangeal flexion; supports longitudinal arches.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-282",
+              "sourceLine": 282
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-c53fadca30",
+      "variants": [
+        {
+          "id": "v-c53fadca30",
+          "answer": "Medial plantar nerve (S2–S3).",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-181",
+              "sourceLine": 181
+            },
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-283",
+              "sourceLine": 283
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-c7cbfdab16",
+      "variants": [
+        {
+          "id": "v-c7cbfdab16",
+          "answer": "Medial calcaneal tubercle and plantar aponeurosis.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-182",
+              "sourceLine": 182
+            }
+          ]
+        },
+        {
+          "id": "v-07635e258e",
+          "answer": "Medial process of calcaneal tuberosity and plantar aponeurosis.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-284",
+              "sourceLine": 284
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-be6b39ad89",
+      "variants": [
+        {
+          "id": "v-61787d8ee5",
+          "answer": "Sides of middle phalanges of toes 2–5.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-183",
+              "sourceLine": 183
+            }
+          ]
+        },
+        {
+          "id": "v-be6b39ad89",
+          "answer": "Both sides of middle phalanges of toes 2–5; each tendon splits around a flexor digitorum longus tendon.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-285",
+              "sourceLine": 285
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "foot-model-ns9",
+      "section": "Muscles",
+      "path": [
+        "27"
+      ],
+      "label": "27"
+    },
+    {
+      "modelId": "lower-limb-model-ns10",
+      "section": "Muscles",
+      "path": [
+        "36"
+      ],
+      "label": "36"
+    }
+  ]
+}

@@ -1,0 +1,318 @@
+{
+  "id": "facial-nerve-cn-vii-69c5a43599",
+  "name": "Facial nerve (CN VII)",
+  "aliases": [
+    "Facial nerve"
+  ],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Nerves"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [],
+  "tags": [
+    "Brain",
+    "Course",
+    "Lesion",
+    "Motor",
+    "Nerve",
+    "Roots",
+    "Sensory",
+    "BloodVesselsAndNerves"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-38579fbefb",
+      "variants": [
+        {
+          "id": "v-38579fbefb",
+          "answer": "Facial nerve (CN VII)",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-222",
+              "sourceLine": 222
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-781",
+              "sourceLine": 781
+            }
+          ]
+        },
+        {
+          "id": "v-624320b5d4",
+          "answer": "Facial nerve",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-693",
+              "sourceLine": 693
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-4d78ec7d11",
+      "question": "Roots",
+      "preferredVariantId": "curated-20d3756adc",
+      "variants": [
+        {
+          "id": "v-06844bc778",
+          "answer": "Motor nucleus of facial nerve in pons, with sensory/parasympathetic fibres travelling in nervus intermedius.",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-223",
+              "sourceLine": 223
+            }
+          ]
+        },
+        {
+          "id": "v-f02b978e43",
+          "answer": "Motor root and nervus intermedius emerge at pontomedullary junction.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-782",
+              "sourceLine": 782
+            }
+          ]
+        },
+        {
+          "id": "curated-20d3756adc",
+          "answer": "Motor nucleus in the pons. The motor root and nervus intermedius (sensory and parasympathetic fibres) emerge at the pontomedullary junction.",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-223",
+              "sourceLine": 223
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-782",
+              "sourceLine": 782
+            }
+          ],
+          "editorial": true
+        },
+        {
+          "id": "v-59381d05f8",
+          "answer": "Motor nucleus in pons with sensory/parasympathetic fibres in nervus intermedius.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-694",
+              "sourceLine": 694
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-4ebb6c6d49",
+      "variants": [
+        {
+          "id": "v-4ebb6c6d49",
+          "answer": "Enters internal acoustic meatus, traverses facial canal, exits stylomastoid foramen and branches within parotid gland.",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-224",
+              "sourceLine": 224
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-783",
+              "sourceLine": 783
+            }
+          ]
+        },
+        {
+          "id": "v-2afb720884",
+          "answer": "Enters internal acoustic meatus, traverses facial canal, exits stylomastoid foramen and branches in parotid gland.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-695",
+              "sourceLine": 695
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-c8b6915183",
+      "question": "Motor functions",
+      "preferredVariantId": "v-e40d0cc7b0",
+      "variants": [
+        {
+          "id": "v-e40d0cc7b0",
+          "answer": "Muscles of facial expression, stapedius, stylohyoid and posterior belly of digastric.",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-225",
+              "sourceLine": 225
+            }
+          ]
+        },
+        {
+          "id": "v-a88b902578",
+          "answer": "Supplies muscles of facial expression, stapedius, stylohyoid and posterior belly of digastric.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-784",
+              "sourceLine": 784
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-696",
+              "sourceLine": 696
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-a453254382",
+      "question": "Sensory functions",
+      "preferredVariantId": "v-1ece56e971",
+      "variants": [
+        {
+          "id": "v-1ece56e971",
+          "answer": "Taste from anterior two-thirds of tongue; small somatic sensory component from external ear.",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-226",
+              "sourceLine": 226
+            }
+          ]
+        },
+        {
+          "id": "v-83ef0eda99",
+          "answer": "Taste from anterior two-thirds of tongue and small somatic sensory component; also carries parasympathetic fibres.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-785",
+              "sourceLine": 785
+            }
+          ]
+        },
+        {
+          "id": "v-8034ed3006",
+          "answer": "Taste from anterior two-thirds of tongue; small external-ear sensory component.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-697",
+              "sourceLine": 697
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-bc53d10c57",
+      "question": "Lesion",
+      "preferredVariantId": "v-c345787c3b",
+      "variants": [
+        {
+          "id": "v-b1c6e61dbf",
+          "answer": "Lower motor neuron lesion causes ipsilateral weakness of upper and lower facial muscles; other deficits depend on lesion level.",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-227",
+              "sourceLine": 227
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-698",
+              "sourceLine": 698
+            }
+          ]
+        },
+        {
+          "id": "v-c345787c3b",
+          "answer": "A lower motor neuron lesion causes ipsilateral weakness of upper and lower facial muscles; taste, lacrimal or salivary deficits depend on lesion level.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-786",
+              "sourceLine": 786
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "cranial-floor-model-bs1",
+      "section": "",
+      "path": [
+        "35"
+      ],
+      "label": "35"
+    },
+    {
+      "modelId": "head-and-neck-model-cs17-2",
+      "section": "Internal brain structures and cranial nerves (1–26)",
+      "path": [
+        "21"
+      ],
+      "label": "21"
+    },
+    {
+      "modelId": "half-head-and-neck-model-bs9",
+      "section": "Blood vessels and nerves",
+      "path": [
+        "66"
+      ],
+      "label": "66"
+    }
+  ],
+  "redirectIds": [
+    "facial-nerve-8e01b4bcfa"
+  ]
+}

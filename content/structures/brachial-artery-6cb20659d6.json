@@ -1,0 +1,146 @@
+{
+  "id": "brachial-artery-6cb20659d6",
+  "name": "Brachial artery",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Arteries"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [
+    "Cardiovascular"
+  ],
+  "organs": [],
+  "tags": [
+    "Artery",
+    "Branches",
+    "Course",
+    "Origin",
+    "Relations",
+    "Supply"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-74eef908ff",
+      "variants": [
+        {
+          "id": "v-74eef908ff",
+          "answer": "Brachial artery",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-301",
+              "sourceLine": 301
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-91e18eb49e",
+      "variants": [
+        {
+          "id": "v-91e18eb49e",
+          "answer": "Continuation of axillary artery at inferior border of teres major.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-302",
+              "sourceLine": 302
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-b5e9892945",
+      "variants": [
+        {
+          "id": "v-b5e9892945",
+          "answer": "Descends medial arm, enters cubital fossa and usually divides opposite neck of radius into radial and ulnar arteries.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-303",
+              "sourceLine": 303
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f578227926",
+      "question": "Branches",
+      "preferredVariantId": "v-90af3be10e",
+      "variants": [
+        {
+          "id": "v-90af3be10e",
+          "answer": "Profunda brachii, superior and inferior ulnar collateral, muscular and nutrient branches.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-304",
+              "sourceLine": 304
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-222db0fc1c",
+      "question": "Supply",
+      "preferredVariantId": "v-1dbe6bac3d",
+      "variants": [
+        {
+          "id": "v-1dbe6bac3d",
+          "answer": "Main arterial supply to arm and source of forearm arteries.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-305",
+              "sourceLine": 305
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-3a0b42654f",
+      "variants": [
+        {
+          "id": "v-3a0b42654f",
+          "answer": "Median nerve crosses from lateral to medial side; brachial pulse and blood pressure are assessed near cubital fossa.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-306",
+              "sourceLine": 306
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "upper-limb-model-ns15",
+      "section": "Arteries",
+      "path": [
+        "49"
+      ],
+      "label": "49"
+    }
+  ]
+}

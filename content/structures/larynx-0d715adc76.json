@@ -1,0 +1,150 @@
+{
+  "id": "larynx-0d715adc76",
+  "name": "Larynx",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Organs"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Respiratory"
+  ],
+  "organs": [
+    "Larynx"
+  ],
+  "tags": [
+    "Function",
+    "Location",
+    "MajorOrgans",
+    "MidSagittal",
+    "MidlineStructures",
+    "Organ"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-183a0a9c2c",
+      "variants": [
+        {
+          "id": "v-183a0a9c2c",
+          "answer": "Larynx",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-356",
+              "sourceLine": 356
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-232",
+              "sourceLine": 232
+            },
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-3",
+              "sourceLine": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-1a03ab7715",
+      "variants": [
+        {
+          "id": "v-1a03ab7715",
+          "answer": "Maintains airway, protects lower respiratory tract during swallowing and produces phonation.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-357",
+              "sourceLine": 357
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-233",
+              "sourceLine": 233
+            }
+          ]
+        },
+        {
+          "id": "v-5ee51b43dc",
+          "answer": "Maintains the airway, protects the lower respiratory tract during swallowing and produces phonation.",
+          "sources": [
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-4",
+              "sourceLine": 4
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-41ec874a67",
+      "variants": [
+        {
+          "id": "v-41ec874a67",
+          "answer": "Anterior neck between pharynx and trachea, approximately C3–C6.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-358",
+              "sourceLine": 358
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-234",
+              "sourceLine": 234
+            },
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-5",
+              "sourceLine": 5
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "coronal-and-mid-sagittal-head-mb20",
+      "section": "Other midline structures",
+      "path": [
+        "23"
+      ],
+      "label": "23"
+    },
+    {
+      "modelId": "half-head-and-neck-model-bs9",
+      "section": "Other midline structures",
+      "path": [
+        "23"
+      ],
+      "label": "23"
+    },
+    {
+      "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+      "section": "Major organs and regions (A–G)",
+      "path": [
+        "A"
+      ],
+      "label": "A"
+    }
+  ]
+}

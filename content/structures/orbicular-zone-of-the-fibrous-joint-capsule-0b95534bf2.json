@@ -1,0 +1,107 @@
+{
+  "id": "orbicular-zone-of-the-fibrous-joint-capsule-0b95534bf2",
+  "name": "Orbicular zone of the fibrous joint capsule",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [],
+  "organs": [],
+  "tags": [
+    "Capsule",
+    "Function",
+    "LigamentsAndJoint",
+    "Relations",
+    "Structure"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-325d0e129b",
+      "variants": [
+        {
+          "id": "v-325d0e129b",
+          "answer": "Orbicular zone of the fibrous joint capsule",
+          "sources": [
+            {
+              "modelId": "hip-joint-model-ns20",
+              "cardId": "hip-joint-model-ns20-67",
+              "sourceLine": 67
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-4d8aac21fc",
+      "variants": [
+        {
+          "id": "v-4d8aac21fc",
+          "answer": "Circular fibres of the fibrous capsule that encircle the femoral neck.",
+          "sources": [
+            {
+              "modelId": "hip-joint-model-ns20",
+              "cardId": "hip-joint-model-ns20-68",
+              "sourceLine": 68
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-1c03191db0",
+      "variants": [
+        {
+          "id": "v-1c03191db0",
+          "answer": "Helps retain the femoral head within the acetabulum and resists distraction.",
+          "sources": [
+            {
+              "modelId": "hip-joint-model-ns20",
+              "cardId": "hip-joint-model-ns20-69",
+              "sourceLine": 69
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-079bd1830c",
+      "variants": [
+        {
+          "id": "v-079bd1830c",
+          "answer": "Deep circular component of the hip-joint capsule.",
+          "sources": [
+            {
+              "modelId": "hip-joint-model-ns20",
+              "cardId": "hip-joint-model-ns20-70",
+              "sourceLine": 70
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "hip-joint-model-ns20",
+      "section": "Ligaments and joint structures",
+      "path": [
+        "7"
+      ],
+      "label": "7"
+    }
+  ]
+}

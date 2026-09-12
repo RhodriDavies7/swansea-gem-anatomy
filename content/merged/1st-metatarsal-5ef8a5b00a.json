@@ -1,0 +1,109 @@
+{
+  "id": "1st-metatarsal-5ef8a5b00a",
+  "name": "1st metatarsal",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Bones"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Articulations",
+    "Bone",
+    "Bones",
+    "Landmarks",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-e4ac9299f6",
+      "variants": [
+        {
+          "id": "v-e4ac9299f6",
+          "answer": "1st metatarsal",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-48",
+              "sourceLine": 48
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-a40bee8d10",
+      "question": "Articulations",
+      "preferredVariantId": "v-10dfdd2886",
+      "variants": [
+        {
+          "id": "v-10dfdd2886",
+          "answer": "Articulates proximally with medial cuneiform and distally with proximal phalanx of hallux.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-49",
+              "sourceLine": 49
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-626b6c1d45",
+      "question": "Landmarks",
+      "preferredVariantId": "v-5cf77aa481",
+      "variants": [
+        {
+          "id": "v-5cf77aa481",
+          "answer": "Base, shaft and head; head has grooves for sesamoid bones.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-50",
+              "sourceLine": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-bc16b5517f",
+      "variants": [
+        {
+          "id": "v-bc16b5517f",
+          "answer": "Forms the medial forefoot and contributes to the medial longitudinal arch.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-51",
+              "sourceLine": 51
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "foot-model-ns9",
+      "section": "Bones",
+      "path": [
+        "8"
+      ],
+      "label": "8"
+    }
+  ]
+}

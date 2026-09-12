@@ -1,0 +1,253 @@
+{
+  "id": "superior-laryngeal-artery-b8f26453af",
+  "name": "Superior laryngeal artery",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Arteries"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Cardiovascular",
+    "Respiratory"
+  ],
+  "organs": [
+    "Larynx"
+  ],
+  "tags": [
+    "ArteriesAndNerves",
+    "Artery",
+    "Branches",
+    "Course",
+    "HeadNeck",
+    "Larynx",
+    "Origin",
+    "Supply"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-7939662966",
+      "variants": [
+        {
+          "id": "v-7939662966",
+          "answer": "Superior laryngeal artery",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-414",
+              "sourceLine": 414
+            },
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-202",
+              "sourceLine": 202
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-202",
+              "sourceLine": 202
+            },
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-133",
+              "sourceLine": 133
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-785c200184",
+      "variants": [
+        {
+          "id": "v-785c200184",
+          "answer": "Usually branch of superior thyroid artery.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-415",
+              "sourceLine": 415
+            }
+          ]
+        },
+        {
+          "id": "v-476e484738",
+          "answer": "Usually a branch of the superior thyroid artery.",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-203",
+              "sourceLine": 203
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-203",
+              "sourceLine": 203
+            },
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-134",
+              "sourceLine": 134
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-644af31dba",
+      "variants": [
+        {
+          "id": "v-644af31dba",
+          "answer": "Pierces thyrohyoid membrane with internal laryngeal nerve.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-416",
+              "sourceLine": 416
+            }
+          ]
+        },
+        {
+          "id": "v-249611ee72",
+          "answer": "Pierces the thyrohyoid membrane with the internal laryngeal nerve.",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-204",
+              "sourceLine": 204
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-204",
+              "sourceLine": 204
+            },
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-135",
+              "sourceLine": 135
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-f578227926",
+      "question": "Branches",
+      "preferredVariantId": "v-b5843e2d92",
+      "variants": [
+        {
+          "id": "v-b5843e2d92",
+          "answer": "Laryngeal branches.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-417",
+              "sourceLine": 417
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-222db0fc1c",
+      "question": "Supply",
+      "preferredVariantId": "v-679d6eb7dd",
+      "variants": [
+        {
+          "id": "v-c67975cefa",
+          "answer": "Upper larynx.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-418",
+              "sourceLine": 418
+            }
+          ]
+        },
+        {
+          "id": "v-545da125ee",
+          "answer": "Supplies the upper laryngeal mucosa and structures.",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-205",
+              "sourceLine": 205
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-205",
+              "sourceLine": 205
+            }
+          ]
+        },
+        {
+          "id": "v-679d6eb7dd",
+          "answer": "Upper laryngeal mucosa and structures.",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-136",
+              "sourceLine": 136
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "head-and-neck-model-cs17-2",
+      "section": "Arteries",
+      "path": [
+        "65"
+      ],
+      "label": "65"
+    },
+    {
+      "modelId": "larynx-model-gs7",
+      "section": "Arteries and nerves",
+      "path": [
+        "25"
+      ],
+      "label": "25"
+    },
+    {
+      "modelId": "larynx-and-airway-model-gs5",
+      "section": "Arteries and nerves",
+      "path": [
+        "25"
+      ],
+      "label": "25"
+    },
+    {
+      "modelId": "larynx-and-tongue-model-gs4",
+      "section": "Larynx",
+      "path": [
+        "21"
+      ],
+      "label": "21"
+    }
+  ]
+}

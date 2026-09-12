@@ -1,0 +1,146 @@
+{
+  "id": "superficial-branch-of-the-radial-nerve-c491647847",
+  "name": "Superficial branch of the radial nerve",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Nerves"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [],
+  "tags": [
+    "Course",
+    "Lesion",
+    "Motor",
+    "Nerve",
+    "Roots",
+    "Sensory"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-5f6d2f0b33",
+      "variants": [
+        {
+          "id": "v-5f6d2f0b33",
+          "answer": "Superficial branch of the radial nerve",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-519",
+              "sourceLine": 519
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-4d78ec7d11",
+      "question": "Roots",
+      "preferredVariantId": "v-f804bb60d8",
+      "variants": [
+        {
+          "id": "v-f804bb60d8",
+          "answer": "C6–C8 fibres from radial nerve.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-520",
+              "sourceLine": 520
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-2dc8ef796f",
+      "variants": [
+        {
+          "id": "v-2dc8ef796f",
+          "answer": "Descends under brachioradialis with radial artery, becomes superficial in distal forearm and crosses to dorsolateral hand.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-521",
+              "sourceLine": 521
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c8b6915183",
+      "question": "Motor functions",
+      "preferredVariantId": "v-8c23b4988d",
+      "variants": [
+        {
+          "id": "v-8c23b4988d",
+          "answer": "None; purely sensory terminal branch.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-522",
+              "sourceLine": 522
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-a453254382",
+      "question": "Sensory functions",
+      "preferredVariantId": "v-31dd24cdeb",
+      "variants": [
+        {
+          "id": "v-31dd24cdeb",
+          "answer": "Dorsolateral hand and proximal dorsal surfaces of lateral digits, usually excluding fingertips/nail beds.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-523",
+              "sourceLine": 523
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-bc53d10c57",
+      "question": "Lesion",
+      "preferredVariantId": "v-81be1cbdfa",
+      "variants": [
+        {
+          "id": "v-81be1cbdfa",
+          "answer": "Produces numbness or neuropathic pain over dorsolateral hand without motor weakness.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-524",
+              "sourceLine": 524
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "upper-limb-model-ns15",
+      "section": "Nerves",
+      "path": [
+        "81"
+      ],
+      "label": "81"
+    }
+  ]
+}

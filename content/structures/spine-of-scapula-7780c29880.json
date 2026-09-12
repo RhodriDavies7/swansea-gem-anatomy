@@ -1,0 +1,215 @@
+{
+  "id": "spine-of-scapula-7780c29880",
+  "name": "Spine of scapula",
+  "aliases": [
+    "Spine of the scapula"
+  ],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Bones"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Attachments",
+    "Bone",
+    "BonyLandmark",
+    "Clinical",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-cce2d47cfa",
+      "variants": [
+        {
+          "id": "v-cce2d47cfa",
+          "answer": "Spine of scapula",
+          "sources": [
+            {
+              "modelId": "deep-shoulder-model-ns17",
+              "cardId": "deep-shoulder-model-ns17-16",
+              "sourceLine": 16
+            }
+          ]
+        },
+        {
+          "id": "v-3fa7375d17",
+          "answer": "Spine of the scapula",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-534",
+              "sourceLine": 534
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-bcf605d6bb",
+      "question": "Bone",
+      "preferredVariantId": "v-8b89fc5935",
+      "variants": [
+        {
+          "id": "v-8b89fc5935",
+          "answer": "Scapula.",
+          "sources": [
+            {
+              "modelId": "deep-shoulder-model-ns17",
+              "cardId": "deep-shoulder-model-ns17-17",
+              "sourceLine": 17
+            }
+          ]
+        },
+        {
+          "id": "v-f41dd8f8ec",
+          "answer": "Posterior scapula.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-535",
+              "sourceLine": 535
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-6771ade6e8",
+      "question": "Attachments",
+      "preferredVariantId": "v-49c7358f94",
+      "variants": [
+        {
+          "id": "v-49c7358f94",
+          "answer": "Trapezius attaches to the superior lip and deltoid to the inferior lip.",
+          "sources": [
+            {
+              "modelId": "deep-shoulder-model-ns17",
+              "cardId": "deep-shoulder-model-ns17-18",
+              "sourceLine": 18
+            }
+          ]
+        },
+        {
+          "id": "v-4add60e183",
+          "answer": "Trapezius attaches superiorly and deltoid inferiorly; both continue onto acromion.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-536",
+              "sourceLine": 536
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-0e7da4c909",
+      "variants": [
+        {
+          "id": "v-0e7da4c909",
+          "answer": "Divides supraspinous and infraspinous fossae and expands laterally into the acromion.",
+          "sources": [
+            {
+              "modelId": "deep-shoulder-model-ns17",
+              "cardId": "deep-shoulder-model-ns17-19",
+              "sourceLine": 19
+            }
+          ]
+        },
+        {
+          "id": "v-7ac6b396be",
+          "answer": "Separates supraspinous and infraspinous fossae and expands laterally into acromion.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-537",
+              "sourceLine": 537
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-b03737e3cd",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-d8aa2017fc",
+      "variants": [
+        {
+          "id": "v-d8aa2017fc",
+          "answer": "Palpable posterior landmark useful for orienting the scapula.",
+          "sources": [
+            {
+              "modelId": "deep-shoulder-model-ns17",
+              "cardId": "deep-shoulder-model-ns17-20",
+              "sourceLine": 20
+            }
+          ]
+        },
+        {
+          "id": "v-58ab85a051",
+          "answer": "Palpable posterior landmark used to orient the scapula and identify the approximate T3 vertebral level medially.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-538",
+              "sourceLine": 538
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "deep-shoulder-model-ns17",
+      "section": "",
+      "path": [
+        "3"
+      ],
+      "label": "3"
+    },
+    {
+      "modelId": "upper-limb-model-ns15",
+      "section": "Bones",
+      "path": [
+        "83"
+      ],
+      "label": "83"
+    }
+  ],
+  "redirectIds": [
+    "spine-of-the-scapula-097871eed3"
+  ]
+}

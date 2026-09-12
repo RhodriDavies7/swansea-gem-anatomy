@@ -1,0 +1,107 @@
+{
+  "id": "scalp-b319c18648",
+  "name": "Scalp",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [],
+  "organs": [],
+  "tags": [
+    "Clinical",
+    "Coronal",
+    "Function",
+    "Layers",
+    "SoftTissue"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-6987762d26",
+      "variants": [
+        {
+          "id": "v-6987762d26",
+          "answer": "Scalp",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-3",
+              "sourceLine": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f055f18aea",
+      "question": "Layers",
+      "preferredVariantId": "v-09ec2d69a0",
+      "variants": [
+        {
+          "id": "v-09ec2d69a0",
+          "answer": "Skin, dense connective tissue, aponeurosis, loose areolar tissue and pericranium (SCALP).",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-4",
+              "sourceLine": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-73ead9ed18",
+      "variants": [
+        {
+          "id": "v-73ead9ed18",
+          "answer": "Protects the calvaria and contains vessels, nerves, hair follicles and connective tissues.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-5",
+              "sourceLine": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-b03737e3cd",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-0264d0e2c8",
+      "variants": [
+        {
+          "id": "v-0264d0e2c8",
+          "answer": "Loose areolar tissue is the 'danger area' because infection or blood can spread widely and communicate with intracranial venous channels.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-6",
+              "sourceLine": 6
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "coronal-and-mid-sagittal-head-mb20",
+      "section": "Coronal head",
+      "path": [
+        "1"
+      ],
+      "label": "1"
+    }
+  ]
+}

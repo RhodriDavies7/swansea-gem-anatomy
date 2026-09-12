@@ -1,0 +1,171 @@
+{
+  "id": "pubic-bone-9ac5e85192",
+  "name": "Pubic bone",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Bones"
+  ],
+  "regions": [
+    "Pelvis"
+  ],
+  "systems": [
+    "Musculoskeletal",
+    "Reproductive"
+  ],
+  "organs": [],
+  "tags": [
+    "Articulations",
+    "Attachments",
+    "Bone",
+    "Landmarks",
+    "Orientation"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-e39bb5682a",
+      "variants": [
+        {
+          "id": "v-e39bb5682a",
+          "answer": "Pubic bone",
+          "sources": [
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-2",
+              "sourceLine": 2
+            },
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-2",
+              "sourceLine": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-a40bee8d10",
+      "question": "Articulations",
+      "preferredVariantId": "v-531d26c902",
+      "variants": [
+        {
+          "id": "v-531d26c902",
+          "answer": "Articulates with the opposite pubis at the pubic symphysis; joins the ilium and ischium within the hip bone and contributes to the acetabulum.",
+          "sources": [
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-3",
+              "sourceLine": 3
+            }
+          ]
+        },
+        {
+          "id": "v-cd843f3f31",
+          "answer": "Articulates with the opposite pubis at the pubic symphysis; joins ilium and ischium within the hip bone and contributes to the acetabulum.",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-3",
+              "sourceLine": 3
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-626b6c1d45",
+      "question": "Landmarks",
+      "preferredVariantId": "v-bf4670430c",
+      "variants": [
+        {
+          "id": "v-bf4670430c",
+          "answer": "Body, superior ramus, inferior ramus, pubic crest, pubic tubercle, pecten pubis and obturator groove.",
+          "sources": [
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-4",
+              "sourceLine": 4
+            },
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-4",
+              "sourceLine": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-2389607e0b",
+      "question": "Muscle attachments",
+      "preferredVariantId": "v-3996054970",
+      "variants": [
+        {
+          "id": "v-3996054970",
+          "answer": "Pectineus, adductor longus, adductor brevis, gracilis and part of adductor magnus attach to the pubis; rectus abdominis attaches near the pubic crest/symphysis.",
+          "sources": [
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-5",
+              "sourceLine": 5
+            },
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-5",
+              "sourceLine": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-86e4e38754",
+      "question": "Orientation",
+      "preferredVariantId": "v-6406bd91e1",
+      "variants": [
+        {
+          "id": "v-6406bd91e1",
+          "answer": "Symphyseal surface faces medially; body lies anteriorly; superior ramus lies above the obturator foramen.",
+          "sources": [
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-6",
+              "sourceLine": 6
+            },
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-6",
+              "sourceLine": 6
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "female-reproductive-system-model-ms1",
+      "section": "",
+      "path": [
+        "1"
+      ],
+      "label": "1"
+    },
+    {
+      "modelId": "male-reproductive-system-model-ms2",
+      "section": "",
+      "path": [
+        "1"
+      ],
+      "label": "1"
+    }
+  ]
+}

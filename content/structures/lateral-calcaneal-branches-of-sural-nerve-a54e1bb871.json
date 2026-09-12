@@ -1,0 +1,128 @@
+{
+  "id": "lateral-calcaneal-branches-of-sural-nerve-a54e1bb871",
+  "name": "Lateral calcaneal branches of sural nerve",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Nerves"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [],
+  "tags": [
+    "ArteriesAndNerves",
+    "Lesion",
+    "Nerve",
+    "Origin",
+    "Relations",
+    "Sensory"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-255180ad76",
+      "variants": [
+        {
+          "id": "v-255180ad76",
+          "answer": "Lateral calcaneal branches of sural nerve",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-316",
+              "sourceLine": 316
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-5e91ec3b2e",
+      "variants": [
+        {
+          "id": "v-5e91ec3b2e",
+          "answer": "Cutaneous branches of the sural nerve.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-317",
+              "sourceLine": 317
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-a453254382",
+      "question": "Sensory functions",
+      "preferredVariantId": "v-bc14518ab4",
+      "variants": [
+        {
+          "id": "v-bc14518ab4",
+          "answer": "Supply skin over lateral heel.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-318",
+              "sourceLine": 318
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-bc53d10c57",
+      "question": "Lesion",
+      "preferredVariantId": "v-31536c4ad1",
+      "variants": [
+        {
+          "id": "v-31536c4ad1",
+          "answer": "Causes numbness or altered sensation over the lateral heel.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-319",
+              "sourceLine": 319
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-dbc8dc2cd1",
+      "variants": [
+        {
+          "id": "v-dbc8dc2cd1",
+          "answer": "Arise near the lateral ankle/heel region.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-320",
+              "sourceLine": 320
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "foot-model-ns9",
+      "section": "Arteries and nerves",
+      "path": [
+        "46"
+      ],
+      "label": "46"
+    }
+  ]
+}

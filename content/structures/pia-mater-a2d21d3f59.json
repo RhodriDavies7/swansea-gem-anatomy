@@ -1,0 +1,90 @@
+{
+  "id": "pia-mater-a2d21d3f59",
+  "name": "Pia mater",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [],
+  "tags": [
+    "Brain",
+    "Function",
+    "Meninges",
+    "Structure"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-19130943f1",
+      "variants": [
+        {
+          "id": "v-19130943f1",
+          "answer": "Pia mater",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-640",
+              "sourceLine": 640
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-62cf926d69",
+      "variants": [
+        {
+          "id": "v-62cf926d69",
+          "answer": "Thin vascular meningeal layer closely adherent to brain surface.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-641",
+              "sourceLine": 641
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-db240f5ef4",
+      "variants": [
+        {
+          "id": "v-db240f5ef4",
+          "answer": "Covers CNS surface and follows sulci.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-642",
+              "sourceLine": 642
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "head-and-neck-model-cs17-2",
+      "section": "Gross brain, meninges and venous structures (A–N)",
+      "path": [
+        "J"
+      ],
+      "label": "J"
+    }
+  ]
+}

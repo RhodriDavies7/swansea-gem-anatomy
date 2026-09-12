@@ -1,0 +1,127 @@
+{
+  "id": "corpus-spongiosum-7fb5d3ee4d",
+  "name": "Corpus spongiosum",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Pelvis"
+  ],
+  "systems": [
+    "Reproductive"
+  ],
+  "organs": [],
+  "tags": [
+    "BloodSupply",
+    "ErectileTissue",
+    "Extent",
+    "Function",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-920fc7d417",
+      "variants": [
+        {
+          "id": "v-920fc7d417",
+          "answer": "Corpus spongiosum",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-104",
+              "sourceLine": 104
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-fa21ff4af2",
+      "variants": [
+        {
+          "id": "v-fa21ff4af2",
+          "answer": "Surrounds and supports the spongy urethra while remaining sufficiently pliable to maintain urethral patency during erection.",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-105",
+              "sourceLine": 105
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-71a1260f76",
+      "question": "Extent",
+      "preferredVariantId": "v-261579787c",
+      "variants": [
+        {
+          "id": "v-261579787c",
+          "answer": "Begins proximally as the bulb of the penis and expands distally to form the glans penis.",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-106",
+              "sourceLine": 106
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-ccb34469b8",
+      "variants": [
+        {
+          "id": "v-ccb34469b8",
+          "answer": "Lies in the ventral midline of the penis, inferior to the paired corpora cavernosa.",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-107",
+              "sourceLine": 107
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-a707f7e176",
+      "question": "Blood supply",
+      "preferredVariantId": "v-728560e9cb",
+      "variants": [
+        {
+          "id": "v-728560e9cb",
+          "answer": "Branches of the internal pudendal artery, especially the artery of the bulb and urethral artery.",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-108",
+              "sourceLine": 108
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "male-reproductive-system-model-ms2",
+      "section": "",
+      "path": [
+        "10"
+      ],
+      "label": "10"
+    }
+  ]
+}

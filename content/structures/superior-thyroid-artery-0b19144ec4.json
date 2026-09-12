@@ -1,0 +1,343 @@
+{
+  "id": "superior-thyroid-artery-0b19144ec4",
+  "name": "Superior thyroid artery",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Arteries"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Cardiovascular",
+    "Respiratory"
+  ],
+  "organs": [
+    "Larynx"
+  ],
+  "tags": [
+    "ArteriesAndNerves",
+    "Artery",
+    "BloodVesselsAndNerves",
+    "Branches",
+    "Course",
+    "HeadNeck",
+    "Larynx",
+    "Origin",
+    "Supply"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-709191a239",
+      "variants": [
+        {
+          "id": "v-709191a239",
+          "answer": "Superior thyroid artery",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-650",
+              "sourceLine": 650
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-407",
+              "sourceLine": 407
+            },
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-195",
+              "sourceLine": 195
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-195",
+              "sourceLine": 195
+            },
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-126",
+              "sourceLine": 126
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-21f3b7b3b3",
+      "variants": [
+        {
+          "id": "v-21f3b7b3b3",
+          "answer": "Usually first anterior branch of external carotid artery.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-651",
+              "sourceLine": 651
+            }
+          ]
+        },
+        {
+          "id": "v-5ef00ee00c",
+          "answer": "External carotid artery.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-408",
+              "sourceLine": 408
+            }
+          ]
+        },
+        {
+          "id": "v-82ae596a94",
+          "answer": "Usually the first anterior branch of the external carotid artery.",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-196",
+              "sourceLine": 196
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-196",
+              "sourceLine": 196
+            }
+          ]
+        },
+        {
+          "id": "v-4e67b61c0e",
+          "answer": "Usually first anterior branch of the external carotid artery.",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-127",
+              "sourceLine": 127
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-eb42803900",
+      "variants": [
+        {
+          "id": "v-eb42803900",
+          "answer": "Descends toward superior pole of thyroid.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-652",
+              "sourceLine": 652
+            }
+          ]
+        },
+        {
+          "id": "v-5f10dee766",
+          "answer": "Descends toward superior thyroid pole.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-409",
+              "sourceLine": 409
+            }
+          ]
+        },
+        {
+          "id": "v-2a27fe7d51",
+          "answer": "Descends toward the superior pole of the thyroid gland.",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-197",
+              "sourceLine": 197
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-197",
+              "sourceLine": 197
+            }
+          ]
+        },
+        {
+          "id": "v-aa320268a9",
+          "answer": "Descends toward superior pole of the thyroid gland.",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-128",
+              "sourceLine": 128
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-222db0fc1c",
+      "question": "Supply",
+      "preferredVariantId": "v-5c3d422b61",
+      "variants": [
+        {
+          "id": "v-5c3d422b61",
+          "answer": "Thyroid gland and nearby laryngeal/infrahyoid structures.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-653",
+              "sourceLine": 653
+            }
+          ]
+        },
+        {
+          "id": "v-c7924525d5",
+          "answer": "Thyroid and adjacent laryngeal/infrahyoid structures.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-411",
+              "sourceLine": 411
+            }
+          ]
+        },
+        {
+          "id": "v-27122ea4c6",
+          "answer": "Upper thyroid gland and nearby laryngeal and infrahyoid structures.",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-199",
+              "sourceLine": 199
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-199",
+              "sourceLine": 199
+            }
+          ]
+        },
+        {
+          "id": "v-9bcdeffb83",
+          "answer": "Upper thyroid gland and nearby laryngeal structures.",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-130",
+              "sourceLine": 130
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-f578227926",
+      "question": "Branches",
+      "preferredVariantId": "v-f6478ca1de",
+      "variants": [
+        {
+          "id": "v-f6478ca1de",
+          "answer": "Superior laryngeal and glandular branches.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-410",
+              "sourceLine": 410
+            }
+          ]
+        },
+        {
+          "id": "v-2666d47cf1",
+          "answer": "Gives the superior laryngeal artery among other branches.",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-198",
+              "sourceLine": 198
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-198",
+              "sourceLine": 198
+            }
+          ]
+        },
+        {
+          "id": "v-6732bbb911",
+          "answer": "Gives the superior laryngeal artery.",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-129",
+              "sourceLine": 129
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "half-head-and-neck-model-bs9",
+      "section": "Blood vessels and nerves",
+      "path": [
+        "59"
+      ],
+      "label": "59"
+    },
+    {
+      "modelId": "head-and-neck-model-cs17-2",
+      "section": "Arteries",
+      "path": [
+        "64"
+      ],
+      "label": "64"
+    },
+    {
+      "modelId": "larynx-model-gs7",
+      "section": "Arteries and nerves",
+      "path": [
+        "24"
+      ],
+      "label": "24"
+    },
+    {
+      "modelId": "larynx-and-airway-model-gs5",
+      "section": "Arteries and nerves",
+      "path": [
+        "24"
+      ],
+      "label": "24"
+    },
+    {
+      "modelId": "larynx-and-tongue-model-gs4",
+      "section": "Larynx",
+      "path": [
+        "20"
+      ],
+      "label": "20"
+    }
+  ]
+}

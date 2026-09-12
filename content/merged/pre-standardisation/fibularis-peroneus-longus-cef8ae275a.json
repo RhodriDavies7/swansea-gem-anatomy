@@ -1,0 +1,128 @@
+{
+  "id": "fibularis-peroneus-longus-cef8ae275a",
+  "name": "Fibularis (peroneus) longus",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Muscles",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-629b9f8918",
+      "variants": [
+        {
+          "id": "v-629b9f8918",
+          "answer": "Fibularis (peroneus) longus",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-117",
+              "sourceLine": 117
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-afb4423f29",
+      "variants": [
+        {
+          "id": "v-afb4423f29",
+          "answer": "Everts foot, weakly plantarflexes ankle and supports transverse/lateral arches.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-118",
+              "sourceLine": 118
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-93ee03395e",
+      "variants": [
+        {
+          "id": "v-93ee03395e",
+          "answer": "Superficial fibular nerve (L5–S2).",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-119",
+              "sourceLine": 119
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-7f922f6f55",
+      "variants": [
+        {
+          "id": "v-7f922f6f55",
+          "answer": "Head and superior lateral fibula.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-120",
+              "sourceLine": 120
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-51834819be",
+      "variants": [
+        {
+          "id": "v-51834819be",
+          "answer": "Base of 1st metatarsal and medial cuneiform on plantar surface.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-121",
+              "sourceLine": 121
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "foot-model-ns9",
+      "section": "Muscles",
+      "path": [
+        "18"
+      ],
+      "label": "18"
+    }
+  ]
+}

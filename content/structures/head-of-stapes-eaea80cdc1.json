@@ -1,0 +1,120 @@
+{
+  "id": "head-of-stapes-eaea80cdc1",
+  "name": "Head of stapes",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [],
+  "organs": [
+    "Ear"
+  ],
+  "tags": [
+    "MiddleEar",
+    "OssiclePart",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-bbf6cb4c09",
+      "variants": [
+        {
+          "id": "v-bbf6cb4c09",
+          "answer": "Head of stapes",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-167",
+              "sourceLine": 167
+            },
+            {
+              "modelId": "ear-model-ds3",
+              "cardId": "ear-model-ds3-69",
+              "sourceLine": 69
+            },
+            {
+              "modelId": "inner-ear-model-ds17",
+              "cardId": "inner-ear-model-ds17-45",
+              "sourceLine": 45
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-e72ee9d0d5",
+      "variants": [
+        {
+          "id": "v-e72ee9d0d5",
+          "answer": "Articulates with the lenticular process of the incus.",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-168",
+              "sourceLine": 168
+            },
+            {
+              "modelId": "ear-model-ds3",
+              "cardId": "ear-model-ds3-70",
+              "sourceLine": 70
+            }
+          ]
+        },
+        {
+          "id": "v-b28efd82a9",
+          "answer": "Articulates with lenticular process of incus.",
+          "sources": [
+            {
+              "modelId": "inner-ear-model-ds17",
+              "cardId": "inner-ear-model-ds17-46",
+              "sourceLine": 46
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "ear-largest-model-ds1",
+      "section": "C. Middle ear",
+      "path": [
+        "27",
+        "a"
+      ],
+      "label": "27a"
+    },
+    {
+      "modelId": "ear-model-ds3",
+      "section": "B. Middle ear",
+      "path": [
+        "9",
+        "a"
+      ],
+      "label": "9a"
+    },
+    {
+      "modelId": "inner-ear-model-ds17",
+      "section": "Tympanic membrane and ossicles",
+      "path": [
+        "5",
+        "a"
+      ],
+      "label": "5a"
+    }
+  ]
+}

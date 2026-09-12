@@ -1,0 +1,163 @@
+{
+  "id": "lateral-rectus-muscle-acf9b1ece3",
+  "name": "Lateral rectus muscle",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [
+    "Eye"
+  ],
+  "tags": [
+    "Action",
+    "ExtraocularMuscle",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-b7a524c226",
+      "variants": [
+        {
+          "id": "v-b7a524c226",
+          "answer": "Lateral rectus muscle",
+          "sources": [
+            {
+              "modelId": "eyeball-with-part-of-orbit-model-cs2",
+              "cardId": "eyeball-with-part-of-orbit-model-cs2-25",
+              "sourceLine": 25
+            },
+            {
+              "modelId": "eyeball-model-cs7",
+              "cardId": "eyeball-model-cs7-23",
+              "sourceLine": 23
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-ae5d9b0c1b",
+      "variants": [
+        {
+          "id": "v-ae5d9b0c1b",
+          "answer": "Abducts the eye.",
+          "sources": [
+            {
+              "modelId": "eyeball-with-part-of-orbit-model-cs2",
+              "cardId": "eyeball-with-part-of-orbit-model-cs2-26",
+              "sourceLine": 26
+            },
+            {
+              "modelId": "eyeball-model-cs7",
+              "cardId": "eyeball-model-cs7-24",
+              "sourceLine": 24
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-49726cfb18",
+      "variants": [
+        {
+          "id": "v-49726cfb18",
+          "answer": "Abducens nerve (CN VI).",
+          "sources": [
+            {
+              "modelId": "eyeball-with-part-of-orbit-model-cs2",
+              "cardId": "eyeball-with-part-of-orbit-model-cs2-27",
+              "sourceLine": 27
+            },
+            {
+              "modelId": "eyeball-model-cs7",
+              "cardId": "eyeball-model-cs7-25",
+              "sourceLine": 25
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-e9c475c7fb",
+      "variants": [
+        {
+          "id": "v-e9c475c7fb",
+          "answer": "Common tendinous ring at the orbital apex.",
+          "sources": [
+            {
+              "modelId": "eyeball-with-part-of-orbit-model-cs2",
+              "cardId": "eyeball-with-part-of-orbit-model-cs2-28",
+              "sourceLine": 28
+            },
+            {
+              "modelId": "eyeball-model-cs7",
+              "cardId": "eyeball-model-cs7-26",
+              "sourceLine": 26
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-a854a3e24d",
+      "variants": [
+        {
+          "id": "v-a854a3e24d",
+          "answer": "Lateral sclera anterior to the equator of the globe.",
+          "sources": [
+            {
+              "modelId": "eyeball-with-part-of-orbit-model-cs2",
+              "cardId": "eyeball-with-part-of-orbit-model-cs2-29",
+              "sourceLine": 29
+            },
+            {
+              "modelId": "eyeball-model-cs7",
+              "cardId": "eyeball-model-cs7-27",
+              "sourceLine": 27
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "eyeball-with-part-of-orbit-model-cs2",
+      "section": "Extraocular muscle",
+      "path": [
+        "4"
+      ],
+      "label": "4"
+    },
+    {
+      "modelId": "eyeball-model-cs7",
+      "section": "",
+      "path": [
+        "4"
+      ],
+      "label": "4"
+    }
+  ]
+}

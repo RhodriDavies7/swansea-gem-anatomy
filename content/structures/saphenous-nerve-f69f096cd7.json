@@ -1,0 +1,146 @@
+{
+  "id": "saphenous-nerve-f69f096cd7",
+  "name": "Saphenous nerve",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Nerves"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [],
+  "tags": [
+    "Course",
+    "Lesion",
+    "Motor",
+    "Nerve",
+    "Roots",
+    "Sensory"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-fe10429191",
+      "variants": [
+        {
+          "id": "v-fe10429191",
+          "answer": "Saphenous nerve",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-444",
+              "sourceLine": 444
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-4d78ec7d11",
+      "question": "Roots",
+      "preferredVariantId": "v-29698d3583",
+      "variants": [
+        {
+          "id": "v-29698d3583",
+          "answer": "L3–L4; sensory branch of femoral nerve.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-445",
+              "sourceLine": 445
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-4ec1b0db7f",
+      "variants": [
+        {
+          "id": "v-4ec1b0db7f",
+          "answer": "Travels in adductor canal with femoral vessels; leaves before adductor hiatus, emerges medially around knee and descends with great saphenous vein.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-446",
+              "sourceLine": 446
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c8b6915183",
+      "question": "Motor functions",
+      "preferredVariantId": "v-93b80f1f16",
+      "variants": [
+        {
+          "id": "v-93b80f1f16",
+          "answer": "None; purely sensory.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-447",
+              "sourceLine": 447
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-a453254382",
+      "question": "Sensory functions",
+      "preferredVariantId": "v-4db6b9d285",
+      "variants": [
+        {
+          "id": "v-4db6b9d285",
+          "answer": "Medial knee, medial leg and medial border of foot, with variable distal extent.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-448",
+              "sourceLine": 448
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-bc53d10c57",
+      "question": "Lesion",
+      "preferredVariantId": "v-906de8009b",
+      "variants": [
+        {
+          "id": "v-906de8009b",
+          "answer": "Numbness or neuropathic pain in medial leg/foot without motor weakness; vulnerable during medial knee procedures and great saphenous vein harvesting.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-449",
+              "sourceLine": 449
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "lower-limb-model-ns10",
+      "section": "Nerves",
+      "path": [
+        "60"
+      ],
+      "label": "60"
+    }
+  ]
+}

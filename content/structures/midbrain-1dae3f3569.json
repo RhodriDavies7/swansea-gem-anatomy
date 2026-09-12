@@ -1,0 +1,124 @@
+{
+  "id": "midbrain-1dae3f3569",
+  "name": "Midbrain",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [],
+  "tags": [
+    "CNS",
+    "Function",
+    "Location",
+    "MidSagittal",
+    "NervousStructures"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-651355ad07",
+      "variants": [
+        {
+          "id": "v-651355ad07",
+          "answer": "Midbrain",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-246",
+              "sourceLine": 246
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-96",
+              "sourceLine": 96
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-ef503467bd",
+      "variants": [
+        {
+          "id": "v-ef503467bd",
+          "answer": "Upper part of brainstem between diencephalon and pons.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-247",
+              "sourceLine": 247
+            }
+          ]
+        },
+        {
+          "id": "v-9b76202dd0",
+          "answer": "Upper brainstem between diencephalon and pons.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-97",
+              "sourceLine": 97
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-710c81e754",
+      "variants": [
+        {
+          "id": "v-710c81e754",
+          "answer": "Contains pathways and nuclei involved in eye movements, visual/auditory reflexes and motor control.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-248",
+              "sourceLine": 248
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-98",
+              "sourceLine": 98
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "coronal-and-mid-sagittal-head-mb20",
+      "section": "Nervous structures",
+      "path": [
+        "C"
+      ],
+      "label": "C"
+    },
+    {
+      "modelId": "half-head-and-neck-model-bs9",
+      "section": "Nervous structures",
+      "path": [
+        "C"
+      ],
+      "label": "C"
+    }
+  ]
+}

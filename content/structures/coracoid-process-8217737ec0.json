@@ -1,0 +1,127 @@
+{
+  "id": "coracoid-process-8217737ec0",
+  "name": "Coracoid process",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Bones"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Attachments",
+    "Bone",
+    "BonyLandmark",
+    "Clinical",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-9f5eba9c1d",
+      "variants": [
+        {
+          "id": "v-9f5eba9c1d",
+          "answer": "Coracoid process",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-540",
+              "sourceLine": 540
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-bcf605d6bb",
+      "question": "Bone",
+      "preferredVariantId": "v-8b89fc5935",
+      "variants": [
+        {
+          "id": "v-8b89fc5935",
+          "answer": "Scapula.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-541",
+              "sourceLine": 541
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6771ade6e8",
+      "question": "Attachments",
+      "preferredVariantId": "v-62b2c84a53",
+      "variants": [
+        {
+          "id": "v-62b2c84a53",
+          "answer": "Short head of biceps and coracobrachialis arise from tip; pectoralis minor inserts medially; coracoacromial, coracoclavicular and coracohumeral ligaments attach.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-542",
+              "sourceLine": 542
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-de6a8f236e",
+      "variants": [
+        {
+          "id": "v-de6a8f236e",
+          "answer": "Projects anterolaterally superior to glenoid; palpable below lateral clavicle.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-543",
+              "sourceLine": 543
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-b03737e3cd",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-dcdf7c63f0",
+      "variants": [
+        {
+          "id": "v-dcdf7c63f0",
+          "answer": "Important surgical and surface landmark; involved in coracoclavicular stabilisation of AC joint.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-544",
+              "sourceLine": 544
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "upper-limb-model-ns15",
+      "section": "Bones",
+      "path": [
+        "84"
+      ],
+      "label": "84"
+    }
+  ]
+}

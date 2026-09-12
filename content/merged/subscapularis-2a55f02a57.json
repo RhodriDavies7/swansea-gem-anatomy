@@ -1,0 +1,127 @@
+{
+  "id": "subscapularis-2a55f02a57",
+  "name": "Subscapularis",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-0af42ec2d1",
+      "variants": [
+        {
+          "id": "v-0af42ec2d1",
+          "answer": "Subscapularis",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-33",
+              "sourceLine": 33
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-38bbe60cd9",
+      "variants": [
+        {
+          "id": "v-38bbe60cd9",
+          "answer": "Medially rotates and adducts the arm; stabilises the humeral head.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-34",
+              "sourceLine": 34
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-56597ac9e1",
+      "variants": [
+        {
+          "id": "v-56597ac9e1",
+          "answer": "Upper and lower subscapular nerves (C5–C7).",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-35",
+              "sourceLine": 35
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-6f3c1f5903",
+      "variants": [
+        {
+          "id": "v-6f3c1f5903",
+          "answer": "Subscapular fossa of scapula.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-36",
+              "sourceLine": 36
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-9c7a357563",
+      "variants": [
+        {
+          "id": "v-9c7a357563",
+          "answer": "Lesser tubercle of humerus and shoulder joint capsule.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-37",
+              "sourceLine": 37
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "upper-limb-model-ns15",
+      "section": "Muscles",
+      "path": [
+        "6"
+      ],
+      "label": "6"
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "id": "abductor-digiti-minimi-380d2c9f04",
+  "name": "Abductor digiti minimi",
+  "aliases": [],
+  "scope": "Lower limb",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Muscles",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-323ed61629",
+      "variants": [
+        {
+          "id": "v-323ed61629",
+          "answer": "Abductor digiti minimi",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-193",
+              "sourceLine": 193
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-d4c04b5f7a",
+      "variants": [
+        {
+          "id": "v-d4c04b5f7a",
+          "answer": "Abducts and flexes 5th toe; supports lateral longitudinal arch.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-194",
+              "sourceLine": 194
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-88c8052b1c",
+      "variants": [
+        {
+          "id": "v-88c8052b1c",
+          "answer": "Lateral plantar nerve (S2–S3).",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-195",
+              "sourceLine": 195
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-bda1916e1d",
+      "variants": [
+        {
+          "id": "v-bda1916e1d",
+          "answer": "Calcaneal tuberosity and plantar aponeurosis.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-196",
+              "sourceLine": 196
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-f725059c61",
+      "variants": [
+        {
+          "id": "v-f725059c61",
+          "answer": "Lateral base of proximal phalanx of 5th toe.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-197",
+              "sourceLine": 197
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "foot-model-ns9",
+      "section": "Muscles",
+      "path": [
+        "29"
+      ],
+      "label": "29"
+    }
+  ]
+}

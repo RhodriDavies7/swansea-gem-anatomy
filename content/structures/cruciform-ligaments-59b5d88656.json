@@ -1,0 +1,106 @@
+{
+  "id": "cruciform-ligaments-59b5d88656",
+  "name": "Cruciform ligaments",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [],
+  "organs": [],
+  "tags": [
+    "Attachments",
+    "Function",
+    "Pulley",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-7cd9e93596",
+      "variants": [
+        {
+          "id": "v-7cd9e93596",
+          "answer": "Cruciform ligaments",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-234",
+              "sourceLine": 234
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6771ade6e8",
+      "question": "Attachments",
+      "preferredVariantId": "v-201006c919",
+      "variants": [
+        {
+          "id": "v-201006c919",
+          "answer": "Flexible cruciate components of the fibrous digital sheath between annular pulleys.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-235",
+              "sourceLine": 235
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-1abd2ddb58",
+      "variants": [
+        {
+          "id": "v-1abd2ddb58",
+          "answer": "Permit sheath deformation during finger flexion while helping retain flexor tendons close to the phalanges.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-236",
+              "sourceLine": 236
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-2e791ef263",
+      "variants": [
+        {
+          "id": "v-2e791ef263",
+          "answer": "Alternate with annular pulleys in the fibrous flexor sheath of digits.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-237",
+              "sourceLine": 237
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "upper-limb-model-ns15",
+      "section": "Muscles",
+      "path": [
+        "39"
+      ],
+      "label": "39"
+    }
+  ]
+}

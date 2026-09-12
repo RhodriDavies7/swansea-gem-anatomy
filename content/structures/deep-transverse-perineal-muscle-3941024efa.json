@@ -1,0 +1,128 @@
+{
+  "id": "deep-transverse-perineal-muscle-3941024efa",
+  "name": "Deep transverse perineal muscle",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Pelvis"
+  ],
+  "systems": [
+    "Musculoskeletal",
+    "Reproductive"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-fe45959457",
+      "variants": [
+        {
+          "id": "v-fe45959457",
+          "answer": "Deep transverse perineal muscle",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-129",
+              "sourceLine": 129
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-bba5408b23",
+      "variants": [
+        {
+          "id": "v-bba5408b23",
+          "answer": "Supports the perineal body and pelvic floor and helps stabilise pelvic viscera.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-130",
+              "sourceLine": 130
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-123d0478b5",
+      "variants": [
+        {
+          "id": "v-123d0478b5",
+          "answer": "Deep branch of pudendal nerve (S2–S4).",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-131",
+              "sourceLine": 131
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-6c065503ba",
+      "variants": [
+        {
+          "id": "v-6c065503ba",
+          "answer": "Ischiopubic ramus.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-132",
+              "sourceLine": 132
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-d29b91870d",
+      "variants": [
+        {
+          "id": "v-d29b91870d",
+          "answer": "Perineal body and contralateral fibres.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-133",
+              "sourceLine": 133
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "female-pelvis-model-mo8",
+      "section": "",
+      "path": [
+        "31"
+      ],
+      "label": "31"
+    }
+  ]
+}

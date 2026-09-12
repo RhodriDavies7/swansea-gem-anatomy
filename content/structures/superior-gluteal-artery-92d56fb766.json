@@ -1,0 +1,196 @@
+{
+  "id": "superior-gluteal-artery-92d56fb766",
+  "name": "Superior gluteal artery",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Arteries"
+  ],
+  "regions": [
+    "Lower limb",
+    "Pelvis"
+  ],
+  "systems": [
+    "Cardiovascular",
+    "Reproductive"
+  ],
+  "organs": [],
+  "tags": [
+    "Artery",
+    "Branches",
+    "Course",
+    "Origin",
+    "Relations",
+    "Supply"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-5a9012a1f1",
+      "variants": [
+        {
+          "id": "v-5a9012a1f1",
+          "answer": "Superior gluteal artery",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-264",
+              "sourceLine": 264
+            },
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-329",
+              "sourceLine": 329
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-e4c20d02cb",
+      "variants": [
+        {
+          "id": "v-e4c20d02cb",
+          "answer": "Posterior division of internal iliac artery.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-265",
+              "sourceLine": 265
+            },
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-330",
+              "sourceLine": 330
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-7a8379e51b",
+      "variants": [
+        {
+          "id": "v-7a8379e51b",
+          "answer": "Exits greater sciatic foramen superior to piriformis.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-266",
+              "sourceLine": 266
+            }
+          ]
+        },
+        {
+          "id": "v-274c22aee6",
+          "answer": "Leaves pelvis through greater sciatic foramen above piriformis; divides in gluteal region.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-331",
+              "sourceLine": 331
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-222db0fc1c",
+      "question": "Supply",
+      "preferredVariantId": "v-f9995a47ce",
+      "variants": [
+        {
+          "id": "v-b238c7bfad",
+          "answer": "Gluteal region and adjacent muscles.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-267",
+              "sourceLine": 267
+            }
+          ]
+        },
+        {
+          "id": "v-f9995a47ce",
+          "answer": "Gluteus medius, minimus, part of maximus, tensor fasciae latae and hip region.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-333",
+              "sourceLine": 333
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-f578227926",
+      "question": "Branches",
+      "preferredVariantId": "v-5553b5694e",
+      "variants": [
+        {
+          "id": "v-5553b5694e",
+          "answer": "Superficial and deep branches.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-332",
+              "sourceLine": 332
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-6e5b7d0f03",
+      "variants": [
+        {
+          "id": "v-6e5b7d0f03",
+          "answer": "Travels with superior gluteal nerve; deep branch runs between gluteus medius and minimus.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-334",
+              "sourceLine": 334
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "female-pelvis-model-mo8",
+      "section": "",
+      "path": [
+        "41"
+      ],
+      "label": "41"
+    },
+    {
+      "modelId": "lower-limb-model-ns10",
+      "section": "Blood vessels",
+      "path": [
+        "42"
+      ],
+      "label": "42"
+    }
+  ]
+}

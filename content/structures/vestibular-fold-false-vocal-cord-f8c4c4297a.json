@@ -1,0 +1,272 @@
+{
+  "id": "vestibular-fold-false-vocal-cord-f8c4c4297a",
+  "name": "Vestibular fold (false vocal cord)",
+  "aliases": [
+    "Vestibular fold"
+  ],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Respiratory"
+  ],
+  "organs": [
+    "Larynx"
+  ],
+  "tags": [
+    "Function",
+    "InternalLarynx",
+    "LaryngealFold",
+    "Relations",
+    "Structure",
+    "LaryngealStructures",
+    "Larynx",
+    "MidSagittal"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-e0d9079b90",
+      "variants": [
+        {
+          "id": "v-e0d9079b90",
+          "answer": "Vestibular fold (false vocal cord)",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-248",
+              "sourceLine": 248
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-248",
+              "sourceLine": 248
+            }
+          ]
+        },
+        {
+          "id": "v-575afeec89",
+          "answer": "Vestibular fold",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-475",
+              "sourceLine": 475
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-375",
+              "sourceLine": 375
+            },
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-167",
+              "sourceLine": 167
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-c2766d57c8",
+      "variants": [
+        {
+          "id": "v-c805434614",
+          "answer": "Mucosal fold containing the vestibular ligament.",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-249",
+              "sourceLine": 249
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-249",
+              "sourceLine": 249
+            },
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-168",
+              "sourceLine": 168
+            }
+          ]
+        },
+        {
+          "id": "v-c2766d57c8",
+          "answer": "Superior mucosal fold containing vestibular ligament.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-476",
+              "sourceLine": 476
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-376",
+              "sourceLine": 376
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-ebdaa725d8",
+      "variants": [
+        {
+          "id": "v-f3d9759e34",
+          "answer": "Helps protect the airway and contributes to laryngeal closure.",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-250",
+              "sourceLine": 250
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-250",
+              "sourceLine": 250
+            },
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-169",
+              "sourceLine": 169
+            }
+          ]
+        },
+        {
+          "id": "v-ebdaa725d8",
+          "answer": "Helps protect the airway and contributes to closure of laryngeal inlet; not the primary sound-producing fold.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-477",
+              "sourceLine": 477
+            }
+          ]
+        },
+        {
+          "id": "v-0c73866817",
+          "answer": "Helps protect airway and contributes to laryngeal closure.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-377",
+              "sourceLine": 377
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-fe76f4e84d",
+      "variants": [
+        {
+          "id": "v-fe76f4e84d",
+          "answer": "Lies superior to the true vocal fold.",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-251",
+              "sourceLine": 251
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-251",
+              "sourceLine": 251
+            },
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-478",
+              "sourceLine": 478
+            }
+          ]
+        },
+        {
+          "id": "v-e610b38768",
+          "answer": "Lies superior to true vocal fold.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-378",
+              "sourceLine": 378
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "larynx-model-gs7",
+      "section": "Internal laryngeal structures and mucosa",
+      "path": [
+        "32"
+      ],
+      "label": "32"
+    },
+    {
+      "modelId": "larynx-and-airway-model-gs5",
+      "section": "Internal laryngeal structures and mucosa",
+      "path": [
+        "32"
+      ],
+      "label": "32"
+    },
+    {
+      "modelId": "coronal-and-mid-sagittal-head-mb20",
+      "section": "Laryngeal structures",
+      "path": [
+        "VIII"
+      ],
+      "label": "VIII"
+    },
+    {
+      "modelId": "half-head-and-neck-model-bs9",
+      "section": "Laryngeal structures",
+      "path": [
+        "VIII"
+      ],
+      "label": "VIII"
+    },
+    {
+      "modelId": "larynx-and-tongue-model-gs4",
+      "section": "Larynx",
+      "path": [
+        "27"
+      ],
+      "label": "27"
+    }
+  ],
+  "redirectIds": [
+    "vestibular-fold-00eddbca39"
+  ]
+}

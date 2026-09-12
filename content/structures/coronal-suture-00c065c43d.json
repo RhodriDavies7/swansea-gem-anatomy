@@ -1,0 +1,88 @@
+{
+  "id": "coronal-suture-00c065c43d",
+  "name": "Coronal suture",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [],
+  "organs": [],
+  "tags": [
+    "HeadNeck",
+    "Location",
+    "Structure",
+    "Suture"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-50bdfce184",
+      "variants": [
+        {
+          "id": "v-50bdfce184",
+          "answer": "Coronal suture",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-60",
+              "sourceLine": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-10a1f72bd2",
+      "variants": [
+        {
+          "id": "v-10a1f72bd2",
+          "answer": "Between frontal and parietal bones.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-61",
+              "sourceLine": 61
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-309f5350fc",
+      "variants": [
+        {
+          "id": "v-309f5350fc",
+          "answer": "Fibrous skull joint.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-62",
+              "sourceLine": 62
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "head-and-neck-model-cs17-2",
+      "section": "Bony structures, foramina and ear structures",
+      "path": [
+        "12"
+      ],
+      "label": "12"
+    }
+  ]
+}

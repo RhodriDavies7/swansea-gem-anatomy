@@ -1,0 +1,109 @@
+{
+  "id": "oval-window-covered-by-the-base-of-the-stapes-bone-4ce57d0c4d",
+  "name": "Oval window (covered by the base of the stapes bone)",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [],
+  "organs": [
+    "Ear"
+  ],
+  "tags": [
+    "Function",
+    "InnerEar",
+    "Location",
+    "Opening",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-b7a733545b",
+      "variants": [
+        {
+          "id": "v-b7a733545b",
+          "answer": "Oval window (covered by the base of the stapes bone)",
+          "sources": [
+            {
+              "modelId": "ear-model-ds3",
+              "cardId": "ear-model-ds3-107",
+              "sourceLine": 107
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-2606ed36f2",
+      "variants": [
+        {
+          "id": "v-2606ed36f2",
+          "answer": "Opening in the medial wall of the middle ear leading to the vestibule.",
+          "sources": [
+            {
+              "modelId": "ear-model-ds3",
+              "cardId": "ear-model-ds3-108",
+              "sourceLine": 108
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-476e94e3fd",
+      "variants": [
+        {
+          "id": "v-476e94e3fd",
+          "answer": "Occupied by the base of the stapes.",
+          "sources": [
+            {
+              "modelId": "ear-model-ds3",
+              "cardId": "ear-model-ds3-109",
+              "sourceLine": 109
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-75f8c2d358",
+      "variants": [
+        {
+          "id": "v-75f8c2d358",
+          "answer": "Receives mechanical vibration from the stapes and transmits it into inner-ear perilymph.",
+          "sources": [
+            {
+              "modelId": "ear-model-ds3",
+              "cardId": "ear-model-ds3-110",
+              "sourceLine": 110
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "ear-model-ds3",
+      "section": "C. Inner ear",
+      "path": [
+        "14"
+      ],
+      "label": "14"
+    }
+  ]
+}

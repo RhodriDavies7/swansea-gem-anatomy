@@ -1,0 +1,244 @@
+{
+  "id": "supraspinatus-muscle-d9969a6f97",
+  "name": "Supraspinatus muscle",
+  "aliases": [
+    "Supraspinatus"
+  ],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "AttachmentSite",
+    "Attachments",
+    "Clinical",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-1338adb74f",
+      "variants": [
+        {
+          "id": "v-1338adb74f",
+          "answer": "Supraspinatus muscle",
+          "sources": [
+            {
+              "modelId": "deep-shoulder-model-ns17",
+              "cardId": "deep-shoulder-model-ns17-92",
+              "sourceLine": 92
+            },
+            {
+              "modelId": "rotator-cuff-qs55-6",
+              "cardId": "rotator-cuff-qs55-6-39",
+              "sourceLine": 39
+            }
+          ]
+        },
+        {
+          "id": "v-788234e113",
+          "answer": "Supraspinatus",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-3",
+              "sourceLine": 3
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-3150d3c0ca",
+      "variants": [
+        {
+          "id": "v-3150d3c0ca",
+          "answer": "Initiates the first ~15° of arm abduction and stabilises the humeral head in the glenoid.",
+          "sources": [
+            {
+              "modelId": "deep-shoulder-model-ns17",
+              "cardId": "deep-shoulder-model-ns17-93",
+              "sourceLine": 93
+            },
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-4",
+              "sourceLine": 4
+            }
+          ]
+        },
+        {
+          "id": "v-2ac035a090",
+          "answer": "Initiates first ~15° of arm abduction and stabilises humeral head in glenoid.",
+          "sources": [
+            {
+              "modelId": "rotator-cuff-qs55-6",
+              "cardId": "rotator-cuff-qs55-6-41",
+              "sourceLine": 41
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-949fbb9f03",
+      "variants": [
+        {
+          "id": "v-949fbb9f03",
+          "answer": "Suprascapular nerve (C5–C6).",
+          "sources": [
+            {
+              "modelId": "deep-shoulder-model-ns17",
+              "cardId": "deep-shoulder-model-ns17-94",
+              "sourceLine": 94
+            },
+            {
+              "modelId": "rotator-cuff-qs55-6",
+              "cardId": "rotator-cuff-qs55-6-42",
+              "sourceLine": 42
+            },
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-5",
+              "sourceLine": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-7e99cb065c",
+      "variants": [
+        {
+          "id": "v-7e99cb065c",
+          "answer": "Supraspinous fossa of scapula and overlying fascia.",
+          "sources": [
+            {
+              "modelId": "deep-shoulder-model-ns17",
+              "cardId": "deep-shoulder-model-ns17-95",
+              "sourceLine": 95
+            },
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-6",
+              "sourceLine": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-b0e257e6f6",
+      "variants": [
+        {
+          "id": "v-b0e257e6f6",
+          "answer": "Superior facet of greater tubercle of humerus and shoulder joint capsule.",
+          "sources": [
+            {
+              "modelId": "deep-shoulder-model-ns17",
+              "cardId": "deep-shoulder-model-ns17-96",
+              "sourceLine": 96
+            },
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-7",
+              "sourceLine": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-531c9dad58",
+      "question": "Attachment on model",
+      "preferredVariantId": "v-818b151884",
+      "variants": [
+        {
+          "id": "v-818b151884",
+          "answer": "Origin from supraspinous fossa; inserts on superior facet of greater tubercle of humerus.",
+          "sources": [
+            {
+              "modelId": "rotator-cuff-qs55-6",
+              "cardId": "rotator-cuff-qs55-6-40",
+              "sourceLine": 40
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-b03737e3cd",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-45d66b61a7",
+      "variants": [
+        {
+          "id": "v-45d66b61a7",
+          "answer": "Common rotator cuff tendon involved in impingement and tears.",
+          "sources": [
+            {
+              "modelId": "rotator-cuff-qs55-6",
+              "cardId": "rotator-cuff-qs55-6-43",
+              "sourceLine": 43
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "deep-shoulder-model-ns17",
+      "section": "",
+      "path": [
+        "14"
+      ],
+      "label": "14"
+    },
+    {
+      "modelId": "rotator-cuff-qs55-6",
+      "section": "Muscle attachment sites",
+      "path": [
+        "7"
+      ],
+      "label": "7"
+    },
+    {
+      "modelId": "upper-limb-model-ns15",
+      "section": "Muscles",
+      "path": [
+        "1"
+      ],
+      "label": "1"
+    }
+  ]
+}

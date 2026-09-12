@@ -1,0 +1,150 @@
+{
+  "id": "interlobular-artery-cb87d8f6ab",
+  "name": "Interlobular artery",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Arteries"
+  ],
+  "regions": [
+    "Abdomen"
+  ],
+  "systems": [
+    "Cardiovascular",
+    "Urinary"
+  ],
+  "organs": [
+    "Kidney"
+  ],
+  "tags": [
+    "AlsoCalled",
+    "Artery",
+    "Branches",
+    "Course",
+    "Origin",
+    "RenalVessels",
+    "Supply"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-7467268ce0",
+      "variants": [
+        {
+          "id": "v-7467268ce0",
+          "answer": "Interlobular artery",
+          "sources": [
+            {
+              "modelId": "kidney-model-ls5",
+              "cardId": "kidney-model-ls5-33",
+              "sourceLine": 33
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-218665daed",
+      "variants": [
+        {
+          "id": "v-218665daed",
+          "answer": "Arises from arcuate arteries at the corticomedullary junction.",
+          "sources": [
+            {
+              "modelId": "kidney-model-ls5",
+              "cardId": "kidney-model-ls5-34",
+              "sourceLine": 34
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-1c2f81e13e",
+      "variants": [
+        {
+          "id": "v-1c2f81e13e",
+          "answer": "Radiates outward through the renal cortex toward the capsule.",
+          "sources": [
+            {
+              "modelId": "kidney-model-ls5",
+              "cardId": "kidney-model-ls5-35",
+              "sourceLine": 35
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f578227926",
+      "question": "Branches",
+      "preferredVariantId": "v-92b67dca7b",
+      "variants": [
+        {
+          "id": "v-92b67dca7b",
+          "answer": "Gives rise to afferent arterioles supplying glomeruli.",
+          "sources": [
+            {
+              "modelId": "kidney-model-ls5",
+              "cardId": "kidney-model-ls5-36",
+              "sourceLine": 36
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-222db0fc1c",
+      "question": "Supply",
+      "preferredVariantId": "v-fdda62f7a3",
+      "variants": [
+        {
+          "id": "v-fdda62f7a3",
+          "answer": "Supplies the renal cortex and glomerular capillary beds via afferent arterioles.",
+          "sources": [
+            {
+              "modelId": "kidney-model-ls5",
+              "cardId": "kidney-model-ls5-37",
+              "sourceLine": 37
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-4365b97418",
+      "question": "Also called",
+      "preferredVariantId": "v-bd00343f04",
+      "variants": [
+        {
+          "id": "v-bd00343f04",
+          "answer": "Cortical radiate artery.",
+          "sources": [
+            {
+              "modelId": "kidney-model-ls5",
+              "cardId": "kidney-model-ls5-38",
+              "sourceLine": 38
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "kidney-model-ls5",
+      "section": "Renal vessels",
+      "path": [
+        "13"
+      ],
+      "label": "13"
+    }
+  ]
+}

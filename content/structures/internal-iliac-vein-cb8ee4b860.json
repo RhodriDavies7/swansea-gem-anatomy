@@ -1,0 +1,147 @@
+{
+  "id": "internal-iliac-vein-cb8ee4b860",
+  "name": "Internal iliac vein",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Veins"
+  ],
+  "regions": [
+    "Pelvis"
+  ],
+  "systems": [
+    "Cardiovascular",
+    "Reproductive"
+  ],
+  "organs": [],
+  "tags": [
+    "Course",
+    "Drainage",
+    "Formation",
+    "Relations",
+    "Termination",
+    "Vein"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-be17868e9d",
+      "variants": [
+        {
+          "id": "v-be17868e9d",
+          "answer": "Internal iliac vein",
+          "sources": [
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-182",
+              "sourceLine": 182
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-bc0bd86b8f",
+      "question": "Formation",
+      "preferredVariantId": "v-4f2970014f",
+      "variants": [
+        {
+          "id": "v-4f2970014f",
+          "answer": "Formed by tributaries corresponding broadly to branches of the internal iliac artery and by pelvic venous plexuses.",
+          "sources": [
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-183",
+              "sourceLine": 183
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-eea76abb71",
+      "variants": [
+        {
+          "id": "v-eea76abb71",
+          "answer": "Ascends from the pelvis posterior/medial to the internal iliac artery.",
+          "sources": [
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-184",
+              "sourceLine": 184
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-2ee8521886",
+      "question": "Termination",
+      "preferredVariantId": "v-2cc896b5a4",
+      "variants": [
+        {
+          "id": "v-2cc896b5a4",
+          "answer": "Joins the external iliac vein to form the common iliac vein.",
+          "sources": [
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-185",
+              "sourceLine": 185
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-74a64b1943",
+      "question": "Drainage",
+      "preferredVariantId": "v-e35cac3b92",
+      "variants": [
+        {
+          "id": "v-e35cac3b92",
+          "answer": "Drains pelvic viscera, pelvic walls, gluteal region and perineum.",
+          "sources": [
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-186",
+              "sourceLine": 186
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-9dd77982cf",
+      "variants": [
+        {
+          "id": "v-9dd77982cf",
+          "answer": "Connected to extensive valveless pelvic venous plexuses around pelvic organs.",
+          "sources": [
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-187",
+              "sourceLine": 187
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "female-reproductive-system-model-ms1",
+      "section": "",
+      "path": [
+        "25"
+      ],
+      "label": "25"
+    }
+  ]
+}

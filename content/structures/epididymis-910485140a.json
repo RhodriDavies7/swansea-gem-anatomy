@@ -1,0 +1,127 @@
+{
+  "id": "epididymis-910485140a",
+  "name": "Epididymis",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Organs"
+  ],
+  "regions": [
+    "Pelvis"
+  ],
+  "systems": [
+    "Reproductive"
+  ],
+  "organs": [],
+  "tags": [
+    "Continuity",
+    "Function",
+    "Location",
+    "Organ",
+    "Parts"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-1f80dd9111",
+      "variants": [
+        {
+          "id": "v-1f80dd9111",
+          "answer": "Epididymis",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-154",
+              "sourceLine": 154
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-13a1e22b54",
+      "variants": [
+        {
+          "id": "v-13a1e22b54",
+          "answer": "Site of sperm maturation, storage and transport.",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-155",
+              "sourceLine": 155
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-e374280917",
+      "question": "Parts",
+      "preferredVariantId": "v-410fed5ca3",
+      "variants": [
+        {
+          "id": "v-410fed5ca3",
+          "answer": "Head, body and tail.",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-156",
+              "sourceLine": 156
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-3aa9bf9098",
+      "variants": [
+        {
+          "id": "v-3aa9bf9098",
+          "answer": "Applied to the posterolateral surface of the testis.",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-157",
+              "sourceLine": 157
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-95a50fffa4",
+      "question": "Continuity",
+      "preferredVariantId": "v-1aecc9955e",
+      "variants": [
+        {
+          "id": "v-1aecc9955e",
+          "answer": "Efferent ductules enter the head; the tail continues as the ductus deferens.",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-158",
+              "sourceLine": 158
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "male-reproductive-system-model-ms2",
+      "section": "",
+      "path": [
+        "16"
+      ],
+      "label": "16"
+    }
+  ]
+}

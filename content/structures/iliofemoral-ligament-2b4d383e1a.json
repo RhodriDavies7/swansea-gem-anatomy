@@ -1,0 +1,128 @@
+{
+  "id": "iliofemoral-ligament-2b4d383e1a",
+  "name": "Iliofemoral ligament",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Ligaments"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Attachments",
+    "Clinical",
+    "Function",
+    "Ligament",
+    "LigamentsAndJoint",
+    "Structure"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-ce24e24d9d",
+      "variants": [
+        {
+          "id": "v-ce24e24d9d",
+          "answer": "Iliofemoral ligament",
+          "sources": [
+            {
+              "modelId": "hip-joint-model-ns20",
+              "cardId": "hip-joint-model-ns20-41",
+              "sourceLine": 41
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6771ade6e8",
+      "question": "Attachments",
+      "preferredVariantId": "v-b3d617b6d1",
+      "variants": [
+        {
+          "id": "v-b3d617b6d1",
+          "answer": "From anterior inferior iliac spine and adjacent acetabular rim to intertrochanteric line of femur.",
+          "sources": [
+            {
+              "modelId": "hip-joint-model-ns20",
+              "cardId": "hip-joint-model-ns20-42",
+              "sourceLine": 42
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-e5cd632d8c",
+      "variants": [
+        {
+          "id": "v-e5cd632d8c",
+          "answer": "Strongly resists hyperextension of the hip and helps maintain upright posture with minimal muscular effort.",
+          "sources": [
+            {
+              "modelId": "hip-joint-model-ns20",
+              "cardId": "hip-joint-model-ns20-43",
+              "sourceLine": 43
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-0c67960ba6",
+      "variants": [
+        {
+          "id": "v-0c67960ba6",
+          "answer": "Y-shaped thickening of anterior joint capsule; one of the strongest ligaments in the body.",
+          "sources": [
+            {
+              "modelId": "hip-joint-model-ns20",
+              "cardId": "hip-joint-model-ns20-44",
+              "sourceLine": 44
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-b03737e3cd",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-ae171f58b9",
+      "variants": [
+        {
+          "id": "v-ae171f58b9",
+          "answer": "Its tension in extension contributes to stability of the standing hip.",
+          "sources": [
+            {
+              "modelId": "hip-joint-model-ns20",
+              "cardId": "hip-joint-model-ns20-45",
+              "sourceLine": 45
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "hip-joint-model-ns20",
+      "section": "Ligaments and joint structures",
+      "path": [
+        "3"
+      ],
+      "label": "3"
+    }
+  ]
+}

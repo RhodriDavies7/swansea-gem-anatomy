@@ -1,0 +1,107 @@
+{
+  "id": "mental-foramen-58fe9e896e",
+  "name": "Mental foramen",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [],
+  "organs": [],
+  "tags": [
+    "Bone",
+    "Contents",
+    "Foramen",
+    "HeadNeck",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-965a020140",
+      "variants": [
+        {
+          "id": "v-965a020140",
+          "answer": "Mental foramen",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-92",
+              "sourceLine": 92
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-bcf605d6bb",
+      "question": "Bone",
+      "preferredVariantId": "v-8c6f8c84e7",
+      "variants": [
+        {
+          "id": "v-8c6f8c84e7",
+          "answer": "Mandible.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-93",
+              "sourceLine": 93
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f5cbdf6bfb",
+      "question": "Contents",
+      "preferredVariantId": "v-1a1b0dec30",
+      "variants": [
+        {
+          "id": "v-1a1b0dec30",
+          "answer": "Mental nerve and vessels.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-94",
+              "sourceLine": 94
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-8f2f400373",
+      "variants": [
+        {
+          "id": "v-8f2f400373",
+          "answer": "Usually near second premolar region.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-95",
+              "sourceLine": 95
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "head-and-neck-model-cs17-2",
+      "section": "Bony structures, foramina and ear structures",
+      "path": [
+        "18"
+      ],
+      "label": "18"
+    }
+  ]
+}

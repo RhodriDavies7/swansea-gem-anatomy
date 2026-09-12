@@ -1,0 +1,219 @@
+{
+  "id": "vagina-6faf31009c",
+  "name": "Vagina",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Organs"
+  ],
+  "regions": [
+    "Pelvis"
+  ],
+  "systems": [
+    "Reproductive"
+  ],
+  "organs": [],
+  "tags": [
+    "BloodSupply",
+    "Course",
+    "Function",
+    "Innervation",
+    "Organ",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-58a75aff90",
+      "variants": [
+        {
+          "id": "v-58a75aff90",
+          "answer": "Vagina",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-386",
+              "sourceLine": 386
+            },
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-68",
+              "sourceLine": 68
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-da680f78ed",
+      "variants": [
+        {
+          "id": "v-da680f78ed",
+          "answer": "Canal for intercourse, menstrual flow and childbirth.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-387",
+              "sourceLine": 387
+            }
+          ]
+        },
+        {
+          "id": "v-a6333b7bd5",
+          "answer": "Fibromuscular canal for intercourse, passage of menstrual flow and childbirth.",
+          "sources": [
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-69",
+              "sourceLine": 69
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-3c446853dd",
+      "variants": [
+        {
+          "id": "v-af22cb2475",
+          "answer": "Extends from vestibule to cervix.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-388",
+              "sourceLine": 388
+            }
+          ]
+        },
+        {
+          "id": "v-3c446853dd",
+          "answer": "Extends from the vaginal vestibule superiorly to surround the cervix.",
+          "sources": [
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-70",
+              "sourceLine": 70
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-9c0c77d99f",
+      "variants": [
+        {
+          "id": "v-045a00509f",
+          "answer": "Posterior to urethra/bladder and anterior to rectum.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-389",
+              "sourceLine": 389
+            }
+          ]
+        },
+        {
+          "id": "v-9c0c77d99f",
+          "answer": "Anterior to rectum and posterior to urethra/bladder; superiorly surrounds cervix to form vaginal fornices.",
+          "sources": [
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-71",
+              "sourceLine": 71
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-f95978993a",
+      "variants": [
+        {
+          "id": "v-1fbc9626d5",
+          "answer": "Upper part visceral autonomic; lower part somatic via pudendal nerve.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-390",
+              "sourceLine": 390
+            }
+          ]
+        },
+        {
+          "id": "v-f95978993a",
+          "answer": "Upper vagina receives visceral autonomic innervation; lower vagina receives somatic innervation mainly via pudendal nerve.",
+          "sources": [
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-72",
+              "sourceLine": 72
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-a707f7e176",
+      "question": "Blood supply",
+      "preferredVariantId": "v-813137b730",
+      "variants": [
+        {
+          "id": "v-813137b730",
+          "answer": "Vaginal and uterine arteries, with contributions from internal pudendal and middle rectal branches.",
+          "sources": [
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-73",
+              "sourceLine": 73
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "female-pelvis-model-mo8",
+      "section": "",
+      "path": [
+        "58"
+      ],
+      "label": "58"
+    },
+    {
+      "modelId": "female-reproductive-system-model-ms1",
+      "section": "",
+      "path": [
+        "10"
+      ],
+      "label": "10"
+    }
+  ]
+}

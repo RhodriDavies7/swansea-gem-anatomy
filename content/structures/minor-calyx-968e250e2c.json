@@ -1,0 +1,156 @@
+{
+  "id": "minor-calyx-968e250e2c",
+  "name": "Minor calyx",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Abdomen"
+  ],
+  "systems": [
+    "Urinary"
+  ],
+  "organs": [
+    "Kidney"
+  ],
+  "tags": [
+    "CollectingStructure",
+    "CollectingSystem",
+    "Connections",
+    "Function",
+    "KidneySection",
+    "Structure"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-ec117e1fa0",
+      "variants": [
+        {
+          "id": "v-ec117e1fa0",
+          "answer": "Minor calyx",
+          "sources": [
+            {
+              "modelId": "kidney-model-ls5",
+              "cardId": "kidney-model-ls5-76",
+              "sourceLine": 76
+            },
+            {
+              "modelId": "urinary-system-model-ls3-1",
+              "cardId": "urinary-system-model-ls3-1-68",
+              "sourceLine": 68
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-1bc092b68f",
+      "variants": [
+        {
+          "id": "v-1bc092b68f",
+          "answer": "Cup-shaped collecting space surrounding the apex of a renal papilla.",
+          "sources": [
+            {
+              "modelId": "kidney-model-ls5",
+              "cardId": "kidney-model-ls5-77",
+              "sourceLine": 77
+            }
+          ]
+        },
+        {
+          "id": "v-7101ff14a4",
+          "answer": "Cup-shaped collecting structure surrounding a renal papilla.",
+          "sources": [
+            {
+              "modelId": "urinary-system-model-ls3-1",
+              "cardId": "urinary-system-model-ls3-1-69",
+              "sourceLine": 69
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-dd176ffece",
+      "variants": [
+        {
+          "id": "v-22b533b412",
+          "answer": "Receives urine from papillary ducts at the renal papilla.",
+          "sources": [
+            {
+              "modelId": "kidney-model-ls5",
+              "cardId": "kidney-model-ls5-78",
+              "sourceLine": 78
+            }
+          ]
+        },
+        {
+          "id": "v-dd176ffece",
+          "answer": "Receives urine from papillary ducts and drains toward major calyces.",
+          "sources": [
+            {
+              "modelId": "urinary-system-model-ls3-1",
+              "cardId": "urinary-system-model-ls3-1-70",
+              "sourceLine": 70
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-8f3509b64e",
+      "question": "Connections",
+      "preferredVariantId": "v-cb93b34328",
+      "variants": [
+        {
+          "id": "v-cb93b34328",
+          "answer": "Several minor calyces unite to form a major calyx.",
+          "sources": [
+            {
+              "modelId": "kidney-model-ls5",
+              "cardId": "kidney-model-ls5-79",
+              "sourceLine": 79
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "kidney-model-ls5",
+      "section": "Collecting system and renal parenchyma",
+      "path": [
+        "5"
+      ],
+      "label": "5"
+    },
+    {
+      "modelId": "urinary-system-model-ls3-1",
+      "section": "Coronal section of kidney (8a–g)",
+      "path": [
+        "8",
+        "f"
+      ],
+      "label": "8f"
+    }
+  ]
+}

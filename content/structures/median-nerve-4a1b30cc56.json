@@ -1,0 +1,235 @@
+{
+  "id": "median-nerve-4a1b30cc56",
+  "name": "Median nerve",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Nerves"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [],
+  "tags": [
+    "ArteriesAndNerves",
+    "Course",
+    "Lesion",
+    "Motor",
+    "Nerve",
+    "Roots",
+    "Sensory"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-94b001d4f8",
+      "variants": [
+        {
+          "id": "v-94b001d4f8",
+          "answer": "Median nerve",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-250",
+              "sourceLine": 250
+            },
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-449",
+              "sourceLine": 449
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-4d78ec7d11",
+      "question": "Roots",
+      "preferredVariantId": "v-ced11ab632",
+      "variants": [
+        {
+          "id": "v-c97e13862d",
+          "answer": "C6–T1, formed by lateral and medial roots from lateral and medial cords of the brachial plexus.",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-251",
+              "sourceLine": 251
+            }
+          ]
+        },
+        {
+          "id": "v-ced11ab632",
+          "answer": "C6–T1, often with C5 contribution; formed by lateral and medial roots from lateral and medial cords.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-450",
+              "sourceLine": 450
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-2c7b0c4ab5",
+      "variants": [
+        {
+          "id": "v-0b03564a03",
+          "answer": "Descends forearm and enters the hand through the carpal tunnel beneath the flexor retinaculum.",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-252",
+              "sourceLine": 252
+            }
+          ]
+        },
+        {
+          "id": "v-2c7b0c4ab5",
+          "answer": "Descends with brachial artery, crosses cubital fossa, passes between pronator teres heads, travels between FDS and FDP, then through carpal tunnel.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-451",
+              "sourceLine": 451
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-c8b6915183",
+      "question": "Motor functions",
+      "preferredVariantId": "v-d4bce63906",
+      "variants": [
+        {
+          "id": "v-3f0a44baef",
+          "answer": "In the hand supplies thenar muscles via recurrent branch and lateral two lumbricals.",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-253",
+              "sourceLine": 253
+            }
+          ]
+        },
+        {
+          "id": "v-d4bce63906",
+          "answer": "Most forearm flexors/pronators via median and anterior interosseous nerves; thenar muscles via recurrent branch; first two lumbricals.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-452",
+              "sourceLine": 452
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-a453254382",
+      "question": "Sensory functions",
+      "preferredVariantId": "v-b6d6a10b19",
+      "variants": [
+        {
+          "id": "v-b6d6a10b19",
+          "answer": "Supplies palmar surface of lateral 3½ digits and their nail beds/distal dorsal surfaces, plus lateral palm via palmar cutaneous branch.",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-254",
+              "sourceLine": 254
+            }
+          ]
+        },
+        {
+          "id": "v-0c4a039257",
+          "answer": "Lateral palm and palmar lateral 3½ digits; dorsal distal phalanges/nail beds of same digits.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-453",
+              "sourceLine": 453
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-bc53d10c57",
+      "question": "Lesion",
+      "preferredVariantId": "v-1d06eebc8d",
+      "variants": [
+        {
+          "id": "v-a2c967eaa1",
+          "answer": "At the wrist causes thenar weakness/atrophy with impaired thumb opposition and sensory loss or paraesthesia in lateral 3½ digits; carpal tunnel syndrome typically spares central palm sensation because the palmar cutaneous branch passes superficial to the retinaculum.",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-255",
+              "sourceLine": 255
+            }
+          ]
+        },
+        {
+          "id": "v-1d06eebc8d",
+          "answer": "Proximal lesion causes weak pronation, wrist/finger flexion and thenar function; carpal tunnel causes thenar weakness and paresthesia in lateral 3½ digits, usually sparing central palm.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-454",
+              "sourceLine": 454
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "hand-model-ns13",
+      "section": "Arteries and nerves",
+      "path": [
+        "8"
+      ],
+      "label": "8"
+    },
+    {
+      "modelId": "upper-limb-model-ns15",
+      "section": "Nerves",
+      "path": [
+        "71"
+      ],
+      "label": "71"
+    }
+  ]
+}

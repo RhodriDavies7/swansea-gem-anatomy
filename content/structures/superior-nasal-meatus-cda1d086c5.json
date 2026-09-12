@@ -1,0 +1,90 @@
+{
+  "id": "superior-nasal-meatus-cda1d086c5",
+  "name": "Superior nasal meatus",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Respiratory"
+  ],
+  "organs": [],
+  "tags": [
+    "Drainage",
+    "Location",
+    "NasalCavity",
+    "NasalMeatus"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-58556ccc62",
+      "variants": [
+        {
+          "id": "v-58556ccc62",
+          "answer": "Superior nasal meatus",
+          "sources": [
+            {
+              "modelId": "nose-and-nasal-cavity-model-fs3",
+              "cardId": "nose-and-nasal-cavity-model-fs3-157",
+              "sourceLine": 157
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-0637c4f8b7",
+      "variants": [
+        {
+          "id": "v-0637c4f8b7",
+          "answer": "Passage inferior to the superior nasal concha.",
+          "sources": [
+            {
+              "modelId": "nose-and-nasal-cavity-model-fs3",
+              "cardId": "nose-and-nasal-cavity-model-fs3-158",
+              "sourceLine": 158
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-74a64b1943",
+      "question": "Drainage",
+      "preferredVariantId": "v-60d3378d1c",
+      "variants": [
+        {
+          "id": "v-60d3378d1c",
+          "answer": "Receives posterior ethmoidal air cells.",
+          "sources": [
+            {
+              "modelId": "nose-and-nasal-cavity-model-fs3",
+              "cardId": "nose-and-nasal-cavity-model-fs3-159",
+              "sourceLine": 159
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "nose-and-nasal-cavity-model-fs3",
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "path": [
+        "14"
+      ],
+      "label": "14"
+    }
+  ]
+}

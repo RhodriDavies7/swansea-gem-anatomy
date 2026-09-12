@@ -1,0 +1,127 @@
+{
+  "id": "hypoglossal-nerve-9f8310b358",
+  "name": "Hypoglossal nerve",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Nerves"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [],
+  "tags": [
+    "Course",
+    "Lesion",
+    "Motor",
+    "Nerve",
+    "Roots"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-98abad1327",
+      "variants": [
+        {
+          "id": "v-98abad1327",
+          "answer": "Hypoglossal nerve",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-242",
+              "sourceLine": 242
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-4d78ec7d11",
+      "question": "Roots",
+      "preferredVariantId": "v-9f02b1b671",
+      "variants": [
+        {
+          "id": "v-9f02b1b671",
+          "answer": "Hypoglossal nucleus in the medulla.",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-243",
+              "sourceLine": 243
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-2994c9d484",
+      "variants": [
+        {
+          "id": "v-2994c9d484",
+          "answer": "Emerges between pyramid and olive, exits via hypoglossal canal and passes toward the tongue.",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-244",
+              "sourceLine": 244
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c8b6915183",
+      "question": "Motor functions",
+      "preferredVariantId": "v-7e8c4f49ab",
+      "variants": [
+        {
+          "id": "v-7e8c4f49ab",
+          "answer": "Supplies intrinsic and extrinsic tongue muscles except palatoglossus.",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-245",
+              "sourceLine": 245
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-bc53d10c57",
+      "question": "Lesion",
+      "preferredVariantId": "v-c7fdbdb3df",
+      "variants": [
+        {
+          "id": "v-c7fdbdb3df",
+          "answer": "Lower motor neuron lesion causes ipsilateral tongue weakness, atrophy and deviation toward the lesion on protrusion.",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-246",
+              "sourceLine": 246
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "deep-face-model-bs8-1",
+      "section": "",
+      "path": [
+        "37"
+      ],
+      "label": "37"
+    }
+  ]
+}

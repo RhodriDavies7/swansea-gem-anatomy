@@ -1,0 +1,195 @@
+{
+  "id": "renal-cortex-16543a45f5",
+  "name": "Renal cortex",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Abdomen"
+  ],
+  "systems": [
+    "Urinary"
+  ],
+  "organs": [
+    "Kidney"
+  ],
+  "tags": [
+    "BloodSupply",
+    "Contents",
+    "Function",
+    "KidneyRegion",
+    "KidneySection",
+    "Location",
+    "RenalRegion",
+    "RenalRegions",
+    "Structure"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-5470cc5847",
+      "variants": [
+        {
+          "id": "v-5470cc5847",
+          "answer": "Renal cortex",
+          "sources": [
+            {
+              "modelId": "kidney-model-ls5",
+              "cardId": "kidney-model-ls5-10",
+              "sourceLine": 10
+            },
+            {
+              "modelId": "urinary-system-model-ls3-1",
+              "cardId": "urinary-system-model-ls3-1-47",
+              "sourceLine": 47
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-f2ad9970f3",
+      "variants": [
+        {
+          "id": "v-f2ad9970f3",
+          "answer": "Outer renal tissue beneath the capsule, extending between pyramids as renal columns.",
+          "sources": [
+            {
+              "modelId": "kidney-model-ls5",
+              "cardId": "kidney-model-ls5-11",
+              "sourceLine": 11
+            }
+          ]
+        },
+        {
+          "id": "v-7b01381c4a",
+          "answer": "Outer region of the kidney beneath the renal capsule.",
+          "sources": [
+            {
+              "modelId": "urinary-system-model-ls3-1",
+              "cardId": "urinary-system-model-ls3-1-48",
+              "sourceLine": 48
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-f4c9104fdf",
+      "variants": [
+        {
+          "id": "v-f4c9104fdf",
+          "answer": "Contains renal corpuscles and proximal/distal convoluted tubules.",
+          "sources": [
+            {
+              "modelId": "kidney-model-ls5",
+              "cardId": "kidney-model-ls5-12",
+              "sourceLine": 12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-056f04c48e",
+      "variants": [
+        {
+          "id": "v-056f04c48e",
+          "answer": "Major site of glomerular filtration and tubular reabsorption/secretion.",
+          "sources": [
+            {
+              "modelId": "kidney-model-ls5",
+              "cardId": "kidney-model-ls5-13",
+              "sourceLine": 13
+            }
+          ]
+        },
+        {
+          "id": "v-4b0720e726",
+          "answer": "Major site of glomerular filtration and tubular processing.",
+          "sources": [
+            {
+              "modelId": "urinary-system-model-ls3-1",
+              "cardId": "urinary-system-model-ls3-1-50",
+              "sourceLine": 50
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-a707f7e176",
+      "question": "Blood supply",
+      "preferredVariantId": "v-8b370ff9db",
+      "variants": [
+        {
+          "id": "v-8b370ff9db",
+          "answer": "Receives blood through cortical radiate (interlobular) arteries and afferent arterioles.",
+          "sources": [
+            {
+              "modelId": "kidney-model-ls5",
+              "cardId": "kidney-model-ls5-14",
+              "sourceLine": 14
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f5cbdf6bfb",
+      "question": "Contents",
+      "preferredVariantId": "v-bab9eacce1",
+      "variants": [
+        {
+          "id": "v-bab9eacce1",
+          "answer": "Contains renal corpuscles and much of the proximal and distal convoluted tubules.",
+          "sources": [
+            {
+              "modelId": "urinary-system-model-ls3-1",
+              "cardId": "urinary-system-model-ls3-1-49",
+              "sourceLine": 49
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "kidney-model-ls5",
+      "section": "Renal regions",
+      "path": [
+        "B"
+      ],
+      "label": "B"
+    },
+    {
+      "modelId": "urinary-system-model-ls3-1",
+      "section": "Coronal section of kidney (8a–g)",
+      "path": [
+        "8",
+        "a"
+      ],
+      "label": "8a"
+    }
+  ]
+}

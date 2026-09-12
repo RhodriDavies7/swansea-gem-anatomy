@@ -1,0 +1,127 @@
+{
+  "id": "greater-palatine-nerve-f89322dda0",
+  "name": "Greater palatine nerve",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Nerves"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [],
+  "tags": [
+    "Course",
+    "Nerve",
+    "Parasympathetic",
+    "Roots",
+    "Sensory"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-c34ddc632f",
+      "variants": [
+        {
+          "id": "v-c34ddc632f",
+          "answer": "Greater palatine nerve",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-204",
+              "sourceLine": 204
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-4d78ec7d11",
+      "question": "Roots",
+      "preferredVariantId": "v-fb382e9d3f",
+      "variants": [
+        {
+          "id": "v-fb382e9d3f",
+          "answer": "Branch of maxillary nerve distribution via the pterygopalatine ganglion.",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-205",
+              "sourceLine": 205
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-910b8e8d04",
+      "variants": [
+        {
+          "id": "v-910b8e8d04",
+          "answer": "Descends through greater palatine canal and emerges through greater palatine foramen to run anteriorly on hard palate.",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-206",
+              "sourceLine": 206
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-a453254382",
+      "question": "Sensory functions",
+      "preferredVariantId": "v-7639f4e43b",
+      "variants": [
+        {
+          "id": "v-7639f4e43b",
+          "answer": "Supplies most of the hard palate and palatal gingiva.",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-207",
+              "sourceLine": 207
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9f76a2a9d2",
+      "question": "Parasympathetic functions",
+      "preferredVariantId": "v-c63d1f1726",
+      "variants": [
+        {
+          "id": "v-c63d1f1726",
+          "answer": "Carries postganglionic secretomotor fibres to palatal glands.",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-208",
+              "sourceLine": 208
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "deep-face-model-bs8-1",
+      "section": "",
+      "path": [
+        "32"
+      ],
+      "label": "32"
+    }
+  ]
+}

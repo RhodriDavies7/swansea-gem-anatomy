@@ -1,0 +1,115 @@
+{
+  "id": "pharyngoepiglottic-fold-bae320c084",
+  "name": "Pharyngoepiglottic fold",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Respiratory"
+  ],
+  "organs": [
+    "Larynx"
+  ],
+  "tags": [
+    "Function",
+    "InternalLarynx",
+    "MucosalFold",
+    "Structure"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-51dfbab378",
+      "variants": [
+        {
+          "id": "v-51dfbab378",
+          "answer": "Pharyngoepiglottic fold",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-277",
+              "sourceLine": 277
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-277",
+              "sourceLine": 277
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-44dbca3d27",
+      "variants": [
+        {
+          "id": "v-44dbca3d27",
+          "answer": "Mucosal fold extending from the lateral epiglottis toward the pharyngeal wall.",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-278",
+              "sourceLine": 278
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-278",
+              "sourceLine": 278
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-9289b61fc2",
+      "variants": [
+        {
+          "id": "v-9289b61fc2",
+          "answer": "Contributes to the boundary of the laryngeal inlet and channels swallowed material laterally.",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-279",
+              "sourceLine": 279
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-279",
+              "sourceLine": 279
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "larynx-model-gs7",
+      "section": "Internal laryngeal structures and mucosa",
+      "path": [
+        "38"
+      ],
+      "label": "38"
+    },
+    {
+      "modelId": "larynx-and-airway-model-gs5",
+      "section": "Internal laryngeal structures and mucosa",
+      "path": [
+        "38"
+      ],
+      "label": "38"
+    }
+  ]
+}

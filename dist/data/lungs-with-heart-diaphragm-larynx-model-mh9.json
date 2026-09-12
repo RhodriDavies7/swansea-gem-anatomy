@@ -7,8 +7,6 @@
       "path": [
         "A"
       ],
-      "question": "Identification",
-      "answer": "Larynx",
       "tags": [
         "Identification",
         "Organ",
@@ -17,15 +15,16 @@
       ],
       "sourceLine": 3,
       "section": "Major organs and regions (A–G)",
-      "label": "A"
+      "label": "A",
+      "structureId": "larynx-0d715adc76",
+      "factId": "f-9d2c706308",
+      "variantId": "v-183a0a9c2c"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-4",
       "path": [
         "A"
       ],
-      "question": "Function",
-      "answer": "Maintains the airway, protects the lower respiratory tract during swallowing and produces phonation.",
       "tags": [
         "Function",
         "Organ",
@@ -34,15 +33,16 @@
       ],
       "sourceLine": 4,
       "section": "Major organs and regions (A–G)",
-      "label": "A"
+      "label": "A",
+      "structureId": "larynx-0d715adc76",
+      "factId": "f-f1e410ad14",
+      "variantId": "v-5ee51b43dc"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-5",
       "path": [
         "A"
       ],
-      "question": "Location",
-      "answer": "Anterior neck between pharynx and trachea, approximately C3–C6.",
       "tags": [
         "Location",
         "Organ",
@@ -51,15 +51,16 @@
       ],
       "sourceLine": 5,
       "section": "Major organs and regions (A–G)",
-      "label": "A"
+      "label": "A",
+      "structureId": "larynx-0d715adc76",
+      "factId": "f-d219c68101",
+      "variantId": "v-41ec874a67"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-8",
       "path": [
         "B"
       ],
-      "question": "Identification",
-      "answer": "Thyroid gland",
       "tags": [
         "Identification",
         "Gland",
@@ -68,15 +69,16 @@
       ],
       "sourceLine": 8,
       "section": "Major organs and regions (A–G)",
-      "label": "B"
+      "label": "B",
+      "structureId": "thyroid-gland-914f76f53f",
+      "factId": "f-9d2c706308",
+      "variantId": "v-46ae9fe9b7"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-9",
       "path": [
         "B"
       ],
-      "question": "Location",
-      "answer": "Anterior neck, with lobes on either side of the upper trachea connected by an isthmus.",
       "tags": [
         "Location",
         "Gland",
@@ -85,15 +87,16 @@
       ],
       "sourceLine": 9,
       "section": "Major organs and regions (A–G)",
-      "label": "B"
+      "label": "B",
+      "structureId": "thyroid-gland-914f76f53f",
+      "factId": "f-d219c68101",
+      "variantId": "v-6e60a03139"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-10",
       "path": [
         "B"
       ],
-      "question": "Function",
-      "answer": "Produces thyroid hormones and calcitonin.",
       "tags": [
         "Function",
         "Gland",
@@ -102,15 +105,16 @@
       ],
       "sourceLine": 10,
       "section": "Major organs and regions (A–G)",
-      "label": "B"
+      "label": "B",
+      "structureId": "thyroid-gland-914f76f53f",
+      "factId": "f-f1e410ad14",
+      "variantId": "v-1abff86662"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-11",
       "path": [
         "B"
       ],
-      "question": "Blood supply",
-      "answer": "Mainly superior and inferior thyroid arteries.",
       "tags": [
         "BloodSupply",
         "Gland",
@@ -119,15 +123,16 @@
       ],
       "sourceLine": 11,
       "section": "Major organs and regions (A–G)",
-      "label": "B"
+      "label": "B",
+      "structureId": "thyroid-gland-914f76f53f",
+      "factId": "f-a707f7e176",
+      "variantId": "v-7339c3cc3d"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-14",
       "path": [
         "C"
       ],
-      "question": "Identification",
-      "answer": "Trachea",
       "tags": [
         "Identification",
         "Tube",
@@ -136,15 +141,16 @@
       ],
       "sourceLine": 14,
       "section": "Major organs and regions (A–G)",
-      "label": "C"
+      "label": "C",
+      "structureId": "trachea-3613802d6d",
+      "factId": "f-9d2c706308",
+      "variantId": "v-f6084597ce"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-15",
       "path": [
         "C"
       ],
-      "question": "Function",
-      "answer": "Conducts air between larynx and main bronchi.",
       "tags": [
         "Function",
         "Tube",
@@ -153,15 +159,16 @@
       ],
       "sourceLine": 15,
       "section": "Major organs and regions (A–G)",
-      "label": "C"
+      "label": "C",
+      "structureId": "trachea-3613802d6d",
+      "factId": "f-f1e410ad14",
+      "variantId": "v-7987c634ed"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-16",
       "path": [
         "C"
       ],
-      "question": "Structure",
-      "answer": "Supported by C-shaped hyaline cartilage rings with a posterior membranous wall.",
       "tags": [
         "Structure",
         "Tube",
@@ -170,15 +177,16 @@
       ],
       "sourceLine": 16,
       "section": "Major organs and regions (A–G)",
-      "label": "C"
+      "label": "C",
+      "structureId": "trachea-3613802d6d",
+      "factId": "f-9482c5d5bf",
+      "variantId": "v-aa5bec92ec"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-17",
       "path": [
         "C"
       ],
-      "question": "Course",
-      "answer": "Begins at C6 and bifurcates at the carina around the sternal angle/T4–T5 level.",
       "tags": [
         "Course",
         "Tube",
@@ -187,15 +195,16 @@
       ],
       "sourceLine": 17,
       "section": "Major organs and regions (A–G)",
-      "label": "C"
+      "label": "C",
+      "structureId": "trachea-3613802d6d",
+      "factId": "f-d82b56cad9",
+      "variantId": "v-4ee707006b"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-20",
       "path": [
         "D"
       ],
-      "question": "Identification",
-      "answer": "Oesophagus",
       "tags": [
         "Identification",
         "Tube",
@@ -204,15 +213,16 @@
       ],
       "sourceLine": 20,
       "section": "Major organs and regions (A–G)",
-      "label": "D"
+      "label": "D",
+      "structureId": "oesophagus-ad76796645",
+      "factId": "f-9d2c706308",
+      "variantId": "v-10360fdead"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-21",
       "path": [
         "D"
       ],
-      "question": "Function",
-      "answer": "Transports food and fluid from pharynx to stomach by peristalsis.",
       "tags": [
         "Function",
         "Tube",
@@ -221,15 +231,16 @@
       ],
       "sourceLine": 21,
       "section": "Major organs and regions (A–G)",
-      "label": "D"
+      "label": "D",
+      "structureId": "oesophagus-ad76796645",
+      "factId": "f-f1e410ad14",
+      "variantId": "v-51d0a9784a"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-22",
       "path": [
         "D"
       ],
-      "question": "Course",
-      "answer": "Begins at C6, descends through posterior mediastinum and passes through diaphragm at T10.",
       "tags": [
         "Course",
         "Tube",
@@ -238,15 +249,16 @@
       ],
       "sourceLine": 22,
       "section": "Major organs and regions (A–G)",
-      "label": "D"
+      "label": "D",
+      "structureId": "oesophagus-ad76796645",
+      "factId": "f-d82b56cad9",
+      "variantId": "v-355277e441"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-23",
       "path": [
         "D"
       ],
-      "question": "Relations",
-      "answer": "Lies posterior to trachea in the neck and upper thorax.",
       "tags": [
         "Relations",
         "Tube",
@@ -255,15 +267,16 @@
       ],
       "sourceLine": 23,
       "section": "Major organs and regions (A–G)",
-      "label": "D"
+      "label": "D",
+      "structureId": "oesophagus-ad76796645",
+      "factId": "f-6519fe11ef",
+      "variantId": "v-ecad9ffb0d"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-26",
       "path": [
         "E"
       ],
-      "question": "Identification",
-      "answer": "Lung",
       "tags": [
         "Identification",
         "Organ",
@@ -272,15 +285,16 @@
       ],
       "sourceLine": 26,
       "section": "Major organs and regions (A–G)",
-      "label": "E"
+      "label": "E",
+      "structureId": "lung-44cccc26ca",
+      "factId": "f-9d2c706308",
+      "variantId": "v-a5de086f64"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-27",
       "path": [
         "E"
       ],
-      "question": "Function",
-      "answer": "Gas exchange between alveolar air and pulmonary capillary blood.",
       "tags": [
         "Function",
         "Organ",
@@ -289,15 +303,16 @@
       ],
       "sourceLine": 27,
       "section": "Major organs and regions (A–G)",
-      "label": "E"
+      "label": "E",
+      "structureId": "lung-44cccc26ca",
+      "factId": "f-f1e410ad14",
+      "variantId": "v-b136754bde"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-28",
       "path": [
         "E"
       ],
-      "question": "Structure",
-      "answer": "Right lung has three lobes; left lung normally has two lobes and a cardiac notch.",
       "tags": [
         "Structure",
         "Organ",
@@ -306,15 +321,16 @@
       ],
       "sourceLine": 28,
       "section": "Major organs and regions (A–G)",
-      "label": "E"
+      "label": "E",
+      "structureId": "lung-44cccc26ca",
+      "factId": "f-9482c5d5bf",
+      "variantId": "v-d76a9cd6a2"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-31",
       "path": [
         "F"
       ],
-      "question": "Identification",
-      "answer": "Heart",
       "tags": [
         "Identification",
         "Organ",
@@ -323,15 +339,16 @@
       ],
       "sourceLine": 31,
       "section": "Major organs and regions (A–G)",
-      "label": "F"
+      "label": "F",
+      "structureId": "heart-0e4ae2aa03",
+      "factId": "f-9d2c706308",
+      "variantId": "v-2a37335eeb"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-32",
       "path": [
         "F"
       ],
-      "question": "Function",
-      "answer": "Pumps blood through pulmonary and systemic circulations.",
       "tags": [
         "Function",
         "Organ",
@@ -340,15 +357,16 @@
       ],
       "sourceLine": 32,
       "section": "Major organs and regions (A–G)",
-      "label": "F"
+      "label": "F",
+      "structureId": "heart-0e4ae2aa03",
+      "factId": "f-f1e410ad14",
+      "variantId": "v-da8c6d575d"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-33",
       "path": [
         "F"
       ],
-      "question": "Location",
-      "answer": "Middle mediastinum within the pericardium.",
       "tags": [
         "Location",
         "Organ",
@@ -357,15 +375,16 @@
       ],
       "sourceLine": 33,
       "section": "Major organs and regions (A–G)",
-      "label": "F"
+      "label": "F",
+      "structureId": "heart-0e4ae2aa03",
+      "factId": "f-d219c68101",
+      "variantId": "v-a12c6b618c"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-34",
       "path": [
         "F"
       ],
-      "question": "Parts",
-      "answer": "Four chambers: right and left atria, right and left ventricles.",
       "tags": [
         "Parts",
         "Organ",
@@ -374,15 +393,16 @@
       ],
       "sourceLine": 34,
       "section": "Major organs and regions (A–G)",
-      "label": "F"
+      "label": "F",
+      "structureId": "heart-0e4ae2aa03",
+      "factId": "f-e374280917",
+      "variantId": "v-61992e54bb"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-37",
       "path": [
         "G"
       ],
-      "question": "Identification",
-      "answer": "Diaphragm",
       "tags": [
         "Identification",
         "Muscle",
@@ -391,15 +411,16 @@
       ],
       "sourceLine": 37,
       "section": "Major organs and regions (A–G)",
-      "label": "G"
+      "label": "G",
+      "structureId": "diaphragm-60575b9d78",
+      "factId": "f-9d2c706308",
+      "variantId": "v-19a78b6680"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-38",
       "path": [
         "G"
       ],
-      "question": "Actions",
-      "answer": "Primary muscle of inspiration; contraction increases thoracic volume.",
       "tags": [
         "Action",
         "Muscle",
@@ -408,15 +429,16 @@
       ],
       "sourceLine": 38,
       "section": "Major organs and regions (A–G)",
-      "label": "G"
+      "label": "G",
+      "structureId": "diaphragm-60575b9d78",
+      "factId": "f-c3cd636a58",
+      "variantId": "v-1f8371e028"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-39",
       "path": [
         "G"
       ],
-      "question": "Innervation",
-      "answer": "Phrenic nerves (C3–C5) provide motor supply.",
       "tags": [
         "Innervation",
         "Muscle",
@@ -425,15 +447,16 @@
       ],
       "sourceLine": 39,
       "section": "Major organs and regions (A–G)",
-      "label": "G"
+      "label": "G",
+      "structureId": "diaphragm-60575b9d78",
+      "factId": "f-65461dd593",
+      "variantId": "v-c7f37e08b9"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-40",
       "path": [
         "G"
       ],
-      "question": "Origin",
-      "answer": "Xiphoid process, lower six ribs/costal cartilages and upper lumbar vertebrae via crura.",
       "tags": [
         "Origin",
         "Muscle",
@@ -442,15 +465,16 @@
       ],
       "sourceLine": 40,
       "section": "Major organs and regions (A–G)",
-      "label": "G"
+      "label": "G",
+      "structureId": "diaphragm-60575b9d78",
+      "factId": "f-44ab85a252",
+      "variantId": "v-8c3f799baa"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-41",
       "path": [
         "G"
       ],
-      "question": "Insertion",
-      "answer": "Central tendon.",
       "tags": [
         "Insertion",
         "Muscle",
@@ -459,15 +483,16 @@
       ],
       "sourceLine": 41,
       "section": "Major organs and regions (A–G)",
-      "label": "G"
+      "label": "G",
+      "structureId": "diaphragm-60575b9d78",
+      "factId": "f-6ffaeff164",
+      "variantId": "v-8c91433848"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-45",
       "path": [
         "1"
       ],
-      "question": "Identification",
-      "answer": "Hyoid bone",
       "tags": [
         "Identification",
         "Bone",
@@ -476,15 +501,16 @@
       ],
       "sourceLine": 45,
       "section": "Larynx and airway",
-      "label": "1"
+      "label": "1",
+      "structureId": "hyoid-bone-87a205bd00",
+      "factId": "f-9d2c706308",
+      "variantId": "v-f641e56224"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-46",
       "path": [
         "1"
       ],
-      "question": "Articulations",
-      "answer": "Does not articulate directly with another bone; suspended by muscles and ligaments.",
       "tags": [
         "Articulations",
         "Bone",
@@ -493,15 +519,16 @@
       ],
       "sourceLine": 46,
       "section": "Larynx and airway",
-      "label": "1"
+      "label": "1",
+      "structureId": "hyoid-bone-87a205bd00",
+      "factId": "f-a40bee8d10",
+      "variantId": "v-43ba1e7b77"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-47",
       "path": [
         "1"
       ],
-      "question": "Function",
-      "answer": "Supports tongue and larynx and provides muscular attachment.",
       "tags": [
         "Function",
         "Bone",
@@ -510,15 +537,16 @@
       ],
       "sourceLine": 47,
       "section": "Larynx and airway",
-      "label": "1"
+      "label": "1",
+      "structureId": "hyoid-bone-87a205bd00",
+      "factId": "f-f1e410ad14",
+      "variantId": "v-1467657a25"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-50",
       "path": [
         "2"
       ],
-      "question": "Identification",
-      "answer": "Thyroid cartilage",
       "tags": [
         "Identification",
         "Cartilage",
@@ -527,15 +555,16 @@
       ],
       "sourceLine": 50,
       "section": "Larynx and airway",
-      "label": "2"
+      "label": "2",
+      "structureId": "thyroid-cartilage-dad3d80fd8",
+      "factId": "f-9d2c706308",
+      "variantId": "v-75eb9097b3"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-51",
       "path": [
         "2"
       ],
-      "question": "Structure",
-      "answer": "Largest laryngeal cartilage, formed by two laminae meeting anteriorly.",
       "tags": [
         "Structure",
         "Cartilage",
@@ -544,15 +573,16 @@
       ],
       "sourceLine": 51,
       "section": "Larynx and airway",
-      "label": "2"
+      "label": "2",
+      "structureId": "thyroid-cartilage-dad3d80fd8",
+      "factId": "f-9482c5d5bf",
+      "variantId": "v-c6a85102b8"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-52",
       "path": [
         "2"
       ],
-      "question": "Function",
-      "answer": "Protects the vocal apparatus and provides attachment for laryngeal structures.",
       "tags": [
         "Function",
         "Cartilage",
@@ -561,15 +591,16 @@
       ],
       "sourceLine": 52,
       "section": "Larynx and airway",
-      "label": "2"
+      "label": "2",
+      "structureId": "thyroid-cartilage-dad3d80fd8",
+      "factId": "f-f1e410ad14",
+      "variantId": "v-f6edae38b0"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-55",
       "path": [
         "3"
       ],
-      "question": "Identification",
-      "answer": "Cricoid cartilage",
       "tags": [
         "Identification",
         "Cartilage",
@@ -578,15 +609,16 @@
       ],
       "sourceLine": 55,
       "section": "Larynx and airway",
-      "label": "3"
+      "label": "3",
+      "structureId": "cricoid-cartilage-7ceb094a4f",
+      "factId": "f-9d2c706308",
+      "variantId": "v-6d1f000672"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-56",
       "path": [
         "3"
       ],
-      "question": "Structure",
-      "answer": "Only complete cartilaginous ring of the airway.",
       "tags": [
         "Structure",
         "Cartilage",
@@ -595,15 +627,16 @@
       ],
       "sourceLine": 56,
       "section": "Larynx and airway",
-      "label": "3"
+      "label": "3",
+      "structureId": "cricoid-cartilage-7ceb094a4f",
+      "factId": "f-9482c5d5bf",
+      "variantId": "v-45fde73686"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-57",
       "path": [
         "3"
       ],
-      "question": "Function",
-      "answer": "Maintains airway patency and supports arytenoid cartilages.",
       "tags": [
         "Function",
         "Cartilage",
@@ -612,15 +645,16 @@
       ],
       "sourceLine": 57,
       "section": "Larynx and airway",
-      "label": "3"
+      "label": "3",
+      "structureId": "cricoid-cartilage-7ceb094a4f",
+      "factId": "f-f1e410ad14",
+      "variantId": "v-2f4f145314"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-58",
       "path": [
         "3"
       ],
-      "question": "Relations",
-      "answer": "Inferior to thyroid cartilage and superior to first tracheal ring.",
       "tags": [
         "Relations",
         "Cartilage",
@@ -629,15 +663,16 @@
       ],
       "sourceLine": 58,
       "section": "Larynx and airway",
-      "label": "3"
+      "label": "3",
+      "structureId": "cricoid-cartilage-7ceb094a4f",
+      "factId": "f-6519fe11ef",
+      "variantId": "v-403b9b22d5"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-61",
       "path": [
         "4"
       ],
-      "question": "Identification",
-      "answer": "Epiglottic cartilage",
       "tags": [
         "Identification",
         "Cartilage",
@@ -646,15 +681,16 @@
       ],
       "sourceLine": 61,
       "section": "Larynx and airway",
-      "label": "4"
+      "label": "4",
+      "structureId": "epiglottic-cartilage-50bc58db6d",
+      "factId": "f-9d2c706308",
+      "variantId": "v-a75aa478c8"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-62",
       "path": [
         "4"
       ],
-      "question": "Structure",
-      "answer": "Leaf-shaped elastic cartilage forming the core of the epiglottis.",
       "tags": [
         "Structure",
         "Cartilage",
@@ -663,15 +699,16 @@
       ],
       "sourceLine": 62,
       "section": "Larynx and airway",
-      "label": "4"
+      "label": "4",
+      "structureId": "epiglottic-cartilage-50bc58db6d",
+      "factId": "f-9482c5d5bf",
+      "variantId": "v-43faa57e48"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-63",
       "path": [
         "4"
       ],
-      "question": "Function",
-      "answer": "Helps protect the laryngeal inlet during swallowing.",
       "tags": [
         "Function",
         "Cartilage",
@@ -680,15 +717,16 @@
       ],
       "sourceLine": 63,
       "section": "Larynx and airway",
-      "label": "4"
+      "label": "4",
+      "structureId": "epiglottic-cartilage-50bc58db6d",
+      "factId": "f-f1e410ad14",
+      "variantId": "v-a878094c9b"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-66",
       "path": [
         "5"
       ],
-      "question": "Identification",
-      "answer": "Corniculate cartilage",
       "tags": [
         "Identification",
         "Cartilage",
@@ -697,15 +735,16 @@
       ],
       "sourceLine": 66,
       "section": "Larynx and airway",
-      "label": "5"
+      "label": "5",
+      "structureId": "corniculate-cartilage-f0ebbbdb38",
+      "factId": "f-9d2c706308",
+      "variantId": "v-5c96346f8c"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-67",
       "path": [
         "5"
       ],
-      "question": "Structure",
-      "answer": "Small paired conical elastic cartilages atop the arytenoids.",
       "tags": [
         "Structure",
         "Cartilage",
@@ -714,15 +753,16 @@
       ],
       "sourceLine": 67,
       "section": "Larynx and airway",
-      "label": "5"
+      "label": "5",
+      "structureId": "corniculate-cartilage-f0ebbbdb38",
+      "factId": "f-9482c5d5bf",
+      "variantId": "v-3507cd8880"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-68",
       "path": [
         "5"
       ],
-      "question": "Function",
-      "answer": "Support the posterior aryepiglottic folds.",
       "tags": [
         "Function",
         "Cartilage",
@@ -731,15 +771,16 @@
       ],
       "sourceLine": 68,
       "section": "Larynx and airway",
-      "label": "5"
+      "label": "5",
+      "structureId": "corniculate-cartilage-f0ebbbdb38",
+      "factId": "f-f1e410ad14",
+      "variantId": "v-b69b5c00d1"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-71",
       "path": [
         "6"
       ],
-      "question": "Identification",
-      "answer": "Right main bronchus",
       "tags": [
         "Identification",
         "Bronchus",
@@ -748,15 +789,16 @@
       ],
       "sourceLine": 71,
       "section": "Larynx and airway",
-      "label": "6"
+      "label": "6",
+      "structureId": "right-main-bronchus-b4cc13d09b",
+      "factId": "f-9d2c706308",
+      "variantId": "v-c5b686874b"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-72",
       "path": [
         "6"
       ],
-      "question": "Course",
-      "answer": "Shorter, wider and more vertical than the left main bronchus.",
       "tags": [
         "Course",
         "Bronchus",
@@ -765,15 +807,16 @@
       ],
       "sourceLine": 72,
       "section": "Larynx and airway",
-      "label": "6"
+      "label": "6",
+      "structureId": "right-main-bronchus-b4cc13d09b",
+      "factId": "f-d82b56cad9",
+      "variantId": "v-0fbfa4ee51"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-73",
       "path": [
         "6"
       ],
-      "question": "Branches",
-      "answer": "Divides into right upper, middle and lower lobar bronchi.",
       "tags": [
         "Branches",
         "Bronchus",
@@ -782,15 +825,16 @@
       ],
       "sourceLine": 73,
       "section": "Larynx and airway",
-      "label": "6"
+      "label": "6",
+      "structureId": "right-main-bronchus-b4cc13d09b",
+      "factId": "f-f578227926",
+      "variantId": "v-1a0b99c44d"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-74",
       "path": [
         "6"
       ],
-      "question": "Clinical relevance",
-      "answer": "Aspirated foreign bodies are more likely to enter the right main bronchus.",
       "tags": [
         "Clinical",
         "Bronchus",
@@ -799,15 +843,16 @@
       ],
       "sourceLine": 74,
       "section": "Larynx and airway",
-      "label": "6"
+      "label": "6",
+      "structureId": "right-main-bronchus-b4cc13d09b",
+      "factId": "f-b03737e3cd",
+      "variantId": "v-d493eb1aca"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-77",
       "path": [
         "7"
       ],
-      "question": "Identification",
-      "answer": "Left main bronchus",
       "tags": [
         "Identification",
         "Bronchus",
@@ -816,15 +861,16 @@
       ],
       "sourceLine": 77,
       "section": "Larynx and airway",
-      "label": "7"
+      "label": "7",
+      "structureId": "left-main-bronchus-19aea0f6e6",
+      "factId": "f-9d2c706308",
+      "variantId": "v-26bb69dcb1"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-78",
       "path": [
         "7"
       ],
-      "question": "Course",
-      "answer": "Longer, narrower and more oblique than the right main bronchus.",
       "tags": [
         "Course",
         "Bronchus",
@@ -833,15 +879,16 @@
       ],
       "sourceLine": 78,
       "section": "Larynx and airway",
-      "label": "7"
+      "label": "7",
+      "structureId": "left-main-bronchus-19aea0f6e6",
+      "factId": "f-d82b56cad9",
+      "variantId": "v-ac0fd3efbb"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-79",
       "path": [
         "7"
       ],
-      "question": "Branches",
-      "answer": "Divides into left upper and lower lobar bronchi.",
       "tags": [
         "Branches",
         "Bronchus",
@@ -850,15 +897,16 @@
       ],
       "sourceLine": 79,
       "section": "Larynx and airway",
-      "label": "7"
+      "label": "7",
+      "structureId": "left-main-bronchus-19aea0f6e6",
+      "factId": "f-f578227926",
+      "variantId": "v-4fe43fbb1d"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-80",
       "path": [
         "7"
       ],
-      "question": "Relations",
-      "answer": "Passes inferior to the aortic arch.",
       "tags": [
         "Relations",
         "Bronchus",
@@ -867,15 +915,16 @@
       ],
       "sourceLine": 80,
       "section": "Larynx and airway",
-      "label": "7"
+      "label": "7",
+      "structureId": "left-main-bronchus-19aea0f6e6",
+      "factId": "f-6519fe11ef",
+      "variantId": "v-441af46779"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-83",
       "path": [
         "8"
       ],
-      "question": "Identification",
-      "answer": "Carina of the trachea",
       "tags": [
         "Identification",
         "AirwayLandmark",
@@ -884,15 +933,16 @@
       ],
       "sourceLine": 83,
       "section": "Larynx and airway",
-      "label": "8"
+      "label": "8",
+      "structureId": "carina-of-the-trachea-be24fa13d9",
+      "factId": "f-9d2c706308",
+      "variantId": "v-f5392e6dc1"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-84",
       "path": [
         "8"
       ],
-      "question": "Location",
-      "answer": "Ridge at bifurcation of the trachea into the main bronchi.",
       "tags": [
         "Location",
         "AirwayLandmark",
@@ -901,15 +951,16 @@
       ],
       "sourceLine": 84,
       "section": "Larynx and airway",
-      "label": "8"
+      "label": "8",
+      "structureId": "carina-of-the-trachea-be24fa13d9",
+      "factId": "f-d219c68101",
+      "variantId": "v-34398833ee"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-85",
       "path": [
         "8"
       ],
-      "question": "Clinical relevance",
-      "answer": "Highly sensitive; stimulation triggers cough reflex.",
       "tags": [
         "Clinical",
         "AirwayLandmark",
@@ -918,15 +969,16 @@
       ],
       "sourceLine": 85,
       "section": "Larynx and airway",
-      "label": "8"
+      "label": "8",
+      "structureId": "carina-of-the-trachea-be24fa13d9",
+      "factId": "f-b03737e3cd",
+      "variantId": "v-397873910f"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-88",
       "path": [
         "9"
       ],
-      "question": "Identification",
-      "answer": "Cricotracheal ligament",
       "tags": [
         "Identification",
         "Ligament",
@@ -935,15 +987,16 @@
       ],
       "sourceLine": 88,
       "section": "Larynx and airway",
-      "label": "9"
+      "label": "9",
+      "structureId": "cricotracheal-ligament-bf02f12758",
+      "factId": "f-9d2c706308",
+      "variantId": "v-810b61ab93"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-89",
       "path": [
         "9"
       ],
-      "question": "Attachments",
-      "answer": "Connects inferior border of cricoid cartilage to first tracheal ring.",
       "tags": [
         "Attachments",
         "Ligament",
@@ -952,15 +1005,16 @@
       ],
       "sourceLine": 89,
       "section": "Larynx and airway",
-      "label": "9"
+      "label": "9",
+      "structureId": "cricotracheal-ligament-bf02f12758",
+      "factId": "f-6771ade6e8",
+      "variantId": "v-7bee59b642"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-90",
       "path": [
         "9"
       ],
-      "question": "Function",
-      "answer": "Secures larynx to trachea while allowing movement.",
       "tags": [
         "Function",
         "Ligament",
@@ -969,15 +1023,16 @@
       ],
       "sourceLine": 90,
       "section": "Larynx and airway",
-      "label": "9"
+      "label": "9",
+      "structureId": "cricotracheal-ligament-bf02f12758",
+      "factId": "f-f1e410ad14",
+      "variantId": "v-b73cdd774a"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-94",
       "path": [
         "10"
       ],
-      "question": "Identification",
-      "answer": "Aorta",
       "tags": [
         "Identification",
         "Artery",
@@ -986,15 +1041,16 @@
       ],
       "sourceLine": 94,
       "section": "Great vessels",
-      "label": "10"
+      "label": "10",
+      "structureId": "aorta-97a15f94fe",
+      "factId": "f-9d2c706308",
+      "variantId": "v-7ed7cca943"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-95",
       "path": [
         "10"
       ],
-      "question": "Origin",
-      "answer": "Arises from the left ventricle through the aortic valve.",
       "tags": [
         "Origin",
         "Artery",
@@ -1003,15 +1059,16 @@
       ],
       "sourceLine": 95,
       "section": "Great vessels",
-      "label": "10"
+      "label": "10",
+      "structureId": "aorta-97a15f94fe",
+      "factId": "f-44ab85a252",
+      "variantId": "v-cb0d40912a"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-96",
       "path": [
         "10"
       ],
-      "question": "Parts",
-      "answer": "Ascending aorta, arch of aorta and descending thoracic/abdominal aorta.",
       "tags": [
         "Parts",
         "Artery",
@@ -1020,15 +1077,16 @@
       ],
       "sourceLine": 96,
       "section": "Great vessels",
-      "label": "10"
+      "label": "10",
+      "structureId": "aorta-97a15f94fe",
+      "factId": "f-e374280917",
+      "variantId": "v-19ec76d87d"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-97",
       "path": [
         "10"
       ],
-      "question": "Function",
-      "answer": "Main systemic artery carrying oxygenated blood from the left ventricle.",
       "tags": [
         "Function",
         "Artery",
@@ -1037,15 +1095,16 @@
       ],
       "sourceLine": 97,
       "section": "Great vessels",
-      "label": "10"
+      "label": "10",
+      "structureId": "aorta-97a15f94fe",
+      "factId": "f-f1e410ad14",
+      "variantId": "v-98f63cdfc3"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-101",
       "path": [
         "11"
       ],
-      "question": "Identification",
-      "answer": "Upper lobe of right lung",
       "tags": [
         "Identification",
         "LungLobe",
@@ -1054,15 +1113,16 @@
       ],
       "sourceLine": 101,
       "section": "Lung lobes",
-      "label": "11"
+      "label": "11",
+      "structureId": "upper-lobe-of-right-lung-d6ac467bed",
+      "factId": "f-9d2c706308",
+      "variantId": "v-bf977fe234"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-102",
       "path": [
         "11"
       ],
-      "question": "Relations",
-      "answer": "Separated from middle lobe by horizontal fissure and lower lobe by oblique fissure.",
       "tags": [
         "Relations",
         "LungLobe",
@@ -1071,15 +1131,16 @@
       ],
       "sourceLine": 102,
       "section": "Lung lobes",
-      "label": "11"
+      "label": "11",
+      "structureId": "upper-lobe-of-right-lung-d6ac467bed",
+      "factId": "f-6519fe11ef",
+      "variantId": "v-e90421ad6f"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-103",
       "path": [
         "11"
       ],
-      "question": "Function",
-      "answer": "Contains bronchopulmonary segments participating in gas exchange.",
       "tags": [
         "Function",
         "LungLobe",
@@ -1088,15 +1149,16 @@
       ],
       "sourceLine": 103,
       "section": "Lung lobes",
-      "label": "11"
+      "label": "11",
+      "structureId": "upper-lobe-of-right-lung-d6ac467bed",
+      "factId": "f-f1e410ad14",
+      "variantId": "v-8d6e86615d"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-106",
       "path": [
         "12"
       ],
-      "question": "Identification",
-      "answer": "Middle lobe of right lung",
       "tags": [
         "Identification",
         "LungLobe",
@@ -1105,15 +1167,16 @@
       ],
       "sourceLine": 106,
       "section": "Lung lobes",
-      "label": "12"
+      "label": "12",
+      "structureId": "middle-lobe-of-right-lung-d166ca2f0f",
+      "factId": "f-9d2c706308",
+      "variantId": "v-5d6b594ee9"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-107",
       "path": [
         "12"
       ],
-      "question": "Relations",
-      "answer": "Between horizontal and oblique fissures.",
       "tags": [
         "Relations",
         "LungLobe",
@@ -1122,15 +1185,16 @@
       ],
       "sourceLine": 107,
       "section": "Lung lobes",
-      "label": "12"
+      "label": "12",
+      "structureId": "middle-lobe-of-right-lung-d166ca2f0f",
+      "factId": "f-6519fe11ef",
+      "variantId": "v-d3981c7d2d"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-108",
       "path": [
         "12"
       ],
-      "question": "Function",
-      "answer": "Contains medial and lateral bronchopulmonary segments.",
       "tags": [
         "Function",
         "LungLobe",
@@ -1139,15 +1203,16 @@
       ],
       "sourceLine": 108,
       "section": "Lung lobes",
-      "label": "12"
+      "label": "12",
+      "structureId": "middle-lobe-of-right-lung-d166ca2f0f",
+      "factId": "f-f1e410ad14",
+      "variantId": "v-8671216b10"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-111",
       "path": [
         "13"
       ],
-      "question": "Identification",
-      "answer": "Lower lobe of right lung",
       "tags": [
         "Identification",
         "LungLobe",
@@ -1156,15 +1221,16 @@
       ],
       "sourceLine": 111,
       "section": "Lung lobes",
-      "label": "13"
+      "label": "13",
+      "structureId": "lower-lobe-of-right-lung-8a652dcba0",
+      "factId": "f-9d2c706308",
+      "variantId": "v-86e5bd7587"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-112",
       "path": [
         "13"
       ],
-      "question": "Relations",
-      "answer": "Inferior to oblique fissure and forms much of the diaphragmatic surface.",
       "tags": [
         "Relations",
         "LungLobe",
@@ -1173,15 +1239,16 @@
       ],
       "sourceLine": 112,
       "section": "Lung lobes",
-      "label": "13"
+      "label": "13",
+      "structureId": "lower-lobe-of-right-lung-8a652dcba0",
+      "factId": "f-6519fe11ef",
+      "variantId": "v-c067a518cd"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-113",
       "path": [
         "13"
       ],
-      "question": "Function",
-      "answer": "Contains superior and basal bronchopulmonary segments.",
       "tags": [
         "Function",
         "LungLobe",
@@ -1190,15 +1257,16 @@
       ],
       "sourceLine": 113,
       "section": "Lung lobes",
-      "label": "13"
+      "label": "13",
+      "structureId": "lower-lobe-of-right-lung-8a652dcba0",
+      "factId": "f-f1e410ad14",
+      "variantId": "v-feaef24cbe"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-116",
       "path": [
         "14"
       ],
-      "question": "Identification",
-      "answer": "Upper lobe of left lung",
       "tags": [
         "Identification",
         "LungLobe",
@@ -1207,15 +1275,16 @@
       ],
       "sourceLine": 116,
       "section": "Lung lobes",
-      "label": "14"
+      "label": "14",
+      "structureId": "upper-lobe-of-left-lung-68f0cc3ab7",
+      "factId": "f-9d2c706308",
+      "variantId": "v-1689255c89"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-117",
       "path": [
         "14"
       ],
-      "question": "Relations",
-      "answer": "Superior to oblique fissure; includes the lingula.",
       "tags": [
         "Relations",
         "LungLobe",
@@ -1224,15 +1293,16 @@
       ],
       "sourceLine": 117,
       "section": "Lung lobes",
-      "label": "14"
+      "label": "14",
+      "structureId": "upper-lobe-of-left-lung-68f0cc3ab7",
+      "factId": "f-6519fe11ef",
+      "variantId": "v-28d3935ee0"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-118",
       "path": [
         "14"
       ],
-      "question": "Function",
-      "answer": "Contains upper-lobe bronchopulmonary segments and participates in gas exchange.",
       "tags": [
         "Function",
         "LungLobe",
@@ -1241,15 +1311,16 @@
       ],
       "sourceLine": 118,
       "section": "Lung lobes",
-      "label": "14"
+      "label": "14",
+      "structureId": "upper-lobe-of-left-lung-68f0cc3ab7",
+      "factId": "f-f1e410ad14",
+      "variantId": "v-6b2ab0ece1"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-121",
       "path": [
         "15"
       ],
-      "question": "Identification",
-      "answer": "Lower lobe of right lung",
       "tags": [
         "Identification",
         "LungLobe",
@@ -1258,15 +1329,16 @@
       ],
       "sourceLine": 121,
       "section": "Lung lobes",
-      "label": "15"
+      "label": "15",
+      "structureId": "lower-lobe-of-right-lung-8a652dcba0",
+      "factId": "f-9d2c706308",
+      "variantId": "v-86e5bd7587"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-122",
       "path": [
         "15"
       ],
-      "question": "Relations",
-      "answer": "Inferior to the oblique fissure.",
       "tags": [
         "Relations",
         "LungLobe",
@@ -1275,15 +1347,16 @@
       ],
       "sourceLine": 122,
       "section": "Lung lobes",
-      "label": "15"
+      "label": "15",
+      "structureId": "lower-lobe-of-right-lung-8a652dcba0",
+      "factId": "f-6519fe11ef",
+      "variantId": "v-e62f314f0e"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-123",
       "path": [
         "15"
       ],
-      "question": "Function",
-      "answer": "Participates in gas exchange.",
       "tags": [
         "Function",
         "LungLobe",
@@ -1292,15 +1365,16 @@
       ],
       "sourceLine": 123,
       "section": "Lung lobes",
-      "label": "15"
+      "label": "15",
+      "structureId": "lower-lobe-of-right-lung-8a652dcba0",
+      "factId": "f-f1e410ad14",
+      "variantId": "v-81c2f69fec"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-124",
       "path": [
         "15"
       ],
-      "question": "Model note",
-      "answer": "The supplied model key labels number 15 as 'Lower lobe of right lung', duplicating number 13. This has been preserved exactly and should be checked against the physical model.",
       "tags": [
         "ModelNote",
         "LungLobe",
@@ -1309,15 +1383,16 @@
       ],
       "sourceLine": 124,
       "section": "Lung lobes",
-      "label": "15"
+      "label": "15",
+      "structureId": "lower-lobe-of-right-lung-8a652dcba0",
+      "factId": "f-c0d9dc54c1",
+      "variantId": "v-452986d8d5"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-128",
       "path": [
         "16"
       ],
-      "question": "Identification",
-      "answer": "Right atrium",
       "tags": [
         "Identification",
         "HeartChamber",
@@ -1326,15 +1401,16 @@
       ],
       "sourceLine": 128,
       "section": "Heart chambers and auricles",
-      "label": "16"
+      "label": "16",
+      "structureId": "right-atrium-23132c28da",
+      "factId": "f-9d2c706308",
+      "variantId": "v-dd9470a0f7"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-129",
       "path": [
         "16"
       ],
-      "question": "Function",
-      "answer": "Receives systemic venous blood and delivers it to the right ventricle.",
       "tags": [
         "Function",
         "HeartChamber",
@@ -1343,15 +1419,16 @@
       ],
       "sourceLine": 129,
       "section": "Heart chambers and auricles",
-      "label": "16"
+      "label": "16",
+      "structureId": "right-atrium-23132c28da",
+      "factId": "f-f1e410ad14",
+      "variantId": "v-27cf8f6191"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-130",
       "path": [
         "16"
       ],
-      "question": "Inflow",
-      "answer": "Superior vena cava, inferior vena cava and coronary sinus.",
       "tags": [
         "Contents",
         "HeartChamber",
@@ -1360,15 +1437,16 @@
       ],
       "sourceLine": 130,
       "section": "Heart chambers and auricles",
-      "label": "16"
+      "label": "16",
+      "structureId": "right-atrium-23132c28da",
+      "factId": "f-434bed5fc1",
+      "variantId": "v-9ccf817eff"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-131",
       "path": [
         "16"
       ],
-      "question": "Outflow",
-      "answer": "Through tricuspid valve into right ventricle.",
       "tags": [
         "Connections",
         "HeartChamber",
@@ -1377,15 +1455,16 @@
       ],
       "sourceLine": 131,
       "section": "Heart chambers and auricles",
-      "label": "16"
+      "label": "16",
+      "structureId": "right-atrium-23132c28da",
+      "factId": "f-fc92a7d5c4",
+      "variantId": "v-0201d16f89"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-134",
       "path": [
         "17"
       ],
-      "question": "Identification",
-      "answer": "Left atrium",
       "tags": [
         "Identification",
         "HeartChamber",
@@ -1394,15 +1473,16 @@
       ],
       "sourceLine": 134,
       "section": "Heart chambers and auricles",
-      "label": "17"
+      "label": "17",
+      "structureId": "left-atrium-3a1bbd3c1c",
+      "factId": "f-9d2c706308",
+      "variantId": "v-8e79b78347"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-135",
       "path": [
         "17"
       ],
-      "question": "Function",
-      "answer": "Receives oxygenated blood from pulmonary veins and delivers it to left ventricle.",
       "tags": [
         "Function",
         "HeartChamber",
@@ -1411,15 +1491,16 @@
       ],
       "sourceLine": 135,
       "section": "Heart chambers and auricles",
-      "label": "17"
+      "label": "17",
+      "structureId": "left-atrium-3a1bbd3c1c",
+      "factId": "f-f1e410ad14",
+      "variantId": "v-d4a383518a"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-136",
       "path": [
         "17"
       ],
-      "question": "Inflow",
-      "answer": "Usually four pulmonary veins.",
       "tags": [
         "Contents",
         "HeartChamber",
@@ -1428,15 +1509,16 @@
       ],
       "sourceLine": 136,
       "section": "Heart chambers and auricles",
-      "label": "17"
+      "label": "17",
+      "structureId": "left-atrium-3a1bbd3c1c",
+      "factId": "f-434bed5fc1",
+      "variantId": "v-6e267e6ce7"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-137",
       "path": [
         "17"
       ],
-      "question": "Outflow",
-      "answer": "Through mitral valve into left ventricle.",
       "tags": [
         "Connections",
         "HeartChamber",
@@ -1445,15 +1527,16 @@
       ],
       "sourceLine": 137,
       "section": "Heart chambers and auricles",
-      "label": "17"
+      "label": "17",
+      "structureId": "left-atrium-3a1bbd3c1c",
+      "factId": "f-fc92a7d5c4",
+      "variantId": "v-b823b6b53e"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-140",
       "path": [
         "18"
       ],
-      "question": "Identification",
-      "answer": "Right auricle",
       "tags": [
         "Identification",
         "Auricle",
@@ -1462,15 +1545,16 @@
       ],
       "sourceLine": 140,
       "section": "Heart chambers and auricles",
-      "label": "18"
+      "label": "18",
+      "structureId": "right-auricle-360da436cf",
+      "factId": "f-9d2c706308",
+      "variantId": "v-0fa60c5204"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-141",
       "path": [
         "18"
       ],
-      "question": "Structure",
-      "answer": "Muscular appendage of right atrium containing pectinate muscles.",
       "tags": [
         "Structure",
         "Auricle",
@@ -1479,15 +1563,16 @@
       ],
       "sourceLine": 141,
       "section": "Heart chambers and auricles",
-      "label": "18"
+      "label": "18",
+      "structureId": "right-auricle-360da436cf",
+      "factId": "f-9482c5d5bf",
+      "variantId": "v-b3f61e0083"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-142",
       "path": [
         "18"
       ],
-      "question": "Function",
-      "answer": "Increases right atrial capacity.",
       "tags": [
         "Function",
         "Auricle",
@@ -1496,15 +1581,16 @@
       ],
       "sourceLine": 142,
       "section": "Heart chambers and auricles",
-      "label": "18"
+      "label": "18",
+      "structureId": "right-auricle-360da436cf",
+      "factId": "f-f1e410ad14",
+      "variantId": "v-3d7b3d5a6a"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-145",
       "path": [
         "19"
       ],
-      "question": "Identification",
-      "answer": "Left auricle",
       "tags": [
         "Identification",
         "Auricle",
@@ -1513,15 +1599,16 @@
       ],
       "sourceLine": 145,
       "section": "Heart chambers and auricles",
-      "label": "19"
+      "label": "19",
+      "structureId": "left-auricle-6588af8a37",
+      "factId": "f-9d2c706308",
+      "variantId": "v-32b9a7d224"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-146",
       "path": [
         "19"
       ],
-      "question": "Structure",
-      "answer": "Muscular appendage of left atrium containing pectinate muscles.",
       "tags": [
         "Structure",
         "Auricle",
@@ -1530,15 +1617,16 @@
       ],
       "sourceLine": 146,
       "section": "Heart chambers and auricles",
-      "label": "19"
+      "label": "19",
+      "structureId": "left-auricle-6588af8a37",
+      "factId": "f-9482c5d5bf",
+      "variantId": "v-1d7b74cd54"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-147",
       "path": [
         "19"
       ],
-      "question": "Function",
-      "answer": "Increases left atrial capacity.",
       "tags": [
         "Function",
         "Auricle",
@@ -1547,15 +1635,16 @@
       ],
       "sourceLine": 147,
       "section": "Heart chambers and auricles",
-      "label": "19"
+      "label": "19",
+      "structureId": "left-auricle-6588af8a37",
+      "factId": "f-f1e410ad14",
+      "variantId": "v-ecf06fb589"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-148",
       "path": [
         "19"
       ],
-      "question": "Clinical relevance",
-      "answer": "Left atrial appendage is a common site of thrombus formation in atrial fibrillation.",
       "tags": [
         "Clinical",
         "Auricle",
@@ -1564,15 +1653,16 @@
       ],
       "sourceLine": 148,
       "section": "Heart chambers and auricles",
-      "label": "19"
+      "label": "19",
+      "structureId": "left-auricle-6588af8a37",
+      "factId": "f-b03737e3cd",
+      "variantId": "v-1406eaf61f"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-151",
       "path": [
         "20"
       ],
-      "question": "Identification",
-      "answer": "Right ventricle",
       "tags": [
         "Identification",
         "HeartChamber",
@@ -1581,15 +1671,16 @@
       ],
       "sourceLine": 151,
       "section": "Heart chambers and auricles",
-      "label": "20"
+      "label": "20",
+      "structureId": "right-ventricle-eb83f05a3e",
+      "factId": "f-9d2c706308",
+      "variantId": "v-f36d47841d"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-152",
       "path": [
         "20"
       ],
-      "question": "Function",
-      "answer": "Pumps deoxygenated blood into pulmonary circulation.",
       "tags": [
         "Function",
         "HeartChamber",
@@ -1598,15 +1689,16 @@
       ],
       "sourceLine": 152,
       "section": "Heart chambers and auricles",
-      "label": "20"
+      "label": "20",
+      "structureId": "right-ventricle-eb83f05a3e",
+      "factId": "f-f1e410ad14",
+      "variantId": "v-9a60e0446f"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-153",
       "path": [
         "20"
       ],
-      "question": "Outflow",
-      "answer": "Through pulmonary valve into pulmonary trunk.",
       "tags": [
         "Connections",
         "HeartChamber",
@@ -1615,15 +1707,16 @@
       ],
       "sourceLine": 153,
       "section": "Heart chambers and auricles",
-      "label": "20"
+      "label": "20",
+      "structureId": "right-ventricle-eb83f05a3e",
+      "factId": "f-fc92a7d5c4",
+      "variantId": "v-e1792610d4"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-154",
       "path": [
         "20"
       ],
-      "question": "Wall thickness",
-      "answer": "Thinner than left ventricular wall because pulmonary resistance is lower.",
       "tags": [
         "Relations",
         "HeartChamber",
@@ -1632,15 +1725,16 @@
       ],
       "sourceLine": 154,
       "section": "Heart chambers and auricles",
-      "label": "20"
+      "label": "20",
+      "structureId": "right-ventricle-eb83f05a3e",
+      "factId": "f-b3d6dfac8c",
+      "variantId": "v-18e224a7f9"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-157",
       "path": [
         "21"
       ],
-      "question": "Identification",
-      "answer": "Left ventricle",
       "tags": [
         "Identification",
         "HeartChamber",
@@ -1649,15 +1743,16 @@
       ],
       "sourceLine": 157,
       "section": "Heart chambers and auricles",
-      "label": "21"
+      "label": "21",
+      "structureId": "left-ventricle-dc0a19902e",
+      "factId": "f-9d2c706308",
+      "variantId": "v-44ed1ae3f4"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-158",
       "path": [
         "21"
       ],
-      "question": "Function",
-      "answer": "Pumps oxygenated blood into systemic circulation.",
       "tags": [
         "Function",
         "HeartChamber",
@@ -1666,15 +1761,16 @@
       ],
       "sourceLine": 158,
       "section": "Heart chambers and auricles",
-      "label": "21"
+      "label": "21",
+      "structureId": "left-ventricle-dc0a19902e",
+      "factId": "f-f1e410ad14",
+      "variantId": "v-16b2b6fda4"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-159",
       "path": [
         "21"
       ],
-      "question": "Outflow",
-      "answer": "Through aortic valve into aorta.",
       "tags": [
         "Connections",
         "HeartChamber",
@@ -1683,15 +1779,16 @@
       ],
       "sourceLine": 159,
       "section": "Heart chambers and auricles",
-      "label": "21"
+      "label": "21",
+      "structureId": "left-ventricle-dc0a19902e",
+      "factId": "f-fc92a7d5c4",
+      "variantId": "v-cb0bfa82eb"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-160",
       "path": [
         "21"
       ],
-      "question": "Wall thickness",
-      "answer": "Thickest myocardium because it pumps against systemic vascular resistance.",
       "tags": [
         "Relations",
         "HeartChamber",
@@ -1700,15 +1797,16 @@
       ],
       "sourceLine": 160,
       "section": "Heart chambers and auricles",
-      "label": "21"
+      "label": "21",
+      "structureId": "left-ventricle-dc0a19902e",
+      "factId": "f-b3d6dfac8c",
+      "variantId": "v-4fa2ccd323"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-164",
       "path": [
         "22"
       ],
-      "question": "Identification",
-      "answer": "Superior vena cava",
       "tags": [
         "Identification",
         "Vein",
@@ -1717,15 +1815,16 @@
       ],
       "sourceLine": 164,
       "section": "Cardiac vessels and valves",
-      "label": "22"
+      "label": "22",
+      "structureId": "superior-vena-cava-d34b0694af",
+      "factId": "f-9d2c706308",
+      "variantId": "v-ad6d9611c3"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-165",
       "path": [
         "22"
       ],
-      "question": "Formation",
-      "answer": "Formed by union of right and left brachiocephalic veins.",
       "tags": [
         "Formation",
         "Vein",
@@ -1734,15 +1833,16 @@
       ],
       "sourceLine": 165,
       "section": "Cardiac vessels and valves",
-      "label": "22"
+      "label": "22",
+      "structureId": "superior-vena-cava-d34b0694af",
+      "factId": "f-bc0bd86b8f",
+      "variantId": "v-e3cfb8dacc"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-166",
       "path": [
         "22"
       ],
-      "question": "Course",
-      "answer": "Descends in right superior mediastinum to right atrium.",
       "tags": [
         "Course",
         "Vein",
@@ -1751,15 +1851,16 @@
       ],
       "sourceLine": 166,
       "section": "Cardiac vessels and valves",
-      "label": "22"
+      "label": "22",
+      "structureId": "superior-vena-cava-d34b0694af",
+      "factId": "f-d82b56cad9",
+      "variantId": "v-ac8395d107"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-167",
       "path": [
         "22"
       ],
-      "question": "Drainage",
-      "answer": "Returns venous blood from structures above the diaphragm except heart and lungs.",
       "tags": [
         "Drainage",
         "Vein",
@@ -1768,15 +1869,16 @@
       ],
       "sourceLine": 167,
       "section": "Cardiac vessels and valves",
-      "label": "22"
+      "label": "22",
+      "structureId": "superior-vena-cava-d34b0694af",
+      "factId": "f-74a64b1943",
+      "variantId": "v-59ef5f7d30"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-170",
       "path": [
         "23"
       ],
-      "question": "Identification",
-      "answer": "Inferior vena cava",
       "tags": [
         "Identification",
         "Vein",
@@ -1785,15 +1887,16 @@
       ],
       "sourceLine": 170,
       "section": "Cardiac vessels and valves",
-      "label": "23"
+      "label": "23",
+      "structureId": "inferior-vena-cava-12a0b3ae11",
+      "factId": "f-9d2c706308",
+      "variantId": "v-1e117bb53f"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-171",
       "path": [
         "23"
       ],
-      "question": "Formation",
-      "answer": "Formed by union of common iliac veins.",
       "tags": [
         "Formation",
         "Vein",
@@ -1802,15 +1905,16 @@
       ],
       "sourceLine": 171,
       "section": "Cardiac vessels and valves",
-      "label": "23"
+      "label": "23",
+      "structureId": "inferior-vena-cava-12a0b3ae11",
+      "factId": "f-bc0bd86b8f",
+      "variantId": "v-615101a993"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-172",
       "path": [
         "23"
       ],
-      "question": "Course",
-      "answer": "Passes through diaphragm at T8 and enters right atrium.",
       "tags": [
         "Course",
         "Vein",
@@ -1819,15 +1923,16 @@
       ],
       "sourceLine": 172,
       "section": "Cardiac vessels and valves",
-      "label": "23"
+      "label": "23",
+      "structureId": "inferior-vena-cava-12a0b3ae11",
+      "factId": "f-d82b56cad9",
+      "variantId": "v-3a7b775f2d"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-173",
       "path": [
         "23"
       ],
-      "question": "Drainage",
-      "answer": "Returns venous blood from structures below the diaphragm.",
       "tags": [
         "Drainage",
         "Vein",
@@ -1836,15 +1941,16 @@
       ],
       "sourceLine": 173,
       "section": "Cardiac vessels and valves",
-      "label": "23"
+      "label": "23",
+      "structureId": "inferior-vena-cava-12a0b3ae11",
+      "factId": "f-74a64b1943",
+      "variantId": "v-4a45316979"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-176",
       "path": [
         "24"
       ],
-      "question": "Identification",
-      "answer": "Pulmonary trunk",
       "tags": [
         "Identification",
         "Artery",
@@ -1853,15 +1959,16 @@
       ],
       "sourceLine": 176,
       "section": "Cardiac vessels and valves",
-      "label": "24"
+      "label": "24",
+      "structureId": "pulmonary-trunk-d29b190d8f",
+      "factId": "f-9d2c706308",
+      "variantId": "v-cd7e10b1cd"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-177",
       "path": [
         "24"
       ],
-      "question": "Origin",
-      "answer": "Arises from right ventricle through pulmonary valve.",
       "tags": [
         "Origin",
         "Artery",
@@ -1870,15 +1977,16 @@
       ],
       "sourceLine": 177,
       "section": "Cardiac vessels and valves",
-      "label": "24"
+      "label": "24",
+      "structureId": "pulmonary-trunk-d29b190d8f",
+      "factId": "f-44ab85a252",
+      "variantId": "v-b4ce00088c"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-178",
       "path": [
         "24"
       ],
-      "question": "Course",
-      "answer": "Passes superiorly and posteriorly before dividing into right and left pulmonary arteries.",
       "tags": [
         "Course",
         "Artery",
@@ -1887,15 +1995,16 @@
       ],
       "sourceLine": 178,
       "section": "Cardiac vessels and valves",
-      "label": "24"
+      "label": "24",
+      "structureId": "pulmonary-trunk-d29b190d8f",
+      "factId": "f-d82b56cad9",
+      "variantId": "v-406418ded4"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-179",
       "path": [
         "24"
       ],
-      "question": "Supply",
-      "answer": "Carries deoxygenated blood to the lungs.",
       "tags": [
         "Supply",
         "Artery",
@@ -1904,15 +2013,16 @@
       ],
       "sourceLine": 179,
       "section": "Cardiac vessels and valves",
-      "label": "24"
+      "label": "24",
+      "structureId": "pulmonary-trunk-d29b190d8f",
+      "factId": "f-222db0fc1c",
+      "variantId": "v-e2b803fc17"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-182",
       "path": [
         "25"
       ],
-      "question": "Identification",
-      "answer": "Tricuspid valve (right atrioventricular valve)",
       "tags": [
         "Identification",
         "Valve",
@@ -1921,15 +2031,16 @@
       ],
       "sourceLine": 182,
       "section": "Cardiac vessels and valves",
-      "label": "25"
+      "label": "25",
+      "structureId": "tricuspid-valve-right-atrioventricular-valve-7bb0f89fae",
+      "factId": "f-9d2c706308",
+      "variantId": "v-4c962b575e"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-183",
       "path": [
         "25"
       ],
-      "question": "Location",
-      "answer": "Between right atrium and right ventricle.",
       "tags": [
         "Location",
         "Valve",
@@ -1938,15 +2049,16 @@
       ],
       "sourceLine": 183,
       "section": "Cardiac vessels and valves",
-      "label": "25"
+      "label": "25",
+      "structureId": "tricuspid-valve-right-atrioventricular-valve-7bb0f89fae",
+      "factId": "f-d219c68101",
+      "variantId": "v-667d75785f"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-184",
       "path": [
         "25"
       ],
-      "question": "Structure",
-      "answer": "Usually has anterior, posterior and septal cusps connected to chordae tendineae.",
       "tags": [
         "Structure",
         "Valve",
@@ -1955,15 +2067,16 @@
       ],
       "sourceLine": 184,
       "section": "Cardiac vessels and valves",
-      "label": "25"
+      "label": "25",
+      "structureId": "tricuspid-valve-right-atrioventricular-valve-7bb0f89fae",
+      "factId": "f-9482c5d5bf",
+      "variantId": "v-8dd03ae47c"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-185",
       "path": [
         "25"
       ],
-      "question": "Function",
-      "answer": "Prevents backflow into right atrium during ventricular systole.",
       "tags": [
         "Function",
         "Valve",
@@ -1972,15 +2085,16 @@
       ],
       "sourceLine": 185,
       "section": "Cardiac vessels and valves",
-      "label": "25"
+      "label": "25",
+      "structureId": "tricuspid-valve-right-atrioventricular-valve-7bb0f89fae",
+      "factId": "f-f1e410ad14",
+      "variantId": "v-d0cd374962"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-188",
       "path": [
         "26"
       ],
-      "question": "Identification",
-      "answer": "Pulmonary valve",
       "tags": [
         "Identification",
         "Valve",
@@ -1989,15 +2103,16 @@
       ],
       "sourceLine": 188,
       "section": "Cardiac vessels and valves",
-      "label": "26"
+      "label": "26",
+      "structureId": "pulmonary-valve-4f9810ae3e",
+      "factId": "f-9d2c706308",
+      "variantId": "v-cd5a8c3dee"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-189",
       "path": [
         "26"
       ],
-      "question": "Location",
-      "answer": "Between right ventricle and pulmonary trunk.",
       "tags": [
         "Location",
         "Valve",
@@ -2006,15 +2121,16 @@
       ],
       "sourceLine": 189,
       "section": "Cardiac vessels and valves",
-      "label": "26"
+      "label": "26",
+      "structureId": "pulmonary-valve-4f9810ae3e",
+      "factId": "f-d219c68101",
+      "variantId": "v-adc6fbfa12"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-190",
       "path": [
         "26"
       ],
-      "question": "Structure",
-      "answer": "Semilunar valve with three cusps.",
       "tags": [
         "Structure",
         "Valve",
@@ -2023,15 +2139,16 @@
       ],
       "sourceLine": 190,
       "section": "Cardiac vessels and valves",
-      "label": "26"
+      "label": "26",
+      "structureId": "pulmonary-valve-4f9810ae3e",
+      "factId": "f-9482c5d5bf",
+      "variantId": "v-6afb2220ac"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-191",
       "path": [
         "26"
       ],
-      "question": "Function",
-      "answer": "Prevents backflow from pulmonary trunk into right ventricle during diastole.",
       "tags": [
         "Function",
         "Valve",
@@ -2040,15 +2157,16 @@
       ],
       "sourceLine": 191,
       "section": "Cardiac vessels and valves",
-      "label": "26"
+      "label": "26",
+      "structureId": "pulmonary-valve-4f9810ae3e",
+      "factId": "f-f1e410ad14",
+      "variantId": "v-0eab02d10d"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-194",
       "path": [
         "27"
       ],
-      "question": "Identification",
-      "answer": "Pulmonary vein",
       "tags": [
         "Identification",
         "Vein",
@@ -2057,15 +2175,16 @@
       ],
       "sourceLine": 194,
       "section": "Cardiac vessels and valves",
-      "label": "27"
+      "label": "27",
+      "structureId": "pulmonary-vein-259c5764f0",
+      "factId": "f-9d2c706308",
+      "variantId": "v-c022f0c7cc"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-195",
       "path": [
         "27"
       ],
-      "question": "Drainage",
-      "answer": "Returns oxygenated blood from lungs to left atrium.",
       "tags": [
         "Drainage",
         "Vein",
@@ -2074,15 +2193,16 @@
       ],
       "sourceLine": 195,
       "section": "Cardiac vessels and valves",
-      "label": "27"
+      "label": "27",
+      "structureId": "pulmonary-vein-259c5764f0",
+      "factId": "f-74a64b1943",
+      "variantId": "v-145d993c4b"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-196",
       "path": [
         "27"
       ],
-      "question": "Number",
-      "answer": "Usually four pulmonary veins, two from each lung.",
       "tags": [
         "Structure",
         "Vein",
@@ -2091,15 +2211,16 @@
       ],
       "sourceLine": 196,
       "section": "Cardiac vessels and valves",
-      "label": "27"
+      "label": "27",
+      "structureId": "pulmonary-vein-259c5764f0",
+      "factId": "f-b7baa1d40c",
+      "variantId": "v-c498f113fc"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-199",
       "path": [
         "28"
       ],
-      "question": "Identification",
-      "answer": "Bicuspid valve (mitral / left atrioventricular valve)",
       "tags": [
         "Identification",
         "Valve",
@@ -2108,15 +2229,16 @@
       ],
       "sourceLine": 199,
       "section": "Cardiac vessels and valves",
-      "label": "28"
+      "label": "28",
+      "structureId": "bicuspid-valve-mitral-left-atrioventricular-valve-27f66fbba4",
+      "factId": "f-9d2c706308",
+      "variantId": "v-6cc7178e2e"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-200",
       "path": [
         "28"
       ],
-      "question": "Location",
-      "answer": "Between left atrium and left ventricle.",
       "tags": [
         "Location",
         "Valve",
@@ -2125,15 +2247,16 @@
       ],
       "sourceLine": 200,
       "section": "Cardiac vessels and valves",
-      "label": "28"
+      "label": "28",
+      "structureId": "bicuspid-valve-mitral-left-atrioventricular-valve-27f66fbba4",
+      "factId": "f-d219c68101",
+      "variantId": "v-2040a55ec3"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-201",
       "path": [
         "28"
       ],
-      "question": "Structure",
-      "answer": "Has anterior and posterior cusps attached to chordae tendineae and papillary muscles.",
       "tags": [
         "Structure",
         "Valve",
@@ -2142,15 +2265,16 @@
       ],
       "sourceLine": 201,
       "section": "Cardiac vessels and valves",
-      "label": "28"
+      "label": "28",
+      "structureId": "bicuspid-valve-mitral-left-atrioventricular-valve-27f66fbba4",
+      "factId": "f-9482c5d5bf",
+      "variantId": "v-599290b72a"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-202",
       "path": [
         "28"
       ],
-      "question": "Function",
-      "answer": "Prevents backflow into left atrium during ventricular systole.",
       "tags": [
         "Function",
         "Valve",
@@ -2159,15 +2283,16 @@
       ],
       "sourceLine": 202,
       "section": "Cardiac vessels and valves",
-      "label": "28"
+      "label": "28",
+      "structureId": "bicuspid-valve-mitral-left-atrioventricular-valve-27f66fbba4",
+      "factId": "f-f1e410ad14",
+      "variantId": "v-26f36f7532"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-205",
       "path": [
         "29"
       ],
-      "question": "Identification",
-      "answer": "Aortic valve",
       "tags": [
         "Identification",
         "Valve",
@@ -2176,15 +2301,16 @@
       ],
       "sourceLine": 205,
       "section": "Cardiac vessels and valves",
-      "label": "29"
+      "label": "29",
+      "structureId": "aortic-valve-e70c184b1f",
+      "factId": "f-9d2c706308",
+      "variantId": "v-53e71355d7"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-206",
       "path": [
         "29"
       ],
-      "question": "Location",
-      "answer": "Between left ventricle and ascending aorta.",
       "tags": [
         "Location",
         "Valve",
@@ -2193,15 +2319,16 @@
       ],
       "sourceLine": 206,
       "section": "Cardiac vessels and valves",
-      "label": "29"
+      "label": "29",
+      "structureId": "aortic-valve-e70c184b1f",
+      "factId": "f-d219c68101",
+      "variantId": "v-f270ae4919"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-207",
       "path": [
         "29"
       ],
-      "question": "Structure",
-      "answer": "Semilunar valve with three cusps.",
       "tags": [
         "Structure",
         "Valve",
@@ -2210,15 +2337,16 @@
       ],
       "sourceLine": 207,
       "section": "Cardiac vessels and valves",
-      "label": "29"
+      "label": "29",
+      "structureId": "aortic-valve-e70c184b1f",
+      "factId": "f-9482c5d5bf",
+      "variantId": "v-6afb2220ac"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-208",
       "path": [
         "29"
       ],
-      "question": "Function",
-      "answer": "Prevents backflow from aorta into left ventricle during diastole.",
       "tags": [
         "Function",
         "Valve",
@@ -2227,15 +2355,16 @@
       ],
       "sourceLine": 208,
       "section": "Cardiac vessels and valves",
-      "label": "29"
+      "label": "29",
+      "structureId": "aortic-valve-e70c184b1f",
+      "factId": "f-f1e410ad14",
+      "variantId": "v-7ea8ee37ad"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-211",
       "path": [
         "30"
       ],
-      "question": "Identification",
-      "answer": "Right coronary artery",
       "tags": [
         "Identification",
         "Artery",
@@ -2244,15 +2373,16 @@
       ],
       "sourceLine": 211,
       "section": "Cardiac vessels and valves",
-      "label": "30"
+      "label": "30",
+      "structureId": "right-coronary-artery-658b9c7c3a",
+      "factId": "f-9d2c706308",
+      "variantId": "v-8571ae3da0"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-212",
       "path": [
         "30"
       ],
-      "question": "Origin",
-      "answer": "Arises from right aortic sinus.",
       "tags": [
         "Origin",
         "Artery",
@@ -2261,15 +2391,16 @@
       ],
       "sourceLine": 212,
       "section": "Cardiac vessels and valves",
-      "label": "30"
+      "label": "30",
+      "structureId": "right-coronary-artery-658b9c7c3a",
+      "factId": "f-44ab85a252",
+      "variantId": "v-e2b9fac2da"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-213",
       "path": [
         "30"
       ],
-      "question": "Course",
-      "answer": "Runs in right atrioventricular groove.",
       "tags": [
         "Course",
         "Artery",
@@ -2278,15 +2409,16 @@
       ],
       "sourceLine": 213,
       "section": "Cardiac vessels and valves",
-      "label": "30"
+      "label": "30",
+      "structureId": "right-coronary-artery-658b9c7c3a",
+      "factId": "f-d82b56cad9",
+      "variantId": "v-8ef78ebfc4"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-214",
       "path": [
         "30"
       ],
-      "question": "Branches",
-      "answer": "Common branches include right marginal artery and often posterior interventricular artery.",
       "tags": [
         "Branches",
         "Artery",
@@ -2295,15 +2427,16 @@
       ],
       "sourceLine": 214,
       "section": "Cardiac vessels and valves",
-      "label": "30"
+      "label": "30",
+      "structureId": "right-coronary-artery-658b9c7c3a",
+      "factId": "f-f578227926",
+      "variantId": "v-a1ba3bad74"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-215",
       "path": [
         "30"
       ],
-      "question": "Supply",
-      "answer": "Typically supplies right atrium, most of right ventricle and parts of conduction system.",
       "tags": [
         "Supply",
         "Artery",
@@ -2312,15 +2445,16 @@
       ],
       "sourceLine": 215,
       "section": "Cardiac vessels and valves",
-      "label": "30"
+      "label": "30",
+      "structureId": "right-coronary-artery-658b9c7c3a",
+      "factId": "f-222db0fc1c",
+      "variantId": "v-d4fe6a3ef0"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-218",
       "path": [
         "31"
       ],
-      "question": "Identification",
-      "answer": "Circumflex coronary artery and left marginal branch",
       "tags": [
         "Identification",
         "Artery",
@@ -2329,15 +2463,16 @@
       ],
       "sourceLine": 218,
       "section": "Cardiac vessels and valves",
-      "label": "31"
+      "label": "31",
+      "structureId": "circumflex-coronary-artery-and-left-marginal-branch-dd34ad86d9",
+      "factId": "f-9d2c706308",
+      "variantId": "v-95dfa3dd1e"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-219",
       "path": [
         "31"
       ],
-      "question": "Origin",
-      "answer": "Circumflex artery is a branch of the left coronary artery.",
       "tags": [
         "Origin",
         "Artery",
@@ -2346,15 +2481,16 @@
       ],
       "sourceLine": 219,
       "section": "Cardiac vessels and valves",
-      "label": "31"
+      "label": "31",
+      "structureId": "circumflex-coronary-artery-and-left-marginal-branch-dd34ad86d9",
+      "factId": "f-44ab85a252",
+      "variantId": "v-00af9300f5"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-220",
       "path": [
         "31"
       ],
-      "question": "Course",
-      "answer": "Runs in left atrioventricular groove around left border of heart.",
       "tags": [
         "Course",
         "Artery",
@@ -2363,15 +2499,16 @@
       ],
       "sourceLine": 220,
       "section": "Cardiac vessels and valves",
-      "label": "31"
+      "label": "31",
+      "structureId": "circumflex-coronary-artery-and-left-marginal-branch-dd34ad86d9",
+      "factId": "f-d82b56cad9",
+      "variantId": "v-0c33dfec0e"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-221",
       "path": [
         "31"
       ],
-      "question": "Branches",
-      "answer": "Gives left marginal branch and other atrial/ventricular branches.",
       "tags": [
         "Branches",
         "Artery",
@@ -2380,15 +2517,16 @@
       ],
       "sourceLine": 221,
       "section": "Cardiac vessels and valves",
-      "label": "31"
+      "label": "31",
+      "structureId": "circumflex-coronary-artery-and-left-marginal-branch-dd34ad86d9",
+      "factId": "f-f578227926",
+      "variantId": "v-d86b0c5abe"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-222",
       "path": [
         "31"
       ],
-      "question": "Supply",
-      "answer": "Supplies left atrium and posterolateral left ventricle; extent varies with coronary dominance.",
       "tags": [
         "Supply",
         "Artery",
@@ -2397,15 +2535,16 @@
       ],
       "sourceLine": 222,
       "section": "Cardiac vessels and valves",
-      "label": "31"
+      "label": "31",
+      "structureId": "circumflex-coronary-artery-and-left-marginal-branch-dd34ad86d9",
+      "factId": "f-222db0fc1c",
+      "variantId": "v-9e94a3ea72"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-226",
       "path": [
         "32"
       ],
-      "question": "Identification",
-      "answer": "Brachiocephalic trunk",
       "tags": [
         "Identification",
         "Artery",
@@ -2414,15 +2553,16 @@
       ],
       "sourceLine": 226,
       "section": "Major neck and thoracic vessels",
-      "label": "32"
+      "label": "32",
+      "structureId": "brachiocephalic-trunk-df0bc63c0c",
+      "factId": "f-9d2c706308",
+      "variantId": "v-b1be69b87e"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-227",
       "path": [
         "32"
       ],
-      "question": "Origin",
-      "answer": "First branch of the aortic arch.",
       "tags": [
         "Origin",
         "Artery",
@@ -2431,15 +2571,16 @@
       ],
       "sourceLine": 227,
       "section": "Major neck and thoracic vessels",
-      "label": "32"
+      "label": "32",
+      "structureId": "brachiocephalic-trunk-df0bc63c0c",
+      "factId": "f-44ab85a252",
+      "variantId": "v-84dca2004f"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-228",
       "path": [
         "32"
       ],
-      "question": "Course",
-      "answer": "Ascends to the right behind the manubrium.",
       "tags": [
         "Course",
         "Artery",
@@ -2448,15 +2589,16 @@
       ],
       "sourceLine": 228,
       "section": "Major neck and thoracic vessels",
-      "label": "32"
+      "label": "32",
+      "structureId": "brachiocephalic-trunk-df0bc63c0c",
+      "factId": "f-d82b56cad9",
+      "variantId": "v-638ccaed01"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-229",
       "path": [
         "32"
       ],
-      "question": "Branches",
-      "answer": "Divides into right common carotid and right subclavian arteries.",
       "tags": [
         "Branches",
         "Artery",
@@ -2465,15 +2607,16 @@
       ],
       "sourceLine": 229,
       "section": "Major neck and thoracic vessels",
-      "label": "32"
+      "label": "32",
+      "structureId": "brachiocephalic-trunk-df0bc63c0c",
+      "factId": "f-f578227926",
+      "variantId": "v-530e7b92ba"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-230",
       "path": [
         "32"
       ],
-      "question": "Supply",
-      "answer": "Supplies right head/neck and right upper limb through its terminal branches.",
       "tags": [
         "Supply",
         "Artery",
@@ -2482,15 +2625,16 @@
       ],
       "sourceLine": 230,
       "section": "Major neck and thoracic vessels",
-      "label": "32"
+      "label": "32",
+      "structureId": "brachiocephalic-trunk-df0bc63c0c",
+      "factId": "f-222db0fc1c",
+      "variantId": "v-9a263c92a4"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-233",
       "path": [
         "33"
       ],
-      "question": "Identification",
-      "answer": "Right internal jugular vein",
       "tags": [
         "Identification",
         "Vein",
@@ -2499,15 +2643,16 @@
       ],
       "sourceLine": 233,
       "section": "Major neck and thoracic vessels",
-      "label": "33"
+      "label": "33",
+      "structureId": "right-internal-jugular-vein-a687c3de52",
+      "factId": "f-9d2c706308",
+      "variantId": "v-218f28ff90"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-234",
       "path": [
         "33"
       ],
-      "question": "Formation",
-      "answer": "Begins at jugular foramen as continuation of sigmoid sinus.",
       "tags": [
         "Formation",
         "Vein",
@@ -2516,15 +2661,16 @@
       ],
       "sourceLine": 234,
       "section": "Major neck and thoracic vessels",
-      "label": "33"
+      "label": "33",
+      "structureId": "right-internal-jugular-vein-a687c3de52",
+      "factId": "f-bc0bd86b8f",
+      "variantId": "v-07fa912bcc"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-235",
       "path": [
         "33"
       ],
-      "question": "Course",
-      "answer": "Descends within carotid sheath.",
       "tags": [
         "Course",
         "Vein",
@@ -2533,15 +2679,16 @@
       ],
       "sourceLine": 235,
       "section": "Major neck and thoracic vessels",
-      "label": "33"
+      "label": "33",
+      "structureId": "right-internal-jugular-vein-a687c3de52",
+      "factId": "f-d82b56cad9",
+      "variantId": "v-9b31c4573d"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-236",
       "path": [
         "33"
       ],
-      "question": "Termination",
-      "answer": "Joins right subclavian vein to form right brachiocephalic vein.",
       "tags": [
         "Termination",
         "Vein",
@@ -2550,15 +2697,16 @@
       ],
       "sourceLine": 236,
       "section": "Major neck and thoracic vessels",
-      "label": "33"
+      "label": "33",
+      "structureId": "right-internal-jugular-vein-a687c3de52",
+      "factId": "f-2ee8521886",
+      "variantId": "v-03275582b8"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-237",
       "path": [
         "33"
       ],
-      "question": "Drainage",
-      "answer": "Drains brain, deep face and neck.",
       "tags": [
         "Drainage",
         "Vein",
@@ -2567,7 +2715,10 @@
       ],
       "sourceLine": 237,
       "section": "Major neck and thoracic vessels",
-      "label": "33"
+      "label": "33",
+      "structureId": "right-internal-jugular-vein-a687c3de52",
+      "factId": "f-74a64b1943",
+      "variantId": "v-351a260dcc"
     }
   ]
 }

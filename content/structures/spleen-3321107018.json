@@ -1,0 +1,130 @@
+{
+  "id": "spleen-3321107018",
+  "name": "Spleen",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Organs"
+  ],
+  "regions": [
+    "Abdomen"
+  ],
+  "systems": [
+    "Digestive"
+  ],
+  "organs": [
+    "Pancreas"
+  ],
+  "tags": [
+    "BloodSupply",
+    "Function",
+    "Location",
+    "MajorOrgans",
+    "Organ",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-6cdb7bbcec",
+      "variants": [
+        {
+          "id": "v-6cdb7bbcec",
+          "answer": "Spleen",
+          "sources": [
+            {
+              "modelId": "pancreas-model-js11",
+              "cardId": "pancreas-model-js11-11",
+              "sourceLine": 11
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-4ce1541135",
+      "variants": [
+        {
+          "id": "v-4ce1541135",
+          "answer": "Left upper quadrant, deep to ribs 9–11.",
+          "sources": [
+            {
+              "modelId": "pancreas-model-js11",
+              "cardId": "pancreas-model-js11-12",
+              "sourceLine": 12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-9dbd94176a",
+      "variants": [
+        {
+          "id": "v-9dbd94176a",
+          "answer": "Filters blood, removes senescent erythrocytes and supports immune function.",
+          "sources": [
+            {
+              "modelId": "pancreas-model-js11",
+              "cardId": "pancreas-model-js11-13",
+              "sourceLine": 13
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-a707f7e176",
+      "question": "Blood supply",
+      "preferredVariantId": "v-74e7928864",
+      "variants": [
+        {
+          "id": "v-74e7928864",
+          "answer": "Splenic artery; venous drainage via splenic vein.",
+          "sources": [
+            {
+              "modelId": "pancreas-model-js11",
+              "cardId": "pancreas-model-js11-14",
+              "sourceLine": 14
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-59ad3db136",
+      "variants": [
+        {
+          "id": "v-59ad3db136",
+          "answer": "Related to stomach, left kidney, colon and tail of pancreas.",
+          "sources": [
+            {
+              "modelId": "pancreas-model-js11",
+              "cardId": "pancreas-model-js11-15",
+              "sourceLine": 15
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "pancreas-model-js11",
+      "section": "Major organs",
+      "path": [
+        "B"
+      ],
+      "label": "B"
+    }
+  ]
+}

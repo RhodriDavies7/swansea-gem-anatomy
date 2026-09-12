@@ -1,0 +1,108 @@
+{
+  "id": "vitreous-body-c5dda376cb",
+  "name": "Vitreous body",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [],
+  "organs": [
+    "Eye"
+  ],
+  "tags": [
+    "EyeContent",
+    "Function",
+    "Relations",
+    "Structure"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-215c1f2157",
+      "variants": [
+        {
+          "id": "v-215c1f2157",
+          "answer": "Vitreous body",
+          "sources": [
+            {
+              "modelId": "eyeball-model-cs7",
+              "cardId": "eyeball-model-cs7-75",
+              "sourceLine": 75
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-a9faa1ee89",
+      "variants": [
+        {
+          "id": "v-a9faa1ee89",
+          "answer": "Transparent gel filling the vitreous chamber posterior to the lens.",
+          "sources": [
+            {
+              "modelId": "eyeball-model-cs7",
+              "cardId": "eyeball-model-cs7-76",
+              "sourceLine": 76
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-39a82a6e14",
+      "variants": [
+        {
+          "id": "v-39a82a6e14",
+          "answer": "Maintains globe shape, supports the retina and transmits light to the retina.",
+          "sources": [
+            {
+              "modelId": "eyeball-model-cs7",
+              "cardId": "eyeball-model-cs7-77",
+              "sourceLine": 77
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-22ada63c3f",
+      "variants": [
+        {
+          "id": "v-22ada63c3f",
+          "answer": "Lies between the lens and retina.",
+          "sources": [
+            {
+              "modelId": "eyeball-model-cs7",
+              "cardId": "eyeball-model-cs7-78",
+              "sourceLine": 78
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "eyeball-model-cs7",
+      "section": "",
+      "path": [
+        "12"
+      ],
+      "label": "12"
+    }
+  ]
+}

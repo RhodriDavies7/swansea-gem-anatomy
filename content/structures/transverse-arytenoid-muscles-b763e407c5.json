@@ -1,0 +1,128 @@
+{
+  "id": "transverse-arytenoid-muscles-b763e407c5",
+  "name": "Transverse arytenoid muscles",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "Innervation",
+    "Insertion",
+    "LaryngealStructures",
+    "Muscle",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-9d49358303",
+      "variants": [
+        {
+          "id": "v-9d49358303",
+          "answer": "Transverse arytenoid muscles",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-362",
+              "sourceLine": 362
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-b975e028a0",
+      "variants": [
+        {
+          "id": "v-b975e028a0",
+          "answer": "Adduct arytenoid cartilages and close posterior rima glottidis.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-363",
+              "sourceLine": 363
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-7b28d2894f",
+      "variants": [
+        {
+          "id": "v-7b28d2894f",
+          "answer": "Recurrent laryngeal nerve (CN X).",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-364",
+              "sourceLine": 364
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-8375b33d63",
+      "variants": [
+        {
+          "id": "v-8375b33d63",
+          "answer": "Posterior surface of one arytenoid cartilage.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-365",
+              "sourceLine": 365
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-6bc0ff9ff5",
+      "variants": [
+        {
+          "id": "v-6bc0ff9ff5",
+          "answer": "Posterior surface of opposite arytenoid cartilage.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-366",
+              "sourceLine": 366
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "half-head-and-neck-model-bs9",
+      "section": "Laryngeal structures",
+      "path": [
+        "VI"
+      ],
+      "label": "VI"
+    }
+  ]
+}

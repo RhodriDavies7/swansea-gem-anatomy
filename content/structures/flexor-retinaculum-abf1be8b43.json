@@ -1,0 +1,205 @@
+{
+  "id": "flexor-retinaculum-abf1be8b43",
+  "name": "Flexor retinaculum",
+  "aliases": [],
+  "scope": "Upper limb",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [],
+  "organs": [],
+  "tags": [
+    "Attachments",
+    "Clinical",
+    "Contents",
+    "Function",
+    "MusclesAndTendons",
+    "Relations",
+    "Retinaculum"
+  ],
+  "imageIds": [
+    "img-d153372e8f9f"
+  ],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-61167a1e0b",
+      "variants": [
+        {
+          "id": "v-61167a1e0b",
+          "answer": "Flexor retinaculum",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-141",
+              "sourceLine": 141
+            },
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-222",
+              "sourceLine": 222
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6771ade6e8",
+      "question": "Attachments",
+      "preferredVariantId": "v-652d46bcbf",
+      "variants": [
+        {
+          "id": "v-652d46bcbf",
+          "answer": "Attaches laterally to scaphoid tubercle and trapezium, and medially to pisiform and hook of hamate.",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-142",
+              "sourceLine": 142
+            }
+          ]
+        },
+        {
+          "id": "v-2a70956609",
+          "answer": "Laterally to scaphoid tubercle and trapezium; medially to pisiform and hook of hamate.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-223",
+              "sourceLine": 223
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-2c2f8677fa",
+      "variants": [
+        {
+          "id": "v-2c2f8677fa",
+          "answer": "Forms the roof of the carpal tunnel and prevents flexor tendon bowstringing.",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-143",
+              "sourceLine": 143
+            }
+          ]
+        },
+        {
+          "id": "v-89c0e582e3",
+          "answer": "Forms the roof of the carpal tunnel and prevents bowstringing of flexor tendons.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-224",
+              "sourceLine": 224
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-f5cbdf6bfb",
+      "question": "Contents",
+      "preferredVariantId": "v-e7f719f1e2",
+      "variants": [
+        {
+          "id": "v-e7f719f1e2",
+          "answer": "Carpal tunnel contains median nerve and nine flexor tendons: four FDS, four FDP and one FPL.",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-144",
+              "sourceLine": 144
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-b03737e3cd",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-31deba8afd",
+      "variants": [
+        {
+          "id": "v-31deba8afd",
+          "answer": "Median nerve compression beneath it causes carpal tunnel syndrome.",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-145",
+              "sourceLine": 145
+            }
+          ]
+        },
+        {
+          "id": "v-9d597cb60d",
+          "answer": "Compression of the median nerve beneath it produces carpal tunnel syndrome.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-226",
+              "sourceLine": 226
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-39cfa4903f",
+      "variants": [
+        {
+          "id": "v-39cfa4903f",
+          "answer": "Median nerve and nine long flexor tendons pass deep to it in the carpal tunnel; ulnar nerve and artery pass superficial to it in Guyon’s canal.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-225",
+              "sourceLine": 225
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "hand-model-ns13",
+      "section": "Muscles, tendons and pulleys",
+      "path": [
+        "r"
+      ],
+      "label": "r"
+    },
+    {
+      "modelId": "upper-limb-model-ns15",
+      "section": "Muscles",
+      "path": [
+        "37"
+      ],
+      "label": "37"
+    }
+  ]
+}

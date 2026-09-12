@@ -1,0 +1,107 @@
+{
+  "id": "nasolacrimal-canal-83beab1e24",
+  "name": "Nasolacrimal canal",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [],
+  "organs": [],
+  "tags": [
+    "Canal",
+    "Contents",
+    "Course",
+    "Function",
+    "HeadNeck"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-dc1d592add",
+      "variants": [
+        {
+          "id": "v-dc1d592add",
+          "answer": "Nasolacrimal canal",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-80",
+              "sourceLine": 80
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f5cbdf6bfb",
+      "question": "Contents",
+      "preferredVariantId": "v-394cd27945",
+      "variants": [
+        {
+          "id": "v-394cd27945",
+          "answer": "Nasolacrimal duct.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-81",
+              "sourceLine": 81
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-e81cb20771",
+      "variants": [
+        {
+          "id": "v-e81cb20771",
+          "answer": "Runs from lacrimal sac to inferior meatus of nasal cavity.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-82",
+              "sourceLine": 82
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-c335178165",
+      "variants": [
+        {
+          "id": "v-c335178165",
+          "answer": "Drains tears into nasal cavity.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-83",
+              "sourceLine": 83
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "head-and-neck-model-cs17-2",
+      "section": "Bony structures, foramina and ear structures",
+      "path": [
+        "16"
+      ],
+      "label": "16"
+    }
+  ]
+}

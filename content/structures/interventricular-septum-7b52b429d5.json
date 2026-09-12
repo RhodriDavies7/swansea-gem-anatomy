@@ -1,0 +1,130 @@
+{
+  "id": "interventricular-septum-7b52b429d5",
+  "name": "Interventricular septum",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Thorax"
+  ],
+  "systems": [
+    "Cardiovascular"
+  ],
+  "organs": [
+    "Heart"
+  ],
+  "tags": [
+    "CardiacStructure",
+    "Clinical",
+    "Function",
+    "MajorLandmarks",
+    "Parts",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-0fbabe3dc8",
+      "variants": [
+        {
+          "id": "v-0fbabe3dc8",
+          "answer": "Interventricular septum",
+          "sources": [
+            {
+              "modelId": "heart-model-hs5",
+              "cardId": "heart-model-hs5-9",
+              "sourceLine": 9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-2a8364fb2d",
+      "variants": [
+        {
+          "id": "v-2a8364fb2d",
+          "answer": "Separates the right and left ventricles and allows the two circulations to operate at different pressures.",
+          "sources": [
+            {
+              "modelId": "heart-model-hs5",
+              "cardId": "heart-model-hs5-10",
+              "sourceLine": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-e374280917",
+      "question": "Parts",
+      "preferredVariantId": "v-7ae5a50875",
+      "variants": [
+        {
+          "id": "v-7ae5a50875",
+          "answer": "Has a large muscular part and a small membranous part.",
+          "sources": [
+            {
+              "modelId": "heart-model-hs5",
+              "cardId": "heart-model-hs5-11",
+              "sourceLine": 11
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-d9409e5230",
+      "variants": [
+        {
+          "id": "v-d9409e5230",
+          "answer": "Traversed by components of the cardiac conduction system, including the atrioventricular bundle and bundle branches.",
+          "sources": [
+            {
+              "modelId": "heart-model-hs5",
+              "cardId": "heart-model-hs5-12",
+              "sourceLine": 12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-b03737e3cd",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-4560fd1081",
+      "variants": [
+        {
+          "id": "v-4560fd1081",
+          "answer": "Ventricular septal defects most commonly involve the membranous region.",
+          "sources": [
+            {
+              "modelId": "heart-model-hs5",
+              "cardId": "heart-model-hs5-13",
+              "sourceLine": 13
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "heart-model-hs5",
+      "section": "Major landmarks",
+      "path": [
+        "B"
+      ],
+      "label": "B"
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "id": "inferior-petrosal-sinus-8c9a171677",
+  "name": "Inferior petrosal sinus",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Veins"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Cardiovascular"
+  ],
+  "organs": [],
+  "tags": [
+    "Drainage",
+    "Location",
+    "ModelNote",
+    "VenousSinus"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-da5972cb84",
+      "variants": [
+        {
+          "id": "v-da5972cb84",
+          "answer": "Inferior petrosal sinus",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-20",
+              "sourceLine": 20
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-098872481d",
+      "variants": [
+        {
+          "id": "v-098872481d",
+          "answer": "Runs in the petro-occipital fissure from the cavernous sinus toward the jugular foramen.",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-21",
+              "sourceLine": 21
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-74a64b1943",
+      "question": "Drainage",
+      "preferredVariantId": "v-d87de5b139",
+      "variants": [
+        {
+          "id": "v-d87de5b139",
+          "answer": "Drains the cavernous sinus into the internal jugular vein.",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-22",
+              "sourceLine": 22
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-2c924e3088",
+      "question": "Note",
+      "preferredVariantId": "v-17b33c3da7",
+      "variants": [
+        {
+          "id": "v-17b33c3da7",
+          "answer": "On one physical model, labels 4 and 6 are swapped; verify the structure rather than relying on the printed number alone.",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-23",
+              "sourceLine": 23
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "cranial-floor-model-bs1",
+      "section": "",
+      "path": [
+        "4"
+      ],
+      "label": "4"
+    }
+  ]
+}

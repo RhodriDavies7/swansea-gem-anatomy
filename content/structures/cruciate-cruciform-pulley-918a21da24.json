@@ -1,0 +1,88 @@
+{
+  "id": "cruciate-cruciform-pulley-918a21da24",
+  "name": "Cruciate (cruciform) pulley",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [],
+  "organs": [],
+  "tags": [
+    "Function",
+    "MusclesAndTendons",
+    "Pulley",
+    "Structure"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-badd73d0f8",
+      "variants": [
+        {
+          "id": "v-badd73d0f8",
+          "answer": "Cruciate (cruciform) pulley",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-161",
+              "sourceLine": 161
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-59b6e8567e",
+      "variants": [
+        {
+          "id": "v-59b6e8567e",
+          "answer": "Flexible crossed fibres within the fibrous digital sheath between annular pulleys.",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-162",
+              "sourceLine": 162
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-0d0ed68a2a",
+      "variants": [
+        {
+          "id": "v-0d0ed68a2a",
+          "answer": "Retains flexor tendons while permitting the sheath to fold during finger flexion.",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-163",
+              "sourceLine": 163
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "hand-model-ns13",
+      "section": "Muscles, tendons and pulleys",
+      "path": [
+        "u"
+      ],
+      "label": "u"
+    }
+  ]
+}

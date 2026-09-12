@@ -1,0 +1,109 @@
+{
+  "id": "bulb-of-vestibule-8a9f678e64",
+  "name": "Bulb of vestibule",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Pelvis"
+  ],
+  "systems": [
+    "Reproductive"
+  ],
+  "organs": [],
+  "tags": [
+    "ErectileTissue",
+    "Function",
+    "Relations",
+    "Structure"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-6956d81b2a",
+      "variants": [
+        {
+          "id": "v-6956d81b2a",
+          "answer": "Bulb of vestibule",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-171",
+              "sourceLine": 171
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-2143579f67",
+      "variants": [
+        {
+          "id": "v-2143579f67",
+          "answer": "Paired elongated masses of erectile tissue flanking the vaginal opening.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-172",
+              "sourceLine": 172
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-f2f7aed457",
+      "variants": [
+        {
+          "id": "v-f2f7aed457",
+          "answer": "Engorge during sexual arousal and contribute to narrowing of the vaginal opening.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-173",
+              "sourceLine": 173
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-dbbcc07e8c",
+      "variants": [
+        {
+          "id": "v-dbbcc07e8c",
+          "answer": "Covered by bulbospongiosus muscle and lie in the superficial perineal pouch.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-174",
+              "sourceLine": 174
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "female-pelvis-model-mo8",
+      "section": "",
+      "path": [
+        "19",
+        "b"
+      ],
+      "label": "19b"
+    }
+  ]
+}

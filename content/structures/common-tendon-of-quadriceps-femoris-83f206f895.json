@@ -1,0 +1,147 @@
+{
+  "id": "common-tendon-of-quadriceps-femoris-83f206f895",
+  "name": "Common tendon of quadriceps femoris",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Tendons"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Attachments",
+    "Clinical",
+    "Formation",
+    "Function",
+    "Relations",
+    "Tendon"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-0d4f5be3b9",
+      "variants": [
+        {
+          "id": "v-0d4f5be3b9",
+          "answer": "Common tendon of quadriceps femoris",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-99",
+              "sourceLine": 99
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c13b6a1fb1",
+      "question": "Formed by",
+      "preferredVariantId": "v-4cc5613efb",
+      "variants": [
+        {
+          "id": "v-4cc5613efb",
+          "answer": "Convergence of the tendons of rectus femoris and the three vasti.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-100",
+              "sourceLine": 100
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6771ade6e8",
+      "question": "Attachments",
+      "preferredVariantId": "v-f081d80f24",
+      "variants": [
+        {
+          "id": "v-f081d80f24",
+          "answer": "Quadriceps muscle proximally; base and margins of patella distally. Force continues to the tibial tuberosity through the patellar ligament.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-101",
+              "sourceLine": 101
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-71c73b173c",
+      "variants": [
+        {
+          "id": "v-71c73b173c",
+          "answer": "Transmits quadriceps force to extend the knee.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-102",
+              "sourceLine": 102
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-04556065e1",
+      "variants": [
+        {
+          "id": "v-04556065e1",
+          "answer": "Anterior to distal femur and knee joint; suprapatellar recess lies deep to it.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-103",
+              "sourceLine": 103
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-b03737e3cd",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-8a95f0008c",
+      "variants": [
+        {
+          "id": "v-8a95f0008c",
+          "answer": "Complete rupture disrupts active knee extension and the straight-leg raise.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-104",
+              "sourceLine": 104
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "lower-limb-model-ns10",
+      "section": "Muscles",
+      "path": [
+        "11",
+        "11e"
+      ],
+      "label": "11e"
+    }
+  ]
+}

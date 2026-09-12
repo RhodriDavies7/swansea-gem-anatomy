@@ -1,0 +1,120 @@
+{
+  "id": "short-limb-of-incus-b066620042",
+  "name": "Short limb of incus",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [],
+  "organs": [
+    "Ear"
+  ],
+  "tags": [
+    "MiddleEar",
+    "OssiclePart",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-185f2e165a",
+      "variants": [
+        {
+          "id": "v-185f2e165a",
+          "answer": "Short limb of incus",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-156",
+              "sourceLine": 156
+            },
+            {
+              "modelId": "ear-model-ds3",
+              "cardId": "ear-model-ds3-58",
+              "sourceLine": 58
+            },
+            {
+              "modelId": "inner-ear-model-ds17",
+              "cardId": "inner-ear-model-ds17-34",
+              "sourceLine": 34
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-e7f4555eb2",
+      "variants": [
+        {
+          "id": "v-e7f4555eb2",
+          "answer": "Projects posteriorly and is supported in the fossa incudis.",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-157",
+              "sourceLine": 157
+            },
+            {
+              "modelId": "ear-model-ds3",
+              "cardId": "ear-model-ds3-59",
+              "sourceLine": 59
+            }
+          ]
+        },
+        {
+          "id": "v-2436a601a9",
+          "answer": "Projects posteriorly and is anchored in the fossa incudis.",
+          "sources": [
+            {
+              "modelId": "inner-ear-model-ds17",
+              "cardId": "inner-ear-model-ds17-35",
+              "sourceLine": 35
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "ear-largest-model-ds1",
+      "section": "C. Middle ear",
+      "path": [
+        "26",
+        "a"
+      ],
+      "label": "26a"
+    },
+    {
+      "modelId": "ear-model-ds3",
+      "section": "B. Middle ear",
+      "path": [
+        "8",
+        "a"
+      ],
+      "label": "8a"
+    },
+    {
+      "modelId": "inner-ear-model-ds17",
+      "section": "Tympanic membrane and ossicles",
+      "path": [
+        "4",
+        "a"
+      ],
+      "label": "4a"
+    }
+  ]
+}

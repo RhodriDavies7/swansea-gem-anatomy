@@ -1,0 +1,204 @@
+{
+  "id": "abductor-digiti-minimi-muscle-1cfade5998",
+  "name": "Abductor digiti minimi muscle",
+  "aliases": [
+    "Abductor digiti minimi"
+  ],
+  "scope": "Lower limb",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "MusclesAndTendons",
+    "Origin",
+    "Muscles"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-dd1338a450",
+      "variants": [
+        {
+          "id": "v-dd1338a450",
+          "answer": "Abductor digiti minimi muscle",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-269",
+              "sourceLine": 269
+            }
+          ]
+        },
+        {
+          "id": "v-323ed61629",
+          "answer": "Abductor digiti minimi",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-193",
+              "sourceLine": 193
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-36c4d5ae92",
+      "variants": [
+        {
+          "id": "v-36c4d5ae92",
+          "answer": "Abducts and assists flexion of the fifth toe at its metatarsophalangeal joint; supports lateral longitudinal arch.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-270",
+              "sourceLine": 270
+            }
+          ]
+        },
+        {
+          "id": "v-d4c04b5f7a",
+          "answer": "Abducts and flexes 5th toe; supports lateral longitudinal arch.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-194",
+              "sourceLine": 194
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-88c8052b1c",
+      "variants": [
+        {
+          "id": "v-88c8052b1c",
+          "answer": "Lateral plantar nerve (S2–S3).",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-271",
+              "sourceLine": 271
+            },
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-195",
+              "sourceLine": 195
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-9eae967a82",
+      "variants": [
+        {
+          "id": "v-9eae967a82",
+          "answer": "Medial and lateral processes of calcaneal tuberosity and plantar aponeurosis.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-272",
+              "sourceLine": 272
+            }
+          ]
+        },
+        {
+          "id": "v-bda1916e1d",
+          "answer": "Calcaneal tuberosity and plantar aponeurosis.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-196",
+              "sourceLine": 196
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-f725059c61",
+      "variants": [
+        {
+          "id": "v-f4adc9b5b5",
+          "answer": "Lateral base of proximal phalanx of fifth toe; often an additional slip to fifth metatarsal base.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-273",
+              "sourceLine": 273
+            }
+          ]
+        },
+        {
+          "id": "v-f725059c61",
+          "answer": "Lateral base of proximal phalanx of 5th toe.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-197",
+              "sourceLine": 197
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "lower-limb-model-ns10",
+      "section": "Muscles",
+      "path": [
+        "34"
+      ],
+      "label": "34"
+    },
+    {
+      "modelId": "foot-model-ns9",
+      "section": "Muscles",
+      "path": [
+        "29"
+      ],
+      "label": "29"
+    }
+  ]
+}

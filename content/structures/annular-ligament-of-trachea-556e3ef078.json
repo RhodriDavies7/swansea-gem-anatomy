@@ -1,0 +1,116 @@
+{
+  "id": "annular-ligament-of-trachea-556e3ef078",
+  "name": "Annular ligament of trachea",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Ligaments"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Musculoskeletal",
+    "Respiratory"
+  ],
+  "organs": [
+    "Larynx"
+  ],
+  "tags": [
+    "Function",
+    "Ligament",
+    "MembranesLigaments",
+    "Structure"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-18dfb52528",
+      "variants": [
+        {
+          "id": "v-18dfb52528",
+          "answer": "Annular ligament of trachea",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-89",
+              "sourceLine": 89
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-89",
+              "sourceLine": 89
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-8fcf6b7e27",
+      "variants": [
+        {
+          "id": "v-8fcf6b7e27",
+          "answer": "Fibroelastic tissue connecting adjacent tracheal cartilage rings.",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-90",
+              "sourceLine": 90
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-90",
+              "sourceLine": 90
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-941e2c0a21",
+      "variants": [
+        {
+          "id": "v-941e2c0a21",
+          "answer": "Provides flexibility while maintaining continuity of the tracheal wall.",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-91",
+              "sourceLine": 91
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-91",
+              "sourceLine": 91
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "larynx-model-gs7",
+      "section": "Membranes, ligaments and joints",
+      "path": [
+        "13"
+      ],
+      "label": "13"
+    },
+    {
+      "modelId": "larynx-and-airway-model-gs5",
+      "section": "Membranes, ligaments and joints",
+      "path": [
+        "13"
+      ],
+      "label": "13"
+    }
+  ]
+}

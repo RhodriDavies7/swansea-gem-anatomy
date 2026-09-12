@@ -1,0 +1,111 @@
+{
+  "id": "vocal-fold-mucosa-covering-vocal-ligament-d5322cbecf",
+  "name": "Vocal fold (mucosa covering vocal ligament)",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Respiratory"
+  ],
+  "organs": [
+    "Larynx"
+  ],
+  "tags": [
+    "Function",
+    "Innervation",
+    "LaryngealFold",
+    "Larynx",
+    "Structure"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-53818697c1",
+      "variants": [
+        {
+          "id": "v-53818697c1",
+          "answer": "Vocal fold (mucosa covering vocal ligament)",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-172",
+              "sourceLine": 172
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-e0d8c96037",
+      "variants": [
+        {
+          "id": "v-e0d8c96037",
+          "answer": "Mucosa overlying the vocal ligament and vocalis muscle.",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-173",
+              "sourceLine": 173
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-6a205bad84",
+      "variants": [
+        {
+          "id": "v-6a205bad84",
+          "answer": "Vibrates during phonation and closes the glottis for airway protection.",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-174",
+              "sourceLine": 174
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-342eef9b0e",
+      "variants": [
+        {
+          "id": "v-342eef9b0e",
+          "answer": "Motor control via recurrent laryngeal nerve except cricothyroid tensioning via external superior laryngeal nerve.",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-175",
+              "sourceLine": 175
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "larynx-and-tongue-model-gs4",
+      "section": "Larynx",
+      "path": [
+        "28"
+      ],
+      "label": "28"
+    }
+  ]
+}

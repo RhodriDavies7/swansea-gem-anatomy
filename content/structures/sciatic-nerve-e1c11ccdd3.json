@@ -1,0 +1,238 @@
+{
+  "id": "sciatic-nerve-e1c11ccdd3",
+  "name": "Sciatic nerve",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Nerves"
+  ],
+  "regions": [
+    "Lower limb",
+    "Pelvis"
+  ],
+  "systems": [
+    "Nervous",
+    "Reproductive"
+  ],
+  "organs": [],
+  "tags": [
+    "Course",
+    "Lesion",
+    "Motor",
+    "Nerve",
+    "Roots",
+    "Sensory"
+  ],
+  "imageIds": [
+    "img-368aaf97689e"
+  ],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-44cb098f17",
+      "variants": [
+        {
+          "id": "v-44cb098f17",
+          "answer": "Sciatic nerve",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-294",
+              "sourceLine": 294
+            },
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-465",
+              "sourceLine": 465
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-4d78ec7d11",
+      "question": "Roots",
+      "preferredVariantId": "v-e86a293bc5",
+      "variants": [
+        {
+          "id": "v-fab08e9084",
+          "answer": "L4–S3 from the sacral plexus.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-295",
+              "sourceLine": 295
+            }
+          ]
+        },
+        {
+          "id": "v-e86a293bc5",
+          "answer": "L4–S3; tibial component from anterior divisions and common fibular component from posterior divisions.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-466",
+              "sourceLine": 466
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-e127105467",
+      "variants": [
+        {
+          "id": "v-70ede2ce8c",
+          "answer": "Leaves pelvis through greater sciatic foramen inferior to piriformis and descends in posterior thigh.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-296",
+              "sourceLine": 296
+            }
+          ]
+        },
+        {
+          "id": "v-e127105467",
+          "answer": "Usually leaves greater sciatic foramen below piriformis; passes deep to gluteus maximus between greater trochanter and ischial tuberosity, then down posterior thigh; usually divides near upper popliteal fossa, but division level varies.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-467",
+              "sourceLine": 467
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-c8b6915183",
+      "question": "Motor functions",
+      "preferredVariantId": "v-51e5221016",
+      "variants": [
+        {
+          "id": "v-09097deac8",
+          "answer": "Supplies posterior thigh and, via tibial/common fibular branches, most muscles below the knee.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-297",
+              "sourceLine": 297
+            }
+          ]
+        },
+        {
+          "id": "v-51e5221016",
+          "answer": "Hamstrings and hamstring part of adductor magnus; through terminal branches, all leg and foot muscles.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-468",
+              "sourceLine": 468
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-a453254382",
+      "question": "Sensory functions",
+      "preferredVariantId": "v-313ebe4671",
+      "variants": [
+        {
+          "id": "v-fa93dc191e",
+          "answer": "Indirectly supplies most of leg and foot through terminal branches.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-298",
+              "sourceLine": 298
+            }
+          ]
+        },
+        {
+          "id": "v-313ebe4671",
+          "answer": "No direct cutaneous branches in thigh; terminal branches supply most leg and foot except saphenous territory.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-469",
+              "sourceLine": 469
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-bc53d10c57",
+      "question": "Lesion",
+      "preferredVariantId": "v-3210974d70",
+      "variants": [
+        {
+          "id": "v-bbd2605be5",
+          "answer": "Proximal injury can cause weakness of knee flexion and severe weakness or paralysis of movements below the knee, with sensory loss over much of the leg and foot; the exact pattern depends on the level and which tibial/common fibular fibres are affected.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-299",
+              "sourceLine": 299
+            }
+          ]
+        },
+        {
+          "id": "v-3210974d70",
+          "answer": "High lesion weakens knee flexion and severely impairs ankle/toe movement, often causing foot drop; sensory loss affects much of leg/foot while medial leg is spared. Posterior thigh skin is mainly supplied by a separate nerve.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-470",
+              "sourceLine": 470
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "female-pelvis-model-mo8",
+      "section": "",
+      "path": [
+        "44"
+      ],
+      "label": "44"
+    },
+    {
+      "modelId": "lower-limb-model-ns10",
+      "section": "Nerves",
+      "path": [
+        "63"
+      ],
+      "label": "63"
+    }
+  ]
+}

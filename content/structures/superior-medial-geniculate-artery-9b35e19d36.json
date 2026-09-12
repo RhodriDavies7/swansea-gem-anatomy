@@ -1,0 +1,108 @@
+{
+  "id": "superior-medial-geniculate-artery-9b35e19d36",
+  "name": "Superior medial geniculate artery",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Arteries"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Cardiovascular"
+  ],
+  "organs": [],
+  "tags": [
+    "Artery",
+    "Course",
+    "Origin",
+    "Supply"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-1324a538b9",
+      "variants": [
+        {
+          "id": "v-1324a538b9",
+          "answer": "Superior medial geniculate artery",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-399",
+              "sourceLine": 399
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-9969b306c1",
+      "variants": [
+        {
+          "id": "v-9969b306c1",
+          "answer": "Popliteal artery above knee joint.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-400",
+              "sourceLine": 400
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-9d976fe0b0",
+      "variants": [
+        {
+          "id": "v-9d976fe0b0",
+          "answer": "Passes around medial femoral condyle deep to adductor magnus tendon.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-401",
+              "sourceLine": 401
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-222db0fc1c",
+      "question": "Supply",
+      "preferredVariantId": "v-618980f8cf",
+      "variants": [
+        {
+          "id": "v-618980f8cf",
+          "answer": "Superomedial knee and genicular anastomosis; also adjacent vastus medialis.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-402",
+              "sourceLine": 402
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "lower-limb-model-ns10",
+      "section": "Blood vessels",
+      "path": [
+        "53"
+      ],
+      "label": "53"
+    }
+  ]
+}

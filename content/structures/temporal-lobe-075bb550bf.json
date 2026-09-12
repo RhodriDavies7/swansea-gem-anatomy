@@ -1,0 +1,71 @@
+{
+  "id": "temporal-lobe-075bb550bf",
+  "name": "Temporal lobe",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [],
+  "tags": [
+    "Brain",
+    "CNS",
+    "Function"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-bd63ea8b3d",
+      "variants": [
+        {
+          "id": "v-bd63ea8b3d",
+          "answer": "Temporal lobe",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-632",
+              "sourceLine": 632
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-7f6ccf42df",
+      "variants": [
+        {
+          "id": "v-7f6ccf42df",
+          "answer": "Auditory processing, language-related functions and memory.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-633",
+              "sourceLine": 633
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "head-and-neck-model-cs17-2",
+      "section": "Gross brain, meninges and venous structures (A–N)",
+      "path": [
+        "H"
+      ],
+      "label": "H"
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "id": "cochlear-nerve-38b6bfbccc",
+  "name": "Cochlear nerve",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Nerves"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [
+    "Ear"
+  ],
+  "tags": [
+    "Cochlea",
+    "Course",
+    "Lesion",
+    "Nerve",
+    "Roots",
+    "Sensory"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-68d0f73d61",
+      "variants": [
+        {
+          "id": "v-68d0f73d61",
+          "answer": "Cochlear nerve",
+          "sources": [
+            {
+              "modelId": "inner-ear-model-ds17",
+              "cardId": "inner-ear-model-ds17-115",
+              "sourceLine": 115
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-4d78ec7d11",
+      "question": "Roots",
+      "preferredVariantId": "v-74acf79464",
+      "variants": [
+        {
+          "id": "v-74acf79464",
+          "answer": "Peripheral processes arise from spiral ganglion neurons receiving input from hair cells of organ of Corti.",
+          "sources": [
+            {
+              "modelId": "inner-ear-model-ds17",
+              "cardId": "inner-ear-model-ds17-116",
+              "sourceLine": 116
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-dedceabf44",
+      "variants": [
+        {
+          "id": "v-dedceabf44",
+          "answer": "Central processes form the cochlear division of CN VIII and enter brainstem at pontomedullary junction.",
+          "sources": [
+            {
+              "modelId": "inner-ear-model-ds17",
+              "cardId": "inner-ear-model-ds17-117",
+              "sourceLine": 117
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-a453254382",
+      "question": "Sensory functions",
+      "preferredVariantId": "v-1b13ffee0f",
+      "variants": [
+        {
+          "id": "v-1b13ffee0f",
+          "answer": "Carries auditory information from cochlea to brainstem.",
+          "sources": [
+            {
+              "modelId": "inner-ear-model-ds17",
+              "cardId": "inner-ear-model-ds17-118",
+              "sourceLine": 118
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-bc53d10c57",
+      "question": "Lesion",
+      "preferredVariantId": "v-7d3389c6c3",
+      "variants": [
+        {
+          "id": "v-7d3389c6c3",
+          "answer": "Causes ipsilateral sensorineural hearing loss; may also produce tinnitus depending on site and pathology.",
+          "sources": [
+            {
+              "modelId": "inner-ear-model-ds17",
+              "cardId": "inner-ear-model-ds17-119",
+              "sourceLine": 119
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "inner-ear-model-ds17",
+      "section": "Cochlea and auditory structures",
+      "path": [
+        "15"
+      ],
+      "label": "15"
+    }
+  ]
+}

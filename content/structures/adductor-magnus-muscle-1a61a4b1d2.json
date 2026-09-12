@@ -1,0 +1,127 @@
+{
+  "id": "adductor-magnus-muscle-1a61a4b1d2",
+  "name": "Adductor magnus muscle",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-6effcf4496",
+      "variants": [
+        {
+          "id": "v-6effcf4496",
+          "answer": "Adductor magnus muscle",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-118",
+              "sourceLine": 118
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-90ed7cf7bd",
+      "variants": [
+        {
+          "id": "v-90ed7cf7bd",
+          "answer": "Adductor part adducts and assists flexion of the hip; hamstring part extends the hip.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-119",
+              "sourceLine": 119
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-01aeed83ff",
+      "variants": [
+        {
+          "id": "v-01aeed83ff",
+          "answer": "Adductor part: posterior division of obturator nerve (L2–L4). Hamstring part: tibial division of sciatic nerve, mainly L4.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-120",
+              "sourceLine": 120
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-64f7aed4a8",
+      "variants": [
+        {
+          "id": "v-64f7aed4a8",
+          "answer": "Adductor part: inferior pubic ramus and ramus of ischium. Hamstring part: ischial tuberosity.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-121",
+              "sourceLine": 121
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-5acf8df71c",
+      "variants": [
+        {
+          "id": "v-5acf8df71c",
+          "answer": "Adductor part: gluteal tuberosity, linea aspera and medial supracondylar line. Hamstring part: adductor tubercle of femur.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-122",
+              "sourceLine": 122
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "lower-limb-model-ns10",
+      "section": "Muscles",
+      "path": [
+        "14"
+      ],
+      "label": "14"
+    }
+  ]
+}

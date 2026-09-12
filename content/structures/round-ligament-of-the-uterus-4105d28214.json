@@ -1,0 +1,178 @@
+{
+  "id": "round-ligament-of-the-uterus-4105d28214",
+  "name": "Round ligament of the uterus",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Ligaments"
+  ],
+  "regions": [
+    "Pelvis"
+  ],
+  "systems": [
+    "Musculoskeletal",
+    "Reproductive"
+  ],
+  "organs": [],
+  "tags": [
+    "Attachments",
+    "Embryology",
+    "Function",
+    "Ligament",
+    "Relations"
+  ],
+  "imageIds": [
+    "img-1c63b402b0cf"
+  ],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-297169b57d",
+      "variants": [
+        {
+          "id": "v-297169b57d",
+          "answer": "Round ligament of the uterus",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-367",
+              "sourceLine": 367
+            },
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-120",
+              "sourceLine": 120
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6771ade6e8",
+      "question": "Attachments",
+      "preferredVariantId": "v-836b2c5751",
+      "variants": [
+        {
+          "id": "v-836b2c5751",
+          "answer": "Uterine horn to labium majus via deep inguinal ring and inguinal canal.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-368",
+              "sourceLine": 368
+            }
+          ]
+        },
+        {
+          "id": "v-f7c658d684",
+          "answer": "Extends from the uterine horn, passes through the deep inguinal ring and inguinal canal, and ends in connective tissue of the labium majus.",
+          "sources": [
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-121",
+              "sourceLine": 121
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-740918038f",
+      "variants": [
+        {
+          "id": "v-740918038f",
+          "answer": "Helps maintain uterine anteversion.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-369",
+              "sourceLine": 369
+            },
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-122",
+              "sourceLine": 122
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-7653a79b3b",
+      "question": "Embryology",
+      "preferredVariantId": "v-c8cc596266",
+      "variants": [
+        {
+          "id": "v-c8cc596266",
+          "answer": "Derived from gubernaculum.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-370",
+              "sourceLine": 370
+            }
+          ]
+        },
+        {
+          "id": "v-12f335b556",
+          "answer": "Derived from the gubernaculum.",
+          "sources": [
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-123",
+              "sourceLine": 123
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-59deffa76a",
+      "variants": [
+        {
+          "id": "v-59deffa76a",
+          "answer": "Runs within the broad ligament before entering the inguinal canal.",
+          "sources": [
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-124",
+              "sourceLine": 124
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "female-pelvis-model-mo8",
+      "section": "",
+      "path": [
+        "55"
+      ],
+      "label": "55"
+    },
+    {
+      "modelId": "female-reproductive-system-model-ms1",
+      "section": "",
+      "path": [
+        "17"
+      ],
+      "label": "17"
+    }
+  ]
+}

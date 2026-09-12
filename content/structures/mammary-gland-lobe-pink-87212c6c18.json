@@ -1,0 +1,108 @@
+{
+  "id": "mammary-gland-lobe-pink-87212c6c18",
+  "name": "Mammary gland lobe (pink)",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Thorax"
+  ],
+  "systems": [],
+  "organs": [
+    "Breast"
+  ],
+  "tags": [
+    "Function",
+    "MammaryGland",
+    "Relations",
+    "Structure"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-77e08471d4",
+      "variants": [
+        {
+          "id": "v-77e08471d4",
+          "answer": "Mammary gland lobe (pink)",
+          "sources": [
+            {
+              "modelId": "breast-model-ms7",
+              "cardId": "breast-model-ms7-2",
+              "sourceLine": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-6a211dc79b",
+      "variants": [
+        {
+          "id": "v-6a211dc79b",
+          "answer": "One of the major subdivisions of the mammary gland, composed of multiple lobules draining toward a lactiferous duct.",
+          "sources": [
+            {
+              "modelId": "breast-model-ms7",
+              "cardId": "breast-model-ms7-3",
+              "sourceLine": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-c4e33a34a4",
+      "variants": [
+        {
+          "id": "v-c4e33a34a4",
+          "answer": "Contains the secretory glandular tissue responsible for milk production during lactation.",
+          "sources": [
+            {
+              "modelId": "breast-model-ms7",
+              "cardId": "breast-model-ms7-4",
+              "sourceLine": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-58653c2ed0",
+      "variants": [
+        {
+          "id": "v-58653c2ed0",
+          "answer": "Embedded within fibrofatty tissue of the breast and arranged around the nipple.",
+          "sources": [
+            {
+              "modelId": "breast-model-ms7",
+              "cardId": "breast-model-ms7-5",
+              "sourceLine": 5
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "breast-model-ms7",
+      "section": "",
+      "path": [
+        "1"
+      ],
+      "label": "1"
+    }
+  ]
+}

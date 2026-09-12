@@ -1,0 +1,91 @@
+{
+  "id": "ethmoid-bulla-e9af39904e",
+  "name": "Ethmoid bulla",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Bones"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Musculoskeletal",
+    "Respiratory"
+  ],
+  "organs": [],
+  "tags": [
+    "Bone",
+    "BonyLandmark",
+    "Relations",
+    "SinusesAndOpenings"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-f06dc3a5a7",
+      "variants": [
+        {
+          "id": "v-f06dc3a5a7",
+          "answer": "Ethmoid bulla",
+          "sources": [
+            {
+              "modelId": "nose-and-nasal-cavity-model-fs3",
+              "cardId": "nose-and-nasal-cavity-model-fs3-37",
+              "sourceLine": 37
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-bcf605d6bb",
+      "question": "Bone",
+      "preferredVariantId": "v-82a07b710b",
+      "variants": [
+        {
+          "id": "v-82a07b710b",
+          "answer": "Rounded elevation formed by middle ethmoidal air cells.",
+          "sources": [
+            {
+              "modelId": "nose-and-nasal-cavity-model-fs3",
+              "cardId": "nose-and-nasal-cavity-model-fs3-38",
+              "sourceLine": 38
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-1964b32d51",
+      "variants": [
+        {
+          "id": "v-1964b32d51",
+          "answer": "Projects into the middle meatus; middle ethmoidal cells commonly open onto it.",
+          "sources": [
+            {
+              "modelId": "nose-and-nasal-cavity-model-fs3",
+              "cardId": "nose-and-nasal-cavity-model-fs3-39",
+              "sourceLine": 39
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "nose-and-nasal-cavity-model-fs3",
+      "section": "Paranasal sinuses, conchae and openings (a–p)",
+      "path": [
+        "g"
+      ],
+      "label": "g"
+    }
+  ]
+}

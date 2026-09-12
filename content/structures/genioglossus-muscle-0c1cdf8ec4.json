@@ -1,0 +1,259 @@
+{
+  "id": "genioglossus-muscle-0c1cdf8ec4",
+  "name": "Genioglossus muscle",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Musculoskeletal",
+    "Respiratory"
+  ],
+  "organs": [
+    "Larynx"
+  ],
+  "tags": [
+    "Action",
+    "Coronal",
+    "Innervation",
+    "Insertion",
+    "MidSagittal",
+    "MidlineStructures",
+    "Muscle",
+    "Origin",
+    "Tongue"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-811057b19d",
+      "variants": [
+        {
+          "id": "v-811057b19d",
+          "answer": "Genioglossus muscle",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-141",
+              "sourceLine": 141
+            },
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-411",
+              "sourceLine": 411
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-300",
+              "sourceLine": 300
+            },
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-255",
+              "sourceLine": 255
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-7977f35f6a",
+      "variants": [
+        {
+          "id": "v-7977f35f6a",
+          "answer": "Protrudes the tongue; depresses central tongue; unilateral action deviates tongue to opposite side.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-142",
+              "sourceLine": 142
+            }
+          ]
+        },
+        {
+          "id": "v-e267891e84",
+          "answer": "Protrudes tongue and depresses its central part; unilateral action deviates tongue contralaterally.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-412",
+              "sourceLine": 412
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-301",
+              "sourceLine": 301
+            }
+          ]
+        },
+        {
+          "id": "v-c5d54f9b57",
+          "answer": "Protrudes tongue and depresses its central part; unilateral contraction deviates tongue to the opposite side.",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-256",
+              "sourceLine": 256
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-c9d44d3215",
+      "variants": [
+        {
+          "id": "v-c9d44d3215",
+          "answer": "Hypoglossal nerve (CN XII).",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-143",
+              "sourceLine": 143
+            },
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-413",
+              "sourceLine": 413
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-302",
+              "sourceLine": 302
+            },
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-257",
+              "sourceLine": 257
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-1d8f1c7fb6",
+      "variants": [
+        {
+          "id": "v-1d8f1c7fb6",
+          "answer": "Superior mental spine of mandible.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-144",
+              "sourceLine": 144
+            },
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-414",
+              "sourceLine": 414
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-303",
+              "sourceLine": 303
+            },
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-258",
+              "sourceLine": 258
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-08353e4c46",
+      "variants": [
+        {
+          "id": "v-08353e4c46",
+          "answer": "Entire length of tongue and body of hyoid.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-145",
+              "sourceLine": 145
+            }
+          ]
+        },
+        {
+          "id": "v-77801a1b57",
+          "answer": "Tongue substance and body of hyoid.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-415",
+              "sourceLine": 415
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-304",
+              "sourceLine": 304
+            },
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-259",
+              "sourceLine": 259
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "coronal-and-mid-sagittal-head-mb20",
+      "section": "Coronal head",
+      "path": [
+        "27"
+      ],
+      "label": "27"
+    },
+    {
+      "modelId": "coronal-and-mid-sagittal-head-mb20",
+      "section": "Other midline structures",
+      "path": [
+        "n"
+      ],
+      "label": "n"
+    },
+    {
+      "modelId": "half-head-and-neck-model-bs9",
+      "section": "Other midline structures",
+      "path": [
+        "n"
+      ],
+      "label": "n"
+    },
+    {
+      "modelId": "larynx-and-tongue-model-gs4",
+      "section": "Tongue",
+      "path": [
+        "10"
+      ],
+      "label": "10"
+    }
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "id": "labium-minus-2fa458a6a2",
+  "name": "Labium minus",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Pelvis"
+  ],
+  "systems": [
+    "Reproductive"
+  ],
+  "organs": [],
+  "tags": [
+    "ExternalGenitalia",
+    "Function",
+    "Innervation",
+    "Relations",
+    "Structure"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-f3eb3bf95c",
+      "variants": [
+        {
+          "id": "v-f3eb3bf95c",
+          "answer": "Labium minus",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-189",
+              "sourceLine": 189
+            },
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-30",
+              "sourceLine": 30
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-aff10846dc",
+      "variants": [
+        {
+          "id": "v-aff10846dc",
+          "answer": "Paired thin hairless skin folds lacking substantial fat.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-190",
+              "sourceLine": 190
+            }
+          ]
+        },
+        {
+          "id": "v-b339b845c3",
+          "answer": "Paired thin, hairless skin folds without substantial subcutaneous fat.",
+          "sources": [
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-32",
+              "sourceLine": 32
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-e6dd8797a8",
+      "variants": [
+        {
+          "id": "v-e6dd8797a8",
+          "answer": "Borders the vestibule and protects urethral and vaginal openings.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-191",
+              "sourceLine": 191
+            }
+          ]
+        },
+        {
+          "id": "v-24c6ab8780",
+          "answer": "Borders the vestibule and helps protect the urethral and vaginal openings.",
+          "sources": [
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-31",
+              "sourceLine": 31
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-e878bcecf1",
+      "variants": [
+        {
+          "id": "v-e878bcecf1",
+          "answer": "Lies medial to labium majus and forms prepuce/frenulum around the clitoris anteriorly.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-192",
+              "sourceLine": 192
+            }
+          ]
+        },
+        {
+          "id": "v-d360889593",
+          "answer": "Lies medial to the labium majus and surrounds the vestibule; anteriorly contributes to the prepuce and frenulum of the clitoris.",
+          "sources": [
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-33",
+              "sourceLine": 33
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-a95db03d13",
+      "variants": [
+        {
+          "id": "v-a95db03d13",
+          "answer": "Mainly posterior labial branches of pudendal nerve, with anterior contributions from ilioinguinal/genitofemoral territories.",
+          "sources": [
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-34",
+              "sourceLine": 34
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "female-pelvis-model-mo8",
+      "section": "",
+      "path": [
+        "25"
+      ],
+      "label": "25"
+    },
+    {
+      "modelId": "female-reproductive-system-model-ms1",
+      "section": "",
+      "path": [
+        "5"
+      ],
+      "label": "5"
+    }
+  ]
+}

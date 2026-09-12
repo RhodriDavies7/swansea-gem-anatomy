@@ -1,0 +1,137 @@
+{
+  "id": "pineal-body-pineal-gland-5aa736b2b0",
+  "name": "Pineal body (pineal gland)",
+  "aliases": [
+    "Pineal body or gland"
+  ],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Organs"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [],
+  "organs": [],
+  "tags": [
+    "Function",
+    "Gland",
+    "Location",
+    "MidSagittal",
+    "MidlineStructures"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-a60fa7d461",
+      "variants": [
+        {
+          "id": "v-a60fa7d461",
+          "answer": "Pineal body (pineal gland)",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-298",
+              "sourceLine": 298
+            }
+          ]
+        },
+        {
+          "id": "v-cd57df63ac",
+          "answer": "Pineal body or gland",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-159",
+              "sourceLine": 159
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-acb39a0898",
+      "variants": [
+        {
+          "id": "v-acb39a0898",
+          "answer": "Posterior diencephalon, attached to roof of third ventricle.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-299",
+              "sourceLine": 299
+            }
+          ]
+        },
+        {
+          "id": "v-3d4581d734",
+          "answer": "Posterior diencephalon attached to roof of third ventricle.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-160",
+              "sourceLine": 160
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-8f462a6813",
+      "variants": [
+        {
+          "id": "v-8f462a6813",
+          "answer": "Secretes melatonin and contributes to circadian rhythm regulation.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-300",
+              "sourceLine": 300
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-161",
+              "sourceLine": 161
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "coronal-and-mid-sagittal-head-mb20",
+      "section": "Other midline structures",
+      "path": [
+        "10"
+      ],
+      "label": "10"
+    },
+    {
+      "modelId": "half-head-and-neck-model-bs9",
+      "section": "Other midline structures",
+      "path": [
+        "10"
+      ],
+      "label": "10"
+    }
+  ],
+  "redirectIds": [
+    "pineal-body-or-gland-2bca6b5bdc"
+  ]
+}

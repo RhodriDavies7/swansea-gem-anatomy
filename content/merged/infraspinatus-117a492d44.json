@@ -1,0 +1,127 @@
+{
+  "id": "infraspinatus-117a492d44",
+  "name": "Infraspinatus",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-47615f6954",
+      "variants": [
+        {
+          "id": "v-47615f6954",
+          "answer": "Infraspinatus",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-9",
+              "sourceLine": 9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-cf367daf4d",
+      "variants": [
+        {
+          "id": "v-cf367daf4d",
+          "answer": "Laterally rotates the arm and stabilises the humeral head in the glenoid.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-10",
+              "sourceLine": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-949fbb9f03",
+      "variants": [
+        {
+          "id": "v-949fbb9f03",
+          "answer": "Suprascapular nerve (C5–C6).",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-11",
+              "sourceLine": 11
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-78c0d6089d",
+      "variants": [
+        {
+          "id": "v-78c0d6089d",
+          "answer": "Infraspinous fossa of scapula and overlying fascia.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-12",
+              "sourceLine": 12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-0023322baf",
+      "variants": [
+        {
+          "id": "v-0023322baf",
+          "answer": "Middle facet of greater tubercle of humerus and shoulder joint capsule.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-13",
+              "sourceLine": 13
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "upper-limb-model-ns15",
+      "section": "Muscles",
+      "path": [
+        "2"
+      ],
+      "label": "2"
+    }
+  ]
+}

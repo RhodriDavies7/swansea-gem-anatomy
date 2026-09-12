@@ -1,0 +1,111 @@
+{
+  "id": "heart-0e4ae2aa03",
+  "name": "Heart",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Organs"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Respiratory"
+  ],
+  "organs": [
+    "Larynx"
+  ],
+  "tags": [
+    "Function",
+    "Location",
+    "MajorOrgans",
+    "Organ",
+    "Parts"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-2a37335eeb",
+      "variants": [
+        {
+          "id": "v-2a37335eeb",
+          "answer": "Heart",
+          "sources": [
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-31",
+              "sourceLine": 31
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-da8c6d575d",
+      "variants": [
+        {
+          "id": "v-da8c6d575d",
+          "answer": "Pumps blood through pulmonary and systemic circulations.",
+          "sources": [
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-32",
+              "sourceLine": 32
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-a12c6b618c",
+      "variants": [
+        {
+          "id": "v-a12c6b618c",
+          "answer": "Middle mediastinum within the pericardium.",
+          "sources": [
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-33",
+              "sourceLine": 33
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-e374280917",
+      "question": "Parts",
+      "preferredVariantId": "v-61992e54bb",
+      "variants": [
+        {
+          "id": "v-61992e54bb",
+          "answer": "Four chambers: right and left atria, right and left ventricles.",
+          "sources": [
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-34",
+              "sourceLine": 34
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+      "section": "Major organs and regions (A–G)",
+      "path": [
+        "F"
+      ],
+      "label": "F"
+    }
+  ]
+}

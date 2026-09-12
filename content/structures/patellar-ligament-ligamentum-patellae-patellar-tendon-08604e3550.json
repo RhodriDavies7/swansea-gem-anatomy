@@ -1,0 +1,128 @@
+{
+  "id": "patellar-ligament-ligamentum-patellae-patellar-tendon-08604e3550",
+  "name": "Patellar ligament (ligamentum patellae / patellar tendon)",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Ligaments"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Attachments",
+    "Clinical",
+    "Function",
+    "Ligament",
+    "LigamentsAndMenisci",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-c479883930",
+      "variants": [
+        {
+          "id": "v-c479883930",
+          "answer": "Patellar ligament (ligamentum patellae / patellar tendon)",
+          "sources": [
+            {
+              "modelId": "knee-joint-model-ns19",
+              "cardId": "knee-joint-model-ns19-23",
+              "sourceLine": 23
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6771ade6e8",
+      "question": "Attachments",
+      "preferredVariantId": "v-bfd6366b34",
+      "variants": [
+        {
+          "id": "v-bfd6366b34",
+          "answer": "From apex and adjacent margins of patella to tibial tuberosity.",
+          "sources": [
+            {
+              "modelId": "knee-joint-model-ns19",
+              "cardId": "knee-joint-model-ns19-24",
+              "sourceLine": 24
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-15d67569cf",
+      "variants": [
+        {
+          "id": "v-15d67569cf",
+          "answer": "Continuation of quadriceps extensor mechanism, transmitting force to extend the knee.",
+          "sources": [
+            {
+              "modelId": "knee-joint-model-ns19",
+              "cardId": "knee-joint-model-ns19-25",
+              "sourceLine": 25
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-c08f18ddbc",
+      "variants": [
+        {
+          "id": "v-c08f18ddbc",
+          "answer": "Lies anterior to the knee joint capsule.",
+          "sources": [
+            {
+              "modelId": "knee-joint-model-ns19",
+              "cardId": "knee-joint-model-ns19-26",
+              "sourceLine": 26
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-b03737e3cd",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-242ab37ce0",
+      "variants": [
+        {
+          "id": "v-242ab37ce0",
+          "answer": "Patellar tendon rupture causes loss of active knee extension and a high-riding patella may be seen.",
+          "sources": [
+            {
+              "modelId": "knee-joint-model-ns19",
+              "cardId": "knee-joint-model-ns19-27",
+              "sourceLine": 27
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "knee-joint-model-ns19",
+      "section": "Ligaments and menisci",
+      "path": [
+        "4"
+      ],
+      "label": "4"
+    }
+  ]
+}

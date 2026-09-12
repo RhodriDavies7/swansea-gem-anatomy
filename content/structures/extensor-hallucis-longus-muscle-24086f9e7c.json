@@ -1,0 +1,203 @@
+{
+  "id": "extensor-hallucis-longus-muscle-24086f9e7c",
+  "name": "Extensor hallucis longus muscle",
+  "aliases": [
+    "Extensor hallucis longus"
+  ],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Origin",
+    "Muscles"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-dd216d11a1",
+      "variants": [
+        {
+          "id": "v-dd216d11a1",
+          "answer": "Extensor hallucis longus muscle",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-160",
+              "sourceLine": 160
+            }
+          ]
+        },
+        {
+          "id": "v-36c08b0df0",
+          "answer": "Extensor hallucis longus",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-75",
+              "sourceLine": 75
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-f81945d1f5",
+      "variants": [
+        {
+          "id": "v-f81945d1f5",
+          "answer": "Extends the great toe at both joints; dorsiflexes the ankle.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-161",
+              "sourceLine": 161
+            }
+          ]
+        },
+        {
+          "id": "v-ed3556da5b",
+          "answer": "Extends hallux and dorsiflexes ankle.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-76",
+              "sourceLine": 76
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-61fe0ce0c6",
+      "variants": [
+        {
+          "id": "v-61fe0ce0c6",
+          "answer": "Deep fibular nerve (L5–S1).",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-162",
+              "sourceLine": 162
+            }
+          ]
+        },
+        {
+          "id": "v-30c3690589",
+          "answer": "Deep fibular nerve (L5).",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-77",
+              "sourceLine": 77
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-5659e9f7c3",
+      "variants": [
+        {
+          "id": "v-5659e9f7c3",
+          "answer": "Middle anterior fibula and interosseous membrane.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-163",
+              "sourceLine": 163
+            },
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-78",
+              "sourceLine": 78
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-3f10f1fa69",
+      "variants": [
+        {
+          "id": "v-3f10f1fa69",
+          "answer": "Dorsal base of distal phalanx of great toe.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-164",
+              "sourceLine": 164
+            }
+          ]
+        },
+        {
+          "id": "v-1858daafba",
+          "answer": "Dorsal base of distal phalanx of hallux.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-79",
+              "sourceLine": 79
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "lower-limb-model-ns10",
+      "section": "Muscles",
+      "path": [
+        "20"
+      ],
+      "label": "20"
+    },
+    {
+      "modelId": "foot-model-ns9",
+      "section": "Muscles",
+      "path": [
+        "12"
+      ],
+      "label": "12"
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "id": "granular-foveolae-of-arachnoid-granulations-c966d245dc",
+  "name": "Granular foveolae of arachnoid granulations",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Bones"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "BonyLandmark",
+    "Function",
+    "HeadNeck",
+    "Relations",
+    "Structure"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-19766abcdd",
+      "variants": [
+        {
+          "id": "v-19766abcdd",
+          "answer": "Granular foveolae of arachnoid granulations",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-520",
+              "sourceLine": 520
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-195ecb8900",
+      "variants": [
+        {
+          "id": "v-195ecb8900",
+          "answer": "Small depressions on inner calvaria produced by arachnoid granulations.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-521",
+              "sourceLine": 521
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-8c05def391",
+      "variants": [
+        {
+          "id": "v-8c05def391",
+          "answer": "Commonly adjacent to superior sagittal sinus.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-522",
+              "sourceLine": 522
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-88609ccbde",
+      "variants": [
+        {
+          "id": "v-88609ccbde",
+          "answer": "Reflect sites where arachnoid granulations project for CSF absorption.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-523",
+              "sourceLine": 523
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "head-and-neck-model-cs17-2",
+      "section": "Dural venous sinuses, meninges and cranial markings",
+      "path": [
+        "81"
+      ],
+      "label": "81"
+    }
+  ]
+}

@@ -1,0 +1,197 @@
+{
+  "id": "renal-papilla-and-papillary-ducts-260333b745",
+  "name": "Renal papilla and papillary ducts",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Abdomen"
+  ],
+  "systems": [
+    "Urinary"
+  ],
+  "organs": [
+    "Kidney"
+  ],
+  "tags": [
+    "AlsoCalled",
+    "CollectingSystem",
+    "Function",
+    "Location",
+    "ModelNote",
+    "RenalStructure",
+    "Structure"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-f3928be882",
+      "variants": [
+        {
+          "id": "v-f3928be882",
+          "answer": "Renal papilla and papillary ducts",
+          "sources": [
+            {
+              "modelId": "kidney-model-ls5",
+              "cardId": "kidney-model-ls5-82",
+              "sourceLine": 82
+            },
+            {
+              "modelId": "kidney-model-ls5",
+              "cardId": "kidney-model-ls5-96",
+              "sourceLine": 96
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-2165ca196b",
+      "variants": [
+        {
+          "id": "v-2165ca196b",
+          "answer": "Renal papilla is the apex of a renal pyramid projecting into a minor calyx.",
+          "sources": [
+            {
+              "modelId": "kidney-model-ls5",
+              "cardId": "kidney-model-ls5-83",
+              "sourceLine": 83
+            },
+            {
+              "modelId": "kidney-model-ls5",
+              "cardId": "kidney-model-ls5-97",
+              "sourceLine": 97
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-34ea881fc5",
+      "variants": [
+        {
+          "id": "v-34ea881fc5",
+          "answer": "Papillary ducts are terminal collecting ducts that open at the area cribrosa of the papilla.",
+          "sources": [
+            {
+              "modelId": "kidney-model-ls5",
+              "cardId": "kidney-model-ls5-84",
+              "sourceLine": 84
+            }
+          ]
+        },
+        {
+          "id": "v-3019b78626",
+          "answer": "Papillary ducts are the terminal portions of collecting ducts and open on the papillary surface.",
+          "sources": [
+            {
+              "modelId": "kidney-model-ls5",
+              "cardId": "kidney-model-ls5-98",
+              "sourceLine": 98
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-ea7da91ec2",
+      "variants": [
+        {
+          "id": "v-ea7da91ec2",
+          "answer": "Deliver urine from collecting ducts into the minor calyx.",
+          "sources": [
+            {
+              "modelId": "kidney-model-ls5",
+              "cardId": "kidney-model-ls5-85",
+              "sourceLine": 85
+            }
+          ]
+        },
+        {
+          "id": "v-ad3181aa37",
+          "answer": "Drain urine into the minor calyx.",
+          "sources": [
+            {
+              "modelId": "kidney-model-ls5",
+              "cardId": "kidney-model-ls5-99",
+              "sourceLine": 99
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-4365b97418",
+      "question": "Also called",
+      "preferredVariantId": "v-5558a407fb",
+      "variants": [
+        {
+          "id": "v-5558a407fb",
+          "answer": "Papillary ducts are also called ducts of Bellini.",
+          "sources": [
+            {
+              "modelId": "kidney-model-ls5",
+              "cardId": "kidney-model-ls5-86",
+              "sourceLine": 86
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c0d9dc54c1",
+      "question": "Model note",
+      "preferredVariantId": "v-5c3e23df9d",
+      "variants": [
+        {
+          "id": "v-5c3e23df9d",
+          "answer": "This structure is also labelled as number 6 on the model key; both labels have been preserved.",
+          "sources": [
+            {
+              "modelId": "kidney-model-ls5",
+              "cardId": "kidney-model-ls5-100",
+              "sourceLine": 100
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "kidney-model-ls5",
+      "section": "Collecting system and renal parenchyma",
+      "path": [
+        "6"
+      ],
+      "label": "6"
+    },
+    {
+      "modelId": "kidney-model-ls5",
+      "section": "Collecting system and renal parenchyma",
+      "path": [
+        "19"
+      ],
+      "label": "19"
+    }
+  ]
+}

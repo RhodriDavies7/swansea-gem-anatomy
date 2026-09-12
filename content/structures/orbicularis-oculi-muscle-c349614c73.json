@@ -1,0 +1,128 @@
+{
+  "id": "orbicularis-oculi-muscle-c349614c73",
+  "name": "Orbicularis oculi muscle",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "HeadNeckMuscles",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-0fc155d4f2",
+      "variants": [
+        {
+          "id": "v-0fc155d4f2",
+          "answer": "Orbicularis oculi muscle",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-407",
+              "sourceLine": 407
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-70b2fc8a40",
+      "variants": [
+        {
+          "id": "v-70b2fc8a40",
+          "answer": "Closes eyelids; orbital part closes tightly, palpebral part gently.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-408",
+              "sourceLine": 408
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-6ed4bfb505",
+      "variants": [
+        {
+          "id": "v-6ed4bfb505",
+          "answer": "Facial nerve (CN VII).",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-409",
+              "sourceLine": 409
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-1f59588e7e",
+      "variants": [
+        {
+          "id": "v-1f59588e7e",
+          "answer": "Medial orbital margin, medial palpebral ligament and lacrimal bone.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-410",
+              "sourceLine": 410
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-ae26daf410",
+      "variants": [
+        {
+          "id": "v-ae26daf410",
+          "answer": "Skin around orbit and tarsal plates/lateral palpebral raphe.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-411",
+              "sourceLine": 411
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "half-head-and-neck-model-bs9",
+      "section": "Musculature of the head and neck",
+      "path": [
+        "26"
+      ],
+      "label": "26"
+    }
+  ]
+}

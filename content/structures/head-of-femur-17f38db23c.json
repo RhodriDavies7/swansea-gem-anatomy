@@ -1,0 +1,129 @@
+{
+  "id": "head-of-femur-17f38db23c",
+  "name": "Head of femur",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Bones"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Articulations",
+    "BloodSupply",
+    "Bones",
+    "BonyLandmark",
+    "Clinical",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-0c6827c412",
+      "variants": [
+        {
+          "id": "v-0c6827c412",
+          "answer": "Head of femur",
+          "sources": [
+            {
+              "modelId": "hip-joint-model-ns20",
+              "cardId": "hip-joint-model-ns20-25",
+              "sourceLine": 25
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-b3e7bd5736",
+      "question": "Articulation",
+      "preferredVariantId": "v-0b0e51362b",
+      "variants": [
+        {
+          "id": "v-0b0e51362b",
+          "answer": "Articulates with lunate surface of acetabulum.",
+          "sources": [
+            {
+              "modelId": "hip-joint-model-ns20",
+              "cardId": "hip-joint-model-ns20-26",
+              "sourceLine": 26
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-5f784c9b52",
+      "variants": [
+        {
+          "id": "v-5f784c9b52",
+          "answer": "Covered by articular cartilage except at fovea capitis.",
+          "sources": [
+            {
+              "modelId": "hip-joint-model-ns20",
+              "cardId": "hip-joint-model-ns20-27",
+              "sourceLine": 27
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-a707f7e176",
+      "question": "Blood supply",
+      "preferredVariantId": "v-77a1723581",
+      "variants": [
+        {
+          "id": "v-77a1723581",
+          "answer": "Mainly retinacular branches of medial circumflex femoral artery; artery in ligament of head is usually minor in adults.",
+          "sources": [
+            {
+              "modelId": "hip-joint-model-ns20",
+              "cardId": "hip-joint-model-ns20-28",
+              "sourceLine": 28
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-b03737e3cd",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-f174b324cd",
+      "variants": [
+        {
+          "id": "v-f174b324cd",
+          "answer": "Intracapsular femoral-neck fractures may disrupt retinacular vessels and cause avascular necrosis.",
+          "sources": [
+            {
+              "modelId": "hip-joint-model-ns20",
+              "cardId": "hip-joint-model-ns20-29",
+              "sourceLine": 29
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "hip-joint-model-ns20",
+      "section": "Bones and bony landmarks",
+      "path": [
+        "2",
+        "d"
+      ],
+      "label": "2d"
+    }
+  ]
+}

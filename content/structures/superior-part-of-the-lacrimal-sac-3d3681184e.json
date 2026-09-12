@@ -1,0 +1,90 @@
+{
+  "id": "superior-part-of-the-lacrimal-sac-3d3681184e",
+  "name": "Superior part of the lacrimal sac",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [],
+  "organs": [
+    "Eye"
+  ],
+  "tags": [
+    "LacrimalApparatus",
+    "LacrimalApparatusPart",
+    "Location",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-070914d516",
+      "variants": [
+        {
+          "id": "v-070914d516",
+          "answer": "Superior part of the lacrimal sac",
+          "sources": [
+            {
+              "modelId": "eyeball-with-part-of-orbit-model-cs2",
+              "cardId": "eyeball-with-part-of-orbit-model-cs2-162",
+              "sourceLine": 162
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-7201b62676",
+      "variants": [
+        {
+          "id": "v-7201b62676",
+          "answer": "Upper portion of the lacrimal sac in the medial orbital lacrimal fossa.",
+          "sources": [
+            {
+              "modelId": "eyeball-with-part-of-orbit-model-cs2",
+              "cardId": "eyeball-with-part-of-orbit-model-cs2-163",
+              "sourceLine": 163
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-4f05f0337b",
+      "variants": [
+        {
+          "id": "v-4f05f0337b",
+          "answer": "Receives tear drainage from the canalicular system before tears pass inferiorly into the remainder of the sac and nasolacrimal duct.",
+          "sources": [
+            {
+              "modelId": "eyeball-with-part-of-orbit-model-cs2",
+              "cardId": "eyeball-with-part-of-orbit-model-cs2-164",
+              "sourceLine": 164
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "eyeball-with-part-of-orbit-model-cs2",
+      "section": "Lacrimal apparatus",
+      "path": [
+        "10"
+      ],
+      "label": "10"
+    }
+  ]
+}

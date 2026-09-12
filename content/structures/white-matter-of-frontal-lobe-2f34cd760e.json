@@ -1,0 +1,109 @@
+{
+  "id": "white-matter-of-frontal-lobe-2f34cd760e",
+  "name": "White matter of frontal lobe",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [],
+  "tags": [
+    "CNS",
+    "Coronal",
+    "Function",
+    "Relations",
+    "Structure"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-b60efe55b4",
+      "variants": [
+        {
+          "id": "v-b60efe55b4",
+          "answer": "White matter of frontal lobe",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-30",
+              "sourceLine": 30
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-380a84143b",
+      "variants": [
+        {
+          "id": "v-380a84143b",
+          "answer": "Bundles of myelinated axons beneath the cerebral cortex.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-31",
+              "sourceLine": 31
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-3a1a2e2c3c",
+      "variants": [
+        {
+          "id": "v-3a1a2e2c3c",
+          "answer": "Carries association, commissural and projection fibres connecting frontal cortex with other brain regions.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-32",
+              "sourceLine": 32
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-fcec81292f",
+      "variants": [
+        {
+          "id": "v-fcec81292f",
+          "answer": "Lies deep to frontal cortical grey matter.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-33",
+              "sourceLine": 33
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "coronal-and-mid-sagittal-head-mb20",
+      "section": "Coronal head",
+      "path": [
+        "7"
+      ],
+      "label": "7"
+    }
+  ]
+}

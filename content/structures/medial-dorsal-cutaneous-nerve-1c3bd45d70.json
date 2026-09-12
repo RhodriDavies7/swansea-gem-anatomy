@@ -1,0 +1,128 @@
+{
+  "id": "medial-dorsal-cutaneous-nerve-1c3bd45d70",
+  "name": "Medial dorsal cutaneous nerve",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Nerves"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [],
+  "tags": [
+    "ArteriesAndNerves",
+    "Course",
+    "Lesion",
+    "Nerve",
+    "Roots",
+    "Sensory"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-66e0921025",
+      "variants": [
+        {
+          "id": "v-66e0921025",
+          "answer": "Medial dorsal cutaneous nerve",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-295",
+              "sourceLine": 295
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-4d78ec7d11",
+      "question": "Roots",
+      "preferredVariantId": "v-941fce5528",
+      "variants": [
+        {
+          "id": "v-941fce5528",
+          "answer": "Branch of superficial fibular nerve.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-296",
+              "sourceLine": 296
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-7d3183a728",
+      "variants": [
+        {
+          "id": "v-7d3183a728",
+          "answer": "Passes onto dorsum of foot and divides into dorsal digital branches.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-297",
+              "sourceLine": 297
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-a453254382",
+      "question": "Sensory functions",
+      "preferredVariantId": "v-18374026b1",
+      "variants": [
+        {
+          "id": "v-18374026b1",
+          "answer": "Supplies much of medial dorsum of foot and dorsal aspects of adjacent toes, excluding key deep fibular/saphenous territories.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-298",
+              "sourceLine": 298
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-bc53d10c57",
+      "question": "Lesion",
+      "preferredVariantId": "v-f5bf07a7ca",
+      "variants": [
+        {
+          "id": "v-f5bf07a7ca",
+          "answer": "Causes numbness or paraesthesia over its cutaneous territory on the medial dorsum of the foot without motor weakness.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-299",
+              "sourceLine": 299
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "foot-model-ns9",
+      "section": "Arteries and nerves",
+      "path": [
+        "43"
+      ],
+      "label": "43"
+    }
+  ]
+}

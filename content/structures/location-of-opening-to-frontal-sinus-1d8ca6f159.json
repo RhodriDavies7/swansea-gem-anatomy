@@ -1,0 +1,90 @@
+{
+  "id": "location-of-opening-to-frontal-sinus-1d8ca6f159",
+  "name": "Location of opening to frontal sinus",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Respiratory"
+  ],
+  "organs": [],
+  "tags": [
+    "Function",
+    "Location",
+    "Opening",
+    "SinusesAndOpenings"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-fcd022ec0c",
+      "variants": [
+        {
+          "id": "v-fcd022ec0c",
+          "answer": "Location of opening to frontal sinus",
+          "sources": [
+            {
+              "modelId": "nose-and-nasal-cavity-model-fs3",
+              "cardId": "nose-and-nasal-cavity-model-fs3-47",
+              "sourceLine": 47
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-34130fb3bd",
+      "variants": [
+        {
+          "id": "v-34130fb3bd",
+          "answer": "Drains through the frontal recess/frontonasal pathway into the middle meatus.",
+          "sources": [
+            {
+              "modelId": "nose-and-nasal-cavity-model-fs3",
+              "cardId": "nose-and-nasal-cavity-model-fs3-48",
+              "sourceLine": 48
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-69a7954405",
+      "variants": [
+        {
+          "id": "v-69a7954405",
+          "answer": "Allows drainage and ventilation of the frontal sinus.",
+          "sources": [
+            {
+              "modelId": "nose-and-nasal-cavity-model-fs3",
+              "cardId": "nose-and-nasal-cavity-model-fs3-49",
+              "sourceLine": 49
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "nose-and-nasal-cavity-model-fs3",
+      "section": "Paranasal sinuses, conchae and openings (a–p)",
+      "path": [
+        "i"
+      ],
+      "label": "i"
+    }
+  ]
+}

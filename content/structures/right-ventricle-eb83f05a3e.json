@@ -1,0 +1,211 @@
+{
+  "id": "right-ventricle-eb83f05a3e",
+  "name": "Right ventricle",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck",
+    "Thorax"
+  ],
+  "systems": [
+    "Cardiovascular",
+    "Respiratory"
+  ],
+  "organs": [
+    "Heart",
+    "Larynx"
+  ],
+  "tags": [
+    "Chambers",
+    "Connections",
+    "Contents",
+    "Function",
+    "HeartChamber",
+    "HeartChambers",
+    "Landmarks",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-f36d47841d",
+      "variants": [
+        {
+          "id": "v-f36d47841d",
+          "answer": "Right ventricle",
+          "sources": [
+            {
+              "modelId": "heart-model-hs5",
+              "cardId": "heart-model-hs5-31",
+              "sourceLine": 31
+            },
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-151",
+              "sourceLine": 151
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-45137ebf0f",
+      "variants": [
+        {
+          "id": "v-45137ebf0f",
+          "answer": "Pumps deoxygenated blood into the pulmonary circulation.",
+          "sources": [
+            {
+              "modelId": "heart-model-hs5",
+              "cardId": "heart-model-hs5-32",
+              "sourceLine": 32
+            }
+          ]
+        },
+        {
+          "id": "v-9a60e0446f",
+          "answer": "Pumps deoxygenated blood into pulmonary circulation.",
+          "sources": [
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-152",
+              "sourceLine": 152
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-434bed5fc1",
+      "question": "Inflow",
+      "preferredVariantId": "v-09eda64a76",
+      "variants": [
+        {
+          "id": "v-09eda64a76",
+          "answer": "Receives blood from the right atrium through the tricuspid valve.",
+          "sources": [
+            {
+              "modelId": "heart-model-hs5",
+              "cardId": "heart-model-hs5-33",
+              "sourceLine": 33
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-fc92a7d5c4",
+      "question": "Outflow",
+      "preferredVariantId": "v-3ccdebf829",
+      "variants": [
+        {
+          "id": "v-3ccdebf829",
+          "answer": "Ejects blood through the pulmonary valve into the pulmonary trunk.",
+          "sources": [
+            {
+              "modelId": "heart-model-hs5",
+              "cardId": "heart-model-hs5-34",
+              "sourceLine": 34
+            }
+          ]
+        },
+        {
+          "id": "v-e1792610d4",
+          "answer": "Through pulmonary valve into pulmonary trunk.",
+          "sources": [
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-153",
+              "sourceLine": 153
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-0681aa149d",
+      "question": "Internal features",
+      "preferredVariantId": "v-97b03b8cb7",
+      "variants": [
+        {
+          "id": "v-97b03b8cb7",
+          "answer": "Contains trabeculae carneae, papillary muscles, chordae tendineae and the moderator band.",
+          "sources": [
+            {
+              "modelId": "heart-model-hs5",
+              "cardId": "heart-model-hs5-35",
+              "sourceLine": 35
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-b3d6dfac8c",
+      "question": "Wall thickness",
+      "preferredVariantId": "v-dc7f8c7ab0",
+      "variants": [
+        {
+          "id": "v-dc7f8c7ab0",
+          "answer": "Thinner than the left ventricle because pulmonary vascular resistance is lower.",
+          "sources": [
+            {
+              "modelId": "heart-model-hs5",
+              "cardId": "heart-model-hs5-36",
+              "sourceLine": 36
+            }
+          ]
+        },
+        {
+          "id": "v-18e224a7f9",
+          "answer": "Thinner than left ventricular wall because pulmonary resistance is lower.",
+          "sources": [
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-154",
+              "sourceLine": 154
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "heart-model-hs5",
+      "section": "Chambers",
+      "path": [
+        "III"
+      ],
+      "label": "III"
+    },
+    {
+      "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+      "section": "Heart chambers and auricles",
+      "path": [
+        "20"
+      ],
+      "label": "20"
+    }
+  ]
+}

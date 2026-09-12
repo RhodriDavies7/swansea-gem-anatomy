@@ -1,0 +1,128 @@
+{
+  "id": "extensor-digiti-minimi-muscle-12b185a47c",
+  "name": "Extensor digiti minimi muscle",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "MusclesAndTendons",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-e65029f10c",
+      "variants": [
+        {
+          "id": "v-e65029f10c",
+          "answer": "Extensor digiti minimi muscle",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-66",
+              "sourceLine": 66
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-8ef14b3700",
+      "variants": [
+        {
+          "id": "v-8ef14b3700",
+          "answer": "Extends the 5th digit and assists wrist extension.",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-67",
+              "sourceLine": 67
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-6f015ae0cc",
+      "variants": [
+        {
+          "id": "v-6f015ae0cc",
+          "answer": "Posterior interosseous nerve (C7–C8).",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-68",
+              "sourceLine": 68
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-86ac4ca28b",
+      "variants": [
+        {
+          "id": "v-86ac4ca28b",
+          "answer": "Lateral epicondyle via common extensor tendon.",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-69",
+              "sourceLine": 69
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-776d534322",
+      "variants": [
+        {
+          "id": "v-776d534322",
+          "answer": "Extensor expansion of 5th digit.",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-70",
+              "sourceLine": 70
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "hand-model-ns13",
+      "section": "Muscles, tendons and pulleys",
+      "path": [
+        "f"
+      ],
+      "label": "f"
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "id": "extensor-hallucis-longus-9805b83889",
+  "name": "Extensor hallucis longus",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Muscles",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-36c08b0df0",
+      "variants": [
+        {
+          "id": "v-36c08b0df0",
+          "answer": "Extensor hallucis longus",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-75",
+              "sourceLine": 75
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-ed3556da5b",
+      "variants": [
+        {
+          "id": "v-ed3556da5b",
+          "answer": "Extends hallux and dorsiflexes ankle.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-76",
+              "sourceLine": 76
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-30c3690589",
+      "variants": [
+        {
+          "id": "v-30c3690589",
+          "answer": "Deep fibular nerve (L5).",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-77",
+              "sourceLine": 77
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-5659e9f7c3",
+      "variants": [
+        {
+          "id": "v-5659e9f7c3",
+          "answer": "Middle anterior fibula and interosseous membrane.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-78",
+              "sourceLine": 78
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-1858daafba",
+      "variants": [
+        {
+          "id": "v-1858daafba",
+          "answer": "Dorsal base of distal phalanx of hallux.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-79",
+              "sourceLine": 79
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "foot-model-ns9",
+      "section": "Muscles",
+      "path": [
+        "12"
+      ],
+      "label": "12"
+    }
+  ]
+}

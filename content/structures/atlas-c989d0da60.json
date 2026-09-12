@@ -1,0 +1,148 @@
+{
+  "id": "atlas-c989d0da60",
+  "name": "Atlas",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Bones"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Articulations",
+    "Bone",
+    "BonyStructures",
+    "Function",
+    "Landmarks",
+    "MidSagittal"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-8bd28d90f5",
+      "variants": [
+        {
+          "id": "v-8bd28d90f5",
+          "answer": "Atlas",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-215",
+              "sourceLine": 215
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-60",
+              "sourceLine": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-a40bee8d10",
+      "question": "Articulations",
+      "preferredVariantId": "v-39d4ebdfc7",
+      "variants": [
+        {
+          "id": "v-39d4ebdfc7",
+          "answer": "Articulates with occipital condyles superiorly and axis inferiorly.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-216",
+              "sourceLine": 216
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-61",
+              "sourceLine": 61
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-626b6c1d45",
+      "question": "Landmarks",
+      "preferredVariantId": "v-215a20c63b",
+      "variants": [
+        {
+          "id": "v-215a20c63b",
+          "answer": "Anterior/posterior arches, lateral masses and transverse foramina; no body or spinous process.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-217",
+              "sourceLine": 217
+            }
+          ]
+        },
+        {
+          "id": "v-59de29bc58",
+          "answer": "Anterior/posterior arches, lateral masses and transverse foramina.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-62",
+              "sourceLine": 62
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-4d608f13fc",
+      "variants": [
+        {
+          "id": "v-4d608f13fc",
+          "answer": "Supports skull and permits nodding at atlanto-occipital joints.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-218",
+              "sourceLine": 218
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-63",
+              "sourceLine": 63
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "coronal-and-mid-sagittal-head-mb20",
+      "section": "Bony structures",
+      "path": [
+        "L"
+      ],
+      "label": "L"
+    },
+    {
+      "modelId": "half-head-and-neck-model-bs9",
+      "section": "Bony structures",
+      "path": [
+        "L"
+      ],
+      "label": "L"
+    }
+  ]
+}

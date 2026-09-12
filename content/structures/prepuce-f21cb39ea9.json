@@ -1,0 +1,89 @@
+{
+  "id": "prepuce-f21cb39ea9",
+  "name": "Prepuce",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Pelvis"
+  ],
+  "systems": [
+    "Reproductive"
+  ],
+  "organs": [],
+  "tags": [
+    "ExternalGenitalia",
+    "Function",
+    "Structure"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-95fd765088",
+      "variants": [
+        {
+          "id": "v-95fd765088",
+          "answer": "Prepuce",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-201",
+              "sourceLine": 201
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-b7706c3a8a",
+      "variants": [
+        {
+          "id": "v-b7706c3a8a",
+          "answer": "Fold of skin formed by anterior union of the labia minora over the glans clitoris.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-202",
+              "sourceLine": 202
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-0bed559cb8",
+      "variants": [
+        {
+          "id": "v-0bed559cb8",
+          "answer": "Covers and protects the glans clitoris.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-203",
+              "sourceLine": 203
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "female-pelvis-model-mo8",
+      "section": "",
+      "path": [
+        "27"
+      ],
+      "label": "27"
+    }
+  ]
+}

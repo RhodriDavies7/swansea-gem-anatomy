@@ -1,0 +1,179 @@
+{
+  "id": "ilium-49060b72e9",
+  "name": "Ilium",
+  "aliases": [
+    "Ilium bone"
+  ],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Bones"
+  ],
+  "regions": [
+    "Lower limb",
+    "Pelvis"
+  ],
+  "systems": [
+    "Musculoskeletal",
+    "Reproductive"
+  ],
+  "organs": [],
+  "tags": [
+    "Articulations",
+    "Bone",
+    "Bones",
+    "Function",
+    "Landmarks",
+    "Attachments"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-34afb92e37",
+      "variants": [
+        {
+          "id": "v-34afb92e37",
+          "answer": "Ilium",
+          "sources": [
+            {
+              "modelId": "hip-joint-model-ns20",
+              "cardId": "hip-joint-model-ns20-7",
+              "sourceLine": 7
+            }
+          ]
+        },
+        {
+          "id": "v-6f1e5edcfd",
+          "answer": "Ilium bone",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-14",
+              "sourceLine": 14
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-a40bee8d10",
+      "question": "Articulations",
+      "preferredVariantId": "v-3ec24cf3c0",
+      "variants": [
+        {
+          "id": "v-3ec24cf3c0",
+          "answer": "Articulates posteriorly with the sacrum and contributes superiorly to the acetabulum.",
+          "sources": [
+            {
+              "modelId": "hip-joint-model-ns20",
+              "cardId": "hip-joint-model-ns20-8",
+              "sourceLine": 8
+            }
+          ]
+        },
+        {
+          "id": "v-1318738a24",
+          "answer": "Articulates with sacrum at the sacroiliac joint and contributes to the acetabulum.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-15",
+              "sourceLine": 15
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-626b6c1d45",
+      "question": "Landmarks",
+      "preferredVariantId": "v-d97590ae4f",
+      "variants": [
+        {
+          "id": "v-d97590ae4f",
+          "answer": "Iliac crest, ASIS, AIIS, PSIS, PIIS, iliac fossa and greater sciatic notch.",
+          "sources": [
+            {
+              "modelId": "hip-joint-model-ns20",
+              "cardId": "hip-joint-model-ns20-9",
+              "sourceLine": 9
+            },
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-16",
+              "sourceLine": 16
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-fe9f0a8307",
+      "variants": [
+        {
+          "id": "v-fe9f0a8307",
+          "answer": "Broad superior part of hip bone transmitting load through the sacroiliac joint.",
+          "sources": [
+            {
+              "modelId": "hip-joint-model-ns20",
+              "cardId": "hip-joint-model-ns20-10",
+              "sourceLine": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6771ade6e8",
+      "question": "Attachments",
+      "preferredVariantId": "v-e5ea7f961c",
+      "variants": [
+        {
+          "id": "v-e5ea7f961c",
+          "answer": "Provides broad attachment for abdominal, gluteal and iliacus muscles.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-17",
+              "sourceLine": 17
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "hip-joint-model-ns20",
+      "section": "Bones and bony landmarks",
+      "path": [
+        "1",
+        "a"
+      ],
+      "label": "1a"
+    },
+    {
+      "modelId": "female-pelvis-model-mo8",
+      "section": "",
+      "path": [
+        "3"
+      ],
+      "label": "3"
+    }
+  ],
+  "redirectIds": [
+    "ilium-bone-408bc27e08"
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "id": "lumbrical-84374e7170",
+  "name": "Lumbrical",
+  "aliases": [],
+  "scope": "Upper limb",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-016ca6f984",
+      "variants": [
+        {
+          "id": "v-016ca6f984",
+          "answer": "Lumbrical",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-210",
+              "sourceLine": 210
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-46c1d1108b",
+      "variants": [
+        {
+          "id": "v-46c1d1108b",
+          "answer": "Flex MCP joints and extend IP joints of digits 2–5.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-211",
+              "sourceLine": 211
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-6a8c3556b3",
+      "variants": [
+        {
+          "id": "v-6a8c3556b3",
+          "answer": "Lumbricals 1–2: median nerve. Lumbricals 3–4: deep branch of ulnar nerve (C8–T1).",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-212",
+              "sourceLine": 212
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-75b58cf6a8",
+      "variants": [
+        {
+          "id": "v-75b58cf6a8",
+          "answer": "Tendons of flexor digitorum profundus.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-213",
+              "sourceLine": 213
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-8697e6f79f",
+      "variants": [
+        {
+          "id": "v-8697e6f79f",
+          "answer": "Lateral sides of extensor expansions of digits 2–5.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-214",
+              "sourceLine": 214
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "upper-limb-model-ns15",
+      "section": "Muscles",
+      "path": [
+        "35"
+      ],
+      "label": "35"
+    }
+  ]
+}

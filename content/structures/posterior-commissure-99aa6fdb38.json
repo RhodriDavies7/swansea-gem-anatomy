@@ -1,0 +1,143 @@
+{
+  "id": "posterior-commissure-99aa6fdb38",
+  "name": "Posterior commissure",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [],
+  "tags": [
+    "Brain",
+    "CNS",
+    "Function",
+    "MidSagittal",
+    "MidlineStructures",
+    "Structure"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-12f9b9bf0f",
+      "variants": [
+        {
+          "id": "v-12f9b9bf0f",
+          "answer": "Posterior commissure",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-282",
+              "sourceLine": 282
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-139",
+              "sourceLine": 139
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-701",
+              "sourceLine": 701
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-a09e906ae5",
+      "variants": [
+        {
+          "id": "v-a09e906ae5",
+          "answer": "Commissural fibres crossing near posterior wall of third ventricle above cerebral aqueduct.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-283",
+              "sourceLine": 283
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-140",
+              "sourceLine": 140
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-f23a0ac146",
+      "variants": [
+        {
+          "id": "v-f23a0ac146",
+          "answer": "Important in bilateral pupillary light reflex pathways.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-284",
+              "sourceLine": 284
+            }
+          ]
+        },
+        {
+          "id": "v-ce9dd96705",
+          "answer": "Important in bilateral pupillary light-reflex pathways.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-141",
+              "sourceLine": 141
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-702",
+              "sourceLine": 702
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "coronal-and-mid-sagittal-head-mb20",
+      "section": "Other midline structures",
+      "path": [
+        "6"
+      ],
+      "label": "6"
+    },
+    {
+      "modelId": "half-head-and-neck-model-bs9",
+      "section": "Other midline structures",
+      "path": [
+        "6"
+      ],
+      "label": "6"
+    },
+    {
+      "modelId": "head-and-neck-model-cs17-2",
+      "section": "Internal brain structures and cranial nerves (1–26)",
+      "path": [
+        "8"
+      ],
+      "label": "8"
+    }
+  ]
+}

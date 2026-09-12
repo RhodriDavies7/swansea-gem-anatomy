@@ -1,0 +1,129 @@
+{
+  "id": "pubococcygeus-muscle-7eb8b23993",
+  "name": "Pubococcygeus muscle",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Pelvis"
+  ],
+  "systems": [
+    "Musculoskeletal",
+    "Reproductive"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-231bfc9f7a",
+      "variants": [
+        {
+          "id": "v-231bfc9f7a",
+          "answer": "Pubococcygeus muscle",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-141",
+              "sourceLine": 141
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-a7ade9280f",
+      "variants": [
+        {
+          "id": "v-a7ade9280f",
+          "answer": "Supports pelvic viscera and contributes to pelvic floor elevation and continence.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-142",
+              "sourceLine": 142
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-c5c4ce4d6d",
+      "variants": [
+        {
+          "id": "v-c5c4ce4d6d",
+          "answer": "Nerve to levator ani (S3–S4), with pudendal contribution.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-143",
+              "sourceLine": 143
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-d413604746",
+      "variants": [
+        {
+          "id": "v-d413604746",
+          "answer": "Body of pubis and anterior tendinous arch of obturator fascia.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-144",
+              "sourceLine": 144
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-85676d5805",
+      "variants": [
+        {
+          "id": "v-85676d5805",
+          "answer": "Perineal body, walls of pelvic viscera, anococcygeal body and coccyx region.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-145",
+              "sourceLine": 145
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "female-pelvis-model-mo8",
+      "section": "",
+      "path": [
+        "17",
+        "a"
+      ],
+      "label": "17a"
+    }
+  ]
+}

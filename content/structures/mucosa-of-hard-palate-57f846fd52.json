@@ -1,0 +1,107 @@
+{
+  "id": "mucosa-of-hard-palate-57f846fd52",
+  "name": "Mucosa of hard palate",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [],
+  "organs": [],
+  "tags": [
+    "Coronal",
+    "Function",
+    "Mucosa",
+    "Relations",
+    "Structure"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-97f142c516",
+      "variants": [
+        {
+          "id": "v-97f142c516",
+          "answer": "Mucosa of hard palate",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-117",
+              "sourceLine": 117
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-2c9ba0d0e1",
+      "variants": [
+        {
+          "id": "v-2c9ba0d0e1",
+          "answer": "Predominantly keratinised stratified squamous masticatory mucosa tightly bound to underlying periosteum.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-118",
+              "sourceLine": 118
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-886f878c94",
+      "variants": [
+        {
+          "id": "v-886f878c94",
+          "answer": "Resists mechanical stress during mastication.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-119",
+              "sourceLine": 119
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-aea2e919d1",
+      "variants": [
+        {
+          "id": "v-aea2e919d1",
+          "answer": "Covers the bony hard palate separating oral and nasal cavities.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-120",
+              "sourceLine": 120
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "coronal-and-mid-sagittal-head-mb20",
+      "section": "Coronal head",
+      "path": [
+        "23"
+      ],
+      "label": "23"
+    }
+  ]
+}

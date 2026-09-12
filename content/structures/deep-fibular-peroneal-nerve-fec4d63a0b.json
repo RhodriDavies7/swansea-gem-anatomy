@@ -1,0 +1,235 @@
+{
+  "id": "deep-fibular-peroneal-nerve-fec4d63a0b",
+  "name": "Deep fibular (peroneal) nerve",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Nerves"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [],
+  "tags": [
+    "ArteriesAndNerves",
+    "Course",
+    "Lesion",
+    "Motor",
+    "Nerve",
+    "Roots",
+    "Sensory"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-f3a7fe5057",
+      "variants": [
+        {
+          "id": "v-f3a7fe5057",
+          "answer": "Deep fibular (peroneal) nerve",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-287",
+              "sourceLine": 287
+            },
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-486",
+              "sourceLine": 486
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-4d78ec7d11",
+      "question": "Roots",
+      "preferredVariantId": "v-a89530dd6b",
+      "variants": [
+        {
+          "id": "v-a89530dd6b",
+          "answer": "L4–S1, terminal branch of common fibular nerve.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-288",
+              "sourceLine": 288
+            }
+          ]
+        },
+        {
+          "id": "v-4642334722",
+          "answer": "L4–S1.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-487",
+              "sourceLine": 487
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-68e796f8c0",
+      "variants": [
+        {
+          "id": "v-68e796f8c0",
+          "answer": "Descends in anterior leg with anterior tibial artery and enters dorsum of foot deep to extensor retinacula.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-289",
+              "sourceLine": 289
+            }
+          ]
+        },
+        {
+          "id": "v-1f5a95e67d",
+          "answer": "Enters anterior compartment, accompanies anterior tibial vessels and passes beneath extensor retinacula onto dorsum of foot.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-488",
+              "sourceLine": 488
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-c8b6915183",
+      "question": "Motor functions",
+      "preferredVariantId": "v-bf36d3ec1d",
+      "variants": [
+        {
+          "id": "v-e5eae4fe2f",
+          "answer": "Supplies anterior compartment muscles and extensor digitorum brevis/extensor hallucis brevis.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-290",
+              "sourceLine": 290
+            }
+          ]
+        },
+        {
+          "id": "v-bf36d3ec1d",
+          "answer": "Dorsiflexion and toe extension through anterior leg muscles; supplies extensor digitorum brevis and extensor hallucis brevis.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-489",
+              "sourceLine": 489
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-a453254382",
+      "question": "Sensory functions",
+      "preferredVariantId": "v-cbd0aa078f",
+      "variants": [
+        {
+          "id": "v-cbd0aa078f",
+          "answer": "Sensation to first dorsal web space.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-291",
+              "sourceLine": 291
+            }
+          ]
+        },
+        {
+          "id": "v-6eb3376921",
+          "answer": "First dorsal web space between great and second toes; also joint branches.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-490",
+              "sourceLine": 490
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-bc53d10c57",
+      "question": "Lesion",
+      "preferredVariantId": "v-df7d8ed662",
+      "variants": [
+        {
+          "id": "v-35488a2c71",
+          "answer": "Causes weakness of dorsiflexion and toe extension if injured proximally, with sensory loss in the first dorsal web space.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-292",
+              "sourceLine": 292
+            }
+          ]
+        },
+        {
+          "id": "v-df7d8ed662",
+          "answer": "Proximal lesion causes foot drop and weak toe extension with first web-space sensory loss; distal entrapment at ankle may spare leg muscles.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-491",
+              "sourceLine": 491
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "foot-model-ns9",
+      "section": "Arteries and nerves",
+      "path": [
+        "42"
+      ],
+      "label": "42"
+    },
+    {
+      "modelId": "lower-limb-model-ns10",
+      "section": "Nerves",
+      "path": [
+        "66"
+      ],
+      "label": "66"
+    }
+  ]
+}

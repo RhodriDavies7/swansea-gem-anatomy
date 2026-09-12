@@ -1,0 +1,72 @@
+{
+  "id": "basal-turn-1st-turn-of-cochlea-36c979a8f9",
+  "name": "Basal turn (1st turn) of cochlea",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [],
+  "organs": [
+    "Ear"
+  ],
+  "tags": [
+    "CochlearPart",
+    "InnerEar",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-9d71edbf81",
+      "variants": [
+        {
+          "id": "v-9d71edbf81",
+          "answer": "Basal turn (1st turn) of cochlea",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-249",
+              "sourceLine": 249
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-6add02ca63",
+      "variants": [
+        {
+          "id": "v-6add02ca63",
+          "answer": "Lowest and widest cochlear turn, closest to the oval and round windows.",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-250",
+              "sourceLine": 250
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "ear-largest-model-ds1",
+      "section": "D. Inner ear",
+      "path": [
+        "38",
+        "a"
+      ],
+      "label": "38a"
+    }
+  ]
+}

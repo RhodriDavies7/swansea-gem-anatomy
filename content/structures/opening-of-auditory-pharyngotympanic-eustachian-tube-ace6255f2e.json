@@ -1,0 +1,89 @@
+{
+  "id": "opening-of-auditory-pharyngotympanic-eustachian-tube-ace6255f2e",
+  "name": "Opening of auditory (pharyngotympanic/Eustachian) tube",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [],
+  "organs": [],
+  "tags": [
+    "Function",
+    "Location",
+    "MidSagittal",
+    "MidlineStructures",
+    "Opening"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-ee3b88fc7a",
+      "variants": [
+        {
+          "id": "v-ee3b88fc7a",
+          "answer": "Opening of auditory (pharyngotympanic/Eustachian) tube",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-372",
+              "sourceLine": 372
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-6d2988207f",
+      "variants": [
+        {
+          "id": "v-6d2988207f",
+          "answer": "Lateral wall of nasopharynx.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-373",
+              "sourceLine": 373
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-a3ea4c72c0",
+      "variants": [
+        {
+          "id": "v-a3ea4c72c0",
+          "answer": "Connects nasopharynx to middle ear and equalises pressure across tympanic membrane.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-374",
+              "sourceLine": 374
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "coronal-and-mid-sagittal-head-mb20",
+      "section": "Other midline structures",
+      "path": [
+        "d"
+      ],
+      "label": "d"
+    }
+  ]
+}

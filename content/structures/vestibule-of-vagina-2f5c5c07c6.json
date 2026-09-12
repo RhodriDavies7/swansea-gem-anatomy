@@ -1,0 +1,108 @@
+{
+  "id": "vestibule-of-vagina-2f5c5c07c6",
+  "name": "Vestibule of vagina",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Pelvis"
+  ],
+  "systems": [
+    "Reproductive"
+  ],
+  "organs": [],
+  "tags": [
+    "Contents",
+    "Function",
+    "Location",
+    "Space"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-bb7db247ff",
+      "variants": [
+        {
+          "id": "v-bb7db247ff",
+          "answer": "Vestibule of vagina",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-216",
+              "sourceLine": 216
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-87afdc24c9",
+      "variants": [
+        {
+          "id": "v-87afdc24c9",
+          "answer": "Space between the labia minora.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-217",
+              "sourceLine": 217
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f5cbdf6bfb",
+      "question": "Contents",
+      "preferredVariantId": "v-ded13672a2",
+      "variants": [
+        {
+          "id": "v-ded13672a2",
+          "answer": "Contains the external urethral and vaginal openings and openings of greater vestibular glands.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-218",
+              "sourceLine": 218
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-23b03af793",
+      "variants": [
+        {
+          "id": "v-23b03af793",
+          "answer": "Receives openings of urinary and reproductive tracts.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-219",
+              "sourceLine": 219
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "female-pelvis-model-mo8",
+      "section": "",
+      "path": [
+        "30"
+      ],
+      "label": "30"
+    }
+  ]
+}

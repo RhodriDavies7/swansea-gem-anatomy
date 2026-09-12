@@ -1,0 +1,111 @@
+{
+  "id": "tibialis-posterior-tendon-487811048d",
+  "name": "Tibialis posterior tendon",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Tendons"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Course",
+    "Function",
+    "Insertion",
+    "Muscles",
+    "Tendon"
+  ],
+  "imageIds": [
+    "img-10c1955083a7"
+  ],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-f08e4b97d3",
+      "variants": [
+        {
+          "id": "v-f08e4b97d3",
+          "answer": "Tibialis posterior tendon",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-159",
+              "sourceLine": 159
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-f737878c07",
+      "variants": [
+        {
+          "id": "v-f737878c07",
+          "answer": "Passes posterior to medial malleolus and deep to flexor retinaculum before entering medial foot.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-160",
+              "sourceLine": 160
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-dd7cb30f75",
+      "variants": [
+        {
+          "id": "v-dd7cb30f75",
+          "answer": "Mainly navicular tuberosity, with expansions to cuneiforms, cuboid and bases of metatarsals 2–4.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-161",
+              "sourceLine": 161
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-0ceb4aabc7",
+      "variants": [
+        {
+          "id": "v-0ceb4aabc7",
+          "answer": "Transmits tibialis posterior force for inversion, plantarflexion and support of medial longitudinal arch.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-162",
+              "sourceLine": 162
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "foot-model-ns9",
+      "section": "Muscles",
+      "path": [
+        "24"
+      ],
+      "label": "24"
+    }
+  ]
+}

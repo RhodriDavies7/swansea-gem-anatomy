@@ -1,0 +1,328 @@
+{
+  "id": "vestibulocochlear-nerve-cn-viii-a6f23a24c8",
+  "name": "Vestibulocochlear nerve (CN VIII)",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Nerves"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [
+    "Ear"
+  ],
+  "tags": [
+    "Brain",
+    "Course",
+    "InnerEar",
+    "Lesion",
+    "Motor",
+    "Nerve",
+    "Roots",
+    "Sensory"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-c54da96326",
+      "variants": [
+        {
+          "id": "v-c54da96326",
+          "answer": "Vestibulocochlear nerve (CN VIII)",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-230",
+              "sourceLine": 230
+            },
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-291",
+              "sourceLine": 291
+            },
+            {
+              "modelId": "ear-model-ds3",
+              "cardId": "ear-model-ds3-153",
+              "sourceLine": 153
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-789",
+              "sourceLine": 789
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-4d78ec7d11",
+      "question": "Roots",
+      "preferredVariantId": "v-61c31068a7",
+      "variants": [
+        {
+          "id": "v-61c31068a7",
+          "answer": "Cochlear and vestibular divisions entering the brainstem at the cerebellopontine angle.",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-231",
+              "sourceLine": 231
+            }
+          ]
+        },
+        {
+          "id": "v-4ec328d0ab",
+          "answer": "Vestibular and cochlear divisions from the inner ear.",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-292",
+              "sourceLine": 292
+            },
+            {
+              "modelId": "ear-model-ds3",
+              "cardId": "ear-model-ds3-154",
+              "sourceLine": 154
+            }
+          ]
+        },
+        {
+          "id": "v-ee23c68cb5",
+          "answer": "Peripheral processes arise from vestibular and cochlear sensory receptors; central processes enter at pontomedullary junction.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-790",
+              "sourceLine": 790
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "curated-3275dfd6c4",
+      "variants": [
+        {
+          "id": "v-f47c0fc4cf",
+          "answer": "Passes through internal acoustic meatus with CN VII.",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-232",
+              "sourceLine": 232
+            }
+          ]
+        },
+        {
+          "id": "v-9046139215",
+          "answer": "Passes through the internal acoustic meatus and enters the brainstem at the cerebellopontine angle.",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-293",
+              "sourceLine": 293
+            },
+            {
+              "modelId": "ear-model-ds3",
+              "cardId": "ear-model-ds3-155",
+              "sourceLine": 155
+            }
+          ]
+        },
+        {
+          "id": "v-b1b89527ff",
+          "answer": "Travels through internal acoustic meatus with CN VII.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-791",
+              "sourceLine": 791
+            }
+          ]
+        },
+        {
+          "id": "curated-3275dfd6c4",
+          "answer": "Travels through the internal acoustic meatus with CN VII and enters the brainstem at the cerebellopontine angle.",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-232",
+              "sourceLine": 232
+            },
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-293",
+              "sourceLine": 293
+            },
+            {
+              "modelId": "ear-model-ds3",
+              "cardId": "ear-model-ds3-155",
+              "sourceLine": 155
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-791",
+              "sourceLine": 791
+            }
+          ],
+          "editorial": true
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-a453254382",
+      "question": "Sensory functions",
+      "preferredVariantId": "v-95078e79a1",
+      "variants": [
+        {
+          "id": "v-95078e79a1",
+          "answer": "Hearing via cochlear division and balance/head movement via vestibular division.",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-233",
+              "sourceLine": 233
+            }
+          ]
+        },
+        {
+          "id": "v-b67a31169e",
+          "answer": "Hearing and balance.",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-294",
+              "sourceLine": 294
+            },
+            {
+              "modelId": "ear-model-ds3",
+              "cardId": "ear-model-ds3-156",
+              "sourceLine": 156
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-793",
+              "sourceLine": 793
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-bc53d10c57",
+      "question": "Lesion",
+      "preferredVariantId": "v-814b8bcc6a",
+      "variants": [
+        {
+          "id": "v-8546afc745",
+          "answer": "Can cause sensorineural hearing loss, tinnitus, vertigo and imbalance.",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-234",
+              "sourceLine": 234
+            },
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-295",
+              "sourceLine": 295
+            },
+            {
+              "modelId": "ear-model-ds3",
+              "cardId": "ear-model-ds3-157",
+              "sourceLine": 157
+            }
+          ]
+        },
+        {
+          "id": "v-814b8bcc6a",
+          "answer": "May cause sensorineural hearing loss, tinnitus, vertigo and imbalance depending on the division affected.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-794",
+              "sourceLine": 794
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-c8b6915183",
+      "question": "Motor functions",
+      "preferredVariantId": "v-7737d0d824",
+      "variants": [
+        {
+          "id": "v-7737d0d824",
+          "answer": "No motor function.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-792",
+              "sourceLine": 792
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "cranial-floor-model-bs1",
+      "section": "",
+      "path": [
+        "36"
+      ],
+      "label": "36"
+    },
+    {
+      "modelId": "ear-largest-model-ds1",
+      "section": "D. Inner ear",
+      "path": [
+        "45"
+      ],
+      "label": "45"
+    },
+    {
+      "modelId": "ear-model-ds3",
+      "section": "C. Inner ear",
+      "path": [
+        "21"
+      ],
+      "label": "21"
+    },
+    {
+      "modelId": "head-and-neck-model-cs17-2",
+      "section": "Internal brain structures and cranial nerves (1–26)",
+      "path": [
+        "22"
+      ],
+      "label": "22"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "id": "crista-galli-80ae4f6afa",
+  "name": "Crista galli",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Bones"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Musculoskeletal",
+    "Respiratory"
+  ],
+  "organs": [],
+  "tags": [
+    "Attachments",
+    "Bone",
+    "BonyLandmark",
+    "SinusesAndOpenings"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-ea2a9a3324",
+      "variants": [
+        {
+          "id": "v-ea2a9a3324",
+          "answer": "Crista galli",
+          "sources": [
+            {
+              "modelId": "nose-and-nasal-cavity-model-fs3",
+              "cardId": "nose-and-nasal-cavity-model-fs3-9",
+              "sourceLine": 9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-bcf605d6bb",
+      "question": "Bone",
+      "preferredVariantId": "v-5febb7e681",
+      "variants": [
+        {
+          "id": "v-5febb7e681",
+          "answer": "Midline projection of the ethmoid bone.",
+          "sources": [
+            {
+              "modelId": "nose-and-nasal-cavity-model-fs3",
+              "cardId": "nose-and-nasal-cavity-model-fs3-10",
+              "sourceLine": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6771ade6e8",
+      "question": "Attachments",
+      "preferredVariantId": "v-931c894b4f",
+      "variants": [
+        {
+          "id": "v-931c894b4f",
+          "answer": "Provides anterior attachment for the falx cerebri.",
+          "sources": [
+            {
+              "modelId": "nose-and-nasal-cavity-model-fs3",
+              "cardId": "nose-and-nasal-cavity-model-fs3-11",
+              "sourceLine": 11
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "nose-and-nasal-cavity-model-fs3",
+      "section": "Paranasal sinuses, conchae and openings (a–p)",
+      "path": [
+        "b"
+      ],
+      "label": "b"
+    }
+  ]
+}

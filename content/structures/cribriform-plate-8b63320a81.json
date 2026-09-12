@@ -1,0 +1,110 @@
+{
+  "id": "cribriform-plate-8b63320a81",
+  "name": "Cribriform plate",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Bones"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Musculoskeletal",
+    "Respiratory"
+  ],
+  "organs": [],
+  "tags": [
+    "Bone",
+    "BonyLandmark",
+    "Clinical",
+    "Contents",
+    "SinusesAndOpenings"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-e7be774749",
+      "variants": [
+        {
+          "id": "v-e7be774749",
+          "answer": "Cribriform plate",
+          "sources": [
+            {
+              "modelId": "nose-and-nasal-cavity-model-fs3",
+              "cardId": "nose-and-nasal-cavity-model-fs3-14",
+              "sourceLine": 14
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-bcf605d6bb",
+      "question": "Bone",
+      "preferredVariantId": "v-cd1734baeb",
+      "variants": [
+        {
+          "id": "v-cd1734baeb",
+          "answer": "Part of the ethmoid bone forming the roof of the nasal cavity.",
+          "sources": [
+            {
+              "modelId": "nose-and-nasal-cavity-model-fs3",
+              "cardId": "nose-and-nasal-cavity-model-fs3-15",
+              "sourceLine": 15
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f5cbdf6bfb",
+      "question": "Contents",
+      "preferredVariantId": "v-190df7000f",
+      "variants": [
+        {
+          "id": "v-190df7000f",
+          "answer": "Perforated by olfactory nerve filaments passing to the olfactory bulb.",
+          "sources": [
+            {
+              "modelId": "nose-and-nasal-cavity-model-fs3",
+              "cardId": "nose-and-nasal-cavity-model-fs3-16",
+              "sourceLine": 16
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-b03737e3cd",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-ec3f16d3c4",
+      "variants": [
+        {
+          "id": "v-ec3f16d3c4",
+          "answer": "Fracture may cause anosmia and CSF rhinorrhoea.",
+          "sources": [
+            {
+              "modelId": "nose-and-nasal-cavity-model-fs3",
+              "cardId": "nose-and-nasal-cavity-model-fs3-17",
+              "sourceLine": 17
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "nose-and-nasal-cavity-model-fs3",
+      "section": "Paranasal sinuses, conchae and openings (a–p)",
+      "path": [
+        "c"
+      ],
+      "label": "c"
+    }
+  ]
+}

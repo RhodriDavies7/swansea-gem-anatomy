@@ -1,0 +1,127 @@
+{
+  "id": "tibialis-posterior-muscle-9ae4a4140a",
+  "name": "Tibialis posterior muscle",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-65a8f4d88a",
+      "variants": [
+        {
+          "id": "v-65a8f4d88a",
+          "answer": "Tibialis posterior muscle",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-233",
+              "sourceLine": 233
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-58d2933c78",
+      "variants": [
+        {
+          "id": "v-58d2933c78",
+          "answer": "Inverts the foot and assists plantarflexion; supports the medial longitudinal arch.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-234",
+              "sourceLine": 234
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-0ddb103d77",
+      "variants": [
+        {
+          "id": "v-0ddb103d77",
+          "answer": "Tibial nerve (L4–L5).",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-235",
+              "sourceLine": 235
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-06013d9546",
+      "variants": [
+        {
+          "id": "v-06013d9546",
+          "answer": "Posterior tibia and fibula and intervening interosseous membrane.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-236",
+              "sourceLine": 236
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-a875f4e5ec",
+      "variants": [
+        {
+          "id": "v-a875f4e5ec",
+          "answer": "Mainly navicular tuberosity, with expansions to cuneiforms, cuboid, sustentaculum tali and bases of metatarsals 2–4.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-237",
+              "sourceLine": 237
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "lower-limb-model-ns10",
+      "section": "Muscles",
+      "path": [
+        "28"
+      ],
+      "label": "28"
+    }
+  ]
+}

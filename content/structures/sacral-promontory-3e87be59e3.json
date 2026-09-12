@@ -1,0 +1,109 @@
+{
+  "id": "sacral-promontory-3e87be59e3",
+  "name": "Sacral promontory",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Bones"
+  ],
+  "regions": [
+    "Pelvis"
+  ],
+  "systems": [
+    "Musculoskeletal",
+    "Reproductive"
+  ],
+  "organs": [],
+  "tags": [
+    "Bone",
+    "BonyLandmark",
+    "Clinical",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-0a76f5e2a1",
+      "variants": [
+        {
+          "id": "v-0a76f5e2a1",
+          "answer": "Sacral promontory",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-62",
+              "sourceLine": 62
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-bcf605d6bb",
+      "question": "Bone",
+      "preferredVariantId": "v-6e4d7738e6",
+      "variants": [
+        {
+          "id": "v-6e4d7738e6",
+          "answer": "Anterior projecting margin of the body of S1.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-63",
+              "sourceLine": 63
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-a0fa004ddf",
+      "variants": [
+        {
+          "id": "v-a0fa004ddf",
+          "answer": "Marks the posterior boundary of the pelvic inlet.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-64",
+              "sourceLine": 64
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-b03737e3cd",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-315b596078",
+      "variants": [
+        {
+          "id": "v-315b596078",
+          "answer": "Used in obstetric assessment of pelvic dimensions.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-65",
+              "sourceLine": 65
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "female-pelvis-model-mo8",
+      "section": "",
+      "path": [
+        "11"
+      ],
+      "label": "11"
+    }
+  ]
+}

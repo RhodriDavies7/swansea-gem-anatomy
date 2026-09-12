@@ -1,0 +1,127 @@
+{
+  "id": "lumbrical-muscles-4a6c3d23ac",
+  "name": "Lumbrical muscles",
+  "aliases": [],
+  "scope": "Lower limb",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-0525cc1f8e",
+      "variants": [
+        {
+          "id": "v-0525cc1f8e",
+          "answer": "Lumbrical muscles",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-287",
+              "sourceLine": 287
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-4851215991",
+      "variants": [
+        {
+          "id": "v-4851215991",
+          "answer": "Flex metatarsophalangeal joints and extend interphalangeal joints of toes 2–5.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-288",
+              "sourceLine": 288
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-f9f3115791",
+      "variants": [
+        {
+          "id": "v-f9f3115791",
+          "answer": "First: medial plantar nerve. Second–fourth: deep branch of lateral plantar nerve (S2–S3).",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-289",
+              "sourceLine": 289
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-0ccf9bffd3",
+      "variants": [
+        {
+          "id": "v-0ccf9bffd3",
+          "answer": "Tendons of flexor digitorum longus; first is unipennate, others bipennate.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-290",
+              "sourceLine": 290
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-3b2739ab00",
+      "variants": [
+        {
+          "id": "v-3b2739ab00",
+          "answer": "Medial sides of extensor expansions of toes 2–5.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-291",
+              "sourceLine": 291
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "lower-limb-model-ns10",
+      "section": "Muscles",
+      "path": [
+        "37"
+      ],
+      "label": "37"
+    }
+  ]
+}

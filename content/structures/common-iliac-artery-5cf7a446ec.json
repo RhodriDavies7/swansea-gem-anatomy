@@ -1,0 +1,326 @@
+{
+  "id": "common-iliac-artery-5cf7a446ec",
+  "name": "Common iliac artery",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Arteries"
+  ],
+  "regions": [
+    "Lower limb",
+    "Pelvis"
+  ],
+  "systems": [
+    "Cardiovascular",
+    "Reproductive"
+  ],
+  "organs": [],
+  "tags": [
+    "Artery",
+    "Branches",
+    "Course",
+    "Origin",
+    "Relations",
+    "Supply"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-3902e030c8",
+      "variants": [
+        {
+          "id": "v-3902e030c8",
+          "answer": "Common iliac artery",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-228",
+              "sourceLine": 228
+            },
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-142",
+              "sourceLine": 142
+            },
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-301",
+              "sourceLine": 301
+            },
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-196",
+              "sourceLine": 196
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-2683e6901d",
+      "variants": [
+        {
+          "id": "v-2683e6901d",
+          "answer": "Bifurcation of abdominal aorta at about L4.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-229",
+              "sourceLine": 229
+            }
+          ]
+        },
+        {
+          "id": "v-806ce76587",
+          "answer": "Bifurcation of the abdominal aorta, usually at L4.",
+          "sources": [
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-143",
+              "sourceLine": 143
+            },
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-197",
+              "sourceLine": 197
+            }
+          ]
+        },
+        {
+          "id": "v-e7b5fca48d",
+          "answer": "Abdominal aortic bifurcation, usually at L4.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-302",
+              "sourceLine": 302
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-ed14a0a3f1",
+      "variants": [
+        {
+          "id": "v-655e54ab37",
+          "answer": "Runs inferolaterally to divide into external and internal iliac arteries.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-230",
+              "sourceLine": 230
+            }
+          ]
+        },
+        {
+          "id": "v-ec3adf8851",
+          "answer": "Runs inferolaterally toward the sacroiliac joint.",
+          "sources": [
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-144",
+              "sourceLine": 144
+            },
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-198",
+              "sourceLine": 198
+            }
+          ]
+        },
+        {
+          "id": "v-ed14a0a3f1",
+          "answer": "Runs inferolaterally along medial psoas border; divides near the sacroiliac joint.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-303",
+              "sourceLine": 303
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-222db0fc1c",
+      "question": "Supply",
+      "preferredVariantId": "v-089c964b2d",
+      "variants": [
+        {
+          "id": "v-089c964b2d",
+          "answer": "Pelvis and lower limb through terminal branches.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-231",
+              "sourceLine": 231
+            }
+          ]
+        },
+        {
+          "id": "v-4b135bd93d",
+          "answer": "Pelvis and lower limb through its terminal branches.",
+          "sources": [
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-146",
+              "sourceLine": 146
+            },
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-305",
+              "sourceLine": 305
+            },
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-200",
+              "sourceLine": 200
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-f578227926",
+      "question": "Branches",
+      "preferredVariantId": "v-892e05680b",
+      "variants": [
+        {
+          "id": "v-892e05680b",
+          "answer": "Terminates as external and internal iliac arteries.",
+          "sources": [
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-145",
+              "sourceLine": 145
+            }
+          ]
+        },
+        {
+          "id": "v-e0df267036",
+          "answer": "Internal and external iliac arteries.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-304",
+              "sourceLine": 304
+            }
+          ]
+        },
+        {
+          "id": "v-e24822e01d",
+          "answer": "Terminates as the external and internal iliac arteries.",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-199",
+              "sourceLine": 199
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-578c469cdc",
+      "variants": [
+        {
+          "id": "v-578c469cdc",
+          "answer": "Common iliac veins lie mainly posterior; ureter crosses near the iliac bifurcation.",
+          "sources": [
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-147",
+              "sourceLine": 147
+            }
+          ]
+        },
+        {
+          "id": "v-4a967f6560",
+          "answer": "Common iliac veins lie posterior; the ureter crosses the iliac vessels near their bifurcation.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-306",
+              "sourceLine": 306
+            }
+          ]
+        },
+        {
+          "id": "v-4bd76f458d",
+          "answer": "Common iliac veins lie mainly posterior; the ureter crosses near the iliac bifurcation.",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-201",
+              "sourceLine": 201
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "female-pelvis-model-mo8",
+      "section": "",
+      "path": [
+        "33"
+      ],
+      "label": "33"
+    },
+    {
+      "modelId": "female-reproductive-system-model-ms1",
+      "section": "",
+      "path": [
+        "20"
+      ],
+      "label": "20"
+    },
+    {
+      "modelId": "lower-limb-model-ns10",
+      "section": "Blood vessels",
+      "path": [
+        "39"
+      ],
+      "label": "39"
+    },
+    {
+      "modelId": "male-reproductive-system-model-ms2",
+      "section": "",
+      "path": [
+        "21"
+      ],
+      "label": "21"
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "id": "thalamus-fcb7a9e611",
+  "name": "Thalamus",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [],
+  "tags": [
+    "Brain",
+    "CNS",
+    "Function",
+    "Location",
+    "NervousStructures"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-0a7f64aefe",
+      "variants": [
+        {
+          "id": "v-0a7f64aefe",
+          "answer": "Thalamus",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-91",
+              "sourceLine": 91
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-682",
+              "sourceLine": 682
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-be659ead6e",
+      "variants": [
+        {
+          "id": "v-be659ead6e",
+          "answer": "Paired diencephalic structure forming much of the lateral wall of the third ventricle.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-92",
+              "sourceLine": 92
+            }
+          ]
+        },
+        {
+          "id": "v-1880db27f0",
+          "answer": "Paired diencephalic structure bordering third ventricle.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-683",
+              "sourceLine": 683
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-2c78f4ac1e",
+      "variants": [
+        {
+          "id": "v-2c78f4ac1e",
+          "answer": "Major relay for sensory and motor information to the cerebral cortex, with roles in arousal and cognition.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-93",
+              "sourceLine": 93
+            }
+          ]
+        },
+        {
+          "id": "v-8d3f6c5cc3",
+          "answer": "Major sensory and motor relay to cerebral cortex.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-684",
+              "sourceLine": 684
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "half-head-and-neck-model-bs9",
+      "section": "Nervous structures",
+      "path": [
+        "B"
+      ],
+      "label": "B"
+    },
+    {
+      "modelId": "head-and-neck-model-cs17-2",
+      "section": "Internal brain structures and cranial nerves (1–26)",
+      "path": [
+        "4"
+      ],
+      "label": "4"
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "id": "diploic-vein-6c5467d1d6",
+  "name": "Diploic vein",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Veins"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Cardiovascular"
+  ],
+  "organs": [],
+  "tags": [
+    "Clinical",
+    "Drainage",
+    "Location",
+    "Vein"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-e6e423aef6",
+      "variants": [
+        {
+          "id": "v-e6e423aef6",
+          "answer": "Diploic vein",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-127",
+              "sourceLine": 127
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-3b3a3ab6e2",
+      "variants": [
+        {
+          "id": "v-3b3a3ab6e2",
+          "answer": "Runs within the diploë of cranial bones.",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-128",
+              "sourceLine": 128
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-74a64b1943",
+      "question": "Drainage",
+      "preferredVariantId": "v-fbc3e4551a",
+      "variants": [
+        {
+          "id": "v-fbc3e4551a",
+          "answer": "Communicates with dural venous sinuses, emissary veins and extracranial veins.",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-129",
+              "sourceLine": 129
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-b03737e3cd",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-7121ec708e",
+      "variants": [
+        {
+          "id": "v-7121ec708e",
+          "answer": "Provides potential pathways for spread of infection between extracranial and intracranial venous systems.",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-130",
+              "sourceLine": 130
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "cranial-floor-model-bs1",
+      "section": "",
+      "path": [
+        "21"
+      ],
+      "label": "21"
+    }
+  ]
+}

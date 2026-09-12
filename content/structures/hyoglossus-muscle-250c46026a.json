@@ -1,0 +1,165 @@
+{
+  "id": "hyoglossus-muscle-250c46026a",
+  "name": "Hyoglossus muscle",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Musculoskeletal",
+    "Respiratory"
+  ],
+  "organs": [
+    "Larynx"
+  ],
+  "tags": [
+    "Action",
+    "HeadNeck",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Origin",
+    "Tongue"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-f1a31e5b64",
+      "variants": [
+        {
+          "id": "v-f1a31e5b64",
+          "answer": "Hyoglossus muscle",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-293",
+              "sourceLine": 293
+            },
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-241",
+              "sourceLine": 241
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-c97c6c798d",
+      "variants": [
+        {
+          "id": "v-c97c6c798d",
+          "answer": "Depresses and retracts tongue.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-294",
+              "sourceLine": 294
+            },
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-242",
+              "sourceLine": 242
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-c9d44d3215",
+      "variants": [
+        {
+          "id": "v-c9d44d3215",
+          "answer": "Hypoglossal nerve (CN XII).",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-295",
+              "sourceLine": 295
+            },
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-243",
+              "sourceLine": 243
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-aff584e590",
+      "variants": [
+        {
+          "id": "v-aff584e590",
+          "answer": "Body and greater horn of hyoid.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-296",
+              "sourceLine": 296
+            },
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-244",
+              "sourceLine": 244
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-605e493455",
+      "variants": [
+        {
+          "id": "v-605e493455",
+          "answer": "Side of tongue.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-297",
+              "sourceLine": 297
+            },
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-245",
+              "sourceLine": 245
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "head-and-neck-model-cs17-2",
+      "section": "Musculature of the head and neck",
+      "path": [
+        "48"
+      ],
+      "label": "48"
+    },
+    {
+      "modelId": "larynx-and-tongue-model-gs4",
+      "section": "Tongue",
+      "path": [
+        "8"
+      ],
+      "label": "8"
+    }
+  ]
+}

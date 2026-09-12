@@ -1,0 +1,144 @@
+{
+  "id": "palmar-volar-carpal-ligament-guyon-s-tunnel-e3cb4a0954",
+  "name": "Palmar (volar) carpal ligament / Guyon’s tunnel",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [],
+  "organs": [],
+  "tags": [
+    "Attachments",
+    "Canal",
+    "Clinical",
+    "Contents",
+    "Function",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-a35aebbcf7",
+      "variants": [
+        {
+          "id": "v-a35aebbcf7",
+          "answer": "Palmar (volar) carpal ligament / Guyon’s tunnel",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-154",
+              "sourceLine": 154
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6771ade6e8",
+      "question": "Attachments",
+      "preferredVariantId": "v-e7a14d0bff",
+      "variants": [
+        {
+          "id": "v-e7a14d0bff",
+          "answer": "Palmar carpal ligament spans the anterior wrist superficial to flexor tendons, blending medially with structures around pisiform and hook of hamate.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-155",
+              "sourceLine": 155
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-af1ed413e7",
+      "variants": [
+        {
+          "id": "v-af1ed413e7",
+          "answer": "Guyon’s canal lies superficial to the flexor retinaculum between pisiform and hook of hamate.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-156",
+              "sourceLine": 156
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f5cbdf6bfb",
+      "question": "Contents",
+      "preferredVariantId": "v-0b7337998c",
+      "variants": [
+        {
+          "id": "v-0b7337998c",
+          "answer": "Ulnar nerve and ulnar artery pass through Guyon’s canal.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-157",
+              "sourceLine": 157
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-6089d9c493",
+      "variants": [
+        {
+          "id": "v-6089d9c493",
+          "answer": "The palmar carpal ligament helps retain superficial flexor structures; Guyon’s canal provides a passage for the ulnar neurovascular bundle.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-158",
+              "sourceLine": 158
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-b03737e3cd",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-18a0629fef",
+      "variants": [
+        {
+          "id": "v-18a0629fef",
+          "answer": "Ulnar nerve compression in Guyon’s canal causes ulnar-sided hand sensory and/or intrinsic motor deficits depending on lesion level.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-159",
+              "sourceLine": 159
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "upper-limb-model-ns15",
+      "section": "Muscles",
+      "path": [
+        "26"
+      ],
+      "label": "26"
+    }
+  ]
+}

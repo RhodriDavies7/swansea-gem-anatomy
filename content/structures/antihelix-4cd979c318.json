@@ -1,0 +1,90 @@
+{
+  "id": "antihelix-4cd979c318",
+  "name": "Antihelix",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [],
+  "organs": [
+    "Ear"
+  ],
+  "tags": [
+    "Auricle",
+    "ExternalEar",
+    "Relations",
+    "Structure"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-4461bd84d8",
+      "variants": [
+        {
+          "id": "v-4461bd84d8",
+          "answer": "Antihelix",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-14",
+              "sourceLine": 14
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-c40a629309",
+      "variants": [
+        {
+          "id": "v-c40a629309",
+          "answer": "Curved cartilaginous ridge lying anterior and roughly parallel to the helix.",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-15",
+              "sourceLine": 15
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-1244bdcc6d",
+      "variants": [
+        {
+          "id": "v-1244bdcc6d",
+          "answer": "Superiorly divides into the crura of the antihelix.",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-16",
+              "sourceLine": 16
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "ear-largest-model-ds1",
+      "section": "A. External ear",
+      "path": [
+        "3"
+      ],
+      "label": "3"
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "id": "intermediate-nerve-of-the-facial-nerve-74bc429ed4",
+  "name": "Intermediate nerve of the facial nerve",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Nerves"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [],
+  "tags": [
+    "Course",
+    "Lesion",
+    "Nerve",
+    "Parasympathetic",
+    "Roots",
+    "Sensory"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-0a9778696a",
+      "variants": [
+        {
+          "id": "v-0a9778696a",
+          "answer": "Intermediate nerve of the facial nerve",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-214",
+              "sourceLine": 214
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-4d78ec7d11",
+      "question": "Roots",
+      "preferredVariantId": "v-767b4ab755",
+      "variants": [
+        {
+          "id": "v-767b4ab755",
+          "answer": "Nervus intermedius carries sensory and parasympathetic fibres associated with CN VII.",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-215",
+              "sourceLine": 215
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-49be5ba504",
+      "variants": [
+        {
+          "id": "v-49be5ba504",
+          "answer": "Travels with the motor root of facial nerve through the internal acoustic meatus and facial canal.",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-216",
+              "sourceLine": 216
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-a453254382",
+      "question": "Sensory functions",
+      "preferredVariantId": "v-b755632fc4",
+      "variants": [
+        {
+          "id": "v-b755632fc4",
+          "answer": "Carries taste from anterior two-thirds of tongue and a small amount of somatic sensation from the ear.",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-217",
+              "sourceLine": 217
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9f76a2a9d2",
+      "question": "Parasympathetic functions",
+      "preferredVariantId": "v-611f9d6cf8",
+      "variants": [
+        {
+          "id": "v-611f9d6cf8",
+          "answer": "Carries preganglionic parasympathetic fibres for lacrimal, submandibular, sublingual and nasal/palatal glands.",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-218",
+              "sourceLine": 218
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-bc53d10c57",
+      "question": "Lesion",
+      "preferredVariantId": "v-a4c0799c23",
+      "variants": [
+        {
+          "id": "v-a4c0799c23",
+          "answer": "Depending on the lesion level, may cause loss of taste from the anterior two-thirds of the tongue and reduced lacrimal, submandibular and sublingual gland secretion.",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-219",
+              "sourceLine": 219
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "cranial-floor-model-bs1",
+      "section": "",
+      "path": [
+        "34"
+      ],
+      "label": "34"
+    }
+  ]
+}

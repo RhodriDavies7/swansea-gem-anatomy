@@ -1,0 +1,156 @@
+{
+  "id": "stapes-97f3cbc800",
+  "name": "Stapes",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [],
+  "organs": [
+    "Ear"
+  ],
+  "tags": [
+    "Articulations",
+    "Function",
+    "MiddleEar",
+    "Ossicle"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-8c3d714635",
+      "variants": [
+        {
+          "id": "v-8c3d714635",
+          "answer": "Stapes",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-163",
+              "sourceLine": 163
+            },
+            {
+              "modelId": "ear-model-ds3",
+              "cardId": "ear-model-ds3-65",
+              "sourceLine": 65
+            },
+            {
+              "modelId": "inner-ear-model-ds17",
+              "cardId": "inner-ear-model-ds17-41",
+              "sourceLine": 41
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-a40bee8d10",
+      "question": "Articulations",
+      "preferredVariantId": "v-172004ac69",
+      "variants": [
+        {
+          "id": "v-172004ac69",
+          "answer": "Articulates with the lenticular process of incus; base occupies the oval window.",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-164",
+              "sourceLine": 164
+            },
+            {
+              "modelId": "ear-model-ds3",
+              "cardId": "ear-model-ds3-66",
+              "sourceLine": 66
+            }
+          ]
+        },
+        {
+          "id": "v-91d2484ba8",
+          "answer": "Head articulates with lenticular process of incus; base occupies oval window.",
+          "sources": [
+            {
+              "modelId": "inner-ear-model-ds17",
+              "cardId": "inner-ear-model-ds17-43",
+              "sourceLine": 43
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-3d58c1c03c",
+      "variants": [
+        {
+          "id": "v-3d58c1c03c",
+          "answer": "Transmits ossicular vibration into the fluid of the inner ear at the oval window.",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-165",
+              "sourceLine": 165
+            },
+            {
+              "modelId": "ear-model-ds3",
+              "cardId": "ear-model-ds3-67",
+              "sourceLine": 67
+            }
+          ]
+        },
+        {
+          "id": "v-be269d9be9",
+          "answer": "Transmits ossicular vibration to inner ear via oval window.",
+          "sources": [
+            {
+              "modelId": "inner-ear-model-ds17",
+              "cardId": "inner-ear-model-ds17-42",
+              "sourceLine": 42
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "ear-largest-model-ds1",
+      "section": "C. Middle ear",
+      "path": [
+        "27"
+      ],
+      "label": "27"
+    },
+    {
+      "modelId": "ear-model-ds3",
+      "section": "B. Middle ear",
+      "path": [
+        "9"
+      ],
+      "label": "9"
+    },
+    {
+      "modelId": "inner-ear-model-ds17",
+      "section": "Tympanic membrane and ossicles",
+      "path": [
+        "5"
+      ],
+      "label": "5"
+    }
+  ]
+}

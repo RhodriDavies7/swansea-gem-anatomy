@@ -1,0 +1,130 @@
+{
+  "id": "arch-of-the-aorta-d47375d7e1",
+  "name": "Arch of the aorta",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Arteries"
+  ],
+  "regions": [
+    "Thorax"
+  ],
+  "systems": [
+    "Cardiovascular"
+  ],
+  "organs": [
+    "Heart"
+  ],
+  "tags": [
+    "Artery",
+    "Branches",
+    "Clinical",
+    "Course",
+    "InternalCoronary",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-1bf583af67",
+      "variants": [
+        {
+          "id": "v-1bf583af67",
+          "answer": "Arch of the aorta",
+          "sources": [
+            {
+              "modelId": "heart-model-hs5",
+              "cardId": "heart-model-hs5-153",
+              "sourceLine": 153
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-01ee630a4f",
+      "variants": [
+        {
+          "id": "v-01ee630a4f",
+          "answer": "Continues from ascending aorta, arches superiorly, posteriorly and to the left, then continues as descending thoracic aorta.",
+          "sources": [
+            {
+              "modelId": "heart-model-hs5",
+              "cardId": "heart-model-hs5-154",
+              "sourceLine": 154
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f578227926",
+      "question": "Branches",
+      "preferredVariantId": "v-053f0bdd0b",
+      "variants": [
+        {
+          "id": "v-053f0bdd0b",
+          "answer": "Brachiocephalic trunk, left common carotid artery and left subclavian artery.",
+          "sources": [
+            {
+              "modelId": "heart-model-hs5",
+              "cardId": "heart-model-hs5-155",
+              "sourceLine": 155
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-3639153c4b",
+      "variants": [
+        {
+          "id": "v-3639153c4b",
+          "answer": "Passes over the left main bronchus; left recurrent laryngeal nerve loops beneath the arch near ligamentum arteriosum.",
+          "sources": [
+            {
+              "modelId": "heart-model-hs5",
+              "cardId": "heart-model-hs5-156",
+              "sourceLine": 156
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-b03737e3cd",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-ef0464e9c0",
+      "variants": [
+        {
+          "id": "v-ef0464e9c0",
+          "answer": "Aneurysm may compress the left recurrent laryngeal nerve and cause hoarseness.",
+          "sources": [
+            {
+              "modelId": "heart-model-hs5",
+              "cardId": "heart-model-hs5-157",
+              "sourceLine": 157
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "heart-model-hs5",
+      "section": "Internal and coronary structures",
+      "path": [
+        "7"
+      ],
+      "label": "7"
+    }
+  ]
+}

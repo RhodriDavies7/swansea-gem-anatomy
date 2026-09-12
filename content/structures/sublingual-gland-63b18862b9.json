@@ -1,0 +1,248 @@
+{
+  "id": "sublingual-gland-63b18862b9",
+  "name": "Sublingual gland",
+  "aliases": [
+    "Sublingual salivary gland"
+  ],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Organs"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Respiratory"
+  ],
+  "organs": [
+    "Larynx"
+  ],
+  "tags": [
+    "Drainage",
+    "Function",
+    "Gland",
+    "Innervation",
+    "Location",
+    "Tongue",
+    "Coronal"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-d205a7d82d",
+      "variants": [
+        {
+          "id": "v-d205a7d82d",
+          "answer": "Sublingual gland",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-100",
+              "sourceLine": 100
+            },
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-300",
+              "sourceLine": 300
+            }
+          ]
+        },
+        {
+          "id": "v-8e53a90888",
+          "answer": "Sublingual salivary gland",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-135",
+              "sourceLine": 135
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-e244472c15",
+      "variants": [
+        {
+          "id": "v-e244472c15",
+          "answer": "Produces predominantly mucous saliva.",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-101",
+              "sourceLine": 101
+            },
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-302",
+              "sourceLine": 302
+            },
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-136",
+              "sourceLine": 136
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-ce0cbfc5ea",
+      "variants": [
+        {
+          "id": "v-ce0cbfc5ea",
+          "answer": "Floor of mouth beneath the mucosa, superior to mylohyoid and lateral to genioglossus.",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-102",
+              "sourceLine": 102
+            }
+          ]
+        },
+        {
+          "id": "v-88278eaf6a",
+          "answer": "Floor of mouth beneath the tongue and above mylohyoid.",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-301",
+              "sourceLine": 301
+            }
+          ]
+        },
+        {
+          "id": "v-dc193c817b",
+          "answer": "Floor of mouth beneath mucosa, superior to mylohyoid and lateral to genioglossus.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-137",
+              "sourceLine": 137
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-74a64b1943",
+      "question": "Drainage",
+      "preferredVariantId": "v-4f19d08aaa",
+      "variants": [
+        {
+          "id": "v-4f19d08aaa",
+          "answer": "Multiple small ducts open along the sublingual fold; a larger duct may join the submandibular duct.",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-103",
+              "sourceLine": 103
+            },
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-138",
+              "sourceLine": 138
+            }
+          ]
+        },
+        {
+          "id": "v-9af70a31f7",
+          "answer": "Multiple small ducts open along the sublingual fold; a major duct may join the submandibular duct.",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-303",
+              "sourceLine": 303
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-a99468c811",
+      "variants": [
+        {
+          "id": "v-a99468c811",
+          "answer": "Parasympathetic secretomotor fibres from facial nerve via chorda tympani, lingual nerve and submandibular ganglion.",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-104",
+              "sourceLine": 104
+            },
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-139",
+              "sourceLine": 139
+            }
+          ]
+        },
+        {
+          "id": "v-be07469697",
+          "answer": "Parasympathetic fibres from CN VII via chorda tympani, lingual nerve and submandibular ganglion.",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-304",
+              "sourceLine": 304
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "deep-face-model-bs8-1",
+      "section": "",
+      "path": [
+        "17"
+      ],
+      "label": "17"
+    },
+    {
+      "modelId": "larynx-and-tongue-model-gs4",
+      "section": "Tongue",
+      "path": [
+        "16"
+      ],
+      "label": "16"
+    },
+    {
+      "modelId": "coronal-and-mid-sagittal-head-mb20",
+      "section": "Coronal head",
+      "path": [
+        "26"
+      ],
+      "label": "26"
+    }
+  ],
+  "redirectIds": [
+    "sublingual-salivary-gland-42702c5faa"
+  ]
+}

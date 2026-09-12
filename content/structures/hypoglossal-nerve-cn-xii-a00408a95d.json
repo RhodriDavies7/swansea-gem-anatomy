@@ -1,0 +1,352 @@
+{
+  "id": "hypoglossal-nerve-cn-xii-a00408a95d",
+  "name": "Hypoglossal nerve (CN XII)",
+  "aliases": [
+    "Hypoglossal nerve"
+  ],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Nerves"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Nervous",
+    "Respiratory"
+  ],
+  "organs": [
+    "Larynx"
+  ],
+  "tags": [
+    "Brain",
+    "Course",
+    "Lesion",
+    "Motor",
+    "Nerve",
+    "Roots",
+    "Sensory",
+    "Tongue"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-e49b27ea96",
+      "variants": [
+        {
+          "id": "v-e49b27ea96",
+          "answer": "Hypoglossal nerve (CN XII)",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-262",
+              "sourceLine": 262
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-821",
+              "sourceLine": 821
+            },
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-270",
+              "sourceLine": 270
+            }
+          ]
+        },
+        {
+          "id": "v-98abad1327",
+          "answer": "Hypoglossal nerve",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-242",
+              "sourceLine": 242
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-4d78ec7d11",
+      "question": "Roots",
+      "preferredVariantId": "v-dc2ede6d9a",
+      "variants": [
+        {
+          "id": "v-dc2ede6d9a",
+          "answer": "Hypoglossal nucleus in medulla.",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-263",
+              "sourceLine": 263
+            }
+          ]
+        },
+        {
+          "id": "v-4391d0ccad",
+          "answer": "Arises from hypoglossal nucleus in medulla.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-822",
+              "sourceLine": 822
+            }
+          ]
+        },
+        {
+          "id": "v-87ba1c7b35",
+          "answer": "Arises from the hypoglossal nucleus in the medulla.",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-271",
+              "sourceLine": 271
+            }
+          ]
+        },
+        {
+          "id": "v-9f02b1b671",
+          "answer": "Hypoglossal nucleus in the medulla.",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-243",
+              "sourceLine": 243
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "curated-a3bfd2ea71",
+      "variants": [
+        {
+          "id": "v-08474e1ec5",
+          "answer": "Emerges between pyramid and olive and exits through hypoglossal canal.",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-264",
+              "sourceLine": 264
+            }
+          ]
+        },
+        {
+          "id": "v-2f1df79abb",
+          "answer": "Exits via hypoglossal canal and courses anteriorly to tongue.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-823",
+              "sourceLine": 823
+            }
+          ]
+        },
+        {
+          "id": "v-2ec828384a",
+          "answer": "Exits through hypoglossal canal and courses forward to the tongue.",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-272",
+              "sourceLine": 272
+            }
+          ]
+        },
+        {
+          "id": "curated-a3bfd2ea71",
+          "answer": "Emerges between the pyramid and olive of the medulla, exits through the hypoglossal canal and runs anteriorly to the tongue.",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-264",
+              "sourceLine": 264
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-823",
+              "sourceLine": 823
+            },
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-272",
+              "sourceLine": 272
+            }
+          ],
+          "editorial": true
+        },
+        {
+          "id": "v-2994c9d484",
+          "answer": "Emerges between pyramid and olive, exits via hypoglossal canal and passes toward the tongue.",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-244",
+              "sourceLine": 244
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-c8b6915183",
+      "question": "Motor functions",
+      "preferredVariantId": "v-7e8c4f49ab",
+      "variants": [
+        {
+          "id": "v-7e8c4f49ab",
+          "answer": "Supplies intrinsic and extrinsic tongue muscles except palatoglossus.",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-265",
+              "sourceLine": 265
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-824",
+              "sourceLine": 824
+            },
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-273",
+              "sourceLine": 273
+            },
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-245",
+              "sourceLine": 245
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-bc53d10c57",
+      "question": "Lesion",
+      "preferredVariantId": "v-b637aee008",
+      "variants": [
+        {
+          "id": "v-c7fdbdb3df",
+          "answer": "Lower motor neuron lesion causes ipsilateral tongue weakness, atrophy and deviation toward the lesion on protrusion.",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-266",
+              "sourceLine": 266
+            },
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-246",
+              "sourceLine": 246
+            }
+          ]
+        },
+        {
+          "id": "v-7f30952ee6",
+          "answer": "Lower motor neuron lesion causes ipsilateral tongue weakness, atrophy/fasciculations and deviation toward the lesion on protrusion.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-826",
+              "sourceLine": 826
+            }
+          ]
+        },
+        {
+          "id": "v-b637aee008",
+          "answer": "Lower motor neuron lesion causes ipsilateral tongue weakness, atrophy and fasciculations, with deviation toward the lesion on protrusion.",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-275",
+              "sourceLine": 275
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-a453254382",
+      "question": "Sensory functions",
+      "preferredVariantId": "v-cb1e255fe3",
+      "variants": [
+        {
+          "id": "v-cb1e255fe3",
+          "answer": "No cutaneous sensory function.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-825",
+              "sourceLine": 825
+            },
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-274",
+              "sourceLine": 274
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "cranial-floor-model-bs1",
+      "section": "",
+      "path": [
+        "40"
+      ],
+      "label": "40"
+    },
+    {
+      "modelId": "head-and-neck-model-cs17-2",
+      "section": "Internal brain structures and cranial nerves (1–26)",
+      "path": [
+        "26"
+      ],
+      "label": "26"
+    },
+    {
+      "modelId": "larynx-and-tongue-model-gs4",
+      "section": "Tongue",
+      "path": [
+        "12"
+      ],
+      "label": "12"
+    },
+    {
+      "modelId": "deep-face-model-bs8-1",
+      "section": "",
+      "path": [
+        "37"
+      ],
+      "label": "37"
+    }
+  ],
+  "redirectIds": [
+    "hypoglossal-nerve-9f8310b358"
+  ]
+}

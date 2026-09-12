@@ -1,0 +1,147 @@
+{
+  "id": "lesser-occipital-nerve-ced2f54a56",
+  "name": "Lesser occipital nerve",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Nerves"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [],
+  "tags": [
+    "BloodVesselsAndNerves",
+    "Course",
+    "Lesion",
+    "Motor",
+    "Nerve",
+    "Roots",
+    "Sensory"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-81a1cc8aff",
+      "variants": [
+        {
+          "id": "v-81a1cc8aff",
+          "answer": "Lesser occipital nerve",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-749",
+              "sourceLine": 749
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-4d78ec7d11",
+      "question": "Roots",
+      "preferredVariantId": "v-732afeccfe",
+      "variants": [
+        {
+          "id": "v-732afeccfe",
+          "answer": "C2, sometimes C3, from cervical plexus.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-750",
+              "sourceLine": 750
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-b96358785b",
+      "variants": [
+        {
+          "id": "v-b96358785b",
+          "answer": "Ascends along posterior border of SCM toward scalp behind ear.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-751",
+              "sourceLine": 751
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c8b6915183",
+      "question": "Motor functions",
+      "preferredVariantId": "v-7737d0d824",
+      "variants": [
+        {
+          "id": "v-7737d0d824",
+          "answer": "No motor function.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-752",
+              "sourceLine": 752
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-a453254382",
+      "question": "Sensory functions",
+      "preferredVariantId": "v-042e09815a",
+      "variants": [
+        {
+          "id": "v-042e09815a",
+          "answer": "Supplies skin of lateral occipital scalp and upper medial auricle.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-753",
+              "sourceLine": 753
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-bc53d10c57",
+      "question": "Lesion",
+      "preferredVariantId": "v-e909b90685",
+      "variants": [
+        {
+          "id": "v-e909b90685",
+          "answer": "Lesion causes sensory loss or neuralgic pain over lateral occiput behind the ear.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-754",
+              "sourceLine": 754
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "half-head-and-neck-model-bs9",
+      "section": "Blood vessels and nerves",
+      "path": [
+        "73"
+      ],
+      "label": "73"
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "id": "left-coronary-artery-91f3c1d61f",
+  "name": "Left coronary artery",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Arteries"
+  ],
+  "regions": [
+    "Thorax"
+  ],
+  "systems": [
+    "Cardiovascular"
+  ],
+  "organs": [
+    "Heart"
+  ],
+  "tags": [
+    "Artery",
+    "Branches",
+    "Clinical",
+    "Course",
+    "InternalCoronary",
+    "Origin",
+    "Supply"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-6405bbf57c",
+      "variants": [
+        {
+          "id": "v-6405bbf57c",
+          "answer": "Left coronary artery",
+          "sources": [
+            {
+              "modelId": "heart-model-hs5",
+              "cardId": "heart-model-hs5-139",
+              "sourceLine": 139
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-941a871242",
+      "variants": [
+        {
+          "id": "v-941a871242",
+          "answer": "Arises from the left aortic sinus.",
+          "sources": [
+            {
+              "modelId": "heart-model-hs5",
+              "cardId": "heart-model-hs5-140",
+              "sourceLine": 140
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-679131d69a",
+      "variants": [
+        {
+          "id": "v-679131d69a",
+          "answer": "Passes between pulmonary trunk and left auricle before dividing.",
+          "sources": [
+            {
+              "modelId": "heart-model-hs5",
+              "cardId": "heart-model-hs5-141",
+              "sourceLine": 141
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f578227926",
+      "question": "Branches",
+      "preferredVariantId": "v-fa71b066f9",
+      "variants": [
+        {
+          "id": "v-fa71b066f9",
+          "answer": "Usually divides into anterior interventricular (LAD) and circumflex arteries.",
+          "sources": [
+            {
+              "modelId": "heart-model-hs5",
+              "cardId": "heart-model-hs5-142",
+              "sourceLine": 142
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-222db0fc1c",
+      "question": "Supply",
+      "preferredVariantId": "v-b8c0de6028",
+      "variants": [
+        {
+          "id": "v-b8c0de6028",
+          "answer": "Supplies most of left atrium and ventricle, anterior right ventricle and anterior two-thirds of interventricular septum.",
+          "sources": [
+            {
+              "modelId": "heart-model-hs5",
+              "cardId": "heart-model-hs5-143",
+              "sourceLine": 143
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-b03737e3cd",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-58ce5c4c63",
+      "variants": [
+        {
+          "id": "v-58ce5c4c63",
+          "answer": "Proximal LAD occlusion can cause a large anterior myocardial infarction.",
+          "sources": [
+            {
+              "modelId": "heart-model-hs5",
+              "cardId": "heart-model-hs5-144",
+              "sourceLine": 144
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "heart-model-hs5",
+      "section": "Internal and coronary structures",
+      "path": [
+        "5"
+      ],
+      "label": "5"
+    }
+  ]
+}

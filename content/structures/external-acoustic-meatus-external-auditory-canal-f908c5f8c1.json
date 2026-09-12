@@ -1,0 +1,200 @@
+{
+  "id": "external-acoustic-meatus-external-auditory-canal-f908c5f8c1",
+  "name": "External acoustic meatus (external auditory canal)",
+  "aliases": [
+    "External acoustic meatus"
+  ],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [],
+  "organs": [
+    "Ear"
+  ],
+  "tags": [
+    "Canal",
+    "Course",
+    "ExternalEar",
+    "Function",
+    "Relations",
+    "HeadNeck",
+    "Location"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-1b0f3c70dc",
+      "variants": [
+        {
+          "id": "v-1b0f3c70dc",
+          "answer": "External acoustic meatus (external auditory canal)",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-49",
+              "sourceLine": 49
+            },
+            {
+              "modelId": "ear-model-ds3",
+              "cardId": "ear-model-ds3-4",
+              "sourceLine": 4
+            }
+          ]
+        },
+        {
+          "id": "v-705ceb754c",
+          "answer": "External acoustic meatus",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-75",
+              "sourceLine": 75
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-9975735806",
+      "variants": [
+        {
+          "id": "v-9975735806",
+          "answer": "Extends from the auricle to the tympanic membrane; lateral part is cartilaginous and medial part bony.",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-50",
+              "sourceLine": 50
+            },
+            {
+              "modelId": "ear-model-ds3",
+              "cardId": "ear-model-ds3-5",
+              "sourceLine": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-bcd13b189c",
+      "variants": [
+        {
+          "id": "v-bcd13b189c",
+          "answer": "Conducts sound waves toward the tympanic membrane.",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-51",
+              "sourceLine": 51
+            },
+            {
+              "modelId": "ear-model-ds3",
+              "cardId": "ear-model-ds3-6",
+              "sourceLine": 6
+            }
+          ]
+        },
+        {
+          "id": "v-19b601dbb5",
+          "answer": "Conducts sound waves to tympanic membrane.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-77",
+              "sourceLine": 77
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-0b47f0853e",
+      "variants": [
+        {
+          "id": "v-0b47f0853e",
+          "answer": "Ends medially at the tympanic membrane.",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-52",
+              "sourceLine": 52
+            },
+            {
+              "modelId": "ear-model-ds3",
+              "cardId": "ear-model-ds3-7",
+              "sourceLine": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-c388aaba9d",
+      "variants": [
+        {
+          "id": "v-c388aaba9d",
+          "answer": "Canal in temporal bone leading from auricle to tympanic membrane.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-76",
+              "sourceLine": 76
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "ear-largest-model-ds1",
+      "section": "A. External ear",
+      "path": [
+        "10"
+      ],
+      "label": "10"
+    },
+    {
+      "modelId": "ear-model-ds3",
+      "section": "A. External ear",
+      "path": [
+        "1"
+      ],
+      "label": "1"
+    },
+    {
+      "modelId": "head-and-neck-model-cs17-2",
+      "section": "Bony structures, foramina and ear structures",
+      "path": [
+        "15"
+      ],
+      "label": "15"
+    }
+  ],
+  "redirectIds": [
+    "external-acoustic-meatus-b33b5e1bc9"
+  ]
+}

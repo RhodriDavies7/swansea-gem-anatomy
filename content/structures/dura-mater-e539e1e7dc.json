@@ -1,0 +1,134 @@
+{
+  "id": "dura-mater-e539e1e7dc",
+  "name": "Dura mater",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [],
+  "tags": [
+    "Brain",
+    "Dura",
+    "Function",
+    "HeadNeck",
+    "Structure"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-1362eb2380",
+      "variants": [
+        {
+          "id": "v-1362eb2380",
+          "answer": "Dura mater",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-515",
+              "sourceLine": 515
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-650",
+              "sourceLine": 650
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-9f6c0b1361",
+      "variants": [
+        {
+          "id": "v-9f6c0b1361",
+          "answer": "Tough outer meningeal layer; cranial dura has periosteal and meningeal layers.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-516",
+              "sourceLine": 516
+            }
+          ]
+        },
+        {
+          "id": "v-f1773e2d98",
+          "answer": "Tough outer cranial meninx with periosteal and meningeal layers.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-651",
+              "sourceLine": 651
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-51d783b01a",
+      "variants": [
+        {
+          "id": "v-51d783b01a",
+          "answer": "Protects CNS and forms dural folds and venous sinuses.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-517",
+              "sourceLine": 517
+            }
+          ]
+        },
+        {
+          "id": "v-82c99b9fc4",
+          "answer": "Forms dural folds and venous sinuses.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-652",
+              "sourceLine": 652
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "head-and-neck-model-cs17-2",
+      "section": "Dural venous sinuses, meninges and cranial markings",
+      "path": [
+        "80"
+      ],
+      "label": "80"
+    },
+    {
+      "modelId": "head-and-neck-model-cs17-2",
+      "section": "Gross brain, meninges and venous structures (A–N)",
+      "path": [
+        "L"
+      ],
+      "label": "L"
+    }
+  ]
+}

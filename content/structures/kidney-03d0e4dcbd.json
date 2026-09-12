@@ -1,0 +1,109 @@
+{
+  "id": "kidney-03d0e4dcbd",
+  "name": "Kidney",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Organs"
+  ],
+  "regions": [
+    "Abdomen"
+  ],
+  "systems": [
+    "Urinary"
+  ],
+  "organs": [],
+  "tags": [
+    "BloodSupply",
+    "Function",
+    "Location",
+    "Organ",
+    "UrinarySystem"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-0740dcdab8",
+      "variants": [
+        {
+          "id": "v-0740dcdab8",
+          "answer": "Kidney",
+          "sources": [
+            {
+              "modelId": "urinary-system-model-ls3-1",
+              "cardId": "urinary-system-model-ls3-1-3",
+              "sourceLine": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-36bb3ceb83",
+      "variants": [
+        {
+          "id": "v-36bb3ceb83",
+          "answer": "Retroperitoneal organ on the posterior abdominal wall; the right kidney usually lies slightly lower than the left.",
+          "sources": [
+            {
+              "modelId": "urinary-system-model-ls3-1",
+              "cardId": "urinary-system-model-ls3-1-4",
+              "sourceLine": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-ac563f5410",
+      "variants": [
+        {
+          "id": "v-ac563f5410",
+          "answer": "Filters blood, regulates fluid/electrolyte and acid-base balance, excretes waste and has endocrine functions including renin and erythropoietin production.",
+          "sources": [
+            {
+              "modelId": "urinary-system-model-ls3-1",
+              "cardId": "urinary-system-model-ls3-1-5",
+              "sourceLine": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-a707f7e176",
+      "question": "Blood supply",
+      "preferredVariantId": "v-918ec4b18d",
+      "variants": [
+        {
+          "id": "v-918ec4b18d",
+          "answer": "Renal arteries from the abdominal aorta; renal veins drain to the inferior vena cava.",
+          "sources": [
+            {
+              "modelId": "urinary-system-model-ls3-1",
+              "cardId": "urinary-system-model-ls3-1-6",
+              "sourceLine": 6
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "urinary-system-model-ls3-1",
+      "section": "Major urinary structures",
+      "path": [
+        "1"
+      ],
+      "label": "1"
+    }
+  ]
+}

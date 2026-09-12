@@ -1,0 +1,232 @@
+{
+  "id": "sternocleidomastoid-muscle-4b5693704c",
+  "name": "Sternocleidomastoid muscle",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Head and neck",
+    "Upper limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "AttachmentSite",
+    "Attachments",
+    "HeadNeck",
+    "HeadNeckMuscles",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-e11eba030f",
+      "variants": [
+        {
+          "id": "v-e11eba030f",
+          "answer": "Sternocleidomastoid muscle",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-526",
+              "sourceLine": 526
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-272",
+              "sourceLine": 272
+            },
+            {
+              "modelId": "rotator-cuff-qs55-6",
+              "cardId": "rotator-cuff-qs55-6-3",
+              "sourceLine": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-f75fcbea4d",
+      "variants": [
+        {
+          "id": "v-f75fcbea4d",
+          "answer": "Unilateral: ipsilateral lateral flexion and contralateral rotation; bilateral: flexes neck and assists inspiration.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-527",
+              "sourceLine": 527
+            }
+          ]
+        },
+        {
+          "id": "v-45bcdf95b0",
+          "answer": "Unilateral: ipsilateral lateral flexion and contralateral rotation; bilateral: flexes neck.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-273",
+              "sourceLine": 273
+            }
+          ]
+        },
+        {
+          "id": "v-70bfd2daba",
+          "answer": "Bilateral: flexes neck; unilateral: ipsilateral lateral flexion with contralateral rotation.",
+          "sources": [
+            {
+              "modelId": "rotator-cuff-qs55-6",
+              "cardId": "rotator-cuff-qs55-6-5",
+              "sourceLine": 5
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-923eb0515d",
+      "variants": [
+        {
+          "id": "v-923eb0515d",
+          "answer": "Accessory nerve (CN XI) motor; C2–C3 proprioception.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-528",
+              "sourceLine": 528
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-274",
+              "sourceLine": 274
+            }
+          ]
+        },
+        {
+          "id": "v-8bab2de498",
+          "answer": "Spinal accessory nerve (CN XI) motor, with C2–C3 proprioceptive fibres.",
+          "sources": [
+            {
+              "modelId": "rotator-cuff-qs55-6",
+              "cardId": "rotator-cuff-qs55-6-6",
+              "sourceLine": 6
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-c863c80540",
+      "variants": [
+        {
+          "id": "v-c863c80540",
+          "answer": "Manubrium and medial clavicle.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-529",
+              "sourceLine": 529
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-275",
+              "sourceLine": 275
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-4f810ded64",
+      "variants": [
+        {
+          "id": "v-4f810ded64",
+          "answer": "Mastoid process and lateral superior nuchal line.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-530",
+              "sourceLine": 530
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-276",
+              "sourceLine": 276
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-531c9dad58",
+      "question": "Attachment on model",
+      "preferredVariantId": "v-29a5326e2a",
+      "variants": [
+        {
+          "id": "v-29a5326e2a",
+          "answer": "Medial third of clavicle via the clavicular head; also attaches to manubrium and mastoid process/superior nuchal line.",
+          "sources": [
+            {
+              "modelId": "rotator-cuff-qs55-6",
+              "cardId": "rotator-cuff-qs55-6-4",
+              "sourceLine": 4
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "half-head-and-neck-model-bs9",
+      "section": "Musculature of the head and neck",
+      "path": [
+        "43"
+      ],
+      "label": "43"
+    },
+    {
+      "modelId": "head-and-neck-model-cs17-2",
+      "section": "Musculature of the head and neck",
+      "path": [
+        "45"
+      ],
+      "label": "45"
+    },
+    {
+      "modelId": "rotator-cuff-qs55-6",
+      "section": "Muscle attachment sites",
+      "path": [
+        "1"
+      ],
+      "label": "1"
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "id": "greater-palatine-artery-736b2742af",
+  "name": "Greater palatine artery",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Arteries"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Cardiovascular"
+  ],
+  "organs": [],
+  "tags": [
+    "Artery",
+    "Course",
+    "Origin",
+    "Relations",
+    "Supply"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-546e51074b",
+      "variants": [
+        {
+          "id": "v-546e51074b",
+          "answer": "Greater palatine artery",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-135",
+              "sourceLine": 135
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-3c2700a1c2",
+      "variants": [
+        {
+          "id": "v-3c2700a1c2",
+          "answer": "Terminal branch of the descending palatine artery from the maxillary artery.",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-136",
+              "sourceLine": 136
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-98d54fad34",
+      "variants": [
+        {
+          "id": "v-98d54fad34",
+          "answer": "Descends through the greater palatine canal, emerges at the greater palatine foramen and runs anteriorly on the hard palate.",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-137",
+              "sourceLine": 137
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-222db0fc1c",
+      "question": "Supply",
+      "preferredVariantId": "v-a263399a9a",
+      "variants": [
+        {
+          "id": "v-a263399a9a",
+          "answer": "Hard palate, palatal gingiva and adjacent structures.",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-138",
+              "sourceLine": 138
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-99aac4520e",
+      "variants": [
+        {
+          "id": "v-99aac4520e",
+          "answer": "Anastomoses anteriorly with the septal branch of the sphenopalatine artery via incisive canal region.",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-139",
+              "sourceLine": 139
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "deep-face-model-bs8-1",
+      "section": "",
+      "path": [
+        "22"
+      ],
+      "label": "22"
+    }
+  ]
+}

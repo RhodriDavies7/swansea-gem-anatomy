@@ -1,0 +1,193 @@
+{
+  "id": "extensor-carpi-radialis-brevis-muscle-0f3124c7f9",
+  "name": "Extensor carpi radialis brevis muscle",
+  "aliases": [
+    "Extensor carpi radialis brevis"
+  ],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "MusclesAndTendons",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-59808bfd28",
+      "variants": [
+        {
+          "id": "v-59808bfd28",
+          "answer": "Extensor carpi radialis brevis muscle",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-87",
+              "sourceLine": 87
+            }
+          ]
+        },
+        {
+          "id": "v-b536273432",
+          "answer": "Extensor carpi radialis brevis",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-105",
+              "sourceLine": 105
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-7c4a039ffd",
+      "variants": [
+        {
+          "id": "v-00fc9512c6",
+          "answer": "Extends and abducts the wrist.",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-88",
+              "sourceLine": 88
+            }
+          ]
+        },
+        {
+          "id": "v-7c4a039ffd",
+          "answer": "Extends and abducts the wrist; helps stabilise the wrist during gripping.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-106",
+              "sourceLine": 106
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-f7c076f907",
+      "variants": [
+        {
+          "id": "v-f7c076f907",
+          "answer": "Deep branch of radial nerve (C7–C8).",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-89",
+              "sourceLine": 89
+            },
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-107",
+              "sourceLine": 107
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-86ac4ca28b",
+      "variants": [
+        {
+          "id": "v-86ac4ca28b",
+          "answer": "Lateral epicondyle via common extensor tendon.",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-90",
+              "sourceLine": 90
+            },
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-108",
+              "sourceLine": 108
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-a9ae98d1ae",
+      "variants": [
+        {
+          "id": "v-f088439fd2",
+          "answer": "Base of 3rd metacarpal.",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-91",
+              "sourceLine": 91
+            }
+          ]
+        },
+        {
+          "id": "v-a9ae98d1ae",
+          "answer": "Base of third metacarpal.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-109",
+              "sourceLine": 109
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "hand-model-ns13",
+      "section": "Muscles, tendons and pulleys",
+      "path": [
+        "i"
+      ],
+      "label": "i"
+    },
+    {
+      "modelId": "upper-limb-model-ns15",
+      "section": "Muscles",
+      "path": [
+        "18"
+      ],
+      "label": "18"
+    }
+  ]
+}

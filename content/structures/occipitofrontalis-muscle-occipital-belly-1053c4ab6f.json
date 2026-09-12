@@ -1,0 +1,177 @@
+{
+  "id": "occipitofrontalis-muscle-occipital-belly-1053c4ab6f",
+  "name": "Occipitofrontalis muscle (occipital belly)",
+  "aliases": [
+    "Occipital part of occipitofrontalis muscle"
+  ],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "HeadNeckMuscles",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Origin",
+    "HeadNeck"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-8c31b86eeb",
+      "variants": [
+        {
+          "id": "v-8c31b86eeb",
+          "answer": "Occipitofrontalis muscle (occipital belly)",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-400",
+              "sourceLine": 400
+            }
+          ]
+        },
+        {
+          "id": "v-f9385c0188",
+          "answer": "Occipital part of occipitofrontalis muscle",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-146",
+              "sourceLine": 146
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-c2ceaef916",
+      "variants": [
+        {
+          "id": "v-c2ceaef916",
+          "answer": "Retracts scalp.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-401",
+              "sourceLine": 401
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-147",
+              "sourceLine": 147
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-d437e00597",
+      "variants": [
+        {
+          "id": "v-d437e00597",
+          "answer": "Facial nerve (CN VII), posterior auricular branch.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-402",
+              "sourceLine": 402
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-148",
+              "sourceLine": 148
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-dc629e58be",
+      "variants": [
+        {
+          "id": "v-dc629e58be",
+          "answer": "Lateral superior nuchal line and mastoid region.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-403",
+              "sourceLine": 403
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-149",
+              "sourceLine": 149
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-2639385e47",
+      "variants": [
+        {
+          "id": "v-2639385e47",
+          "answer": "Epicranial aponeurosis.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-404",
+              "sourceLine": 404
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-150",
+              "sourceLine": 150
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "half-head-and-neck-model-bs9",
+      "section": "Musculature of the head and neck",
+      "path": [
+        "25"
+      ],
+      "label": "25"
+    },
+    {
+      "modelId": "head-and-neck-model-cs17-2",
+      "section": "Musculature of the head and neck",
+      "path": [
+        "27"
+      ],
+      "label": "27"
+    }
+  ],
+  "redirectIds": [
+    "occipital-part-of-occipitofrontalis-muscle-78feee0203"
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "id": "base-of-stapes-3800f6d4bd",
+  "name": "Base of stapes",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [],
+  "organs": [
+    "Ear"
+  ],
+  "tags": [
+    "MiddleEar",
+    "OssiclePart",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-23b8dae00c",
+      "variants": [
+        {
+          "id": "v-23b8dae00c",
+          "answer": "Base of stapes",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-173",
+              "sourceLine": 173
+            },
+            {
+              "modelId": "ear-model-ds3",
+              "cardId": "ear-model-ds3-75",
+              "sourceLine": 75
+            },
+            {
+              "modelId": "inner-ear-model-ds17",
+              "cardId": "inner-ear-model-ds17-51",
+              "sourceLine": 51
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-ceca3f28b2",
+      "variants": [
+        {
+          "id": "v-ceca3f28b2",
+          "answer": "Fits into the oval window and transmits vibration to perilymph of the vestibule.",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-174",
+              "sourceLine": 174
+            },
+            {
+              "modelId": "ear-model-ds3",
+              "cardId": "ear-model-ds3-76",
+              "sourceLine": 76
+            }
+          ]
+        },
+        {
+          "id": "v-9fa87e91be",
+          "answer": "Fits into the oval window and transmits vibration to perilymph of scala vestibuli.",
+          "sources": [
+            {
+              "modelId": "inner-ear-model-ds17",
+              "cardId": "inner-ear-model-ds17-52",
+              "sourceLine": 52
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "ear-largest-model-ds1",
+      "section": "C. Middle ear",
+      "path": [
+        "27",
+        "c"
+      ],
+      "label": "27c"
+    },
+    {
+      "modelId": "ear-model-ds3",
+      "section": "B. Middle ear",
+      "path": [
+        "9",
+        "c"
+      ],
+      "label": "9c"
+    },
+    {
+      "modelId": "inner-ear-model-ds17",
+      "section": "Tympanic membrane and ossicles",
+      "path": [
+        "5",
+        "c"
+      ],
+      "label": "5c"
+    }
+  ]
+}

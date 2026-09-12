@@ -1,0 +1,127 @@
+{
+  "id": "short-head-of-biceps-femoris-muscle-3ea1c1e578",
+  "name": "Short head of biceps femoris muscle",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-055ddf6cc0",
+      "variants": [
+        {
+          "id": "v-055ddf6cc0",
+          "answer": "Short head of biceps femoris muscle",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-148",
+              "sourceLine": 148
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-22e765e43c",
+      "variants": [
+        {
+          "id": "v-22e765e43c",
+          "answer": "Flexes the knee and laterally rotates the flexed leg; does not cross the hip.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-149",
+              "sourceLine": 149
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-847361bbf6",
+      "variants": [
+        {
+          "id": "v-847361bbf6",
+          "answer": "Common fibular division of sciatic nerve (L5–S2).",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-150",
+              "sourceLine": 150
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-7a56a798e2",
+      "variants": [
+        {
+          "id": "v-7a56a798e2",
+          "answer": "Lateral lip of linea aspera and lateral supracondylar line of femur.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-151",
+              "sourceLine": 151
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-5f6d5d8583",
+      "variants": [
+        {
+          "id": "v-5f6d5d8583",
+          "answer": "Head of fibula through the common biceps femoris tendon.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-152",
+              "sourceLine": 152
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "lower-limb-model-ns10",
+      "section": "Muscles",
+      "path": [
+        "18b"
+      ],
+      "label": "18b"
+    }
+  ]
+}

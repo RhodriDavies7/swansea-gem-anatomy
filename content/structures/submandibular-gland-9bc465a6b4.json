@@ -1,0 +1,249 @@
+{
+  "id": "submandibular-gland-9bc465a6b4",
+  "name": "Submandibular gland",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Organs"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Respiratory"
+  ],
+  "organs": [
+    "Larynx"
+  ],
+  "tags": [
+    "Drainage",
+    "Function",
+    "Gland",
+    "HeadNeck",
+    "Innervation",
+    "Location",
+    "Tongue"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-8f751ed197",
+      "variants": [
+        {
+          "id": "v-8f751ed197",
+          "answer": "Submandibular gland",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-107",
+              "sourceLine": 107
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-548",
+              "sourceLine": 548
+            },
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-293",
+              "sourceLine": 293
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-6c1fab6769",
+      "variants": [
+        {
+          "id": "v-6c1fab6769",
+          "answer": "Produces mixed serous and mucous saliva, predominantly serous.",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-108",
+              "sourceLine": 108
+            }
+          ]
+        },
+        {
+          "id": "v-8ee5209141",
+          "answer": "Produces mixed saliva, predominantly serous.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-550",
+              "sourceLine": 550
+            },
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-295",
+              "sourceLine": 295
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-5686bc4203",
+      "variants": [
+        {
+          "id": "v-5686bc4203",
+          "answer": "Wraps around the posterior border of mylohyoid with superficial and deep parts.",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-109",
+              "sourceLine": 109
+            }
+          ]
+        },
+        {
+          "id": "v-383caf1e28",
+          "answer": "Submandibular triangle, wrapping around posterior mylohyoid border.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-549",
+              "sourceLine": 549
+            }
+          ]
+        },
+        {
+          "id": "v-06dd4441f7",
+          "answer": "Submandibular triangle, wrapping around posterior border of mylohyoid.",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-294",
+              "sourceLine": 294
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-74a64b1943",
+      "question": "Drainage",
+      "preferredVariantId": "v-f60537cccf",
+      "variants": [
+        {
+          "id": "v-f60537cccf",
+          "answer": "Submandibular duct opens at the sublingual papilla beside the lingual frenulum.",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-110",
+              "sourceLine": 110
+            }
+          ]
+        },
+        {
+          "id": "v-e78450518f",
+          "answer": "Submandibular duct opens beside lingual frenulum at sublingual papilla.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-551",
+              "sourceLine": 551
+            }
+          ]
+        },
+        {
+          "id": "v-b8ac46b414",
+          "answer": "Submandibular duct opens at sublingual papilla beside lingual frenulum.",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-296",
+              "sourceLine": 296
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-a99468c811",
+      "variants": [
+        {
+          "id": "v-a99468c811",
+          "answer": "Parasympathetic secretomotor fibres from facial nerve via chorda tympani, lingual nerve and submandibular ganglion.",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-111",
+              "sourceLine": 111
+            }
+          ]
+        },
+        {
+          "id": "v-be07469697",
+          "answer": "Parasympathetic fibres from CN VII via chorda tympani, lingual nerve and submandibular ganglion.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-552",
+              "sourceLine": 552
+            },
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-297",
+              "sourceLine": 297
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "deep-face-model-bs8-1",
+      "section": "",
+      "path": [
+        "18"
+      ],
+      "label": "18"
+    },
+    {
+      "modelId": "head-and-neck-model-cs17-2",
+      "section": "Glands",
+      "path": [
+        "85"
+      ],
+      "label": "85"
+    },
+    {
+      "modelId": "larynx-and-tongue-model-gs4",
+      "section": "Tongue",
+      "path": [
+        "15"
+      ],
+      "label": "15"
+    }
+  ]
+}

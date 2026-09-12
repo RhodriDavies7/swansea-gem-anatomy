@@ -1,0 +1,111 @@
+{
+  "id": "cardiac-orifice-3fdc3b8afe",
+  "name": "Cardiac orifice",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Abdomen"
+  ],
+  "systems": [
+    "Digestive"
+  ],
+  "organs": [
+    "Stomach"
+  ],
+  "tags": [
+    "Function",
+    "Location",
+    "Opening",
+    "RegionsAndLandmarks",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-efebd2f504",
+      "variants": [
+        {
+          "id": "v-efebd2f504",
+          "answer": "Cardiac orifice",
+          "sources": [
+            {
+              "modelId": "stomach-model-ns15",
+              "cardId": "stomach-model-ns15-3",
+              "sourceLine": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-40b3efa768",
+      "variants": [
+        {
+          "id": "v-40b3efa768",
+          "answer": "Opening where the oesophagus enters the stomach at the gastro-oesophageal junction.",
+          "sources": [
+            {
+              "modelId": "stomach-model-ns15",
+              "cardId": "stomach-model-ns15-4",
+              "sourceLine": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-033e8b246a",
+      "variants": [
+        {
+          "id": "v-033e8b246a",
+          "answer": "Allows passage of swallowed material from oesophagus into stomach.",
+          "sources": [
+            {
+              "modelId": "stomach-model-ns15",
+              "cardId": "stomach-model-ns15-5",
+              "sourceLine": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-4f2dea6c15",
+      "variants": [
+        {
+          "id": "v-4f2dea6c15",
+          "answer": "Near the cardia and physiological lower oesophageal sphincter region.",
+          "sources": [
+            {
+              "modelId": "stomach-model-ns15",
+              "cardId": "stomach-model-ns15-6",
+              "sourceLine": 6
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "stomach-model-ns15",
+      "section": "Regions and external landmarks",
+      "path": [
+        "1"
+      ],
+      "label": "1"
+    }
+  ]
+}

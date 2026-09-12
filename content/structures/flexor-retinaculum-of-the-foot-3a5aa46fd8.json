@@ -1,0 +1,126 @@
+{
+  "id": "flexor-retinaculum-of-the-foot-3a5aa46fd8",
+  "name": "Flexor retinaculum of the foot",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [],
+  "organs": [],
+  "tags": [
+    "Attachments",
+    "Clinical",
+    "Contents",
+    "Function",
+    "Ligaments",
+    "Retinaculum"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-d23011b4f5",
+      "variants": [
+        {
+          "id": "v-d23011b4f5",
+          "answer": "Flexor retinaculum of the foot",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-243",
+              "sourceLine": 243
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6771ade6e8",
+      "question": "Attachments",
+      "preferredVariantId": "v-fdc0e7c9ae",
+      "variants": [
+        {
+          "id": "v-fdc0e7c9ae",
+          "answer": "Extends from medial malleolus to medial calcaneus.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-244",
+              "sourceLine": 244
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-b97702ea25",
+      "variants": [
+        {
+          "id": "v-b97702ea25",
+          "answer": "Holds flexor tendons and neurovascular structures behind the medial malleolus.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-245",
+              "sourceLine": 245
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f5cbdf6bfb",
+      "question": "Contents",
+      "preferredVariantId": "v-8a7ca19b48",
+      "variants": [
+        {
+          "id": "v-8a7ca19b48",
+          "answer": "From anterior to posterior: tibialis posterior, flexor digitorum longus, posterior tibial vessels, tibial nerve, flexor hallucis longus.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-246",
+              "sourceLine": 246
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-b03737e3cd",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-9b8fbdad9a",
+      "variants": [
+        {
+          "id": "v-9b8fbdad9a",
+          "answer": "Compression of tibial nerve deep to the retinaculum causes tarsal tunnel syndrome.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-247",
+              "sourceLine": 247
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "foot-model-ns9",
+      "section": "Ligaments of the ankle joint",
+      "path": [
+        "35"
+      ],
+      "label": "35"
+    }
+  ]
+}

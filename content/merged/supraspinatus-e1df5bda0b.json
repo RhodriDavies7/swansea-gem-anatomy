@@ -1,0 +1,127 @@
+{
+  "id": "supraspinatus-e1df5bda0b",
+  "name": "Supraspinatus",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-788234e113",
+      "variants": [
+        {
+          "id": "v-788234e113",
+          "answer": "Supraspinatus",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-3",
+              "sourceLine": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-3150d3c0ca",
+      "variants": [
+        {
+          "id": "v-3150d3c0ca",
+          "answer": "Initiates the first ~15° of arm abduction and stabilises the humeral head in the glenoid.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-4",
+              "sourceLine": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-949fbb9f03",
+      "variants": [
+        {
+          "id": "v-949fbb9f03",
+          "answer": "Suprascapular nerve (C5–C6).",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-5",
+              "sourceLine": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-7e99cb065c",
+      "variants": [
+        {
+          "id": "v-7e99cb065c",
+          "answer": "Supraspinous fossa of scapula and overlying fascia.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-6",
+              "sourceLine": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-b0e257e6f6",
+      "variants": [
+        {
+          "id": "v-b0e257e6f6",
+          "answer": "Superior facet of greater tubercle of humerus and shoulder joint capsule.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-7",
+              "sourceLine": 7
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "upper-limb-model-ns15",
+      "section": "Muscles",
+      "path": [
+        "1"
+      ],
+      "label": "1"
+    }
+  ]
+}

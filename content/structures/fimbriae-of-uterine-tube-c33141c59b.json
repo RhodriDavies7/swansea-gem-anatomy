@@ -1,0 +1,108 @@
+{
+  "id": "fimbriae-of-uterine-tube-c33141c59b",
+  "name": "Fimbriae of uterine tube",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Pelvis"
+  ],
+  "systems": [
+    "Reproductive"
+  ],
+  "organs": [],
+  "tags": [
+    "Function",
+    "Relations",
+    "Structure",
+    "TubePart"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-3f08ecf1e3",
+      "variants": [
+        {
+          "id": "v-3f08ecf1e3",
+          "answer": "Fimbriae of uterine tube",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-347",
+              "sourceLine": 347
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-ae70a69b88",
+      "variants": [
+        {
+          "id": "v-ae70a69b88",
+          "answer": "Finger-like projections of the infundibulum of the uterine tube.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-348",
+              "sourceLine": 348
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-f6f2f9f140",
+      "variants": [
+        {
+          "id": "v-f6f2f9f140",
+          "answer": "Help sweep the ovulated oocyte toward the tubal opening.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-349",
+              "sourceLine": 349
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-f9f161b446",
+      "variants": [
+        {
+          "id": "v-f9f161b446",
+          "answer": "Lie adjacent to the ovary; one fimbria is attached to the ovary.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-350",
+              "sourceLine": 350
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "female-pelvis-model-mo8",
+      "section": "",
+      "path": [
+        "52"
+      ],
+      "label": "52"
+    }
+  ]
+}

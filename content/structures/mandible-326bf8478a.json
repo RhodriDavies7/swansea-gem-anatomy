@@ -1,0 +1,276 @@
+{
+  "id": "mandible-326bf8478a",
+  "name": "Mandible",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Bones"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Musculoskeletal",
+    "Respiratory"
+  ],
+  "organs": [
+    "Larynx"
+  ],
+  "tags": [
+    "Articulations",
+    "Bone",
+    "BonyStructures",
+    "HeadNeck",
+    "Landmarks",
+    "MidSagittal",
+    "Relations",
+    "Tongue"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-7b674b3ccb",
+      "variants": [
+        {
+          "id": "v-7b674b3ccb",
+          "answer": "Mandible",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-205",
+              "sourceLine": 205
+            },
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-38",
+              "sourceLine": 38
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-48",
+              "sourceLine": 48
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-55",
+              "sourceLine": 55
+            },
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-312",
+              "sourceLine": 312
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-a40bee8d10",
+      "question": "Articulations",
+      "preferredVariantId": "v-8eade6fcb2",
+      "variants": [
+        {
+          "id": "v-8eade6fcb2",
+          "answer": "Articulates with temporal bones at temporomandibular joints.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-206",
+              "sourceLine": 206
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-49",
+              "sourceLine": 49
+            }
+          ]
+        },
+        {
+          "id": "v-bd6d693f7e",
+          "answer": "Articulates with the temporal bones at the temporomandibular joints.",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-39",
+              "sourceLine": 39
+            }
+          ]
+        },
+        {
+          "id": "v-a7b0081e2b",
+          "answer": "Articulates with temporal bone at temporomandibular joint.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-57",
+              "sourceLine": 57
+            }
+          ]
+        },
+        {
+          "id": "v-203cadcf98",
+          "answer": "Articulates with temporal bones at the temporomandibular joints.",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-313",
+              "sourceLine": 313
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-626b6c1d45",
+      "question": "Landmarks",
+      "preferredVariantId": "v-a0b1f394c1",
+      "variants": [
+        {
+          "id": "v-a0b1f394c1",
+          "answer": "Body, ramus, angle, coronoid process, condylar process, mental foramen and mandibular foramen.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-207",
+              "sourceLine": 207
+            },
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-40",
+              "sourceLine": 40
+            }
+          ]
+        },
+        {
+          "id": "v-783e284ae9",
+          "answer": "Body, ramus, angle, coronoid process, condylar process, mental and mandibular foramina.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-50",
+              "sourceLine": 50
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-56",
+              "sourceLine": 56
+            },
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-314",
+              "sourceLine": 314
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-6b19715085",
+      "variants": [
+        {
+          "id": "v-6b19715085",
+          "answer": "Supports lower teeth and provides attachments for muscles of mastication and floor of mouth.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-208",
+              "sourceLine": 208
+            }
+          ]
+        },
+        {
+          "id": "v-1bae3d220a",
+          "answer": "Supports lower teeth and provides major attachments for muscles of mastication and floor of mouth.",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-41",
+              "sourceLine": 41
+            }
+          ]
+        },
+        {
+          "id": "v-58b9008db6",
+          "answer": "Supports lower teeth and provides major muscle attachments.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-51",
+              "sourceLine": 51
+            }
+          ]
+        },
+        {
+          "id": "v-dd8442a522",
+          "answer": "Provides attachment for several tongue and floor-of-mouth muscles.",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-315",
+              "sourceLine": 315
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "coronal-and-mid-sagittal-head-mb20",
+      "section": "Bony structures",
+      "path": [
+        "I"
+      ],
+      "label": "I"
+    },
+    {
+      "modelId": "deep-face-model-bs8-1",
+      "section": "",
+      "path": [
+        "7"
+      ],
+      "label": "7"
+    },
+    {
+      "modelId": "half-head-and-neck-model-bs9",
+      "section": "Bony structures",
+      "path": [
+        "I"
+      ],
+      "label": "I"
+    },
+    {
+      "modelId": "head-and-neck-model-cs17-2",
+      "section": "Bony structures, foramina and ear structures",
+      "path": [
+        "11"
+      ],
+      "label": "11"
+    },
+    {
+      "modelId": "larynx-and-tongue-model-gs4",
+      "section": "Tongue",
+      "path": [
+        "18"
+      ],
+      "label": "18"
+    }
+  ]
+}

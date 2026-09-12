@@ -1,0 +1,220 @@
+{
+  "id": "radial-artery-1b44beae4e",
+  "name": "Radial artery",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Arteries"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [
+    "Cardiovascular"
+  ],
+  "organs": [],
+  "tags": [
+    "ArteriesAndNerves",
+    "Artery",
+    "Branches",
+    "Course",
+    "Origin",
+    "Relations",
+    "Supply"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-ed20dc91a1",
+      "variants": [
+        {
+          "id": "v-ed20dc91a1",
+          "answer": "Radial artery",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-189",
+              "sourceLine": 189
+            },
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-339",
+              "sourceLine": 339
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-b13a50ae40",
+      "variants": [
+        {
+          "id": "v-b13a50ae40",
+          "answer": "Terminal branch of brachial artery in the cubital fossa.",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-190",
+              "sourceLine": 190
+            }
+          ]
+        },
+        {
+          "id": "v-8559937ce2",
+          "answer": "Terminal branch of brachial artery in cubital fossa.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-340",
+              "sourceLine": 340
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-e913b7860c",
+      "variants": [
+        {
+          "id": "v-67f52f0e48",
+          "answer": "Runs down lateral forearm, winds dorsally through the anatomical snuffbox, then enters palm between heads of 1st dorsal interosseous.",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-191",
+              "sourceLine": 191
+            }
+          ]
+        },
+        {
+          "id": "v-e913b7860c",
+          "answer": "Descends lateral forearm beneath brachioradialis, becomes superficial distally, crosses anatomical snuffbox and enters palm between first dorsal interosseous heads.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-341",
+              "sourceLine": 341
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-f578227926",
+      "question": "Branches",
+      "preferredVariantId": "v-8f77ec3be9",
+      "variants": [
+        {
+          "id": "v-fa8bfb5a16",
+          "answer": "In the hand contributes to deep palmar arch, princeps pollicis and radialis indicis arteries.",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-192",
+              "sourceLine": 192
+            }
+          ]
+        },
+        {
+          "id": "v-8f77ec3be9",
+          "answer": "Radial recurrent, palmar and dorsal carpal branches, superficial palmar branch, princeps pollicis and radialis indicis after entering hand.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-342",
+              "sourceLine": 342
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-222db0fc1c",
+      "question": "Supply",
+      "preferredVariantId": "v-186df5d00b",
+      "variants": [
+        {
+          "id": "v-89b0222c82",
+          "answer": "Major supply to deep palm, thumb and lateral index finger.",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-193",
+              "sourceLine": 193
+            }
+          ]
+        },
+        {
+          "id": "v-186df5d00b",
+          "answer": "Lateral forearm, wrist and hand; major contributor to deep palmar arch.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-343",
+              "sourceLine": 343
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-84240b1969",
+      "variants": [
+        {
+          "id": "v-84240b1969",
+          "answer": "Pulse palpable lateral to flexor carpi radialis tendon at wrist; artery crosses floor of anatomical snuffbox.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-344",
+              "sourceLine": 344
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "hand-model-ns13",
+      "section": "Arteries and nerves",
+      "path": [
+        "1"
+      ],
+      "label": "1"
+    },
+    {
+      "modelId": "upper-limb-model-ns15",
+      "section": "Arteries",
+      "path": [
+        "55"
+      ],
+      "label": "55"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "id": "hard-palate-8f81b6b8ed",
+  "name": "Hard palate",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Bones"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Musculoskeletal",
+    "Respiratory"
+  ],
+  "organs": [],
+  "tags": [
+    "BonyLandmark",
+    "BonyStructures",
+    "Function",
+    "NasalCavity",
+    "Relations",
+    "Structure"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-b3c01172c6",
+      "variants": [
+        {
+          "id": "v-b3c01172c6",
+          "answer": "Hard palate",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-42",
+              "sourceLine": 42
+            },
+            {
+              "modelId": "nose-and-nasal-cavity-model-fs3",
+              "cardId": "nose-and-nasal-cavity-model-fs3-184",
+              "sourceLine": 184
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-e3bf7a3f2c",
+      "variants": [
+        {
+          "id": "v-e3bf7a3f2c",
+          "answer": "Formed by palatine processes of maxillae anteriorly and horizontal plates of palatine bones posteriorly.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-43",
+              "sourceLine": 43
+            }
+          ]
+        },
+        {
+          "id": "v-33917dcc17",
+          "answer": "Formed by palatine processes of the maxillae and horizontal plates of the palatine bones.",
+          "sources": [
+            {
+              "modelId": "nose-and-nasal-cavity-model-fs3",
+              "cardId": "nose-and-nasal-cavity-model-fs3-185",
+              "sourceLine": 185
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-3df796f43b",
+      "variants": [
+        {
+          "id": "v-3df796f43b",
+          "answer": "Separates oral and nasal cavities and provides a rigid surface for mastication and speech.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-44",
+              "sourceLine": 44
+            }
+          ]
+        },
+        {
+          "id": "v-c2e7fabb06",
+          "answer": "Separates oral and nasal cavities.",
+          "sources": [
+            {
+              "modelId": "nose-and-nasal-cavity-model-fs3",
+              "cardId": "nose-and-nasal-cavity-model-fs3-186",
+              "sourceLine": 186
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-921bd06bda",
+      "variants": [
+        {
+          "id": "v-921bd06bda",
+          "answer": "Nasal cavity lies superiorly and oral cavity inferiorly.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-45",
+              "sourceLine": 45
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "half-head-and-neck-model-bs9",
+      "section": "Bony structures",
+      "path": [
+        "H"
+      ],
+      "label": "H"
+    },
+    {
+      "modelId": "nose-and-nasal-cavity-model-fs3",
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "path": [
+        "19"
+      ],
+      "label": "19"
+    }
+  ]
+}

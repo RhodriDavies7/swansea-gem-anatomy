@@ -1,0 +1,107 @@
+{
+  "id": "lacrimal-gland-37c44b2b7d",
+  "name": "Lacrimal gland",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Organs"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [],
+  "organs": [],
+  "tags": [
+    "Eye",
+    "Function",
+    "Gland",
+    "Innervation",
+    "Location"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-0c2c91512d",
+      "variants": [
+        {
+          "id": "v-0c2c91512d",
+          "answer": "Lacrimal gland",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-582",
+              "sourceLine": 582
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-8363edc04f",
+      "variants": [
+        {
+          "id": "v-8363edc04f",
+          "answer": "Superolateral orbit in lacrimal fossa.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-583",
+              "sourceLine": 583
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-cbf11a0e6c",
+      "variants": [
+        {
+          "id": "v-cbf11a0e6c",
+          "answer": "Produces aqueous component of tears.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-584",
+              "sourceLine": 584
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-07e5b57e45",
+      "variants": [
+        {
+          "id": "v-07e5b57e45",
+          "answer": "Parasympathetic secretomotor fibres originate from CN VII and reach the gland via pterygopalatine ganglion pathways.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-585",
+              "sourceLine": 585
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "head-and-neck-model-cs17-2",
+      "section": "Eye",
+      "path": [
+        "4"
+      ],
+      "label": "4"
+    }
+  ]
+}

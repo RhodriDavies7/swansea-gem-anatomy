@@ -1,0 +1,174 @@
+{
+  "id": "cricothyroid-joint-capsule-c9c5e54388",
+  "name": "Cricothyroid joint capsule",
+  "aliases": [
+    "Capsule of cricothyroid joint"
+  ],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Respiratory"
+  ],
+  "organs": [
+    "Larynx"
+  ],
+  "tags": [
+    "Function",
+    "JointCapsule",
+    "Larynx",
+    "Structure",
+    "MembranesLigaments"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-0fcbde1292",
+      "variants": [
+        {
+          "id": "v-0fcbde1292",
+          "answer": "Cricothyroid joint capsule",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-64",
+              "sourceLine": 64
+            }
+          ]
+        },
+        {
+          "id": "v-8c26831b52",
+          "answer": "Capsule of cricothyroid joint",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-73",
+              "sourceLine": 73
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-73",
+              "sourceLine": 73
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-bff2fe9a51",
+      "variants": [
+        {
+          "id": "v-32ec56087a",
+          "answer": "Fibrous capsule surrounding the synovial cricothyroid joint.",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-65",
+              "sourceLine": 65
+            }
+          ]
+        },
+        {
+          "id": "v-bff2fe9a51",
+          "answer": "Fibrous capsule enclosing the synovial articulation between inferior horn of thyroid cartilage and cricoid cartilage.",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-74",
+              "sourceLine": 74
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-74",
+              "sourceLine": 74
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-ce0b352901",
+      "variants": [
+        {
+          "id": "v-ce0b352901",
+          "answer": "Permits rotation and gliding that alter vocal-fold tension.",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-66",
+              "sourceLine": 66
+            }
+          ]
+        },
+        {
+          "id": "v-2d41d19e24",
+          "answer": "Allows rotation and gliding that alter vocal-fold tension.",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-75",
+              "sourceLine": 75
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-75",
+              "sourceLine": 75
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "larynx-and-tongue-model-gs4",
+      "section": "Larynx",
+      "path": [
+        "10"
+      ],
+      "label": "10"
+    },
+    {
+      "modelId": "larynx-model-gs7",
+      "section": "Membranes, ligaments and joints",
+      "path": [
+        "10"
+      ],
+      "label": "10"
+    },
+    {
+      "modelId": "larynx-and-airway-model-gs5",
+      "section": "Membranes, ligaments and joints",
+      "path": [
+        "10"
+      ],
+      "label": "10"
+    }
+  ],
+  "redirectIds": [
+    "capsule-of-cricothyroid-joint-19b71a2fcf"
+  ]
+}

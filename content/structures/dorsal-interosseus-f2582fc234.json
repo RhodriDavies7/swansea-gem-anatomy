@@ -1,0 +1,127 @@
+{
+  "id": "dorsal-interosseus-f2582fc234",
+  "name": "Dorsal interosseus",
+  "aliases": [],
+  "scope": "Upper limb",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-1e2e6a05ea",
+      "variants": [
+        {
+          "id": "v-1e2e6a05ea",
+          "answer": "Dorsal interosseus",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-216",
+              "sourceLine": 216
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-df13f26f6c",
+      "variants": [
+        {
+          "id": "v-df13f26f6c",
+          "answer": "Abduct digits 2–4 from the axial line through the middle finger; assist MCP flexion and IP extension.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-217",
+              "sourceLine": 217
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-5d580a350d",
+      "variants": [
+        {
+          "id": "v-5d580a350d",
+          "answer": "Deep branch of ulnar nerve (C8–T1).",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-218",
+              "sourceLine": 218
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-c9e01a26d7",
+      "variants": [
+        {
+          "id": "v-c9e01a26d7",
+          "answer": "Adjacent sides of metacarpals.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-219",
+              "sourceLine": 219
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-f23929cdfa",
+      "variants": [
+        {
+          "id": "v-f23929cdfa",
+          "answer": "Bases of proximal phalanges and extensor expansions of digits 2–4.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-220",
+              "sourceLine": 220
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "upper-limb-model-ns15",
+      "section": "Muscles",
+      "path": [
+        "36"
+      ],
+      "label": "36"
+    }
+  ]
+}

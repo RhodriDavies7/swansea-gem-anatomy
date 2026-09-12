@@ -1,0 +1,229 @@
+{
+  "id": "femur-28d8588aa4",
+  "name": "Femur",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Bones"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Articulations",
+    "Attachments",
+    "Bone",
+    "Bones",
+    "Function",
+    "Landmarks",
+    "Orientation"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-5b9fd93fc2",
+      "variants": [
+        {
+          "id": "v-5b9fd93fc2",
+          "answer": "Femur",
+          "sources": [
+            {
+              "modelId": "hip-joint-model-ns20",
+              "cardId": "hip-joint-model-ns20-21",
+              "sourceLine": 21
+            },
+            {
+              "modelId": "knee-joint-model-ns19",
+              "cardId": "knee-joint-model-ns19-3",
+              "sourceLine": 3
+            },
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-570",
+              "sourceLine": 570
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-a40bee8d10",
+      "question": "Articulations",
+      "preferredVariantId": "v-a9f58df149",
+      "variants": [
+        {
+          "id": "v-a9f58df149",
+          "answer": "Articulates proximally with acetabulum and distally with tibia and patella.",
+          "sources": [
+            {
+              "modelId": "hip-joint-model-ns20",
+              "cardId": "hip-joint-model-ns20-22",
+              "sourceLine": 22
+            }
+          ]
+        },
+        {
+          "id": "v-75c7ffb296",
+          "answer": "Distally articulates with tibia and patella at the knee joint.",
+          "sources": [
+            {
+              "modelId": "knee-joint-model-ns19",
+              "cardId": "knee-joint-model-ns19-4",
+              "sourceLine": 4
+            }
+          ]
+        },
+        {
+          "id": "v-ce0ac56450",
+          "answer": "Acetabulum at hip; tibia and patella at knee.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-571",
+              "sourceLine": 571
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-a1f984d484",
+      "variants": [
+        {
+          "id": "v-a1f984d484",
+          "answer": "Transmits body weight and acts as the major lever of the thigh.",
+          "sources": [
+            {
+              "modelId": "hip-joint-model-ns20",
+              "cardId": "hip-joint-model-ns20-23",
+              "sourceLine": 23
+            }
+          ]
+        },
+        {
+          "id": "v-eddc84ca92",
+          "answer": "Transmits body weight from hip to knee and provides attachment for major knee ligaments and muscles.",
+          "sources": [
+            {
+              "modelId": "knee-joint-model-ns19",
+              "cardId": "knee-joint-model-ns19-6",
+              "sourceLine": 6
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-626b6c1d45",
+      "question": "Landmarks",
+      "preferredVariantId": "v-5a44dab96c",
+      "variants": [
+        {
+          "id": "v-2017e5802d",
+          "answer": "Medial and lateral condyles, medial and lateral epicondyles, intercondylar fossa and patellar surface.",
+          "sources": [
+            {
+              "modelId": "knee-joint-model-ns19",
+              "cardId": "knee-joint-model-ns19-5",
+              "sourceLine": 5
+            }
+          ]
+        },
+        {
+          "id": "v-5a44dab96c",
+          "answer": "Head and fovea, neck, greater/lesser trochanters, intertrochanteric line/crest, gluteal tuberosity, linea aspera, condyles, epicondyles, adductor tubercle and intercondylar fossa.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-572",
+              "sourceLine": 572
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-2389607e0b",
+      "question": "Muscle attachments",
+      "preferredVariantId": "v-85aa8b2367",
+      "variants": [
+        {
+          "id": "v-85aa8b2367",
+          "answer": "Trochanters receive gluteal/short rotator/iliopsoas attachments; linea aspera receives adductors and origins of vasti/short biceps head; gastrocnemius and popliteus arise distally.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-573",
+              "sourceLine": 573
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-86e4e38754",
+      "question": "Orientation",
+      "preferredVariantId": "v-0deaec5274",
+      "variants": [
+        {
+          "id": "v-0deaec5274",
+          "answer": "Head points medially and slightly anteriorly; linea aspera and intercondylar fossa face posteriorly; patellar surface faces anteriorly. Position head toward the body midline to determine side.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-574",
+              "sourceLine": 574
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "hip-joint-model-ns20",
+      "section": "Bones and bony landmarks",
+      "path": [
+        "2"
+      ],
+      "label": "2"
+    },
+    {
+      "modelId": "knee-joint-model-ns19",
+      "section": "Bones",
+      "path": [
+        "1"
+      ],
+      "label": "1"
+    },
+    {
+      "modelId": "lower-limb-model-ns10",
+      "section": "Bones",
+      "path": [
+        "79"
+      ],
+      "label": "79"
+    }
+  ]
+}

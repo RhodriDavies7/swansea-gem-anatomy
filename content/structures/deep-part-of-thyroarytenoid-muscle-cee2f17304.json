@@ -1,0 +1,94 @@
+{
+  "id": "deep-part-of-thyroarytenoid-muscle-cee2f17304",
+  "name": "Deep part of thyroarytenoid muscle",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Musculoskeletal",
+    "Respiratory"
+  ],
+  "organs": [
+    "Larynx"
+  ],
+  "tags": [
+    "Function",
+    "MusclePart",
+    "Muscles"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-f715e12f4e",
+      "variants": [
+        {
+          "id": "v-f715e12f4e",
+          "answer": "Deep part of thyroarytenoid muscle",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-165",
+              "sourceLine": 165
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-165",
+              "sourceLine": 165
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-f08b76bbc7",
+      "variants": [
+        {
+          "id": "v-f08b76bbc7",
+          "answer": "Medial fibres contribute to fine adjustment of vocal-fold tension and are closely related to vocalis.",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-166",
+              "sourceLine": 166
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-166",
+              "sourceLine": 166
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "larynx-model-gs7",
+      "section": "Laryngeal and airway muscles",
+      "path": [
+        "22",
+        "a"
+      ],
+      "label": "22a"
+    },
+    {
+      "modelId": "larynx-and-airway-model-gs5",
+      "section": "Laryngeal and airway muscles",
+      "path": [
+        "22",
+        "a"
+      ],
+      "label": "22a"
+    }
+  ]
+}

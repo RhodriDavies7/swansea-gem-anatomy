@@ -1,0 +1,156 @@
+{
+  "id": "third-ventricle-058e5bb0e3",
+  "name": "Third ventricle",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [],
+  "organs": [],
+  "tags": [
+    "Connections",
+    "Function",
+    "Location",
+    "MidSagittal",
+    "MidlineStructures",
+    "Ventricle"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-59a84c402f",
+      "variants": [
+        {
+          "id": "v-59a84c402f",
+          "answer": "Third ventricle",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-332",
+              "sourceLine": 332
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-203",
+              "sourceLine": 203
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-4daf940f78",
+      "variants": [
+        {
+          "id": "v-4daf940f78",
+          "answer": "Midline cavity of diencephalon between the thalami.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-333",
+              "sourceLine": 333
+            }
+          ]
+        },
+        {
+          "id": "v-e4f5241247",
+          "answer": "Midline cavity of diencephalon between thalami.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-204",
+              "sourceLine": 204
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-8f3509b64e",
+      "question": "Connections",
+      "preferredVariantId": "v-f822b0d99f",
+      "variants": [
+        {
+          "id": "v-f822b0d99f",
+          "answer": "Communicates with lateral ventricles via interventricular foramina and fourth ventricle via cerebral aqueduct.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-334",
+              "sourceLine": 334
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-205",
+              "sourceLine": 205
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-12b05c747b",
+      "variants": [
+        {
+          "id": "v-12b05c747b",
+          "answer": "Contains and conducts cerebrospinal fluid.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-335",
+              "sourceLine": 335
+            }
+          ]
+        },
+        {
+          "id": "v-f72114d237",
+          "answer": "Contains and conducts CSF.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-206",
+              "sourceLine": 206
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "coronal-and-mid-sagittal-head-mb20",
+      "section": "Other midline structures",
+      "path": [
+        "18"
+      ],
+      "label": "18"
+    },
+    {
+      "modelId": "half-head-and-neck-model-bs9",
+      "section": "Other midline structures",
+      "path": [
+        "18"
+      ],
+      "label": "18"
+    }
+  ]
+}

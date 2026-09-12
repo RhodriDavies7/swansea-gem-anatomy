@@ -1,0 +1,147 @@
+{
+  "id": "calcaneal-or-achilles-tendon-c1d297419d",
+  "name": "Calcaneal (or Achilles) tendon",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Tendons"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Attachments",
+    "Clinical",
+    "Formation",
+    "Function",
+    "Relations",
+    "Tendon"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-9fc37f93e0",
+      "variants": [
+        {
+          "id": "v-9fc37f93e0",
+          "answer": "Calcaneal (or Achilles) tendon",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-208",
+              "sourceLine": 208
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c13b6a1fb1",
+      "question": "Formed by",
+      "preferredVariantId": "v-e50e60e975",
+      "variants": [
+        {
+          "id": "v-e50e60e975",
+          "answer": "Gastrocnemius and soleus tendons; plantaris usually runs separately alongside it.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-209",
+              "sourceLine": 209
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6771ade6e8",
+      "question": "Attachments",
+      "preferredVariantId": "v-39261c6179",
+      "variants": [
+        {
+          "id": "v-39261c6179",
+          "answer": "Triceps surae proximally; middle part of posterior calcaneal surface distally.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-210",
+              "sourceLine": 210
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-02e49dc91b",
+      "variants": [
+        {
+          "id": "v-02e49dc91b",
+          "answer": "Transmits force for plantarflexion and push-off.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-211",
+              "sourceLine": 211
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-d916a699fe",
+      "variants": [
+        {
+          "id": "v-d916a699fe",
+          "answer": "Superficial posterior ankle; retrocalcaneal bursa separates it from upper posterior calcaneus.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-212",
+              "sourceLine": 212
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-b03737e3cd",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-2d9ffb75f6",
+      "variants": [
+        {
+          "id": "v-2d9ffb75f6",
+          "answer": "Rupture impairs push-off; squeezing the calf fails to produce normal plantarflexion (Thompson test). Ankle jerk mainly tests S1 through the tibial nerve.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-213",
+              "sourceLine": 213
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "lower-limb-model-ns10",
+      "section": "Muscles",
+      "path": [
+        "24",
+        "24d"
+      ],
+      "label": "24d"
+    }
+  ]
+}

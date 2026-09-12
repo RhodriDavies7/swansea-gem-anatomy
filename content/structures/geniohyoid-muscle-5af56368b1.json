@@ -1,0 +1,348 @@
+{
+  "id": "geniohyoid-muscle-5af56368b1",
+  "name": "Geniohyoid muscle",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Musculoskeletal",
+    "Respiratory"
+  ],
+  "organs": [
+    "Larynx"
+  ],
+  "tags": [
+    "Action",
+    "Coronal",
+    "HeadNeck",
+    "Innervation",
+    "Insertion",
+    "MidSagittal",
+    "MidlineStructures",
+    "Muscle",
+    "Origin",
+    "Tongue"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-6d882f0880",
+      "variants": [
+        {
+          "id": "v-6d882f0880",
+          "answer": "Geniohyoid muscle",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-147",
+              "sourceLine": 147
+            },
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-417",
+              "sourceLine": 417
+            },
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-93",
+              "sourceLine": 93
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-307",
+              "sourceLine": 307
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-286",
+              "sourceLine": 286
+            },
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-248",
+              "sourceLine": 248
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-cef03ec5bd",
+      "variants": [
+        {
+          "id": "v-cef03ec5bd",
+          "answer": "Pulls hyoid anterosuperiorly and shortens floor of mouth; can assist mandibular depression.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-148",
+              "sourceLine": 148
+            }
+          ]
+        },
+        {
+          "id": "v-9ad5d48062",
+          "answer": "Pulls hyoid anterosuperiorly and assists mandibular depression.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-418",
+              "sourceLine": 418
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-308",
+              "sourceLine": 308
+            },
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-249",
+              "sourceLine": 249
+            }
+          ]
+        },
+        {
+          "id": "v-806723f7ec",
+          "answer": "Pulls the hyoid anterosuperiorly and shortens the floor of mouth; can assist mandibular depression.",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-94",
+              "sourceLine": 94
+            }
+          ]
+        },
+        {
+          "id": "v-981f828de2",
+          "answer": "Pulls hyoid anterosuperiorly; assists mandibular depression.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-287",
+              "sourceLine": 287
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-81bc60fc10",
+      "variants": [
+        {
+          "id": "v-81bc60fc10",
+          "answer": "C1 fibres travelling with hypoglossal nerve (CN XII).",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-149",
+              "sourceLine": 149
+            }
+          ]
+        },
+        {
+          "id": "v-5c19b33113",
+          "answer": "C1 fibres via hypoglossal nerve.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-419",
+              "sourceLine": 419
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-309",
+              "sourceLine": 309
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-288",
+              "sourceLine": 288
+            },
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-250",
+              "sourceLine": 250
+            }
+          ]
+        },
+        {
+          "id": "v-9bdd8aea6f",
+          "answer": "C1 fibres travelling with the hypoglossal nerve (CN XII).",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-95",
+              "sourceLine": 95
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-41939c2b8b",
+      "variants": [
+        {
+          "id": "v-41939c2b8b",
+          "answer": "Inferior mental spine of mandible.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-150",
+              "sourceLine": 150
+            },
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-420",
+              "sourceLine": 420
+            },
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-96",
+              "sourceLine": 96
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-310",
+              "sourceLine": 310
+            },
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-251",
+              "sourceLine": 251
+            }
+          ]
+        },
+        {
+          "id": "v-2397c36da3",
+          "answer": "Inferior mental spine.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-289",
+              "sourceLine": 289
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-e45633e7a3",
+      "variants": [
+        {
+          "id": "v-e45633e7a3",
+          "answer": "Body of hyoid.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-151",
+              "sourceLine": 151
+            },
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-421",
+              "sourceLine": 421
+            },
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-97",
+              "sourceLine": 97
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-311",
+              "sourceLine": 311
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-290",
+              "sourceLine": 290
+            },
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-252",
+              "sourceLine": 252
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "coronal-and-mid-sagittal-head-mb20",
+      "section": "Coronal head",
+      "path": [
+        "28"
+      ],
+      "label": "28"
+    },
+    {
+      "modelId": "coronal-and-mid-sagittal-head-mb20",
+      "section": "Other midline structures",
+      "path": [
+        "o"
+      ],
+      "label": "o"
+    },
+    {
+      "modelId": "deep-face-model-bs8-1",
+      "section": "",
+      "path": [
+        "16"
+      ],
+      "label": "16"
+    },
+    {
+      "modelId": "half-head-and-neck-model-bs9",
+      "section": "Other midline structures",
+      "path": [
+        "o"
+      ],
+      "label": "o"
+    },
+    {
+      "modelId": "head-and-neck-model-cs17-2",
+      "section": "Musculature of the head and neck",
+      "path": [
+        "47"
+      ],
+      "label": "47"
+    },
+    {
+      "modelId": "larynx-and-tongue-model-gs4",
+      "section": "Tongue",
+      "path": [
+        "9"
+      ],
+      "label": "9"
+    }
+  ]
+}

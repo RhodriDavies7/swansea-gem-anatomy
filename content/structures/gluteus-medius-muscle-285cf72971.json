@@ -1,0 +1,129 @@
+{
+  "id": "gluteus-medius-muscle-285cf72971",
+  "name": "Gluteus medius muscle",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Origin"
+  ],
+  "imageIds": [
+    "img-248f6118bd9f"
+  ],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-a3a2d8ab81",
+      "variants": [
+        {
+          "id": "v-a3a2d8ab81",
+          "answer": "Gluteus medius muscle",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-21",
+              "sourceLine": 21
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-dbee804af2",
+      "variants": [
+        {
+          "id": "v-dbee804af2",
+          "answer": "Abducts the hip; anterior fibres medially rotate it; holds the pelvis level during single-leg stance.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-22",
+              "sourceLine": 22
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-bf491ff3e4",
+      "variants": [
+        {
+          "id": "v-bf491ff3e4",
+          "answer": "Superior gluteal nerve (L4–S1).",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-23",
+              "sourceLine": 23
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-367bfb8a1a",
+      "variants": [
+        {
+          "id": "v-367bfb8a1a",
+          "answer": "External ilium between anterior and posterior gluteal lines.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-24",
+              "sourceLine": 24
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-3a6c912490",
+      "variants": [
+        {
+          "id": "v-3a6c912490",
+          "answer": "Lateral surface of greater trochanter.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-25",
+              "sourceLine": 25
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "lower-limb-model-ns10",
+      "section": "Muscles",
+      "path": [
+        "4"
+      ],
+      "label": "4"
+    }
+  ]
+}

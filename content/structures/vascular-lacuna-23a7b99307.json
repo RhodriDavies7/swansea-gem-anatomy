@@ -1,0 +1,108 @@
+{
+  "id": "vascular-lacuna-23a7b99307",
+  "name": "Vascular lacuna",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Pelvis"
+  ],
+  "systems": [
+    "Reproductive"
+  ],
+  "organs": [],
+  "tags": [
+    "Compartment",
+    "Contents",
+    "Location",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-5670881d1b",
+      "variants": [
+        {
+          "id": "v-5670881d1b",
+          "answer": "Vascular lacuna",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-240",
+              "sourceLine": 240
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-f4313b66e3",
+      "variants": [
+        {
+          "id": "v-f4313b66e3",
+          "answer": "Subinguinal space medial to the iliopectineal arch.",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-241",
+              "sourceLine": 241
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f5cbdf6bfb",
+      "question": "Contents",
+      "preferredVariantId": "v-d3bdc7d13c",
+      "variants": [
+        {
+          "id": "v-d3bdc7d13c",
+          "answer": "Femoral artery, femoral vein and femoral canal/lymphatics.",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-242",
+              "sourceLine": 242
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-755ece8918",
+      "variants": [
+        {
+          "id": "v-755ece8918",
+          "answer": "Separated from the muscular lacuna by the iliopectineal arch.",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-243",
+              "sourceLine": 243
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "male-reproductive-system-model-ms2",
+      "section": "",
+      "path": [
+        "27"
+      ],
+      "label": "27"
+    }
+  ]
+}

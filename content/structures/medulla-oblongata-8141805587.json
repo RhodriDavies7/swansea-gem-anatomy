@@ -1,0 +1,148 @@
+{
+  "id": "medulla-oblongata-8141805587",
+  "name": "Medulla oblongata",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [],
+  "tags": [
+    "Brain",
+    "CNS",
+    "Function",
+    "Location",
+    "MidSagittal",
+    "NervousStructures"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-b75bd7d954",
+      "variants": [
+        {
+          "id": "v-b75bd7d954",
+          "answer": "Medulla oblongata",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-254",
+              "sourceLine": 254
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-106",
+              "sourceLine": 106
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-615",
+              "sourceLine": 615
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-fa90524a3c",
+      "variants": [
+        {
+          "id": "v-fa90524a3c",
+          "answer": "Inferior brainstem between pons and spinal cord.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-255",
+              "sourceLine": 255
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-107",
+              "sourceLine": 107
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-616",
+              "sourceLine": 616
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-dd84532d27",
+      "variants": [
+        {
+          "id": "v-dd84532d27",
+          "answer": "Contains vital autonomic centres and pathways for cardiovascular, respiratory and reflex functions.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-256",
+              "sourceLine": 256
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-108",
+              "sourceLine": 108
+            }
+          ]
+        },
+        {
+          "id": "v-8134472406",
+          "answer": "Contains vital autonomic centres and ascending/descending pathways.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-617",
+              "sourceLine": 617
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "coronal-and-mid-sagittal-head-mb20",
+      "section": "Nervous structures",
+      "path": [
+        "E"
+      ],
+      "label": "E"
+    },
+    {
+      "modelId": "half-head-and-neck-model-bs9",
+      "section": "Nervous structures",
+      "path": [
+        "E"
+      ],
+      "label": "E"
+    },
+    {
+      "modelId": "head-and-neck-model-cs17-2",
+      "section": "Gross brain, meninges and venous structures (A–N)",
+      "path": [
+        "D"
+      ],
+      "label": "D"
+    }
+  ]
+}

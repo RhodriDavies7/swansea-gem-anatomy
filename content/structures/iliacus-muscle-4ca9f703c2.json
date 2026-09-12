@@ -1,0 +1,192 @@
+{
+  "id": "iliacus-muscle-4ca9f703c2",
+  "name": "Iliacus muscle",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Lower limb",
+    "Pelvis"
+  ],
+  "systems": [
+    "Musculoskeletal",
+    "Reproductive"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-efff52eee4",
+      "variants": [
+        {
+          "id": "v-efff52eee4",
+          "answer": "Iliacus muscle",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-80",
+              "sourceLine": 80
+            },
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-9",
+              "sourceLine": 9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-0d084352f2",
+      "variants": [
+        {
+          "id": "v-0d084352f2",
+          "answer": "Flexes the hip and assists lateral rotation; with psoas major forms iliopsoas.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-81",
+              "sourceLine": 81
+            }
+          ]
+        },
+        {
+          "id": "v-e1c6642873",
+          "answer": "Flexes the hip and stabilises the hip joint.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-10",
+              "sourceLine": 10
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-bf46229cc8",
+      "variants": [
+        {
+          "id": "v-bf46229cc8",
+          "answer": "Femoral nerve (L2–L3).",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-82",
+              "sourceLine": 82
+            },
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-11",
+              "sourceLine": 11
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-f4ac337c74",
+      "variants": [
+        {
+          "id": "v-f4ac337c74",
+          "answer": "Iliac fossa and inner lip of iliac crest.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-83",
+              "sourceLine": 83
+            }
+          ]
+        },
+        {
+          "id": "v-d365d27d58",
+          "answer": "Iliac fossa, inner lip of iliac crest, ala of sacrum and anterior sacroiliac ligaments.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-12",
+              "sourceLine": 12
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-7284f353ac",
+      "variants": [
+        {
+          "id": "v-caf45c91d5",
+          "answer": "Lesser trochanter via iliopsoas tendon.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-84",
+              "sourceLine": 84
+            }
+          ]
+        },
+        {
+          "id": "v-7284f353ac",
+          "answer": "Lesser trochanter and adjacent femur through and beside the iliopsoas tendon.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-13",
+              "sourceLine": 13
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "female-pelvis-model-mo8",
+      "section": "",
+      "path": [
+        "14"
+      ],
+      "label": "14"
+    },
+    {
+      "modelId": "lower-limb-model-ns10",
+      "section": "Muscles",
+      "path": [
+        "2"
+      ],
+      "label": "2"
+    }
+  ]
+}

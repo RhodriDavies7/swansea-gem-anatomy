@@ -1,0 +1,143 @@
+{
+  "id": "cerebellum-d2881c36c4",
+  "name": "Cerebellum",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [],
+  "tags": [
+    "Brain",
+    "CNS",
+    "Function",
+    "MidSagittal",
+    "MidlineStructures",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-9c70c0c7a2",
+      "variants": [
+        {
+          "id": "v-9c70c0c7a2",
+          "answer": "Cerebellum",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-319",
+              "sourceLine": 319
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-186",
+              "sourceLine": 186
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-611",
+              "sourceLine": 611
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-5c30420b07",
+      "variants": [
+        {
+          "id": "v-5c30420b07",
+          "answer": "Coordinates movement, balance, posture and motor learning.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-320",
+              "sourceLine": 320
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-187",
+              "sourceLine": 187
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-612",
+              "sourceLine": 612
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-579f06aef8",
+      "variants": [
+        {
+          "id": "v-579f06aef8",
+          "answer": "Posterior to pons and medulla, inferior to tentorium cerebelli.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-321",
+              "sourceLine": 321
+            }
+          ]
+        },
+        {
+          "id": "v-727733537f",
+          "answer": "Posterior to pons/medulla and inferior to tentorium cerebelli.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-188",
+              "sourceLine": 188
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "coronal-and-mid-sagittal-head-mb20",
+      "section": "Other midline structures",
+      "path": [
+        "15"
+      ],
+      "label": "15"
+    },
+    {
+      "modelId": "half-head-and-neck-model-bs9",
+      "section": "Other midline structures",
+      "path": [
+        "15"
+      ],
+      "label": "15"
+    },
+    {
+      "modelId": "head-and-neck-model-cs17-2",
+      "section": "Gross brain, meninges and venous structures (A–N)",
+      "path": [
+        "C"
+      ],
+      "label": "C"
+    }
+  ]
+}

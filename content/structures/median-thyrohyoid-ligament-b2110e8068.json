@@ -1,0 +1,124 @@
+{
+  "id": "median-thyrohyoid-ligament-b2110e8068",
+  "name": "Median thyrohyoid ligament",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Ligaments"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Attachments",
+    "Function",
+    "LaryngealStructures",
+    "Ligament",
+    "MidSagittal"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-e6258bdc0c",
+      "variants": [
+        {
+          "id": "v-e6258bdc0c",
+          "answer": "Median thyrohyoid ligament",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-455",
+              "sourceLine": 455
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-351",
+              "sourceLine": 351
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6771ade6e8",
+      "question": "Attachments",
+      "preferredVariantId": "v-7576267c6a",
+      "variants": [
+        {
+          "id": "v-7576267c6a",
+          "answer": "Extends between superior border of thyroid cartilage and hyoid bone in the midline.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-456",
+              "sourceLine": 456
+            }
+          ]
+        },
+        {
+          "id": "v-4b3805f437",
+          "answer": "Between superior border of thyroid cartilage and hyoid in midline.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-352",
+              "sourceLine": 352
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-b675e77c5f",
+      "variants": [
+        {
+          "id": "v-b675e77c5f",
+          "answer": "Contributes to suspension of larynx from hyoid.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-457",
+              "sourceLine": 457
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-353",
+              "sourceLine": 353
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "coronal-and-mid-sagittal-head-mb20",
+      "section": "Laryngeal structures",
+      "path": [
+        "IV"
+      ],
+      "label": "IV"
+    },
+    {
+      "modelId": "half-head-and-neck-model-bs9",
+      "section": "Laryngeal structures",
+      "path": [
+        "IV"
+      ],
+      "label": "IV"
+    }
+  ]
+}

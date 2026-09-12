@@ -1,0 +1,109 @@
+{
+  "id": "pubofemoral-ligament-7f35523374",
+  "name": "Pubofemoral ligament",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Ligaments"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Attachments",
+    "Function",
+    "Ligament",
+    "LigamentsAndJoint",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-c8bbb43e56",
+      "variants": [
+        {
+          "id": "v-c8bbb43e56",
+          "answer": "Pubofemoral ligament",
+          "sources": [
+            {
+              "modelId": "hip-joint-model-ns20",
+              "cardId": "hip-joint-model-ns20-54",
+              "sourceLine": 54
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6771ade6e8",
+      "question": "Attachments",
+      "preferredVariantId": "v-3715ef4dd2",
+      "variants": [
+        {
+          "id": "v-3715ef4dd2",
+          "answer": "From pubic part of acetabular rim and superior pubic ramus to inferior capsule/intertrochanteric region.",
+          "sources": [
+            {
+              "modelId": "hip-joint-model-ns20",
+              "cardId": "hip-joint-model-ns20-55",
+              "sourceLine": 55
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-b08a0481c7",
+      "variants": [
+        {
+          "id": "v-b08a0481c7",
+          "answer": "Limits excessive abduction and extension of the hip.",
+          "sources": [
+            {
+              "modelId": "hip-joint-model-ns20",
+              "cardId": "hip-joint-model-ns20-56",
+              "sourceLine": 56
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-b9a4b9b7fb",
+      "variants": [
+        {
+          "id": "v-b9a4b9b7fb",
+          "answer": "Reinforces the inferomedial part of the joint capsule.",
+          "sources": [
+            {
+              "modelId": "hip-joint-model-ns20",
+              "cardId": "hip-joint-model-ns20-57",
+              "sourceLine": 57
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "hip-joint-model-ns20",
+      "section": "Ligaments and joint structures",
+      "path": [
+        "5"
+      ],
+      "label": "5"
+    }
+  ]
+}

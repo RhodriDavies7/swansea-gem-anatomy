@@ -1,0 +1,384 @@
+{
+  "id": "inferior-vena-cava-12a0b3ae11",
+  "name": "Inferior vena cava",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Veins"
+  ],
+  "regions": [
+    "Abdomen",
+    "Head and neck",
+    "Pelvis",
+    "Thorax"
+  ],
+  "systems": [
+    "Cardiovascular",
+    "Digestive",
+    "Reproductive",
+    "Respiratory",
+    "Urinary"
+  ],
+  "organs": [
+    "Heart",
+    "Larynx",
+    "Liver"
+  ],
+  "tags": [
+    "AuriclesVesselsValves",
+    "CardiacVesselsValves",
+    "Course",
+    "Drainage",
+    "Formation",
+    "MajorVesselsAndGlands",
+    "Relations",
+    "Vein",
+    "Vessels"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-1e117bb53f",
+      "variants": [
+        {
+          "id": "v-1e117bb53f",
+          "answer": "Inferior vena cava",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-288",
+              "sourceLine": 288
+            },
+            {
+              "modelId": "heart-model-hs5",
+              "cardId": "heart-model-hs5-65",
+              "sourceLine": 65
+            },
+            {
+              "modelId": "liver-js5",
+              "cardId": "liver-js5-96",
+              "sourceLine": 96
+            },
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-170",
+              "sourceLine": 170
+            },
+            {
+              "modelId": "urinary-system-model-ls3-1",
+              "cardId": "urinary-system-model-ls3-1-92",
+              "sourceLine": 92
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-bc0bd86b8f",
+      "question": "Formation",
+      "preferredVariantId": "v-a18f53f900",
+      "variants": [
+        {
+          "id": "v-a18f53f900",
+          "answer": "Formed by union of right and left common iliac veins, usually at L5.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-289",
+              "sourceLine": 289
+            }
+          ]
+        },
+        {
+          "id": "v-6732f552f0",
+          "answer": "Formed by union of the common iliac veins, usually at L5.",
+          "sources": [
+            {
+              "modelId": "heart-model-hs5",
+              "cardId": "heart-model-hs5-66",
+              "sourceLine": 66
+            },
+            {
+              "modelId": "liver-js5",
+              "cardId": "liver-js5-97",
+              "sourceLine": 97
+            },
+            {
+              "modelId": "urinary-system-model-ls3-1",
+              "cardId": "urinary-system-model-ls3-1-93",
+              "sourceLine": 93
+            }
+          ]
+        },
+        {
+          "id": "v-615101a993",
+          "answer": "Formed by union of common iliac veins.",
+          "sources": [
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-171",
+              "sourceLine": 171
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "curated-c094d6b58b",
+      "variants": [
+        {
+          "id": "v-31cf9e3278",
+          "answer": "Ascends on the right side of the vertebral column.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-290",
+              "sourceLine": 290
+            }
+          ]
+        },
+        {
+          "id": "v-1b866462df",
+          "answer": "Ascends through the diaphragm at T8 and enters the inferior aspect of the right atrium.",
+          "sources": [
+            {
+              "modelId": "heart-model-hs5",
+              "cardId": "heart-model-hs5-67",
+              "sourceLine": 67
+            }
+          ]
+        },
+        {
+          "id": "v-750ba8be73",
+          "answer": "Ascends on the right side of the vertebral column and runs in a groove on the posterior liver before passing through the diaphragm.",
+          "sources": [
+            {
+              "modelId": "liver-js5",
+              "cardId": "liver-js5-98",
+              "sourceLine": 98
+            }
+          ]
+        },
+        {
+          "id": "v-3a7b775f2d",
+          "answer": "Passes through diaphragm at T8 and enters right atrium.",
+          "sources": [
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-172",
+              "sourceLine": 172
+            }
+          ]
+        },
+        {
+          "id": "v-a8726de1f3",
+          "answer": "Ascends to the right of the abdominal aorta and passes through the diaphragm at T8.",
+          "sources": [
+            {
+              "modelId": "urinary-system-model-ls3-1",
+              "cardId": "urinary-system-model-ls3-1-94",
+              "sourceLine": 94
+            }
+          ]
+        },
+        {
+          "id": "curated-c094d6b58b",
+          "answer": "Ascends to the right of the abdominal aorta, grooves the posterior liver and passes through the diaphragm at T8 to enter the right atrium.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-290",
+              "sourceLine": 290
+            },
+            {
+              "modelId": "heart-model-hs5",
+              "cardId": "heart-model-hs5-67",
+              "sourceLine": 67
+            },
+            {
+              "modelId": "liver-js5",
+              "cardId": "liver-js5-98",
+              "sourceLine": 98
+            },
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-172",
+              "sourceLine": 172
+            },
+            {
+              "modelId": "urinary-system-model-ls3-1",
+              "cardId": "urinary-system-model-ls3-1-94",
+              "sourceLine": 94
+            }
+          ],
+          "editorial": true
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-74a64b1943",
+      "question": "Drainage",
+      "preferredVariantId": "curated-b3648a8483",
+      "variants": [
+        {
+          "id": "v-0fb0786517",
+          "answer": "Returns venous blood from lower limbs, pelvis and abdomen to the right atrium.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-291",
+              "sourceLine": 291
+            }
+          ]
+        },
+        {
+          "id": "v-4a45316979",
+          "answer": "Returns venous blood from structures below the diaphragm.",
+          "sources": [
+            {
+              "modelId": "heart-model-hs5",
+              "cardId": "heart-model-hs5-68",
+              "sourceLine": 68
+            },
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-173",
+              "sourceLine": 173
+            }
+          ]
+        },
+        {
+          "id": "v-0f1dfb6e3b",
+          "answer": "Receives hepatic veins draining blood from the liver.",
+          "sources": [
+            {
+              "modelId": "liver-js5",
+              "cardId": "liver-js5-99",
+              "sourceLine": 99
+            }
+          ]
+        },
+        {
+          "id": "v-194ab2aca4",
+          "answer": "Receives renal veins and returns systemic venous blood to the right atrium.",
+          "sources": [
+            {
+              "modelId": "urinary-system-model-ls3-1",
+              "cardId": "urinary-system-model-ls3-1-95",
+              "sourceLine": 95
+            }
+          ]
+        },
+        {
+          "id": "curated-b3648a8483",
+          "answer": "Returns venous blood from below the diaphragm to the right atrium, including blood from the lower limbs, pelvis, kidneys and liver.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-291",
+              "sourceLine": 291
+            },
+            {
+              "modelId": "heart-model-hs5",
+              "cardId": "heart-model-hs5-68",
+              "sourceLine": 68
+            },
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-173",
+              "sourceLine": 173
+            },
+            {
+              "modelId": "liver-js5",
+              "cardId": "liver-js5-99",
+              "sourceLine": 99
+            },
+            {
+              "modelId": "urinary-system-model-ls3-1",
+              "cardId": "urinary-system-model-ls3-1-95",
+              "sourceLine": 95
+            }
+          ],
+          "editorial": true
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-49e1e1d0a9",
+      "variants": [
+        {
+          "id": "v-49e1e1d0a9",
+          "answer": "Closely related to the caudate lobe and posterior surface of the liver.",
+          "sources": [
+            {
+              "modelId": "liver-js5",
+              "cardId": "liver-js5-100",
+              "sourceLine": 100
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "female-pelvis-model-mo8",
+      "section": "",
+      "path": [
+        "35"
+      ],
+      "label": "35"
+    },
+    {
+      "modelId": "heart-model-hs5",
+      "section": "Auricles, great vessels and valves",
+      "path": [
+        "d"
+      ],
+      "label": "d"
+    },
+    {
+      "modelId": "liver-js5",
+      "section": "Vessels",
+      "path": [
+        "20"
+      ],
+      "label": "20"
+    },
+    {
+      "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+      "section": "Cardiac vessels and valves",
+      "path": [
+        "23"
+      ],
+      "label": "23"
+    },
+    {
+      "modelId": "urinary-system-model-ls3-1",
+      "section": "Suprarenal gland and major vessels",
+      "path": [
+        "11"
+      ],
+      "label": "11"
+    }
+  ]
+}

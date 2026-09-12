@@ -1,0 +1,111 @@
+{
+  "id": "styloid-process-ce260e8cc2",
+  "name": "Styloid process",
+  "aliases": [],
+  "scope": "Head and neck",
+  "kind": "structure",
+  "types": [
+    "Bones"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [
+    "Ear"
+  ],
+  "tags": [
+    "Attachments",
+    "Bone",
+    "BonyLandmark",
+    "Relations",
+    "TemporalBone"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-2b3f1e522e",
+      "variants": [
+        {
+          "id": "v-2b3f1e522e",
+          "answer": "Styloid process",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-102",
+              "sourceLine": 102
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-bcf605d6bb",
+      "question": "Bone",
+      "preferredVariantId": "v-8a9f74fe55",
+      "variants": [
+        {
+          "id": "v-8a9f74fe55",
+          "answer": "Temporal bone.",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-103",
+              "sourceLine": 103
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6771ade6e8",
+      "question": "Attachments",
+      "preferredVariantId": "v-ce7765af23",
+      "variants": [
+        {
+          "id": "v-ce7765af23",
+          "answer": "Gives attachment to styloglossus, stylohyoid and stylopharyngeus muscles and to stylohyoid and stylomandibular ligaments.",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-104",
+              "sourceLine": 104
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-27099c81c3",
+      "variants": [
+        {
+          "id": "v-27099c81c3",
+          "answer": "Slender projection extending inferiorly from temporal bone.",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-105",
+              "sourceLine": 105
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "ear-largest-model-ds1",
+      "section": "B. Temporal bone",
+      "path": [
+        "19"
+      ],
+      "label": "19"
+    }
+  ]
+}

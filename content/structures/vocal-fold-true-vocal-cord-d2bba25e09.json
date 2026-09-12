@@ -1,0 +1,305 @@
+{
+  "id": "vocal-fold-true-vocal-cord-d2bba25e09",
+  "name": "Vocal fold (true vocal cord)",
+  "aliases": [
+    "Vocal fold"
+  ],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Respiratory"
+  ],
+  "organs": [
+    "Larynx"
+  ],
+  "tags": [
+    "Clinical",
+    "Function",
+    "Innervation",
+    "InternalLarynx",
+    "LaryngealFold",
+    "Structure",
+    "LaryngealStructures",
+    "MidSagittal"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-3a12c16d98",
+      "variants": [
+        {
+          "id": "v-3a12c16d98",
+          "answer": "Vocal fold (true vocal cord)",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-254",
+              "sourceLine": 254
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-254",
+              "sourceLine": 254
+            }
+          ]
+        },
+        {
+          "id": "v-5a0b923635",
+          "answer": "Vocal fold",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-470",
+              "sourceLine": 470
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-369",
+              "sourceLine": 369
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-68f3b0ff86",
+      "variants": [
+        {
+          "id": "v-68f3b0ff86",
+          "answer": "Contains the vocal ligament and vocalis muscle, covered by mucosa.",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-255",
+              "sourceLine": 255
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-255",
+              "sourceLine": 255
+            }
+          ]
+        },
+        {
+          "id": "v-39ed937458",
+          "answer": "Mucosal fold containing vocal ligament and vocalis muscle.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-471",
+              "sourceLine": 471
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-370",
+              "sourceLine": 370
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-6a205bad84",
+      "variants": [
+        {
+          "id": "v-6a205bad84",
+          "answer": "Vibrates during phonation and closes the glottis for airway protection.",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-256",
+              "sourceLine": 256
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-256",
+              "sourceLine": 256
+            }
+          ]
+        },
+        {
+          "id": "v-ee6f5afdb0",
+          "answer": "Vibrates for phonation and closes the glottis for airway protection.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-472",
+              "sourceLine": 472
+            }
+          ]
+        },
+        {
+          "id": "v-c85fd5f05a",
+          "answer": "Vibrates for phonation and closes glottis for airway protection.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-371",
+              "sourceLine": 371
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "curated-c164045de9",
+      "variants": [
+        {
+          "id": "v-342eef9b0e",
+          "answer": "Motor control via recurrent laryngeal nerve except cricothyroid tensioning via external superior laryngeal nerve.",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-257",
+              "sourceLine": 257
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-257",
+              "sourceLine": 257
+            }
+          ]
+        },
+        {
+          "id": "v-34eaad698c",
+          "answer": "Motor control of intrinsic laryngeal muscles mainly via recurrent laryngeal nerve; sensory below folds via recurrent laryngeal nerve.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-473",
+              "sourceLine": 473
+            }
+          ]
+        },
+        {
+          "id": "v-3fe251e535",
+          "answer": "Intrinsic laryngeal motor control mainly via recurrent laryngeal nerve; sensory below fold via recurrent laryngeal nerve.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-372",
+              "sourceLine": 372
+            }
+          ]
+        },
+        {
+          "id": "curated-c164045de9",
+          "answer": "Vocal-fold movement: recurrent laryngeal nerve. Cricothyroid tensioning: external branch of superior laryngeal nerve. Sensation below the folds: recurrent laryngeal nerve.",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-257",
+              "sourceLine": 257
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-257",
+              "sourceLine": 257
+            },
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-473",
+              "sourceLine": 473
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-372",
+              "sourceLine": 372
+            }
+          ],
+          "editorial": true
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-b03737e3cd",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-635cc24b99",
+      "variants": [
+        {
+          "id": "v-635cc24b99",
+          "answer": "Impaired mobility causes dysphonia; bilateral dysfunction can threaten the airway.",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-258",
+              "sourceLine": 258
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-258",
+              "sourceLine": 258
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "larynx-model-gs7",
+      "section": "Internal laryngeal structures and mucosa",
+      "path": [
+        "33"
+      ],
+      "label": "33"
+    },
+    {
+      "modelId": "larynx-and-airway-model-gs5",
+      "section": "Internal laryngeal structures and mucosa",
+      "path": [
+        "33"
+      ],
+      "label": "33"
+    },
+    {
+      "modelId": "coronal-and-mid-sagittal-head-mb20",
+      "section": "Laryngeal structures",
+      "path": [
+        "VII"
+      ],
+      "label": "VII"
+    },
+    {
+      "modelId": "half-head-and-neck-model-bs9",
+      "section": "Laryngeal structures",
+      "path": [
+        "VII"
+      ],
+      "label": "VII"
+    }
+  ],
+  "redirectIds": [
+    "vocal-fold-8b669e1c72"
+  ]
+}

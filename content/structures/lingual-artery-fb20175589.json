@@ -1,0 +1,240 @@
+{
+  "id": "lingual-artery-fb20175589",
+  "name": "Lingual artery",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Arteries"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Cardiovascular",
+    "Respiratory"
+  ],
+  "organs": [
+    "Larynx"
+  ],
+  "tags": [
+    "Artery",
+    "BloodVesselsAndNerves",
+    "Branches",
+    "Course",
+    "HeadNeck",
+    "Origin",
+    "Supply",
+    "Tongue"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-5019be181b",
+      "variants": [
+        {
+          "id": "v-5019be181b",
+          "answer": "Lingual artery",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-656",
+              "sourceLine": 656
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-421",
+              "sourceLine": 421
+            },
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-286",
+              "sourceLine": 286
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-5ef00ee00c",
+      "variants": [
+        {
+          "id": "v-5ef00ee00c",
+          "answer": "External carotid artery.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-657",
+              "sourceLine": 657
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-422",
+              "sourceLine": 422
+            }
+          ]
+        },
+        {
+          "id": "v-3638cc01c3",
+          "answer": "Branch of the external carotid artery.",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-287",
+              "sourceLine": 287
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-7c5ed23eb3",
+      "variants": [
+        {
+          "id": "v-7c5ed23eb3",
+          "answer": "Passes deep to hyoglossus toward tongue.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-658",
+              "sourceLine": 658
+            }
+          ]
+        },
+        {
+          "id": "v-ac59f40ac3",
+          "answer": "Runs deep to hyoglossus toward tongue.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-423",
+              "sourceLine": 423
+            }
+          ]
+        },
+        {
+          "id": "v-a27cef250d",
+          "answer": "Passes deep to hyoglossus and enters the tongue.",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-288",
+              "sourceLine": 288
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-222db0fc1c",
+      "question": "Supply",
+      "preferredVariantId": "v-e762f95efd",
+      "variants": [
+        {
+          "id": "v-e762f95efd",
+          "answer": "Tongue and floor of mouth.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-659",
+              "sourceLine": 659
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-425",
+              "sourceLine": 425
+            }
+          ]
+        },
+        {
+          "id": "v-02b2beea73",
+          "answer": "Supplies tongue and floor of mouth.",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-290",
+              "sourceLine": 290
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-f578227926",
+      "question": "Branches",
+      "preferredVariantId": "v-04bc534531",
+      "variants": [
+        {
+          "id": "v-04bc534531",
+          "answer": "Dorsal lingual, sublingual and deep lingual branches.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-424",
+              "sourceLine": 424
+            }
+          ]
+        },
+        {
+          "id": "v-2c75229058",
+          "answer": "Includes dorsal lingual, sublingual and deep lingual arteries.",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-289",
+              "sourceLine": 289
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "half-head-and-neck-model-bs9",
+      "section": "Blood vessels and nerves",
+      "path": [
+        "60"
+      ],
+      "label": "60"
+    },
+    {
+      "modelId": "head-and-neck-model-cs17-2",
+      "section": "Arteries",
+      "path": [
+        "66"
+      ],
+      "label": "66"
+    },
+    {
+      "modelId": "larynx-and-tongue-model-gs4",
+      "section": "Tongue",
+      "path": [
+        "14"
+      ],
+      "label": "14"
+    }
+  ]
+}

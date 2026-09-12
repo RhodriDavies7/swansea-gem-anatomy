@@ -1,0 +1,110 @@
+{
+  "id": "vorticose-vein-3a503d7664",
+  "name": "Vorticose vein",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Veins"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Cardiovascular"
+  ],
+  "organs": [
+    "Eye"
+  ],
+  "tags": [
+    "Drainage",
+    "Location",
+    "Relations",
+    "Vein"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-9926b54223",
+      "variants": [
+        {
+          "id": "v-9926b54223",
+          "answer": "Vorticose vein",
+          "sources": [
+            {
+              "modelId": "eyeball-model-cs7",
+              "cardId": "eyeball-model-cs7-120",
+              "sourceLine": 120
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-71bd1fb53d",
+      "variants": [
+        {
+          "id": "v-71bd1fb53d",
+          "answer": "Large veins draining the choroid and exiting obliquely through the posterior sclera.",
+          "sources": [
+            {
+              "modelId": "eyeball-model-cs7",
+              "cardId": "eyeball-model-cs7-121",
+              "sourceLine": 121
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-74a64b1943",
+      "question": "Drainage",
+      "preferredVariantId": "v-c6214d68ce",
+      "variants": [
+        {
+          "id": "v-c6214d68ce",
+          "answer": "Drain the choroidal circulation into ophthalmic veins.",
+          "sources": [
+            {
+              "modelId": "eyeball-model-cs7",
+              "cardId": "eyeball-model-cs7-122",
+              "sourceLine": 122
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-c5ea456293",
+      "variants": [
+        {
+          "id": "v-c5ea456293",
+          "answer": "Typically several vorticose veins are distributed around the posterior globe.",
+          "sources": [
+            {
+              "modelId": "eyeball-model-cs7",
+              "cardId": "eyeball-model-cs7-123",
+              "sourceLine": 123
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "eyeball-model-cs7",
+      "section": "",
+      "path": [
+        "19"
+      ],
+      "label": "19"
+    }
+  ]
+}

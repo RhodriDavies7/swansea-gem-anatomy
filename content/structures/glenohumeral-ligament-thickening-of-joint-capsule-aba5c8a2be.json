@@ -1,0 +1,127 @@
+{
+  "id": "glenohumeral-ligament-thickening-of-joint-capsule-aba5c8a2be",
+  "name": "Glenohumeral ligament (thickening of joint capsule)",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Ligaments"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Attachments",
+    "Clinical",
+    "Function",
+    "Ligament",
+    "Parts"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-7e7f2da88e",
+      "variants": [
+        {
+          "id": "v-7e7f2da88e",
+          "answer": "Glenohumeral ligament (thickening of joint capsule)",
+          "sources": [
+            {
+              "modelId": "deep-shoulder-model-ns17",
+              "cardId": "deep-shoulder-model-ns17-44",
+              "sourceLine": 44
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6771ade6e8",
+      "question": "Attachments",
+      "preferredVariantId": "v-ff3fd100c6",
+      "variants": [
+        {
+          "id": "v-ff3fd100c6",
+          "answer": "Capsular thickenings extending from the glenoid/labrum region to the anatomical neck of the humerus.",
+          "sources": [
+            {
+              "modelId": "deep-shoulder-model-ns17",
+              "cardId": "deep-shoulder-model-ns17-45",
+              "sourceLine": 45
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-e374280917",
+      "question": "Parts",
+      "preferredVariantId": "v-843d8039f3",
+      "variants": [
+        {
+          "id": "v-843d8039f3",
+          "answer": "Superior, middle and inferior glenohumeral ligaments.",
+          "sources": [
+            {
+              "modelId": "deep-shoulder-model-ns17",
+              "cardId": "deep-shoulder-model-ns17-46",
+              "sourceLine": 46
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-1df057c423",
+      "variants": [
+        {
+          "id": "v-1df057c423",
+          "answer": "Reinforces the anterior glenohumeral capsule and limits excessive translation depending on arm position.",
+          "sources": [
+            {
+              "modelId": "deep-shoulder-model-ns17",
+              "cardId": "deep-shoulder-model-ns17-47",
+              "sourceLine": 47
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-b03737e3cd",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-16a76da29d",
+      "variants": [
+        {
+          "id": "v-16a76da29d",
+          "answer": "The inferior glenohumeral ligament complex is particularly important in resisting anterior dislocation.",
+          "sources": [
+            {
+              "modelId": "deep-shoulder-model-ns17",
+              "cardId": "deep-shoulder-model-ns17-48",
+              "sourceLine": 48
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "deep-shoulder-model-ns17",
+      "section": "",
+      "path": [
+        "7"
+      ],
+      "label": "7"
+    }
+  ]
+}

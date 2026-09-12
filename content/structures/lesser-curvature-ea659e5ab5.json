@@ -1,0 +1,111 @@
+{
+  "id": "lesser-curvature-ea659e5ab5",
+  "name": "Lesser curvature",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Abdomen"
+  ],
+  "systems": [
+    "Digestive"
+  ],
+  "organs": [
+    "Stomach"
+  ],
+  "tags": [
+    "Attachments",
+    "BloodSupply",
+    "Location",
+    "RegionsAndLandmarks",
+    "StomachLandmark"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-84bba468c9",
+      "variants": [
+        {
+          "id": "v-84bba468c9",
+          "answer": "Lesser curvature",
+          "sources": [
+            {
+              "modelId": "stomach-model-ns15",
+              "cardId": "stomach-model-ns15-15",
+              "sourceLine": 15
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-83ea582636",
+      "variants": [
+        {
+          "id": "v-83ea582636",
+          "answer": "Short, concave medial border of the stomach.",
+          "sources": [
+            {
+              "modelId": "stomach-model-ns15",
+              "cardId": "stomach-model-ns15-16",
+              "sourceLine": 16
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6771ade6e8",
+      "question": "Attachments",
+      "preferredVariantId": "v-fba3fa8196",
+      "variants": [
+        {
+          "id": "v-fba3fa8196",
+          "answer": "Gives attachment to the lesser omentum.",
+          "sources": [
+            {
+              "modelId": "stomach-model-ns15",
+              "cardId": "stomach-model-ns15-17",
+              "sourceLine": 17
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-af779333e2",
+      "question": "Vessels",
+      "preferredVariantId": "v-885629b30d",
+      "variants": [
+        {
+          "id": "v-885629b30d",
+          "answer": "Left and right gastric arteries run along it.",
+          "sources": [
+            {
+              "modelId": "stomach-model-ns15",
+              "cardId": "stomach-model-ns15-18",
+              "sourceLine": 18
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "stomach-model-ns15",
+      "section": "Regions and external landmarks",
+      "path": [
+        "3"
+      ],
+      "label": "3"
+    }
+  ]
+}

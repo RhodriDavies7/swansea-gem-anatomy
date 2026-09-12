@@ -1,0 +1,132 @@
+{
+  "id": "papillary-muscles-d7634d4e8a",
+  "name": "Papillary muscles",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Thorax"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [
+    "Heart"
+  ],
+  "tags": [
+    "Action",
+    "Clinical",
+    "Function",
+    "InternalCoronary",
+    "Muscle",
+    "Relations"
+  ],
+  "imageIds": [
+    "img-b705c4a4760a"
+  ],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-3c8415b158",
+      "variants": [
+        {
+          "id": "v-3c8415b158",
+          "answer": "Papillary muscles",
+          "sources": [
+            {
+              "modelId": "heart-model-hs5",
+              "cardId": "heart-model-hs5-117",
+              "sourceLine": 117
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-1c293187f1",
+      "variants": [
+        {
+          "id": "v-1c293187f1",
+          "answer": "Contract during ventricular systole to tense chordae tendineae and stabilise AV valve cusps.",
+          "sources": [
+            {
+              "modelId": "heart-model-hs5",
+              "cardId": "heart-model-hs5-118",
+              "sourceLine": 118
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-941d8de157",
+      "variants": [
+        {
+          "id": "v-941d8de157",
+          "answer": "Prevent valve prolapse rather than actively closing the valve.",
+          "sources": [
+            {
+              "modelId": "heart-model-hs5",
+              "cardId": "heart-model-hs5-119",
+              "sourceLine": 119
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-bb7892ab0b",
+      "variants": [
+        {
+          "id": "v-bb7892ab0b",
+          "answer": "Right ventricle usually has anterior, posterior and septal papillary muscles; left ventricle has anterolateral and posteromedial papillary muscles.",
+          "sources": [
+            {
+              "modelId": "heart-model-hs5",
+              "cardId": "heart-model-hs5-120",
+              "sourceLine": 120
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-b03737e3cd",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-c60f7b780e",
+      "variants": [
+        {
+          "id": "v-c60f7b780e",
+          "answer": "Papillary muscle dysfunction or rupture can cause acute atrioventricular valve regurgitation.",
+          "sources": [
+            {
+              "modelId": "heart-model-hs5",
+              "cardId": "heart-model-hs5-121",
+              "sourceLine": 121
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "heart-model-hs5",
+      "section": "Internal and coronary structures",
+      "path": [
+        "2"
+      ],
+      "label": "2"
+    }
+  ]
+}

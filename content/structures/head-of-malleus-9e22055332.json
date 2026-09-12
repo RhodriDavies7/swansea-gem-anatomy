@@ -1,0 +1,120 @@
+{
+  "id": "head-of-malleus-9e22055332",
+  "name": "Head of malleus",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [],
+  "organs": [
+    "Ear"
+  ],
+  "tags": [
+    "MiddleEar",
+    "OssiclePart",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-2afca6ba8a",
+      "variants": [
+        {
+          "id": "v-2afca6ba8a",
+          "answer": "Head of malleus",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-142",
+              "sourceLine": 142
+            },
+            {
+              "modelId": "ear-model-ds3",
+              "cardId": "ear-model-ds3-44",
+              "sourceLine": 44
+            },
+            {
+              "modelId": "inner-ear-model-ds17",
+              "cardId": "inner-ear-model-ds17-19",
+              "sourceLine": 19
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-2e50fc45b9",
+      "variants": [
+        {
+          "id": "v-2e50fc45b9",
+          "answer": "Lies in the epitympanic recess and articulates with the body of the incus.",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-143",
+              "sourceLine": 143
+            },
+            {
+              "modelId": "ear-model-ds3",
+              "cardId": "ear-model-ds3-45",
+              "sourceLine": 45
+            }
+          ]
+        },
+        {
+          "id": "v-83a7d52bc7",
+          "answer": "Lies in epitympanic recess and articulates with body of incus.",
+          "sources": [
+            {
+              "modelId": "inner-ear-model-ds17",
+              "cardId": "inner-ear-model-ds17-20",
+              "sourceLine": 20
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "ear-largest-model-ds1",
+      "section": "C. Middle ear",
+      "path": [
+        "25",
+        "a"
+      ],
+      "label": "25a"
+    },
+    {
+      "modelId": "ear-model-ds3",
+      "section": "B. Middle ear",
+      "path": [
+        "7",
+        "a"
+      ],
+      "label": "7a"
+    },
+    {
+      "modelId": "inner-ear-model-ds17",
+      "section": "Tympanic membrane and ossicles",
+      "path": [
+        "3",
+        "a"
+      ],
+      "label": "3a"
+    }
+  ]
+}

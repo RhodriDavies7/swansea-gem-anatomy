@@ -1,0 +1,187 @@
+{
+  "id": "iliac-crest-26f72b95a2",
+  "name": "Iliac crest",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Bones"
+  ],
+  "regions": [
+    "Lower limb",
+    "Pelvis"
+  ],
+  "systems": [
+    "Musculoskeletal",
+    "Reproductive"
+  ],
+  "organs": [],
+  "tags": [
+    "Attachments",
+    "Bone",
+    "BonyLandmark",
+    "Clinical",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-9e9f0c16e1",
+      "variants": [
+        {
+          "id": "v-9e9f0c16e1",
+          "answer": "Iliac crest",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-20",
+              "sourceLine": 20
+            },
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-520",
+              "sourceLine": 520
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-bcf605d6bb",
+      "question": "Bone",
+      "preferredVariantId": "v-9a05e30269",
+      "variants": [
+        {
+          "id": "v-9a05e30269",
+          "answer": "Superior border of the ilium.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-21",
+              "sourceLine": 21
+            }
+          ]
+        },
+        {
+          "id": "v-d91587dec7",
+          "answer": "Ilium of hip bone.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-521",
+              "sourceLine": 521
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-6771ade6e8",
+      "question": "Attachments",
+      "preferredVariantId": "v-6270085665",
+      "variants": [
+        {
+          "id": "v-e6114bf113",
+          "answer": "Attachment for abdominal wall muscles, fascia lata and back muscles.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-22",
+              "sourceLine": 22
+            }
+          ]
+        },
+        {
+          "id": "v-6270085665",
+          "answer": "External oblique to outer lip; internal oblique to intermediate zone; transversus abdominis to inner lip; tensor fasciae latae anteriorly; quadratus lumborum, erector spinae and thoracolumbar fascia posteriorly.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-522",
+              "sourceLine": 522
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-b03737e3cd",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-7126a8911b",
+      "variants": [
+        {
+          "id": "v-a0ec92b45f",
+          "answer": "Highest point is near the L4 vertebral level and is used as a surface landmark.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-23",
+              "sourceLine": 23
+            }
+          ]
+        },
+        {
+          "id": "v-7126a8911b",
+          "answer": "Line between highest points of crests approximates L4 spinous process/L4–L5 interval; common landmark for lumbar procedures and bone graft harvesting.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-524",
+              "sourceLine": 524
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-173b2dfc53",
+      "variants": [
+        {
+          "id": "v-173b2dfc53",
+          "answer": "Superior rim between ASIS and PSIS; iliac tubercle lies on outer lip posterior to ASIS.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-523",
+              "sourceLine": 523
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "female-pelvis-model-mo8",
+      "section": "",
+      "path": [
+        "4"
+      ],
+      "label": "4"
+    },
+    {
+      "modelId": "lower-limb-model-ns10",
+      "section": "Bones",
+      "path": [
+        "71"
+      ],
+      "label": "71"
+    }
+  ]
+}

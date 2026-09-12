@@ -1,0 +1,259 @@
+{
+  "id": "lingual-nerve-2596495edc",
+  "name": "Lingual nerve",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Nerves"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Nervous",
+    "Respiratory"
+  ],
+  "organs": [
+    "Larynx"
+  ],
+  "tags": [
+    "Course",
+    "Lesion",
+    "Motor",
+    "Nerve",
+    "Parasympathetic",
+    "Roots",
+    "Sensory",
+    "Tongue"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-4f06680a4f",
+      "variants": [
+        {
+          "id": "v-4f06680a4f",
+          "answer": "Lingual nerve",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-217",
+              "sourceLine": 217
+            },
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-278",
+              "sourceLine": 278
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-4d78ec7d11",
+      "question": "Roots",
+      "preferredVariantId": "v-594ab7b0f5",
+      "variants": [
+        {
+          "id": "v-594ab7b0f5",
+          "answer": "Branch of posterior division of mandibular nerve (V3).",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-218",
+              "sourceLine": 218
+            }
+          ]
+        },
+        {
+          "id": "v-71da83e942",
+          "answer": "Branch of mandibular division of trigeminal nerve (V3).",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-279",
+              "sourceLine": 279
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "curated-972cfcc131",
+      "variants": [
+        {
+          "id": "v-268506da1c",
+          "answer": "Descends in infratemporal fossa, passes close to mandibular third molar, then runs in floor of mouth around the submandibular duct.",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-219",
+              "sourceLine": 219
+            }
+          ]
+        },
+        {
+          "id": "v-8e6eecb7c7",
+          "answer": "Passes through infratemporal fossa, receives chorda tympani, then runs in floor of mouth close to submandibular duct.",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-280",
+              "sourceLine": 280
+            }
+          ]
+        },
+        {
+          "id": "curated-972cfcc131",
+          "answer": "Descends in the infratemporal fossa, receives chorda tympani and passes close to the mandibular third molar; loops beneath the submandibular duct in the floor of the mouth.",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-219",
+              "sourceLine": 219
+            },
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-280",
+              "sourceLine": 280
+            }
+          ],
+          "editorial": true
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-a453254382",
+      "question": "Sensory functions",
+      "preferredVariantId": "v-c1fd77a90a",
+      "variants": [
+        {
+          "id": "v-1a13e5c9a0",
+          "answer": "General sensation from anterior two-thirds of tongue, floor of mouth and lingual gingiva.",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-220",
+              "sourceLine": 220
+            }
+          ]
+        },
+        {
+          "id": "v-c1fd77a90a",
+          "answer": "General sensation from anterior two-thirds of tongue, floor of mouth and lingual gingiva; carries chorda tympani taste/parasympathetic fibres after they join it.",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-282",
+              "sourceLine": 282
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-9f76a2a9d2",
+      "question": "Parasympathetic functions",
+      "preferredVariantId": "v-091e7a6649",
+      "variants": [
+        {
+          "id": "v-091e7a6649",
+          "answer": "Carries chorda tympani taste fibres and preganglionic parasympathetic fibres to the submandibular ganglion.",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-221",
+              "sourceLine": 221
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-bc53d10c57",
+      "question": "Lesion",
+      "preferredVariantId": "v-ae5a914eb5",
+      "variants": [
+        {
+          "id": "v-e251395f82",
+          "answer": "Can cause loss of general sensation and taste from anterior tongue and reduced salivary secretion depending on lesion site.",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-222",
+              "sourceLine": 222
+            }
+          ]
+        },
+        {
+          "id": "v-ae5a914eb5",
+          "answer": "Causes loss of general sensation from anterior two-thirds of tongue; if injured distal to chorda tympani joining, also causes loss of taste and reduced submandibular/sublingual secretion on that side.",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-283",
+              "sourceLine": 283
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-c8b6915183",
+      "question": "Motor functions",
+      "preferredVariantId": "v-c8edcb6551",
+      "variants": [
+        {
+          "id": "v-c8edcb6551",
+          "answer": "No branchial motor supply to tongue muscles.",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-281",
+              "sourceLine": 281
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "deep-face-model-bs8-1",
+      "section": "",
+      "path": [
+        "34"
+      ],
+      "label": "34"
+    },
+    {
+      "modelId": "larynx-and-tongue-model-gs4",
+      "section": "Tongue",
+      "path": [
+        "13"
+      ],
+      "label": "13"
+    }
+  ]
+}

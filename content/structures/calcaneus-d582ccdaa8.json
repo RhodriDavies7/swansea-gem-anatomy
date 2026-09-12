@@ -1,0 +1,208 @@
+{
+  "id": "calcaneus-d582ccdaa8",
+  "name": "Calcaneus",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Bones"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Articulations",
+    "Attachments",
+    "Bone",
+    "Bones",
+    "Function",
+    "Landmarks",
+    "Orientation"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-4e9c39f229",
+      "variants": [
+        {
+          "id": "v-4e9c39f229",
+          "answer": "Calcaneus",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-28",
+              "sourceLine": 28
+            },
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-624",
+              "sourceLine": 624
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-a40bee8d10",
+      "question": "Articulations",
+      "preferredVariantId": "v-9734054504",
+      "variants": [
+        {
+          "id": "v-9734054504",
+          "answer": "Articulates with talus superiorly and cuboid anteriorly.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-29",
+              "sourceLine": 29
+            }
+          ]
+        },
+        {
+          "id": "v-0e35107a90",
+          "answer": "Talus superiorly at talocalcaneal facets; cuboid anteriorly.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-625",
+              "sourceLine": 625
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-626b6c1d45",
+      "question": "Landmarks",
+      "preferredVariantId": "v-820e63d124",
+      "variants": [
+        {
+          "id": "v-d3b742a99f",
+          "answer": "Calcaneal tuberosity, sustentaculum tali and fibular trochlea.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-30",
+              "sourceLine": 30
+            }
+          ]
+        },
+        {
+          "id": "v-820e63d124",
+          "answer": "Calcaneal tuberosity, sustentaculum tali, talar facets, calcaneal sulcus and fibular trochlea.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-626",
+              "sourceLine": 626
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-6771ade6e8",
+      "question": "Attachments",
+      "preferredVariantId": "v-53a7f91284",
+      "variants": [
+        {
+          "id": "v-53a7f91284",
+          "answer": "Achilles tendon inserts posteriorly; plantar fascia and several intrinsic foot muscles attach to the calcaneal tuberosity.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-31",
+              "sourceLine": 31
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-b80f0ec7eb",
+      "variants": [
+        {
+          "id": "v-b80f0ec7eb",
+          "answer": "Forms the heel and transmits weight to the ground.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-32",
+              "sourceLine": 32
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-2389607e0b",
+      "question": "Muscle attachments",
+      "preferredVariantId": "v-a0554afeed",
+      "variants": [
+        {
+          "id": "v-a0554afeed",
+          "answer": "Calcaneal tendon posteriorly; plantar intrinsic muscles arise from tuberosity; quadratus plantae from plantar surface; extensor digitorum/hallucis brevis from superolateral surface.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-627",
+              "sourceLine": 627
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-86e4e38754",
+      "question": "Orientation",
+      "preferredVariantId": "v-83ee3b6ae7",
+      "variants": [
+        {
+          "id": "v-83ee3b6ae7",
+          "answer": "Large tuberosity posterior, cuboid facet anterior, talar facets superior; sustentaculum tali projects medially. Flexor hallucis longus groove lies beneath sustentaculum.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-628",
+              "sourceLine": 628
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "foot-model-ns9",
+      "section": "Bones",
+      "path": [
+        "5"
+      ],
+      "label": "5"
+    },
+    {
+      "modelId": "lower-limb-model-ns10",
+      "section": "Bones",
+      "path": [
+        "88"
+      ],
+      "label": "88"
+    }
+  ]
+}

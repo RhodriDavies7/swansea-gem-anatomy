@@ -1,0 +1,139 @@
+{
+  "id": "thyrohyoid-membrane-lateral-472a9eb8b7",
+  "name": "Thyrohyoid membrane (lateral)",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Respiratory"
+  ],
+  "organs": [
+    "Larynx"
+  ],
+  "tags": [
+    "Attachments",
+    "Clinical",
+    "Contents",
+    "Membrane",
+    "MembranesLigaments"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-cfb9b99638",
+      "variants": [
+        {
+          "id": "v-cfb9b99638",
+          "answer": "Thyrohyoid membrane (lateral)",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-67",
+              "sourceLine": 67
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-67",
+              "sourceLine": 67
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6771ade6e8",
+      "question": "Attachments",
+      "preferredVariantId": "v-5f784c6332",
+      "variants": [
+        {
+          "id": "v-5f784c6332",
+          "answer": "Extends between thyroid cartilage and hyoid laterally.",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-68",
+              "sourceLine": 68
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-68",
+              "sourceLine": 68
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f5cbdf6bfb",
+      "question": "Contents",
+      "preferredVariantId": "v-bc48e711bb",
+      "variants": [
+        {
+          "id": "v-bc48e711bb",
+          "answer": "Pierced by the internal laryngeal nerve and superior laryngeal vessels.",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-69",
+              "sourceLine": 69
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-69",
+              "sourceLine": 69
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-b03737e3cd",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-b4414c7828",
+      "variants": [
+        {
+          "id": "v-b4414c7828",
+          "answer": "Important landmark for the internal branch of the superior laryngeal nerve.",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-70",
+              "sourceLine": 70
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-70",
+              "sourceLine": 70
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "larynx-model-gs7",
+      "section": "Membranes, ligaments and joints",
+      "path": [
+        "9"
+      ],
+      "label": "9"
+    },
+    {
+      "modelId": "larynx-and-airway-model-gs5",
+      "section": "Membranes, ligaments and joints",
+      "path": [
+        "9"
+      ],
+      "label": "9"
+    }
+  ]
+}

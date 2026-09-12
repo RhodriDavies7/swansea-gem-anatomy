@@ -1,0 +1,127 @@
+{
+  "id": "flexor-pollicis-brevis-57c4758d8b",
+  "name": "Flexor pollicis brevis",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-789d3fa060",
+      "variants": [
+        {
+          "id": "v-789d3fa060",
+          "answer": "Flexor pollicis brevis",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-168",
+              "sourceLine": 168
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-d1d4a2a81b",
+      "variants": [
+        {
+          "id": "v-d1d4a2a81b",
+          "answer": "Flexes the thumb at the MCP joint and assists opposition.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-169",
+              "sourceLine": 169
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-d4f3776858",
+      "variants": [
+        {
+          "id": "v-d4f3776858",
+          "answer": "Superficial head: recurrent branch of median nerve (C8–T1). Deep head is often supplied by deep branch of ulnar nerve.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-170",
+              "sourceLine": 170
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-5ebc841433",
+      "variants": [
+        {
+          "id": "v-5ebc841433",
+          "answer": "Flexor retinaculum and trapezium; deep head may arise from trapezoid/capitate region.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-171",
+              "sourceLine": 171
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-b87a21be59",
+      "variants": [
+        {
+          "id": "v-b87a21be59",
+          "answer": "Lateral base of proximal phalanx of thumb via lateral sesamoid.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-172",
+              "sourceLine": 172
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "upper-limb-model-ns15",
+      "section": "Muscles",
+      "path": [
+        "28"
+      ],
+      "label": "28"
+    }
+  ]
+}

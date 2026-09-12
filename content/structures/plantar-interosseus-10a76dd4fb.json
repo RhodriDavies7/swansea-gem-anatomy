@@ -1,0 +1,128 @@
+{
+  "id": "plantar-interosseus-10a76dd4fb",
+  "name": "Plantar interosseus",
+  "aliases": [],
+  "scope": "Lower limb",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Muscles",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-0b458b5880",
+      "variants": [
+        {
+          "id": "v-0b458b5880",
+          "answer": "Plantar interosseus",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-221",
+              "sourceLine": 221
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-3f5b08cd7d",
+      "variants": [
+        {
+          "id": "v-3f5b08cd7d",
+          "answer": "Adducts toes 3–5 toward the 2nd toe; flexes MTP joints and extends IP joints.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-222",
+              "sourceLine": 222
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-88c8052b1c",
+      "variants": [
+        {
+          "id": "v-88c8052b1c",
+          "answer": "Lateral plantar nerve (S2–S3).",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-223",
+              "sourceLine": 223
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-a5faf3291c",
+      "variants": [
+        {
+          "id": "v-a5faf3291c",
+          "answer": "Medial sides of metatarsals 3–5.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-224",
+              "sourceLine": 224
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-af57a437d2",
+      "variants": [
+        {
+          "id": "v-af57a437d2",
+          "answer": "Medial bases of proximal phalanges and extensor expansions of toes 3–5.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-225",
+              "sourceLine": 225
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "foot-model-ns9",
+      "section": "Muscles",
+      "path": [
+        "32"
+      ],
+      "label": "32"
+    }
+  ]
+}

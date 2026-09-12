@@ -1,0 +1,90 @@
+{
+  "id": "hypothalamus-408c9f2463",
+  "name": "Hypothalamus",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [],
+  "tags": [
+    "Brain",
+    "CNS",
+    "Function",
+    "Location"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-ffe315001e",
+      "variants": [
+        {
+          "id": "v-ffe315001e",
+          "answer": "Hypothalamus",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-709",
+              "sourceLine": 709
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-36508589fe",
+      "variants": [
+        {
+          "id": "v-36508589fe",
+          "answer": "Inferior to thalamus, forming floor and lower walls of third ventricle.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-710",
+              "sourceLine": 710
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-6839f73b1f",
+      "variants": [
+        {
+          "id": "v-6839f73b1f",
+          "answer": "Regulates autonomic, endocrine, thermoregulatory and homeostatic functions.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-711",
+              "sourceLine": 711
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "head-and-neck-model-cs17-2",
+      "section": "Internal brain structures and cranial nerves (1–26)",
+      "path": [
+        "10"
+      ],
+      "label": "10"
+    }
+  ]
+}

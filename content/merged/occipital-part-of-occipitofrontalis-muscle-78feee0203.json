@@ -1,0 +1,128 @@
+{
+  "id": "occipital-part-of-occipitofrontalis-muscle-78feee0203",
+  "name": "Occipital part of occipitofrontalis muscle",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "HeadNeck",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-f9385c0188",
+      "variants": [
+        {
+          "id": "v-f9385c0188",
+          "answer": "Occipital part of occipitofrontalis muscle",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-146",
+              "sourceLine": 146
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-c2ceaef916",
+      "variants": [
+        {
+          "id": "v-c2ceaef916",
+          "answer": "Retracts scalp.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-147",
+              "sourceLine": 147
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-d437e00597",
+      "variants": [
+        {
+          "id": "v-d437e00597",
+          "answer": "Facial nerve (CN VII), posterior auricular branch.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-148",
+              "sourceLine": 148
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-dc629e58be",
+      "variants": [
+        {
+          "id": "v-dc629e58be",
+          "answer": "Lateral superior nuchal line and mastoid region.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-149",
+              "sourceLine": 149
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-2639385e47",
+      "variants": [
+        {
+          "id": "v-2639385e47",
+          "answer": "Epicranial aponeurosis.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-150",
+              "sourceLine": 150
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "head-and-neck-model-cs17-2",
+      "section": "Musculature of the head and neck",
+      "path": [
+        "27"
+      ],
+      "label": "27"
+    }
+  ]
+}

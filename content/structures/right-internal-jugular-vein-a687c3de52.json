@@ -1,0 +1,131 @@
+{
+  "id": "right-internal-jugular-vein-a687c3de52",
+  "name": "Right internal jugular vein",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Veins"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Cardiovascular",
+    "Respiratory"
+  ],
+  "organs": [
+    "Larynx"
+  ],
+  "tags": [
+    "Course",
+    "Drainage",
+    "Formation",
+    "MajorVessels",
+    "Termination",
+    "Vein"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-218f28ff90",
+      "variants": [
+        {
+          "id": "v-218f28ff90",
+          "answer": "Right internal jugular vein",
+          "sources": [
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-233",
+              "sourceLine": 233
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-bc0bd86b8f",
+      "question": "Formation",
+      "preferredVariantId": "v-07fa912bcc",
+      "variants": [
+        {
+          "id": "v-07fa912bcc",
+          "answer": "Begins at jugular foramen as continuation of sigmoid sinus.",
+          "sources": [
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-234",
+              "sourceLine": 234
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-9b31c4573d",
+      "variants": [
+        {
+          "id": "v-9b31c4573d",
+          "answer": "Descends within carotid sheath.",
+          "sources": [
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-235",
+              "sourceLine": 235
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-2ee8521886",
+      "question": "Termination",
+      "preferredVariantId": "v-03275582b8",
+      "variants": [
+        {
+          "id": "v-03275582b8",
+          "answer": "Joins right subclavian vein to form right brachiocephalic vein.",
+          "sources": [
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-236",
+              "sourceLine": 236
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-74a64b1943",
+      "question": "Drainage",
+      "preferredVariantId": "v-351a260dcc",
+      "variants": [
+        {
+          "id": "v-351a260dcc",
+          "answer": "Drains brain, deep face and neck.",
+          "sources": [
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-237",
+              "sourceLine": 237
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+      "section": "Major neck and thoracic vessels",
+      "path": [
+        "33"
+      ],
+      "label": "33"
+    }
+  ]
+}

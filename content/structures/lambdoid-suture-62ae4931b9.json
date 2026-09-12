@@ -1,0 +1,88 @@
+{
+  "id": "lambdoid-suture-62ae4931b9",
+  "name": "Lambdoid suture",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [],
+  "organs": [],
+  "tags": [
+    "HeadNeck",
+    "Location",
+    "Structure",
+    "Suture"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-e3c8802207",
+      "variants": [
+        {
+          "id": "v-e3c8802207",
+          "answer": "Lambdoid suture",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-70",
+              "sourceLine": 70
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-0d48322615",
+      "variants": [
+        {
+          "id": "v-0d48322615",
+          "answer": "Between parietal bones and occipital bone.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-71",
+              "sourceLine": 71
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-309f5350fc",
+      "variants": [
+        {
+          "id": "v-309f5350fc",
+          "answer": "Fibrous skull joint.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-72",
+              "sourceLine": 72
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "head-and-neck-model-cs17-2",
+      "section": "Bony structures, foramina and ear structures",
+      "path": [
+        "14"
+      ],
+      "label": "14"
+    }
+  ]
+}

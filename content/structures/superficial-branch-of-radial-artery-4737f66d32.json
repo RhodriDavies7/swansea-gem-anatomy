@@ -1,0 +1,127 @@
+{
+  "id": "superficial-branch-of-radial-artery-4737f66d32",
+  "name": "Superficial branch of radial artery",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Arteries"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [
+    "Cardiovascular"
+  ],
+  "organs": [],
+  "tags": [
+    "Artery",
+    "Course",
+    "Origin",
+    "Relations",
+    "Supply"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-20322b25a5",
+      "variants": [
+        {
+          "id": "v-20322b25a5",
+          "answer": "Superficial branch of radial artery",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-346",
+              "sourceLine": 346
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-c9021b5038",
+      "variants": [
+        {
+          "id": "v-c9021b5038",
+          "answer": "Radial artery near distal forearm/wrist.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-347",
+              "sourceLine": 347
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-2aed6d17ae",
+      "variants": [
+        {
+          "id": "v-2aed6d17ae",
+          "answer": "Passes into palm, usually through or over thenar musculature.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-348",
+              "sourceLine": 348
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-222db0fc1c",
+      "question": "Supply",
+      "preferredVariantId": "v-2e29cf2a2e",
+      "variants": [
+        {
+          "id": "v-2e29cf2a2e",
+          "answer": "Thenar region and superficial palm.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-349",
+              "sourceLine": 349
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-76567e3712",
+      "variants": [
+        {
+          "id": "v-76567e3712",
+          "answer": "Typically joins superficial palmar arch formed mainly by ulnar artery.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-350",
+              "sourceLine": 350
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "upper-limb-model-ns15",
+      "section": "Arteries",
+      "path": [
+        "56"
+      ],
+      "label": "56"
+    }
+  ]
+}

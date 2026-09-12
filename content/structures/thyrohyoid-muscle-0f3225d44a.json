@@ -1,0 +1,302 @@
+{
+  "id": "thyrohyoid-muscle-0f3225d44a",
+  "name": "Thyrohyoid muscle",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Musculoskeletal",
+    "Respiratory"
+  ],
+  "organs": [
+    "Larynx"
+  ],
+  "tags": [
+    "Action",
+    "HeadNeck",
+    "HeadNeckMuscles",
+    "Innervation",
+    "Insertion",
+    "Larynx",
+    "Muscle",
+    "Muscles",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-8cbfc5cf1c",
+      "variants": [
+        {
+          "id": "v-8cbfc5cf1c",
+          "answer": "Thyrohyoid muscle",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-568",
+              "sourceLine": 568
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-328",
+              "sourceLine": 328
+            },
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-103",
+              "sourceLine": 103
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-103",
+              "sourceLine": 103
+            },
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-90",
+              "sourceLine": 90
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-4eb4c43066",
+      "variants": [
+        {
+          "id": "v-4eb4c43066",
+          "answer": "Depresses hyoid or elevates larynx.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-569",
+              "sourceLine": 569
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-329",
+              "sourceLine": 329
+            },
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-91",
+              "sourceLine": 91
+            }
+          ]
+        },
+        {
+          "id": "v-8b6f6b6a33",
+          "answer": "Depresses the hyoid or elevates the larynx.",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-104",
+              "sourceLine": 104
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-104",
+              "sourceLine": 104
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-5c19b33113",
+      "variants": [
+        {
+          "id": "v-5c19b33113",
+          "answer": "C1 fibres via hypoglossal nerve.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-570",
+              "sourceLine": 570
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-330",
+              "sourceLine": 330
+            }
+          ]
+        },
+        {
+          "id": "v-5a99eaf8c9",
+          "answer": "C1 fibres travelling with the hypoglossal nerve.",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-105",
+              "sourceLine": 105
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-105",
+              "sourceLine": 105
+            },
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-92",
+              "sourceLine": 92
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-5fa7c559fc",
+      "variants": [
+        {
+          "id": "v-5fa7c559fc",
+          "answer": "Oblique line of thyroid cartilage.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-571",
+              "sourceLine": 571
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-331",
+              "sourceLine": 331
+            },
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-106",
+              "sourceLine": 106
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-106",
+              "sourceLine": 106
+            },
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-93",
+              "sourceLine": 93
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-2699e72f70",
+      "variants": [
+        {
+          "id": "v-2699e72f70",
+          "answer": "Inferior border of body and greater horn of hyoid.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-572",
+              "sourceLine": 572
+            },
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-107",
+              "sourceLine": 107
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-107",
+              "sourceLine": 107
+            }
+          ]
+        },
+        {
+          "id": "v-6a95a8877a",
+          "answer": "Hyoid.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-332",
+              "sourceLine": 332
+            }
+          ]
+        },
+        {
+          "id": "v-aff584e590",
+          "answer": "Body and greater horn of hyoid.",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-94",
+              "sourceLine": 94
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "half-head-and-neck-model-bs9",
+      "section": "Musculature of the head and neck",
+      "path": [
+        "49"
+      ],
+      "label": "49"
+    },
+    {
+      "modelId": "head-and-neck-model-cs17-2",
+      "section": "Musculature of the head and neck",
+      "path": [
+        "53"
+      ],
+      "label": "53"
+    },
+    {
+      "modelId": "larynx-model-gs7",
+      "section": "Laryngeal and airway muscles",
+      "path": [
+        "15"
+      ],
+      "label": "15"
+    },
+    {
+      "modelId": "larynx-and-airway-model-gs5",
+      "section": "Laryngeal and airway muscles",
+      "path": [
+        "15"
+      ],
+      "label": "15"
+    },
+    {
+      "modelId": "larynx-and-tongue-model-gs4",
+      "section": "Larynx",
+      "path": [
+        "15"
+      ],
+      "label": "15"
+    }
+  ]
+}

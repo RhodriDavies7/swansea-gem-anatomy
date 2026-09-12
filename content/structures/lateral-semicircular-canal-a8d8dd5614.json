@@ -1,0 +1,161 @@
+{
+  "id": "lateral-semicircular-canal-a8d8dd5614",
+  "name": "Lateral semicircular canal",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [],
+  "organs": [
+    "Ear"
+  ],
+  "tags": [
+    "Connections",
+    "Contents",
+    "Function",
+    "InnerEar",
+    "SemicircularCanal",
+    "VestibularApparatus"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-38d8c1a7df",
+      "variants": [
+        {
+          "id": "v-38d8c1a7df",
+          "answer": "Lateral semicircular canal",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-221",
+              "sourceLine": 221
+            },
+            {
+              "modelId": "ear-model-ds3",
+              "cardId": "ear-model-ds3-123",
+              "sourceLine": 123
+            },
+            {
+              "modelId": "inner-ear-model-ds17",
+              "cardId": "inner-ear-model-ds17-84",
+              "sourceLine": 84
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-24dce1f63f",
+      "variants": [
+        {
+          "id": "v-24dce1f63f",
+          "answer": "Detects angular acceleration primarily in the horizontal plane.",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-222",
+              "sourceLine": 222
+            },
+            {
+              "modelId": "ear-model-ds3",
+              "cardId": "ear-model-ds3-124",
+              "sourceLine": 124
+            }
+          ]
+        },
+        {
+          "id": "v-d674497487",
+          "answer": "Detects angular acceleration of the head in its anatomical plane.",
+          "sources": [
+            {
+              "modelId": "inner-ear-model-ds17",
+              "cardId": "inner-ear-model-ds17-85",
+              "sourceLine": 85
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-8f3509b64e",
+      "question": "Connections",
+      "preferredVariantId": "v-7f6f2d5d3e",
+      "variants": [
+        {
+          "id": "v-7f6f2d5d3e",
+          "answer": "Opens into the vestibule at its ends, with an ampullary enlargement at one end.",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-223",
+              "sourceLine": 223
+            },
+            {
+              "modelId": "ear-model-ds3",
+              "cardId": "ear-model-ds3-125",
+              "sourceLine": 125
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f5cbdf6bfb",
+      "question": "Contents",
+      "preferredVariantId": "v-57ef137c2d",
+      "variants": [
+        {
+          "id": "v-57ef137c2d",
+          "answer": "Contains corresponding semicircular duct within the bony labyrinth.",
+          "sources": [
+            {
+              "modelId": "inner-ear-model-ds17",
+              "cardId": "inner-ear-model-ds17-86",
+              "sourceLine": 86
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "ear-largest-model-ds1",
+      "section": "D. Inner ear",
+      "path": [
+        "35"
+      ],
+      "label": "35"
+    },
+    {
+      "modelId": "ear-model-ds3",
+      "section": "C. Inner ear",
+      "path": [
+        "17"
+      ],
+      "label": "17"
+    },
+    {
+      "modelId": "inner-ear-model-ds17",
+      "section": "Vestibular apparatus",
+      "path": [
+        "11"
+      ],
+      "label": "11"
+    }
+  ]
+}

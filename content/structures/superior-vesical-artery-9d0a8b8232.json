@@ -1,0 +1,109 @@
+{
+  "id": "superior-vesical-artery-9d0a8b8232",
+  "name": "Superior vesical artery",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Arteries"
+  ],
+  "regions": [
+    "Pelvis"
+  ],
+  "systems": [
+    "Cardiovascular",
+    "Reproductive"
+  ],
+  "organs": [],
+  "tags": [
+    "Artery",
+    "Course",
+    "Origin",
+    "Supply"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-60a46d3310",
+      "variants": [
+        {
+          "id": "v-60a46d3310",
+          "answer": "Superior vesical artery",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-252",
+              "sourceLine": 252
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-ecdc64532c",
+      "variants": [
+        {
+          "id": "v-ecdc64532c",
+          "answer": "Usually arises from patent proximal umbilical artery.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-253",
+              "sourceLine": 253
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-e5211c917b",
+      "variants": [
+        {
+          "id": "v-e5211c917b",
+          "answer": "Passes to superior bladder.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-254",
+              "sourceLine": 254
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-222db0fc1c",
+      "question": "Supply",
+      "preferredVariantId": "v-67624e4416",
+      "variants": [
+        {
+          "id": "v-67624e4416",
+          "answer": "Superior urinary bladder and distal ureter.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-255",
+              "sourceLine": 255
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "female-pelvis-model-mo8",
+      "section": "",
+      "path": [
+        "39"
+      ],
+      "label": "39"
+    }
+  ]
+}

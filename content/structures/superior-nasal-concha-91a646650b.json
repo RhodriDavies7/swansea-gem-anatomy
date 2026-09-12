@@ -1,0 +1,328 @@
+{
+  "id": "superior-nasal-concha-91a646650b",
+  "name": "Superior nasal concha",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Respiratory"
+  ],
+  "organs": [],
+  "tags": [
+    "Coronal",
+    "Function",
+    "Location",
+    "MidSagittal",
+    "MidlineStructures",
+    "NasalCavity",
+    "NasalConcha",
+    "Relations",
+    "SinusesAndOpenings",
+    "Structure"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-f99d563fe0",
+      "variants": [
+        {
+          "id": "v-f99d563fe0",
+          "answer": "Superior nasal concha",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-52",
+              "sourceLine": 52
+            },
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-360",
+              "sourceLine": 360
+            },
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-62",
+              "sourceLine": 62
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-237",
+              "sourceLine": 237
+            },
+            {
+              "modelId": "nose-and-nasal-cavity-model-fs3",
+              "cardId": "nose-and-nasal-cavity-model-fs3-20",
+              "sourceLine": 20
+            },
+            {
+              "modelId": "nose-and-nasal-cavity-model-fs3",
+              "cardId": "nose-and-nasal-cavity-model-fs3-142",
+              "sourceLine": 142
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-7c6e64ee94",
+      "variants": [
+        {
+          "id": "v-280dcde1c2",
+          "answer": "Curved bony projection from the lateral nasal wall that increases mucosal surface area and creates a nasal meatus.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-53",
+              "sourceLine": 53
+            }
+          ]
+        },
+        {
+          "id": "v-7c6e64ee94",
+          "answer": "Curved bony projection from the ethmoid bone on the superior lateral nasal wall.",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-63",
+              "sourceLine": 63
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-85490a04ef",
+      "variants": [
+        {
+          "id": "v-95b80f0b6f",
+          "answer": "Superior part of lateral nasal wall, over the superior meatus.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-54",
+              "sourceLine": 54
+            }
+          ]
+        },
+        {
+          "id": "v-85490a04ef",
+          "answer": "Superior lateral nasal wall above the superior meatus.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-361",
+              "sourceLine": 361
+            }
+          ]
+        },
+        {
+          "id": "v-34145aff8c",
+          "answer": "Superior lateral nasal wall above superior meatus.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-238",
+              "sourceLine": 238
+            }
+          ]
+        },
+        {
+          "id": "v-e54cc42d7e",
+          "answer": "Upper part of the lateral nasal wall.",
+          "sources": [
+            {
+              "modelId": "nose-and-nasal-cavity-model-fs3",
+              "cardId": "nose-and-nasal-cavity-model-fs3-21",
+              "sourceLine": 21
+            }
+          ]
+        },
+        {
+          "id": "v-d02f25255f",
+          "answer": "Upper lateral nasal wall.",
+          "sources": [
+            {
+              "modelId": "nose-and-nasal-cavity-model-fs3",
+              "cardId": "nose-and-nasal-cavity-model-fs3-143",
+              "sourceLine": 143
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-205fa29f90",
+      "variants": [
+        {
+          "id": "v-205fa29f90",
+          "answer": "Promotes warming, humidification and turbulence of inspired air.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-55",
+              "sourceLine": 55
+            }
+          ]
+        },
+        {
+          "id": "v-81e4867074",
+          "answer": "Increases surface area and turbulence for warming/humidifying inspired air.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-362",
+              "sourceLine": 362
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-239",
+              "sourceLine": 239
+            }
+          ]
+        },
+        {
+          "id": "v-19d7eaf125",
+          "answer": "Increases mucosal surface area and promotes warming, humidification and turbulence of inspired air.",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-64",
+              "sourceLine": 64
+            }
+          ]
+        },
+        {
+          "id": "v-360a69c7e4",
+          "answer": "Increases mucosal surface area and creates airflow turbulence.",
+          "sources": [
+            {
+              "modelId": "nose-and-nasal-cavity-model-fs3",
+              "cardId": "nose-and-nasal-cavity-model-fs3-22",
+              "sourceLine": 22
+            }
+          ]
+        },
+        {
+          "id": "v-efe3ec0f5e",
+          "answer": "Increases surface area and airflow turbulence.",
+          "sources": [
+            {
+              "modelId": "nose-and-nasal-cavity-model-fs3",
+              "cardId": "nose-and-nasal-cavity-model-fs3-144",
+              "sourceLine": 144
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-432a818cfb",
+      "variants": [
+        {
+          "id": "v-432a818cfb",
+          "answer": "Overlies the superior meatus.",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-65",
+              "sourceLine": 65
+            }
+          ]
+        },
+        {
+          "id": "v-9d2768294f",
+          "answer": "Superior meatus lies inferior to it.",
+          "sources": [
+            {
+              "modelId": "nose-and-nasal-cavity-model-fs3",
+              "cardId": "nose-and-nasal-cavity-model-fs3-23",
+              "sourceLine": 23
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "coronal-and-mid-sagittal-head-mb20",
+      "section": "Coronal head",
+      "path": [
+        "11"
+      ],
+      "label": "11"
+    },
+    {
+      "modelId": "coronal-and-mid-sagittal-head-mb20",
+      "section": "Other midline structures",
+      "path": [
+        "a"
+      ],
+      "label": "a"
+    },
+    {
+      "modelId": "deep-face-model-bs8-1",
+      "section": "",
+      "path": [
+        "11"
+      ],
+      "label": "11"
+    },
+    {
+      "modelId": "half-head-and-neck-model-bs9",
+      "section": "Other midline structures",
+      "path": [
+        "a"
+      ],
+      "label": "a"
+    },
+    {
+      "modelId": "nose-and-nasal-cavity-model-fs3",
+      "section": "Paranasal sinuses, conchae and openings (a–p)",
+      "path": [
+        "d"
+      ],
+      "label": "d"
+    },
+    {
+      "modelId": "nose-and-nasal-cavity-model-fs3",
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "path": [
+        "11"
+      ],
+      "label": "11"
+    }
+  ]
+}

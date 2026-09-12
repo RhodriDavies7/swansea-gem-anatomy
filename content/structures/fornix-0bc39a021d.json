@@ -1,0 +1,90 @@
+{
+  "id": "fornix-0bc39a021d",
+  "name": "Fornix",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [],
+  "tags": [
+    "Brain",
+    "CNS",
+    "Function",
+    "Structure"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-88a6ed2180",
+      "variants": [
+        {
+          "id": "v-88a6ed2180",
+          "answer": "Fornix",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-692",
+              "sourceLine": 692
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-406bcce658",
+      "variants": [
+        {
+          "id": "v-406bcce658",
+          "answer": "C-shaped white-matter tract from hippocampus.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-693",
+              "sourceLine": 693
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-06140d6ba9",
+      "variants": [
+        {
+          "id": "v-06140d6ba9",
+          "answer": "Major hippocampal output pathway toward mammillary bodies and septal regions.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-694",
+              "sourceLine": 694
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "head-and-neck-model-cs17-2",
+      "section": "Internal brain structures and cranial nerves (1–26)",
+      "path": [
+        "6"
+      ],
+      "label": "6"
+    }
+  ]
+}

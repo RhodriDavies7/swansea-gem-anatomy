@@ -1,0 +1,90 @@
+{
+  "id": "lobule-of-auricle-d790f933e9",
+  "name": "Lobule of auricle",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [],
+  "organs": [
+    "Ear"
+  ],
+  "tags": [
+    "Auricle",
+    "ExternalEar",
+    "Relations",
+    "Structure"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-b0ce84be83",
+      "variants": [
+        {
+          "id": "v-b0ce84be83",
+          "answer": "Lobule of auricle",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-44",
+              "sourceLine": 44
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-bebaafbb85",
+      "variants": [
+        {
+          "id": "v-bebaafbb85",
+          "answer": "Soft inferior part of the auricle composed mainly of skin, fat and connective tissue without cartilage.",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-45",
+              "sourceLine": 45
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-fa1350ba3d",
+      "variants": [
+        {
+          "id": "v-fa1350ba3d",
+          "answer": "Lies inferior to the antitragus and helix.",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-46",
+              "sourceLine": 46
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "ear-largest-model-ds1",
+      "section": "A. External ear",
+      "path": [
+        "9"
+      ],
+      "label": "9"
+    }
+  ]
+}

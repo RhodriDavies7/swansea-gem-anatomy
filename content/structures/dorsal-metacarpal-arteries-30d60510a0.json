@@ -1,0 +1,109 @@
+{
+  "id": "dorsal-metacarpal-arteries-30d60510a0",
+  "name": "Dorsal metacarpal arteries",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Arteries"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [
+    "Cardiovascular"
+  ],
+  "organs": [],
+  "tags": [
+    "ArteriesAndNerves",
+    "Artery",
+    "Course",
+    "Origin",
+    "Supply"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-4d85675e22",
+      "variants": [
+        {
+          "id": "v-4d85675e22",
+          "answer": "Dorsal metacarpal arteries",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-216",
+              "sourceLine": 216
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-60b060fa62",
+      "variants": [
+        {
+          "id": "v-60b060fa62",
+          "answer": "Arise mainly from the dorsal carpal arch.",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-217",
+              "sourceLine": 217
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-debb85bd66",
+      "variants": [
+        {
+          "id": "v-debb85bd66",
+          "answer": "Run distally in dorsal intermetacarpal spaces.",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-218",
+              "sourceLine": 218
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-222db0fc1c",
+      "question": "Supply",
+      "preferredVariantId": "v-2d5c8ccb4c",
+      "variants": [
+        {
+          "id": "v-2d5c8ccb4c",
+          "answer": "Supply dorsum of hand and contribute to dorsal digital arteries.",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-219",
+              "sourceLine": 219
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "hand-model-ns13",
+      "section": "Arteries and nerves",
+      "path": [
+        "5"
+      ],
+      "label": "5"
+    }
+  ]
+}

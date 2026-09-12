@@ -1,0 +1,108 @@
+{
+  "id": "areola-1650e88fa5",
+  "name": "Areola",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Thorax"
+  ],
+  "systems": [],
+  "organs": [
+    "Breast"
+  ],
+  "tags": [
+    "Contents",
+    "Function",
+    "Structure",
+    "SurfaceAnatomy"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-61c4ca77c3",
+      "variants": [
+        {
+          "id": "v-61c4ca77c3",
+          "answer": "Areola",
+          "sources": [
+            {
+              "modelId": "breast-model-ms7",
+              "cardId": "breast-model-ms7-26",
+              "sourceLine": 26
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-bdcc747f13",
+      "variants": [
+        {
+          "id": "v-bdcc747f13",
+          "answer": "Pigmented circular area of skin surrounding the nipple.",
+          "sources": [
+            {
+              "modelId": "breast-model-ms7",
+              "cardId": "breast-model-ms7-27",
+              "sourceLine": 27
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f5cbdf6bfb",
+      "question": "Contents",
+      "preferredVariantId": "v-61b252f702",
+      "variants": [
+        {
+          "id": "v-61b252f702",
+          "answer": "Contains sebaceous areolar glands, including glands of Montgomery.",
+          "sources": [
+            {
+              "modelId": "breast-model-ms7",
+              "cardId": "breast-model-ms7-28",
+              "sourceLine": 28
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-95c3ec1240",
+      "variants": [
+        {
+          "id": "v-95c3ec1240",
+          "answer": "Provides a lubricated, pigmented surface around the nipple and contributes to the nipple–areola complex during breastfeeding.",
+          "sources": [
+            {
+              "modelId": "breast-model-ms7",
+              "cardId": "breast-model-ms7-29",
+              "sourceLine": 29
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "breast-model-ms7",
+      "section": "",
+      "path": [
+        "5"
+      ],
+      "label": "5"
+    }
+  ]
+}

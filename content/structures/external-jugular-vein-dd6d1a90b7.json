@@ -1,0 +1,109 @@
+{
+  "id": "external-jugular-vein-dd6d1a90b7",
+  "name": "External jugular vein",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Veins"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Cardiovascular"
+  ],
+  "organs": [],
+  "tags": [
+    "Course",
+    "Formation",
+    "HeadNeck",
+    "Termination",
+    "Vein"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-7f18d74997",
+      "variants": [
+        {
+          "id": "v-7f18d74997",
+          "answer": "External jugular vein",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-491",
+              "sourceLine": 491
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-bc0bd86b8f",
+      "question": "Formation",
+      "preferredVariantId": "v-cffa5e65b8",
+      "variants": [
+        {
+          "id": "v-cffa5e65b8",
+          "answer": "Formed near angle of mandible by posterior auricular vein and posterior division of retromandibular vein.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-492",
+              "sourceLine": 492
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-a3109c41c9",
+      "variants": [
+        {
+          "id": "v-a3109c41c9",
+          "answer": "Descends superficial to SCM.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-493",
+              "sourceLine": 493
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-2ee8521886",
+      "question": "Termination",
+      "preferredVariantId": "v-e945e502e7",
+      "variants": [
+        {
+          "id": "v-e945e502e7",
+          "answer": "Drains into subclavian vein.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-494",
+              "sourceLine": 494
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "head-and-neck-model-cs17-2",
+      "section": "Veins",
+      "path": [
+        "76"
+      ],
+      "label": "76"
+    }
+  ]
+}

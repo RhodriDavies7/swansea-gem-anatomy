@@ -1,0 +1,109 @@
+{
+  "id": "hard-palate-maxilla-bone-81f86d2187",
+  "name": "Hard palate (maxilla bone)",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Bones"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Bone",
+    "Coronal",
+    "Function",
+    "Relations",
+    "Structure"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-4631b31e97",
+      "variants": [
+        {
+          "id": "v-4631b31e97",
+          "answer": "Hard palate (maxilla bone)",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-102",
+              "sourceLine": 102
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-f14c667447",
+      "variants": [
+        {
+          "id": "v-f14c667447",
+          "answer": "Anterior hard palate is formed mainly by palatine processes of the maxillae.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-103",
+              "sourceLine": 103
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-3df796f43b",
+      "variants": [
+        {
+          "id": "v-3df796f43b",
+          "answer": "Separates oral and nasal cavities and provides a rigid surface for mastication and speech.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-104",
+              "sourceLine": 104
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-921bd06bda",
+      "variants": [
+        {
+          "id": "v-921bd06bda",
+          "answer": "Nasal cavity lies superiorly and oral cavity inferiorly.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-105",
+              "sourceLine": 105
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "coronal-and-mid-sagittal-head-mb20",
+      "section": "Coronal head",
+      "path": [
+        "20"
+      ],
+      "label": "20"
+    }
+  ]
+}

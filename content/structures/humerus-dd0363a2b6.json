@@ -1,0 +1,257 @@
+{
+  "id": "humerus-dd0363a2b6",
+  "name": "Humerus",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Bones"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Articulations",
+    "Attachments",
+    "Bone",
+    "Landmarks",
+    "Orientation"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-b1af118958",
+      "variants": [
+        {
+          "id": "v-b1af118958",
+          "answer": "Humerus",
+          "sources": [
+            {
+              "modelId": "deep-shoulder-model-ns17",
+              "cardId": "deep-shoulder-model-ns17-37",
+              "sourceLine": 37
+            },
+            {
+              "modelId": "elbow-joint-model-ns18",
+              "cardId": "elbow-joint-model-ns18-2",
+              "sourceLine": 2
+            },
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-552",
+              "sourceLine": 552
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-a40bee8d10",
+      "question": "Articulations",
+      "preferredVariantId": "v-a3d0efa534",
+      "variants": [
+        {
+          "id": "v-e4a567b79f",
+          "answer": "Articulates with the scapula proximally and with the radius and ulna distally.",
+          "sources": [
+            {
+              "modelId": "deep-shoulder-model-ns17",
+              "cardId": "deep-shoulder-model-ns17-38",
+              "sourceLine": 38
+            }
+          ]
+        },
+        {
+          "id": "v-4bc1c32541",
+          "answer": "Articulates distally with the ulna at the trochlea and with the radius at the capitulum.",
+          "sources": [
+            {
+              "modelId": "elbow-joint-model-ns18",
+              "cardId": "elbow-joint-model-ns18-3",
+              "sourceLine": 3
+            }
+          ]
+        },
+        {
+          "id": "v-a3d0efa534",
+          "answer": "Scapula proximally at glenohumeral joint; radius and ulna distally at elbow.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-553",
+              "sourceLine": 553
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-626b6c1d45",
+      "question": "Landmarks",
+      "preferredVariantId": "v-d1def9f4d7",
+      "variants": [
+        {
+          "id": "v-29c66b9489",
+          "answer": "Head, anatomical/surgical necks, greater/lesser tubercles, intertubercular sulcus, deltoid tuberosity, radial groove, condyles and epicondyles.",
+          "sources": [
+            {
+              "modelId": "deep-shoulder-model-ns17",
+              "cardId": "deep-shoulder-model-ns17-39",
+              "sourceLine": 39
+            }
+          ]
+        },
+        {
+          "id": "v-6d07b6f6fe",
+          "answer": "Capitulum, trochlea, medial and lateral epicondyles, coronoid fossa, radial fossa and olecranon fossa.",
+          "sources": [
+            {
+              "modelId": "elbow-joint-model-ns18",
+              "cardId": "elbow-joint-model-ns18-4",
+              "sourceLine": 4
+            }
+          ]
+        },
+        {
+          "id": "v-d1def9f4d7",
+          "answer": "Head, anatomical/surgical necks, greater/lesser tubercles, intertubercular sulcus, deltoid tuberosity, radial groove, capitulum, trochlea, epicondyles and fossae.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-554",
+              "sourceLine": 554
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-2389607e0b",
+      "question": "Muscle attachments",
+      "preferredVariantId": "v-9c95b9e4f6",
+      "variants": [
+        {
+          "id": "v-f1ef17f538",
+          "answer": "Rotator cuff inserts around the tubercles; pectoralis major, latissimus dorsi and teres major attach around the intertubercular sulcus.",
+          "sources": [
+            {
+              "modelId": "deep-shoulder-model-ns17",
+              "cardId": "deep-shoulder-model-ns17-40",
+              "sourceLine": 40
+            }
+          ]
+        },
+        {
+          "id": "v-1e91ac20f4",
+          "answer": "Common flexor origin attaches to the medial epicondyle; common extensor origin attaches to the lateral epicondyle; brachialis and triceps attach proximally/distally around the humerus.",
+          "sources": [
+            {
+              "modelId": "elbow-joint-model-ns18",
+              "cardId": "elbow-joint-model-ns18-5",
+              "sourceLine": 5
+            }
+          ]
+        },
+        {
+          "id": "v-9c95b9e4f6",
+          "answer": "Rotator cuff on tubercles; pectoralis major, latissimus dorsi and teres major around intertubercular sulcus; deltoid on tuberosity; forearm flexor/extensor groups arise from epicondyles.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-555",
+              "sourceLine": 555
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-86e4e38754",
+      "question": "Orientation",
+      "preferredVariantId": "v-4a3d1846ed",
+      "variants": [
+        {
+          "id": "v-e0513a5ed8",
+          "answer": "Head faces medially, superiorly and slightly posteriorly; greater tubercle is lateral.",
+          "sources": [
+            {
+              "modelId": "deep-shoulder-model-ns17",
+              "cardId": "deep-shoulder-model-ns17-41",
+              "sourceLine": 41
+            }
+          ]
+        },
+        {
+          "id": "v-3da5140496",
+          "answer": "Capitulum lies lateral and trochlea medial; olecranon fossa is posterior.",
+          "sources": [
+            {
+              "modelId": "elbow-joint-model-ns18",
+              "cardId": "elbow-joint-model-ns18-6",
+              "sourceLine": 6
+            }
+          ]
+        },
+        {
+          "id": "v-4a3d1846ed",
+          "answer": "Head faces medially, superiorly and slightly posteriorly; olecranon fossa is posterior; capitulum is lateral and trochlea medial.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-556",
+              "sourceLine": 556
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "deep-shoulder-model-ns17",
+      "section": "",
+      "path": [
+        "6"
+      ],
+      "label": "6"
+    },
+    {
+      "modelId": "elbow-joint-model-ns18",
+      "section": "",
+      "path": [
+        "a"
+      ],
+      "label": "a"
+    },
+    {
+      "modelId": "upper-limb-model-ns15",
+      "section": "Bones",
+      "path": [
+        "86"
+      ],
+      "label": "86"
+    }
+  ]
+}

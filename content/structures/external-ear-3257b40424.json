@@ -1,0 +1,107 @@
+{
+  "id": "external-ear-3257b40424",
+  "name": "External ear",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Organs"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [],
+  "organs": [],
+  "tags": [
+    "BloodVesselsAndNerves",
+    "Function",
+    "Innervation",
+    "Organ",
+    "Structure"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-ee52ab2786",
+      "variants": [
+        {
+          "id": "v-ee52ab2786",
+          "answer": "External ear",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-789",
+              "sourceLine": 789
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-70a97b5c05",
+      "variants": [
+        {
+          "id": "v-70a97b5c05",
+          "answer": "Includes auricle and external acoustic meatus up to the tympanic membrane.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-790",
+              "sourceLine": 790
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-0a15d1a717",
+      "variants": [
+        {
+          "id": "v-0a15d1a717",
+          "answer": "Collects and conducts sound toward the tympanic membrane.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-791",
+              "sourceLine": 791
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-b59f21f656",
+      "variants": [
+        {
+          "id": "v-b59f21f656",
+          "answer": "Sensory supply derives from auriculotemporal, great auricular, lesser occipital and vagal contributions depending on region.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-792",
+              "sourceLine": 792
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "half-head-and-neck-model-bs9",
+      "section": "Blood vessels and nerves",
+      "path": [
+        "78"
+      ],
+      "label": "78"
+    }
+  ]
+}

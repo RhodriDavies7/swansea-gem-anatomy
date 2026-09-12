@@ -1,0 +1,164 @@
+{
+  "id": "thyroarytenoid-muscle-94a7eabaf9",
+  "name": "Thyroarytenoid muscle",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Musculoskeletal",
+    "Respiratory"
+  ],
+  "organs": [
+    "Larynx"
+  ],
+  "tags": [
+    "Action",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Muscles",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-c082265c10",
+      "variants": [
+        {
+          "id": "v-c082265c10",
+          "answer": "Thyroarytenoid muscle",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-159",
+              "sourceLine": 159
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-159",
+              "sourceLine": 159
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-0bde4813bf",
+      "variants": [
+        {
+          "id": "v-0bde4813bf",
+          "answer": "Relaxes and shortens the vocal folds and assists adduction.",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-160",
+              "sourceLine": 160
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-160",
+              "sourceLine": 160
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-7b28d2894f",
+      "variants": [
+        {
+          "id": "v-7b28d2894f",
+          "answer": "Recurrent laryngeal nerve (CN X).",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-161",
+              "sourceLine": 161
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-161",
+              "sourceLine": 161
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-6caa86ce76",
+      "variants": [
+        {
+          "id": "v-6caa86ce76",
+          "answer": "Inner surface of thyroid cartilage near the angle.",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-162",
+              "sourceLine": 162
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-162",
+              "sourceLine": 162
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-d9f7ad5174",
+      "variants": [
+        {
+          "id": "v-d9f7ad5174",
+          "answer": "Anterolateral surface and vocal process of arytenoid cartilage.",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-163",
+              "sourceLine": 163
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-163",
+              "sourceLine": 163
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "larynx-model-gs7",
+      "section": "Laryngeal and airway muscles",
+      "path": [
+        "22"
+      ],
+      "label": "22"
+    },
+    {
+      "modelId": "larynx-and-airway-model-gs5",
+      "section": "Laryngeal and airway muscles",
+      "path": [
+        "22"
+      ],
+      "label": "22"
+    }
+  ]
+}

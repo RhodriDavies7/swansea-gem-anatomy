@@ -1,0 +1,91 @@
+{
+  "id": "transverse-head-of-adductor-hallucis-a12801e27d",
+  "name": "Transverse head of adductor hallucis",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Function",
+    "MusclePart",
+    "Muscles",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-122bd9f30b",
+      "variants": [
+        {
+          "id": "v-122bd9f30b",
+          "answer": "Transverse head of adductor hallucis",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-216",
+              "sourceLine": 216
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-a9181716ab",
+      "variants": [
+        {
+          "id": "v-a9181716ab",
+          "answer": "Plantar ligaments of metatarsophalangeal joints 3–5 and deep transverse metatarsal ligament.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-217",
+              "sourceLine": 217
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-bc94497fe1",
+      "variants": [
+        {
+          "id": "v-bc94497fe1",
+          "answer": "Adducts hallux and helps maintain transverse arch.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-218",
+              "sourceLine": 218
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "foot-model-ns9",
+      "section": "Muscles",
+      "path": [
+        "31",
+        "b"
+      ],
+      "label": "31b"
+    }
+  ]
+}

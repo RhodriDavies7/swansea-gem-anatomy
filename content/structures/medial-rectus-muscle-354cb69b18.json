@@ -1,0 +1,239 @@
+{
+  "id": "medial-rectus-muscle-354cb69b18",
+  "name": "Medial rectus muscle",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [
+    "Eye"
+  ],
+  "tags": [
+    "Action",
+    "ExtraocularMuscle",
+    "Eye",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Origin"
+  ],
+  "imageIds": [
+    "img-3514e3674ed1"
+  ],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-baabed7a36",
+      "variants": [
+        {
+          "id": "v-baabed7a36",
+          "answer": "Medial rectus muscle",
+          "sources": [
+            {
+              "modelId": "eyeball-with-part-of-orbit-model-cs2",
+              "cardId": "eyeball-with-part-of-orbit-model-cs2-18",
+              "sourceLine": 18
+            },
+            {
+              "modelId": "eyeball-model-cs7",
+              "cardId": "eyeball-model-cs7-16",
+              "sourceLine": 16
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-568",
+              "sourceLine": 568
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-4a1624e2ef",
+      "variants": [
+        {
+          "id": "v-4a1624e2ef",
+          "answer": "Adducts the eye.",
+          "sources": [
+            {
+              "modelId": "eyeball-with-part-of-orbit-model-cs2",
+              "cardId": "eyeball-with-part-of-orbit-model-cs2-19",
+              "sourceLine": 19
+            },
+            {
+              "modelId": "eyeball-model-cs7",
+              "cardId": "eyeball-model-cs7-17",
+              "sourceLine": 17
+            }
+          ]
+        },
+        {
+          "id": "v-1427ec5597",
+          "answer": "Adducts eyeball.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-569",
+              "sourceLine": 569
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-83afedd6eb",
+      "variants": [
+        {
+          "id": "v-83afedd6eb",
+          "answer": "Oculomotor nerve (CN III), inferior division.",
+          "sources": [
+            {
+              "modelId": "eyeball-with-part-of-orbit-model-cs2",
+              "cardId": "eyeball-with-part-of-orbit-model-cs2-20",
+              "sourceLine": 20
+            },
+            {
+              "modelId": "eyeball-model-cs7",
+              "cardId": "eyeball-model-cs7-18",
+              "sourceLine": 18
+            }
+          ]
+        },
+        {
+          "id": "v-8bdcf68561",
+          "answer": "Oculomotor nerve (CN III).",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-570",
+              "sourceLine": 570
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-e9c475c7fb",
+      "variants": [
+        {
+          "id": "v-e9c475c7fb",
+          "answer": "Common tendinous ring at the orbital apex.",
+          "sources": [
+            {
+              "modelId": "eyeball-with-part-of-orbit-model-cs2",
+              "cardId": "eyeball-with-part-of-orbit-model-cs2-21",
+              "sourceLine": 21
+            },
+            {
+              "modelId": "eyeball-model-cs7",
+              "cardId": "eyeball-model-cs7-19",
+              "sourceLine": 19
+            }
+          ]
+        },
+        {
+          "id": "v-4438979c19",
+          "answer": "Common tendinous ring.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-571",
+              "sourceLine": 571
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-21ec12c5e8",
+      "variants": [
+        {
+          "id": "v-21ec12c5e8",
+          "answer": "Medial sclera anterior to the equator of the globe.",
+          "sources": [
+            {
+              "modelId": "eyeball-with-part-of-orbit-model-cs2",
+              "cardId": "eyeball-with-part-of-orbit-model-cs2-22",
+              "sourceLine": 22
+            },
+            {
+              "modelId": "eyeball-model-cs7",
+              "cardId": "eyeball-model-cs7-20",
+              "sourceLine": 20
+            }
+          ]
+        },
+        {
+          "id": "v-2fb486dce6",
+          "answer": "Medial sclera anterior to equator.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-572",
+              "sourceLine": 572
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "eyeball-with-part-of-orbit-model-cs2",
+      "section": "Extraocular muscle",
+      "path": [
+        "3"
+      ],
+      "label": "3"
+    },
+    {
+      "modelId": "eyeball-model-cs7",
+      "section": "",
+      "path": [
+        "3"
+      ],
+      "label": "3"
+    },
+    {
+      "modelId": "head-and-neck-model-cs17-2",
+      "section": "Eye",
+      "path": [
+        "2"
+      ],
+      "label": "2"
+    }
+  ]
+}

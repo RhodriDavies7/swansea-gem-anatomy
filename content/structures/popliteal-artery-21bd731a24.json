@@ -1,0 +1,146 @@
+{
+  "id": "popliteal-artery-21bd731a24",
+  "name": "Popliteal artery",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Arteries"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Cardiovascular"
+  ],
+  "organs": [],
+  "tags": [
+    "Artery",
+    "Branches",
+    "Course",
+    "Origin",
+    "Relations",
+    "Supply"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-d85db516e8",
+      "variants": [
+        {
+          "id": "v-d85db516e8",
+          "answer": "Popliteal artery",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-387",
+              "sourceLine": 387
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-9fc6a82a4e",
+      "variants": [
+        {
+          "id": "v-9fc6a82a4e",
+          "answer": "Continuation of femoral artery at adductor hiatus.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-388",
+              "sourceLine": 388
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-7d038744b4",
+      "variants": [
+        {
+          "id": "v-7d038744b4",
+          "answer": "Descends through popliteal fossa; at lower border of popliteus gives anterior tibial artery and a short tibioperoneal trunk leading to posterior tibial and fibular arteries.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-389",
+              "sourceLine": 389
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f578227926",
+      "question": "Branches",
+      "preferredVariantId": "v-978e3df907",
+      "variants": [
+        {
+          "id": "v-978e3df907",
+          "answer": "Five genicular arteries, sural/muscular branches, anterior tibial artery and tibioperoneal trunk.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-390",
+              "sourceLine": 390
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-222db0fc1c",
+      "question": "Supply",
+      "preferredVariantId": "v-77b45f3e06",
+      "variants": [
+        {
+          "id": "v-77b45f3e06",
+          "answer": "Knee joint and surrounding muscles; distal limb through terminal branches.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-391",
+              "sourceLine": 391
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-1b7b1156ec",
+      "variants": [
+        {
+          "id": "v-1b7b1156ec",
+          "answer": "Deepest central structure in popliteal fossa: nerve, vein, artery from superficial to deep; lies against femur, posterior knee capsule and popliteus.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-392",
+              "sourceLine": 392
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "lower-limb-model-ns10",
+      "section": "Blood vessels",
+      "path": [
+        "51"
+      ],
+      "label": "51"
+    }
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "id": "fifth-metatarsal-103314283c",
+  "name": "Fifth metatarsal",
+  "aliases": [
+    "5th metatarsal"
+  ],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Bones"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Articulations",
+    "Attachments",
+    "Bone",
+    "Landmarks",
+    "Orientation",
+    "Bones",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-cb97c2f206",
+      "variants": [
+        {
+          "id": "v-cb97c2f206",
+          "answer": "Fifth metatarsal",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-642",
+              "sourceLine": 642
+            }
+          ]
+        },
+        {
+          "id": "v-ab4d1256b6",
+          "answer": "5th metatarsal",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-54",
+              "sourceLine": 54
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-a40bee8d10",
+      "question": "Articulations",
+      "preferredVariantId": "v-29685693d9",
+      "variants": [
+        {
+          "id": "v-29685693d9",
+          "answer": "Cuboid and fourth metatarsal proximally; proximal phalanx of fifth toe distally.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-643",
+              "sourceLine": 643
+            }
+          ]
+        },
+        {
+          "id": "v-180eb045fa",
+          "answer": "Articulates proximally with cuboid and distally with proximal phalanx of little toe.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-55",
+              "sourceLine": 55
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-626b6c1d45",
+      "question": "Landmarks",
+      "preferredVariantId": "v-78a68926fb",
+      "variants": [
+        {
+          "id": "v-78a68926fb",
+          "answer": "Base, prominent lateral tuberosity, shaft and head.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-644",
+              "sourceLine": 644
+            }
+          ]
+        },
+        {
+          "id": "v-cc2bbe71b3",
+          "answer": "Prominent tuberosity at base.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-56",
+              "sourceLine": 56
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-2389607e0b",
+      "question": "Muscle attachments",
+      "preferredVariantId": "v-dfd30428d5",
+      "variants": [
+        {
+          "id": "v-dfd30428d5",
+          "answer": "Fibularis brevis inserts at tuberosity; fibularis tertius on dorsal base; flexor digiti minimi brevis arises plantarly; interossei attach along shaft.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-645",
+              "sourceLine": 645
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-86e4e38754",
+      "question": "Orientation",
+      "preferredVariantId": "v-0f3a59aea4",
+      "variants": [
+        {
+          "id": "v-0f3a59aea4",
+          "answer": "Tuberosity projects laterally from proximal base; rounded head distal; facet for fourth metatarsal faces medially.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-646",
+              "sourceLine": 646
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-34b1f56197",
+      "variants": [
+        {
+          "id": "v-34b1f56197",
+          "answer": "Forms the lateral border of the forefoot.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-57",
+              "sourceLine": 57
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "lower-limb-model-ns10",
+      "section": "Bones",
+      "path": [
+        "91"
+      ],
+      "label": "91"
+    },
+    {
+      "modelId": "foot-model-ns9",
+      "section": "Bones",
+      "path": [
+        "9"
+      ],
+      "label": "9"
+    }
+  ],
+  "redirectIds": [
+    "5th-metatarsal-03079b8a4a"
+  ]
+}

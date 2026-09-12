@@ -1,0 +1,146 @@
+{
+  "id": "medial-circumflex-femoral-artery-99e8573bfb",
+  "name": "Medial circumflex femoral artery",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Arteries"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Cardiovascular"
+  ],
+  "organs": [],
+  "tags": [
+    "Artery",
+    "Branches",
+    "Course",
+    "Origin",
+    "Relations",
+    "Supply"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-d24f5346e8",
+      "variants": [
+        {
+          "id": "v-d24f5346e8",
+          "answer": "Medial circumflex femoral artery",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-375",
+              "sourceLine": 375
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-f85a1409c7",
+      "variants": [
+        {
+          "id": "v-f85a1409c7",
+          "answer": "Usually profunda femoris; may arise directly from femoral artery.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-376",
+              "sourceLine": 376
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-6f3a8215fd",
+      "variants": [
+        {
+          "id": "v-6f3a8215fd",
+          "answer": "Passes medially and posteriorly between pectineus and iliopsoas, then around proximal femur.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-377",
+              "sourceLine": 377
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f578227926",
+      "question": "Branches",
+      "preferredVariantId": "v-bff83078e8",
+      "variants": [
+        {
+          "id": "v-bff83078e8",
+          "answer": "Deep and superficial branches; ascending/retinacular and transverse branches.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-378",
+              "sourceLine": 378
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-222db0fc1c",
+      "question": "Supply",
+      "preferredVariantId": "v-8f7340adb1",
+      "variants": [
+        {
+          "id": "v-8f7340adb1",
+          "answer": "Principal adult supply to femoral head and neck through retinacular branches; also medial thigh muscles.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-379",
+              "sourceLine": 379
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-82b274dd6a",
+      "variants": [
+        {
+          "id": "v-82b274dd6a",
+          "answer": "Retinacular vessels ascend along femoral neck beneath capsule and may be torn by an intracapsular femoral neck fracture.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-380",
+              "sourceLine": 380
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "lower-limb-model-ns10",
+      "section": "Blood vessels",
+      "path": [
+        "49"
+      ],
+      "label": "49"
+    }
+  ]
+}

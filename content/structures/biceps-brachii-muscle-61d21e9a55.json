@@ -1,0 +1,192 @@
+{
+  "id": "biceps-brachii-muscle-61d21e9a55",
+  "name": "Biceps brachii muscle",
+  "aliases": [
+    "Biceps brachii"
+  ],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "AttachmentSite",
+    "Attachments",
+    "Innervation",
+    "Muscle",
+    "Insertion",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-2d0e7ea4b7",
+      "variants": [
+        {
+          "id": "v-2d0e7ea4b7",
+          "answer": "Biceps brachii muscle",
+          "sources": [
+            {
+              "modelId": "rotator-cuff-qs55-6",
+              "cardId": "rotator-cuff-qs55-6-52",
+              "sourceLine": 52
+            }
+          ]
+        },
+        {
+          "id": "v-2182cbdc38",
+          "answer": "Biceps brachii",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-51",
+              "sourceLine": 51
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-531c9dad58",
+      "question": "Attachment on model",
+      "preferredVariantId": "v-852eb5806e",
+      "variants": [
+        {
+          "id": "v-852eb5806e",
+          "answer": "Long head originates from supraglenoid tubercle; short head from coracoid process.",
+          "sources": [
+            {
+              "modelId": "rotator-cuff-qs55-6",
+              "cardId": "rotator-cuff-qs55-6-53",
+              "sourceLine": 53
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-825416a803",
+      "variants": [
+        {
+          "id": "v-ac91ec95bd",
+          "answer": "Supinates forearm and flexes elbow; assists shoulder flexion.",
+          "sources": [
+            {
+              "modelId": "rotator-cuff-qs55-6",
+              "cardId": "rotator-cuff-qs55-6-54",
+              "sourceLine": 54
+            }
+          ]
+        },
+        {
+          "id": "v-825416a803",
+          "answer": "Supinates the forearm and flexes the elbow; assists shoulder flexion; long head helps stabilise humeral head.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-52",
+              "sourceLine": 52
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-69eed64145",
+      "variants": [
+        {
+          "id": "v-69eed64145",
+          "answer": "Musculocutaneous nerve (C5–C6).",
+          "sources": [
+            {
+              "modelId": "rotator-cuff-qs55-6",
+              "cardId": "rotator-cuff-qs55-6-55",
+              "sourceLine": 55
+            },
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-53",
+              "sourceLine": 53
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-0043c34afc",
+      "variants": [
+        {
+          "id": "v-0043c34afc",
+          "answer": "Long head: supraglenoid tubercle of scapula. Short head: tip of coracoid process.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-54",
+              "sourceLine": 54
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-ab7eed3a59",
+      "variants": [
+        {
+          "id": "v-ab7eed3a59",
+          "answer": "Radial tuberosity and forearm fascia via bicipital aponeurosis.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-55",
+              "sourceLine": 55
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "rotator-cuff-qs55-6",
+      "section": "Muscle attachment sites",
+      "path": [
+        "9"
+      ],
+      "label": "9"
+    },
+    {
+      "modelId": "upper-limb-model-ns15",
+      "section": "Muscles",
+      "path": [
+        "9"
+      ],
+      "label": "9"
+    }
+  ]
+}

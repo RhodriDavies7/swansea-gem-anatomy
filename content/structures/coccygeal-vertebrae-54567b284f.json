@@ -1,0 +1,128 @@
+{
+  "id": "coccygeal-vertebrae-54567b284f",
+  "name": "Coccygeal vertebrae",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Bones"
+  ],
+  "regions": [
+    "Pelvis"
+  ],
+  "systems": [
+    "Musculoskeletal",
+    "Reproductive"
+  ],
+  "organs": [],
+  "tags": [
+    "Articulations",
+    "Attachments",
+    "Bone",
+    "Landmarks",
+    "Orientation"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-d52f2ef278",
+      "variants": [
+        {
+          "id": "v-d52f2ef278",
+          "answer": "Coccygeal vertebrae",
+          "sources": [
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-16",
+              "sourceLine": 16
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-a40bee8d10",
+      "question": "Articulations",
+      "preferredVariantId": "v-b6e4e2db8b",
+      "variants": [
+        {
+          "id": "v-b6e4e2db8b",
+          "answer": "Form the coccyx and articulate superiorly with the sacrum at the sacrococcygeal joint.",
+          "sources": [
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-17",
+              "sourceLine": 17
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-626b6c1d45",
+      "question": "Landmarks",
+      "preferredVariantId": "v-63197a0b85",
+      "variants": [
+        {
+          "id": "v-63197a0b85",
+          "answer": "Usually 3–5 small vertebral segments with coccygeal cornua and transverse processes most evident on the first segment.",
+          "sources": [
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-18",
+              "sourceLine": 18
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-2389607e0b",
+      "question": "Muscle attachments",
+      "preferredVariantId": "v-804f564110",
+      "variants": [
+        {
+          "id": "v-804f564110",
+          "answer": "Coccygeus, levator ani and gluteus maximus attach to the coccyx.",
+          "sources": [
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-19",
+              "sourceLine": 19
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-86e4e38754",
+      "question": "Orientation",
+      "preferredVariantId": "v-e31d2d964d",
+      "variants": [
+        {
+          "id": "v-e31d2d964d",
+          "answer": "Base faces superiorly toward the sacrum and the apex points inferiorly, usually curving anteriorly.",
+          "sources": [
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-20",
+              "sourceLine": 20
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "female-reproductive-system-model-ms1",
+      "section": "",
+      "path": [
+        "3"
+      ],
+      "label": "3"
+    }
+  ]
+}

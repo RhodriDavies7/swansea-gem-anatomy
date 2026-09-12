@@ -1,0 +1,146 @@
+{
+  "id": "incus-7857c29457",
+  "name": "Incus",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [],
+  "organs": [
+    "Ear"
+  ],
+  "tags": [
+    "Articulations",
+    "Function",
+    "MiddleEar",
+    "Ossicle"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-5b650392b7",
+      "variants": [
+        {
+          "id": "v-5b650392b7",
+          "answer": "Incus",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-152",
+              "sourceLine": 152
+            },
+            {
+              "modelId": "ear-model-ds3",
+              "cardId": "ear-model-ds3-54",
+              "sourceLine": 54
+            },
+            {
+              "modelId": "inner-ear-model-ds17",
+              "cardId": "inner-ear-model-ds17-30",
+              "sourceLine": 30
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-a40bee8d10",
+      "question": "Articulations",
+      "preferredVariantId": "v-3421fdf7d1",
+      "variants": [
+        {
+          "id": "v-3421fdf7d1",
+          "answer": "Articulates with malleus proximally and stapes distally via the lenticular process.",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-153",
+              "sourceLine": 153
+            },
+            {
+              "modelId": "ear-model-ds3",
+              "cardId": "ear-model-ds3-55",
+              "sourceLine": 55
+            }
+          ]
+        },
+        {
+          "id": "v-1a5d2f7739",
+          "answer": "Articulates with malleus proximally and stapes via lenticular process distally.",
+          "sources": [
+            {
+              "modelId": "inner-ear-model-ds17",
+              "cardId": "inner-ear-model-ds17-32",
+              "sourceLine": 32
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-a59d3c2e3e",
+      "variants": [
+        {
+          "id": "v-a59d3c2e3e",
+          "answer": "Transmits vibration from malleus to stapes.",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-154",
+              "sourceLine": 154
+            },
+            {
+              "modelId": "ear-model-ds3",
+              "cardId": "ear-model-ds3-56",
+              "sourceLine": 56
+            },
+            {
+              "modelId": "inner-ear-model-ds17",
+              "cardId": "inner-ear-model-ds17-31",
+              "sourceLine": 31
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "ear-largest-model-ds1",
+      "section": "C. Middle ear",
+      "path": [
+        "26"
+      ],
+      "label": "26"
+    },
+    {
+      "modelId": "ear-model-ds3",
+      "section": "B. Middle ear",
+      "path": [
+        "8"
+      ],
+      "label": "8"
+    },
+    {
+      "modelId": "inner-ear-model-ds17",
+      "section": "Tympanic membrane and ossicles",
+      "path": [
+        "4"
+      ],
+      "label": "4"
+    }
+  ]
+}

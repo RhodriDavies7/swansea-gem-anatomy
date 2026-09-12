@@ -1,0 +1,108 @@
+{
+  "id": "anterior-inferior-cerebellar-artery-d26d2af36d",
+  "name": "Anterior inferior cerebellar artery",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Arteries"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Cardiovascular"
+  ],
+  "organs": [],
+  "tags": [
+    "Artery",
+    "Course",
+    "Origin",
+    "Supply"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-9c0a2ee49f",
+      "variants": [
+        {
+          "id": "v-9c0a2ee49f",
+          "answer": "Anterior inferior cerebellar artery",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-94",
+              "sourceLine": 94
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-0aea4a385f",
+      "variants": [
+        {
+          "id": "v-0aea4a385f",
+          "answer": "Basilar artery.",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-95",
+              "sourceLine": 95
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-471ce4ca1f",
+      "variants": [
+        {
+          "id": "v-471ce4ca1f",
+          "answer": "Passes laterally around the lower pons toward the cerebellopontine angle.",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-96",
+              "sourceLine": 96
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-222db0fc1c",
+      "question": "Supply",
+      "preferredVariantId": "v-a8c916f90b",
+      "variants": [
+        {
+          "id": "v-a8c916f90b",
+          "answer": "Anteroinferior cerebellum and lateral caudal pons; may give rise to the labyrinthine artery.",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-97",
+              "sourceLine": 97
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "cranial-floor-model-bs1",
+      "section": "",
+      "path": [
+        "16"
+      ],
+      "label": "16"
+    }
+  ]
+}

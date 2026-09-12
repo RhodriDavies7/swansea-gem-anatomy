@@ -1,0 +1,92 @@
+{
+  "id": "osseous-spiral-lamina-ef18997230",
+  "name": "Osseous spiral lamina",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Bones"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [
+    "Ear"
+  ],
+  "tags": [
+    "BonyLandmark",
+    "Function",
+    "InnerEar",
+    "Structure"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-e9869ae811",
+      "variants": [
+        {
+          "id": "v-e9869ae811",
+          "answer": "Osseous spiral lamina",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-259",
+              "sourceLine": 259
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-4f2787acec",
+      "variants": [
+        {
+          "id": "v-4f2787acec",
+          "answer": "Thin shelf of bone projecting from the modiolus into the cochlear canal.",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-260",
+              "sourceLine": 260
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-24edb55437",
+      "variants": [
+        {
+          "id": "v-24edb55437",
+          "answer": "Partially divides the cochlear canal and supports the basilar membrane/cochlear partition.",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-261",
+              "sourceLine": 261
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "ear-largest-model-ds1",
+      "section": "D. Inner ear",
+      "path": [
+        "39"
+      ],
+      "label": "39"
+    }
+  ]
+}

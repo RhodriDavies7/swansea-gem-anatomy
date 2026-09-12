@@ -1,0 +1,160 @@
+{
+  "id": "ischium-8580fdc5bd",
+  "name": "Ischium",
+  "aliases": [
+    "Ischium bone"
+  ],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Bones"
+  ],
+  "regions": [
+    "Lower limb",
+    "Pelvis"
+  ],
+  "systems": [
+    "Musculoskeletal",
+    "Reproductive"
+  ],
+  "organs": [],
+  "tags": [
+    "Articulations",
+    "Bone",
+    "Bones",
+    "Landmarks",
+    "Attachments"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-42344fa53e",
+      "variants": [
+        {
+          "id": "v-42344fa53e",
+          "answer": "Ischium",
+          "sources": [
+            {
+              "modelId": "hip-joint-model-ns20",
+              "cardId": "hip-joint-model-ns20-16",
+              "sourceLine": 16
+            }
+          ]
+        },
+        {
+          "id": "v-e8c025e831",
+          "answer": "Ischium bone",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-8",
+              "sourceLine": 8
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-a40bee8d10",
+      "question": "Articulations",
+      "preferredVariantId": "v-ca7777a009",
+      "variants": [
+        {
+          "id": "v-27a05b540b",
+          "answer": "Contributes posteroinferiorly to acetabulum and joins pubis anteriorly.",
+          "sources": [
+            {
+              "modelId": "hip-joint-model-ns20",
+              "cardId": "hip-joint-model-ns20-17",
+              "sourceLine": 17
+            }
+          ]
+        },
+        {
+          "id": "v-ca7777a009",
+          "answer": "Contributes to the acetabulum and joins the pubis anteriorly and ilium superiorly.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-9",
+              "sourceLine": 9
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-626b6c1d45",
+      "question": "Landmarks",
+      "preferredVariantId": "v-7654727dec",
+      "variants": [
+        {
+          "id": "v-7654727dec",
+          "answer": "Ischial spine, ischial tuberosity, lesser sciatic notch and ramus.",
+          "sources": [
+            {
+              "modelId": "hip-joint-model-ns20",
+              "cardId": "hip-joint-model-ns20-18",
+              "sourceLine": 18
+            },
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-10",
+              "sourceLine": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6771ade6e8",
+      "question": "Attachments",
+      "preferredVariantId": "v-1b184516fd",
+      "variants": [
+        {
+          "id": "v-1b184516fd",
+          "answer": "Provides attachment for hamstrings, sacrotuberous ligament and several pelvic/perineal muscles.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-11",
+              "sourceLine": 11
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "hip-joint-model-ns20",
+      "section": "Bones and bony landmarks",
+      "path": [
+        "1",
+        "c"
+      ],
+      "label": "1c"
+    },
+    {
+      "modelId": "female-pelvis-model-mo8",
+      "section": "",
+      "path": [
+        "2"
+      ],
+      "label": "2"
+    }
+  ],
+  "redirectIds": [
+    "ischium-bone-df2ae1c947"
+  ]
+}

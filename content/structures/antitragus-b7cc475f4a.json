@@ -1,0 +1,90 @@
+{
+  "id": "antitragus-b7cc475f4a",
+  "name": "Antitragus",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [],
+  "organs": [
+    "Ear"
+  ],
+  "tags": [
+    "Auricle",
+    "ExternalEar",
+    "Relations",
+    "Structure"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-4ec68f4037",
+      "variants": [
+        {
+          "id": "v-4ec68f4037",
+          "answer": "Antitragus",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-34",
+              "sourceLine": 34
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-4a5d5ba417",
+      "variants": [
+        {
+          "id": "v-4a5d5ba417",
+          "answer": "Small cartilaginous prominence posteroinferior to the external acoustic meatus.",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-35",
+              "sourceLine": 35
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-b91a6e7601",
+      "variants": [
+        {
+          "id": "v-b91a6e7601",
+          "answer": "Opposes the tragus and is separated from it by the intertragic notch.",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-36",
+              "sourceLine": 36
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "ear-largest-model-ds1",
+      "section": "A. External ear",
+      "path": [
+        "7"
+      ],
+      "label": "7"
+    }
+  ]
+}

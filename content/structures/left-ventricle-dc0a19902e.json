@@ -1,0 +1,211 @@
+{
+  "id": "left-ventricle-dc0a19902e",
+  "name": "Left ventricle",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck",
+    "Thorax"
+  ],
+  "systems": [
+    "Cardiovascular",
+    "Respiratory"
+  ],
+  "organs": [
+    "Heart",
+    "Larynx"
+  ],
+  "tags": [
+    "Chambers",
+    "Connections",
+    "Contents",
+    "Function",
+    "HeartChamber",
+    "HeartChambers",
+    "Landmarks",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-44ed1ae3f4",
+      "variants": [
+        {
+          "id": "v-44ed1ae3f4",
+          "answer": "Left ventricle",
+          "sources": [
+            {
+              "modelId": "heart-model-hs5",
+              "cardId": "heart-model-hs5-39",
+              "sourceLine": 39
+            },
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-157",
+              "sourceLine": 157
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-3c3e494c84",
+      "variants": [
+        {
+          "id": "v-3c3e494c84",
+          "answer": "Pumps oxygenated blood into the systemic circulation.",
+          "sources": [
+            {
+              "modelId": "heart-model-hs5",
+              "cardId": "heart-model-hs5-40",
+              "sourceLine": 40
+            }
+          ]
+        },
+        {
+          "id": "v-16b2b6fda4",
+          "answer": "Pumps oxygenated blood into systemic circulation.",
+          "sources": [
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-158",
+              "sourceLine": 158
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-434bed5fc1",
+      "question": "Inflow",
+      "preferredVariantId": "v-1124e3f0a8",
+      "variants": [
+        {
+          "id": "v-1124e3f0a8",
+          "answer": "Receives blood from the left atrium through the mitral valve.",
+          "sources": [
+            {
+              "modelId": "heart-model-hs5",
+              "cardId": "heart-model-hs5-41",
+              "sourceLine": 41
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-fc92a7d5c4",
+      "question": "Outflow",
+      "preferredVariantId": "v-80dce410fe",
+      "variants": [
+        {
+          "id": "v-80dce410fe",
+          "answer": "Ejects blood through the aortic valve into the ascending aorta.",
+          "sources": [
+            {
+              "modelId": "heart-model-hs5",
+              "cardId": "heart-model-hs5-42",
+              "sourceLine": 42
+            }
+          ]
+        },
+        {
+          "id": "v-cb0bfa82eb",
+          "answer": "Through aortic valve into aorta.",
+          "sources": [
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-159",
+              "sourceLine": 159
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-0681aa149d",
+      "question": "Internal features",
+      "preferredVariantId": "v-a9244394f5",
+      "variants": [
+        {
+          "id": "v-a9244394f5",
+          "answer": "Contains trabeculae carneae, papillary muscles and chordae tendineae.",
+          "sources": [
+            {
+              "modelId": "heart-model-hs5",
+              "cardId": "heart-model-hs5-43",
+              "sourceLine": 43
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-b3d6dfac8c",
+      "question": "Wall thickness",
+      "preferredVariantId": "v-487daece44",
+      "variants": [
+        {
+          "id": "v-487daece44",
+          "answer": "Has the thickest myocardium because it pumps against systemic vascular resistance.",
+          "sources": [
+            {
+              "modelId": "heart-model-hs5",
+              "cardId": "heart-model-hs5-44",
+              "sourceLine": 44
+            }
+          ]
+        },
+        {
+          "id": "v-4fa2ccd323",
+          "answer": "Thickest myocardium because it pumps against systemic vascular resistance.",
+          "sources": [
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-160",
+              "sourceLine": 160
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "heart-model-hs5",
+      "section": "Chambers",
+      "path": [
+        "IV"
+      ],
+      "label": "IV"
+    },
+    {
+      "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+      "section": "Heart chambers and auricles",
+      "path": [
+        "21"
+      ],
+      "label": "21"
+    }
+  ]
+}

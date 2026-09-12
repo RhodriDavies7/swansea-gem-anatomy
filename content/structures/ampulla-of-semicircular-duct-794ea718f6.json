@@ -1,0 +1,90 @@
+{
+  "id": "ampulla-of-semicircular-duct-794ea718f6",
+  "name": "Ampulla of semicircular duct",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [],
+  "organs": [
+    "Ear"
+  ],
+  "tags": [
+    "Function",
+    "InnerEar",
+    "Structure",
+    "VestibularOrgan"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-eb88b48fde",
+      "variants": [
+        {
+          "id": "v-eb88b48fde",
+          "answer": "Ampulla of semicircular duct",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-286",
+              "sourceLine": 286
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-95ed56500e",
+      "variants": [
+        {
+          "id": "v-95ed56500e",
+          "answer": "Dilated end of a semicircular duct containing the crista ampullaris.",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-287",
+              "sourceLine": 287
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-f6e77f9b65",
+      "variants": [
+        {
+          "id": "v-f6e77f9b65",
+          "answer": "Detects angular acceleration through movement of endolymph deflecting the cupula over sensory hair cells.",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-288",
+              "sourceLine": 288
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "ear-largest-model-ds1",
+      "section": "D. Inner ear",
+      "path": [
+        "44"
+      ],
+      "label": "44"
+    }
+  ]
+}

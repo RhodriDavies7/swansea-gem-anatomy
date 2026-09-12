@@ -1,0 +1,181 @@
+{
+  "id": "lingual-septum-23733bdd22",
+  "name": "Lingual septum",
+  "aliases": [
+    "Septum of the tongue"
+  ],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Respiratory"
+  ],
+  "organs": [
+    "Larynx"
+  ],
+  "tags": [
+    "Function",
+    "MidSagittal",
+    "MidlineStructures",
+    "Septum",
+    "Structure",
+    "Tongue"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-26be73fc9c",
+      "variants": [
+        {
+          "id": "v-26be73fc9c",
+          "answer": "Lingual septum",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-407",
+              "sourceLine": 407
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-295",
+              "sourceLine": 295
+            }
+          ]
+        },
+        {
+          "id": "v-4845c42f01",
+          "answer": "Septum of the tongue",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-307",
+              "sourceLine": 307
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-e5687f482d",
+      "variants": [
+        {
+          "id": "v-e5687f482d",
+          "answer": "Midline fibrous partition within the tongue.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-408",
+              "sourceLine": 408
+            },
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-308",
+              "sourceLine": 308
+            }
+          ]
+        },
+        {
+          "id": "v-59200fd5bc",
+          "answer": "Midline fibrous partition within tongue.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-296",
+              "sourceLine": 296
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-86435beee0",
+      "variants": [
+        {
+          "id": "v-86435beee0",
+          "answer": "Provides internal support and separates right and left tongue musculature.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-409",
+              "sourceLine": 409
+            }
+          ]
+        },
+        {
+          "id": "v-1653e3f571",
+          "answer": "Provides internal support and separates right/left tongue musculature.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-297",
+              "sourceLine": 297
+            }
+          ]
+        },
+        {
+          "id": "v-dffe24d0e4",
+          "answer": "Separates right and left tongue musculature and provides internal support.",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-309",
+              "sourceLine": 309
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "coronal-and-mid-sagittal-head-mb20",
+      "section": "Other midline structures",
+      "path": [
+        "m"
+      ],
+      "label": "m"
+    },
+    {
+      "modelId": "half-head-and-neck-model-bs9",
+      "section": "Other midline structures",
+      "path": [
+        "m"
+      ],
+      "label": "m"
+    },
+    {
+      "modelId": "larynx-and-tongue-model-gs4",
+      "section": "Tongue",
+      "path": [
+        "17"
+      ],
+      "label": "17"
+    }
+  ],
+  "redirectIds": [
+    "septum-of-the-tongue-1b8afe8363"
+  ]
+}

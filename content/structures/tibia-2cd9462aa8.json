@@ -1,0 +1,240 @@
+{
+  "id": "tibia-2cd9462aa8",
+  "name": "Tibia",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Bones"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Articulations",
+    "Attachments",
+    "Bone",
+    "Bones",
+    "Function",
+    "Landmarks",
+    "Orientation"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-b1969286b7",
+      "variants": [
+        {
+          "id": "v-b1969286b7",
+          "answer": "Tibia",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-4",
+              "sourceLine": 4
+            },
+            {
+              "modelId": "knee-joint-model-ns19",
+              "cardId": "knee-joint-model-ns19-16",
+              "sourceLine": 16
+            },
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-594",
+              "sourceLine": 594
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-a40bee8d10",
+      "question": "Articulations",
+      "preferredVariantId": "v-90c7bd11f4",
+      "variants": [
+        {
+          "id": "v-6167e59d28",
+          "answer": "Articulates distally with talus and fibula; proximally with femur and fibula.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-5",
+              "sourceLine": 5
+            }
+          ]
+        },
+        {
+          "id": "v-9935e5bb07",
+          "answer": "Proximally articulates with femoral condyles and fibular head.",
+          "sources": [
+            {
+              "modelId": "knee-joint-model-ns19",
+              "cardId": "knee-joint-model-ns19-17",
+              "sourceLine": 17
+            }
+          ]
+        },
+        {
+          "id": "v-90c7bd11f4",
+          "answer": "Femur superiorly; fibula at proximal tibiofibular joint and distal syndesmosis; talus inferiorly.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-595",
+              "sourceLine": 595
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-626b6c1d45",
+      "question": "Landmarks",
+      "preferredVariantId": "v-f4401811b4",
+      "variants": [
+        {
+          "id": "v-a6ff1b31c6",
+          "answer": "Medial malleolus, tibial plafond, anterior border and interosseous border.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-6",
+              "sourceLine": 6
+            }
+          ]
+        },
+        {
+          "id": "v-5167de8f7e",
+          "answer": "Medial and lateral condyles, intercondylar eminence and tibial tuberosity.",
+          "sources": [
+            {
+              "modelId": "knee-joint-model-ns19",
+              "cardId": "knee-joint-model-ns19-18",
+              "sourceLine": 18
+            }
+          ]
+        },
+        {
+          "id": "v-f4401811b4",
+          "answer": "Medial/lateral condyles, intercondylar eminence, tibial tuberosity, anterior crest, soleal line, fibular notch and medial malleolus.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-596",
+              "sourceLine": 596
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-86e4e38754",
+      "question": "Orientation",
+      "preferredVariantId": "v-6352a7cf17",
+      "variants": [
+        {
+          "id": "v-03788c60e6",
+          "answer": "Medial malleolus lies medially; sharp anterior border faces forward.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-7",
+              "sourceLine": 7
+            }
+          ]
+        },
+        {
+          "id": "v-6352a7cf17",
+          "answer": "Broad condyles superior; tuberosity and sharp crest anterior; medial malleolus projects medially; distal fibular notch faces laterally.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-598",
+              "sourceLine": 598
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-039a6116c3",
+      "variants": [
+        {
+          "id": "v-039a6116c3",
+          "answer": "Main weight-bearing bone of the leg and distal attachment site for major knee stabilisers.",
+          "sources": [
+            {
+              "modelId": "knee-joint-model-ns19",
+              "cardId": "knee-joint-model-ns19-19",
+              "sourceLine": 19
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-2389607e0b",
+      "question": "Muscle attachments",
+      "preferredVariantId": "v-8ba636c460",
+      "variants": [
+        {
+          "id": "v-8ba636c460",
+          "answer": "Patellar ligament on tuberosity; pes anserinus on superior medial surface; semimembranosus posterior to medial condyle; popliteus above soleal line; soleus, tibialis anterior/posterior and flexor digitorum longus on shaft regions.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-597",
+              "sourceLine": 597
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "foot-model-ns9",
+      "section": "Bones",
+      "path": [
+        "1"
+      ],
+      "label": "1"
+    },
+    {
+      "modelId": "knee-joint-model-ns19",
+      "section": "Bones",
+      "path": [
+        "3"
+      ],
+      "label": "3"
+    },
+    {
+      "modelId": "lower-limb-model-ns10",
+      "section": "Bones",
+      "path": [
+        "83"
+      ],
+      "label": "83"
+    }
+  ]
+}

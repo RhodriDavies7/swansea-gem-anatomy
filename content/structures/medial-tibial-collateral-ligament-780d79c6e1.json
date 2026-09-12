@@ -1,0 +1,128 @@
+{
+  "id": "medial-tibial-collateral-ligament-780d79c6e1",
+  "name": "Medial (tibial) collateral ligament",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Ligaments"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Attachments",
+    "Clinical",
+    "Function",
+    "Ligament",
+    "LigamentsAndMenisci",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-87006a3eec",
+      "variants": [
+        {
+          "id": "v-87006a3eec",
+          "answer": "Medial (tibial) collateral ligament",
+          "sources": [
+            {
+              "modelId": "knee-joint-model-ns19",
+              "cardId": "knee-joint-model-ns19-37",
+              "sourceLine": 37
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6771ade6e8",
+      "question": "Attachments",
+      "preferredVariantId": "v-d6f8df4d71",
+      "variants": [
+        {
+          "id": "v-d6f8df4d71",
+          "answer": "From medial femoral epicondyle to medial tibial condyle and proximal medial tibia.",
+          "sources": [
+            {
+              "modelId": "knee-joint-model-ns19",
+              "cardId": "knee-joint-model-ns19-38",
+              "sourceLine": 38
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-33061e3fac",
+      "variants": [
+        {
+          "id": "v-33061e3fac",
+          "answer": "Resists valgus stress and contributes to medial knee stability.",
+          "sources": [
+            {
+              "modelId": "knee-joint-model-ns19",
+              "cardId": "knee-joint-model-ns19-39",
+              "sourceLine": 39
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-8254f261cf",
+      "variants": [
+        {
+          "id": "v-8254f261cf",
+          "answer": "Deep fibres blend with joint capsule and medial meniscus.",
+          "sources": [
+            {
+              "modelId": "knee-joint-model-ns19",
+              "cardId": "knee-joint-model-ns19-40",
+              "sourceLine": 40
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-b03737e3cd",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-576dd7eeee",
+      "variants": [
+        {
+          "id": "v-576dd7eeee",
+          "answer": "Can be injured with valgus force; associated medial meniscal injury may occur because of their attachment.",
+          "sources": [
+            {
+              "modelId": "knee-joint-model-ns19",
+              "cardId": "knee-joint-model-ns19-41",
+              "sourceLine": 41
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "knee-joint-model-ns19",
+      "section": "Ligaments and menisci",
+      "path": [
+        "6"
+      ],
+      "label": "6"
+    }
+  ]
+}

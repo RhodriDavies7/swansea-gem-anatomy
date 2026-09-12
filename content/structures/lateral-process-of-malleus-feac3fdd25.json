@@ -1,0 +1,72 @@
+{
+  "id": "lateral-process-of-malleus-feac3fdd25",
+  "name": "Lateral process of malleus",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [],
+  "organs": [
+    "Ear"
+  ],
+  "tags": [
+    "MiddleEar",
+    "OssiclePart",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-63b21967e0",
+      "variants": [
+        {
+          "id": "v-63b21967e0",
+          "answer": "Lateral process of malleus",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-148",
+              "sourceLine": 148
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-fdc6cb05e8",
+      "variants": [
+        {
+          "id": "v-fdc6cb05e8",
+          "answer": "Projects laterally toward the tympanic membrane and contributes to the malleolar folds.",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-149",
+              "sourceLine": 149
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "ear-largest-model-ds1",
+      "section": "C. Middle ear",
+      "path": [
+        "25",
+        "c"
+      ],
+      "label": "25c"
+    }
+  ]
+}

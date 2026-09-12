@@ -1,0 +1,182 @@
+{
+  "id": "tricuspid-valve-right-atrioventricular-valve-7bb0f89fae",
+  "name": "Tricuspid valve (right atrioventricular valve)",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck",
+    "Thorax"
+  ],
+  "systems": [
+    "Cardiovascular",
+    "Respiratory"
+  ],
+  "organs": [
+    "Heart",
+    "Larynx"
+  ],
+  "tags": [
+    "AuriclesVesselsValves",
+    "CardiacVesselsValves",
+    "Clinical",
+    "Function",
+    "Location",
+    "Structure",
+    "Valve"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-4c962b575e",
+      "variants": [
+        {
+          "id": "v-4c962b575e",
+          "answer": "Tricuspid valve (right atrioventricular valve)",
+          "sources": [
+            {
+              "modelId": "heart-model-hs5",
+              "cardId": "heart-model-hs5-71",
+              "sourceLine": 71
+            },
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-182",
+              "sourceLine": 182
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-667d75785f",
+      "variants": [
+        {
+          "id": "v-667d75785f",
+          "answer": "Between right atrium and right ventricle.",
+          "sources": [
+            {
+              "modelId": "heart-model-hs5",
+              "cardId": "heart-model-hs5-72",
+              "sourceLine": 72
+            },
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-183",
+              "sourceLine": 183
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-6770c684da",
+      "variants": [
+        {
+          "id": "v-6770c684da",
+          "answer": "Usually has anterior, posterior and septal cusps attached to chordae tendineae and papillary muscles.",
+          "sources": [
+            {
+              "modelId": "heart-model-hs5",
+              "cardId": "heart-model-hs5-73",
+              "sourceLine": 73
+            }
+          ]
+        },
+        {
+          "id": "v-8dd03ae47c",
+          "answer": "Usually has anterior, posterior and septal cusps connected to chordae tendineae.",
+          "sources": [
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-184",
+              "sourceLine": 184
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-c5956971da",
+      "variants": [
+        {
+          "id": "v-c5956971da",
+          "answer": "Prevents backflow from right ventricle to right atrium during ventricular systole.",
+          "sources": [
+            {
+              "modelId": "heart-model-hs5",
+              "cardId": "heart-model-hs5-74",
+              "sourceLine": 74
+            }
+          ]
+        },
+        {
+          "id": "v-d0cd374962",
+          "answer": "Prevents backflow into right atrium during ventricular systole.",
+          "sources": [
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-185",
+              "sourceLine": 185
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-b03737e3cd",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-b63e9b202f",
+      "variants": [
+        {
+          "id": "v-b63e9b202f",
+          "answer": "Regurgitation may produce prominent systolic venous pulsation and right-sided volume overload.",
+          "sources": [
+            {
+              "modelId": "heart-model-hs5",
+              "cardId": "heart-model-hs5-75",
+              "sourceLine": 75
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "heart-model-hs5",
+      "section": "Auricles, great vessels and valves",
+      "path": [
+        "e"
+      ],
+      "label": "e"
+    },
+    {
+      "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+      "section": "Cardiac vessels and valves",
+      "path": [
+        "25"
+      ],
+      "label": "25"
+    }
+  ]
+}

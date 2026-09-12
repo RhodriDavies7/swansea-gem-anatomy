@@ -1,0 +1,109 @@
+{
+  "id": "tendon-of-the-flexor-digitorum-superficialis-muscle-34af81cea1",
+  "name": "Tendon of the flexor digitorum superficialis muscle",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Tendons"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Course",
+    "Function",
+    "Insertion",
+    "MusclesAndTendons",
+    "Tendon"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-da17f8d7b4",
+      "variants": [
+        {
+          "id": "v-da17f8d7b4",
+          "answer": "Tendon of the flexor digitorum superficialis muscle",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-135",
+              "sourceLine": 135
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-5431b57c1b",
+      "variants": [
+        {
+          "id": "v-5431b57c1b",
+          "answer": "Passes through carpal tunnel and digital sheaths; each tendon splits around the FDP tendon at Camper's chiasm.",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-136",
+              "sourceLine": 136
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-87365bc3e6",
+      "variants": [
+        {
+          "id": "v-87365bc3e6",
+          "answer": "Sides of middle phalanges of digits 2–5.",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-137",
+              "sourceLine": 137
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-33843ed23f",
+      "variants": [
+        {
+          "id": "v-33843ed23f",
+          "answer": "Flexes proximal interphalangeal joints and assists MCP/wrist flexion.",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-138",
+              "sourceLine": 138
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "hand-model-ns13",
+      "section": "Muscles, tendons and pulleys",
+      "path": [
+        "q"
+      ],
+      "label": "q"
+    }
+  ]
+}

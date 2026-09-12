@@ -1,0 +1,129 @@
+{
+  "id": "tendon-of-superior-oblique-muscle-4e410a0af7",
+  "name": "Tendon of superior oblique muscle",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Tendons"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [
+    "Eye"
+  ],
+  "tags": [
+    "Course",
+    "Function",
+    "Insertion",
+    "Origin",
+    "Tendon"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-04289d8f9e",
+      "variants": [
+        {
+          "id": "v-04289d8f9e",
+          "answer": "Tendon of superior oblique muscle",
+          "sources": [
+            {
+              "modelId": "eyeball-model-cs7",
+              "cardId": "eyeball-model-cs7-30",
+              "sourceLine": 30
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-5fdcfd4ceb",
+      "variants": [
+        {
+          "id": "v-5fdcfd4ceb",
+          "answer": "Continuation of the superior oblique muscle after passing through the trochlea.",
+          "sources": [
+            {
+              "modelId": "eyeball-model-cs7",
+              "cardId": "eyeball-model-cs7-31",
+              "sourceLine": 31
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-69542cb7f2",
+      "variants": [
+        {
+          "id": "v-69542cb7f2",
+          "answer": "Reflects posterolaterally from the trochlea across the superior aspect of the globe.",
+          "sources": [
+            {
+              "modelId": "eyeball-model-cs7",
+              "cardId": "eyeball-model-cs7-32",
+              "sourceLine": 32
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-e5da24df5a",
+      "variants": [
+        {
+          "id": "v-e5da24df5a",
+          "answer": "Posterolateral superior sclera, behind the equator of the globe.",
+          "sources": [
+            {
+              "modelId": "eyeball-model-cs7",
+              "cardId": "eyeball-model-cs7-33",
+              "sourceLine": 33
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-3e855c289f",
+      "variants": [
+        {
+          "id": "v-3e855c289f",
+          "answer": "Transmits superior oblique force to intort, depress and abduct the eye.",
+          "sources": [
+            {
+              "modelId": "eyeball-model-cs7",
+              "cardId": "eyeball-model-cs7-34",
+              "sourceLine": 34
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "eyeball-model-cs7",
+      "section": "",
+      "path": [
+        "5"
+      ],
+      "label": "5"
+    }
+  ]
+}

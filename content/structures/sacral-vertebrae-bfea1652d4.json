@@ -1,0 +1,128 @@
+{
+  "id": "sacral-vertebrae-bfea1652d4",
+  "name": "Sacral vertebrae",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Bones"
+  ],
+  "regions": [
+    "Pelvis"
+  ],
+  "systems": [
+    "Musculoskeletal",
+    "Reproductive"
+  ],
+  "organs": [],
+  "tags": [
+    "Articulations",
+    "Attachments",
+    "Bone",
+    "Landmarks",
+    "Orientation"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-3989a24a50",
+      "variants": [
+        {
+          "id": "v-3989a24a50",
+          "answer": "Sacral vertebrae",
+          "sources": [
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-9",
+              "sourceLine": 9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-a40bee8d10",
+      "question": "Articulations",
+      "preferredVariantId": "v-925a86b355",
+      "variants": [
+        {
+          "id": "v-925a86b355",
+          "answer": "The fused sacral vertebrae form the sacrum, articulating with L5 superiorly, the ilia laterally and the coccyx inferiorly.",
+          "sources": [
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-10",
+              "sourceLine": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-626b6c1d45",
+      "question": "Landmarks",
+      "preferredVariantId": "v-0351426220",
+      "variants": [
+        {
+          "id": "v-0351426220",
+          "answer": "Sacral promontory, alae, anterior and posterior sacral foramina, median sacral crest, auricular surfaces, sacral canal and sacral hiatus.",
+          "sources": [
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-11",
+              "sourceLine": 11
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-2389607e0b",
+      "question": "Muscle attachments",
+      "preferredVariantId": "v-72695980bc",
+      "variants": [
+        {
+          "id": "v-72695980bc",
+          "answer": "Piriformis arises from the pelvic surface; gluteus maximus and multifidus attach posteriorly; pelvic floor muscles attach to the lower lateral sacrum.",
+          "sources": [
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-12",
+              "sourceLine": 12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-86e4e38754",
+      "question": "Orientation",
+      "preferredVariantId": "v-0bcddcacdf",
+      "variants": [
+        {
+          "id": "v-0bcddcacdf",
+          "answer": "Broad base superior and apex inferior; smooth concave pelvic surface anterior, rough crested surface posterior.",
+          "sources": [
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-13",
+              "sourceLine": 13
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "female-reproductive-system-model-ms1",
+      "section": "",
+      "path": [
+        "2"
+      ],
+      "label": "2"
+    }
+  ]
+}

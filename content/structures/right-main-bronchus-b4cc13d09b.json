@@ -1,0 +1,187 @@
+{
+  "id": "right-main-bronchus-b4cc13d09b",
+  "name": "Right main bronchus",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Respiratory"
+  ],
+  "organs": [
+    "Larynx"
+  ],
+  "tags": [
+    "Branches",
+    "Bronchi",
+    "Bronchus",
+    "Clinical",
+    "Course",
+    "LarynxAndAirway"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-c5b686874b",
+      "variants": [
+        {
+          "id": "v-c5b686874b",
+          "answer": "Right main bronchus",
+          "sources": [
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-289",
+              "sourceLine": 289
+            },
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-71",
+              "sourceLine": 71
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-c9cef5ed59",
+      "variants": [
+        {
+          "id": "v-c9cef5ed59",
+          "answer": "Passes from the tracheal bifurcation toward the right lung; shorter, wider and more vertical than the left main bronchus.",
+          "sources": [
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-290",
+              "sourceLine": 290
+            }
+          ]
+        },
+        {
+          "id": "v-0fbfa4ee51",
+          "answer": "Shorter, wider and more vertical than the left main bronchus.",
+          "sources": [
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-72",
+              "sourceLine": 72
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-f578227926",
+      "question": "Branches",
+      "preferredVariantId": "curated-4ca0b32ced",
+      "variants": [
+        {
+          "id": "v-bd5287d3bd",
+          "answer": "Divides into right lobar bronchi; the superior lobar bronchus is eparterial.",
+          "sources": [
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-291",
+              "sourceLine": 291
+            }
+          ]
+        },
+        {
+          "id": "v-1a0b99c44d",
+          "answer": "Divides into right upper, middle and lower lobar bronchi.",
+          "sources": [
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-73",
+              "sourceLine": 73
+            }
+          ]
+        },
+        {
+          "id": "curated-4ca0b32ced",
+          "answer": "Divides into upper, middle and lower lobar bronchi; the upper lobar bronchus arises above the pulmonary artery (eparterial).",
+          "sources": [
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-291",
+              "sourceLine": 291
+            },
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-73",
+              "sourceLine": 73
+            }
+          ],
+          "editorial": true
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-b03737e3cd",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-2f3e858b14",
+      "variants": [
+        {
+          "id": "v-2f3e858b14",
+          "answer": "Aspirated foreign bodies are more likely to enter the right main bronchus because of its more vertical course.",
+          "sources": [
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-292",
+              "sourceLine": 292
+            }
+          ]
+        },
+        {
+          "id": "v-d493eb1aca",
+          "answer": "Aspirated foreign bodies are more likely to enter the right main bronchus.",
+          "sources": [
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-74",
+              "sourceLine": 74
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "larynx-and-airway-model-gs5",
+      "section": "Main bronchi",
+      "path": [
+        "A"
+      ],
+      "label": "A"
+    },
+    {
+      "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+      "section": "Larynx and airway",
+      "path": [
+        "6"
+      ],
+      "label": "6"
+    }
+  ]
+}

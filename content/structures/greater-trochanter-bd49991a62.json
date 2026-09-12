@@ -1,0 +1,172 @@
+{
+  "id": "greater-trochanter-bd49991a62",
+  "name": "Greater trochanter",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Bones"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Attachments",
+    "Bone",
+    "Bones",
+    "BonyLandmark",
+    "Clinical",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-08a780072d",
+      "variants": [
+        {
+          "id": "v-08a780072d",
+          "answer": "Greater trochanter",
+          "sources": [
+            {
+              "modelId": "hip-joint-model-ns20",
+              "cardId": "hip-joint-model-ns20-31",
+              "sourceLine": 31
+            },
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-558",
+              "sourceLine": 558
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6771ade6e8",
+      "question": "Attachments",
+      "preferredVariantId": "v-25dc5fb771",
+      "variants": [
+        {
+          "id": "v-25dc5fb771",
+          "answer": "Major attachment site for gluteus medius/minimus, piriformis, obturator internus and gemelli.",
+          "sources": [
+            {
+              "modelId": "hip-joint-model-ns20",
+              "cardId": "hip-joint-model-ns20-32",
+              "sourceLine": 32
+            }
+          ]
+        },
+        {
+          "id": "v-ba0e028a80",
+          "answer": "Gluteus medius laterally, minimus anteriorly, piriformis superiorly, obturator internus/gemelli medially; obturator externus inserts into trochanteric fossa. Vastus lateralis arises partly from it.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-560",
+              "sourceLine": 560
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-b8cefed833",
+      "variants": [
+        {
+          "id": "v-b8cefed833",
+          "answer": "Large lateral projection of proximal femur.",
+          "sources": [
+            {
+              "modelId": "hip-joint-model-ns20",
+              "cardId": "hip-joint-model-ns20-33",
+              "sourceLine": 33
+            }
+          ]
+        },
+        {
+          "id": "v-854705901a",
+          "answer": "Large lateral projection beside femoral neck; covered by gluteal tendons and bursae beneath iliotibial tract.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-561",
+              "sourceLine": 561
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-bcf605d6bb",
+      "question": "Bone",
+      "preferredVariantId": "v-a8e71a1d57",
+      "variants": [
+        {
+          "id": "v-a8e71a1d57",
+          "answer": "Proximal femur.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-559",
+              "sourceLine": 559
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-b03737e3cd",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-d137955780",
+      "variants": [
+        {
+          "id": "v-d137955780",
+          "answer": "Lateral hip pain may arise from gluteal tendinopathy and associated trochanteric bursae.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-562",
+              "sourceLine": 562
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "hip-joint-model-ns20",
+      "section": "Bones and bony landmarks",
+      "path": [
+        "2",
+        "e"
+      ],
+      "label": "2e"
+    },
+    {
+      "modelId": "lower-limb-model-ns10",
+      "section": "Bones",
+      "path": [
+        "77"
+      ],
+      "label": "77"
+    }
+  ]
+}

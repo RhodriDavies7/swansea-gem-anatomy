@@ -1,0 +1,185 @@
+{
+  "id": "labium-majus-997f686ad2",
+  "name": "Labium majus",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Pelvis"
+  ],
+  "systems": [
+    "Reproductive"
+  ],
+  "organs": [],
+  "tags": [
+    "ExternalGenitalia",
+    "Function",
+    "Innervation",
+    "Relations",
+    "Structure"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-d26404d8bd",
+      "variants": [
+        {
+          "id": "v-d26404d8bd",
+          "answer": "Labium majus",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-183",
+              "sourceLine": 183
+            },
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-23",
+              "sourceLine": 23
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-05a752cbed",
+      "variants": [
+        {
+          "id": "v-0bd703e42b",
+          "answer": "Paired hair-bearing skin folds containing fat and connective tissue.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-184",
+              "sourceLine": 184
+            }
+          ]
+        },
+        {
+          "id": "v-05a752cbed",
+          "answer": "Paired skin folds containing fat, smooth muscle and connective tissue; homologous to the male scrotum.",
+          "sources": [
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-25",
+              "sourceLine": 25
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-d562da8fb9",
+      "variants": [
+        {
+          "id": "v-d562da8fb9",
+          "answer": "Protects the more medial vulval structures.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-185",
+              "sourceLine": 185
+            }
+          ]
+        },
+        {
+          "id": "v-72bda8c0b4",
+          "answer": "Forms the lateral boundary of the pudendal cleft and protects the more medial external genital structures.",
+          "sources": [
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-24",
+              "sourceLine": 24
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-720cd3bf1a",
+      "variants": [
+        {
+          "id": "v-720cd3bf1a",
+          "answer": "Lies lateral to the labium minus and extends from mons pubis toward the perineum.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-186",
+              "sourceLine": 186
+            }
+          ]
+        },
+        {
+          "id": "v-a68b6cb76d",
+          "answer": "Extends from the mons pubis anteriorly toward the perineum posteriorly, lateral to the labium minus.",
+          "sources": [
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-26",
+              "sourceLine": 26
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-522176c6db",
+      "variants": [
+        {
+          "id": "v-522176c6db",
+          "answer": "Anterior parts receive ilioinguinal and genital branch of genitofemoral nerves; posterior parts receive posterior labial branches of pudendal nerve.",
+          "sources": [
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-27",
+              "sourceLine": 27
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "female-pelvis-model-mo8",
+      "section": "",
+      "path": [
+        "24"
+      ],
+      "label": "24"
+    },
+    {
+      "modelId": "female-reproductive-system-model-ms1",
+      "section": "",
+      "path": [
+        "4"
+      ],
+      "label": "4"
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "id": "quadrate-lobe-477dd9bf91",
+  "name": "Quadrate lobe",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Abdomen"
+  ],
+  "systems": [
+    "Digestive"
+  ],
+  "organs": [
+    "Liver"
+  ],
+  "tags": [
+    "LiverLobe",
+    "LobesAndLandmarks",
+    "Location",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-b219ab4cdb",
+      "variants": [
+        {
+          "id": "v-b219ab4cdb",
+          "answer": "Quadrate lobe",
+          "sources": [
+            {
+              "modelId": "liver-js5",
+              "cardId": "liver-js5-15",
+              "sourceLine": 15
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-d73b738ec6",
+      "variants": [
+        {
+          "id": "v-d73b738ec6",
+          "answer": "On the visceral surface between the gallbladder fossa and fissure for the ligamentum teres.",
+          "sources": [
+            {
+              "modelId": "liver-js5",
+              "cardId": "liver-js5-16",
+              "sourceLine": 16
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-b5362af5a7",
+      "variants": [
+        {
+          "id": "v-b5362af5a7",
+          "answer": "Inferior to the porta hepatis.",
+          "sources": [
+            {
+              "modelId": "liver-js5",
+              "cardId": "liver-js5-17",
+              "sourceLine": 17
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-5ac29d19cf",
+      "question": "Functional anatomy",
+      "preferredVariantId": "v-46d16fd3af",
+      "variants": [
+        {
+          "id": "v-46d16fd3af",
+          "answer": "Functionally associated with the left liver because of its vascular and biliary drainage pattern.",
+          "sources": [
+            {
+              "modelId": "liver-js5",
+              "cardId": "liver-js5-18",
+              "sourceLine": 18
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "liver-js5",
+      "section": "Lobes and surface landmarks",
+      "path": [
+        "3"
+      ],
+      "label": "3"
+    }
+  ]
+}

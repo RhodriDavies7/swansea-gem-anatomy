@@ -1,0 +1,226 @@
+{
+  "id": "right-coronary-artery-658b9c7c3a",
+  "name": "Right coronary artery",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Arteries"
+  ],
+  "regions": [
+    "Head and neck",
+    "Thorax"
+  ],
+  "systems": [
+    "Cardiovascular",
+    "Respiratory"
+  ],
+  "organs": [
+    "Heart",
+    "Larynx"
+  ],
+  "tags": [
+    "Artery",
+    "Branches",
+    "CardiacVesselsValves",
+    "Clinical",
+    "Course",
+    "InternalCoronary",
+    "Origin",
+    "Supply"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-8571ae3da0",
+      "variants": [
+        {
+          "id": "v-8571ae3da0",
+          "answer": "Right coronary artery",
+          "sources": [
+            {
+              "modelId": "heart-model-hs5",
+              "cardId": "heart-model-hs5-131",
+              "sourceLine": 131
+            },
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-211",
+              "sourceLine": 211
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-b2b83be160",
+      "variants": [
+        {
+          "id": "v-b2b83be160",
+          "answer": "Arises from the right aortic sinus.",
+          "sources": [
+            {
+              "modelId": "heart-model-hs5",
+              "cardId": "heart-model-hs5-132",
+              "sourceLine": 132
+            }
+          ]
+        },
+        {
+          "id": "v-e2b9fac2da",
+          "answer": "Arises from right aortic sinus.",
+          "sources": [
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-212",
+              "sourceLine": 212
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-0b7fc57d18",
+      "variants": [
+        {
+          "id": "v-0b7fc57d18",
+          "answer": "Runs in the right atrioventricular groove and continues toward the inferior surface of the heart.",
+          "sources": [
+            {
+              "modelId": "heart-model-hs5",
+              "cardId": "heart-model-hs5-133",
+              "sourceLine": 133
+            }
+          ]
+        },
+        {
+          "id": "v-8ef78ebfc4",
+          "answer": "Runs in right atrioventricular groove.",
+          "sources": [
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-213",
+              "sourceLine": 213
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-f578227926",
+      "question": "Branches",
+      "preferredVariantId": "v-c205bfec8c",
+      "variants": [
+        {
+          "id": "v-c205bfec8c",
+          "answer": "Common branches include right marginal artery and, in right-dominant hearts, the posterior interventricular artery.",
+          "sources": [
+            {
+              "modelId": "heart-model-hs5",
+              "cardId": "heart-model-hs5-134",
+              "sourceLine": 134
+            }
+          ]
+        },
+        {
+          "id": "v-a1ba3bad74",
+          "answer": "Common branches include right marginal artery and often posterior interventricular artery.",
+          "sources": [
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-214",
+              "sourceLine": 214
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-222db0fc1c",
+      "question": "Supply",
+      "preferredVariantId": "v-57470842af",
+      "variants": [
+        {
+          "id": "v-57470842af",
+          "answer": "Typically supplies right atrium, most of right ventricle, part of left ventricle, posterior third of interventricular septum and often SA/AV nodes.",
+          "sources": [
+            {
+              "modelId": "heart-model-hs5",
+              "cardId": "heart-model-hs5-135",
+              "sourceLine": 135
+            }
+          ]
+        },
+        {
+          "id": "v-d4fe6a3ef0",
+          "answer": "Typically supplies right atrium, most of right ventricle and parts of conduction system.",
+          "sources": [
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-215",
+              "sourceLine": 215
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-b03737e3cd",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-f906c4a121",
+      "variants": [
+        {
+          "id": "v-f906c4a121",
+          "answer": "Occlusion may cause inferior myocardial infarction and can affect AV nodal conduction.",
+          "sources": [
+            {
+              "modelId": "heart-model-hs5",
+              "cardId": "heart-model-hs5-136",
+              "sourceLine": 136
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "heart-model-hs5",
+      "section": "Internal and coronary structures",
+      "path": [
+        "4"
+      ],
+      "label": "4"
+    },
+    {
+      "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+      "section": "Cardiac vessels and valves",
+      "path": [
+        "30"
+      ],
+      "label": "30"
+    }
+  ]
+}

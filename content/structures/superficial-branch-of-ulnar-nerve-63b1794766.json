@@ -1,0 +1,146 @@
+{
+  "id": "superficial-branch-of-ulnar-nerve-63b1794766",
+  "name": "Superficial branch of ulnar nerve",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Nerves"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [],
+  "tags": [
+    "Course",
+    "Lesion",
+    "Motor",
+    "Nerve",
+    "Roots",
+    "Sensory"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-b069db8774",
+      "variants": [
+        {
+          "id": "v-b069db8774",
+          "answer": "Superficial branch of ulnar nerve",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-498",
+              "sourceLine": 498
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-4d78ec7d11",
+      "question": "Roots",
+      "preferredVariantId": "v-dfb6ed9d15",
+      "variants": [
+        {
+          "id": "v-dfb6ed9d15",
+          "answer": "C8–T1.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-499",
+              "sourceLine": 499
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-7830147312",
+      "variants": [
+        {
+          "id": "v-7830147312",
+          "answer": "Continues superficially in palm after ulnar nerve divides in Guyon’s canal.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-500",
+              "sourceLine": 500
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c8b6915183",
+      "question": "Motor functions",
+      "preferredVariantId": "v-98757623cc",
+      "variants": [
+        {
+          "id": "v-98757623cc",
+          "answer": "Usually supplies palmaris brevis; otherwise mainly sensory.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-501",
+              "sourceLine": 501
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-a453254382",
+      "question": "Sensory functions",
+      "preferredVariantId": "v-be28ed2299",
+      "variants": [
+        {
+          "id": "v-be28ed2299",
+          "answer": "Palmar surface of little finger and ulnar half of ring finger via proper/common palmar digital nerves.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-502",
+              "sourceLine": 502
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-bc53d10c57",
+      "question": "Lesion",
+      "preferredVariantId": "v-3e1c37c384",
+      "variants": [
+        {
+          "id": "v-3e1c37c384",
+          "answer": "Produces sensory loss in palmar medial 1½ digits with relatively preserved deep intrinsic motor function if deep branch is spared.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-503",
+              "sourceLine": 503
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "upper-limb-model-ns15",
+      "section": "Nerves",
+      "path": [
+        "78"
+      ],
+      "label": "78"
+    }
+  ]
+}

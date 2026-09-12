@@ -1,0 +1,91 @@
+{
+  "id": "oblique-head-of-adductor-hallucis-1bdb6d9153",
+  "name": "Oblique head of adductor hallucis",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Function",
+    "MusclePart",
+    "Muscles",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-31c3354499",
+      "variants": [
+        {
+          "id": "v-31c3354499",
+          "answer": "Oblique head of adductor hallucis",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-212",
+              "sourceLine": 212
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-f9887a7999",
+      "variants": [
+        {
+          "id": "v-f9887a7999",
+          "answer": "Bases of metatarsals 2–4 and sheath of fibularis longus tendon.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-213",
+              "sourceLine": 213
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-350fa2a50e",
+      "variants": [
+        {
+          "id": "v-350fa2a50e",
+          "answer": "Adducts hallux and contributes to transverse arch support.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-214",
+              "sourceLine": 214
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "foot-model-ns9",
+      "section": "Muscles",
+      "path": [
+        "31",
+        "a"
+      ],
+      "label": "31a"
+    }
+  ]
+}

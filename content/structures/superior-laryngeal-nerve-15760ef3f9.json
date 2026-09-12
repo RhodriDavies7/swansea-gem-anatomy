@@ -1,0 +1,267 @@
+{
+  "id": "superior-laryngeal-nerve-15760ef3f9",
+  "name": "Superior laryngeal nerve",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Nerves"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Nervous",
+    "Respiratory"
+  ],
+  "organs": [
+    "Larynx"
+  ],
+  "tags": [
+    "ArteriesAndNerves",
+    "Course",
+    "Larynx",
+    "Lesion",
+    "Motor",
+    "Nerve",
+    "Roots",
+    "Sensory"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-b8cdcaab88",
+      "variants": [
+        {
+          "id": "v-b8cdcaab88",
+          "answer": "Superior laryngeal nerve",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-208",
+              "sourceLine": 208
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-208",
+              "sourceLine": 208
+            },
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-139",
+              "sourceLine": 139
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-4d78ec7d11",
+      "question": "Roots",
+      "preferredVariantId": "v-572d550859",
+      "variants": [
+        {
+          "id": "v-572d550859",
+          "answer": "Branch of the vagus nerve (CN X).",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-209",
+              "sourceLine": 209
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-209",
+              "sourceLine": 209
+            },
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-140",
+              "sourceLine": 140
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-d25930dbf1",
+      "variants": [
+        {
+          "id": "v-d25930dbf1",
+          "answer": "Descends from the vagus and divides into internal and external branches near the hyoid/larynx.",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-210",
+              "sourceLine": 210
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-210",
+              "sourceLine": 210
+            }
+          ]
+        },
+        {
+          "id": "v-ce710b6656",
+          "answer": "Divides into internal and external branches near the hyoid/larynx.",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-141",
+              "sourceLine": 141
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-c8b6915183",
+      "question": "Motor functions",
+      "preferredVariantId": "v-44522e9259",
+      "variants": [
+        {
+          "id": "v-44522e9259",
+          "answer": "External branch supplies cricothyroid and contributes to inferior pharyngeal constrictor innervation.",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-211",
+              "sourceLine": 211
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-211",
+              "sourceLine": 211
+            }
+          ]
+        },
+        {
+          "id": "v-87ded00651",
+          "answer": "External branch supplies cricothyroid.",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-142",
+              "sourceLine": 142
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-a453254382",
+      "question": "Sensory functions",
+      "preferredVariantId": "v-593bcbd306",
+      "variants": [
+        {
+          "id": "v-593bcbd306",
+          "answer": "Internal branch provides sensation above the vocal folds and forms an important afferent limb of the cough reflex.",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-212",
+              "sourceLine": 212
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-212",
+              "sourceLine": 212
+            }
+          ]
+        },
+        {
+          "id": "v-13bc6a6814",
+          "answer": "Internal branch supplies sensation above the vocal folds and is important in the cough reflex.",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-143",
+              "sourceLine": 143
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-bc53d10c57",
+      "question": "Lesion",
+      "preferredVariantId": "v-f1c63767a5",
+      "variants": [
+        {
+          "id": "v-f1c63767a5",
+          "answer": "External branch injury causes reduced ability to produce high-pitched sounds and voice fatigue; internal branch injury reduces supraglottic sensation and the cough reflex, increasing aspiration risk.",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-213",
+              "sourceLine": 213
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-213",
+              "sourceLine": 213
+            }
+          ]
+        },
+        {
+          "id": "v-dd973302c8",
+          "answer": "External branch injury causes loss of high-pitch control and voice fatigue; internal branch injury reduces supraglottic sensation and cough reflex, increasing aspiration risk.",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-144",
+              "sourceLine": 144
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "larynx-model-gs7",
+      "section": "Arteries and nerves",
+      "path": [
+        "26"
+      ],
+      "label": "26"
+    },
+    {
+      "modelId": "larynx-and-airway-model-gs5",
+      "section": "Arteries and nerves",
+      "path": [
+        "26"
+      ],
+      "label": "26"
+    },
+    {
+      "modelId": "larynx-and-tongue-model-gs4",
+      "section": "Larynx",
+      "path": [
+        "22"
+      ],
+      "label": "22"
+    }
+  ]
+}

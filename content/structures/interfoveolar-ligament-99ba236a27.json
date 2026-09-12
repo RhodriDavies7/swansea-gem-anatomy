@@ -1,0 +1,128 @@
+{
+  "id": "interfoveolar-ligament-99ba236a27",
+  "name": "Interfoveolar ligament",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Ligaments"
+  ],
+  "regions": [
+    "Pelvis"
+  ],
+  "systems": [
+    "Musculoskeletal",
+    "Reproductive"
+  ],
+  "organs": [],
+  "tags": [
+    "AlsoCalled",
+    "Function",
+    "Ligament",
+    "Location",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-64aa1a7163",
+      "variants": [
+        {
+          "id": "v-64aa1a7163",
+          "answer": "Interfoveolar ligament",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-246",
+              "sourceLine": 246
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-4365b97418",
+      "question": "Also called",
+      "preferredVariantId": "v-9b0ea2cd7b",
+      "variants": [
+        {
+          "id": "v-9b0ea2cd7b",
+          "answer": "Hesselbach’s ligament.",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-247",
+              "sourceLine": 247
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-819163dc4e",
+      "variants": [
+        {
+          "id": "v-819163dc4e",
+          "answer": "Thickening of transversalis fascia near the medial side of the deep inguinal ring.",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-248",
+              "sourceLine": 248
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-beb33d502d",
+      "variants": [
+        {
+          "id": "v-beb33d502d",
+          "answer": "Related to the inferior epigastric vessels and posterior wall of the inguinal region.",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-249",
+              "sourceLine": 249
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-4360551148",
+      "variants": [
+        {
+          "id": "v-4360551148",
+          "answer": "Contributes to reinforcement of the posterior inguinal wall around the deep ring.",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-250",
+              "sourceLine": 250
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "male-reproductive-system-model-ms2",
+      "section": "",
+      "path": [
+        "28"
+      ],
+      "label": "28"
+    }
+  ]
+}

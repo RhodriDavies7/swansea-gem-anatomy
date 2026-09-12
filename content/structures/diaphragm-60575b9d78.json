@@ -1,0 +1,131 @@
+{
+  "id": "diaphragm-60575b9d78",
+  "name": "Diaphragm",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Musculoskeletal",
+    "Respiratory"
+  ],
+  "organs": [
+    "Larynx"
+  ],
+  "tags": [
+    "Action",
+    "Innervation",
+    "Insertion",
+    "MajorOrgans",
+    "Muscle",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-19a78b6680",
+      "variants": [
+        {
+          "id": "v-19a78b6680",
+          "answer": "Diaphragm",
+          "sources": [
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-37",
+              "sourceLine": 37
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-1f8371e028",
+      "variants": [
+        {
+          "id": "v-1f8371e028",
+          "answer": "Primary muscle of inspiration; contraction increases thoracic volume.",
+          "sources": [
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-38",
+              "sourceLine": 38
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-c7f37e08b9",
+      "variants": [
+        {
+          "id": "v-c7f37e08b9",
+          "answer": "Phrenic nerves (C3–C5) provide motor supply.",
+          "sources": [
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-39",
+              "sourceLine": 39
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-8c3f799baa",
+      "variants": [
+        {
+          "id": "v-8c3f799baa",
+          "answer": "Xiphoid process, lower six ribs/costal cartilages and upper lumbar vertebrae via crura.",
+          "sources": [
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-40",
+              "sourceLine": 40
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-8c91433848",
+      "variants": [
+        {
+          "id": "v-8c91433848",
+          "answer": "Central tendon.",
+          "sources": [
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-41",
+              "sourceLine": 41
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+      "section": "Major organs and regions (A–G)",
+      "path": [
+        "G"
+      ],
+      "label": "G"
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "id": "femoral-canal-7143a2cbbf",
+  "name": "Femoral canal",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Pelvis"
+  ],
+  "systems": [
+    "Reproductive"
+  ],
+  "organs": [],
+  "tags": [
+    "Boundaries",
+    "Canal",
+    "Clinical",
+    "Contents",
+    "Function",
+    "Location"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-f61d3e87d1",
+      "variants": [
+        {
+          "id": "v-f61d3e87d1",
+          "answer": "Femoral canal",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-232",
+              "sourceLine": 232
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-6a916cf6e6",
+      "variants": [
+        {
+          "id": "v-6a916cf6e6",
+          "answer": "Medial compartment of the femoral sheath, medial to the femoral vein.",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-233",
+              "sourceLine": 233
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f5cbdf6bfb",
+      "question": "Contents",
+      "preferredVariantId": "v-b7fd0120a3",
+      "variants": [
+        {
+          "id": "v-b7fd0120a3",
+          "answer": "Loose connective tissue, lymphatics and the deep inguinal lymph node.",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-234",
+              "sourceLine": 234
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-7bda16e7eb",
+      "variants": [
+        {
+          "id": "v-7bda16e7eb",
+          "answer": "Allows expansion of the femoral vein and provides a lymphatic passage.",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-235",
+              "sourceLine": 235
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-676167cbb2",
+      "question": "Boundaries",
+      "preferredVariantId": "v-eeeff8fa79",
+      "variants": [
+        {
+          "id": "v-eeeff8fa79",
+          "answer": "At the femoral ring: inguinal ligament anteriorly, pectineal ligament posteriorly, lacunar ligament medially and femoral vein laterally.",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-236",
+              "sourceLine": 236
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-b03737e3cd",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-6382e44824",
+      "variants": [
+        {
+          "id": "v-6382e44824",
+          "answer": "Site of femoral hernias, which have a relatively high risk of strangulation.",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-237",
+              "sourceLine": 237
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "male-reproductive-system-model-ms2",
+      "section": "",
+      "path": [
+        "26"
+      ],
+      "label": "26"
+    }
+  ]
+}

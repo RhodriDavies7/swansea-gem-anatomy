@@ -1,0 +1,108 @@
+{
+  "id": "perforating-artery-from-profunda-femoris-artery-1af62e228b",
+  "name": "Perforating artery from profunda femoris artery",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Arteries"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Cardiovascular"
+  ],
+  "organs": [],
+  "tags": [
+    "Artery",
+    "Course",
+    "Origin",
+    "Supply"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-394a133317",
+      "variants": [
+        {
+          "id": "v-394a133317",
+          "answer": "Perforating artery from profunda femoris artery",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-382",
+              "sourceLine": 382
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-b9ed0b1015",
+      "variants": [
+        {
+          "id": "v-b9ed0b1015",
+          "answer": "Profunda femoris artery.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-383",
+              "sourceLine": 383
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-bf283efd07",
+      "variants": [
+        {
+          "id": "v-bf283efd07",
+          "answer": "Pierces adductor magnus near linea aspera to reach posterior thigh.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-384",
+              "sourceLine": 384
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-222db0fc1c",
+      "question": "Supply",
+      "preferredVariantId": "v-31757909f6",
+      "variants": [
+        {
+          "id": "v-31757909f6",
+          "answer": "Hamstrings, adductors, vastus lateralis and femur; joins longitudinal anastomoses along posterior thigh.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-385",
+              "sourceLine": 385
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "lower-limb-model-ns10",
+      "section": "Blood vessels",
+      "path": [
+        "50"
+      ],
+      "label": "50"
+    }
+  ]
+}

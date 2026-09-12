@@ -1,0 +1,109 @@
+{
+  "id": "impression-left-by-branch-of-middle-meningeal-artery-e2b401dfea",
+  "name": "Impression left by branch of middle meningeal artery",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Bones"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "BonyLandmark",
+    "Clinical",
+    "HeadNeck",
+    "Location",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-6f9d6ade5a",
+      "variants": [
+        {
+          "id": "v-6f9d6ade5a",
+          "answer": "Impression left by branch of middle meningeal artery",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-526",
+              "sourceLine": 526
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-27a5191500",
+      "variants": [
+        {
+          "id": "v-27a5191500",
+          "answer": "Grooves on internal surface of skull, especially parietal/temporal regions.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-527",
+              "sourceLine": 527
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-95317adbb0",
+      "variants": [
+        {
+          "id": "v-95317adbb0",
+          "answer": "Produced by middle meningeal artery and branches.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-528",
+              "sourceLine": 528
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-b03737e3cd",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-e1aad56776",
+      "variants": [
+        {
+          "id": "v-e1aad56776",
+          "answer": "Temporal bone fracture may lacerate the middle meningeal artery and cause an epidural haematoma.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-529",
+              "sourceLine": 529
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "head-and-neck-model-cs17-2",
+      "section": "Dural venous sinuses, meninges and cranial markings",
+      "path": [
+        "82"
+      ],
+      "label": "82"
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "id": "transverse-sinus-5fe5953cd1",
+  "name": "Transverse sinus",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Veins"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Cardiovascular"
+  ],
+  "organs": [],
+  "tags": [
+    "Drainage",
+    "HeadNeck",
+    "Location",
+    "Relations",
+    "VenousSinus"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-e39e751305",
+      "variants": [
+        {
+          "id": "v-e39e751305",
+          "answer": "Transverse sinus",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-2",
+              "sourceLine": 2
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-510",
+              "sourceLine": 510
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-2a15a1cb38",
+      "variants": [
+        {
+          "id": "v-2a15a1cb38",
+          "answer": "Runs laterally from the confluence of sinuses along the attached margin of the tentorium cerebelli.",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-3",
+              "sourceLine": 3
+            }
+          ]
+        },
+        {
+          "id": "v-ea47535b35",
+          "answer": "Runs laterally from confluence of sinuses along tentorial attachment.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-511",
+              "sourceLine": 511
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-74a64b1943",
+      "question": "Drainage",
+      "preferredVariantId": "v-33c3e69113",
+      "variants": [
+        {
+          "id": "v-33c3e69113",
+          "answer": "Receives blood from the confluence of sinuses and drains into the sigmoid sinus.",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-4",
+              "sourceLine": 4
+            }
+          ]
+        },
+        {
+          "id": "v-1730f4bc94",
+          "answer": "Continues as sigmoid sinus and ultimately internal jugular vein.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-512",
+              "sourceLine": 512
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-1171d01fb7",
+      "variants": [
+        {
+          "id": "v-1171d01fb7",
+          "answer": "Lies in a groove of the occipital and temporal bones along the tentorial attachment.",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-5",
+              "sourceLine": 5
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "cranial-floor-model-bs1",
+      "section": "",
+      "path": [
+        "1"
+      ],
+      "label": "1"
+    },
+    {
+      "modelId": "head-and-neck-model-cs17-2",
+      "section": "Dural venous sinuses, meninges and cranial markings",
+      "path": [
+        "79"
+      ],
+      "label": "79"
+    }
+  ]
+}

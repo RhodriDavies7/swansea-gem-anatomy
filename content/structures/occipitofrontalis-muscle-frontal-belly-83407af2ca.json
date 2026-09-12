@@ -1,0 +1,187 @@
+{
+  "id": "occipitofrontalis-muscle-frontal-belly-83407af2ca",
+  "name": "Occipitofrontalis muscle (frontal belly)",
+  "aliases": [
+    "Frontalis part of occipitofrontalis muscle"
+  ],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "HeadNeckMuscles",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Origin",
+    "HeadNeck"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-44ec740aa2",
+      "variants": [
+        {
+          "id": "v-44ec740aa2",
+          "answer": "Occipitofrontalis muscle (frontal belly)",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-393",
+              "sourceLine": 393
+            }
+          ]
+        },
+        {
+          "id": "v-fffcd19e7c",
+          "answer": "Frontalis part of occipitofrontalis muscle",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-139",
+              "sourceLine": 139
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-ae4aad9eb2",
+      "variants": [
+        {
+          "id": "v-ae4aad9eb2",
+          "answer": "Elevates eyebrows and wrinkles forehead.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-394",
+              "sourceLine": 394
+            }
+          ]
+        },
+        {
+          "id": "v-3fe6f857b7",
+          "answer": "Raises eyebrows and wrinkles forehead.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-140",
+              "sourceLine": 140
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-879edabd6f",
+      "variants": [
+        {
+          "id": "v-879edabd6f",
+          "answer": "Facial nerve (CN VII), temporal branches.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-395",
+              "sourceLine": 395
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-141",
+              "sourceLine": 141
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-2639385e47",
+      "variants": [
+        {
+          "id": "v-2639385e47",
+          "answer": "Epicranial aponeurosis.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-396",
+              "sourceLine": 396
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-142",
+              "sourceLine": 142
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-9a2345acb9",
+      "variants": [
+        {
+          "id": "v-9a2345acb9",
+          "answer": "Skin of forehead and eyebrows.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-397",
+              "sourceLine": 397
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-143",
+              "sourceLine": 143
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "half-head-and-neck-model-bs9",
+      "section": "Musculature of the head and neck",
+      "path": [
+        "24"
+      ],
+      "label": "24"
+    },
+    {
+      "modelId": "head-and-neck-model-cs17-2",
+      "section": "Musculature of the head and neck",
+      "path": [
+        "26"
+      ],
+      "label": "26"
+    }
+  ],
+  "redirectIds": [
+    "frontalis-part-of-occipitofrontalis-muscle-63ed46b538"
+  ]
+}

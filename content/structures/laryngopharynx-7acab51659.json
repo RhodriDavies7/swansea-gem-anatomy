@@ -1,0 +1,122 @@
+{
+  "id": "laryngopharynx-7acab51659",
+  "name": "Laryngopharynx",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [],
+  "organs": [],
+  "tags": [
+    "Function",
+    "Location",
+    "MidSagittal",
+    "MidlineStructures",
+    "Pharynx"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-0033ce15aa",
+      "variants": [
+        {
+          "id": "v-0033ce15aa",
+          "answer": "Laryngopharynx",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-434",
+              "sourceLine": 434
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-327",
+              "sourceLine": 327
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-fdafca9efb",
+      "variants": [
+        {
+          "id": "v-fdafca9efb",
+          "answer": "Part of pharynx posterior to larynx, extending roughly from epiglottis/hyoid region to lower border of cricoid cartilage.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-435",
+              "sourceLine": 435
+            }
+          ]
+        },
+        {
+          "id": "v-d20c375d6d",
+          "answer": "Posterior to larynx, from epiglottis/hyoid region to lower border of cricoid.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-328",
+              "sourceLine": 328
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-00faf59174",
+      "variants": [
+        {
+          "id": "v-00faf59174",
+          "answer": "Conducts food toward oesophagus and air toward laryngeal inlet.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-436",
+              "sourceLine": 436
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-329",
+              "sourceLine": 329
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "coronal-and-mid-sagittal-head-mb20",
+      "section": "Other midline structures",
+      "path": [
+        "r"
+      ],
+      "label": "r"
+    },
+    {
+      "modelId": "half-head-and-neck-model-bs9",
+      "section": "Other midline structures",
+      "path": [
+        "r"
+      ],
+      "label": "r"
+    }
+  ]
+}

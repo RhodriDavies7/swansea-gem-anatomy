@@ -1,0 +1,127 @@
+{
+  "id": "sartorius-muscle-44738e2bf2",
+  "name": "Sartorius muscle",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-b4eb5308e5",
+      "variants": [
+        {
+          "id": "v-b4eb5308e5",
+          "answer": "Sartorius muscle",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-63",
+              "sourceLine": 63
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-c3ba318537",
+      "variants": [
+        {
+          "id": "v-c3ba318537",
+          "answer": "Flexes, abducts and laterally rotates the hip; flexes the knee and medially rotates the leg when the knee is flexed.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-64",
+              "sourceLine": 64
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-bf46229cc8",
+      "variants": [
+        {
+          "id": "v-bf46229cc8",
+          "answer": "Femoral nerve (L2–L3).",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-65",
+              "sourceLine": 65
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-cb56f6d64d",
+      "variants": [
+        {
+          "id": "v-cb56f6d64d",
+          "answer": "ASIS and notch immediately inferior to it.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-66",
+              "sourceLine": 66
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-aaa10afbde",
+      "variants": [
+        {
+          "id": "v-aaa10afbde",
+          "answer": "Superior medial tibia as part of the pes anserinus.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-67",
+              "sourceLine": 67
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "lower-limb-model-ns10",
+      "section": "Muscles",
+      "path": [
+        "10"
+      ],
+      "label": "10"
+    }
+  ]
+}

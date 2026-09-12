@@ -1,0 +1,109 @@
+{
+  "id": "dorsal-metatarsal-arteries-8f1227970a",
+  "name": "Dorsal metatarsal arteries",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Arteries"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Cardiovascular"
+  ],
+  "organs": [],
+  "tags": [
+    "ArteriesAndNerves",
+    "Artery",
+    "Course",
+    "Origin",
+    "Supply"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-c0cdb81f0e",
+      "variants": [
+        {
+          "id": "v-c0cdb81f0e",
+          "answer": "Dorsal metatarsal arteries",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-336",
+              "sourceLine": 336
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-8fc6054039",
+      "variants": [
+        {
+          "id": "v-8fc6054039",
+          "answer": "Arise mainly from arcuate artery and dorsalis pedis system.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-337",
+              "sourceLine": 337
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-c589c9fd46",
+      "variants": [
+        {
+          "id": "v-c589c9fd46",
+          "answer": "Run distally in dorsal intermetatarsal spaces.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-338",
+              "sourceLine": 338
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-222db0fc1c",
+      "question": "Supply",
+      "preferredVariantId": "v-aac2488285",
+      "variants": [
+        {
+          "id": "v-aac2488285",
+          "answer": "Dorsum of toes and adjacent foot through dorsal digital branches.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-339",
+              "sourceLine": 339
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "foot-model-ns9",
+      "section": "Arteries and nerves",
+      "path": [
+        "49"
+      ],
+      "label": "49"
+    }
+  ]
+}

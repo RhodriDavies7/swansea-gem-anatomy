@@ -1,0 +1,108 @@
+{
+  "id": "labyrinthine-artery-027cb98124",
+  "name": "Labyrinthine artery",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Arteries"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Cardiovascular"
+  ],
+  "organs": [],
+  "tags": [
+    "Artery",
+    "Course",
+    "Origin",
+    "Supply"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-19e8ad684e",
+      "variants": [
+        {
+          "id": "v-19e8ad684e",
+          "answer": "Labyrinthine artery",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-88",
+              "sourceLine": 88
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-d6da9b29dd",
+      "variants": [
+        {
+          "id": "v-d6da9b29dd",
+          "answer": "Usually arises from the anterior inferior cerebellar artery, sometimes directly from the basilar artery.",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-89",
+              "sourceLine": 89
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-e83e83e404",
+      "variants": [
+        {
+          "id": "v-e83e83e404",
+          "answer": "Enters the internal acoustic meatus with CN VII and VIII.",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-90",
+              "sourceLine": 90
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-222db0fc1c",
+      "question": "Supply",
+      "preferredVariantId": "v-d8a6e8341c",
+      "variants": [
+        {
+          "id": "v-d8a6e8341c",
+          "answer": "Inner ear structures.",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-91",
+              "sourceLine": 91
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "cranial-floor-model-bs1",
+      "section": "",
+      "path": [
+        "15"
+      ],
+      "label": "15"
+    }
+  ]
+}

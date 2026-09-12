@@ -1,0 +1,148 @@
+{
+  "id": "uterine-tube-fallopian-tube-8c1c664b54",
+  "name": "Uterine tube (Fallopian tube)",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Pelvis"
+  ],
+  "systems": [
+    "Reproductive"
+  ],
+  "organs": [],
+  "tags": [
+    "BloodSupply",
+    "Clinical",
+    "Course",
+    "Function",
+    "Parts",
+    "Tube"
+  ],
+  "imageIds": [
+    "img-387fad126ed6"
+  ],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-fa4cf51922",
+      "variants": [
+        {
+          "id": "v-fa4cf51922",
+          "answer": "Uterine tube (Fallopian tube)",
+          "sources": [
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-98",
+              "sourceLine": 98
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-f0831cc470",
+      "variants": [
+        {
+          "id": "v-f0831cc470",
+          "answer": "Transports the oocyte/early embryo; usual site of fertilisation is the ampulla.",
+          "sources": [
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-99",
+              "sourceLine": 99
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-e374280917",
+      "question": "Parts",
+      "preferredVariantId": "v-6078089c3b",
+      "variants": [
+        {
+          "id": "v-6078089c3b",
+          "answer": "Infundibulum with fimbriae, ampulla, isthmus and intramural/uterine part.",
+          "sources": [
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-100",
+              "sourceLine": 100
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-a1830530b7",
+      "variants": [
+        {
+          "id": "v-a1830530b7",
+          "answer": "Extends from the uterine horn laterally within the superior free margin of the broad ligament toward the ovary.",
+          "sources": [
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-101",
+              "sourceLine": 101
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-a707f7e176",
+      "question": "Blood supply",
+      "preferredVariantId": "v-88516915b7",
+      "variants": [
+        {
+          "id": "v-88516915b7",
+          "answer": "Tubal branches of uterine and ovarian arteries.",
+          "sources": [
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-102",
+              "sourceLine": 102
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-b03737e3cd",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-5c2bbc7c2f",
+      "variants": [
+        {
+          "id": "v-5c2bbc7c2f",
+          "answer": "Common site of ectopic pregnancy, especially the ampulla.",
+          "sources": [
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-103",
+              "sourceLine": 103
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "female-reproductive-system-model-ms1",
+      "section": "",
+      "path": [
+        "14"
+      ],
+      "label": "14"
+    }
+  ]
+}

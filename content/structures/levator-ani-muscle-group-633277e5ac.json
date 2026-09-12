@@ -1,0 +1,110 @@
+{
+  "id": "levator-ani-muscle-group-633277e5ac",
+  "name": "Levator ani muscle group",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Pelvis"
+  ],
+  "systems": [
+    "Reproductive"
+  ],
+  "organs": [],
+  "tags": [
+    "Components",
+    "Function",
+    "Innervation",
+    "MuscleGroup"
+  ],
+  "imageIds": [
+    "img-fb1041d8e591"
+  ],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-b99eb23b34",
+      "variants": [
+        {
+          "id": "v-b99eb23b34",
+          "answer": "Levator ani muscle group",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-136",
+              "sourceLine": 136
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-a72200f23b",
+      "variants": [
+        {
+          "id": "v-a72200f23b",
+          "answer": "Forms most of the pelvic diaphragm, supports pelvic viscera and contributes to urinary and faecal continence.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-137",
+              "sourceLine": 137
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-52e9cebae3",
+      "variants": [
+        {
+          "id": "v-52e9cebae3",
+          "answer": "Mainly nerve to levator ani (S3–S4), with contributions from pudendal nerve.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-138",
+              "sourceLine": 138
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9289473eee",
+      "question": "Components",
+      "preferredVariantId": "v-0524b95b17",
+      "variants": [
+        {
+          "id": "v-0524b95b17",
+          "answer": "Pubococcygeus and iliococcygeus are major components; puborectalis is also usually included anatomically.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-139",
+              "sourceLine": 139
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "female-pelvis-model-mo8",
+      "section": "",
+      "path": [
+        "17"
+      ],
+      "label": "17"
+    }
+  ]
+}

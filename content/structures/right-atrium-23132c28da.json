@@ -1,0 +1,182 @@
+{
+  "id": "right-atrium-23132c28da",
+  "name": "Right atrium",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck",
+    "Thorax"
+  ],
+  "systems": [
+    "Cardiovascular",
+    "Respiratory"
+  ],
+  "organs": [
+    "Heart",
+    "Larynx"
+  ],
+  "tags": [
+    "Chambers",
+    "Connections",
+    "Contents",
+    "Function",
+    "HeartChamber",
+    "HeartChambers",
+    "Landmarks"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-dd9470a0f7",
+      "variants": [
+        {
+          "id": "v-dd9470a0f7",
+          "answer": "Right atrium",
+          "sources": [
+            {
+              "modelId": "heart-model-hs5",
+              "cardId": "heart-model-hs5-17",
+              "sourceLine": 17
+            },
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-128",
+              "sourceLine": 128
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-27cf8f6191",
+      "variants": [
+        {
+          "id": "v-27cf8f6191",
+          "answer": "Receives systemic venous blood and delivers it to the right ventricle.",
+          "sources": [
+            {
+              "modelId": "heart-model-hs5",
+              "cardId": "heart-model-hs5-18",
+              "sourceLine": 18
+            },
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-129",
+              "sourceLine": 129
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-434bed5fc1",
+      "question": "Inflow",
+      "preferredVariantId": "v-2049377d78",
+      "variants": [
+        {
+          "id": "v-2049377d78",
+          "answer": "Receives blood from the superior vena cava, inferior vena cava and coronary sinus.",
+          "sources": [
+            {
+              "modelId": "heart-model-hs5",
+              "cardId": "heart-model-hs5-19",
+              "sourceLine": 19
+            }
+          ]
+        },
+        {
+          "id": "v-9ccf817eff",
+          "answer": "Superior vena cava, inferior vena cava and coronary sinus.",
+          "sources": [
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-130",
+              "sourceLine": 130
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-fc92a7d5c4",
+      "question": "Outflow",
+      "preferredVariantId": "v-ce806dc8b2",
+      "variants": [
+        {
+          "id": "v-ce806dc8b2",
+          "answer": "Blood passes through the tricuspid valve into the right ventricle.",
+          "sources": [
+            {
+              "modelId": "heart-model-hs5",
+              "cardId": "heart-model-hs5-20",
+              "sourceLine": 20
+            }
+          ]
+        },
+        {
+          "id": "v-0201d16f89",
+          "answer": "Through tricuspid valve into right ventricle.",
+          "sources": [
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-131",
+              "sourceLine": 131
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-0681aa149d",
+      "question": "Internal features",
+      "preferredVariantId": "v-32a88de336",
+      "variants": [
+        {
+          "id": "v-32a88de336",
+          "answer": "Includes sinus venarum, pectinate muscles, crista terminalis and fossa ovalis.",
+          "sources": [
+            {
+              "modelId": "heart-model-hs5",
+              "cardId": "heart-model-hs5-21",
+              "sourceLine": 21
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "heart-model-hs5",
+      "section": "Chambers",
+      "path": [
+        "I"
+      ],
+      "label": "I"
+    },
+    {
+      "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+      "section": "Heart chambers and auricles",
+      "path": [
+        "16"
+      ],
+      "label": "16"
+    }
+  ]
+}

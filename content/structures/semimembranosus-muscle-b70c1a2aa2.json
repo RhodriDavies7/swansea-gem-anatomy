@@ -1,0 +1,127 @@
+{
+  "id": "semimembranosus-muscle-b70c1a2aa2",
+  "name": "Semimembranosus muscle",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-b74fa37ad1",
+      "variants": [
+        {
+          "id": "v-b74fa37ad1",
+          "answer": "Semimembranosus muscle",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-136",
+              "sourceLine": 136
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-4ed0193606",
+      "variants": [
+        {
+          "id": "v-4ed0193606",
+          "answer": "Extends the hip; flexes the knee and medially rotates the flexed leg.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-137",
+              "sourceLine": 137
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-04183178d7",
+      "variants": [
+        {
+          "id": "v-04183178d7",
+          "answer": "Tibial division of sciatic nerve (L5–S2).",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-138",
+              "sourceLine": 138
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-83cb18e19b",
+      "variants": [
+        {
+          "id": "v-83cb18e19b",
+          "answer": "Superolateral impression of ischial tuberosity.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-139",
+              "sourceLine": 139
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-ed5e8f635f",
+      "variants": [
+        {
+          "id": "v-ed5e8f635f",
+          "answer": "Posterior medial tibial condyle; expansion forms the oblique popliteal ligament.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-140",
+              "sourceLine": 140
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "lower-limb-model-ns10",
+      "section": "Muscles",
+      "path": [
+        "17"
+      ],
+      "label": "17"
+    }
+  ]
+}

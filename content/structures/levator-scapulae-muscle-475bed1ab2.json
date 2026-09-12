@@ -1,0 +1,252 @@
+{
+  "id": "levator-scapulae-muscle-475bed1ab2",
+  "name": "Levator scapulae muscle",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Head and neck",
+    "Upper limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "AttachmentSite",
+    "Attachments",
+    "HeadNeck",
+    "HeadNeckMuscles",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-af13134954",
+      "variants": [
+        {
+          "id": "v-af13134954",
+          "answer": "Levator scapulae muscle",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-603",
+              "sourceLine": 603
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-356",
+              "sourceLine": 356
+            },
+            {
+              "modelId": "rotator-cuff-qs55-6",
+              "cardId": "rotator-cuff-qs55-6-94",
+              "sourceLine": 94
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-91bc1cc3f4",
+      "variants": [
+        {
+          "id": "v-91bc1cc3f4",
+          "answer": "Elevates and downwardly rotates scapula; with scapula fixed, laterally flexes neck.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-604",
+              "sourceLine": 604
+            }
+          ]
+        },
+        {
+          "id": "v-7d4dd09fe4",
+          "answer": "Elevates/downwardly rotates scapula; laterally flexes neck when scapula fixed.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-357",
+              "sourceLine": 357
+            }
+          ]
+        },
+        {
+          "id": "v-4326bbf507",
+          "answer": "Elevates scapula and downwardly rotates the glenoid cavity.",
+          "sources": [
+            {
+              "modelId": "rotator-cuff-qs55-6",
+              "cardId": "rotator-cuff-qs55-6-96",
+              "sourceLine": 96
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-564090256e",
+      "variants": [
+        {
+          "id": "v-564090256e",
+          "answer": "Dorsal scapular nerve (C5) and C3–C4 cervical nerves.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-605",
+              "sourceLine": 605
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-358",
+              "sourceLine": 358
+            }
+          ]
+        },
+        {
+          "id": "v-32f715c272",
+          "answer": "Dorsal scapular nerve (C5) with C3–C4 cervical nerves.",
+          "sources": [
+            {
+              "modelId": "rotator-cuff-qs55-6",
+              "cardId": "rotator-cuff-qs55-6-97",
+              "sourceLine": 97
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-40fa0c7222",
+      "variants": [
+        {
+          "id": "v-40fa0c7222",
+          "answer": "Posterior tubercles of transverse processes C1–C4.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-606",
+              "sourceLine": 606
+            }
+          ]
+        },
+        {
+          "id": "v-ffd99b8e14",
+          "answer": "Transverse processes C1–C4.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-359",
+              "sourceLine": 359
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-47c62c00bf",
+      "variants": [
+        {
+          "id": "v-47c62c00bf",
+          "answer": "Medial border of scapula above spine.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-607",
+              "sourceLine": 607
+            }
+          ]
+        },
+        {
+          "id": "v-5f4c3e32e2",
+          "answer": "Medial scapular border above spine.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-360",
+              "sourceLine": 360
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-531c9dad58",
+      "question": "Attachment on model",
+      "preferredVariantId": "v-49024d7346",
+      "variants": [
+        {
+          "id": "v-49024d7346",
+          "answer": "Inserts on medial border of scapula superior to the root of the spine.",
+          "sources": [
+            {
+              "modelId": "rotator-cuff-qs55-6",
+              "cardId": "rotator-cuff-qs55-6-95",
+              "sourceLine": 95
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "half-head-and-neck-model-bs9",
+      "section": "Musculature of the head and neck",
+      "path": [
+        "54"
+      ],
+      "label": "54"
+    },
+    {
+      "modelId": "head-and-neck-model-cs17-2",
+      "section": "Musculature of the head and neck",
+      "path": [
+        "57"
+      ],
+      "label": "57"
+    },
+    {
+      "modelId": "rotator-cuff-qs55-6",
+      "section": "Muscle attachment sites",
+      "path": [
+        "16"
+      ],
+      "label": "16"
+    }
+  ]
+}

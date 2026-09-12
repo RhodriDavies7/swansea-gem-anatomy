@@ -1,0 +1,127 @@
+{
+  "id": "broad-ligament-of-the-uterus-8b240a3109",
+  "name": "Broad ligament of the uterus",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Pelvis"
+  ],
+  "systems": [
+    "Reproductive"
+  ],
+  "organs": [],
+  "tags": [
+    "Contents",
+    "Function",
+    "Parts",
+    "PeritonealFold",
+    "Structure"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-f51f64f67b",
+      "variants": [
+        {
+          "id": "v-f51f64f67b",
+          "answer": "Broad ligament of the uterus",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-373",
+              "sourceLine": 373
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-d198436723",
+      "variants": [
+        {
+          "id": "v-d198436723",
+          "answer": "Double layer of peritoneum extending from lateral uterus toward pelvic walls.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-374",
+              "sourceLine": 374
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-e374280917",
+      "question": "Parts",
+      "preferredVariantId": "v-19b7bfd2e6",
+      "variants": [
+        {
+          "id": "v-19b7bfd2e6",
+          "answer": "Mesometrium, mesosalpinx and mesovarium.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-375",
+              "sourceLine": 375
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f5cbdf6bfb",
+      "question": "Contents",
+      "preferredVariantId": "v-9046da8be6",
+      "variants": [
+        {
+          "id": "v-9046da8be6",
+          "answer": "Related to uterine tube, ovarian/uterine vessels, ligaments, nerves and connective tissue.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-376",
+              "sourceLine": 376
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-2fe6a439af",
+      "variants": [
+        {
+          "id": "v-2fe6a439af",
+          "answer": "Supports and suspends female reproductive structures within the pelvis.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-377",
+              "sourceLine": 377
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "female-pelvis-model-mo8",
+      "section": "",
+      "path": [
+        "56"
+      ],
+      "label": "56"
+    }
+  ]
+}

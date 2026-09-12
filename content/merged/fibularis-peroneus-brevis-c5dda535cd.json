@@ -1,0 +1,128 @@
+{
+  "id": "fibularis-peroneus-brevis-c5dda535cd",
+  "name": "Fibularis (peroneus) brevis",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Muscles",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-0ddae98ac7",
+      "variants": [
+        {
+          "id": "v-0ddae98ac7",
+          "answer": "Fibularis (peroneus) brevis",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-110",
+              "sourceLine": 110
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-6c5ea9625c",
+      "variants": [
+        {
+          "id": "v-6c5ea9625c",
+          "answer": "Everts foot and weakly plantarflexes ankle.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-111",
+              "sourceLine": 111
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-93ee03395e",
+      "variants": [
+        {
+          "id": "v-93ee03395e",
+          "answer": "Superficial fibular nerve (L5–S2).",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-112",
+              "sourceLine": 112
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-6976077b7f",
+      "variants": [
+        {
+          "id": "v-6976077b7f",
+          "answer": "Inferior two-thirds of lateral fibula.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-113",
+              "sourceLine": 113
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-4975216785",
+      "variants": [
+        {
+          "id": "v-4975216785",
+          "answer": "Tuberosity at base of 5th metatarsal.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-114",
+              "sourceLine": 114
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "foot-model-ns9",
+      "section": "Muscles",
+      "path": [
+        "17"
+      ],
+      "label": "17"
+    }
+  ]
+}

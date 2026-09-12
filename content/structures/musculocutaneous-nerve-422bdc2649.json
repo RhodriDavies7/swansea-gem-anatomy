@@ -1,0 +1,146 @@
+{
+  "id": "musculocutaneous-nerve-422bdc2649",
+  "name": "Musculocutaneous nerve",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Nerves"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [],
+  "tags": [
+    "Course",
+    "Lesion",
+    "Motor",
+    "Nerve",
+    "Roots",
+    "Sensory"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-9032c3a17d",
+      "variants": [
+        {
+          "id": "v-9032c3a17d",
+          "answer": "Musculocutaneous nerve",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-442",
+              "sourceLine": 442
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-4d78ec7d11",
+      "question": "Roots",
+      "preferredVariantId": "v-aaef7e1956",
+      "variants": [
+        {
+          "id": "v-aaef7e1956",
+          "answer": "C5–C7 from lateral cord.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-443",
+              "sourceLine": 443
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-e4a287d625",
+      "variants": [
+        {
+          "id": "v-e4a287d625",
+          "answer": "Pierces coracobrachialis, runs between biceps and brachialis, then continues as lateral cutaneous nerve of forearm.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-444",
+              "sourceLine": 444
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c8b6915183",
+      "question": "Motor functions",
+      "preferredVariantId": "v-58f772def3",
+      "variants": [
+        {
+          "id": "v-58f772def3",
+          "answer": "Coracobrachialis, biceps brachii and most of brachialis; elbow flexion and forearm supination via these muscles.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-445",
+              "sourceLine": 445
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-a453254382",
+      "question": "Sensory functions",
+      "preferredVariantId": "v-f6683e8575",
+      "variants": [
+        {
+          "id": "v-f6683e8575",
+          "answer": "Lateral forearm via lateral cutaneous nerve of forearm.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-446",
+              "sourceLine": 446
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-bc53d10c57",
+      "question": "Lesion",
+      "preferredVariantId": "v-30afed548b",
+      "variants": [
+        {
+          "id": "v-30afed548b",
+          "answer": "Weak elbow flexion and supination, reduced biceps reflex and sensory loss over lateral forearm.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-447",
+              "sourceLine": 447
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "upper-limb-model-ns15",
+      "section": "Nerves",
+      "path": [
+        "70"
+      ],
+      "label": "70"
+    }
+  ]
+}

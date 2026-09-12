@@ -1,0 +1,108 @@
+{
+  "id": "dura-mater-covering-optic-nerve-70c10000d9",
+  "name": "Dura mater covering optic nerve",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [],
+  "organs": [
+    "Eye"
+  ],
+  "tags": [
+    "Clinical",
+    "Meninges",
+    "Relations",
+    "Structure"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-c23a1649bb",
+      "variants": [
+        {
+          "id": "v-c23a1649bb",
+          "answer": "Dura mater covering optic nerve",
+          "sources": [
+            {
+              "modelId": "eyeball-model-cs7",
+              "cardId": "eyeball-model-cs7-88",
+              "sourceLine": 88
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-6cc338eca8",
+      "variants": [
+        {
+          "id": "v-6cc338eca8",
+          "answer": "Outer meningeal sheath surrounding the optic nerve.",
+          "sources": [
+            {
+              "modelId": "eyeball-model-cs7",
+              "cardId": "eyeball-model-cs7-89",
+              "sourceLine": 89
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-aa79bcafb5",
+      "variants": [
+        {
+          "id": "v-aa79bcafb5",
+          "answer": "Continuous posteriorly with intracranial dura and anteriorly with the sclera around the optic nerve.",
+          "sources": [
+            {
+              "modelId": "eyeball-model-cs7",
+              "cardId": "eyeball-model-cs7-90",
+              "sourceLine": 90
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-b03737e3cd",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-464a6cd41c",
+      "variants": [
+        {
+          "id": "v-464a6cd41c",
+          "answer": "The subarachnoid space around the optic nerve is continuous with intracranial CSF, so raised intracranial pressure can produce papilloedema.",
+          "sources": [
+            {
+              "modelId": "eyeball-model-cs7",
+              "cardId": "eyeball-model-cs7-91",
+              "sourceLine": 91
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "eyeball-model-cs7",
+      "section": "",
+      "path": [
+        "14"
+      ],
+      "label": "14"
+    }
+  ]
+}

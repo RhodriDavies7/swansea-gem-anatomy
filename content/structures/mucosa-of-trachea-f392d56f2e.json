@@ -1,0 +1,164 @@
+{
+  "id": "mucosa-of-trachea-f392d56f2e",
+  "name": "Mucosa of trachea",
+  "aliases": [
+    "Mucous membrane of the trachea"
+  ],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Respiratory"
+  ],
+  "organs": [
+    "Larynx"
+  ],
+  "tags": [
+    "Function",
+    "Larynx",
+    "Mucosa",
+    "Structure",
+    "InternalLarynx"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-38f51837c2",
+      "variants": [
+        {
+          "id": "v-38f51837c2",
+          "answer": "Mucosa of trachea",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-185",
+              "sourceLine": 185
+            }
+          ]
+        },
+        {
+          "id": "v-8f70c18fce",
+          "answer": "Mucous membrane of the trachea",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-261",
+              "sourceLine": 261
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-261",
+              "sourceLine": 261
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-11732cf3a7",
+      "variants": [
+        {
+          "id": "v-11732cf3a7",
+          "answer": "Respiratory mucosa lined mainly by pseudostratified ciliated columnar epithelium with goblet cells.",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-186",
+              "sourceLine": 186
+            },
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-262",
+              "sourceLine": 262
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-262",
+              "sourceLine": 262
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-775e7ef2b7",
+      "variants": [
+        {
+          "id": "v-775e7ef2b7",
+          "answer": "Warms, humidifies and clears inhaled particles via mucociliary transport.",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-187",
+              "sourceLine": 187
+            }
+          ]
+        },
+        {
+          "id": "v-89de10ae10",
+          "answer": "Warms, humidifies and clears inhaled particles via the mucociliary escalator.",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-263",
+              "sourceLine": 263
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-263",
+              "sourceLine": 263
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "larynx-and-tongue-model-gs4",
+      "section": "Larynx",
+      "path": [
+        "30"
+      ],
+      "label": "30"
+    },
+    {
+      "modelId": "larynx-model-gs7",
+      "section": "Internal laryngeal structures and mucosa",
+      "path": [
+        "34"
+      ],
+      "label": "34"
+    },
+    {
+      "modelId": "larynx-and-airway-model-gs5",
+      "section": "Internal laryngeal structures and mucosa",
+      "path": [
+        "34"
+      ],
+      "label": "34"
+    }
+  ],
+  "redirectIds": [
+    "mucous-membrane-of-the-trachea-0e0407e57e"
+  ]
+}

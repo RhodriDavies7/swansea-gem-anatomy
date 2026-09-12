@@ -1,0 +1,280 @@
+{
+  "id": "cochlea-1d04f5b132",
+  "name": "Cochlea",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [],
+  "organs": [
+    "Ear"
+  ],
+  "tags": [
+    "Cochlea",
+    "Function",
+    "HeadNeck",
+    "InnerEar",
+    "InnerEarStructure",
+    "Innervation",
+    "Location",
+    "Parts",
+    "Relations",
+    "Structure"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-bd931c3ab9",
+      "variants": [
+        {
+          "id": "v-bd931c3ab9",
+          "answer": "Cochlea",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-245",
+              "sourceLine": 245
+            },
+            {
+              "modelId": "ear-model-ds3",
+              "cardId": "ear-model-ds3-147",
+              "sourceLine": 147
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-125",
+              "sourceLine": 125
+            },
+            {
+              "modelId": "inner-ear-model-ds17",
+              "cardId": "inner-ear-model-ds17-109",
+              "sourceLine": 109
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "curated-0c0c47d521",
+      "variants": [
+        {
+          "id": "v-7ad84ac8da",
+          "answer": "Spiral part of the bony labyrinth surrounding the modiolus and containing the cochlear duct between scala vestibuli and scala tympani.",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-246",
+              "sourceLine": 246
+            },
+            {
+              "modelId": "ear-model-ds3",
+              "cardId": "ear-model-ds3-148",
+              "sourceLine": 148
+            }
+          ]
+        },
+        {
+          "id": "v-4a4a995ba1",
+          "answer": "Spiral bony labyrinth making about 2.5 turns around the modiolus.",
+          "sources": [
+            {
+              "modelId": "inner-ear-model-ds17",
+              "cardId": "inner-ear-model-ds17-110",
+              "sourceLine": 110
+            }
+          ]
+        },
+        {
+          "id": "curated-0c0c47d521",
+          "answer": "Spiral bony labyrinth with about 2.5 turns around the modiolus; contains the cochlear duct between scala vestibuli and scala tympani.",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-246",
+              "sourceLine": 246
+            },
+            {
+              "modelId": "ear-model-ds3",
+              "cardId": "ear-model-ds3-148",
+              "sourceLine": 148
+            },
+            {
+              "modelId": "inner-ear-model-ds17",
+              "cardId": "inner-ear-model-ds17-110",
+              "sourceLine": 110
+            }
+          ],
+          "editorial": true
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-8cc1228c67",
+      "variants": [
+        {
+          "id": "v-8cc1228c67",
+          "answer": "Converts sound-induced mechanical vibrations into neural signals for hearing.",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-247",
+              "sourceLine": 247
+            },
+            {
+              "modelId": "ear-model-ds3",
+              "cardId": "ear-model-ds3-149",
+              "sourceLine": 149
+            }
+          ]
+        },
+        {
+          "id": "v-8689e8ccaa",
+          "answer": "Contains auditory apparatus for hearing.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-127",
+              "sourceLine": 127
+            }
+          ]
+        },
+        {
+          "id": "v-07cd03bdc6",
+          "answer": "Contains the sensory apparatus for hearing.",
+          "sources": [
+            {
+              "modelId": "inner-ear-model-ds17",
+              "cardId": "inner-ear-model-ds17-111",
+              "sourceLine": 111
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-da2bcf363b",
+      "variants": [
+        {
+          "id": "v-da2bcf363b",
+          "answer": "Basal turn lies close to the middle-ear medial wall and creates the cochlear promontory.",
+          "sources": [
+            {
+              "modelId": "ear-model-ds3",
+              "cardId": "ear-model-ds3-150",
+              "sourceLine": 150
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-338921e7d6",
+      "variants": [
+        {
+          "id": "v-338921e7d6",
+          "answer": "Within petrous temporal bone.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-126",
+              "sourceLine": 126
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-011e663fda",
+      "variants": [
+        {
+          "id": "v-011e663fda",
+          "answer": "Cochlear division of vestibulocochlear nerve (CN VIII).",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-128",
+              "sourceLine": 128
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-74d39ecb9d",
+      "question": "Compartments",
+      "preferredVariantId": "v-797d5a39cd",
+      "variants": [
+        {
+          "id": "v-797d5a39cd",
+          "answer": "Contains scala vestibuli, cochlear duct and scala tympani.",
+          "sources": [
+            {
+              "modelId": "inner-ear-model-ds17",
+              "cardId": "inner-ear-model-ds17-112",
+              "sourceLine": 112
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "ear-largest-model-ds1",
+      "section": "D. Inner ear",
+      "path": [
+        "38"
+      ],
+      "label": "38"
+    },
+    {
+      "modelId": "ear-model-ds3",
+      "section": "C. Inner ear",
+      "path": [
+        "20"
+      ],
+      "label": "20"
+    },
+    {
+      "modelId": "head-and-neck-model-cs17-2",
+      "section": "Bony structures, foramina and ear structures",
+      "path": [
+        "24"
+      ],
+      "label": "24"
+    },
+    {
+      "modelId": "inner-ear-model-ds17",
+      "section": "Cochlea and auditory structures",
+      "path": [
+        "14"
+      ],
+      "label": "14"
+    }
+  ]
+}

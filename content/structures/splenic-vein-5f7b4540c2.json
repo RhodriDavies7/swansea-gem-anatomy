@@ -1,0 +1,131 @@
+{
+  "id": "splenic-vein-5f7b4540c2",
+  "name": "Splenic vein",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Veins"
+  ],
+  "regions": [
+    "Abdomen"
+  ],
+  "systems": [
+    "Cardiovascular",
+    "Digestive"
+  ],
+  "organs": [
+    "Pancreas"
+  ],
+  "tags": [
+    "Course",
+    "Formation",
+    "Relations",
+    "Termination",
+    "Vein",
+    "Veins"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-964310dae3",
+      "variants": [
+        {
+          "id": "v-964310dae3",
+          "answer": "Splenic vein",
+          "sources": [
+            {
+              "modelId": "pancreas-model-js11",
+              "cardId": "pancreas-model-js11-60",
+              "sourceLine": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-bc0bd86b8f",
+      "question": "Formation",
+      "preferredVariantId": "v-99f4195a48",
+      "variants": [
+        {
+          "id": "v-99f4195a48",
+          "answer": "Receives venous drainage from the spleen and tributaries from pancreas and stomach.",
+          "sources": [
+            {
+              "modelId": "pancreas-model-js11",
+              "cardId": "pancreas-model-js11-61",
+              "sourceLine": 61
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-e297982470",
+      "variants": [
+        {
+          "id": "v-e297982470",
+          "answer": "Runs along the posterior surface of the pancreas.",
+          "sources": [
+            {
+              "modelId": "pancreas-model-js11",
+              "cardId": "pancreas-model-js11-62",
+              "sourceLine": 62
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-2ee8521886",
+      "question": "Termination",
+      "preferredVariantId": "v-f566dd7860",
+      "variants": [
+        {
+          "id": "v-f566dd7860",
+          "answer": "Joins the superior mesenteric vein to form the portal vein.",
+          "sources": [
+            {
+              "modelId": "pancreas-model-js11",
+              "cardId": "pancreas-model-js11-63",
+              "sourceLine": 63
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-7fe1ad187d",
+      "variants": [
+        {
+          "id": "v-7fe1ad187d",
+          "answer": "Closely related to the posterior surface of the pancreatic body.",
+          "sources": [
+            {
+              "modelId": "pancreas-model-js11",
+              "cardId": "pancreas-model-js11-64",
+              "sourceLine": 64
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "pancreas-model-js11",
+      "section": "Veins",
+      "path": [
+        "6"
+      ],
+      "label": "6"
+    }
+  ]
+}

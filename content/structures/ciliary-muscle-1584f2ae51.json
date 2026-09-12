@@ -1,0 +1,139 @@
+{
+  "id": "ciliary-muscle-1584f2ae51",
+  "name": "Ciliary muscle",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [
+    "Eye"
+  ],
+  "tags": [
+    "Action",
+    "Eye",
+    "Innervation",
+    "Location",
+    "Muscle"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-24cc55ff9d",
+      "variants": [
+        {
+          "id": "v-24cc55ff9d",
+          "answer": "Ciliary muscle",
+          "sources": [
+            {
+              "modelId": "eyeball-with-part-of-orbit-model-cs2",
+              "cardId": "eyeball-with-part-of-orbit-model-cs2-110",
+              "sourceLine": 110
+            },
+            {
+              "modelId": "eyeball-model-cs7",
+              "cardId": "eyeball-model-cs7-108",
+              "sourceLine": 108
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-724272a1e7",
+      "variants": [
+        {
+          "id": "v-724272a1e7",
+          "answer": "Contracts during accommodation, reducing tension on zonular fibres so the lens becomes more convex for near vision.",
+          "sources": [
+            {
+              "modelId": "eyeball-with-part-of-orbit-model-cs2",
+              "cardId": "eyeball-with-part-of-orbit-model-cs2-111",
+              "sourceLine": 111
+            },
+            {
+              "modelId": "eyeball-model-cs7",
+              "cardId": "eyeball-model-cs7-109",
+              "sourceLine": 109
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-1f2d45def2",
+      "variants": [
+        {
+          "id": "v-1f2d45def2",
+          "answer": "Parasympathetic fibres from oculomotor nerve via ciliary ganglion and short ciliary nerves.",
+          "sources": [
+            {
+              "modelId": "eyeball-with-part-of-orbit-model-cs2",
+              "cardId": "eyeball-with-part-of-orbit-model-cs2-112",
+              "sourceLine": 112
+            },
+            {
+              "modelId": "eyeball-model-cs7",
+              "cardId": "eyeball-model-cs7-110",
+              "sourceLine": 110
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-ec645ea0b0",
+      "variants": [
+        {
+          "id": "v-ec645ea0b0",
+          "answer": "Smooth muscle within the ciliary body.",
+          "sources": [
+            {
+              "modelId": "eyeball-with-part-of-orbit-model-cs2",
+              "cardId": "eyeball-with-part-of-orbit-model-cs2-113",
+              "sourceLine": 113
+            },
+            {
+              "modelId": "eyeball-model-cs7",
+              "cardId": "eyeball-model-cs7-111",
+              "sourceLine": 111
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "eyeball-with-part-of-orbit-model-cs2",
+      "section": "Eye",
+      "path": [
+        "17"
+      ],
+      "label": "17"
+    },
+    {
+      "modelId": "eyeball-model-cs7",
+      "section": "",
+      "path": [
+        "17"
+      ],
+      "label": "17"
+    }
+  ]
+}

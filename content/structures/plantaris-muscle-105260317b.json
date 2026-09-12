@@ -1,0 +1,127 @@
+{
+  "id": "plantaris-muscle-105260317b",
+  "name": "Plantaris muscle",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-1237cfaddc",
+      "variants": [
+        {
+          "id": "v-1237cfaddc",
+          "answer": "Plantaris muscle",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-215",
+              "sourceLine": 215
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-87552125ea",
+      "variants": [
+        {
+          "id": "v-87552125ea",
+          "answer": "Weakly assists knee flexion and ankle plantarflexion.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-216",
+              "sourceLine": 216
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-e952a2186f",
+      "variants": [
+        {
+          "id": "v-e952a2186f",
+          "answer": "Tibial nerve (S1–S2).",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-217",
+              "sourceLine": 217
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-8feb2ac99c",
+      "variants": [
+        {
+          "id": "v-8feb2ac99c",
+          "answer": "Inferior lateral supracondylar line of femur and oblique popliteal ligament.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-218",
+              "sourceLine": 218
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-9fd6f716a7",
+      "variants": [
+        {
+          "id": "v-9fd6f716a7",
+          "answer": "Posterior calcaneus, usually medial to calcaneal tendon; attachment varies.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-219",
+              "sourceLine": 219
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "lower-limb-model-ns10",
+      "section": "Muscles",
+      "path": [
+        "25"
+      ],
+      "label": "25"
+    }
+  ]
+}

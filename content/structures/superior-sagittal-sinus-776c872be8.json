@@ -1,0 +1,256 @@
+{
+  "id": "superior-sagittal-sinus-776c872be8",
+  "name": "Superior sagittal sinus",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Veins"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Cardiovascular",
+    "Nervous"
+  ],
+  "organs": [],
+  "tags": [
+    "Brain",
+    "Coronal",
+    "Drainage",
+    "HeadNeck",
+    "Location",
+    "MidSagittal",
+    "MidlineStructures",
+    "Relations",
+    "VenousSinus"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-a65dfaedc5",
+      "variants": [
+        {
+          "id": "v-a65dfaedc5",
+          "answer": "Superior sagittal sinus",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-14",
+              "sourceLine": 14
+            },
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-260",
+              "sourceLine": 260
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-112",
+              "sourceLine": 112
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-505",
+              "sourceLine": 505
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-660",
+              "sourceLine": 660
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-8195ec838c",
+      "variants": [
+        {
+          "id": "v-8195ec838c",
+          "answer": "Runs in the attached superior margin of the falx cerebri in the midline.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-15",
+              "sourceLine": 15
+            }
+          ]
+        },
+        {
+          "id": "v-9f0443516c",
+          "answer": "Attached superior margin of falx cerebri.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-261",
+              "sourceLine": 261
+            }
+          ]
+        },
+        {
+          "id": "v-9e4bf39586",
+          "answer": "Runs in attached superior margin of falx cerebri.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-113",
+              "sourceLine": 113
+            }
+          ]
+        },
+        {
+          "id": "v-fc8f873076",
+          "answer": "Runs in attached superior border of falx cerebri.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-506",
+              "sourceLine": 506
+            }
+          ]
+        },
+        {
+          "id": "v-753bf2655f",
+          "answer": "In superior attached border of falx cerebri.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-661",
+              "sourceLine": 661
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-74a64b1943",
+      "question": "Drainage",
+      "preferredVariantId": "v-5e2a80528b",
+      "variants": [
+        {
+          "id": "v-5e2a80528b",
+          "answer": "Receives superior cerebral veins and CSF via arachnoid granulations; drains posteriorly toward the confluence of sinuses.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-16",
+              "sourceLine": 16
+            }
+          ]
+        },
+        {
+          "id": "v-2830f24320",
+          "answer": "Drains cerebral veins and CSF toward confluence of sinuses.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-262",
+              "sourceLine": 262
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-114",
+              "sourceLine": 114
+            }
+          ]
+        },
+        {
+          "id": "v-7057c9b3d0",
+          "answer": "Receives cerebral veins and CSF via arachnoid granulations; drains toward confluence of sinuses.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-507",
+              "sourceLine": 507
+            }
+          ]
+        },
+        {
+          "id": "v-efbbde5821",
+          "answer": "Receives cerebral veins and CSF via arachnoid granulations.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-662",
+              "sourceLine": 662
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-ff3b9d37db",
+      "variants": [
+        {
+          "id": "v-ff3b9d37db",
+          "answer": "Lies between layers of dura along the superior midline of the cranial cavity.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-17",
+              "sourceLine": 17
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "coronal-and-mid-sagittal-head-mb20",
+      "section": "Coronal head",
+      "path": [
+        "3"
+      ],
+      "label": "3"
+    },
+    {
+      "modelId": "coronal-and-mid-sagittal-head-mb20",
+      "section": "Other midline structures",
+      "path": [
+        "1"
+      ],
+      "label": "1"
+    },
+    {
+      "modelId": "half-head-and-neck-model-bs9",
+      "section": "Other midline structures",
+      "path": [
+        "1"
+      ],
+      "label": "1"
+    },
+    {
+      "modelId": "head-and-neck-model-cs17-2",
+      "section": "Dural venous sinuses, meninges and cranial markings",
+      "path": [
+        "78"
+      ],
+      "label": "78"
+    },
+    {
+      "modelId": "head-and-neck-model-cs17-2",
+      "section": "Gross brain, meninges and venous structures (A–N)",
+      "path": [
+        "N"
+      ],
+      "label": "N"
+    }
+  ]
+}

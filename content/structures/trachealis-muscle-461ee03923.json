@@ -1,0 +1,164 @@
+{
+  "id": "trachealis-muscle-461ee03923",
+  "name": "Trachealis muscle",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Musculoskeletal",
+    "Respiratory"
+  ],
+  "organs": [
+    "Larynx"
+  ],
+  "tags": [
+    "Action",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Muscles",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-3e64f623f6",
+      "variants": [
+        {
+          "id": "v-3e64f623f6",
+          "answer": "Trachealis muscle",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-96",
+              "sourceLine": 96
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-96",
+              "sourceLine": 96
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-3c19aac88a",
+      "variants": [
+        {
+          "id": "v-3c19aac88a",
+          "answer": "Narrows the tracheal lumen during coughing and relaxes to allow oesophageal expansion.",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-97",
+              "sourceLine": 97
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-97",
+              "sourceLine": 97
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-45439dd6f6",
+      "variants": [
+        {
+          "id": "v-45439dd6f6",
+          "answer": "Autonomic fibres, mainly vagal parasympathetic with sympathetic input.",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-98",
+              "sourceLine": 98
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-98",
+              "sourceLine": 98
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-456030aac1",
+      "variants": [
+        {
+          "id": "v-456030aac1",
+          "answer": "Posterior ends of tracheal cartilage rings.",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-99",
+              "sourceLine": 99
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-99",
+              "sourceLine": 99
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-3378fbe4ac",
+      "variants": [
+        {
+          "id": "v-3378fbe4ac",
+          "answer": "Spans the posterior membranous wall between the cartilage ends.",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-100",
+              "sourceLine": 100
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-100",
+              "sourceLine": 100
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "larynx-model-gs7",
+      "section": "Laryngeal and airway muscles",
+      "path": [
+        "14"
+      ],
+      "label": "14"
+    },
+    {
+      "modelId": "larynx-and-airway-model-gs5",
+      "section": "Laryngeal and airway muscles",
+      "path": [
+        "14"
+      ],
+      "label": "14"
+    }
+  ]
+}

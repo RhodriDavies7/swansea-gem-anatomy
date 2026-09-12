@@ -1,0 +1,147 @@
+{
+  "id": "greater-occipital-nerve-45337c9c91",
+  "name": "Greater occipital nerve",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Nerves"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [],
+  "tags": [
+    "BloodVesselsAndNerves",
+    "Course",
+    "Lesion",
+    "Motor",
+    "Nerve",
+    "Roots",
+    "Sensory"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-508233a583",
+      "variants": [
+        {
+          "id": "v-508233a583",
+          "answer": "Greater occipital nerve",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-757",
+              "sourceLine": 757
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-4d78ec7d11",
+      "question": "Roots",
+      "preferredVariantId": "v-a18570f56e",
+      "variants": [
+        {
+          "id": "v-a18570f56e",
+          "answer": "Medial branch of posterior ramus of C2.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-758",
+              "sourceLine": 758
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-be661c38d6",
+      "variants": [
+        {
+          "id": "v-be661c38d6",
+          "answer": "Emerges beneath suboccipital muscles and ascends with occipital artery to posterior scalp.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-759",
+              "sourceLine": 759
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c8b6915183",
+      "question": "Motor functions",
+      "preferredVariantId": "v-c8042607c5",
+      "variants": [
+        {
+          "id": "v-c8042607c5",
+          "answer": "Motor fibres to some deep neck muscles via parent ramus; named cutaneous branch is mainly sensory.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-760",
+              "sourceLine": 760
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-a453254382",
+      "question": "Sensory functions",
+      "preferredVariantId": "v-74d5d230e3",
+      "variants": [
+        {
+          "id": "v-74d5d230e3",
+          "answer": "Supplies posterior scalp up to vertex.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-761",
+              "sourceLine": 761
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-bc53d10c57",
+      "question": "Lesion",
+      "preferredVariantId": "v-0d236e0de5",
+      "variants": [
+        {
+          "id": "v-0d236e0de5",
+          "answer": "Lesion/irritation can cause occipital neuralgia with pain or altered sensation over posterior scalp.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-762",
+              "sourceLine": 762
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "half-head-and-neck-model-bs9",
+      "section": "Blood vessels and nerves",
+      "path": [
+        "74"
+      ],
+      "label": "74"
+    }
+  ]
+}

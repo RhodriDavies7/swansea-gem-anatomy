@@ -1,0 +1,150 @@
+{
+  "id": "left-vagus-nerve-c9dc2e437b",
+  "name": "Left vagus nerve",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Nerves"
+  ],
+  "regions": [
+    "Abdomen"
+  ],
+  "systems": [
+    "Digestive",
+    "Nervous"
+  ],
+  "organs": [
+    "Stomach"
+  ],
+  "tags": [
+    "Course",
+    "Lesion",
+    "Motor",
+    "Nerve",
+    "Roots",
+    "Sensory",
+    "VagalInnervation"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-3a18ad3460",
+      "variants": [
+        {
+          "id": "v-3a18ad3460",
+          "answer": "Left vagus nerve",
+          "sources": [
+            {
+              "modelId": "stomach-model-ns15",
+              "cardId": "stomach-model-ns15-90",
+              "sourceLine": 90
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-4d78ec7d11",
+      "question": "Roots",
+      "preferredVariantId": "v-5a86238ea5",
+      "variants": [
+        {
+          "id": "v-5a86238ea5",
+          "answer": "Vagus nerve (CN X).",
+          "sources": [
+            {
+              "modelId": "stomach-model-ns15",
+              "cardId": "stomach-model-ns15-91",
+              "sourceLine": 91
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-a8d49e7d58",
+      "variants": [
+        {
+          "id": "v-a8d49e7d58",
+          "answer": "Oesophageal plexus fibres reorganise so the left vagus mainly forms the anterior vagal trunk.",
+          "sources": [
+            {
+              "modelId": "stomach-model-ns15",
+              "cardId": "stomach-model-ns15-92",
+              "sourceLine": 92
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c8b6915183",
+      "question": "Motor functions",
+      "preferredVariantId": "v-2d9a2c347b",
+      "variants": [
+        {
+          "id": "v-2d9a2c347b",
+          "answer": "Parasympathetic supply increases gastric motility and promotes relaxation/coordination of gastric sphincter mechanisms.",
+          "sources": [
+            {
+              "modelId": "stomach-model-ns15",
+              "cardId": "stomach-model-ns15-93",
+              "sourceLine": 93
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-a453254382",
+      "question": "Sensory functions",
+      "preferredVariantId": "v-88427d3a69",
+      "variants": [
+        {
+          "id": "v-88427d3a69",
+          "answer": "Carries visceral afferent fibres involved in physiological reflexes from the foregut.",
+          "sources": [
+            {
+              "modelId": "stomach-model-ns15",
+              "cardId": "stomach-model-ns15-94",
+              "sourceLine": 94
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-bc53d10c57",
+      "question": "Lesion",
+      "preferredVariantId": "v-c51c919654",
+      "variants": [
+        {
+          "id": "v-c51c919654",
+          "answer": "Vagal interruption reduces parasympathetic stimulation of gastric motility and secretion; effects depend on lesion level and whether both trunks are involved.",
+          "sources": [
+            {
+              "modelId": "stomach-model-ns15",
+              "cardId": "stomach-model-ns15-95",
+              "sourceLine": 95
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "stomach-model-ns15",
+      "section": "Vagal innervation",
+      "path": [
+        "15"
+      ],
+      "label": "15"
+    }
+  ]
+}

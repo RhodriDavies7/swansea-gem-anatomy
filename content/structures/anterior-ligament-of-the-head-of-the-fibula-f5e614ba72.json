@@ -1,0 +1,109 @@
+{
+  "id": "anterior-ligament-of-the-head-of-the-fibula-f5e614ba72",
+  "name": "Anterior ligament of the head of the fibula",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Ligaments"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Attachments",
+    "Function",
+    "Ligament",
+    "LigamentsAndMenisci",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-9dc41dc862",
+      "variants": [
+        {
+          "id": "v-9dc41dc862",
+          "answer": "Anterior ligament of the head of the fibula",
+          "sources": [
+            {
+              "modelId": "knee-joint-model-ns19",
+              "cardId": "knee-joint-model-ns19-71",
+              "sourceLine": 71
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6771ade6e8",
+      "question": "Attachments",
+      "preferredVariantId": "v-44b875d1c1",
+      "variants": [
+        {
+          "id": "v-44b875d1c1",
+          "answer": "Connects anterior aspect of fibular head to lateral tibial condyle.",
+          "sources": [
+            {
+              "modelId": "knee-joint-model-ns19",
+              "cardId": "knee-joint-model-ns19-72",
+              "sourceLine": 72
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-16e1a68c5b",
+      "variants": [
+        {
+          "id": "v-16e1a68c5b",
+          "answer": "Reinforces anterior aspect of the proximal tibiofibular joint.",
+          "sources": [
+            {
+              "modelId": "knee-joint-model-ns19",
+              "cardId": "knee-joint-model-ns19-73",
+              "sourceLine": 73
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-5e62fa45c7",
+      "variants": [
+        {
+          "id": "v-5e62fa45c7",
+          "answer": "Part of the capsular ligamentous support of the proximal tibiofibular joint.",
+          "sources": [
+            {
+              "modelId": "knee-joint-model-ns19",
+              "cardId": "knee-joint-model-ns19-74",
+              "sourceLine": 74
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "knee-joint-model-ns19",
+      "section": "Ligaments and menisci",
+      "path": [
+        "11"
+      ],
+      "label": "11"
+    }
+  ]
+}

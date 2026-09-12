@@ -1,0 +1,147 @@
+{
+  "id": "choroid-6160f07b8c",
+  "name": "Choroid",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [],
+  "organs": [
+    "Eye"
+  ],
+  "tags": [
+    "Eye",
+    "EyeLayer",
+    "Function",
+    "Relations",
+    "Structure"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-a3215c832f",
+      "variants": [
+        {
+          "id": "v-a3215c832f",
+          "answer": "Choroid",
+          "sources": [
+            {
+              "modelId": "eyeball-with-part-of-orbit-model-cs2",
+              "cardId": "eyeball-with-part-of-orbit-model-cs2-60",
+              "sourceLine": 60
+            },
+            {
+              "modelId": "eyeball-model-cs7",
+              "cardId": "eyeball-model-cs7-57",
+              "sourceLine": 57
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-4bbf78bed4",
+      "variants": [
+        {
+          "id": "v-4bbf78bed4",
+          "answer": "Highly vascular pigmented layer between sclera and retina, forming part of the vascular tunic.",
+          "sources": [
+            {
+              "modelId": "eyeball-with-part-of-orbit-model-cs2",
+              "cardId": "eyeball-with-part-of-orbit-model-cs2-61",
+              "sourceLine": 61
+            },
+            {
+              "modelId": "eyeball-model-cs7",
+              "cardId": "eyeball-model-cs7-58",
+              "sourceLine": 58
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-8f5df70b3a",
+      "variants": [
+        {
+          "id": "v-8f5df70b3a",
+          "answer": "Supplies outer retina and absorbs stray light.",
+          "sources": [
+            {
+              "modelId": "eyeball-with-part-of-orbit-model-cs2",
+              "cardId": "eyeball-with-part-of-orbit-model-cs2-62",
+              "sourceLine": 62
+            }
+          ]
+        },
+        {
+          "id": "v-bf0078e258",
+          "answer": "Supplies the outer retina and absorbs stray light.",
+          "sources": [
+            {
+              "modelId": "eyeball-model-cs7",
+              "cardId": "eyeball-model-cs7-59",
+              "sourceLine": 59
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-ed03f0053d",
+      "variants": [
+        {
+          "id": "v-ed03f0053d",
+          "answer": "Continuous anteriorly with the ciliary body.",
+          "sources": [
+            {
+              "modelId": "eyeball-with-part-of-orbit-model-cs2",
+              "cardId": "eyeball-with-part-of-orbit-model-cs2-63",
+              "sourceLine": 63
+            },
+            {
+              "modelId": "eyeball-model-cs7",
+              "cardId": "eyeball-model-cs7-60",
+              "sourceLine": 60
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "eyeball-with-part-of-orbit-model-cs2",
+      "section": "Eye",
+      "path": [
+        "9"
+      ],
+      "label": "9"
+    },
+    {
+      "modelId": "eyeball-model-cs7",
+      "section": "",
+      "path": [
+        "9"
+      ],
+      "label": "9"
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "id": "common-bile-duct-61bd005af8",
+  "name": "Common bile duct",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Abdomen"
+  ],
+  "systems": [
+    "Digestive"
+  ],
+  "organs": [
+    "Liver",
+    "Pancreas"
+  ],
+  "tags": [
+    "BiliaryTree",
+    "Clinical",
+    "Course",
+    "Duct",
+    "Ducts",
+    "Formation",
+    "Function",
+    "Termination"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-581faf2360",
+      "variants": [
+        {
+          "id": "v-581faf2360",
+          "answer": "Common bile duct",
+          "sources": [
+            {
+              "modelId": "liver-js5",
+              "cardId": "liver-js5-73",
+              "sourceLine": 73
+            },
+            {
+              "modelId": "pancreas-model-js11",
+              "cardId": "pancreas-model-js11-39",
+              "sourceLine": 39
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-bc0bd86b8f",
+      "question": "Formation",
+      "preferredVariantId": "v-1b5c9612ea",
+      "variants": [
+        {
+          "id": "v-1b5c9612ea",
+          "answer": "Formed by union of the common hepatic duct and cystic duct.",
+          "sources": [
+            {
+              "modelId": "liver-js5",
+              "cardId": "liver-js5-74",
+              "sourceLine": 74
+            },
+            {
+              "modelId": "pancreas-model-js11",
+              "cardId": "pancreas-model-js11-40",
+              "sourceLine": 40
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-5bb0f48c7c",
+      "variants": [
+        {
+          "id": "v-5bb0f48c7c",
+          "answer": "Descends in the hepatoduodenal ligament, passes posterior to first part of duodenum and through/behind pancreatic head region.",
+          "sources": [
+            {
+              "modelId": "liver-js5",
+              "cardId": "liver-js5-75",
+              "sourceLine": 75
+            }
+          ]
+        },
+        {
+          "id": "v-cc62567b7d",
+          "answer": "Descends in the hepatoduodenal ligament, passes posterior to the first part of the duodenum and through/behind the pancreatic head.",
+          "sources": [
+            {
+              "modelId": "pancreas-model-js11",
+              "cardId": "pancreas-model-js11-41",
+              "sourceLine": 41
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-2ee8521886",
+      "question": "Termination",
+      "preferredVariantId": "v-8912f2bfe7",
+      "variants": [
+        {
+          "id": "v-8912f2bfe7",
+          "answer": "Usually joins the main pancreatic duct and opens at the major duodenal papilla.",
+          "sources": [
+            {
+              "modelId": "liver-js5",
+              "cardId": "liver-js5-76",
+              "sourceLine": 76
+            }
+          ]
+        },
+        {
+          "id": "v-f7de0338c8",
+          "answer": "Usually joins the major pancreatic duct and opens at the major duodenal papilla.",
+          "sources": [
+            {
+              "modelId": "pancreas-model-js11",
+              "cardId": "pancreas-model-js11-42",
+              "sourceLine": 42
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-b3012ed156",
+      "variants": [
+        {
+          "id": "v-b3012ed156",
+          "answer": "Carries bile to the second part of the duodenum.",
+          "sources": [
+            {
+              "modelId": "liver-js5",
+              "cardId": "liver-js5-77",
+              "sourceLine": 77
+            },
+            {
+              "modelId": "pancreas-model-js11",
+              "cardId": "pancreas-model-js11-43",
+              "sourceLine": 43
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-b03737e3cd",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-56b0acf6b1",
+      "variants": [
+        {
+          "id": "v-56b0acf6b1",
+          "answer": "Obstruction can cause jaundice and cholangitis; distal obstruction may also affect pancreatic drainage.",
+          "sources": [
+            {
+              "modelId": "liver-js5",
+              "cardId": "liver-js5-78",
+              "sourceLine": 78
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "liver-js5",
+      "section": "Gallbladder and biliary tree",
+      "path": [
+        "12"
+      ],
+      "label": "12"
+    },
+    {
+      "modelId": "pancreas-model-js11",
+      "section": "Pancreatic and biliary ducts",
+      "path": [
+        "3"
+      ],
+      "label": "3"
+    }
+  ]
+}

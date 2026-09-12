@@ -1,0 +1,177 @@
+{
+  "id": "transverse-facial-artery-563f5ac4c6",
+  "name": "Transverse facial artery",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Arteries"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Cardiovascular"
+  ],
+  "organs": [],
+  "tags": [
+    "Artery",
+    "BloodVesselsAndNerves",
+    "Branches",
+    "Course",
+    "HeadNeck",
+    "Origin",
+    "Supply"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-ed1f8a2a2a",
+      "variants": [
+        {
+          "id": "v-ed1f8a2a2a",
+          "answer": "Transverse facial artery",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-669",
+              "sourceLine": 669
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-463",
+              "sourceLine": 463
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-3ade02f540",
+      "variants": [
+        {
+          "id": "v-3ade02f540",
+          "answer": "Usually branch of superficial temporal artery.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-670",
+              "sourceLine": 670
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-464",
+              "sourceLine": 464
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-8c85392990",
+      "variants": [
+        {
+          "id": "v-8c85392990",
+          "answer": "Runs horizontally across face superficial to masseter below zygomatic arch.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-671",
+              "sourceLine": 671
+            }
+          ]
+        },
+        {
+          "id": "v-d8953cf83d",
+          "answer": "Runs horizontally across face over masseter.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-465",
+              "sourceLine": 465
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-222db0fc1c",
+      "question": "Supply",
+      "preferredVariantId": "v-5da56b08e4",
+      "variants": [
+        {
+          "id": "v-5da56b08e4",
+          "answer": "Parotid region, masseter and lateral face.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-672",
+              "sourceLine": 672
+            }
+          ]
+        },
+        {
+          "id": "v-117fa84023",
+          "answer": "Parotid region and lateral face.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-467",
+              "sourceLine": 467
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-f578227926",
+      "question": "Branches",
+      "preferredVariantId": "v-645dd8229f",
+      "variants": [
+        {
+          "id": "v-645dd8229f",
+          "answer": "Facial/parotid branches.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-466",
+              "sourceLine": 466
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "half-head-and-neck-model-bs9",
+      "section": "Blood vessels and nerves",
+      "path": [
+        "62"
+      ],
+      "label": "62"
+    },
+    {
+      "modelId": "head-and-neck-model-cs17-2",
+      "section": "Arteries",
+      "path": [
+        "72"
+      ],
+      "label": "72"
+    }
+  ]
+}

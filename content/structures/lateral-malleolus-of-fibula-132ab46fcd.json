@@ -1,0 +1,127 @@
+{
+  "id": "lateral-malleolus-of-fibula-132ab46fcd",
+  "name": "Lateral malleolus (of fibula)",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Bones"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Attachments",
+    "Bone",
+    "BonyLandmark",
+    "Clinical",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-605e71659b",
+      "variants": [
+        {
+          "id": "v-605e71659b",
+          "answer": "Lateral malleolus (of fibula)",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-618",
+              "sourceLine": 618
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-bcf605d6bb",
+      "question": "Bone",
+      "preferredVariantId": "v-944407c43c",
+      "variants": [
+        {
+          "id": "v-944407c43c",
+          "answer": "Distal fibula.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-619",
+              "sourceLine": 619
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6771ade6e8",
+      "question": "Attachments",
+      "preferredVariantId": "v-c430dbb4be",
+      "variants": [
+        {
+          "id": "v-c430dbb4be",
+          "answer": "Anterior talofibular, posterior talofibular and calcaneofibular ligaments; superior fibular retinaculum posteriorly.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-620",
+              "sourceLine": 620
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-19636b4485",
+      "variants": [
+        {
+          "id": "v-19636b4485",
+          "answer": "Forms lateral ankle mortise; fibularis brevis and longus tendons pass behind it, brevis usually anterior to longus.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-621",
+              "sourceLine": 621
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-b03737e3cd",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-a1aef4e4c8",
+      "variants": [
+        {
+          "id": "v-a1aef4e4c8",
+          "answer": "Common ankle fracture site; lateral ligament injury frequently accompanies inversion sprains.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-622",
+              "sourceLine": 622
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "lower-limb-model-ns10",
+      "section": "Bones",
+      "path": [
+        "87"
+      ],
+      "label": "87"
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "id": "coracohumeral-ligament-b3a5fb76fa",
+  "name": "Coracohumeral ligament",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Ligaments"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Attachments",
+    "Function",
+    "Ligament",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-2b3b2b6114",
+      "variants": [
+        {
+          "id": "v-2b3b2b6114",
+          "answer": "Coracohumeral ligament",
+          "sources": [
+            {
+              "modelId": "deep-shoulder-model-ns17",
+              "cardId": "deep-shoulder-model-ns17-51",
+              "sourceLine": 51
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6771ade6e8",
+      "question": "Attachments",
+      "preferredVariantId": "v-96afcccf2f",
+      "variants": [
+        {
+          "id": "v-96afcccf2f",
+          "answer": "Extends from the lateral base of the coracoid process to the greater and lesser tubercle region of the humerus, blending with the capsule.",
+          "sources": [
+            {
+              "modelId": "deep-shoulder-model-ns17",
+              "cardId": "deep-shoulder-model-ns17-52",
+              "sourceLine": 52
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-3df2cf16bc",
+      "variants": [
+        {
+          "id": "v-3df2cf16bc",
+          "answer": "Reinforces the superior glenohumeral capsule and helps resist inferior translation of the humeral head.",
+          "sources": [
+            {
+              "modelId": "deep-shoulder-model-ns17",
+              "cardId": "deep-shoulder-model-ns17-53",
+              "sourceLine": 53
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-b5ca27d133",
+      "variants": [
+        {
+          "id": "v-b5ca27d133",
+          "answer": "Lies superior to the glenohumeral joint and blends with rotator cuff/capsular fibres.",
+          "sources": [
+            {
+              "modelId": "deep-shoulder-model-ns17",
+              "cardId": "deep-shoulder-model-ns17-54",
+              "sourceLine": 54
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "deep-shoulder-model-ns17",
+      "section": "",
+      "path": [
+        "8"
+      ],
+      "label": "8"
+    }
+  ]
+}

@@ -1,0 +1,240 @@
+{
+  "id": "external-iliac-vein-86e47f30f5",
+  "name": "External iliac vein",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Veins"
+  ],
+  "regions": [
+    "Lower limb",
+    "Pelvis"
+  ],
+  "systems": [
+    "Cardiovascular",
+    "Reproductive"
+  ],
+  "organs": [],
+  "tags": [
+    "Course",
+    "Drainage",
+    "Origin",
+    "Termination",
+    "Tributaries",
+    "Vein"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-5c3abef374",
+      "variants": [
+        {
+          "id": "v-5c3abef374",
+          "answer": "External iliac vein",
+          "sources": [
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-166",
+              "sourceLine": 166
+            },
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-308",
+              "sourceLine": 308
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-88578c77ec",
+      "variants": [
+        {
+          "id": "v-88578c77ec",
+          "answer": "Continuation of the femoral vein proximal to the inguinal ligament.",
+          "sources": [
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-167",
+              "sourceLine": 167
+            }
+          ]
+        },
+        {
+          "id": "v-e3c207badc",
+          "answer": "Continuation of femoral vein proximal to inguinal ligament.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-309",
+              "sourceLine": 309
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-ea099c4b48",
+      "variants": [
+        {
+          "id": "v-5d7d7bb4b7",
+          "answer": "Ascends along the pelvic brim, generally medial to the external iliac artery.",
+          "sources": [
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-168",
+              "sourceLine": 168
+            }
+          ]
+        },
+        {
+          "id": "v-ea099c4b48",
+          "answer": "Ascends along pelvic brim, initially medial to external iliac artery.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-310",
+              "sourceLine": 310
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-f3a72b2279",
+      "question": "Tributaries",
+      "preferredVariantId": "v-634a69f9d5",
+      "variants": [
+        {
+          "id": "v-634a69f9d5",
+          "answer": "Receives inferior epigastric and deep circumflex iliac veins.",
+          "sources": [
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-169",
+              "sourceLine": 169
+            }
+          ]
+        },
+        {
+          "id": "v-b64f323241",
+          "answer": "Inferior epigastric and deep circumflex iliac veins; pubic tributaries may occur.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-311",
+              "sourceLine": 311
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-2ee8521886",
+      "question": "Termination",
+      "preferredVariantId": "v-a40fe7ba84",
+      "variants": [
+        {
+          "id": "v-a40fe7ba84",
+          "answer": "Joins the internal iliac vein to form the common iliac vein near the sacroiliac joint.",
+          "sources": [
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-170",
+              "sourceLine": 170
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-74a64b1943",
+      "question": "Drainage",
+      "preferredVariantId": "v-7ec8f081ff",
+      "variants": [
+        {
+          "id": "v-7ec8f081ff",
+          "answer": "Drains most of the lower limb and part of the lower anterior abdominal wall.",
+          "sources": [
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-171",
+              "sourceLine": 171
+            }
+          ]
+        },
+        {
+          "id": "v-65d3510156",
+          "answer": "Most venous blood from lower limb and part of lower anterior abdominal wall.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-312",
+              "sourceLine": 312
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-f2174a6538",
+      "question": "Terminates as",
+      "preferredVariantId": "v-d00645da7e",
+      "variants": [
+        {
+          "id": "v-d00645da7e",
+          "answer": "Joins internal iliac vein to form common iliac vein near sacroiliac joint.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-313",
+              "sourceLine": 313
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "female-reproductive-system-model-ms1",
+      "section": "",
+      "path": [
+        "23"
+      ],
+      "label": "23"
+    },
+    {
+      "modelId": "lower-limb-model-ns10",
+      "section": "Blood vessels",
+      "path": [
+        "39",
+        "39a"
+      ],
+      "label": "39a"
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "id": "deep-transverse-perineal-muscle-and-perineal-membrane-5cc5ef81cc",
+  "name": "Deep transverse perineal muscle and perineal membrane",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Pelvis"
+  ],
+  "systems": [
+    "Reproductive"
+  ],
+  "organs": [],
+  "tags": [
+    "Attachments",
+    "Function",
+    "PerinealStructure",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-05ce9cd2ea",
+      "variants": [
+        {
+          "id": "v-05ce9cd2ea",
+          "answer": "Deep transverse perineal muscle and perineal membrane",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-177",
+              "sourceLine": 177
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-50f735e20a",
+      "variants": [
+        {
+          "id": "v-50f735e20a",
+          "answer": "Helps stabilise the perineal body; the perineal membrane provides a strong fascial support across the urogenital triangle.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-178",
+              "sourceLine": 178
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-17d86acd4c",
+      "variants": [
+        {
+          "id": "v-17d86acd4c",
+          "answer": "Deep transverse perineal muscle lies in the deep perineal pouch adjacent to the perineal membrane.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-179",
+              "sourceLine": 179
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6771ade6e8",
+      "question": "Attachments",
+      "preferredVariantId": "v-a1dc85d192",
+      "variants": [
+        {
+          "id": "v-a1dc85d192",
+          "answer": "Perineal membrane attaches laterally to the ischiopubic rami.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-180",
+              "sourceLine": 180
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "female-pelvis-model-mo8",
+      "section": "",
+      "path": [
+        "20"
+      ],
+      "label": "20"
+    }
+  ]
+}

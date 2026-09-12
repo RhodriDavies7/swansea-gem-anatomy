@@ -1,0 +1,233 @@
+{
+  "id": "common-iliac-vein-07a98cf1af",
+  "name": "Common iliac vein",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Veins"
+  ],
+  "regions": [
+    "Pelvis"
+  ],
+  "systems": [
+    "Cardiovascular",
+    "Reproductive"
+  ],
+  "organs": [],
+  "tags": [
+    "Course",
+    "Drainage",
+    "Formation",
+    "Relations",
+    "Termination",
+    "Vein"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-3b85e28617",
+      "variants": [
+        {
+          "id": "v-3b85e28617",
+          "answer": "Common iliac vein",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-282",
+              "sourceLine": 282
+            },
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-150",
+              "sourceLine": 150
+            },
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-204",
+              "sourceLine": 204
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-bc0bd86b8f",
+      "question": "Formation",
+      "preferredVariantId": "v-ec105a99a5",
+      "variants": [
+        {
+          "id": "v-ec105a99a5",
+          "answer": "Union of external and internal iliac veins.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-283",
+              "sourceLine": 283
+            }
+          ]
+        },
+        {
+          "id": "v-f47976d7ea",
+          "answer": "Union of the external and internal iliac veins.",
+          "sources": [
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-151",
+              "sourceLine": 151
+            },
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-205",
+              "sourceLine": 205
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-da40fe444e",
+      "variants": [
+        {
+          "id": "v-dfd551ed4c",
+          "answer": "Ascends to join the opposite common iliac vein.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-284",
+              "sourceLine": 284
+            }
+          ]
+        },
+        {
+          "id": "v-da40fe444e",
+          "answer": "Ascends toward the right side of L5 where the right and left common iliac veins unite.",
+          "sources": [
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-152",
+              "sourceLine": 152
+            },
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-206",
+              "sourceLine": 206
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-2ee8521886",
+      "question": "Termination",
+      "preferredVariantId": "v-7c0d1ec3fc",
+      "variants": [
+        {
+          "id": "v-7c0d1ec3fc",
+          "answer": "Right and left common iliac veins form the inferior vena cava.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-285",
+              "sourceLine": 285
+            },
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-153",
+              "sourceLine": 153
+            },
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-207",
+              "sourceLine": 207
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-74a64b1943",
+      "question": "Drainage",
+      "preferredVariantId": "v-cc089a8693",
+      "variants": [
+        {
+          "id": "v-cc089a8693",
+          "answer": "Pelvis and lower limb.",
+          "sources": [
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-154",
+              "sourceLine": 154
+            },
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-208",
+              "sourceLine": 208
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-bfc6f01194",
+      "variants": [
+        {
+          "id": "v-bfc6f01194",
+          "answer": "Common iliac arteries lie anterior; the right common iliac artery crosses anterior to the left common iliac vein.",
+          "sources": [
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-155",
+              "sourceLine": 155
+            },
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-209",
+              "sourceLine": 209
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "female-pelvis-model-mo8",
+      "section": "",
+      "path": [
+        "34"
+      ],
+      "label": "34"
+    },
+    {
+      "modelId": "female-reproductive-system-model-ms1",
+      "section": "",
+      "path": [
+        "21"
+      ],
+      "label": "21"
+    },
+    {
+      "modelId": "male-reproductive-system-model-ms2",
+      "section": "",
+      "path": [
+        "22"
+      ],
+      "label": "22"
+    }
+  ]
+}

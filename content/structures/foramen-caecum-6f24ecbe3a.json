@@ -1,0 +1,179 @@
+{
+  "id": "foramen-caecum-6f24ecbe3a",
+  "name": "Foramen caecum (tongue)",
+  "aliases": [
+    "Foramen caecum"
+  ],
+  "scope": "Head and neck",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Respiratory"
+  ],
+  "organs": [
+    "Larynx"
+  ],
+  "tags": [
+    "Tongue",
+    "Landmark",
+    "Embryology",
+    "Location",
+    "HeadNeck"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "curated-a27f34b36d",
+      "variants": [
+        {
+          "id": "v-277f390367",
+          "answer": "Foramen caecum",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-403",
+              "sourceLine": 403
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-290",
+              "sourceLine": 290
+            },
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-229",
+              "sourceLine": 229
+            }
+          ]
+        },
+        {
+          "id": "curated-a27f34b36d",
+          "answer": "Foramen caecum (tongue)",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-403",
+              "sourceLine": 403
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-290",
+              "sourceLine": 290
+            },
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-229",
+              "sourceLine": 229
+            }
+          ],
+          "editorial": true
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-572de46e6c",
+      "variants": [
+        {
+          "id": "v-572de46e6c",
+          "answer": "Small pit on dorsum of tongue at apex of sulcus terminalis.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-404",
+              "sourceLine": 404
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-291",
+              "sourceLine": 291
+            }
+          ]
+        },
+        {
+          "id": "v-8e97a19081",
+          "answer": "Small pit at apex of sulcus terminalis on dorsum of tongue.",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-230",
+              "sourceLine": 230
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-7653a79b3b",
+      "question": "Embryology",
+      "preferredVariantId": "v-1af563f7bd",
+      "variants": [
+        {
+          "id": "v-1af563f7bd",
+          "answer": "Marks the embryological origin of the thyroglossal duct and thyroid descent.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-405",
+              "sourceLine": 405
+            },
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-231",
+              "sourceLine": 231
+            }
+          ]
+        },
+        {
+          "id": "v-8457fd9188",
+          "answer": "Marks embryological origin of thyroglossal duct and thyroid descent.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-292",
+              "sourceLine": 292
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "coronal-and-mid-sagittal-head-mb20",
+      "section": "Other midline structures",
+      "path": [
+        "l"
+      ],
+      "label": "l"
+    },
+    {
+      "modelId": "half-head-and-neck-model-bs9",
+      "section": "Other midline structures",
+      "path": [
+        "l"
+      ],
+      "label": "l"
+    },
+    {
+      "modelId": "larynx-and-tongue-model-gs4",
+      "section": "Tongue",
+      "path": [
+        "6"
+      ],
+      "label": "6"
+    }
+  ]
+}

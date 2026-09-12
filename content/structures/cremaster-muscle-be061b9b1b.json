@@ -1,0 +1,128 @@
+{
+  "id": "cremaster-muscle-be061b9b1b",
+  "name": "Cremaster muscle",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Pelvis"
+  ],
+  "systems": [
+    "Musculoskeletal",
+    "Reproductive"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-19db07ea70",
+      "variants": [
+        {
+          "id": "v-19db07ea70",
+          "answer": "Cremaster muscle",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-181",
+              "sourceLine": 181
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-30fa8f2bf3",
+      "variants": [
+        {
+          "id": "v-30fa8f2bf3",
+          "answer": "Elevates the testis and spermatic cord; contributes to thermoregulation and the cremasteric reflex.",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-182",
+              "sourceLine": 182
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-8c0667f82c",
+      "variants": [
+        {
+          "id": "v-8c0667f82c",
+          "answer": "Genital branch of the genitofemoral nerve (L1–L2).",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-183",
+              "sourceLine": 183
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-fe5cfdb47e",
+      "variants": [
+        {
+          "id": "v-fe5cfdb47e",
+          "answer": "Mainly from internal oblique muscle and adjacent inguinal ligament.",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-184",
+              "sourceLine": 184
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-1797f0a844",
+      "variants": [
+        {
+          "id": "v-1797f0a844",
+          "answer": "Forms loops around the spermatic cord and testis, blending with coverings around the cord.",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-185",
+              "sourceLine": 185
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "male-reproductive-system-model-ms2",
+      "section": "",
+      "path": [
+        "19"
+      ],
+      "label": "19"
+    }
+  ]
+}

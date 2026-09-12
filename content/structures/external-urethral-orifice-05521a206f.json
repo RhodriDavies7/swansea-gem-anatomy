@@ -1,0 +1,108 @@
+{
+  "id": "external-urethral-orifice-05521a206f",
+  "name": "External urethral orifice",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Pelvis"
+  ],
+  "systems": [
+    "Reproductive"
+  ],
+  "organs": [],
+  "tags": [
+    "Features",
+    "Function",
+    "Location",
+    "Opening"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-78c89bfbf1",
+      "variants": [
+        {
+          "id": "v-78c89bfbf1",
+          "answer": "External urethral orifice",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-125",
+              "sourceLine": 125
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-cb456cbd45",
+      "variants": [
+        {
+          "id": "v-cb456cbd45",
+          "answer": "At the tip of the glans penis.",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-126",
+              "sourceLine": 126
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-72c1ec8093",
+      "variants": [
+        {
+          "id": "v-72c1ec8093",
+          "answer": "External opening through which urine and semen exit the urethra.",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-127",
+              "sourceLine": 127
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-fc338f87a0",
+      "question": "Features",
+      "preferredVariantId": "v-6708190ef9",
+      "variants": [
+        {
+          "id": "v-6708190ef9",
+          "answer": "Narrowest and least distensible part of the male urethra.",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-128",
+              "sourceLine": 128
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "male-reproductive-system-model-ms2",
+      "section": "",
+      "path": [
+        "13"
+      ],
+      "label": "13"
+    }
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "id": "external-iliac-artery-2e141b3ac6",
+  "name": "External iliac artery",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Arteries"
+  ],
+  "regions": [
+    "Pelvis"
+  ],
+  "systems": [
+    "Cardiovascular",
+    "Reproductive"
+  ],
+  "organs": [],
+  "tags": [
+    "Artery",
+    "Branches",
+    "Course",
+    "Origin",
+    "Relations",
+    "Supply"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-a6d5bcc62e",
+      "variants": [
+        {
+          "id": "v-a6d5bcc62e",
+          "answer": "External iliac artery",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-234",
+              "sourceLine": 234
+            },
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-158",
+              "sourceLine": 158
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-1702e25f84",
+      "variants": [
+        {
+          "id": "v-1702e25f84",
+          "answer": "Terminal branch of common iliac artery.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-235",
+              "sourceLine": 235
+            }
+          ]
+        },
+        {
+          "id": "v-205b778a14",
+          "answer": "Terminal branch of the common iliac artery.",
+          "sources": [
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-159",
+              "sourceLine": 159
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-bd6718ecb4",
+      "variants": [
+        {
+          "id": "v-d44b994ce0",
+          "answer": "Runs along pelvic brim and passes under inguinal ligament to become femoral artery.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-236",
+              "sourceLine": 236
+            }
+          ]
+        },
+        {
+          "id": "v-bd6718ecb4",
+          "answer": "Runs along the medial border of psoas major toward the inguinal ligament, where it continues as the femoral artery.",
+          "sources": [
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-160",
+              "sourceLine": 160
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-222db0fc1c",
+      "question": "Supply",
+      "preferredVariantId": "v-d9fe2c84e8",
+      "variants": [
+        {
+          "id": "v-d9fe2c84e8",
+          "answer": "Main arterial route to lower limb; also lower anterior abdominal wall.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-237",
+              "sourceLine": 237
+            }
+          ]
+        },
+        {
+          "id": "v-595d8151b4",
+          "answer": "Main arterial route to the lower limb; also supplies lower anterior abdominal wall through branches.",
+          "sources": [
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-162",
+              "sourceLine": 162
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-f578227926",
+      "question": "Branches",
+      "preferredVariantId": "v-df9c36f168",
+      "variants": [
+        {
+          "id": "v-df9c36f168",
+          "answer": "Inferior epigastric and deep circumflex iliac arteries are its principal branches.",
+          "sources": [
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-161",
+              "sourceLine": 161
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-68e266314c",
+      "variants": [
+        {
+          "id": "v-68e266314c",
+          "answer": "External iliac vein lies mainly medial; femoral nerve lies lateral and outside the vascular sheath.",
+          "sources": [
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-163",
+              "sourceLine": 163
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "female-pelvis-model-mo8",
+      "section": "",
+      "path": [
+        "36"
+      ],
+      "label": "36"
+    },
+    {
+      "modelId": "female-reproductive-system-model-ms1",
+      "section": "",
+      "path": [
+        "22"
+      ],
+      "label": "22"
+    }
+  ]
+}

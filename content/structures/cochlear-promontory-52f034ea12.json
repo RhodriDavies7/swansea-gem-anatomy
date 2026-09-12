@@ -1,0 +1,115 @@
+{
+  "id": "cochlear-promontory-52f034ea12",
+  "name": "Cochlear promontory",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Bones"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [
+    "Ear"
+  ],
+  "tags": [
+    "BonyLandmark",
+    "InnerEar",
+    "Location",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-bf5656f4f2",
+      "variants": [
+        {
+          "id": "v-bf5656f4f2",
+          "answer": "Cochlear promontory",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-211",
+              "sourceLine": 211
+            },
+            {
+              "modelId": "ear-model-ds3",
+              "cardId": "ear-model-ds3-113",
+              "sourceLine": 113
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-1aa6271b47",
+      "variants": [
+        {
+          "id": "v-1aa6271b47",
+          "answer": "Rounded prominence on the medial wall of the tympanic cavity produced by the basal turn of the cochlea.",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-212",
+              "sourceLine": 212
+            },
+            {
+              "modelId": "ear-model-ds3",
+              "cardId": "ear-model-ds3-114",
+              "sourceLine": 114
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-744f9af1ff",
+      "variants": [
+        {
+          "id": "v-744f9af1ff",
+          "answer": "Lies between the oval and round window regions.",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-213",
+              "sourceLine": 213
+            },
+            {
+              "modelId": "ear-model-ds3",
+              "cardId": "ear-model-ds3-115",
+              "sourceLine": 115
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "ear-largest-model-ds1",
+      "section": "D. Inner ear",
+      "path": [
+        "33"
+      ],
+      "label": "33"
+    },
+    {
+      "modelId": "ear-model-ds3",
+      "section": "C. Inner ear",
+      "path": [
+        "15"
+      ],
+      "label": "15"
+    }
+  ]
+}

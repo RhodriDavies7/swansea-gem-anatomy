@@ -1,0 +1,370 @@
+{
+  "id": "vagus-nerve-cn-x-050cb0c8d5",
+  "name": "Vagus nerve (CN X)",
+  "aliases": [
+    "Vagus nerve"
+  ],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Nerves"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [],
+  "tags": [
+    "Brain",
+    "Course",
+    "Lesion",
+    "Motor",
+    "Nerve",
+    "Parasympathetic",
+    "Roots",
+    "Sensory",
+    "ModelNote"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-44a9aa6862",
+      "variants": [
+        {
+          "id": "v-44a9aa6862",
+          "answer": "Vagus nerve (CN X)",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-246",
+              "sourceLine": 246
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-813",
+              "sourceLine": 813
+            }
+          ]
+        },
+        {
+          "id": "v-ebb9e6b567",
+          "answer": "Vagus nerve",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-232",
+              "sourceLine": 232
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-4d78ec7d11",
+      "question": "Roots",
+      "preferredVariantId": "v-cdfa31b99b",
+      "variants": [
+        {
+          "id": "v-cdfa31b99b",
+          "answer": "Medullary nuclei including nucleus ambiguus, dorsal motor nucleus of vagus and nucleus solitarius pathways.",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-247",
+              "sourceLine": 247
+            },
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-233",
+              "sourceLine": 233
+            }
+          ]
+        },
+        {
+          "id": "v-4642fdc221",
+          "answer": "Arises from medulla.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-814",
+              "sourceLine": 814
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-1d2963d12f",
+      "variants": [
+        {
+          "id": "v-1d2963d12f",
+          "answer": "Emerges from postolivary sulcus, exits through jugular foramen and descends in carotid sheath into thorax and abdomen.",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-248",
+              "sourceLine": 248
+            }
+          ]
+        },
+        {
+          "id": "v-e9aa615d17",
+          "answer": "Exits jugular foramen and descends within carotid sheath into thorax.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-815",
+              "sourceLine": 815
+            }
+          ]
+        },
+        {
+          "id": "v-e101f16776",
+          "answer": "Emerges from postolivary sulcus, exits through jugular foramen and descends in the carotid sheath.",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-234",
+              "sourceLine": 234
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-c8b6915183",
+      "question": "Motor functions",
+      "preferredVariantId": "curated-4a3e797c1a",
+      "variants": [
+        {
+          "id": "v-b652dabd18",
+          "answer": "Supplies most muscles of palate, pharynx and larynx.",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-249",
+              "sourceLine": 249
+            }
+          ]
+        },
+        {
+          "id": "v-8f35973812",
+          "answer": "Supplies palate, pharynx and larynx and carries parasympathetic fibres to thoracoabdominal viscera.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-816",
+              "sourceLine": 816
+            }
+          ]
+        },
+        {
+          "id": "curated-4a3e797c1a",
+          "answer": "Supplies most palate, pharynx and larynx muscles; carries parasympathetic fibres to thoracoabdominal viscera.",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-249",
+              "sourceLine": 249
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-816",
+              "sourceLine": 816
+            }
+          ],
+          "editorial": true
+        },
+        {
+          "id": "v-dfb2133804",
+          "answer": "Supplies most muscles of the palate, pharynx and larynx.",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-235",
+              "sourceLine": 235
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-a453254382",
+      "question": "Sensory functions",
+      "preferredVariantId": "v-c3170e2d21",
+      "variants": [
+        {
+          "id": "v-c3170e2d21",
+          "answer": "Visceral sensation from thoracoabdominal organs and sensation from larynx/pharynx; taste from epiglottic region.",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-250",
+              "sourceLine": 250
+            },
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-236",
+              "sourceLine": 236
+            }
+          ]
+        },
+        {
+          "id": "v-9940f3aab2",
+          "answer": "Visceral sensation, laryngeal/pharyngeal sensation and taste from epiglottic region.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-817",
+              "sourceLine": 817
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-9f76a2a9d2",
+      "question": "Parasympathetic functions",
+      "preferredVariantId": "v-0aad8b6736",
+      "variants": [
+        {
+          "id": "v-0aad8b6736",
+          "answer": "Parasympathetic supply to thoracic and much of abdominal viscera.",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-251",
+              "sourceLine": 251
+            }
+          ]
+        },
+        {
+          "id": "v-1a8db60db7",
+          "answer": "Provides parasympathetic supply to thoracic and much of abdominal viscera.",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-237",
+              "sourceLine": 237
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-bc53d10c57",
+      "question": "Lesion",
+      "preferredVariantId": "v-d9495a4840",
+      "variants": [
+        {
+          "id": "v-d9495a4840",
+          "answer": "May cause dysphagia and hoarseness, ipsilateral palatal weakness with the uvula deviating away from the lesion, and loss of the efferent limb of the gag reflex.",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-252",
+              "sourceLine": 252
+            },
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-239",
+              "sourceLine": 239
+            }
+          ]
+        },
+        {
+          "id": "v-680968f4f8",
+          "answer": "May cause dysphagia and hoarseness, ipsilateral palatal weakness with uvula deviating away from the lesion, and loss of the efferent gag reflex.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-818",
+              "sourceLine": 818
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-2c924e3088",
+      "question": "Note",
+      "preferredVariantId": "v-9cf160cb8c",
+      "variants": [
+        {
+          "id": "v-9cf160cb8c",
+          "answer": "May have fallen off the physical model.",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-238",
+              "sourceLine": 238
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "cranial-floor-model-bs1",
+      "section": "",
+      "path": [
+        "38"
+      ],
+      "label": "38"
+    },
+    {
+      "modelId": "head-and-neck-model-cs17-2",
+      "section": "Internal brain structures and cranial nerves (1–26)",
+      "path": [
+        "25"
+      ],
+      "label": "25"
+    },
+    {
+      "modelId": "deep-face-model-bs8-1",
+      "section": "",
+      "path": [
+        "36"
+      ],
+      "label": "36"
+    }
+  ],
+  "redirectIds": [
+    "vagus-nerve-3ddb1f4ea9"
+  ]
+}

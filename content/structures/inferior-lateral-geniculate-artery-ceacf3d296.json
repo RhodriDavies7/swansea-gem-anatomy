@@ -1,0 +1,108 @@
+{
+  "id": "inferior-lateral-geniculate-artery-ceacf3d296",
+  "name": "Inferior lateral geniculate artery",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Arteries"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Cardiovascular"
+  ],
+  "organs": [],
+  "tags": [
+    "Artery",
+    "Course",
+    "Origin",
+    "Supply"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-7087979d1c",
+      "variants": [
+        {
+          "id": "v-7087979d1c",
+          "answer": "Inferior lateral geniculate artery",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-404",
+              "sourceLine": 404
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-6d458d0485",
+      "variants": [
+        {
+          "id": "v-6d458d0485",
+          "answer": "Popliteal artery near knee joint level.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-405",
+              "sourceLine": 405
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-e8cf4bc1b3",
+      "variants": [
+        {
+          "id": "v-e8cf4bc1b3",
+          "answer": "Passes laterally over popliteus, deep to fibular collateral ligament, toward front of knee.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-406",
+              "sourceLine": 406
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-222db0fc1c",
+      "question": "Supply",
+      "preferredVariantId": "v-a75b6eb5b1",
+      "variants": [
+        {
+          "id": "v-a75b6eb5b1",
+          "answer": "Inferolateral knee and genicular anastomosis.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-407",
+              "sourceLine": 407
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "lower-limb-model-ns10",
+      "section": "Blood vessels",
+      "path": [
+        "54"
+      ],
+      "label": "54"
+    }
+  ]
+}

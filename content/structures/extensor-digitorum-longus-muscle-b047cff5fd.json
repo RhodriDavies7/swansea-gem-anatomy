@@ -1,0 +1,203 @@
+{
+  "id": "extensor-digitorum-longus-muscle-b047cff5fd",
+  "name": "Extensor digitorum longus muscle",
+  "aliases": [
+    "Extensor digitorum longus"
+  ],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Origin",
+    "Muscles"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-797866ec77",
+      "variants": [
+        {
+          "id": "v-797866ec77",
+          "answer": "Extensor digitorum longus muscle",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-166",
+              "sourceLine": 166
+            }
+          ]
+        },
+        {
+          "id": "v-81f8a65628",
+          "answer": "Extensor digitorum longus",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-82",
+              "sourceLine": 82
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-6a75e8e227",
+      "variants": [
+        {
+          "id": "v-6a75e8e227",
+          "answer": "Extends toes 2–5 at metatarsophalangeal and interphalangeal joints; dorsiflexes the ankle and assists eversion.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-167",
+              "sourceLine": 167
+            }
+          ]
+        },
+        {
+          "id": "v-41c5f74884",
+          "answer": "Extends lateral four toes and dorsiflexes ankle; assists eversion.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-83",
+              "sourceLine": 83
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-61fe0ce0c6",
+      "variants": [
+        {
+          "id": "v-61fe0ce0c6",
+          "answer": "Deep fibular nerve (L5–S1).",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-168",
+              "sourceLine": 168
+            },
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-84",
+              "sourceLine": 84
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-fc072de3a1",
+      "variants": [
+        {
+          "id": "v-fc072de3a1",
+          "answer": "Lateral tibial condyle, upper anterior fibula and interosseous membrane.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-169",
+              "sourceLine": 169
+            }
+          ]
+        },
+        {
+          "id": "v-d6e96cd375",
+          "answer": "Lateral tibial condyle, anterior fibula and interosseous membrane.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-85",
+              "sourceLine": 85
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-99bda57222",
+      "variants": [
+        {
+          "id": "v-99bda57222",
+          "answer": "Extensor expansions of toes 2–5, reaching middle and distal phalanges.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-170",
+              "sourceLine": 170
+            }
+          ]
+        },
+        {
+          "id": "v-cec6af55c9",
+          "answer": "Extensor expansions of lateral four toes.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-86",
+              "sourceLine": 86
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "lower-limb-model-ns10",
+      "section": "Muscles",
+      "path": [
+        "21"
+      ],
+      "label": "21"
+    },
+    {
+      "modelId": "foot-model-ns9",
+      "section": "Muscles",
+      "path": [
+        "13"
+      ],
+      "label": "13"
+    }
+  ]
+}

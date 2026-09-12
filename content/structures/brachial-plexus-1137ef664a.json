@@ -1,0 +1,146 @@
+{
+  "id": "brachial-plexus-1137ef664a",
+  "name": "Brachial plexus",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Nerves"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [],
+  "tags": [
+    "Course",
+    "Lesion",
+    "Motor",
+    "Nerve",
+    "Roots",
+    "Sensory"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-dfa8677c1b",
+      "variants": [
+        {
+          "id": "v-dfa8677c1b",
+          "answer": "Brachial plexus",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-421",
+              "sourceLine": 421
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-4d78ec7d11",
+      "question": "Roots",
+      "preferredVariantId": "v-cf0387cfa9",
+      "variants": [
+        {
+          "id": "v-cf0387cfa9",
+          "answer": "Anterior rami of C5–T1, with possible prefixed/postfixed variation.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-422",
+              "sourceLine": 422
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-84d86be41b",
+      "variants": [
+        {
+          "id": "v-84d86be41b",
+          "answer": "Roots pass between anterior and middle scalene muscles; trunks cross posterior triangle; divisions form behind clavicle; cords surround axillary artery in axilla.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-423",
+              "sourceLine": 423
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c8b6915183",
+      "question": "Motor functions",
+      "preferredVariantId": "v-fe166ba2ea",
+      "variants": [
+        {
+          "id": "v-fe166ba2ea",
+          "answer": "Provides motor innervation to almost all muscles of te upper limb through its terminal and collateral branches.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-424",
+              "sourceLine": 424
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-a453254382",
+      "question": "Sensory functions",
+      "preferredVariantId": "v-8de3338224",
+      "variants": [
+        {
+          "id": "v-8de3338224",
+          "answer": "Provides most cutaneous and joint sensation of the upper limb through its terminal branches.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-425",
+              "sourceLine": 425
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-bc53d10c57",
+      "question": "Lesion",
+      "preferredVariantId": "v-e9cf68a88a",
+      "variants": [
+        {
+          "id": "v-e9cf68a88a",
+          "answer": "Deficits depend on level: upper trunk injury classically affects C5–C6 functions; lower trunk injury affects C8–T1 functions; cord/terminal branch lesions produce more peripheral patterns.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-426",
+              "sourceLine": 426
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "upper-limb-model-ns15",
+      "section": "Nerves",
+      "path": [
+        "67"
+      ],
+      "label": "67"
+    }
+  ]
+}

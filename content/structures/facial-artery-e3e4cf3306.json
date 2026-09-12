@@ -1,0 +1,196 @@
+{
+  "id": "facial-artery-e3e4cf3306",
+  "name": "Facial artery",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Arteries"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Cardiovascular"
+  ],
+  "organs": [],
+  "tags": [
+    "Artery",
+    "BloodVesselsAndNerves",
+    "Branches",
+    "Course",
+    "HeadNeck",
+    "ModelNote",
+    "Origin",
+    "Supply"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-0ba31735d8",
+      "variants": [
+        {
+          "id": "v-0ba31735d8",
+          "answer": "Facial artery",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-662",
+              "sourceLine": 662
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-428",
+              "sourceLine": 428
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-5ef00ee00c",
+      "variants": [
+        {
+          "id": "v-5ef00ee00c",
+          "answer": "External carotid artery.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-663",
+              "sourceLine": 663
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-429",
+              "sourceLine": 429
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-d3ee76a248",
+      "variants": [
+        {
+          "id": "v-d3ee76a248",
+          "answer": "Passes deep to submandibular gland, hooks around inferior mandible anterior to masseter and ascends across face.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-664",
+              "sourceLine": 664
+            }
+          ]
+        },
+        {
+          "id": "v-c45db1653c",
+          "answer": "Passes through submandibular region, hooks around mandible anterior to masseter and ascends across face.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-430",
+              "sourceLine": 430
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-222db0fc1c",
+      "question": "Supply",
+      "preferredVariantId": "v-e711e0c072",
+      "variants": [
+        {
+          "id": "v-e711e0c072",
+          "answer": "Face, lips, nose, submandibular region and tonsillar/palatal areas.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-665",
+              "sourceLine": 665
+            }
+          ]
+        },
+        {
+          "id": "v-246279fbb4",
+          "answer": "Face, lips and nose.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-432",
+              "sourceLine": 432
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-2c924e3088",
+      "question": "Note",
+      "preferredVariantId": "v-227c8facd9",
+      "variants": [
+        {
+          "id": "v-227c8facd9",
+          "answer": "The label can resemble the number 67 on the model; identify the vessel by position rather than numeral shape.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-666",
+              "sourceLine": 666
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f578227926",
+      "question": "Branches",
+      "preferredVariantId": "v-0d350d56e8",
+      "variants": [
+        {
+          "id": "v-0d350d56e8",
+          "answer": "Inferior/superior labial, lateral nasal and angular branches.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-431",
+              "sourceLine": 431
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "half-head-and-neck-model-bs9",
+      "section": "Blood vessels and nerves",
+      "path": [
+        "61"
+      ],
+      "label": "61"
+    },
+    {
+      "modelId": "head-and-neck-model-cs17-2",
+      "section": "Arteries",
+      "path": [
+        "67"
+      ],
+      "label": "67"
+    }
+  ]
+}

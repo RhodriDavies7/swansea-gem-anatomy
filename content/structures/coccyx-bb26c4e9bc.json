@@ -1,0 +1,255 @@
+{
+  "id": "coccyx-bb26c4e9bc",
+  "name": "Coccyx",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Bones"
+  ],
+  "regions": [
+    "Lower limb",
+    "Pelvis"
+  ],
+  "systems": [
+    "Musculoskeletal",
+    "Reproductive"
+  ],
+  "organs": [],
+  "tags": [
+    "Articulations",
+    "Attachments",
+    "Bone",
+    "Landmarks",
+    "Orientation"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-4a4a3dc101",
+      "variants": [
+        {
+          "id": "v-4a4a3dc101",
+          "answer": "Coccyx",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-50",
+              "sourceLine": 50
+            },
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-514",
+              "sourceLine": 514
+            },
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-14",
+              "sourceLine": 14
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-a40bee8d10",
+      "question": "Articulations",
+      "preferredVariantId": "v-b8a2bea947",
+      "variants": [
+        {
+          "id": "v-2039145905",
+          "answer": "Articulates superiorly with the sacrum.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-51",
+              "sourceLine": 51
+            }
+          ]
+        },
+        {
+          "id": "v-6761ea814a",
+          "answer": "Sacrum superiorly; small joints between coccygeal segments may fuse.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-515",
+              "sourceLine": 515
+            }
+          ]
+        },
+        {
+          "id": "v-b8a2bea947",
+          "answer": "Articulates with the sacrum at the sacrococcygeal joint; coccygeal segments may fuse.",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-15",
+              "sourceLine": 15
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-6771ade6e8",
+      "question": "Attachments",
+      "preferredVariantId": "v-452f632268",
+      "variants": [
+        {
+          "id": "v-452f632268",
+          "answer": "Attachment for levator ani, coccygeus, gluteus maximus and anococcygeal ligament.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-52",
+              "sourceLine": 52
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-86e4e38754",
+      "question": "Orientation",
+      "preferredVariantId": "v-e31d2d964d",
+      "variants": [
+        {
+          "id": "v-f865ab648c",
+          "answer": "Curves anteriorly from the sacrum.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-53",
+              "sourceLine": 53
+            }
+          ]
+        },
+        {
+          "id": "v-d8f3871736",
+          "answer": "Base superior toward sacrum; tapering apex inferior, usually curving anteriorly; cornua project upward from posterior base.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-518",
+              "sourceLine": 518
+            }
+          ]
+        },
+        {
+          "id": "v-e31d2d964d",
+          "answer": "Base faces superiorly toward the sacrum and the apex points inferiorly, usually curving anteriorly.",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-18",
+              "sourceLine": 18
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-626b6c1d45",
+      "question": "Landmarks",
+      "preferredVariantId": "v-85445dda94",
+      "variants": [
+        {
+          "id": "v-85445dda94",
+          "answer": "Usually 3–5 fused or partly fused vertebral segments; base, apex, coccygeal cornua and first-segment transverse processes.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-516",
+              "sourceLine": 516
+            }
+          ]
+        },
+        {
+          "id": "v-a27bdc4af8",
+          "answer": "Base, apex, coccygeal cornua and transverse processes of the first coccygeal segment.",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-16",
+              "sourceLine": 16
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-2389607e0b",
+      "question": "Muscle attachments",
+      "preferredVariantId": "v-72d8906d25",
+      "variants": [
+        {
+          "id": "v-72d8906d25",
+          "answer": "Coccygeus and levator ani attach to sides/anterior aspect; gluteus maximus attaches posteriorly; anococcygeal body connects it to anal region.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-517",
+              "sourceLine": 517
+            }
+          ]
+        },
+        {
+          "id": "v-e4f942b998",
+          "answer": "Coccygeus, levator ani and gluteus maximus attach to the coccyx; the anococcygeal body attaches anteriorly.",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-17",
+              "sourceLine": 17
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "female-pelvis-model-mo8",
+      "section": "",
+      "path": [
+        "9"
+      ],
+      "label": "9"
+    },
+    {
+      "modelId": "lower-limb-model-ns10",
+      "section": "Bones",
+      "path": [
+        "70"
+      ],
+      "label": "70"
+    },
+    {
+      "modelId": "male-reproductive-system-model-ms2",
+      "section": "",
+      "path": [
+        "3"
+      ],
+      "label": "3"
+    }
+  ]
+}

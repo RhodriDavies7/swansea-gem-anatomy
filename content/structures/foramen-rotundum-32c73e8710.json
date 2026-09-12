@@ -1,0 +1,107 @@
+{
+  "id": "foramen-rotundum-32c73e8710",
+  "name": "Foramen rotundum",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [],
+  "organs": [],
+  "tags": [
+    "Bone",
+    "Connections",
+    "Contents",
+    "Foramen",
+    "HeadNeck"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-ef5684baa6",
+      "variants": [
+        {
+          "id": "v-ef5684baa6",
+          "answer": "Foramen rotundum",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-103",
+              "sourceLine": 103
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-bcf605d6bb",
+      "question": "Bone",
+      "preferredVariantId": "v-6e13223fda",
+      "variants": [
+        {
+          "id": "v-6e13223fda",
+          "answer": "Sphenoid bone.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-104",
+              "sourceLine": 104
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f5cbdf6bfb",
+      "question": "Contents",
+      "preferredVariantId": "v-f71673d1da",
+      "variants": [
+        {
+          "id": "v-f71673d1da",
+          "answer": "Maxillary nerve (CN V2).",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-105",
+              "sourceLine": 105
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-8f3509b64e",
+      "question": "Connections",
+      "preferredVariantId": "v-dbb0e37e82",
+      "variants": [
+        {
+          "id": "v-dbb0e37e82",
+          "answer": "Connects middle cranial fossa with pterygopalatine fossa.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-106",
+              "sourceLine": 106
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "head-and-neck-model-cs17-2",
+      "section": "Bony structures, foramina and ear structures",
+      "path": [
+        "20"
+      ],
+      "label": "20"
+    }
+  ]
+}

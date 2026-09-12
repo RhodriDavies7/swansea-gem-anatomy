@@ -1,0 +1,267 @@
+{
+  "id": "accessory-nerve-cn-xi-ec8ea5def7",
+  "name": "Accessory nerve (CN XI)",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Nerves"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [],
+  "tags": [
+    "BloodVesselsAndNerves",
+    "Brain",
+    "Course",
+    "Lesion",
+    "Motor",
+    "Nerve",
+    "Roots",
+    "Sensory"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-7ea65ac680",
+      "variants": [
+        {
+          "id": "v-7ea65ac680",
+          "answer": "Accessory nerve (CN XI)",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-255",
+              "sourceLine": 255
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-781",
+              "sourceLine": 781
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-805",
+              "sourceLine": 805
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-4d78ec7d11",
+      "question": "Roots",
+      "preferredVariantId": "v-5732d4d7c6",
+      "variants": [
+        {
+          "id": "v-5732d4d7c6",
+          "answer": "Spinal rootlets from upper cervical spinal cord, classically C1–C5/6.",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-256",
+              "sourceLine": 256
+            }
+          ]
+        },
+        {
+          "id": "v-591b4c7c15",
+          "answer": "Spinal rootlets from upper cervical cord, classically C1–C5/6.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-782",
+              "sourceLine": 782
+            }
+          ]
+        },
+        {
+          "id": "v-ef711b6465",
+          "answer": "Spinal rootlets arise from upper cervical spinal cord, classically C1–C5/6.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-806",
+              "sourceLine": 806
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-8cdbc568d0",
+      "variants": [
+        {
+          "id": "v-0092aacd1f",
+          "answer": "Spinal root ascends through foramen magnum and exits skull through jugular foramen.",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-257",
+              "sourceLine": 257
+            }
+          ]
+        },
+        {
+          "id": "v-8cdbc568d0",
+          "answer": "Ascends through foramen magnum, exits jugular foramen, crosses posterior triangle to trapezius.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-783",
+              "sourceLine": 783
+            }
+          ]
+        },
+        {
+          "id": "v-558fa38438",
+          "answer": "Ascends through foramen magnum, exits jugular foramen and crosses posterior triangle.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-807",
+              "sourceLine": 807
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-c8b6915183",
+      "question": "Motor functions",
+      "preferredVariantId": "v-9e546afbd2",
+      "variants": [
+        {
+          "id": "v-9e546afbd2",
+          "answer": "Supplies sternocleidomastoid and trapezius.",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-258",
+              "sourceLine": 258
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-784",
+              "sourceLine": 784
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-808",
+              "sourceLine": 808
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-bc53d10c57",
+      "question": "Lesion",
+      "preferredVariantId": "v-f05657209d",
+      "variants": [
+        {
+          "id": "v-becf34a7b5",
+          "answer": "Causes weak head turning away from affected side and shoulder droop/weak shrug on affected side.",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-259",
+              "sourceLine": 259
+            }
+          ]
+        },
+        {
+          "id": "v-1b63727c43",
+          "answer": "Lesion causes weak head turning away from affected side and ipsilateral shoulder droop/weak shrug.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-786",
+              "sourceLine": 786
+            }
+          ]
+        },
+        {
+          "id": "v-f05657209d",
+          "answer": "Causes weak head turning away from the affected side and ipsilateral shoulder droop with weak shrug.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-810",
+              "sourceLine": 810
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-a453254382",
+      "question": "Sensory functions",
+      "preferredVariantId": "v-cb1e255fe3",
+      "variants": [
+        {
+          "id": "v-cb1e255fe3",
+          "answer": "No cutaneous sensory function.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-785",
+              "sourceLine": 785
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-809",
+              "sourceLine": 809
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "cranial-floor-model-bs1",
+      "section": "",
+      "path": [
+        "39"
+      ],
+      "label": "39"
+    },
+    {
+      "modelId": "half-head-and-neck-model-bs9",
+      "section": "Blood vessels and nerves",
+      "path": [
+        "77"
+      ],
+      "label": "77"
+    },
+    {
+      "modelId": "head-and-neck-model-cs17-2",
+      "section": "Internal brain structures and cranial nerves (1–26)",
+      "path": [
+        "24"
+      ],
+      "label": "24"
+    }
+  ]
+}

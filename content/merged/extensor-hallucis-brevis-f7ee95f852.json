@@ -1,0 +1,128 @@
+{
+  "id": "extensor-hallucis-brevis-f7ee95f852",
+  "name": "Extensor hallucis brevis",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Muscles",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-ec3b4d8838",
+      "variants": [
+        {
+          "id": "v-ec3b4d8838",
+          "answer": "Extensor hallucis brevis",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-103",
+              "sourceLine": 103
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-f6badfe1aa",
+      "variants": [
+        {
+          "id": "v-f6badfe1aa",
+          "answer": "Extends the hallux at the metatarsophalangeal joint.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-104",
+              "sourceLine": 104
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-61fe0ce0c6",
+      "variants": [
+        {
+          "id": "v-61fe0ce0c6",
+          "answer": "Deep fibular nerve (L5–S1).",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-105",
+              "sourceLine": 105
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-e1121a67c4",
+      "variants": [
+        {
+          "id": "v-e1121a67c4",
+          "answer": "Superolateral calcaneus as medial part of extensor digitorum brevis complex.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-106",
+              "sourceLine": 106
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-48926e8d66",
+      "variants": [
+        {
+          "id": "v-48926e8d66",
+          "answer": "Dorsal base of proximal phalanx of hallux.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-107",
+              "sourceLine": 107
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "foot-model-ns9",
+      "section": "Muscles",
+      "path": [
+        "16"
+      ],
+      "label": "16"
+    }
+  ]
+}

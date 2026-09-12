@@ -1,0 +1,108 @@
+{
+  "id": "corona-ciliaris-9195e9db07",
+  "name": "Corona ciliaris",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [],
+  "organs": [
+    "Eye"
+  ],
+  "tags": [
+    "EyeStructure",
+    "Function",
+    "Relations",
+    "Structure"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-5f032653ed",
+      "variants": [
+        {
+          "id": "v-5f032653ed",
+          "answer": "Corona ciliaris",
+          "sources": [
+            {
+              "modelId": "eyeball-model-cs7",
+              "cardId": "eyeball-model-cs7-114",
+              "sourceLine": 114
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-80960c077a",
+      "variants": [
+        {
+          "id": "v-80960c077a",
+          "answer": "Anterior folded part of the ciliary body formed by the ciliary processes.",
+          "sources": [
+            {
+              "modelId": "eyeball-model-cs7",
+              "cardId": "eyeball-model-cs7-115",
+              "sourceLine": 115
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-15959f7e84",
+      "variants": [
+        {
+          "id": "v-15959f7e84",
+          "answer": "Ciliary processes produce aqueous humour and give attachment to zonular fibres suspending the lens.",
+          "sources": [
+            {
+              "modelId": "eyeball-model-cs7",
+              "cardId": "eyeball-model-cs7-116",
+              "sourceLine": 116
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-65cae00dea",
+      "variants": [
+        {
+          "id": "v-65cae00dea",
+          "answer": "Lies posterior to the iris and surrounds the lens circumferentially.",
+          "sources": [
+            {
+              "modelId": "eyeball-model-cs7",
+              "cardId": "eyeball-model-cs7-117",
+              "sourceLine": 117
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "eyeball-model-cs7",
+      "section": "",
+      "path": [
+        "18"
+      ],
+      "label": "18"
+    }
+  ]
+}

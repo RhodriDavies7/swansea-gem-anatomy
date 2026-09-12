@@ -1,0 +1,128 @@
+{
+  "id": "inguinal-ligament-96d04a59a5",
+  "name": "Inguinal ligament",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Ligaments"
+  ],
+  "regions": [
+    "Pelvis"
+  ],
+  "systems": [
+    "Musculoskeletal",
+    "Reproductive"
+  ],
+  "organs": [],
+  "tags": [
+    "Attachments",
+    "Clinical",
+    "Function",
+    "Ligament",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-315a961c07",
+      "variants": [
+        {
+          "id": "v-315a961c07",
+          "answer": "Inguinal ligament",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-219",
+              "sourceLine": 219
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6771ade6e8",
+      "question": "Attachments",
+      "preferredVariantId": "v-f778e141fc",
+      "variants": [
+        {
+          "id": "v-f778e141fc",
+          "answer": "Extends from the ASIS to the pubic tubercle; formed by the rolled inferior border of the external oblique aponeurosis.",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-220",
+              "sourceLine": 220
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-fa696cfc8a",
+      "variants": [
+        {
+          "id": "v-fa696cfc8a",
+          "answer": "Forms the floor of the inguinal canal and a key boundary between abdomen and thigh.",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-221",
+              "sourceLine": 221
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-0a4e41bea8",
+      "variants": [
+        {
+          "id": "v-0a4e41bea8",
+          "answer": "Deep to it pass iliopsoas and femoral nerve through the muscular lacuna and femoral vessels through the vascular lacuna.",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-222",
+              "sourceLine": 222
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-b03737e3cd",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-da0b42e318",
+      "variants": [
+        {
+          "id": "v-da0b42e318",
+          "answer": "Important landmark for distinguishing inguinal from femoral hernias.",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-223",
+              "sourceLine": 223
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "male-reproductive-system-model-ms2",
+      "section": "",
+      "path": [
+        "24"
+      ],
+      "label": "24"
+    }
+  ]
+}

@@ -1,0 +1,209 @@
+{
+  "id": "frontal-sinus-3046ed106e",
+  "name": "Frontal sinus",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Respiratory"
+  ],
+  "organs": [],
+  "tags": [
+    "BonyStructures",
+    "Drainage",
+    "Location",
+    "MidSagittal",
+    "ParanasalSinus",
+    "Relations",
+    "SinusesAndOpenings"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-2f13e0a518",
+      "variants": [
+        {
+          "id": "v-2f13e0a518",
+          "answer": "Frontal sinus",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-225",
+              "sourceLine": 225
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-72",
+              "sourceLine": 72
+            },
+            {
+              "modelId": "nose-and-nasal-cavity-model-fs3",
+              "cardId": "nose-and-nasal-cavity-model-fs3-3",
+              "sourceLine": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-e54b389831",
+      "variants": [
+        {
+          "id": "v-e54b389831",
+          "answer": "Within frontal bone above the nasal root and orbits.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-226",
+              "sourceLine": 226
+            }
+          ]
+        },
+        {
+          "id": "v-7278919f16",
+          "answer": "Within frontal bone above nasal root and orbits.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-73",
+              "sourceLine": 73
+            }
+          ]
+        },
+        {
+          "id": "v-d7cac68581",
+          "answer": "Within the frontal bone above the nasal root and orbits.",
+          "sources": [
+            {
+              "modelId": "nose-and-nasal-cavity-model-fs3",
+              "cardId": "nose-and-nasal-cavity-model-fs3-4",
+              "sourceLine": 4
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-74a64b1943",
+      "question": "Drainage",
+      "preferredVariantId": "v-9554a360db",
+      "variants": [
+        {
+          "id": "v-9554a360db",
+          "answer": "Drains to the middle meatus via frontonasal pathway.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-227",
+              "sourceLine": 227
+            }
+          ]
+        },
+        {
+          "id": "v-0e862fbaf9",
+          "answer": "Drains to middle meatus via frontonasal pathway.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-74",
+              "sourceLine": 74
+            }
+          ]
+        },
+        {
+          "id": "v-ccb51a203d",
+          "answer": "Drains to the middle meatus via the frontonasal pathway.",
+          "sources": [
+            {
+              "modelId": "nose-and-nasal-cavity-model-fs3",
+              "cardId": "nose-and-nasal-cavity-model-fs3-5",
+              "sourceLine": 5
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-9c0b8b5410",
+      "variants": [
+        {
+          "id": "v-9c0b8b5410",
+          "answer": "Close to anterior cranial fossa and orbit.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-228",
+              "sourceLine": 228
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-75",
+              "sourceLine": 75
+            }
+          ]
+        },
+        {
+          "id": "v-3e692f1ea5",
+          "answer": "Closely related to the anterior cranial fossa and orbit.",
+          "sources": [
+            {
+              "modelId": "nose-and-nasal-cavity-model-fs3",
+              "cardId": "nose-and-nasal-cavity-model-fs3-6",
+              "sourceLine": 6
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "coronal-and-mid-sagittal-head-mb20",
+      "section": "Bony structures",
+      "path": [
+        "a"
+      ],
+      "label": "a"
+    },
+    {
+      "modelId": "half-head-and-neck-model-bs9",
+      "section": "Bony structures",
+      "path": [
+        "a"
+      ],
+      "label": "a"
+    },
+    {
+      "modelId": "nose-and-nasal-cavity-model-fs3",
+      "section": "Paranasal sinuses, conchae and openings (a–p)",
+      "path": [
+        "a"
+      ],
+      "label": "a"
+    }
+  ]
+}

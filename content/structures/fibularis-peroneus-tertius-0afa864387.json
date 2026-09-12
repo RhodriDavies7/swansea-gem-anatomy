@@ -1,0 +1,128 @@
+{
+  "id": "fibularis-peroneus-tertius-0afa864387",
+  "name": "Fibularis (peroneus) tertius",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Muscles",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-70694a3e69",
+      "variants": [
+        {
+          "id": "v-70694a3e69",
+          "answer": "Fibularis (peroneus) tertius",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-89",
+              "sourceLine": 89
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-9069fc934f",
+      "variants": [
+        {
+          "id": "v-9069fc934f",
+          "answer": "Dorsiflexes ankle and assists eversion.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-90",
+              "sourceLine": 90
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-61fe0ce0c6",
+      "variants": [
+        {
+          "id": "v-61fe0ce0c6",
+          "answer": "Deep fibular nerve (L5–S1).",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-91",
+              "sourceLine": 91
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-f7f32491ad",
+      "variants": [
+        {
+          "id": "v-f7f32491ad",
+          "answer": "Inferior anterior fibula and interosseous membrane.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-92",
+              "sourceLine": 92
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-8b3e16d953",
+      "variants": [
+        {
+          "id": "v-8b3e16d953",
+          "answer": "Dorsum of base of 5th metatarsal.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-93",
+              "sourceLine": 93
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "foot-model-ns9",
+      "section": "Muscles",
+      "path": [
+        "14"
+      ],
+      "label": "14"
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "id": "flexor-digitorum-longus-fc1c01b4fc",
+  "name": "Flexor digitorum longus",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Muscles",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-4d5884a9aa",
+      "variants": [
+        {
+          "id": "v-4d5884a9aa",
+          "answer": "Flexor digitorum longus",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-138",
+              "sourceLine": 138
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-fae991786b",
+      "variants": [
+        {
+          "id": "v-fae991786b",
+          "answer": "Flexes lateral four toes, plantarflexes ankle and supports longitudinal arches.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-139",
+              "sourceLine": 139
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-dd11168c0a",
+      "variants": [
+        {
+          "id": "v-dd11168c0a",
+          "answer": "Tibial nerve (S2–S3).",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-140",
+              "sourceLine": 140
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-a2f8e03804",
+      "variants": [
+        {
+          "id": "v-a2f8e03804",
+          "answer": "Posterior tibia inferior to soleal line.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-141",
+              "sourceLine": 141
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-8c05523e4a",
+      "variants": [
+        {
+          "id": "v-8c05523e4a",
+          "answer": "Bases of distal phalanges of toes 2–5.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-142",
+              "sourceLine": 142
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "foot-model-ns9",
+      "section": "Muscles",
+      "path": [
+        "21"
+      ],
+      "label": "21"
+    }
+  ]
+}

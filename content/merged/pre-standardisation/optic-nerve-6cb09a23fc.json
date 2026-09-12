@@ -1,0 +1,185 @@
+{
+  "id": "optic-nerve-6cb09a23fc",
+  "name": "Optic nerve",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Nerves"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [],
+  "tags": [
+    "Course",
+    "Eye",
+    "Lesion",
+    "Nerve",
+    "Roots",
+    "Sensory"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-5b2622ba4c",
+      "variants": [
+        {
+          "id": "v-5b2622ba4c",
+          "answer": "Optic nerve",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-142",
+              "sourceLine": 142
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-575",
+              "sourceLine": 575
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-4d78ec7d11",
+      "question": "Roots",
+      "preferredVariantId": null,
+      "variants": [
+        {
+          "id": "v-edb5489816",
+          "answer": "Special sensory fibres from retinal ganglion cells; functionally part of the CNS.",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-143",
+              "sourceLine": 143
+            }
+          ]
+        },
+        {
+          "id": "v-0a64094e27",
+          "answer": "Axons of retinal ganglion cells.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-576",
+              "sourceLine": 576
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": null,
+      "variants": [
+        {
+          "id": "v-4a5cbb8399",
+          "answer": "Leaves the orbit through the optic canal and reaches the optic chiasm.",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-144",
+              "sourceLine": 144
+            }
+          ]
+        },
+        {
+          "id": "v-82d1b1845b",
+          "answer": "Passes from retina through optic canal to optic chiasm.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-577",
+              "sourceLine": 577
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-a453254382",
+      "question": "Sensory functions",
+      "preferredVariantId": null,
+      "variants": [
+        {
+          "id": "v-f031107630",
+          "answer": "Vision.",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-145",
+              "sourceLine": 145
+            }
+          ]
+        },
+        {
+          "id": "v-128dd0eba7",
+          "answer": "Vision and afferent limb of pupillary light reflex.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-578",
+              "sourceLine": 578
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-bc53d10c57",
+      "question": "Lesion",
+      "preferredVariantId": null,
+      "variants": [
+        {
+          "id": "v-c1d9f9e1e2",
+          "answer": "Lesion causes ipsilateral monocular visual loss and an afferent pupillary defect.",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-146",
+              "sourceLine": 146
+            }
+          ]
+        },
+        {
+          "id": "v-1b1ba19749",
+          "answer": "Causes ipsilateral monocular blindness and a relative afferent pupillary defect.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-579",
+              "sourceLine": 579
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "deep-face-model-bs8-1",
+      "section": "",
+      "path": [
+        "23"
+      ],
+      "label": "23"
+    },
+    {
+      "modelId": "head-and-neck-model-cs17-2",
+      "section": "Eye",
+      "path": [
+        "3"
+      ],
+      "label": "3"
+    }
+  ]
+}

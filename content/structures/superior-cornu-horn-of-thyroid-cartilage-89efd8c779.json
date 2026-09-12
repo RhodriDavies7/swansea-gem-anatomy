@@ -1,0 +1,128 @@
+{
+  "id": "superior-cornu-horn-of-thyroid-cartilage-89efd8c779",
+  "name": "Superior cornu (horn) of thyroid cartilage",
+  "aliases": [
+    "Superior horn (cornu) of thyroid cartilage"
+  ],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Cartilage"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Respiratory"
+  ],
+  "organs": [
+    "Larynx"
+  ],
+  "tags": [
+    "CartilagePart",
+    "Larynx",
+    "Relations",
+    "CartilagesAndBones"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-fe0b60c7a7",
+      "variants": [
+        {
+          "id": "v-fe0b60c7a7",
+          "answer": "Superior cornu (horn) of thyroid cartilage",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-21",
+              "sourceLine": 21
+            }
+          ]
+        },
+        {
+          "id": "v-8a454b9b30",
+          "answer": "Superior horn (cornu) of thyroid cartilage",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-23",
+              "sourceLine": 23
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-23",
+              "sourceLine": 23
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-02192bda9c",
+      "variants": [
+        {
+          "id": "v-02192bda9c",
+          "answer": "Projects superiorly from the posterior border of the thyroid lamina toward the hyoid.",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-22",
+              "sourceLine": 22
+            },
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-24",
+              "sourceLine": 24
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-24",
+              "sourceLine": 24
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "larynx-and-tongue-model-gs4",
+      "section": "Larynx",
+      "path": [
+        "2",
+        "d"
+      ],
+      "label": "2d"
+    },
+    {
+      "modelId": "larynx-model-gs7",
+      "section": "Hyoid and laryngeal cartilages",
+      "path": [
+        "2",
+        "d"
+      ],
+      "label": "2d"
+    },
+    {
+      "modelId": "larynx-and-airway-model-gs5",
+      "section": "Hyoid and laryngeal cartilages",
+      "path": [
+        "2",
+        "d"
+      ],
+      "label": "2d"
+    }
+  ],
+  "redirectIds": [
+    "superior-horn-cornu-of-thyroid-cartilage-6081198310"
+  ]
+}

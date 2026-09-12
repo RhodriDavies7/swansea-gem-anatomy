@@ -1,0 +1,109 @@
+{
+  "id": "rhomboid-minor-muscle-7b0eaadf57",
+  "name": "Rhomboid minor muscle",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "AttachmentSite",
+    "Attachments",
+    "Innervation",
+    "Muscle"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-89d451a2ab",
+      "variants": [
+        {
+          "id": "v-89d451a2ab",
+          "answer": "Rhomboid minor muscle",
+          "sources": [
+            {
+              "modelId": "rotator-cuff-qs55-6",
+              "cardId": "rotator-cuff-qs55-6-100",
+              "sourceLine": 100
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-531c9dad58",
+      "question": "Attachment on model",
+      "preferredVariantId": "v-27fff1051b",
+      "variants": [
+        {
+          "id": "v-27fff1051b",
+          "answer": "Inserts on medial end/root of the spine of scapula.",
+          "sources": [
+            {
+              "modelId": "rotator-cuff-qs55-6",
+              "cardId": "rotator-cuff-qs55-6-101",
+              "sourceLine": 101
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-78d7a4d72d",
+      "variants": [
+        {
+          "id": "v-78d7a4d72d",
+          "answer": "Retracts and downwardly rotates scapula and fixes it to thoracic wall.",
+          "sources": [
+            {
+              "modelId": "rotator-cuff-qs55-6",
+              "cardId": "rotator-cuff-qs55-6-102",
+              "sourceLine": 102
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-3d0df2e94d",
+      "variants": [
+        {
+          "id": "v-3d0df2e94d",
+          "answer": "Dorsal scapular nerve (C4–C5).",
+          "sources": [
+            {
+              "modelId": "rotator-cuff-qs55-6",
+              "cardId": "rotator-cuff-qs55-6-103",
+              "sourceLine": 103
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "rotator-cuff-qs55-6",
+      "section": "Muscle attachment sites",
+      "path": [
+        "17"
+      ],
+      "label": "17"
+    }
+  ]
+}

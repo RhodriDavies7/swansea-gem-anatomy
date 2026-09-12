@@ -1,0 +1,233 @@
+{
+  "id": "pubic-symphysis-37a107e5fb",
+  "name": "Pubic symphysis",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Lower limb",
+    "Pelvis"
+  ],
+  "systems": [
+    "Musculoskeletal",
+    "Reproductive"
+  ],
+  "organs": [],
+  "tags": [
+    "Articulations",
+    "Attachments",
+    "Clinical",
+    "Function",
+    "Joint",
+    "JointType",
+    "Movement",
+    "Relations",
+    "Structure"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-549b5aaa34",
+      "variants": [
+        {
+          "id": "v-549b5aaa34",
+          "answer": "Pubic symphysis",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-38",
+              "sourceLine": 38
+            },
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-538",
+              "sourceLine": 538
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-3deb745651",
+      "question": "Type",
+      "preferredVariantId": "v-ac553eb1e6",
+      "variants": [
+        {
+          "id": "v-ac553eb1e6",
+          "answer": "Secondary cartilaginous joint between the bodies of the pubic bones.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-39",
+              "sourceLine": 39
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-b303b4d721",
+      "variants": [
+        {
+          "id": "v-b303b4d721",
+          "answer": "Provides a strong midline union with slight mobility, increasing during pregnancy.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-40",
+              "sourceLine": 40
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-45c07317ed",
+      "variants": [
+        {
+          "id": "v-2652d5ff55",
+          "answer": "Lies anterior to the urinary bladder.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-41",
+              "sourceLine": 41
+            }
+          ]
+        },
+        {
+          "id": "v-45c07317ed",
+          "answer": "Anterior midline pelvis; bladder lies posterior, separated by retropubic space.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-543",
+              "sourceLine": 543
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-8f6a97f76f",
+      "question": "Joint type",
+      "preferredVariantId": "v-680f75f1c8",
+      "variants": [
+        {
+          "id": "v-680f75f1c8",
+          "answer": "Secondary cartilaginous joint (symphysis) with fibrocartilaginous interpubic disc between hyaline-covered pubic surfaces.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-539",
+              "sourceLine": 539
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-5bc734a9fd",
+      "question": "Articulating bones",
+      "preferredVariantId": "v-b4fbf554a8",
+      "variants": [
+        {
+          "id": "v-b4fbf554a8",
+          "answer": "Right and left pubic bodies.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-540",
+              "sourceLine": 540
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6771ade6e8",
+      "question": "Attachments",
+      "preferredVariantId": "v-a76562044e",
+      "variants": [
+        {
+          "id": "v-a76562044e",
+          "answer": "Superior and inferior (arcuate) pubic ligaments reinforce it; rectus abdominis and adductor longus aponeurotic fibres contribute anteriorly.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-541",
+              "sourceLine": 541
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-dc812752b7",
+      "question": "Movement",
+      "preferredVariantId": "v-f60336e050",
+      "variants": [
+        {
+          "id": "v-f60336e050",
+          "answer": "Small amounts of translation and rotation; stabilises anterior pelvic ring while allowing limited compliance.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-542",
+              "sourceLine": 542
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-b03737e3cd",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-aa636719c5",
+      "variants": [
+        {
+          "id": "v-aa636719c5",
+          "answer": "May separate in pelvic injury or around childbirth; osteitis pubis causes pain around the joint.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-544",
+              "sourceLine": 544
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "female-pelvis-model-mo8",
+      "section": "",
+      "path": [
+        "7"
+      ],
+      "label": "7"
+    },
+    {
+      "modelId": "lower-limb-model-ns10",
+      "section": "Bones",
+      "path": [
+        "74"
+      ],
+      "label": "74"
+    }
+  ]
+}

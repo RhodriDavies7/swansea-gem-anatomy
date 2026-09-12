@@ -1,0 +1,146 @@
+{
+  "id": "posterior-interosseus-artery-e095cefc75",
+  "name": "Posterior interosseus artery",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Arteries"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [
+    "Cardiovascular"
+  ],
+  "organs": [],
+  "tags": [
+    "Artery",
+    "Branches",
+    "Course",
+    "Origin",
+    "Relations",
+    "Supply"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-4dd8759998",
+      "variants": [
+        {
+          "id": "v-4dd8759998",
+          "answer": "Posterior interosseus artery",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-379",
+              "sourceLine": 379
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-9b25a63838",
+      "variants": [
+        {
+          "id": "v-9b25a63838",
+          "answer": "Common interosseous artery.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-380",
+              "sourceLine": 380
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-5dc5b5e037",
+      "variants": [
+        {
+          "id": "v-5dc5b5e037",
+          "answer": "Passes posteriorly through proximal interosseous membrane region to posterior forearm.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-381",
+              "sourceLine": 381
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f578227926",
+      "question": "Branches",
+      "preferredVariantId": "v-40d94a6e85",
+      "variants": [
+        {
+          "id": "v-40d94a6e85",
+          "answer": "Recurrent interosseous and muscular branches.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-382",
+              "sourceLine": 382
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-222db0fc1c",
+      "question": "Supply",
+      "preferredVariantId": "v-194bfcf45f",
+      "variants": [
+        {
+          "id": "v-194bfcf45f",
+          "answer": "Posterior forearm extensor compartment.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-383",
+              "sourceLine": 383
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-741282824d",
+      "variants": [
+        {
+          "id": "v-741282824d",
+          "answer": "Accompanies posterior interosseous nerve in posterior forearm.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-384",
+              "sourceLine": 384
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "upper-limb-model-ns15",
+      "section": "Arteries",
+      "path": [
+        "61"
+      ],
+      "label": "61"
+    }
+  ]
+}

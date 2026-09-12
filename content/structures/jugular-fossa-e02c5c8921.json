@@ -1,0 +1,92 @@
+{
+  "id": "jugular-fossa-e02c5c8921",
+  "name": "Jugular fossa",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Bones"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [
+    "Ear"
+  ],
+  "tags": [
+    "Bone",
+    "BonyLandmark",
+    "Relations",
+    "TemporalBone"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-4ce3ad789b",
+      "variants": [
+        {
+          "id": "v-4ce3ad789b",
+          "answer": "Jugular fossa",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-108",
+              "sourceLine": 108
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-bcf605d6bb",
+      "question": "Bone",
+      "preferredVariantId": "v-26ba3cf5cd",
+      "variants": [
+        {
+          "id": "v-26ba3cf5cd",
+          "answer": "Inferior surface of petrous temporal bone.",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-109",
+              "sourceLine": 109
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-e93a60d698",
+      "variants": [
+        {
+          "id": "v-e93a60d698",
+          "answer": "Accommodates the superior bulb of the internal jugular vein near the jugular foramen.",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-110",
+              "sourceLine": 110
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "ear-largest-model-ds1",
+      "section": "B. Temporal bone",
+      "path": [
+        "20"
+      ],
+      "label": "20"
+    }
+  ]
+}

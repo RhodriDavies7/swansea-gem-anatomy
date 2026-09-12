@@ -1,0 +1,139 @@
+{
+  "id": "handle-of-malleus-cc096b9da0",
+  "name": "Handle of malleus",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [],
+  "organs": [
+    "Ear"
+  ],
+  "tags": [
+    "Function",
+    "MiddleEar",
+    "OssiclePart",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-0a2e6e4193",
+      "variants": [
+        {
+          "id": "v-0a2e6e4193",
+          "answer": "Handle of malleus",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-145",
+              "sourceLine": 145
+            },
+            {
+              "modelId": "ear-model-ds3",
+              "cardId": "ear-model-ds3-47",
+              "sourceLine": 47
+            },
+            {
+              "modelId": "inner-ear-model-ds17",
+              "cardId": "inner-ear-model-ds17-22",
+              "sourceLine": 22
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-369c9360ba",
+      "variants": [
+        {
+          "id": "v-369c9360ba",
+          "answer": "Embedded in the tympanic membrane and transmits its vibration to the malleus.",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-146",
+              "sourceLine": 146
+            },
+            {
+              "modelId": "ear-model-ds3",
+              "cardId": "ear-model-ds3-48",
+              "sourceLine": 48
+            }
+          ]
+        },
+        {
+          "id": "v-7ce99f9bca",
+          "answer": "Embedded in tympanic membrane and visible through it clinically.",
+          "sources": [
+            {
+              "modelId": "inner-ear-model-ds17",
+              "cardId": "inner-ear-model-ds17-23",
+              "sourceLine": 23
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-51420b938f",
+      "variants": [
+        {
+          "id": "v-51420b938f",
+          "answer": "Receives vibration directly from tympanic membrane.",
+          "sources": [
+            {
+              "modelId": "inner-ear-model-ds17",
+              "cardId": "inner-ear-model-ds17-24",
+              "sourceLine": 24
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "ear-largest-model-ds1",
+      "section": "C. Middle ear",
+      "path": [
+        "25",
+        "b"
+      ],
+      "label": "25b"
+    },
+    {
+      "modelId": "ear-model-ds3",
+      "section": "B. Middle ear",
+      "path": [
+        "7",
+        "b"
+      ],
+      "label": "7b"
+    },
+    {
+      "modelId": "inner-ear-model-ds17",
+      "section": "Tympanic membrane and ossicles",
+      "path": [
+        "3",
+        "b"
+      ],
+      "label": "3b"
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "id": "anterior-interosseus-nerve-8cae4f045f",
+  "name": "Anterior interosseus nerve",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Nerves"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [],
+  "tags": [
+    "Course",
+    "Lesion",
+    "Motor",
+    "Nerve",
+    "Roots",
+    "Sensory"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-df55235d79",
+      "variants": [
+        {
+          "id": "v-df55235d79",
+          "answer": "Anterior interosseus nerve",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-456",
+              "sourceLine": 456
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-4d78ec7d11",
+      "question": "Roots",
+      "preferredVariantId": "v-1ebbc23f79",
+      "variants": [
+        {
+          "id": "v-1ebbc23f79",
+          "answer": "Predominantly C8–T1 fibres carried in median nerve.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-457",
+              "sourceLine": 457
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-dfd96cf41c",
+      "variants": [
+        {
+          "id": "v-dfd96cf41c",
+          "answer": "Branches from median nerve in proximal forearm and descends on anterior interosseous membrane with anterior interosseous artery.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-458",
+              "sourceLine": 458
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c8b6915183",
+      "question": "Motor functions",
+      "preferredVariantId": "v-e98f61f25c",
+      "variants": [
+        {
+          "id": "v-e98f61f25c",
+          "answer": "Flexor pollicis longus, lateral half of flexor digitorum profundus and pronator quadratus.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-459",
+              "sourceLine": 459
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-a453254382",
+      "question": "Sensory functions",
+      "preferredVariantId": "v-1d03aa3cec",
+      "variants": [
+        {
+          "id": "v-1d03aa3cec",
+          "answer": "No cutaneous territory; articular/proprioceptive fibres to wrist and distal radioulnar joints.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-460",
+              "sourceLine": 460
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-bc53d10c57",
+      "question": "Lesion",
+      "preferredVariantId": "v-904a610380",
+      "variants": [
+        {
+          "id": "v-904a610380",
+          "answer": "Causes weakness of thumb IP and index DIP flexion, producing an abnormal pinch/OK sign without cutaneous sensory loss.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-461",
+              "sourceLine": 461
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "upper-limb-model-ns15",
+      "section": "Nerves",
+      "path": [
+        "72"
+      ],
+      "label": "72"
+    }
+  ]
+}

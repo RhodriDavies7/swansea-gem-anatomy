@@ -1,0 +1,205 @@
+{
+  "id": "tibialis-anterior-muscle-5d8a2b6522",
+  "name": "Tibialis anterior muscle",
+  "aliases": [
+    "Tibialis anterior"
+  ],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Origin",
+    "Muscles"
+  ],
+  "imageIds": [
+    "img-22d9c21f96e1"
+  ],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-83dddd3888",
+      "variants": [
+        {
+          "id": "v-83dddd3888",
+          "answer": "Tibialis anterior muscle",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-154",
+              "sourceLine": 154
+            }
+          ]
+        },
+        {
+          "id": "v-de3756749b",
+          "answer": "Tibialis anterior",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-68",
+              "sourceLine": 68
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-aa83d31ca2",
+      "variants": [
+        {
+          "id": "v-aa83d31ca2",
+          "answer": "Dorsiflexes the ankle and inverts the foot; supports the medial longitudinal arch.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-155",
+              "sourceLine": 155
+            }
+          ]
+        },
+        {
+          "id": "v-50e7dd583e",
+          "answer": "Dorsiflexes ankle and inverts foot; supports medial longitudinal arch.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-69",
+              "sourceLine": 69
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-0516f137ef",
+      "variants": [
+        {
+          "id": "v-0516f137ef",
+          "answer": "Deep fibular nerve (L4–L5).",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-156",
+              "sourceLine": 156
+            },
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-70",
+              "sourceLine": 70
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-444e1a69b0",
+      "variants": [
+        {
+          "id": "v-444e1a69b0",
+          "answer": "Lateral tibial condyle, upper lateral tibial shaft and interosseous membrane.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-157",
+              "sourceLine": 157
+            }
+          ]
+        },
+        {
+          "id": "v-a254dad8f2",
+          "answer": "Lateral condyle and superior lateral tibia with interosseous membrane.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-71",
+              "sourceLine": 71
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-fe73d47dad",
+      "variants": [
+        {
+          "id": "v-fe73d47dad",
+          "answer": "Medial and plantar surfaces of medial cuneiform and base of first metatarsal.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-158",
+              "sourceLine": 158
+            }
+          ]
+        },
+        {
+          "id": "v-9787a33c22",
+          "answer": "Medial cuneiform and base of 1st metatarsal.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-72",
+              "sourceLine": 72
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "lower-limb-model-ns10",
+      "section": "Muscles",
+      "path": [
+        "19"
+      ],
+      "label": "19"
+    },
+    {
+      "modelId": "foot-model-ns9",
+      "section": "Muscles",
+      "path": [
+        "11"
+      ],
+      "label": "11"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "id": "carina-of-the-trachea-be24fa13d9",
+  "name": "Carina of the trachea",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Respiratory"
+  ],
+  "organs": [
+    "Larynx"
+  ],
+  "tags": [
+    "AirwayLandmark",
+    "Clinical",
+    "LarynxAndAirway",
+    "Location"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-f5392e6dc1",
+      "variants": [
+        {
+          "id": "v-f5392e6dc1",
+          "answer": "Carina of the trachea",
+          "sources": [
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-83",
+              "sourceLine": 83
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-34398833ee",
+      "variants": [
+        {
+          "id": "v-34398833ee",
+          "answer": "Ridge at bifurcation of the trachea into the main bronchi.",
+          "sources": [
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-84",
+              "sourceLine": 84
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-b03737e3cd",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-397873910f",
+      "variants": [
+        {
+          "id": "v-397873910f",
+          "answer": "Highly sensitive; stimulation triggers cough reflex.",
+          "sources": [
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-85",
+              "sourceLine": 85
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+      "section": "Larynx and airway",
+      "path": [
+        "8"
+      ],
+      "label": "8"
+    }
+  ]
+}

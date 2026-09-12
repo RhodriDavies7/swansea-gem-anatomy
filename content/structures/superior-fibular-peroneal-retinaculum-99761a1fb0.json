@@ -1,0 +1,107 @@
+{
+  "id": "superior-fibular-peroneal-retinaculum-99761a1fb0",
+  "name": "Superior fibular (peroneal) retinaculum",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [],
+  "organs": [],
+  "tags": [
+    "Attachments",
+    "Function",
+    "Ligaments",
+    "Relations",
+    "Retinaculum"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-472420a111",
+      "variants": [
+        {
+          "id": "v-472420a111",
+          "answer": "Superior fibular (peroneal) retinaculum",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-250",
+              "sourceLine": 250
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6771ade6e8",
+      "question": "Attachments",
+      "preferredVariantId": "v-cfb3e71cd7",
+      "variants": [
+        {
+          "id": "v-cfb3e71cd7",
+          "answer": "Extends from lateral malleolus to lateral calcaneus.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-251",
+              "sourceLine": 251
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-fd963bd5d8",
+      "variants": [
+        {
+          "id": "v-fd963bd5d8",
+          "answer": "Holds fibularis longus and brevis tendons behind the lateral malleolus.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-252",
+              "sourceLine": 252
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-ea1bcadeee",
+      "variants": [
+        {
+          "id": "v-ea1bcadeee",
+          "answer": "Lies superficial to the fibular tendons posterior to the lateral malleolus.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-253",
+              "sourceLine": 253
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "foot-model-ns9",
+      "section": "Ligaments of the ankle joint",
+      "path": [
+        "36"
+      ],
+      "label": "36"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "id": "hyo-epiglottic-ligament-90782839e2",
+  "name": "Hyo-epiglottic ligament",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Ligaments"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Musculoskeletal",
+    "Respiratory"
+  ],
+  "organs": [
+    "Larynx"
+  ],
+  "tags": [
+    "Attachments",
+    "Function",
+    "Larynx",
+    "Ligament"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-fc0f1edd6c",
+      "variants": [
+        {
+          "id": "v-fc0f1edd6c",
+          "answer": "Hyo-epiglottic ligament",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-152",
+              "sourceLine": 152
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6771ade6e8",
+      "question": "Attachments",
+      "preferredVariantId": "v-f9d7cebc3e",
+      "variants": [
+        {
+          "id": "v-f9d7cebc3e",
+          "answer": "Connects the epiglottis to the hyoid bone.",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-153",
+              "sourceLine": 153
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-a5c68b8948",
+      "variants": [
+        {
+          "id": "v-a5c68b8948",
+          "answer": "Anchors the epiglottis superiorly/anteriorly.",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-154",
+              "sourceLine": 154
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "larynx-and-tongue-model-gs4",
+      "section": "Larynx",
+      "path": [
+        "24"
+      ],
+      "label": "24"
+    }
+  ]
+}

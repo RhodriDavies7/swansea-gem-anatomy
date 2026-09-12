@@ -1,0 +1,128 @@
+{
+  "id": "lateral-head-of-gastrocnemius-muscle-1a8e095517",
+  "name": "Lateral head of gastrocnemius muscle",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-19d12cbd13",
+      "variants": [
+        {
+          "id": "v-19d12cbd13",
+          "answer": "Lateral head of gastrocnemius muscle",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-196",
+              "sourceLine": 196
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-a419562c38",
+      "variants": [
+        {
+          "id": "v-a419562c38",
+          "answer": "Plantarflexes the ankle and flexes the knee.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-197",
+              "sourceLine": 197
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-e952a2186f",
+      "variants": [
+        {
+          "id": "v-e952a2186f",
+          "answer": "Tibial nerve (S1–S2).",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-198",
+              "sourceLine": 198
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-528bbb2889",
+      "variants": [
+        {
+          "id": "v-528bbb2889",
+          "answer": "Lateral aspect of lateral femoral condyle and adjacent knee capsule.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-199",
+              "sourceLine": 199
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-b3cede683e",
+      "variants": [
+        {
+          "id": "v-b3cede683e",
+          "answer": "Posterior calcaneus via calcaneal tendon.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-200",
+              "sourceLine": 200
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "lower-limb-model-ns10",
+      "section": "Muscles",
+      "path": [
+        "24",
+        "24b"
+      ],
+      "label": "24b"
+    }
+  ]
+}

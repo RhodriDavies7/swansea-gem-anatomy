@@ -1,0 +1,109 @@
+{
+  "id": "lateral-calcaneal-branches-of-fibular-artery-4f58934302",
+  "name": "Lateral calcaneal branches of fibular artery",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Arteries"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Cardiovascular"
+  ],
+  "organs": [],
+  "tags": [
+    "ArteriesAndNerves",
+    "Artery",
+    "Course",
+    "Origin",
+    "Supply"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-122a9cee4e",
+      "variants": [
+        {
+          "id": "v-122a9cee4e",
+          "answer": "Lateral calcaneal branches of fibular artery",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-342",
+              "sourceLine": 342
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-25037602b2",
+      "variants": [
+        {
+          "id": "v-25037602b2",
+          "answer": "Branches derived from the fibular (peroneal) artery.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-343",
+              "sourceLine": 343
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-c36d55e0ef",
+      "variants": [
+        {
+          "id": "v-c36d55e0ef",
+          "answer": "Reach the lateral calcaneal/heel region.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-344",
+              "sourceLine": 344
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-222db0fc1c",
+      "question": "Supply",
+      "preferredVariantId": "v-7641965b5c",
+      "variants": [
+        {
+          "id": "v-7641965b5c",
+          "answer": "Lateral heel and adjacent tissues.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-345",
+              "sourceLine": 345
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "foot-model-ns9",
+      "section": "Arteries and nerves",
+      "path": [
+        "50"
+      ],
+      "label": "50"
+    }
+  ]
+}

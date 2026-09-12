@@ -1,0 +1,156 @@
+{
+  "id": "lacrimal-sac-666b8cc828",
+  "name": "Lacrimal sac",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [],
+  "organs": [
+    "Eye"
+  ],
+  "tags": [
+    "Connections",
+    "Drainage",
+    "Eye",
+    "Function",
+    "LacrimalApparatus",
+    "Location"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-3a9cc116f7",
+      "variants": [
+        {
+          "id": "v-3a9cc116f7",
+          "answer": "Lacrimal sac",
+          "sources": [
+            {
+              "modelId": "eyeball-with-part-of-orbit-model-cs2",
+              "cardId": "eyeball-with-part-of-orbit-model-cs2-156",
+              "sourceLine": 156
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-588",
+              "sourceLine": 588
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-34a57c3527",
+      "variants": [
+        {
+          "id": "v-34a57c3527",
+          "answer": "Lies in the lacrimal fossa on the medial orbital wall.",
+          "sources": [
+            {
+              "modelId": "eyeball-with-part-of-orbit-model-cs2",
+              "cardId": "eyeball-with-part-of-orbit-model-cs2-157",
+              "sourceLine": 157
+            }
+          ]
+        },
+        {
+          "id": "v-e1eda07e27",
+          "answer": "Lacrimal fossa on medial orbital wall.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-589",
+              "sourceLine": 589
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-2672f2d335",
+      "variants": [
+        {
+          "id": "v-2672f2d335",
+          "answer": "Collects tears from the lacrimal canaliculi and drains them into the nasolacrimal duct.",
+          "sources": [
+            {
+              "modelId": "eyeball-with-part-of-orbit-model-cs2",
+              "cardId": "eyeball-with-part-of-orbit-model-cs2-158",
+              "sourceLine": 158
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-8f3509b64e",
+      "question": "Connections",
+      "preferredVariantId": "v-aa8a5a6991",
+      "variants": [
+        {
+          "id": "v-aa8a5a6991",
+          "answer": "Receives superior and inferior lacrimal canaliculi and continues inferiorly as the nasolacrimal duct.",
+          "sources": [
+            {
+              "modelId": "eyeball-with-part-of-orbit-model-cs2",
+              "cardId": "eyeball-with-part-of-orbit-model-cs2-159",
+              "sourceLine": 159
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-74a64b1943",
+      "question": "Drainage",
+      "preferredVariantId": "v-bc5e65c1f3",
+      "variants": [
+        {
+          "id": "v-bc5e65c1f3",
+          "answer": "Receives tears from canaliculi and continues as nasolacrimal duct.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-590",
+              "sourceLine": 590
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "eyeball-with-part-of-orbit-model-cs2",
+      "section": "Lacrimal apparatus",
+      "path": [
+        "9"
+      ],
+      "label": "9"
+    },
+    {
+      "modelId": "head-and-neck-model-cs17-2",
+      "section": "Eye",
+      "path": [
+        "5"
+      ],
+      "label": "5"
+    }
+  ]
+}

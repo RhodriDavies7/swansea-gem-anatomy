@@ -1,0 +1,146 @@
+{
+  "id": "posterior-circumflex-humeral-artery-571e535717",
+  "name": "Posterior circumflex humeral artery",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Arteries"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [
+    "Cardiovascular"
+  ],
+  "organs": [],
+  "tags": [
+    "Artery",
+    "Branches",
+    "Course",
+    "Origin",
+    "Relations",
+    "Supply"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-7dcca6c928",
+      "variants": [
+        {
+          "id": "v-7dcca6c928",
+          "answer": "Posterior circumflex humeral artery",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-294",
+              "sourceLine": 294
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-97a0dc2125",
+      "variants": [
+        {
+          "id": "v-97a0dc2125",
+          "answer": "Third part of axillary artery.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-295",
+              "sourceLine": 295
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-5efa6200dc",
+      "variants": [
+        {
+          "id": "v-5efa6200dc",
+          "answer": "Passes through quadrangular space with axillary nerve and winds around surgical neck of humerus.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-296",
+              "sourceLine": 296
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f578227926",
+      "question": "Branches",
+      "preferredVariantId": "v-394397c8ae",
+      "variants": [
+        {
+          "id": "v-394397c8ae",
+          "answer": "Deltoid, shoulder joint and muscular branches.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-297",
+              "sourceLine": 297
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-222db0fc1c",
+      "question": "Supply",
+      "preferredVariantId": "v-34a6524b88",
+      "variants": [
+        {
+          "id": "v-34a6524b88",
+          "answer": "Deltoid, teres minor, shoulder joint and proximal humerus.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-298",
+              "sourceLine": 298
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-4a82a80fdc",
+      "variants": [
+        {
+          "id": "v-4a82a80fdc",
+          "answer": "Closely associated with axillary nerve at surgical neck of humerus.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-299",
+              "sourceLine": 299
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "upper-limb-model-ns15",
+      "section": "Arteries",
+      "path": [
+        "48"
+      ],
+      "label": "48"
+    }
+  ]
+}

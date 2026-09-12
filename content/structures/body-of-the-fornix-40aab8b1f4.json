@@ -1,0 +1,134 @@
+{
+  "id": "body-of-the-fornix-40aab8b1f4",
+  "name": "Body of the fornix",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [],
+  "tags": [
+    "CNS",
+    "Function",
+    "MidSagittal",
+    "MidlineStructures",
+    "Structure"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-d0978c7e24",
+      "variants": [
+        {
+          "id": "v-d0978c7e24",
+          "answer": "Body of the fornix",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-286",
+              "sourceLine": 286
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-144",
+              "sourceLine": 144
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-e6f926b500",
+      "variants": [
+        {
+          "id": "v-e6f926b500",
+          "answer": "Paired white-matter tract forming part of the fornix beneath corpus callosum.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-287",
+              "sourceLine": 287
+            }
+          ]
+        },
+        {
+          "id": "v-61f7a6c9e6",
+          "answer": "Paired white-matter tract beneath corpus callosum.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-145",
+              "sourceLine": 145
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-9e297b88f3",
+      "variants": [
+        {
+          "id": "v-9e297b88f3",
+          "answer": "Major output pathway from hippocampus toward mammillary bodies and septal regions.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-288",
+              "sourceLine": 288
+            }
+          ]
+        },
+        {
+          "id": "v-06140d6ba9",
+          "answer": "Major hippocampal output pathway toward mammillary bodies and septal regions.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-146",
+              "sourceLine": 146
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "coronal-and-mid-sagittal-head-mb20",
+      "section": "Other midline structures",
+      "path": [
+        "7"
+      ],
+      "label": "7"
+    },
+    {
+      "modelId": "half-head-and-neck-model-bs9",
+      "section": "Other midline structures",
+      "path": [
+        "7"
+      ],
+      "label": "7"
+    }
+  ]
+}

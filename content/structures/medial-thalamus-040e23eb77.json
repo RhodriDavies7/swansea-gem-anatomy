@@ -1,0 +1,124 @@
+{
+  "id": "medial-thalamus-040e23eb77",
+  "name": "Medial thalamus",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [],
+  "tags": [
+    "CNS",
+    "Function",
+    "MidSagittal",
+    "MidlineStructures",
+    "Structure"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-85cf5e2e1d",
+      "variants": [
+        {
+          "id": "v-85cf5e2e1d",
+          "answer": "Medial thalamus",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-294",
+              "sourceLine": 294
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-154",
+              "sourceLine": 154
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-97a963f724",
+      "variants": [
+        {
+          "id": "v-97a963f724",
+          "answer": "Medial portion of thalamus forming part of lateral wall of third ventricle.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-295",
+              "sourceLine": 295
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-155",
+              "sourceLine": 155
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-88ee791f93",
+      "variants": [
+        {
+          "id": "v-88ee791f93",
+          "answer": "Thalamic nuclei participate in sensory, motor, limbic and cognitive relay functions.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-296",
+              "sourceLine": 296
+            }
+          ]
+        },
+        {
+          "id": "v-a539bcf859",
+          "answer": "Participates in sensory, motor, limbic and cognitive relay functions.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-156",
+              "sourceLine": 156
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "coronal-and-mid-sagittal-head-mb20",
+      "section": "Other midline structures",
+      "path": [
+        "9"
+      ],
+      "label": "9"
+    },
+    {
+      "modelId": "half-head-and-neck-model-bs9",
+      "section": "Other midline structures",
+      "path": [
+        "9"
+      ],
+      "label": "9"
+    }
+  ]
+}

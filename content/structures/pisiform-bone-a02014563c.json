@@ -1,0 +1,227 @@
+{
+  "id": "pisiform-bone-a02014563c",
+  "name": "Pisiform bone",
+  "aliases": [
+    "Pisiform"
+  ],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Bones"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Articulations",
+    "Attachments",
+    "Bone",
+    "BonesAndRetinacula",
+    "Relations",
+    "Clinical",
+    "Landmarks",
+    "Orientation"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-e882170a5d",
+      "variants": [
+        {
+          "id": "v-e882170a5d",
+          "answer": "Pisiform bone",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-23",
+              "sourceLine": 23
+            }
+          ]
+        },
+        {
+          "id": "v-8ba96d261b",
+          "answer": "Pisiform",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-588",
+              "sourceLine": 588
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-a40bee8d10",
+      "question": "Articulations",
+      "preferredVariantId": "v-e75fefbd68",
+      "variants": [
+        {
+          "id": "v-dcb85dcbc6",
+          "answer": "Articulates with the triquetrum.",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-24",
+              "sourceLine": 24
+            }
+          ]
+        },
+        {
+          "id": "v-e75fefbd68",
+          "answer": "Articulates with triquetrum on its dorsal surface.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-589",
+              "sourceLine": 589
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-6771ade6e8",
+      "question": "Attachments",
+      "preferredVariantId": "v-c36aa19207",
+      "variants": [
+        {
+          "id": "v-c36aa19207",
+          "answer": "Flexor carpi ulnaris inserts here; gives attachment to pisohamate and pisometacarpal ligaments and abductor digiti minimi.",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-25",
+              "sourceLine": 25
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-6263e08bb7",
+      "variants": [
+        {
+          "id": "v-6263e08bb7",
+          "answer": "Sesamoid bone within the flexor carpi ulnaris tendon on the palmar ulnar side of the wrist.",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-26",
+              "sourceLine": 26
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-626b6c1d45",
+      "question": "Landmarks",
+      "preferredVariantId": "v-1f5ff2b09d",
+      "variants": [
+        {
+          "id": "v-1f5ff2b09d",
+          "answer": "Small pea-shaped sesamoid carpal bone in flexor carpi ulnaris tendon.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-590",
+              "sourceLine": 590
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-2389607e0b",
+      "question": "Muscle attachments",
+      "preferredVariantId": "v-ec41b31a29",
+      "variants": [
+        {
+          "id": "v-ec41b31a29",
+          "answer": "Flexor carpi ulnaris inserts; abductor digiti minimi arises; pisohamate and pisometacarpal ligaments continue force distally.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-591",
+              "sourceLine": 591
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-86e4e38754",
+      "question": "Orientation",
+      "preferredVariantId": "v-28436ca636",
+      "variants": [
+        {
+          "id": "v-28436ca636",
+          "answer": "Located on palmar/ulnar aspect of proximal carpus; articular facet faces dorsally.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-592",
+              "sourceLine": 592
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-b03737e3cd",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-c4a133e5df",
+      "variants": [
+        {
+          "id": "v-c4a133e5df",
+          "answer": "Forms medial boundary of Guyon’s canal and is a palpable landmark at ulnar wrist.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-593",
+              "sourceLine": 593
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "hand-model-ns13",
+      "section": "Bones and retinacula",
+      "path": [
+        "IV"
+      ],
+      "label": "IV"
+    },
+    {
+      "modelId": "upper-limb-model-ns15",
+      "section": "Bones",
+      "path": [
+        "92"
+      ],
+      "label": "92"
+    }
+  ],
+  "redirectIds": [
+    "pisiform-c8f434d148"
+  ]
+}

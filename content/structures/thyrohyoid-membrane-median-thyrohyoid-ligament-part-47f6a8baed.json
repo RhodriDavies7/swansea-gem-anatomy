@@ -1,0 +1,115 @@
+{
+  "id": "thyrohyoid-membrane-median-thyrohyoid-ligament-part-47f6a8baed",
+  "name": "Thyrohyoid membrane (median thyrohyoid ligament part)",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Respiratory"
+  ],
+  "organs": [
+    "Larynx"
+  ],
+  "tags": [
+    "Attachments",
+    "Function",
+    "Membrane",
+    "MembranesLigaments"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-53f3f6ee94",
+      "variants": [
+        {
+          "id": "v-53f3f6ee94",
+          "answer": "Thyrohyoid membrane (median thyrohyoid ligament part)",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-62",
+              "sourceLine": 62
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-62",
+              "sourceLine": 62
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6771ade6e8",
+      "question": "Attachments",
+      "preferredVariantId": "v-cfa56c67e9",
+      "variants": [
+        {
+          "id": "v-cfa56c67e9",
+          "answer": "Spans between superior thyroid cartilage and hyoid; thickened centrally as the median thyrohyoid ligament.",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-63",
+              "sourceLine": 63
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-63",
+              "sourceLine": 63
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-b33512b809",
+      "variants": [
+        {
+          "id": "v-b33512b809",
+          "answer": "Suspends the larynx from the hyoid bone.",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-64",
+              "sourceLine": 64
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-64",
+              "sourceLine": 64
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "larynx-model-gs7",
+      "section": "Membranes, ligaments and joints",
+      "path": [
+        "8"
+      ],
+      "label": "8"
+    },
+    {
+      "modelId": "larynx-and-airway-model-gs5",
+      "section": "Membranes, ligaments and joints",
+      "path": [
+        "8"
+      ],
+      "label": "8"
+    }
+  ]
+}

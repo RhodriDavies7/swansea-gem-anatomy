@@ -1,0 +1,108 @@
+{
+  "id": "ampulla-of-uterine-tube-fallopian-tube-5c3af807d4",
+  "name": "Ampulla of uterine tube (Fallopian tube)",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Pelvis"
+  ],
+  "systems": [
+    "Reproductive"
+  ],
+  "organs": [],
+  "tags": [
+    "Clinical",
+    "Function",
+    "Location",
+    "TubePart"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-9159fafef7",
+      "variants": [
+        {
+          "id": "v-9159fafef7",
+          "answer": "Ampulla of uterine tube (Fallopian tube)",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-341",
+              "sourceLine": 341
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-5f108d0c96",
+      "variants": [
+        {
+          "id": "v-5f108d0c96",
+          "answer": "Wider, longest portion of the uterine tube lateral to the isthmus.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-342",
+              "sourceLine": 342
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-8b79470051",
+      "variants": [
+        {
+          "id": "v-8b79470051",
+          "answer": "Usual site of fertilisation.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-343",
+              "sourceLine": 343
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-b03737e3cd",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-85cd596a47",
+      "variants": [
+        {
+          "id": "v-85cd596a47",
+          "answer": "Common site of tubal ectopic pregnancy.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-344",
+              "sourceLine": 344
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "female-pelvis-model-mo8",
+      "section": "",
+      "path": [
+        "51"
+      ],
+      "label": "51"
+    }
+  ]
+}

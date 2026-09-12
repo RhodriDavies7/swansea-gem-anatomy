@@ -1,0 +1,106 @@
+{
+  "id": "diplo-c7a42f2980",
+  "name": "Diploë",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Bones"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [],
+  "organs": [],
+  "tags": [
+    "BoneTissue",
+    "Contents",
+    "Function",
+    "Structure"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-e77a694380",
+      "variants": [
+        {
+          "id": "v-e77a694380",
+          "answer": "Diploë",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-133",
+              "sourceLine": 133
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-d13a526074",
+      "variants": [
+        {
+          "id": "v-d13a526074",
+          "answer": "Spongy cancellous bone between the inner and outer tables of flat cranial bones.",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-134",
+              "sourceLine": 134
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f5cbdf6bfb",
+      "question": "Contents",
+      "preferredVariantId": "v-853111e907",
+      "variants": [
+        {
+          "id": "v-853111e907",
+          "answer": "Contains marrow spaces and diploic veins.",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-135",
+              "sourceLine": 135
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-e5743fe73e",
+      "variants": [
+        {
+          "id": "v-e5743fe73e",
+          "answer": "Reduces skull weight while maintaining strength and houses venous channels.",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-136",
+              "sourceLine": 136
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "cranial-floor-model-bs1",
+      "section": "",
+      "path": [
+        "22"
+      ],
+      "label": "22"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "id": "cortical-column-83494a272c",
+  "name": "Cortical column",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Abdomen"
+  ],
+  "systems": [
+    "Urinary"
+  ],
+  "organs": [],
+  "tags": [
+    "Function",
+    "KidneyRegion",
+    "KidneySection",
+    "Structure"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-e2ae5b8632",
+      "variants": [
+        {
+          "id": "v-e2ae5b8632",
+          "answer": "Cortical column",
+          "sources": [
+            {
+              "modelId": "urinary-system-model-ls3-1",
+              "cardId": "urinary-system-model-ls3-1-52",
+              "sourceLine": 52
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-f11727c6a8",
+      "variants": [
+        {
+          "id": "v-f11727c6a8",
+          "answer": "Extension of renal cortex between adjacent renal pyramids.",
+          "sources": [
+            {
+              "modelId": "urinary-system-model-ls3-1",
+              "cardId": "urinary-system-model-ls3-1-53",
+              "sourceLine": 53
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-b1e97e90de",
+      "variants": [
+        {
+          "id": "v-b1e97e90de",
+          "answer": "Separates renal pyramids and carries vessels between cortex and medulla.",
+          "sources": [
+            {
+              "modelId": "urinary-system-model-ls3-1",
+              "cardId": "urinary-system-model-ls3-1-54",
+              "sourceLine": 54
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "urinary-system-model-ls3-1",
+      "section": "Coronal section of kidney (8a–g)",
+      "path": [
+        "8",
+        "b"
+      ],
+      "label": "8b"
+    }
+  ]
+}

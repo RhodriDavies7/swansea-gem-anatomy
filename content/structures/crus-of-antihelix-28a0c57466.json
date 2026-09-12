@@ -1,0 +1,90 @@
+{
+  "id": "crus-of-antihelix-28a0c57466",
+  "name": "Crus of antihelix",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [],
+  "organs": [
+    "Ear"
+  ],
+  "tags": [
+    "Auricle",
+    "ExternalEar",
+    "Relations",
+    "Structure"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-a593055bfb",
+      "variants": [
+        {
+          "id": "v-a593055bfb",
+          "answer": "Crus of antihelix",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-19",
+              "sourceLine": 19
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-605dbdbaf1",
+      "variants": [
+        {
+          "id": "v-605dbdbaf1",
+          "answer": "One of the superior branches of the antihelix.",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-20",
+              "sourceLine": 20
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-914ae8f773",
+      "variants": [
+        {
+          "id": "v-914ae8f773",
+          "answer": "The superior and inferior crura bound the triangular fossa.",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-21",
+              "sourceLine": 21
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "ear-largest-model-ds1",
+      "section": "A. External ear",
+      "path": [
+        "4"
+      ],
+      "label": "4"
+    }
+  ]
+}

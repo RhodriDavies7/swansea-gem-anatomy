@@ -1,0 +1,155 @@
+{
+  "id": "cuneiform-cartilage-14d8a59504",
+  "name": "Cuneiform cartilage",
+  "aliases": [
+    "Cuneiform cartilage (cartilage of Wrisberg)"
+  ],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Cartilage"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Musculoskeletal",
+    "Respiratory"
+  ],
+  "organs": [
+    "Larynx"
+  ],
+  "tags": [
+    "Cartilage",
+    "Function",
+    "Larynx",
+    "Structure",
+    "CartilagesAndBones"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-9f0076a5dc",
+      "variants": [
+        {
+          "id": "v-9f0076a5dc",
+          "answer": "Cuneiform cartilage",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-44",
+              "sourceLine": 44
+            }
+          ]
+        },
+        {
+          "id": "v-c780927d13",
+          "answer": "Cuneiform cartilage (cartilage of Wrisberg)",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-49",
+              "sourceLine": 49
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-49",
+              "sourceLine": 49
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-147d337d95",
+      "variants": [
+        {
+          "id": "v-147d337d95",
+          "answer": "Small paired elastic cartilages embedded in the aryepiglottic folds.",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-45",
+              "sourceLine": 45
+            },
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-50",
+              "sourceLine": 50
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-50",
+              "sourceLine": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-5f1e27d1ef",
+      "variants": [
+        {
+          "id": "v-5f1e27d1ef",
+          "answer": "Support and stiffen the aryepiglottic folds.",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-46",
+              "sourceLine": 46
+            },
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-51",
+              "sourceLine": 51
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-51",
+              "sourceLine": 51
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "larynx-and-tongue-model-gs4",
+      "section": "Larynx",
+      "path": [
+        "6"
+      ],
+      "label": "6"
+    },
+    {
+      "modelId": "larynx-model-gs7",
+      "section": "Hyoid and laryngeal cartilages",
+      "path": [
+        "6"
+      ],
+      "label": "6"
+    },
+    {
+      "modelId": "larynx-and-airway-model-gs5",
+      "section": "Hyoid and laryngeal cartilages",
+      "path": [
+        "6"
+      ],
+      "label": "6"
+    }
+  ],
+  "redirectIds": [
+    "cuneiform-cartilage-cartilage-of-wrisberg-e9e2f360b7"
+  ]
+}

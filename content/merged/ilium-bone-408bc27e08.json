@@ -1,0 +1,109 @@
+{
+  "id": "ilium-bone-408bc27e08",
+  "name": "Ilium bone",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Bones"
+  ],
+  "regions": [
+    "Pelvis"
+  ],
+  "systems": [
+    "Musculoskeletal",
+    "Reproductive"
+  ],
+  "organs": [],
+  "tags": [
+    "Articulations",
+    "Attachments",
+    "Bone",
+    "Landmarks"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-6f1e5edcfd",
+      "variants": [
+        {
+          "id": "v-6f1e5edcfd",
+          "answer": "Ilium bone",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-14",
+              "sourceLine": 14
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-a40bee8d10",
+      "question": "Articulations",
+      "preferredVariantId": "v-1318738a24",
+      "variants": [
+        {
+          "id": "v-1318738a24",
+          "answer": "Articulates with sacrum at the sacroiliac joint and contributes to the acetabulum.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-15",
+              "sourceLine": 15
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-626b6c1d45",
+      "question": "Landmarks",
+      "preferredVariantId": "v-d97590ae4f",
+      "variants": [
+        {
+          "id": "v-d97590ae4f",
+          "answer": "Iliac crest, ASIS, AIIS, PSIS, PIIS, iliac fossa and greater sciatic notch.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-16",
+              "sourceLine": 16
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6771ade6e8",
+      "question": "Attachments",
+      "preferredVariantId": "v-e5ea7f961c",
+      "variants": [
+        {
+          "id": "v-e5ea7f961c",
+          "answer": "Provides broad attachment for abdominal, gluteal and iliacus muscles.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-17",
+              "sourceLine": 17
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "female-pelvis-model-mo8",
+      "section": "",
+      "path": [
+        "3"
+      ],
+      "label": "3"
+    }
+  ]
+}

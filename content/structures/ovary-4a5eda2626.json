@@ -1,0 +1,236 @@
+{
+  "id": "ovary-4a5eda2626",
+  "name": "Ovary",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Organs"
+  ],
+  "regions": [
+    "Pelvis"
+  ],
+  "systems": [
+    "Reproductive"
+  ],
+  "organs": [],
+  "tags": [
+    "Attachments",
+    "BloodSupply",
+    "Function",
+    "Location",
+    "Lymphatics",
+    "Organ"
+  ],
+  "imageIds": [
+    "img-14a001ed0a09"
+  ],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-e16163ab78",
+      "variants": [
+        {
+          "id": "v-e16163ab78",
+          "answer": "Ovary",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-353",
+              "sourceLine": 353
+            },
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-106",
+              "sourceLine": 106
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-52b1c07881",
+      "variants": [
+        {
+          "id": "v-52b1c07881",
+          "answer": "Produces oocytes and secretes oestrogens/progesterone.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-354",
+              "sourceLine": 354
+            }
+          ]
+        },
+        {
+          "id": "v-dce5262718",
+          "answer": "Produces oocytes and secretes ovarian hormones including oestrogens and progesterone.",
+          "sources": [
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-107",
+              "sourceLine": 107
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-e24cc24d57",
+      "variants": [
+        {
+          "id": "v-e24cc24d57",
+          "answer": "Usually on lateral pelvic wall in ovarian fossa.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-355",
+              "sourceLine": 355
+            }
+          ]
+        },
+        {
+          "id": "v-fa55061c60",
+          "answer": "Usually lies on the lateral pelvic wall in the ovarian fossa.",
+          "sources": [
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-108",
+              "sourceLine": 108
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-6771ade6e8",
+      "question": "Attachments",
+      "preferredVariantId": "v-db9c114689",
+      "variants": [
+        {
+          "id": "v-188bd81f42",
+          "answer": "Ovarian ligament, suspensory ligament and mesovarium.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-356",
+              "sourceLine": 356
+            }
+          ]
+        },
+        {
+          "id": "v-db9c114689",
+          "answer": "Attached to uterus by ovarian ligament and to lateral pelvic wall by suspensory ligament of ovary; mesovarium attaches it to broad ligament.",
+          "sources": [
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-109",
+              "sourceLine": 109
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-a707f7e176",
+      "question": "Blood supply",
+      "preferredVariantId": "v-abd3f009fc",
+      "variants": [
+        {
+          "id": "v-fc54e755d2",
+          "answer": "Ovarian artery with uterine artery anastomosis.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-357",
+              "sourceLine": 357
+            }
+          ]
+        },
+        {
+          "id": "v-abd3f009fc",
+          "answer": "Ovarian artery from abdominal aorta, with anastomosis to ovarian branch of uterine artery.",
+          "sources": [
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-110",
+              "sourceLine": 110
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-81a19046b8",
+      "question": "Lymphatic drainage",
+      "preferredVariantId": "v-5723124bc8",
+      "variants": [
+        {
+          "id": "v-0cf513e8b0",
+          "answer": "Para-aortic lymph nodes.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-358",
+              "sourceLine": 358
+            }
+          ]
+        },
+        {
+          "id": "v-5723124bc8",
+          "answer": "Para-aortic (lumbar) lymph nodes.",
+          "sources": [
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-111",
+              "sourceLine": 111
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "female-pelvis-model-mo8",
+      "section": "",
+      "path": [
+        "53"
+      ],
+      "label": "53"
+    },
+    {
+      "modelId": "female-reproductive-system-model-ms1",
+      "section": "",
+      "path": [
+        "15"
+      ],
+      "label": "15"
+    }
+  ]
+}

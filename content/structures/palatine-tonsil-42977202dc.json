@@ -1,0 +1,251 @@
+{
+  "id": "palatine-tonsil-42977202dc",
+  "name": "Palatine tonsil",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Respiratory"
+  ],
+  "organs": [],
+  "tags": [
+    "Clinical",
+    "Function",
+    "Location",
+    "LymphoidTissue",
+    "MidSagittal",
+    "MidlineStructures",
+    "NasalCavity",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-5436c1457a",
+      "variants": [
+        {
+          "id": "v-5436c1457a",
+          "answer": "Palatine tonsil",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-429",
+              "sourceLine": 429
+            },
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-80",
+              "sourceLine": 80
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-321",
+              "sourceLine": 321
+            },
+            {
+              "modelId": "nose-and-nasal-cavity-model-fs3",
+              "cardId": "nose-and-nasal-cavity-model-fs3-207",
+              "sourceLine": 207
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-d74576a2a1",
+      "variants": [
+        {
+          "id": "v-d74576a2a1",
+          "answer": "Tonsillar fossa between palatoglossal and palatopharyngeal arches.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-430",
+              "sourceLine": 430
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-322",
+              "sourceLine": 322
+            },
+            {
+              "modelId": "nose-and-nasal-cavity-model-fs3",
+              "cardId": "nose-and-nasal-cavity-model-fs3-208",
+              "sourceLine": 208
+            }
+          ]
+        },
+        {
+          "id": "v-6c6dd05028",
+          "answer": "Lies in the tonsillar fossa between the palatoglossal and palatopharyngeal arches.",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-81",
+              "sourceLine": 81
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-5b8df8fabd",
+      "variants": [
+        {
+          "id": "v-5b8df8fabd",
+          "answer": "Part of Waldeyer's ring; contributes to mucosal immune surveillance.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-431",
+              "sourceLine": 431
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-323",
+              "sourceLine": 323
+            }
+          ]
+        },
+        {
+          "id": "v-5ff05e200e",
+          "answer": "Part of Waldeyer's ring and contributes to mucosal immune surveillance.",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-82",
+              "sourceLine": 82
+            }
+          ]
+        },
+        {
+          "id": "v-cc46b6264e",
+          "answer": "Part of Waldeyer's ring and mucosal immune defence.",
+          "sources": [
+            {
+              "modelId": "nose-and-nasal-cavity-model-fs3",
+              "cardId": "nose-and-nasal-cavity-model-fs3-209",
+              "sourceLine": 209
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-b03737e3cd",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-67478c1842",
+      "variants": [
+        {
+          "id": "v-67478c1842",
+          "answer": "Tonsillar bed is highly vascular; glossopharyngeal nerve lies nearby.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-432",
+              "sourceLine": 432
+            }
+          ]
+        },
+        {
+          "id": "v-45ddaa10f5",
+          "answer": "Tonsillar bed is vascular and glossopharyngeal nerve lies nearby.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-324",
+              "sourceLine": 324
+            }
+          ]
+        },
+        {
+          "id": "v-9399b05dda",
+          "answer": "Glossopharyngeal nerve lies close to the tonsillar bed.",
+          "sources": [
+            {
+              "modelId": "nose-and-nasal-cavity-model-fs3",
+              "cardId": "nose-and-nasal-cavity-model-fs3-210",
+              "sourceLine": 210
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-139ee46c88",
+      "variants": [
+        {
+          "id": "v-139ee46c88",
+          "answer": "Glossopharyngeal nerve and tonsillar vessels lie close to the tonsillar bed.",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-83",
+              "sourceLine": 83
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "coronal-and-mid-sagittal-head-mb20",
+      "section": "Other midline structures",
+      "path": [
+        "q"
+      ],
+      "label": "q"
+    },
+    {
+      "modelId": "deep-face-model-bs8-1",
+      "section": "",
+      "path": [
+        "14"
+      ],
+      "label": "14"
+    },
+    {
+      "modelId": "half-head-and-neck-model-bs9",
+      "section": "Other midline structures",
+      "path": [
+        "q"
+      ],
+      "label": "q"
+    },
+    {
+      "modelId": "nose-and-nasal-cavity-model-fs3",
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "path": [
+        "23"
+      ],
+      "label": "23"
+    }
+  ]
+}

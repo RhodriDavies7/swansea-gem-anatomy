@@ -1,0 +1,195 @@
+{
+  "id": "sclera-2368501218",
+  "name": "Sclera",
+  "aliases": [
+    "Sclera of eyeball"
+  ],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [],
+  "organs": [
+    "Eye"
+  ],
+  "tags": [
+    "Eye",
+    "EyeLayer",
+    "Function",
+    "Relations",
+    "Structure"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-30daac48fc",
+      "variants": [
+        {
+          "id": "v-30daac48fc",
+          "answer": "Sclera",
+          "sources": [
+            {
+              "modelId": "eyeball-with-part-of-orbit-model-cs2",
+              "cardId": "eyeball-with-part-of-orbit-model-cs2-48",
+              "sourceLine": 48
+            },
+            {
+              "modelId": "eyeball-model-cs7",
+              "cardId": "eyeball-model-cs7-44",
+              "sourceLine": 44
+            }
+          ]
+        },
+        {
+          "id": "v-ef7eac48e0",
+          "answer": "Sclera of eyeball",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-563",
+              "sourceLine": 563
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-efb281e6a1",
+      "variants": [
+        {
+          "id": "v-efb281e6a1",
+          "answer": "Tough opaque fibrous outer coat of the posterior five-sixths of the eyeball.",
+          "sources": [
+            {
+              "modelId": "eyeball-with-part-of-orbit-model-cs2",
+              "cardId": "eyeball-with-part-of-orbit-model-cs2-49",
+              "sourceLine": 49
+            },
+            {
+              "modelId": "eyeball-model-cs7",
+              "cardId": "eyeball-model-cs7-45",
+              "sourceLine": 45
+            }
+          ]
+        },
+        {
+          "id": "v-bda8485726",
+          "answer": "Dense fibrous outer coat of eyeball continuous anteriorly with cornea.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-564",
+              "sourceLine": 564
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-2059d77656",
+      "variants": [
+        {
+          "id": "v-2059d77656",
+          "answer": "Maintains globe shape, protects intraocular contents and provides attachment for extraocular muscles.",
+          "sources": [
+            {
+              "modelId": "eyeball-with-part-of-orbit-model-cs2",
+              "cardId": "eyeball-with-part-of-orbit-model-cs2-50",
+              "sourceLine": 50
+            },
+            {
+              "modelId": "eyeball-model-cs7",
+              "cardId": "eyeball-model-cs7-46",
+              "sourceLine": 46
+            }
+          ]
+        },
+        {
+          "id": "v-a19818aac1",
+          "answer": "Protects globe and provides attachment for extraocular muscles.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-565",
+              "sourceLine": 565
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-db9768e0b0",
+      "variants": [
+        {
+          "id": "v-db9768e0b0",
+          "answer": "Continuous anteriorly with cornea and posteriorly with the dural sheath of the optic nerve.",
+          "sources": [
+            {
+              "modelId": "eyeball-with-part-of-orbit-model-cs2",
+              "cardId": "eyeball-with-part-of-orbit-model-cs2-51",
+              "sourceLine": 51
+            },
+            {
+              "modelId": "eyeball-model-cs7",
+              "cardId": "eyeball-model-cs7-47",
+              "sourceLine": 47
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "eyeball-with-part-of-orbit-model-cs2",
+      "section": "Eye",
+      "path": [
+        "7"
+      ],
+      "label": "7"
+    },
+    {
+      "modelId": "eyeball-model-cs7",
+      "section": "",
+      "path": [
+        "7"
+      ],
+      "label": "7"
+    },
+    {
+      "modelId": "head-and-neck-model-cs17-2",
+      "section": "Eye",
+      "path": [
+        "1"
+      ],
+      "label": "1"
+    }
+  ],
+  "redirectIds": [
+    "sclera-of-eyeball-78ac706a7c"
+  ]
+}

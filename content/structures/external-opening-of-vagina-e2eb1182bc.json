@@ -1,0 +1,89 @@
+{
+  "id": "external-opening-of-vagina-e2eb1182bc",
+  "name": "External opening of vagina",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Pelvis"
+  ],
+  "systems": [
+    "Reproductive"
+  ],
+  "organs": [],
+  "tags": [
+    "Function",
+    "Location",
+    "Opening"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-ba477d942f",
+      "variants": [
+        {
+          "id": "v-ba477d942f",
+          "answer": "External opening of vagina",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-211",
+              "sourceLine": 211
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-1a463f18ff",
+      "variants": [
+        {
+          "id": "v-1a463f18ff",
+          "answer": "Opens into the vestibule posterior to the external urethral opening.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-212",
+              "sourceLine": 212
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-3ae4261c4d",
+      "variants": [
+        {
+          "id": "v-3ae4261c4d",
+          "answer": "External opening of the vaginal canal.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-213",
+              "sourceLine": 213
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "female-pelvis-model-mo8",
+      "section": "",
+      "path": [
+        "29"
+      ],
+      "label": "29"
+    }
+  ]
+}

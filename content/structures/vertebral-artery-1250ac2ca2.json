@@ -1,0 +1,127 @@
+{
+  "id": "vertebral-artery-1250ac2ca2",
+  "name": "Vertebral artery",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Arteries"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Cardiovascular"
+  ],
+  "organs": [],
+  "tags": [
+    "Artery",
+    "Branches",
+    "Course",
+    "Origin",
+    "Supply"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-6ab4e34492",
+      "variants": [
+        {
+          "id": "v-6ab4e34492",
+          "answer": "Vertebral artery",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-100",
+              "sourceLine": 100
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-40d1b8a248",
+      "variants": [
+        {
+          "id": "v-40d1b8a248",
+          "answer": "First part of the subclavian artery.",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-101",
+              "sourceLine": 101
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-38516ecf6a",
+      "variants": [
+        {
+          "id": "v-38516ecf6a",
+          "answer": "Ascends through transverse foramina, enters the skull via foramen magnum and joins the opposite vertebral artery to form the basilar artery.",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-102",
+              "sourceLine": 102
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f578227926",
+      "question": "Branches",
+      "preferredVariantId": "v-d243efc608",
+      "variants": [
+        {
+          "id": "v-d243efc608",
+          "answer": "Gives posterior inferior cerebellar, anterior spinal, posterior spinal and medullary branches.",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-103",
+              "sourceLine": 103
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-222db0fc1c",
+      "question": "Supply",
+      "preferredVariantId": "v-62c43de114",
+      "variants": [
+        {
+          "id": "v-62c43de114",
+          "answer": "Medulla, spinal cord, cerebellum and posterior circulation through branches.",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-104",
+              "sourceLine": 104
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "cranial-floor-model-bs1",
+      "section": "",
+      "path": [
+        "17"
+      ],
+      "label": "17"
+    }
+  ]
+}

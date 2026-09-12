@@ -1,0 +1,147 @@
+{
+  "id": "medial-plantar-nerve-3715982bec",
+  "name": "Medial plantar nerve",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Nerves"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [],
+  "tags": [
+    "ArteriesAndNerves",
+    "Course",
+    "Lesion",
+    "Motor",
+    "Nerve",
+    "Roots",
+    "Sensory"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-54841a218a",
+      "variants": [
+        {
+          "id": "v-54841a218a",
+          "answer": "Medial plantar nerve",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-398",
+              "sourceLine": 398
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-4d78ec7d11",
+      "question": "Roots",
+      "preferredVariantId": "v-ef36343c5c",
+      "variants": [
+        {
+          "id": "v-ef36343c5c",
+          "answer": "Terminal branch of tibial nerve, mainly L4–L5.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-399",
+              "sourceLine": 399
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-b709f3b449",
+      "variants": [
+        {
+          "id": "v-b709f3b449",
+          "answer": "Runs anteriorly in medial sole with medial plantar artery.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-400",
+              "sourceLine": 400
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c8b6915183",
+      "question": "Motor functions",
+      "preferredVariantId": "v-87288d08e5",
+      "variants": [
+        {
+          "id": "v-87288d08e5",
+          "answer": "Supplies abductor hallucis, flexor digitorum brevis, flexor hallucis brevis and first lumbrical.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-401",
+              "sourceLine": 401
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-a453254382",
+      "question": "Sensory functions",
+      "preferredVariantId": "v-b7911eb5b6",
+      "variants": [
+        {
+          "id": "v-b7911eb5b6",
+          "answer": "Supplies medial sole and plantar surfaces of medial 3½ toes.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-402",
+              "sourceLine": 402
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-bc53d10c57",
+      "question": "Lesion",
+      "preferredVariantId": "v-ab7811680d",
+      "variants": [
+        {
+          "id": "v-ab7811680d",
+          "answer": "Causes sensory disturbance over the medial sole and medial 3½ toes with weakness of muscles such as abductor hallucis; entrapment may cause 'jogger's foot'.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-403",
+              "sourceLine": 403
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "foot-model-ns9",
+      "section": "Arteries and nerves",
+      "path": [
+        "59"
+      ],
+      "label": "59"
+    }
+  ]
+}

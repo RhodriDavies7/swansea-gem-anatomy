@@ -1,0 +1,189 @@
+{
+  "id": "navicular-38f681bb35",
+  "name": "Navicular",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Bones"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Articulations",
+    "Attachments",
+    "Bone",
+    "Bones",
+    "Landmarks",
+    "Orientation"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-7a2f1f5f5e",
+      "variants": [
+        {
+          "id": "v-7a2f1f5f5e",
+          "answer": "Navicular",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-42",
+              "sourceLine": 42
+            },
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-630",
+              "sourceLine": 630
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-a40bee8d10",
+      "question": "Articulations",
+      "preferredVariantId": "v-f123ff5412",
+      "variants": [
+        {
+          "id": "v-f123ff5412",
+          "answer": "Articulates with talar head proximally and the three cuneiforms distally.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-43",
+              "sourceLine": 43
+            }
+          ]
+        },
+        {
+          "id": "v-32d9190f52",
+          "answer": "Talar head proximally; three cuneiforms distally; sometimes a facet for cuboid laterally.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-631",
+              "sourceLine": 631
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-626b6c1d45",
+      "question": "Landmarks",
+      "preferredVariantId": "v-94a576f7b7",
+      "variants": [
+        {
+          "id": "v-18711a1091",
+          "answer": "Navicular tuberosity on medial side.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-44",
+              "sourceLine": 44
+            }
+          ]
+        },
+        {
+          "id": "v-94a576f7b7",
+          "answer": "Medial navicular tuberosity, concave proximal talar facet and three distal cuneiform facets.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-632",
+              "sourceLine": 632
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-6771ade6e8",
+      "question": "Attachments",
+      "preferredVariantId": "v-99a8ffc073",
+      "variants": [
+        {
+          "id": "v-99a8ffc073",
+          "answer": "Tibialis posterior inserts mainly onto the navicular tuberosity.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-45",
+              "sourceLine": 45
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-2389607e0b",
+      "question": "Muscle attachments",
+      "preferredVariantId": "v-6e9e201a8e",
+      "variants": [
+        {
+          "id": "v-6e9e201a8e",
+          "answer": "Tibialis posterior has its principal insertion on navicular tuberosity.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-633",
+              "sourceLine": 633
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-86e4e38754",
+      "question": "Orientation",
+      "preferredVariantId": "v-ea3eb19c05",
+      "variants": [
+        {
+          "id": "v-ea3eb19c05",
+          "answer": "Concave surface faces posteriorly toward talar head; divided distal surface anteriorly; tuberosity projects medially and plantarly.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-634",
+              "sourceLine": 634
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "foot-model-ns9",
+      "section": "Bones",
+      "path": [
+        "7"
+      ],
+      "label": "7"
+    },
+    {
+      "modelId": "lower-limb-model-ns10",
+      "section": "Bones",
+      "path": [
+        "89"
+      ],
+      "label": "89"
+    }
+  ]
+}

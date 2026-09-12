@@ -1,0 +1,275 @@
+{
+  "id": "transverse-arytenoid-muscle-9a67c07f42",
+  "name": "Transverse arytenoid muscle",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Musculoskeletal",
+    "Respiratory"
+  ],
+  "organs": [
+    "Larynx"
+  ],
+  "tags": [
+    "Action",
+    "Innervation",
+    "Insertion",
+    "LaryngealStructures",
+    "Larynx",
+    "MidSagittal",
+    "Muscle",
+    "Muscles",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-f29436e74f",
+      "variants": [
+        {
+          "id": "v-f29436e74f",
+          "answer": "Transverse arytenoid muscle",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-464",
+              "sourceLine": 464
+            },
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-131",
+              "sourceLine": 131
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-131",
+              "sourceLine": 131
+            },
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-112",
+              "sourceLine": 112
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-656ba1729a",
+      "variants": [
+        {
+          "id": "v-656ba1729a",
+          "answer": "Adducts arytenoid cartilages, closing the posterior part of rima glottidis.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-465",
+              "sourceLine": 465
+            }
+          ]
+        },
+        {
+          "id": "v-472356ac06",
+          "answer": "Adducts arytenoid cartilages and closes the posterior rima glottidis.",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-132",
+              "sourceLine": 132
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-132",
+              "sourceLine": 132
+            }
+          ]
+        },
+        {
+          "id": "v-187f422595",
+          "answer": "Adducts arytenoid cartilages and closes posterior rima glottidis.",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-113",
+              "sourceLine": 113
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-7b28d2894f",
+      "variants": [
+        {
+          "id": "v-7b28d2894f",
+          "answer": "Recurrent laryngeal nerve (CN X).",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-466",
+              "sourceLine": 466
+            },
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-133",
+              "sourceLine": 133
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-133",
+              "sourceLine": 133
+            },
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-114",
+              "sourceLine": 114
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-8375b33d63",
+      "variants": [
+        {
+          "id": "v-8375b33d63",
+          "answer": "Posterior surface of one arytenoid cartilage.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-467",
+              "sourceLine": 467
+            },
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-134",
+              "sourceLine": 134
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-134",
+              "sourceLine": 134
+            }
+          ]
+        },
+        {
+          "id": "v-b89f75886e",
+          "answer": "Posterior surface of one arytenoid.",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-115",
+              "sourceLine": 115
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-6bc0ff9ff5",
+      "variants": [
+        {
+          "id": "v-6bc0ff9ff5",
+          "answer": "Posterior surface of opposite arytenoid cartilage.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-468",
+              "sourceLine": 468
+            }
+          ]
+        },
+        {
+          "id": "v-97b4cb5c66",
+          "answer": "Posterior surface of the opposite arytenoid cartilage.",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-135",
+              "sourceLine": 135
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-135",
+              "sourceLine": 135
+            }
+          ]
+        },
+        {
+          "id": "v-09dfeff858",
+          "answer": "Posterior surface of opposite arytenoid.",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-116",
+              "sourceLine": 116
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "coronal-and-mid-sagittal-head-mb20",
+      "section": "Laryngeal structures",
+      "path": [
+        "VI"
+      ],
+      "label": "VI"
+    },
+    {
+      "modelId": "larynx-model-gs7",
+      "section": "Laryngeal and airway muscles",
+      "path": [
+        "18"
+      ],
+      "label": "18"
+    },
+    {
+      "modelId": "larynx-and-airway-model-gs5",
+      "section": "Laryngeal and airway muscles",
+      "path": [
+        "18"
+      ],
+      "label": "18"
+    },
+    {
+      "modelId": "larynx-and-tongue-model-gs4",
+      "section": "Larynx",
+      "path": [
+        "18"
+      ],
+      "label": "18"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "id": "round-ligament-of-the-liver-ligamentum-teres-hepatis-65b81d29be",
+  "name": "Round ligament of the liver (ligamentum teres hepatis)",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Ligaments"
+  ],
+  "regions": [
+    "Abdomen"
+  ],
+  "systems": [
+    "Digestive",
+    "Musculoskeletal"
+  ],
+  "organs": [
+    "Liver"
+  ],
+  "tags": [
+    "Embryology",
+    "Ligament",
+    "LobesAndLandmarks",
+    "Location",
+    "Structure"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-1ba761df08",
+      "variants": [
+        {
+          "id": "v-1ba761df08",
+          "answer": "Round ligament of the liver (ligamentum teres hepatis)",
+          "sources": [
+            {
+              "modelId": "liver-js5",
+              "cardId": "liver-js5-45",
+              "sourceLine": 45
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-539092f743",
+      "variants": [
+        {
+          "id": "v-539092f743",
+          "answer": "Fibrous remnant of the fetal umbilical vein.",
+          "sources": [
+            {
+              "modelId": "liver-js5",
+              "cardId": "liver-js5-46",
+              "sourceLine": 46
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-b9a80ff9fe",
+      "variants": [
+        {
+          "id": "v-b9a80ff9fe",
+          "answer": "Runs in the free inferior margin of the falciform ligament and fissure for ligamentum teres.",
+          "sources": [
+            {
+              "modelId": "liver-js5",
+              "cardId": "liver-js5-47",
+              "sourceLine": 47
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-7653a79b3b",
+      "question": "Embryology",
+      "preferredVariantId": "v-3ccc7c7e9d",
+      "variants": [
+        {
+          "id": "v-3ccc7c7e9d",
+          "answer": "Derived from the obliterated left umbilical vein.",
+          "sources": [
+            {
+              "modelId": "liver-js5",
+              "cardId": "liver-js5-48",
+              "sourceLine": 48
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "liver-js5",
+      "section": "Lobes and surface landmarks",
+      "path": [
+        "8"
+      ],
+      "label": "8"
+    }
+  ]
+}

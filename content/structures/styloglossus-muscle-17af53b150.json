@@ -1,0 +1,131 @@
+{
+  "id": "styloglossus-muscle-17af53b150",
+  "name": "Styloglossus muscle",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Musculoskeletal",
+    "Respiratory"
+  ],
+  "organs": [
+    "Larynx"
+  ],
+  "tags": [
+    "Action",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Origin",
+    "Tongue"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-30ed99bb94",
+      "variants": [
+        {
+          "id": "v-30ed99bb94",
+          "answer": "Styloglossus muscle",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-234",
+              "sourceLine": 234
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-f41c504852",
+      "variants": [
+        {
+          "id": "v-f41c504852",
+          "answer": "Retracts and elevates the tongue.",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-235",
+              "sourceLine": 235
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-c9d44d3215",
+      "variants": [
+        {
+          "id": "v-c9d44d3215",
+          "answer": "Hypoglossal nerve (CN XII).",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-236",
+              "sourceLine": 236
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-87ad559146",
+      "variants": [
+        {
+          "id": "v-87ad559146",
+          "answer": "Styloid process and stylohyoid ligament.",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-237",
+              "sourceLine": 237
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-605e493455",
+      "variants": [
+        {
+          "id": "v-605e493455",
+          "answer": "Side of tongue.",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-238",
+              "sourceLine": 238
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "larynx-and-tongue-model-gs4",
+      "section": "Tongue",
+      "path": [
+        "7"
+      ],
+      "label": "7"
+    }
+  ]
+}

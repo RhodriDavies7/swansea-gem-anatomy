@@ -1,0 +1,111 @@
+{
+  "id": "vallate-papillae-a1442e6712",
+  "name": "Vallate papillae",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Respiratory"
+  ],
+  "organs": [
+    "Larynx"
+  ],
+  "tags": [
+    "Function",
+    "Innervation",
+    "Papilla",
+    "Structure",
+    "Tongue"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-b379e43aca",
+      "variants": [
+        {
+          "id": "v-b379e43aca",
+          "answer": "Vallate papillae",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-223",
+              "sourceLine": 223
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-50de9dc509",
+      "variants": [
+        {
+          "id": "v-50de9dc509",
+          "answer": "Large papillae arranged in a V-shaped row just anterior to the sulcus terminalis.",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-224",
+              "sourceLine": 224
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-0de05a85b2",
+      "variants": [
+        {
+          "id": "v-0de05a85b2",
+          "answer": "Contain numerous taste buds.",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-225",
+              "sourceLine": 225
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-0d12f93259",
+      "variants": [
+        {
+          "id": "v-0d12f93259",
+          "answer": "Taste from vallate papillae is carried by glossopharyngeal nerve (CN IX), despite their anterior location.",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-226",
+              "sourceLine": 226
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "larynx-and-tongue-model-gs4",
+      "section": "Tongue",
+      "path": [
+        "5"
+      ],
+      "label": "5"
+    }
+  ]
+}

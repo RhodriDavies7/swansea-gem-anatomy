@@ -1,0 +1,274 @@
+{
+  "id": "posterior-cricoarytenoid-muscle-9135a12117",
+  "name": "Posterior cricoarytenoid muscle",
+  "aliases": [
+    "Posterior crico-arytenoid muscle"
+  ],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Musculoskeletal",
+    "Respiratory"
+  ],
+  "organs": [
+    "Larynx"
+  ],
+  "tags": [
+    "Action",
+    "Clinical",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Muscles",
+    "Origin",
+    "Larynx"
+  ],
+  "imageIds": [
+    "img-f1a589610cd2"
+  ],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-b38a8fc053",
+      "variants": [
+        {
+          "id": "v-b38a8fc053",
+          "answer": "Posterior cricoarytenoid muscle",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-123",
+              "sourceLine": 123
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-123",
+              "sourceLine": 123
+            }
+          ]
+        },
+        {
+          "id": "v-e845b5448b",
+          "answer": "Posterior crico-arytenoid muscle",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-104",
+              "sourceLine": 104
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-81dc8cefc6",
+      "variants": [
+        {
+          "id": "v-a4a4af7fd5",
+          "answer": "Abducts the vocal folds by laterally rotating arytenoid cartilages and opens the rima glottidis.",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-124",
+              "sourceLine": 124
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-124",
+              "sourceLine": 124
+            }
+          ]
+        },
+        {
+          "id": "v-81dc8cefc6",
+          "answer": "Abducts vocal folds; only intrinsic laryngeal muscle that opens the rima glottidis.",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-105",
+              "sourceLine": 105
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-7b28d2894f",
+      "variants": [
+        {
+          "id": "v-7b28d2894f",
+          "answer": "Recurrent laryngeal nerve (CN X).",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-125",
+              "sourceLine": 125
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-125",
+              "sourceLine": 125
+            },
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-106",
+              "sourceLine": 106
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-98904c9d56",
+      "variants": [
+        {
+          "id": "v-98904c9d56",
+          "answer": "Posterior surface of cricoid lamina.",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-126",
+              "sourceLine": 126
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-126",
+              "sourceLine": 126
+            }
+          ]
+        },
+        {
+          "id": "v-424bb68c63",
+          "answer": "Posterior cricoid lamina.",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-107",
+              "sourceLine": 107
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-069d1efb68",
+      "variants": [
+        {
+          "id": "v-069d1efb68",
+          "answer": "Muscular process of arytenoid cartilage.",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-127",
+              "sourceLine": 127
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-127",
+              "sourceLine": 127
+            },
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-108",
+              "sourceLine": 108
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-b03737e3cd",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-f975f63691",
+      "variants": [
+        {
+          "id": "v-f975f63691",
+          "answer": "Only muscle that abducts the vocal folds; bilateral paralysis can critically obstruct the airway.",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-128",
+              "sourceLine": 128
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-128",
+              "sourceLine": 128
+            }
+          ]
+        },
+        {
+          "id": "v-b7bb4ba2ce",
+          "answer": "Bilateral paralysis can cause critical airway obstruction.",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-109",
+              "sourceLine": 109
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "larynx-model-gs7",
+      "section": "Laryngeal and airway muscles",
+      "path": [
+        "17"
+      ],
+      "label": "17"
+    },
+    {
+      "modelId": "larynx-and-airway-model-gs5",
+      "section": "Laryngeal and airway muscles",
+      "path": [
+        "17"
+      ],
+      "label": "17"
+    },
+    {
+      "modelId": "larynx-and-tongue-model-gs4",
+      "section": "Larynx",
+      "path": [
+        "17"
+      ],
+      "label": "17"
+    }
+  ],
+  "redirectIds": [
+    "posterior-crico-arytenoid-muscle-8dffc4f3d0"
+  ]
+}

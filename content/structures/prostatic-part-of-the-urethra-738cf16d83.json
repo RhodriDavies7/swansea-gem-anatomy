@@ -1,0 +1,127 @@
+{
+  "id": "prostatic-part-of-the-urethra-738cf16d83",
+  "name": "Prostatic part of the urethra",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Pelvis"
+  ],
+  "systems": [
+    "Reproductive"
+  ],
+  "organs": [],
+  "tags": [
+    "Clinical",
+    "Course",
+    "Openings",
+    "Relations",
+    "Tube"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-b9749ab367",
+      "variants": [
+        {
+          "id": "v-b9749ab367",
+          "answer": "Prostatic part of the urethra",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-68",
+              "sourceLine": 68
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-424a11f91a",
+      "variants": [
+        {
+          "id": "v-424a11f91a",
+          "answer": "Passes through the prostate from the internal urethral orifice to the membranous urethra.",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-69",
+              "sourceLine": 69
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-79fe539254",
+      "variants": [
+        {
+          "id": "v-79fe539254",
+          "answer": "Widest and most dilatable part of the male urethra; surrounded by prostatic tissue.",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-70",
+              "sourceLine": 70
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-bc696ded34",
+      "question": "Openings",
+      "preferredVariantId": "v-1dd780170b",
+      "variants": [
+        {
+          "id": "v-1dd780170b",
+          "answer": "Receives prostatic ducts and ejaculatory ducts.",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-71",
+              "sourceLine": 71
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-b03737e3cd",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-5fb470641f",
+      "variants": [
+        {
+          "id": "v-5fb470641f",
+          "answer": "May be compressed by prostatic enlargement, contributing to bladder outlet obstruction.",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-72",
+              "sourceLine": 72
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "male-reproductive-system-model-ms2",
+      "section": "",
+      "path": [
+        "6"
+      ],
+      "label": "6"
+    }
+  ]
+}

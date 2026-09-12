@@ -1,0 +1,186 @@
+{
+  "id": "fibula-c574eff962",
+  "name": "Fibula",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Bones"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Articulations",
+    "Attachments",
+    "Bone",
+    "Bones",
+    "Landmarks",
+    "Orientation"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-46d1e27f45",
+      "variants": [
+        {
+          "id": "v-46d1e27f45",
+          "answer": "Fibula",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-16",
+              "sourceLine": 16
+            },
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-612",
+              "sourceLine": 612
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-a40bee8d10",
+      "question": "Articulations",
+      "preferredVariantId": "v-5443633f8d",
+      "variants": [
+        {
+          "id": "v-595c9cea1a",
+          "answer": "Articulates with tibia proximally and distally; lateral malleolus articulates with talus.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-17",
+              "sourceLine": 17
+            }
+          ]
+        },
+        {
+          "id": "v-5443633f8d",
+          "answer": "Tibia at proximal tibiofibular joint and distal syndesmosis; talus at lateral malleolar facet. Does not articulate with femur.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-613",
+              "sourceLine": 613
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-626b6c1d45",
+      "question": "Landmarks",
+      "preferredVariantId": "v-7f568c18dc",
+      "variants": [
+        {
+          "id": "v-7f568c18dc",
+          "answer": "Head, neck, shaft and lateral malleolus.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-18",
+              "sourceLine": 18
+            }
+          ]
+        },
+        {
+          "id": "v-51f790c320",
+          "answer": "Head, apex, neck, shaft, interosseous border, lateral malleolus and malleolar fossa.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-614",
+              "sourceLine": 614
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-86e4e38754",
+      "question": "Orientation",
+      "preferredVariantId": "v-f02e2eabb3",
+      "variants": [
+        {
+          "id": "v-e5bd93310d",
+          "answer": "Lateral malleolus projects more distally and posteriorly than the medial malleolus.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-19",
+              "sourceLine": 19
+            }
+          ]
+        },
+        {
+          "id": "v-f02e2eabb3",
+          "answer": "Head superior; lateral malleolus inferior; malleolar articular facet faces medially and malleolar fossa posteriorly. Distal malleolus extends lower than tibial malleolus.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-616",
+              "sourceLine": 616
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-2389607e0b",
+      "question": "Muscle attachments",
+      "preferredVariantId": "v-ec0e89b4cc",
+      "variants": [
+        {
+          "id": "v-ec0e89b4cc",
+          "answer": "Biceps femoris inserts on head; fibularis longus/brevis arise laterally; soleus, tibialis posterior and flexor hallucis longus posteriorly; toe extensors arise anteriorly.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-615",
+              "sourceLine": 615
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "foot-model-ns9",
+      "section": "Bones",
+      "path": [
+        "3"
+      ],
+      "label": "3"
+    },
+    {
+      "modelId": "lower-limb-model-ns10",
+      "section": "Bones",
+      "path": [
+        "86"
+      ],
+      "label": "86"
+    }
+  ]
+}

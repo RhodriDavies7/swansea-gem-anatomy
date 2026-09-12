@@ -1,0 +1,111 @@
+{
+  "id": "vestibular-branch-of-the-vestibulocochlear-nerve-66e6094812",
+  "name": "Vestibular branch of the vestibulocochlear nerve",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Nerves"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [
+    "Ear"
+  ],
+  "tags": [
+    "Course",
+    "InnerEar",
+    "Lesion",
+    "Nerve",
+    "Sensory"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-3a54dd3cfc",
+      "variants": [
+        {
+          "id": "v-3a54dd3cfc",
+          "answer": "Vestibular branch of the vestibulocochlear nerve",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-298",
+              "sourceLine": 298
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-394ec467b8",
+      "variants": [
+        {
+          "id": "v-394ec467b8",
+          "answer": "Carries afferents from utricle, saccule and semicircular ducts through the internal acoustic meatus to vestibular nuclei/cerebellum.",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-299",
+              "sourceLine": 299
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-a453254382",
+      "question": "Sensory functions",
+      "preferredVariantId": "v-03bc43e06c",
+      "variants": [
+        {
+          "id": "v-03bc43e06c",
+          "answer": "Conveys information about head position, linear acceleration and angular acceleration.",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-300",
+              "sourceLine": 300
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-bc53d10c57",
+      "question": "Lesion",
+      "preferredVariantId": "v-208baba599",
+      "variants": [
+        {
+          "id": "v-208baba599",
+          "answer": "Dysfunction can cause vertigo, imbalance and abnormal vestibulo-ocular reflexes.",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-301",
+              "sourceLine": 301
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "ear-largest-model-ds1",
+      "section": "D. Inner ear",
+      "path": [
+        "46"
+      ],
+      "label": "46"
+    }
+  ]
+}

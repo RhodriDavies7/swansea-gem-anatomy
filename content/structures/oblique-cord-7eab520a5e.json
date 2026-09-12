@@ -1,0 +1,108 @@
+{
+  "id": "oblique-cord-7eab520a5e",
+  "name": "Oblique cord",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Ligaments"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Attachments",
+    "Function",
+    "Ligament",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-04f5dc94a7",
+      "variants": [
+        {
+          "id": "v-04f5dc94a7",
+          "answer": "Oblique cord",
+          "sources": [
+            {
+              "modelId": "elbow-joint-model-ns18",
+              "cardId": "elbow-joint-model-ns18-58",
+              "sourceLine": 58
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6771ade6e8",
+      "question": "Attachments",
+      "preferredVariantId": "v-0f2b652806",
+      "variants": [
+        {
+          "id": "v-0f2b652806",
+          "answer": "Extends from the ulna just distal to the radial notch to the radius just distal to the radial tuberosity.",
+          "sources": [
+            {
+              "modelId": "elbow-joint-model-ns18",
+              "cardId": "elbow-joint-model-ns18-59",
+              "sourceLine": 59
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-b0598c9a89",
+      "variants": [
+        {
+          "id": "v-b0598c9a89",
+          "answer": "Helps bind the proximal radius and ulna and may limit excessive distal displacement of the radius.",
+          "sources": [
+            {
+              "modelId": "elbow-joint-model-ns18",
+              "cardId": "elbow-joint-model-ns18-60",
+              "sourceLine": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-138651346a",
+      "variants": [
+        {
+          "id": "v-138651346a",
+          "answer": "Runs inferolaterally from ulna to radius, opposite in fibre direction to much of the interosseous membrane.",
+          "sources": [
+            {
+              "modelId": "elbow-joint-model-ns18",
+              "cardId": "elbow-joint-model-ns18-61",
+              "sourceLine": 61
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "elbow-joint-model-ns18",
+      "section": "",
+      "path": [
+        "6"
+      ],
+      "label": "6"
+    }
+  ]
+}

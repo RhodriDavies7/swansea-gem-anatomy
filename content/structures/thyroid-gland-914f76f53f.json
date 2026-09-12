@@ -1,0 +1,179 @@
+{
+  "id": "thyroid-gland-914f76f53f",
+  "name": "Thyroid gland",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Organs"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Respiratory"
+  ],
+  "organs": [
+    "Larynx"
+  ],
+  "tags": [
+    "BloodSupply",
+    "Function",
+    "Gland",
+    "HeadNeck",
+    "Location",
+    "MajorOrgans",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-46ae9fe9b7",
+      "variants": [
+        {
+          "id": "v-46ae9fe9b7",
+          "answer": "Thyroid gland",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-555",
+              "sourceLine": 555
+            },
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-8",
+              "sourceLine": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-bdd5d2027e",
+      "variants": [
+        {
+          "id": "v-bdd5d2027e",
+          "answer": "Anterior neck, with lobes alongside upper trachea joined by an isthmus.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-556",
+              "sourceLine": 556
+            }
+          ]
+        },
+        {
+          "id": "v-6e60a03139",
+          "answer": "Anterior neck, with lobes on either side of the upper trachea connected by an isthmus.",
+          "sources": [
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-9",
+              "sourceLine": 9
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-1abff86662",
+      "variants": [
+        {
+          "id": "v-1abff86662",
+          "answer": "Produces thyroid hormones and calcitonin.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-557",
+              "sourceLine": 557
+            },
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-10",
+              "sourceLine": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-a707f7e176",
+      "question": "Blood supply",
+      "preferredVariantId": "v-5d87509ab5",
+      "variants": [
+        {
+          "id": "v-5d87509ab5",
+          "answer": "Superior and inferior thyroid arteries, with a variable thyroid ima artery.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-558",
+              "sourceLine": 558
+            }
+          ]
+        },
+        {
+          "id": "v-7339c3cc3d",
+          "answer": "Mainly superior and inferior thyroid arteries.",
+          "sources": [
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-11",
+              "sourceLine": 11
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-6f5b25d0b9",
+      "variants": [
+        {
+          "id": "v-6f5b25d0b9",
+          "answer": "Recurrent laryngeal nerves lie close to the posteromedial gland; external laryngeal nerve relates to superior thyroid vessels.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-559",
+              "sourceLine": 559
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "head-and-neck-model-cs17-2",
+      "section": "Glands",
+      "path": [
+        "86"
+      ],
+      "label": "86"
+    },
+    {
+      "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+      "section": "Major organs and regions (A–G)",
+      "path": [
+        "B"
+      ],
+      "label": "B"
+    }
+  ]
+}

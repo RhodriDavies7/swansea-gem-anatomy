@@ -1,0 +1,164 @@
+{
+  "id": "common-palmar-digital-nerve-ulnar",
+  "name": "Common palmar digital nerve (ulnar nerve)",
+  "aliases": [
+    "Common palmar digital nerve"
+  ],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Nerves"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [],
+  "tags": [
+    "Course",
+    "Lesion",
+    "Motor",
+    "Nerve",
+    "Roots",
+    "Sensory"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "curated-5bfb9dea76",
+      "variants": [
+        {
+          "id": "v-458091df43",
+          "answer": "Common palmar digital nerve",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-505",
+              "sourceLine": 505
+            }
+          ]
+        },
+        {
+          "id": "curated-5bfb9dea76",
+          "answer": "Common palmar digital nerve (ulnar nerve)",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-505",
+              "sourceLine": 505
+            }
+          ],
+          "editorial": true
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-4d78ec7d11",
+      "question": "Roots",
+      "preferredVariantId": "v-07efac2cb8",
+      "variants": [
+        {
+          "id": "v-07efac2cb8",
+          "answer": "Ulnar common palmar digital branch from superficial branch of ulnar nerve.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-506",
+              "sourceLine": 506
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-5caa123c82",
+      "variants": [
+        {
+          "id": "v-5caa123c82",
+          "answer": "Runs distally toward the fourth interdigital cleft and divides into proper digital nerves.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-507",
+              "sourceLine": 507
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c8b6915183",
+      "question": "Motor functions",
+      "preferredVariantId": "v-428973271c",
+      "variants": [
+        {
+          "id": "v-428973271c",
+          "answer": "None of major intrinsic muscles; mainly sensory.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-508",
+              "sourceLine": 508
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-a453254382",
+      "question": "Sensory functions",
+      "preferredVariantId": "v-441e45f0e4",
+      "variants": [
+        {
+          "id": "v-441e45f0e4",
+          "answer": "Adjacent sides of ring and little fingers on palmar aspect.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-509",
+              "sourceLine": 509
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-bc53d10c57",
+      "question": "Lesion",
+      "preferredVariantId": "v-8bb6e27151",
+      "variants": [
+        {
+          "id": "v-8bb6e27151",
+          "answer": "Produces sensory disturbance in its digital territory.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-510",
+              "sourceLine": 510
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "upper-limb-model-ns15",
+      "section": "Nerves",
+      "path": [
+        "79"
+      ],
+      "label": "79"
+    }
+  ]
+}

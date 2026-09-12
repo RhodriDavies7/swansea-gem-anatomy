@@ -1,0 +1,192 @@
+{
+  "id": "cerebral-aqueduct-aqueduct-of-sylvius-ec857b8f52",
+  "name": "Cerebral aqueduct (aqueduct of Sylvius)",
+  "aliases": [
+    "Cerebral aqueduct"
+  ],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [],
+  "tags": [
+    "Clinical",
+    "Connections",
+    "Location",
+    "MidSagittal",
+    "MidlineStructures",
+    "Ventricle",
+    "Brain"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-a7ee4fe920",
+      "variants": [
+        {
+          "id": "v-a7ee4fe920",
+          "answer": "Cerebral aqueduct (aqueduct of Sylvius)",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-342",
+              "sourceLine": 342
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-215",
+              "sourceLine": 215
+            }
+          ]
+        },
+        {
+          "id": "v-f55c8c5959",
+          "answer": "Cerebral aqueduct",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-714",
+              "sourceLine": 714
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-85af51dbec",
+      "variants": [
+        {
+          "id": "v-85af51dbec",
+          "answer": "Narrow channel through midbrain.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-343",
+              "sourceLine": 343
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-216",
+              "sourceLine": 216
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-715",
+              "sourceLine": 715
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-8f3509b64e",
+      "question": "Connections",
+      "preferredVariantId": "v-26318ca624",
+      "variants": [
+        {
+          "id": "v-26318ca624",
+          "answer": "Connects third and fourth ventricles.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-344",
+              "sourceLine": 344
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-217",
+              "sourceLine": 217
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-716",
+              "sourceLine": 716
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-b03737e3cd",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-6ac14e7139",
+      "variants": [
+        {
+          "id": "v-6ac14e7139",
+          "answer": "Obstruction can cause non-communicating hydrocephalus.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-345",
+              "sourceLine": 345
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-218",
+              "sourceLine": 218
+            }
+          ]
+        },
+        {
+          "id": "v-638ecd1a77",
+          "answer": "Obstruction causes non-communicating hydrocephalus.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-717",
+              "sourceLine": 717
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "coronal-and-mid-sagittal-head-mb20",
+      "section": "Other midline structures",
+      "path": [
+        "20"
+      ],
+      "label": "20"
+    },
+    {
+      "modelId": "half-head-and-neck-model-bs9",
+      "section": "Other midline structures",
+      "path": [
+        "20"
+      ],
+      "label": "20"
+    },
+    {
+      "modelId": "head-and-neck-model-cs17-2",
+      "section": "Internal brain structures and cranial nerves (1–26)",
+      "path": [
+        "11"
+      ],
+      "label": "11"
+    }
+  ],
+  "redirectIds": [
+    "cerebral-aqueduct-277a77d5ca"
+  ]
+}

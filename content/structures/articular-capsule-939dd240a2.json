@@ -1,0 +1,106 @@
+{
+  "id": "articular-capsule-939dd240a2",
+  "name": "Articular capsule",
+  "aliases": [],
+  "scope": "Upper limb",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [],
+  "organs": [],
+  "tags": [
+    "Attachments",
+    "Function",
+    "JointCapsule",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-124c39f6d1",
+      "variants": [
+        {
+          "id": "v-124c39f6d1",
+          "answer": "Articular capsule",
+          "sources": [
+            {
+              "modelId": "elbow-joint-model-ns18",
+              "cardId": "elbow-joint-model-ns18-23",
+              "sourceLine": 23
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6771ade6e8",
+      "question": "Attachments",
+      "preferredVariantId": "v-bd1e3c880f",
+      "variants": [
+        {
+          "id": "v-bd1e3c880f",
+          "answer": "Proximally attaches around the distal humeral articular margins; distally attaches to the ulna and blends with the annular ligament around the radius.",
+          "sources": [
+            {
+              "modelId": "elbow-joint-model-ns18",
+              "cardId": "elbow-joint-model-ns18-24",
+              "sourceLine": 24
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-e190044d6f",
+      "variants": [
+        {
+          "id": "v-e190044d6f",
+          "answer": "Encloses and stabilises the elbow joint while allowing flexion-extension and forearm rotation at the proximal radioulnar joint.",
+          "sources": [
+            {
+              "modelId": "elbow-joint-model-ns18",
+              "cardId": "elbow-joint-model-ns18-25",
+              "sourceLine": 25
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-4628fd3508",
+      "variants": [
+        {
+          "id": "v-4628fd3508",
+          "answer": "Reinforced medially and laterally by collateral ligaments; relatively lax anteriorly and posteriorly to permit movement.",
+          "sources": [
+            {
+              "modelId": "elbow-joint-model-ns18",
+              "cardId": "elbow-joint-model-ns18-26",
+              "sourceLine": 26
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "elbow-joint-model-ns18",
+      "section": "",
+      "path": [
+        "1"
+      ],
+      "label": "1"
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "id": "obturator-nerve-a70210e41d",
+  "name": "Obturator nerve",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Nerves"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [],
+  "tags": [
+    "Course",
+    "Lesion",
+    "Motor",
+    "Nerve",
+    "Roots",
+    "Sensory"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-d4715908c3",
+      "variants": [
+        {
+          "id": "v-d4715908c3",
+          "answer": "Obturator nerve",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-451",
+              "sourceLine": 451
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-4d78ec7d11",
+      "question": "Roots",
+      "preferredVariantId": "v-a44ae83300",
+      "variants": [
+        {
+          "id": "v-a44ae83300",
+          "answer": "L2–L4, anterior divisions of anterior rami.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-452",
+              "sourceLine": 452
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-26a5bfed93",
+      "variants": [
+        {
+          "id": "v-26a5bfed93",
+          "answer": "Emerges medial to psoas; follows lateral pelvic wall through obturator canal; anterior and posterior divisions pass on either side of adductor brevis.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-453",
+              "sourceLine": 453
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c8b6915183",
+      "question": "Motor functions",
+      "preferredVariantId": "v-094dbbe4d2",
+      "variants": [
+        {
+          "id": "v-094dbbe4d2",
+          "answer": "Hip adduction through adductor longus, brevis, adductor part of magnus and gracilis; supplies obturator externus; variable contribution to pectineus.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-454",
+              "sourceLine": 454
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-a453254382",
+      "question": "Sensory functions",
+      "preferredVariantId": "v-e52f43e3e1",
+      "variants": [
+        {
+          "id": "v-e52f43e3e1",
+          "answer": "Small, variable medial thigh skin territory; articular branches to hip and knee.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-455",
+              "sourceLine": 455
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-bc53d10c57",
+      "question": "Lesion",
+      "preferredVariantId": "v-b91913736f",
+      "variants": [
+        {
+          "id": "v-b91913736f",
+          "answer": "Weak thigh adduction, sometimes medial thigh sensory loss or pain; hip pathology may cause referred knee pain through articular branches.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-456",
+              "sourceLine": 456
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "lower-limb-model-ns10",
+      "section": "Nerves",
+      "path": [
+        "61"
+      ],
+      "label": "61"
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "id": "quadriceps-femoris-muscle-9d3a649132",
+  "name": "Quadriceps femoris muscle",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-ff47d497ee",
+      "variants": [
+        {
+          "id": "v-ff47d497ee",
+          "answer": "Quadriceps femoris muscle",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-69",
+              "sourceLine": 69
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-18e090dafa",
+      "variants": [
+        {
+          "id": "v-18e090dafa",
+          "answer": "Extends the knee; rectus femoris also flexes the hip.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-70",
+              "sourceLine": 70
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-14dac355e2",
+      "variants": [
+        {
+          "id": "v-14dac355e2",
+          "answer": "Femoral nerve (L2–L4).",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-71",
+              "sourceLine": 71
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-d18d4c3b39",
+      "variants": [
+        {
+          "id": "v-d18d4c3b39",
+          "answer": "Rectus femoris arises from the pelvis; the three vasti arise from the femur (see sublabels).",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-72",
+              "sourceLine": 72
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-67abdcd10e",
+      "variants": [
+        {
+          "id": "v-67abdcd10e",
+          "answer": "Patella through the quadriceps tendon, then tibial tuberosity through the patellar ligament.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-73",
+              "sourceLine": 73
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "lower-limb-model-ns10",
+      "section": "Muscles",
+      "path": [
+        "11"
+      ],
+      "label": "11"
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "id": "zygomaticus-major-muscle-b55af3718b",
+  "name": "Zygomaticus major muscle",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "HeadNeck",
+    "HeadNeckMuscles",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-2b91136640",
+      "variants": [
+        {
+          "id": "v-2b91136640",
+          "answer": "Zygomaticus major muscle",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-456",
+              "sourceLine": 456
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-195",
+              "sourceLine": 195
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-b93cf35528",
+      "variants": [
+        {
+          "id": "v-b93cf35528",
+          "answer": "Elevates and draws angle of mouth superolaterally in smiling.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-457",
+              "sourceLine": 457
+            }
+          ]
+        },
+        {
+          "id": "v-7c3fb6dc97",
+          "answer": "Elevates and draws angle of mouth superolaterally.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-196",
+              "sourceLine": 196
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-6ed4bfb505",
+      "variants": [
+        {
+          "id": "v-6ed4bfb505",
+          "answer": "Facial nerve (CN VII).",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-458",
+              "sourceLine": 458
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-197",
+              "sourceLine": 197
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-6fb3ff3a5f",
+      "variants": [
+        {
+          "id": "v-6fb3ff3a5f",
+          "answer": "Zygomatic bone.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-459",
+              "sourceLine": 459
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-198",
+              "sourceLine": 198
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-6ef6d98c4a",
+      "variants": [
+        {
+          "id": "v-6ef6d98c4a",
+          "answer": "Modiolus/angle of mouth.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-460",
+              "sourceLine": 460
+            }
+          ]
+        },
+        {
+          "id": "v-ec1bedbafb",
+          "answer": "Modiolus.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-199",
+              "sourceLine": 199
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "half-head-and-neck-model-bs9",
+      "section": "Musculature of the head and neck",
+      "path": [
+        "33"
+      ],
+      "label": "33"
+    },
+    {
+      "modelId": "head-and-neck-model-cs17-2",
+      "section": "Musculature of the head and neck",
+      "path": [
+        "34"
+      ],
+      "label": "34"
+    }
+  ]
+}

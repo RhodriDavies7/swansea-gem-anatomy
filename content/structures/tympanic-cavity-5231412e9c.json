@@ -1,0 +1,157 @@
+{
+  "id": "tympanic-cavity-5231412e9c",
+  "name": "Tympanic cavity",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [],
+  "organs": [
+    "Ear"
+  ],
+  "tags": [
+    "Cavity",
+    "Connections",
+    "Contents",
+    "MiddleEar",
+    "Structure"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-9ee2000c4c",
+      "variants": [
+        {
+          "id": "v-9ee2000c4c",
+          "answer": "Tympanic cavity",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-121",
+              "sourceLine": 121
+            },
+            {
+              "modelId": "ear-model-ds3",
+              "cardId": "ear-model-ds3-23",
+              "sourceLine": 23
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-ad859763c9",
+      "variants": [
+        {
+          "id": "v-ad859763c9",
+          "answer": "Air-filled cavity in the petrous temporal bone containing the auditory ossicles.",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-122",
+              "sourceLine": 122
+            }
+          ]
+        },
+        {
+          "id": "v-9c57914ff1",
+          "answer": "Air-filled cavity within the petrous temporal bone containing the auditory ossicles.",
+          "sources": [
+            {
+              "modelId": "ear-model-ds3",
+              "cardId": "ear-model-ds3-24",
+              "sourceLine": 24
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-f5cbdf6bfb",
+      "question": "Contents",
+      "preferredVariantId": "v-0c907a343d",
+      "variants": [
+        {
+          "id": "v-0c907a343d",
+          "answer": "Malleus, incus, stapes, tensor tympani, stapedius, chorda tympani and related nerves/vessels.",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-123",
+              "sourceLine": 123
+            }
+          ]
+        },
+        {
+          "id": "v-ca39732c82",
+          "answer": "Malleus, incus, stapes, tensor tympani, stapedius, chorda tympani and related vessels/nerves.",
+          "sources": [
+            {
+              "modelId": "ear-model-ds3",
+              "cardId": "ear-model-ds3-25",
+              "sourceLine": 25
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-8f3509b64e",
+      "question": "Connections",
+      "preferredVariantId": "v-d9d997d0ee",
+      "variants": [
+        {
+          "id": "v-d9d997d0ee",
+          "answer": "Communicates anteriorly with the pharyngotympanic tube and posteriorly with mastoid air cells via the mastoid antrum.",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-124",
+              "sourceLine": 124
+            },
+            {
+              "modelId": "ear-model-ds3",
+              "cardId": "ear-model-ds3-26",
+              "sourceLine": 26
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "ear-largest-model-ds1",
+      "section": "C. Middle ear",
+      "path": [
+        "22"
+      ],
+      "label": "22"
+    },
+    {
+      "modelId": "ear-model-ds3",
+      "section": "B. Middle ear",
+      "path": [
+        "4"
+      ],
+      "label": "4"
+    }
+  ]
+}

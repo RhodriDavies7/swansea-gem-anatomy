@@ -1,0 +1,89 @@
+{
+  "id": "occipital-sinus-842a71dfc6",
+  "name": "Occipital sinus",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Veins"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Cardiovascular"
+  ],
+  "organs": [],
+  "tags": [
+    "Drainage",
+    "Location",
+    "VenousSinus"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-9d8166b764",
+      "variants": [
+        {
+          "id": "v-9d8166b764",
+          "answer": "Occipital sinus",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-39",
+              "sourceLine": 39
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-bc76aa69ca",
+      "variants": [
+        {
+          "id": "v-bc76aa69ca",
+          "answer": "Runs in the attached margin of the falx cerebelli along the internal occipital crest.",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-40",
+              "sourceLine": 40
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-74a64b1943",
+      "question": "Drainage",
+      "preferredVariantId": "v-eca0b77753",
+      "variants": [
+        {
+          "id": "v-eca0b77753",
+          "answer": "Communicates superiorly with the confluence of sinuses and inferiorly with the marginal sinus/internal vertebral venous plexus.",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-41",
+              "sourceLine": 41
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "cranial-floor-model-bs1",
+      "section": "",
+      "path": [
+        "7"
+      ],
+      "label": "7"
+    }
+  ]
+}

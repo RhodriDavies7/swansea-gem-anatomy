@@ -1,0 +1,127 @@
+{
+  "id": "radial-collateral-artery-2163466876",
+  "name": "Radial collateral artery",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Arteries"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [
+    "Cardiovascular"
+  ],
+  "organs": [],
+  "tags": [
+    "Artery",
+    "Course",
+    "Origin",
+    "Relations",
+    "Supply"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-c4c93a0a48",
+      "variants": [
+        {
+          "id": "v-c4c93a0a48",
+          "answer": "Radial collateral artery",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-327",
+              "sourceLine": 327
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-095223228f",
+      "variants": [
+        {
+          "id": "v-095223228f",
+          "answer": "Terminal branch of profunda brachii artery.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-328",
+              "sourceLine": 328
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-1e291fef1f",
+      "variants": [
+        {
+          "id": "v-1e291fef1f",
+          "answer": "Descends toward lateral epicondyle, often accompanying radial nerve anterior to lateral epicondyle.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-329",
+              "sourceLine": 329
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-222db0fc1c",
+      "question": "Supply",
+      "preferredVariantId": "v-e47365a55e",
+      "variants": [
+        {
+          "id": "v-e47365a55e",
+          "answer": "Lateral elbow and adjacent muscles.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-330",
+              "sourceLine": 330
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-7aecfc1570",
+      "variants": [
+        {
+          "id": "v-7aecfc1570",
+          "answer": "Anastomoses with radial recurrent artery.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-331",
+              "sourceLine": 331
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "upper-limb-model-ns15",
+      "section": "Arteries",
+      "path": [
+        "53"
+      ],
+      "label": "53"
+    }
+  ]
+}

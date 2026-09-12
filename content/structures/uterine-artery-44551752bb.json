@@ -1,0 +1,109 @@
+{
+  "id": "uterine-artery-44551752bb",
+  "name": "Uterine artery",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Arteries"
+  ],
+  "regions": [
+    "Pelvis"
+  ],
+  "systems": [
+    "Cardiovascular",
+    "Reproductive"
+  ],
+  "organs": [],
+  "tags": [
+    "Artery",
+    "Course",
+    "Origin",
+    "Supply"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-d9e34b13f5",
+      "variants": [
+        {
+          "id": "v-d9e34b13f5",
+          "answer": "Uterine artery",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-258",
+              "sourceLine": 258
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-9523de79d2",
+      "variants": [
+        {
+          "id": "v-9523de79d2",
+          "answer": "Anterior division of internal iliac artery.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-259",
+              "sourceLine": 259
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-5f6b0b9309",
+      "variants": [
+        {
+          "id": "v-5f6b0b9309",
+          "answer": "Runs medially in base of broad ligament, crosses superior to ureter, then ascends along uterus.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-260",
+              "sourceLine": 260
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-222db0fc1c",
+      "question": "Supply",
+      "preferredVariantId": "v-064ca46478",
+      "variants": [
+        {
+          "id": "v-064ca46478",
+          "answer": "Uterus, cervix, upper vagina and uterine tube via branches.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-261",
+              "sourceLine": 261
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "female-pelvis-model-mo8",
+      "section": "",
+      "path": [
+        "40"
+      ],
+      "label": "40"
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "id": "trigeminal-ganglion-d912bbf423",
+  "name": "Trigeminal ganglion",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Nerves"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [],
+  "tags": [
+    "Branches",
+    "Function",
+    "Ganglion",
+    "Location"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-ce93dc9faa",
+      "variants": [
+        {
+          "id": "v-ce93dc9faa",
+          "answer": "Trigeminal ganglion",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-180",
+              "sourceLine": 180
+            },
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-157",
+              "sourceLine": 157
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-2a1c44fcba",
+      "variants": [
+        {
+          "id": "v-2a1c44fcba",
+          "answer": "Lies in Meckel's cave near the apex of the petrous temporal bone.",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-181",
+              "sourceLine": 181
+            },
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-158",
+              "sourceLine": 158
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-cff5e9e2b2",
+      "variants": [
+        {
+          "id": "v-cff5e9e2b2",
+          "answer": "Contains sensory neuron cell bodies of the trigeminal nerve.",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-182",
+              "sourceLine": 182
+            },
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-159",
+              "sourceLine": 159
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f578227926",
+      "question": "Branches",
+      "preferredVariantId": "v-7a3c004a42",
+      "variants": [
+        {
+          "id": "v-7a3c004a42",
+          "answer": "Gives rise to ophthalmic (V1), maxillary (V2) and mandibular (V3) divisions.",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-183",
+              "sourceLine": 183
+            },
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-160",
+              "sourceLine": 160
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "cranial-floor-model-bs1",
+      "section": "",
+      "path": [
+        "29"
+      ],
+      "label": "29"
+    },
+    {
+      "modelId": "deep-face-model-bs8-1",
+      "section": "",
+      "path": [
+        "25"
+      ],
+      "label": "25"
+    }
+  ]
+}

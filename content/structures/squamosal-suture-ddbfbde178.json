@@ -1,0 +1,88 @@
+{
+  "id": "squamosal-suture-ddbfbde178",
+  "name": "Squamosal suture",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [],
+  "organs": [],
+  "tags": [
+    "HeadNeck",
+    "Location",
+    "Structure",
+    "Suture"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-6037297a57",
+      "variants": [
+        {
+          "id": "v-6037297a57",
+          "answer": "Squamosal suture",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-65",
+              "sourceLine": 65
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-db9df36d1f",
+      "variants": [
+        {
+          "id": "v-db9df36d1f",
+          "answer": "Between parietal bone and squamous temporal bone.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-66",
+              "sourceLine": 66
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-309f5350fc",
+      "variants": [
+        {
+          "id": "v-309f5350fc",
+          "answer": "Fibrous skull joint.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-67",
+              "sourceLine": 67
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "head-and-neck-model-cs17-2",
+      "section": "Bony structures, foramina and ear structures",
+      "path": [
+        "13"
+      ],
+      "label": "13"
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "id": "iris-a728d5db2d",
+  "name": "Iris",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [],
+  "organs": [
+    "Eye"
+  ],
+  "tags": [
+    "Eye",
+    "EyeStructure",
+    "Function",
+    "Innervation",
+    "Structure"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-422505a418",
+      "variants": [
+        {
+          "id": "v-422505a418",
+          "answer": "Iris",
+          "sources": [
+            {
+              "modelId": "eyeball-with-part-of-orbit-model-cs2",
+              "cardId": "eyeball-with-part-of-orbit-model-cs2-66",
+              "sourceLine": 66
+            },
+            {
+              "modelId": "eyeball-model-cs7",
+              "cardId": "eyeball-model-cs7-63",
+              "sourceLine": 63
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-4ff7caf3b1",
+      "variants": [
+        {
+          "id": "v-4ff7caf3b1",
+          "answer": "Pigmented contractile diaphragm anterior to the lens with a central opening, the pupil.",
+          "sources": [
+            {
+              "modelId": "eyeball-with-part-of-orbit-model-cs2",
+              "cardId": "eyeball-with-part-of-orbit-model-cs2-67",
+              "sourceLine": 67
+            },
+            {
+              "modelId": "eyeball-model-cs7",
+              "cardId": "eyeball-model-cs7-64",
+              "sourceLine": 64
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-94e3242667",
+      "variants": [
+        {
+          "id": "v-94e3242667",
+          "answer": "Regulates the amount of light entering the eye by changing pupil diameter.",
+          "sources": [
+            {
+              "modelId": "eyeball-with-part-of-orbit-model-cs2",
+              "cardId": "eyeball-with-part-of-orbit-model-cs2-68",
+              "sourceLine": 68
+            },
+            {
+              "modelId": "eyeball-model-cs7",
+              "cardId": "eyeball-model-cs7-65",
+              "sourceLine": 65
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-f36165103a",
+      "variants": [
+        {
+          "id": "v-f36165103a",
+          "answer": "Parasympathetic fibres constrict the pupil via sphincter pupillae; sympathetic fibres dilate it via dilator pupillae.",
+          "sources": [
+            {
+              "modelId": "eyeball-with-part-of-orbit-model-cs2",
+              "cardId": "eyeball-with-part-of-orbit-model-cs2-69",
+              "sourceLine": 69
+            },
+            {
+              "modelId": "eyeball-model-cs7",
+              "cardId": "eyeball-model-cs7-66",
+              "sourceLine": 66
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "eyeball-with-part-of-orbit-model-cs2",
+      "section": "Eye",
+      "path": [
+        "10"
+      ],
+      "label": "10"
+    },
+    {
+      "modelId": "eyeball-model-cs7",
+      "section": "",
+      "path": [
+        "10"
+      ],
+      "label": "10"
+    }
+  ]
+}

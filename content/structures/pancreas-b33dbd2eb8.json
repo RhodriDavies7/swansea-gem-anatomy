@@ -1,0 +1,149 @@
+{
+  "id": "pancreas-b33dbd2eb8",
+  "name": "Pancreas",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Organs"
+  ],
+  "regions": [
+    "Abdomen"
+  ],
+  "systems": [
+    "Digestive"
+  ],
+  "organs": [
+    "Pancreas"
+  ],
+  "tags": [
+    "BloodSupply",
+    "Function",
+    "Location",
+    "MajorOrgans",
+    "Organ",
+    "Parts",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-fa21863f12",
+      "variants": [
+        {
+          "id": "v-fa21863f12",
+          "answer": "Pancreas",
+          "sources": [
+            {
+              "modelId": "pancreas-model-js11",
+              "cardId": "pancreas-model-js11-3",
+              "sourceLine": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-e1b76e8b15",
+      "variants": [
+        {
+          "id": "v-e1b76e8b15",
+          "answer": "Retroperitoneal organ extending transversely from the duodenum toward the spleen.",
+          "sources": [
+            {
+              "modelId": "pancreas-model-js11",
+              "cardId": "pancreas-model-js11-4",
+              "sourceLine": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-e374280917",
+      "question": "Parts",
+      "preferredVariantId": "v-d7e9de96f3",
+      "variants": [
+        {
+          "id": "v-d7e9de96f3",
+          "answer": "Head, uncinate process, neck, body and tail.",
+          "sources": [
+            {
+              "modelId": "pancreas-model-js11",
+              "cardId": "pancreas-model-js11-5",
+              "sourceLine": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-1b5a3a272e",
+      "variants": [
+        {
+          "id": "v-1b5a3a272e",
+          "answer": "Exocrine secretion of digestive enzymes and bicarbonate; endocrine secretion including insulin and glucagon.",
+          "sources": [
+            {
+              "modelId": "pancreas-model-js11",
+              "cardId": "pancreas-model-js11-6",
+              "sourceLine": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-a707f7e176",
+      "question": "Blood supply",
+      "preferredVariantId": "v-e51e89e426",
+      "variants": [
+        {
+          "id": "v-e51e89e426",
+          "answer": "Mainly pancreatic branches of splenic artery and superior/inferior pancreaticoduodenal arteries.",
+          "sources": [
+            {
+              "modelId": "pancreas-model-js11",
+              "cardId": "pancreas-model-js11-7",
+              "sourceLine": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-543739b9f8",
+      "variants": [
+        {
+          "id": "v-543739b9f8",
+          "answer": "Head lies within the C-shaped duodenum; tail approaches the splenic hilum.",
+          "sources": [
+            {
+              "modelId": "pancreas-model-js11",
+              "cardId": "pancreas-model-js11-8",
+              "sourceLine": 8
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "pancreas-model-js11",
+      "section": "Major organs",
+      "path": [
+        "A"
+      ],
+      "label": "A"
+    }
+  ]
+}

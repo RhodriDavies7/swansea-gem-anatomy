@@ -1,0 +1,164 @@
+{
+  "id": "common-palmar-digital-nerve-b4039fd947",
+  "name": "Common palmar digital nerves (median nerve)",
+  "aliases": [
+    "Common palmar digital nerve"
+  ],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Nerves"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [],
+  "tags": [
+    "Course",
+    "Lesion",
+    "Motor",
+    "Nerve",
+    "Roots",
+    "Sensory"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "curated-6aa582dfa7",
+      "variants": [
+        {
+          "id": "v-458091df43",
+          "answer": "Common palmar digital nerve",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-463",
+              "sourceLine": 463
+            }
+          ]
+        },
+        {
+          "id": "curated-6aa582dfa7",
+          "answer": "Common palmar digital nerves (median nerve)",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-463",
+              "sourceLine": 463
+            }
+          ],
+          "editorial": true
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-4d78ec7d11",
+      "question": "Roots",
+      "preferredVariantId": "v-77573386e3",
+      "variants": [
+        {
+          "id": "v-77573386e3",
+          "answer": "Branches of median nerve in the palm.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-464",
+              "sourceLine": 464
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-f167836a2c",
+      "variants": [
+        {
+          "id": "v-f167836a2c",
+          "answer": "Run distally in palm toward interdigital clefts, superficial to flexor tendons.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-465",
+              "sourceLine": 465
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c8b6915183",
+      "question": "Motor functions",
+      "preferredVariantId": "v-e4c791ecd2",
+      "variants": [
+        {
+          "id": "v-e4c791ecd2",
+          "answer": "Some median common digital branches may carry motor fibres to first/second lumbricals before terminal sensory division.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-466",
+              "sourceLine": 466
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-a453254382",
+      "question": "Sensory functions",
+      "preferredVariantId": "v-91beb80afe",
+      "variants": [
+        {
+          "id": "v-91beb80afe",
+          "answer": "Divide into proper palmar digital nerves supplying adjacent sides of lateral digits.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-467",
+              "sourceLine": 467
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-bc53d10c57",
+      "question": "Lesion",
+      "preferredVariantId": "v-e93f400b11",
+      "variants": [
+        {
+          "id": "v-e93f400b11",
+          "answer": "Injury produces sensory loss in adjacent digital territories and may affect associated lumbrical branch depending on level.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-468",
+              "sourceLine": 468
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "upper-limb-model-ns15",
+      "section": "Nerves",
+      "path": [
+        "73"
+      ],
+      "label": "73"
+    }
+  ]
+}

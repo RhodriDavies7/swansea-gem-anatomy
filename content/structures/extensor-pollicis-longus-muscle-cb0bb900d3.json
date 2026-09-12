@@ -1,0 +1,128 @@
+{
+  "id": "extensor-pollicis-longus-muscle-cb0bb900d3",
+  "name": "Extensor pollicis longus muscle",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "MusclesAndTendons",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-687cf66494",
+      "variants": [
+        {
+          "id": "v-687cf66494",
+          "answer": "Extensor pollicis longus muscle",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-45",
+              "sourceLine": 45
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-0249a3777f",
+      "variants": [
+        {
+          "id": "v-0249a3777f",
+          "answer": "Extends the thumb at interphalangeal and metacarpophalangeal joints; assists extension at carpometacarpal joint.",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-46",
+              "sourceLine": 46
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-6f015ae0cc",
+      "variants": [
+        {
+          "id": "v-6f015ae0cc",
+          "answer": "Posterior interosseous nerve (C7–C8).",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-47",
+              "sourceLine": 47
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-676e15e827",
+      "variants": [
+        {
+          "id": "v-676e15e827",
+          "answer": "Posterior middle ulna and interosseous membrane.",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-48",
+              "sourceLine": 48
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-19c1195393",
+      "variants": [
+        {
+          "id": "v-19c1195393",
+          "answer": "Base of distal phalanx of thumb.",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-49",
+              "sourceLine": 49
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "hand-model-ns13",
+      "section": "Muscles, tendons and pulleys",
+      "path": [
+        "c"
+      ],
+      "label": "c"
+    }
+  ]
+}

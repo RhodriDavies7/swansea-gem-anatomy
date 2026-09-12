@@ -1,0 +1,182 @@
+{
+  "id": "nasalis-muscle-ec63c20f1b",
+  "name": "Nasalis muscle",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "HeadNeck",
+    "HeadNeckMuscles",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-7a3801cbce",
+      "variants": [
+        {
+          "id": "v-7a3801cbce",
+          "answer": "Nasalis muscle",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-421",
+              "sourceLine": 421
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-167",
+              "sourceLine": 167
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-3e6be8db57",
+      "variants": [
+        {
+          "id": "v-3e6be8db57",
+          "answer": "Compresses or dilates the nasal aperture depending on part.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-422",
+              "sourceLine": 422
+            }
+          ]
+        },
+        {
+          "id": "v-25cb4ca6ac",
+          "answer": "Compresses or dilates nostrils depending on part.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-168",
+              "sourceLine": 168
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-6ed4bfb505",
+      "variants": [
+        {
+          "id": "v-6ed4bfb505",
+          "answer": "Facial nerve (CN VII).",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-423",
+              "sourceLine": 423
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-169",
+              "sourceLine": 169
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-a515bb665c",
+      "variants": [
+        {
+          "id": "v-a515bb665c",
+          "answer": "Maxilla.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-424",
+              "sourceLine": 424
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-170",
+              "sourceLine": 170
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-9e4db91c6c",
+      "variants": [
+        {
+          "id": "v-9e4db91c6c",
+          "answer": "Nasal cartilage and aponeurosis over bridge.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-425",
+              "sourceLine": 425
+            }
+          ]
+        },
+        {
+          "id": "v-01196a2d22",
+          "answer": "Nasal cartilages/aponeurosis.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-171",
+              "sourceLine": 171
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "half-head-and-neck-model-bs9",
+      "section": "Musculature of the head and neck",
+      "path": [
+        "28"
+      ],
+      "label": "28"
+    },
+    {
+      "modelId": "head-and-neck-model-cs17-2",
+      "section": "Musculature of the head and neck",
+      "path": [
+        "30"
+      ],
+      "label": "30"
+    }
+  ]
+}

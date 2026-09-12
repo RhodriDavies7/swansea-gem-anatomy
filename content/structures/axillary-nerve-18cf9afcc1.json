@@ -1,0 +1,146 @@
+{
+  "id": "axillary-nerve-18cf9afcc1",
+  "name": "Axillary nerve",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Nerves"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [],
+  "tags": [
+    "Course",
+    "Lesion",
+    "Motor",
+    "Nerve",
+    "Roots",
+    "Sensory"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-3486284e5b",
+      "variants": [
+        {
+          "id": "v-3486284e5b",
+          "answer": "Axillary nerve",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-428",
+              "sourceLine": 428
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-4d78ec7d11",
+      "question": "Roots",
+      "preferredVariantId": "v-f3a51b189a",
+      "variants": [
+        {
+          "id": "v-f3a51b189a",
+          "answer": "C5–C6 from posterior cord of brachial plexus.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-429",
+              "sourceLine": 429
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-e118cac79c",
+      "variants": [
+        {
+          "id": "v-e118cac79c",
+          "answer": "Passes through quadrangular space with posterior circumflex humeral artery, then winds around surgical neck of humerus deep to deltoid.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-430",
+              "sourceLine": 430
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c8b6915183",
+      "question": "Motor functions",
+      "preferredVariantId": "v-4201cca173",
+      "variants": [
+        {
+          "id": "v-4201cca173",
+          "answer": "Deltoid and teres minor.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-431",
+              "sourceLine": 431
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-a453254382",
+      "question": "Sensory functions",
+      "preferredVariantId": "v-c66ca5bcdc",
+      "variants": [
+        {
+          "id": "v-c66ca5bcdc",
+          "answer": "Skin over superolateral arm via superior lateral cutaneous nerve of arm; articular branch to shoulder.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-432",
+              "sourceLine": 432
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-bc53d10c57",
+      "question": "Lesion",
+      "preferredVariantId": "v-6437d235ee",
+      "variants": [
+        {
+          "id": "v-6437d235ee",
+          "answer": "Weak arm abduction beyond ~15°, deltoid wasting and numbness over regimental-badge area; vulnerable in surgical-neck fractures and anterior shoulder dislocation.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-433",
+              "sourceLine": 433
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "upper-limb-model-ns15",
+      "section": "Nerves",
+      "path": [
+        "68"
+      ],
+      "label": "68"
+    }
+  ]
+}

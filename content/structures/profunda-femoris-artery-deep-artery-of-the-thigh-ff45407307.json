@@ -1,0 +1,146 @@
+{
+  "id": "profunda-femoris-artery-deep-artery-of-the-thigh-ff45407307",
+  "name": "Profunda femoris artery (deep artery of the thigh)",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Arteries"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Cardiovascular"
+  ],
+  "organs": [],
+  "tags": [
+    "Artery",
+    "Branches",
+    "Course",
+    "Origin",
+    "Relations",
+    "Supply"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-3bc9637957",
+      "variants": [
+        {
+          "id": "v-3bc9637957",
+          "answer": "Profunda femoris artery (deep artery of the thigh)",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-357",
+              "sourceLine": 357
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-4e2822bd0a",
+      "variants": [
+        {
+          "id": "v-4e2822bd0a",
+          "answer": "Usually posterolateral femoral artery a few centimetres below inguinal ligament.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-358",
+              "sourceLine": 358
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-1c524b929a",
+      "variants": [
+        {
+          "id": "v-1c524b929a",
+          "answer": "Passes deep to adductor longus, descending close to femur between adductor muscles.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-359",
+              "sourceLine": 359
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f578227926",
+      "question": "Branches",
+      "preferredVariantId": "v-364cbbecbc",
+      "variants": [
+        {
+          "id": "v-364cbbecbc",
+          "answer": "Medial and lateral circumflex femoral arteries; usually three perforating branches, with terminal continuation often counted as fourth.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-360",
+              "sourceLine": 360
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-222db0fc1c",
+      "question": "Supply",
+      "preferredVariantId": "v-d8773fb439",
+      "variants": [
+        {
+          "id": "v-d8773fb439",
+          "answer": "Major deep supply to thigh muscles and femur.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-361",
+              "sourceLine": 361
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-cf79dbae0d",
+      "variants": [
+        {
+          "id": "v-cf79dbae0d",
+          "answer": "Lies posterior to adductor longus; perforating branches pierce adductor magnus.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-362",
+              "sourceLine": 362
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "lower-limb-model-ns10",
+      "section": "Blood vessels",
+      "path": [
+        "46"
+      ],
+      "label": "46"
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "id": "ischiofemoral-ligament-9984885a1c",
+  "name": "Ischiofemoral ligament",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Ligaments"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Attachments",
+    "Function",
+    "Ligament",
+    "LigamentsAndJoint",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-b143026b20",
+      "variants": [
+        {
+          "id": "v-b143026b20",
+          "answer": "Ischiofemoral ligament",
+          "sources": [
+            {
+              "modelId": "hip-joint-model-ns20",
+              "cardId": "hip-joint-model-ns20-48",
+              "sourceLine": 48
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6771ade6e8",
+      "question": "Attachments",
+      "preferredVariantId": "v-85111e1e69",
+      "variants": [
+        {
+          "id": "v-85111e1e69",
+          "answer": "From ischial part of acetabular rim to posterior femoral neck/greater trochanter region.",
+          "sources": [
+            {
+              "modelId": "hip-joint-model-ns20",
+              "cardId": "hip-joint-model-ns20-49",
+              "sourceLine": 49
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-f5a8d2379d",
+      "variants": [
+        {
+          "id": "v-f5a8d2379d",
+          "answer": "Reinforces posterior capsule and limits extension and internal rotation.",
+          "sources": [
+            {
+              "modelId": "hip-joint-model-ns20",
+              "cardId": "hip-joint-model-ns20-50",
+              "sourceLine": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-43509db8ab",
+      "variants": [
+        {
+          "id": "v-43509db8ab",
+          "answer": "Fibres spiral superolaterally around the femoral neck.",
+          "sources": [
+            {
+              "modelId": "hip-joint-model-ns20",
+              "cardId": "hip-joint-model-ns20-51",
+              "sourceLine": 51
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "hip-joint-model-ns20",
+      "section": "Ligaments and joint structures",
+      "path": [
+        "4"
+      ],
+      "label": "4"
+    }
+  ]
+}

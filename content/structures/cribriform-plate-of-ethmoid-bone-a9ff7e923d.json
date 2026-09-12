@@ -1,0 +1,109 @@
+{
+  "id": "cribriform-plate-of-ethmoid-bone-a9ff7e923d",
+  "name": "Cribriform plate of ethmoid bone",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Bones"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Bone",
+    "BonyLandmark",
+    "Clinical",
+    "Contents",
+    "HeadNeck"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-1ba931f133",
+      "variants": [
+        {
+          "id": "v-1ba931f133",
+          "answer": "Cribriform plate of ethmoid bone",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-34",
+              "sourceLine": 34
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-bcf605d6bb",
+      "question": "Bone",
+      "preferredVariantId": "v-647936585d",
+      "variants": [
+        {
+          "id": "v-647936585d",
+          "answer": "Part of ethmoid bone.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-35",
+              "sourceLine": 35
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f5cbdf6bfb",
+      "question": "Contents",
+      "preferredVariantId": "v-7b7ce5d16a",
+      "variants": [
+        {
+          "id": "v-7b7ce5d16a",
+          "answer": "Perforated by olfactory nerve filaments (CN I).",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-36",
+              "sourceLine": 36
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-b03737e3cd",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-ec3f16d3c4",
+      "variants": [
+        {
+          "id": "v-ec3f16d3c4",
+          "answer": "Fracture may cause anosmia and CSF rhinorrhoea.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-37",
+              "sourceLine": 37
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "head-and-neck-model-cs17-2",
+      "section": "Bony structures, foramina and ear structures",
+      "path": [
+        "7"
+      ],
+      "label": "7"
+    }
+  ]
+}

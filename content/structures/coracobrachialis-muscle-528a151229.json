@@ -1,0 +1,109 @@
+{
+  "id": "coracobrachialis-muscle-528a151229",
+  "name": "Coracobrachialis muscle",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "AttachmentSite",
+    "Attachments",
+    "Innervation",
+    "Muscle"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-47bf8f2ab4",
+      "variants": [
+        {
+          "id": "v-47bf8f2ab4",
+          "answer": "Coracobrachialis muscle",
+          "sources": [
+            {
+              "modelId": "rotator-cuff-qs55-6",
+              "cardId": "rotator-cuff-qs55-6-58",
+              "sourceLine": 58
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-531c9dad58",
+      "question": "Attachment on model",
+      "preferredVariantId": "v-8536944fcf",
+      "variants": [
+        {
+          "id": "v-8536944fcf",
+          "answer": "Origin from coracoid process; inserts on middle third of medial humerus.",
+          "sources": [
+            {
+              "modelId": "rotator-cuff-qs55-6",
+              "cardId": "rotator-cuff-qs55-6-59",
+              "sourceLine": 59
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-714fba185f",
+      "variants": [
+        {
+          "id": "v-714fba185f",
+          "answer": "Flexes and adducts arm; helps stabilise shoulder.",
+          "sources": [
+            {
+              "modelId": "rotator-cuff-qs55-6",
+              "cardId": "rotator-cuff-qs55-6-60",
+              "sourceLine": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-4f8b189057",
+      "variants": [
+        {
+          "id": "v-4f8b189057",
+          "answer": "Musculocutaneous nerve (C5–C7).",
+          "sources": [
+            {
+              "modelId": "rotator-cuff-qs55-6",
+              "cardId": "rotator-cuff-qs55-6-61",
+              "sourceLine": 61
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "rotator-cuff-qs55-6",
+      "section": "Muscle attachment sites",
+      "path": [
+        "10"
+      ],
+      "label": "10"
+    }
+  ]
+}

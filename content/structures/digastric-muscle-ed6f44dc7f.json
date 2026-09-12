@@ -1,0 +1,254 @@
+{
+  "id": "digastric-muscle-ed6f44dc7f",
+  "name": "Digastric muscle",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "Coronal",
+    "HeadNeck",
+    "HeadNeckMuscles",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-398e050ae5",
+      "variants": [
+        {
+          "id": "v-398e050ae5",
+          "answer": "Digastric muscle",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-153",
+              "sourceLine": 153
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-533",
+              "sourceLine": 533
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-300",
+              "sourceLine": 300
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-910d280ada",
+      "variants": [
+        {
+          "id": "v-910d280ada",
+          "answer": "Elevates hyoid during swallowing; with hyoid fixed, assists depression of mandible.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-154",
+              "sourceLine": 154
+            }
+          ]
+        },
+        {
+          "id": "v-9af39fb82a",
+          "answer": "Elevates hyoid during swallowing; with hyoid fixed, depresses mandible.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-534",
+              "sourceLine": 534
+            }
+          ]
+        },
+        {
+          "id": "v-8072734726",
+          "answer": "Elevates hyoid and assists mandibular depression.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-301",
+              "sourceLine": 301
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-2fbd0c2c72",
+      "variants": [
+        {
+          "id": "v-2fbd0c2c72",
+          "answer": "Anterior belly: nerve to mylohyoid (V3). Posterior belly: digastric branch of facial nerve (CN VII).",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-155",
+              "sourceLine": 155
+            }
+          ]
+        },
+        {
+          "id": "v-f5e08de791",
+          "answer": "Anterior belly: nerve to mylohyoid (V3); posterior belly: facial nerve (CN VII).",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-535",
+              "sourceLine": 535
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-302",
+              "sourceLine": 302
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-8b9db3ac77",
+      "variants": [
+        {
+          "id": "v-8b9db3ac77",
+          "answer": "Anterior belly: digastric fossa of mandible. Posterior belly: mastoid notch of temporal bone.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-156",
+              "sourceLine": 156
+            }
+          ]
+        },
+        {
+          "id": "v-573c9aa99f",
+          "answer": "Anterior belly: digastric fossa; posterior belly: mastoid notch.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-536",
+              "sourceLine": 536
+            }
+          ]
+        },
+        {
+          "id": "v-a9b9bb5ce2",
+          "answer": "Digastric fossa and mastoid notch.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-303",
+              "sourceLine": 303
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-014cf5627a",
+      "variants": [
+        {
+          "id": "v-014cf5627a",
+          "answer": "Intermediate tendon anchored to hyoid by fascial sling.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-157",
+              "sourceLine": 157
+            }
+          ]
+        },
+        {
+          "id": "v-fa4f54184b",
+          "answer": "Intermediate tendon anchored to hyoid.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-537",
+              "sourceLine": 537
+            }
+          ]
+        },
+        {
+          "id": "v-43bed171f2",
+          "answer": "Intermediate tendon attached to hyoid.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-304",
+              "sourceLine": 304
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "coronal-and-mid-sagittal-head-mb20",
+      "section": "Coronal head",
+      "path": [
+        "29"
+      ],
+      "label": "29"
+    },
+    {
+      "modelId": "half-head-and-neck-model-bs9",
+      "section": "Musculature of the head and neck",
+      "path": [
+        "44"
+      ],
+      "label": "44"
+    },
+    {
+      "modelId": "head-and-neck-model-cs17-2",
+      "section": "Musculature of the head and neck",
+      "path": [
+        "49"
+      ],
+      "label": "49"
+    }
+  ]
+}

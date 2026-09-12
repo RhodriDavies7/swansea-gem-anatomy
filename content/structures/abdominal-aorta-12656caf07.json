@@ -1,0 +1,110 @@
+{
+  "id": "abdominal-aorta-12656caf07",
+  "name": "Abdominal aorta",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Arteries"
+  ],
+  "regions": [
+    "Abdomen"
+  ],
+  "systems": [
+    "Cardiovascular",
+    "Urinary"
+  ],
+  "organs": [],
+  "tags": [
+    "Artery",
+    "Branches",
+    "Course",
+    "MajorVesselsAndGlands",
+    "Termination"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-4aec476882",
+      "variants": [
+        {
+          "id": "v-4aec476882",
+          "answer": "Abdominal aorta",
+          "sources": [
+            {
+              "modelId": "urinary-system-model-ls3-1",
+              "cardId": "urinary-system-model-ls3-1-86",
+              "sourceLine": 86
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-33de49ccb9",
+      "variants": [
+        {
+          "id": "v-33de49ccb9",
+          "answer": "Continuation of thoracic aorta after passing through the aortic hiatus at T12; descends anterior to vertebral bodies.",
+          "sources": [
+            {
+              "modelId": "urinary-system-model-ls3-1",
+              "cardId": "urinary-system-model-ls3-1-87",
+              "sourceLine": 87
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f578227926",
+      "question": "Branches",
+      "preferredVariantId": "v-477f54f8dd",
+      "variants": [
+        {
+          "id": "v-477f54f8dd",
+          "answer": "Major branches include coeliac trunk, superior mesenteric, renal, gonadal and inferior mesenteric arteries.",
+          "sources": [
+            {
+              "modelId": "urinary-system-model-ls3-1",
+              "cardId": "urinary-system-model-ls3-1-88",
+              "sourceLine": 88
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-2ee8521886",
+      "question": "Termination",
+      "preferredVariantId": "v-0b691de4f8",
+      "variants": [
+        {
+          "id": "v-0b691de4f8",
+          "answer": "Bifurcates into common iliac arteries around L4.",
+          "sources": [
+            {
+              "modelId": "urinary-system-model-ls3-1",
+              "cardId": "urinary-system-model-ls3-1-89",
+              "sourceLine": 89
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "urinary-system-model-ls3-1",
+      "section": "Suprarenal gland and major vessels",
+      "path": [
+        "10"
+      ],
+      "label": "10"
+    }
+  ]
+}

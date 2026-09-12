@@ -1,0 +1,128 @@
+{
+  "id": "vastus-intermedius-82a7a0fcd1",
+  "name": "Vastus intermedius",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-7b2f0fa74c",
+      "variants": [
+        {
+          "id": "v-7b2f0fa74c",
+          "answer": "Vastus intermedius",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-93",
+              "sourceLine": 93
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-31573c2f5f",
+      "variants": [
+        {
+          "id": "v-31573c2f5f",
+          "answer": "Extends the knee.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-94",
+              "sourceLine": 94
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-14dac355e2",
+      "variants": [
+        {
+          "id": "v-14dac355e2",
+          "answer": "Femoral nerve (L2–L4).",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-95",
+              "sourceLine": 95
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-d114dfd23c",
+      "variants": [
+        {
+          "id": "v-d114dfd23c",
+          "answer": "Anterior and lateral surfaces of proximal two-thirds of femoral shaft.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-96",
+              "sourceLine": 96
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-c9c8c4146e",
+      "variants": [
+        {
+          "id": "v-c9c8c4146e",
+          "answer": "Patella via quadriceps tendon; tibial tuberosity via patellar ligament.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-97",
+              "sourceLine": 97
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "lower-limb-model-ns10",
+      "section": "Muscles",
+      "path": [
+        "11",
+        "11d"
+      ],
+      "label": "11d"
+    }
+  ]
+}

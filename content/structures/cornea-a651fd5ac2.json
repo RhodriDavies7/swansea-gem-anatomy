@@ -1,0 +1,156 @@
+{
+  "id": "cornea-a651fd5ac2",
+  "name": "Cornea",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [],
+  "organs": [
+    "Eye"
+  ],
+  "tags": [
+    "Eye",
+    "EyeLayer",
+    "Function",
+    "Innervation",
+    "ModelNote",
+    "Structure"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-bdd6feedaf",
+      "variants": [
+        {
+          "id": "v-bdd6feedaf",
+          "answer": "Cornea",
+          "sources": [
+            {
+              "modelId": "eyeball-with-part-of-orbit-model-cs2",
+              "cardId": "eyeball-with-part-of-orbit-model-cs2-54",
+              "sourceLine": 54
+            },
+            {
+              "modelId": "eyeball-model-cs7",
+              "cardId": "eyeball-model-cs7-50",
+              "sourceLine": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-7041e630b9",
+      "variants": [
+        {
+          "id": "v-7041e630b9",
+          "answer": "Transparent avascular anterior part of the fibrous coat of the eye.",
+          "sources": [
+            {
+              "modelId": "eyeball-with-part-of-orbit-model-cs2",
+              "cardId": "eyeball-with-part-of-orbit-model-cs2-55",
+              "sourceLine": 55
+            },
+            {
+              "modelId": "eyeball-model-cs7",
+              "cardId": "eyeball-model-cs7-51",
+              "sourceLine": 51
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-61c1430814",
+      "variants": [
+        {
+          "id": "v-61c1430814",
+          "answer": "Provides most of the eye's refractive power and transmits light into the anterior chamber.",
+          "sources": [
+            {
+              "modelId": "eyeball-with-part-of-orbit-model-cs2",
+              "cardId": "eyeball-with-part-of-orbit-model-cs2-56",
+              "sourceLine": 56
+            },
+            {
+              "modelId": "eyeball-model-cs7",
+              "cardId": "eyeball-model-cs7-52",
+              "sourceLine": 52
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-564e3a9dce",
+      "variants": [
+        {
+          "id": "v-564e3a9dce",
+          "answer": "Sensory innervation mainly via long ciliary nerves from nasociliary nerve (V1).",
+          "sources": [
+            {
+              "modelId": "eyeball-with-part-of-orbit-model-cs2",
+              "cardId": "eyeball-with-part-of-orbit-model-cs2-57",
+              "sourceLine": 57
+            },
+            {
+              "modelId": "eyeball-model-cs7",
+              "cardId": "eyeball-model-cs7-53",
+              "sourceLine": 53
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-2c924e3088",
+      "question": "Note",
+      "preferredVariantId": "v-b66778f577",
+      "variants": [
+        {
+          "id": "v-b66778f577",
+          "answer": "Unlabelled on this model.",
+          "sources": [
+            {
+              "modelId": "eyeball-model-cs7",
+              "cardId": "eyeball-model-cs7-54",
+              "sourceLine": 54
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "eyeball-with-part-of-orbit-model-cs2",
+      "section": "Eye",
+      "path": [
+        "8"
+      ],
+      "label": "8"
+    },
+    {
+      "modelId": "eyeball-model-cs7",
+      "section": "",
+      "path": [
+        "8"
+      ],
+      "label": "8"
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "id": "vagus-nerve-3ddb1f4ea9",
+  "name": "Vagus nerve",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Nerves"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [],
+  "tags": [
+    "Course",
+    "Lesion",
+    "ModelNote",
+    "Motor",
+    "Nerve",
+    "Parasympathetic",
+    "Roots",
+    "Sensory"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-ebb9e6b567",
+      "variants": [
+        {
+          "id": "v-ebb9e6b567",
+          "answer": "Vagus nerve",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-232",
+              "sourceLine": 232
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-4d78ec7d11",
+      "question": "Roots",
+      "preferredVariantId": "v-cdfa31b99b",
+      "variants": [
+        {
+          "id": "v-cdfa31b99b",
+          "answer": "Medullary nuclei including nucleus ambiguus, dorsal motor nucleus of vagus and nucleus solitarius pathways.",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-233",
+              "sourceLine": 233
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-e101f16776",
+      "variants": [
+        {
+          "id": "v-e101f16776",
+          "answer": "Emerges from postolivary sulcus, exits through jugular foramen and descends in the carotid sheath.",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-234",
+              "sourceLine": 234
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c8b6915183",
+      "question": "Motor functions",
+      "preferredVariantId": "v-dfb2133804",
+      "variants": [
+        {
+          "id": "v-dfb2133804",
+          "answer": "Supplies most muscles of the palate, pharynx and larynx.",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-235",
+              "sourceLine": 235
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-a453254382",
+      "question": "Sensory functions",
+      "preferredVariantId": "v-c3170e2d21",
+      "variants": [
+        {
+          "id": "v-c3170e2d21",
+          "answer": "Visceral sensation from thoracoabdominal organs and sensation from larynx/pharynx; taste from epiglottic region.",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-236",
+              "sourceLine": 236
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9f76a2a9d2",
+      "question": "Parasympathetic functions",
+      "preferredVariantId": "v-1a8db60db7",
+      "variants": [
+        {
+          "id": "v-1a8db60db7",
+          "answer": "Provides parasympathetic supply to thoracic and much of abdominal viscera.",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-237",
+              "sourceLine": 237
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-2c924e3088",
+      "question": "Note",
+      "preferredVariantId": "v-9cf160cb8c",
+      "variants": [
+        {
+          "id": "v-9cf160cb8c",
+          "answer": "May have fallen off the physical model.",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-238",
+              "sourceLine": 238
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-bc53d10c57",
+      "question": "Lesion",
+      "preferredVariantId": "v-d9495a4840",
+      "variants": [
+        {
+          "id": "v-d9495a4840",
+          "answer": "May cause dysphagia and hoarseness, ipsilateral palatal weakness with the uvula deviating away from the lesion, and loss of the efferent limb of the gag reflex.",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-239",
+              "sourceLine": 239
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "deep-face-model-bs8-1",
+      "section": "",
+      "path": [
+        "36"
+      ],
+      "label": "36"
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "id": "sacrotuberous-ligament-e97ce96d19",
+  "name": "Sacrotuberous ligament",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Ligaments"
+  ],
+  "regions": [
+    "Pelvis"
+  ],
+  "systems": [
+    "Musculoskeletal",
+    "Reproductive"
+  ],
+  "organs": [],
+  "tags": [
+    "Attachments",
+    "Function",
+    "Ligament",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-8521b12e86",
+      "variants": [
+        {
+          "id": "v-8521b12e86",
+          "answer": "Sacrotuberous ligament",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-68",
+              "sourceLine": 68
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6771ade6e8",
+      "question": "Attachments",
+      "preferredVariantId": "v-a58d58847f",
+      "variants": [
+        {
+          "id": "v-a58d58847f",
+          "answer": "Extends from sacrum/coccyx and posterior ilium to the ischial tuberosity.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-69",
+              "sourceLine": 69
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-3578d5f892",
+      "variants": [
+        {
+          "id": "v-3578d5f892",
+          "answer": "Stabilises the sacroiliac region and converts sciatic notches into foramina with the sacrospinous ligament.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-70",
+              "sourceLine": 70
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-e4d96b11b0",
+      "variants": [
+        {
+          "id": "v-e4d96b11b0",
+          "answer": "Forms part of the boundary of the greater and lesser sciatic foramina.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-71",
+              "sourceLine": 71
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "female-pelvis-model-mo8",
+      "section": "",
+      "path": [
+        "12"
+      ],
+      "label": "12"
+    }
+  ]
+}

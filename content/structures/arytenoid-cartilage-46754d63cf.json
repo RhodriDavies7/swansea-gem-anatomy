@@ -1,0 +1,199 @@
+{
+  "id": "arytenoid-cartilage-46754d63cf",
+  "name": "Arytenoid cartilage",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Cartilage"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Musculoskeletal",
+    "Respiratory"
+  ],
+  "organs": [
+    "Larynx"
+  ],
+  "tags": [
+    "Cartilage",
+    "CartilagesAndBones",
+    "Function",
+    "Landmarks",
+    "Larynx",
+    "Structure"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-21b0daf45a",
+      "variants": [
+        {
+          "id": "v-21b0daf45a",
+          "answer": "Arytenoid cartilage",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-37",
+              "sourceLine": 37
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-37",
+              "sourceLine": 37
+            },
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-33",
+              "sourceLine": 33
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-04048277ec",
+      "variants": [
+        {
+          "id": "v-04048277ec",
+          "answer": "Paired pyramidal cartilages sitting on the superior border of the cricoid lamina.",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-38",
+              "sourceLine": 38
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-38",
+              "sourceLine": 38
+            }
+          ]
+        },
+        {
+          "id": "v-0d1fba0803",
+          "answer": "Paired pyramidal cartilages on the cricoid lamina.",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-34",
+              "sourceLine": 34
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-626b6c1d45",
+      "question": "Landmarks",
+      "preferredVariantId": "v-5914e694fc",
+      "variants": [
+        {
+          "id": "v-5914e694fc",
+          "answer": "Each has a vocal process anteriorly and muscular process laterally.",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-39",
+              "sourceLine": 39
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-39",
+              "sourceLine": 39
+            }
+          ]
+        },
+        {
+          "id": "v-92810f37d8",
+          "answer": "Vocal process anteriorly and muscular process laterally.",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-36",
+              "sourceLine": 36
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-e6f24fe4d7",
+      "variants": [
+        {
+          "id": "v-e6f24fe4d7",
+          "answer": "Rotates and glides to abduct/adduct and tension the vocal folds.",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-40",
+              "sourceLine": 40
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-40",
+              "sourceLine": 40
+            }
+          ]
+        },
+        {
+          "id": "v-30be66bd8e",
+          "answer": "Rotate and glide to control position and tension of the vocal folds.",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-35",
+              "sourceLine": 35
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "larynx-model-gs7",
+      "section": "Hyoid and laryngeal cartilages",
+      "path": [
+        "4"
+      ],
+      "label": "4"
+    },
+    {
+      "modelId": "larynx-and-airway-model-gs5",
+      "section": "Hyoid and laryngeal cartilages",
+      "path": [
+        "4"
+      ],
+      "label": "4"
+    },
+    {
+      "modelId": "larynx-and-tongue-model-gs4",
+      "section": "Larynx",
+      "path": [
+        "4"
+      ],
+      "label": "4"
+    }
+  ]
+}

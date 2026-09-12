@@ -1,0 +1,188 @@
+{
+  "id": "zygomatic-bone-aaf797e9c0",
+  "name": "Zygomatic bone",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Bones"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Articulations",
+    "BloodVesselsAndNerves",
+    "Bone",
+    "Coronal",
+    "HeadNeck",
+    "Landmarks",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-71ed6668e0",
+      "variants": [
+        {
+          "id": "v-71ed6668e0",
+          "answer": "Zygomatic bone",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-79",
+              "sourceLine": 79
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-803",
+              "sourceLine": 803
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-45",
+              "sourceLine": 45
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-a40bee8d10",
+      "question": "Articulations",
+      "preferredVariantId": "v-ef0d8d3229",
+      "variants": [
+        {
+          "id": "v-ef0d8d3229",
+          "answer": "Articulates with frontal, sphenoid, temporal and maxillary bones.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-80",
+              "sourceLine": 80
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-804",
+              "sourceLine": 804
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-46",
+              "sourceLine": 46
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-9048970bcf",
+      "variants": [
+        {
+          "id": "v-9048970bcf",
+          "answer": "Forms the prominence of the cheek and contributes to lateral orbital wall and floor.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-81",
+              "sourceLine": 81
+            }
+          ]
+        },
+        {
+          "id": "v-095ac46321",
+          "answer": "Forms cheek prominence and contributes to lateral orbital wall and floor.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-805",
+              "sourceLine": 805
+            }
+          ]
+        },
+        {
+          "id": "v-fa9b6fda7b",
+          "answer": "Forms cheek prominence and part of lateral orbital wall/floor.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-47",
+              "sourceLine": 47
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-626b6c1d45",
+      "question": "Landmarks",
+      "preferredVariantId": "v-3c31d8cbdf",
+      "variants": [
+        {
+          "id": "v-3c31d8cbdf",
+          "answer": "Frontal, temporal and maxillary processes; zygomaticofacial foramen.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-82",
+              "sourceLine": 82
+            }
+          ]
+        },
+        {
+          "id": "v-921e23055a",
+          "answer": "Frontal, temporal and maxillary processes and zygomaticofacial foramen.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-806",
+              "sourceLine": 806
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "coronal-and-mid-sagittal-head-mb20",
+      "section": "Coronal head",
+      "path": [
+        "16"
+      ],
+      "label": "16"
+    },
+    {
+      "modelId": "half-head-and-neck-model-bs9",
+      "section": "Blood vessels and nerves",
+      "path": [
+        "80"
+      ],
+      "label": "80"
+    },
+    {
+      "modelId": "head-and-neck-model-cs17-2",
+      "section": "Bony structures, foramina and ear structures",
+      "path": [
+        "9"
+      ],
+      "label": "9"
+    }
+  ]
+}

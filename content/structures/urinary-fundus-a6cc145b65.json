@@ -1,0 +1,109 @@
+{
+  "id": "urinary-fundus-a6cc145b65",
+  "name": "Urinary fundus",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Pelvis"
+  ],
+  "systems": [
+    "Reproductive"
+  ],
+  "organs": [],
+  "tags": [
+    "Location",
+    "Organ",
+    "OrganPart",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-50da36cdaa",
+      "variants": [
+        {
+          "id": "v-50da36cdaa",
+          "answer": "Urinary fundus",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-33",
+              "sourceLine": 33
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f5143a2323",
+      "question": "Organ",
+      "preferredVariantId": "v-c6039d9860",
+      "variants": [
+        {
+          "id": "v-c6039d9860",
+          "answer": "Urinary bladder.",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-34",
+              "sourceLine": 34
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-009070d280",
+      "variants": [
+        {
+          "id": "v-009070d280",
+          "answer": "Posterior surface/base of the bladder, opposite the apex.",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-35",
+              "sourceLine": 35
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-1ee98ba152",
+      "variants": [
+        {
+          "id": "v-1ee98ba152",
+          "answer": "In the male, related to the seminal vesicles and ampullae of the ductus deferens; the rectum lies further posteriorly.",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-36",
+              "sourceLine": 36
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "male-reproductive-system-model-ms2",
+      "section": "",
+      "path": [
+        "4",
+        "4b"
+      ],
+      "label": "4b"
+    }
+  ]
+}

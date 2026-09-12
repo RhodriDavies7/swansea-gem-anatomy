@@ -1,0 +1,111 @@
+{
+  "id": "cochlear-branch-of-the-vestibulocochlear-nerve-fd138a7836",
+  "name": "Cochlear branch of the vestibulocochlear nerve",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Nerves"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [
+    "Ear"
+  ],
+  "tags": [
+    "Course",
+    "InnerEar",
+    "Lesion",
+    "Nerve",
+    "Sensory"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-798a1e87bc",
+      "variants": [
+        {
+          "id": "v-798a1e87bc",
+          "answer": "Cochlear branch of the vestibulocochlear nerve",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-304",
+              "sourceLine": 304
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-fd7cd4f4a2",
+      "variants": [
+        {
+          "id": "v-fd7cd4f4a2",
+          "answer": "Carries auditory afferents from spiral ganglion/cochlea through the internal acoustic meatus to cochlear nuclei.",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-305",
+              "sourceLine": 305
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-a453254382",
+      "question": "Sensory functions",
+      "preferredVariantId": "v-8787391d92",
+      "variants": [
+        {
+          "id": "v-8787391d92",
+          "answer": "Hearing.",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-306",
+              "sourceLine": 306
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-bc53d10c57",
+      "question": "Lesion",
+      "preferredVariantId": "v-285ffb94d2",
+      "variants": [
+        {
+          "id": "v-285ffb94d2",
+          "answer": "Damage causes ipsilateral sensorineural hearing loss.",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-307",
+              "sourceLine": 307
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "ear-largest-model-ds1",
+      "section": "D. Inner ear",
+      "path": [
+        "47"
+      ],
+      "label": "47"
+    }
+  ]
+}

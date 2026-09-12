@@ -1,0 +1,109 @@
+{
+  "id": "nasal-vestibule-315cb3e9d7",
+  "name": "Nasal vestibule",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Respiratory"
+  ],
+  "organs": [],
+  "tags": [
+    "Function",
+    "Location",
+    "NasalCavity",
+    "Space",
+    "Structure"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-dc53b2e185",
+      "variants": [
+        {
+          "id": "v-dc53b2e185",
+          "answer": "Nasal vestibule",
+          "sources": [
+            {
+              "modelId": "nose-and-nasal-cavity-model-fs3",
+              "cardId": "nose-and-nasal-cavity-model-fs3-195",
+              "sourceLine": 195
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-17bcef5cfd",
+      "variants": [
+        {
+          "id": "v-17bcef5cfd",
+          "answer": "Most anterior part of the nasal cavity just inside the nostril.",
+          "sources": [
+            {
+              "modelId": "nose-and-nasal-cavity-model-fs3",
+              "cardId": "nose-and-nasal-cavity-model-fs3-196",
+              "sourceLine": 196
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-4da5a11267",
+      "variants": [
+        {
+          "id": "v-4da5a11267",
+          "answer": "Lined by skin and vibrissae before transitioning to respiratory mucosa.",
+          "sources": [
+            {
+              "modelId": "nose-and-nasal-cavity-model-fs3",
+              "cardId": "nose-and-nasal-cavity-model-fs3-197",
+              "sourceLine": 197
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-535c913574",
+      "variants": [
+        {
+          "id": "v-535c913574",
+          "answer": "Filters large inhaled particles.",
+          "sources": [
+            {
+              "modelId": "nose-and-nasal-cavity-model-fs3",
+              "cardId": "nose-and-nasal-cavity-model-fs3-198",
+              "sourceLine": 198
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "nose-and-nasal-cavity-model-fs3",
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "path": [
+        "21"
+      ],
+      "label": "21"
+    }
+  ]
+}

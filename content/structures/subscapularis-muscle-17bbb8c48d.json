@@ -1,0 +1,241 @@
+{
+  "id": "subscapularis-muscle-17bbb8c48d",
+  "name": "Subscapularis muscle",
+  "aliases": [
+    "Subscapularis"
+  ],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "AttachmentSite",
+    "Attachments",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-1e22f89b4c",
+      "variants": [
+        {
+          "id": "v-1e22f89b4c",
+          "answer": "Subscapularis muscle",
+          "sources": [
+            {
+              "modelId": "deep-shoulder-model-ns17",
+              "cardId": "deep-shoulder-model-ns17-77",
+              "sourceLine": 77
+            },
+            {
+              "modelId": "rotator-cuff-qs55-6",
+              "cardId": "rotator-cuff-qs55-6-112",
+              "sourceLine": 112
+            }
+          ]
+        },
+        {
+          "id": "v-0af42ec2d1",
+          "answer": "Subscapularis",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-33",
+              "sourceLine": 33
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-219e23cb7a",
+      "variants": [
+        {
+          "id": "v-219e23cb7a",
+          "answer": "Medially rotates and adducts the arm and stabilises the humeral head in the glenoid.",
+          "sources": [
+            {
+              "modelId": "deep-shoulder-model-ns17",
+              "cardId": "deep-shoulder-model-ns17-78",
+              "sourceLine": 78
+            }
+          ]
+        },
+        {
+          "id": "v-73d7758aaf",
+          "answer": "Medially rotates and adducts arm and stabilises humeral head.",
+          "sources": [
+            {
+              "modelId": "rotator-cuff-qs55-6",
+              "cardId": "rotator-cuff-qs55-6-114",
+              "sourceLine": 114
+            }
+          ]
+        },
+        {
+          "id": "v-38bbe60cd9",
+          "answer": "Medially rotates and adducts the arm; stabilises the humeral head.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-34",
+              "sourceLine": 34
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-56597ac9e1",
+      "variants": [
+        {
+          "id": "v-56597ac9e1",
+          "answer": "Upper and lower subscapular nerves (C5–C7).",
+          "sources": [
+            {
+              "modelId": "deep-shoulder-model-ns17",
+              "cardId": "deep-shoulder-model-ns17-79",
+              "sourceLine": 79
+            },
+            {
+              "modelId": "rotator-cuff-qs55-6",
+              "cardId": "rotator-cuff-qs55-6-115",
+              "sourceLine": 115
+            },
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-35",
+              "sourceLine": 35
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-6f3c1f5903",
+      "variants": [
+        {
+          "id": "v-6f3c1f5903",
+          "answer": "Subscapular fossa of scapula.",
+          "sources": [
+            {
+              "modelId": "deep-shoulder-model-ns17",
+              "cardId": "deep-shoulder-model-ns17-80",
+              "sourceLine": 80
+            },
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-36",
+              "sourceLine": 36
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-f1370f1c9e",
+      "variants": [
+        {
+          "id": "v-f1370f1c9e",
+          "answer": "Lesser tubercle of humerus and anterior shoulder joint capsule.",
+          "sources": [
+            {
+              "modelId": "deep-shoulder-model-ns17",
+              "cardId": "deep-shoulder-model-ns17-81",
+              "sourceLine": 81
+            }
+          ]
+        },
+        {
+          "id": "v-9c7a357563",
+          "answer": "Lesser tubercle of humerus and shoulder joint capsule.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-37",
+              "sourceLine": 37
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-531c9dad58",
+      "question": "Attachment on model",
+      "preferredVariantId": "v-f6c6d25c7b",
+      "variants": [
+        {
+          "id": "v-f6c6d25c7b",
+          "answer": "Origin from subscapular fossa; inserts on lesser tubercle of humerus.",
+          "sources": [
+            {
+              "modelId": "rotator-cuff-qs55-6",
+              "cardId": "rotator-cuff-qs55-6-113",
+              "sourceLine": 113
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "deep-shoulder-model-ns17",
+      "section": "",
+      "path": [
+        "12"
+      ],
+      "label": "12"
+    },
+    {
+      "modelId": "rotator-cuff-qs55-6",
+      "section": "Muscle attachment sites",
+      "path": [
+        "19"
+      ],
+      "label": "19"
+    },
+    {
+      "modelId": "upper-limb-model-ns15",
+      "section": "Muscles",
+      "path": [
+        "6"
+      ],
+      "label": "6"
+    }
+  ]
+}

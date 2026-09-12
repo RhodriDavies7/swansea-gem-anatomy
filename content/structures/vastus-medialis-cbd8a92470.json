@@ -1,0 +1,128 @@
+{
+  "id": "vastus-medialis-cbd8a92470",
+  "name": "Vastus medialis",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-677837526e",
+      "variants": [
+        {
+          "id": "v-677837526e",
+          "answer": "Vastus medialis",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-81",
+              "sourceLine": 81
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-212526cb88",
+      "variants": [
+        {
+          "id": "v-212526cb88",
+          "answer": "Extends the knee; distal oblique fibres help resist lateral displacement of the patella.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-82",
+              "sourceLine": 82
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-14dac355e2",
+      "variants": [
+        {
+          "id": "v-14dac355e2",
+          "answer": "Femoral nerve (L2–L4).",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-83",
+              "sourceLine": 83
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-41d0b4433e",
+      "variants": [
+        {
+          "id": "v-41d0b4433e",
+          "answer": "Lower intertrochanteric line, medial lip of linea aspera and medial supracondylar line.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-84",
+              "sourceLine": 84
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-f0e9555c61",
+      "variants": [
+        {
+          "id": "v-f0e9555c61",
+          "answer": "Patella via quadriceps tendon and medial patellar retinaculum; tibial tuberosity via patellar ligament.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-85",
+              "sourceLine": 85
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "lower-limb-model-ns10",
+      "section": "Muscles",
+      "path": [
+        "11",
+        "11b"
+      ],
+      "label": "11b"
+    }
+  ]
+}

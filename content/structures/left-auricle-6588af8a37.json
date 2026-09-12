@@ -1,0 +1,174 @@
+{
+  "id": "left-auricle-6588af8a37",
+  "name": "Left auricle",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck",
+    "Thorax"
+  ],
+  "systems": [
+    "Respiratory"
+  ],
+  "organs": [
+    "Heart",
+    "Larynx"
+  ],
+  "tags": [
+    "Auricle",
+    "AuriclesVesselsValves",
+    "Clinical",
+    "Function",
+    "HeartChambers",
+    "Structure"
+  ],
+  "imageIds": [
+    "img-dd4d17ecf4f4"
+  ],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-32b9a7d224",
+      "variants": [
+        {
+          "id": "v-32b9a7d224",
+          "answer": "Left auricle",
+          "sources": [
+            {
+              "modelId": "heart-model-hs5",
+              "cardId": "heart-model-hs5-53",
+              "sourceLine": 53
+            },
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-145",
+              "sourceLine": 145
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-7341b9715d",
+      "variants": [
+        {
+          "id": "v-7341b9715d",
+          "answer": "Muscular appendage of the left atrium containing pectinate muscles.",
+          "sources": [
+            {
+              "modelId": "heart-model-hs5",
+              "cardId": "heart-model-hs5-54",
+              "sourceLine": 54
+            }
+          ]
+        },
+        {
+          "id": "v-1d7b74cd54",
+          "answer": "Muscular appendage of left atrium containing pectinate muscles.",
+          "sources": [
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-146",
+              "sourceLine": 146
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-902b4b0a9d",
+      "variants": [
+        {
+          "id": "v-902b4b0a9d",
+          "answer": "Increases the capacity of the left atrium.",
+          "sources": [
+            {
+              "modelId": "heart-model-hs5",
+              "cardId": "heart-model-hs5-55",
+              "sourceLine": 55
+            }
+          ]
+        },
+        {
+          "id": "v-ecf06fb589",
+          "answer": "Increases left atrial capacity.",
+          "sources": [
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-147",
+              "sourceLine": 147
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-b03737e3cd",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-e3944409c6",
+      "variants": [
+        {
+          "id": "v-e3944409c6",
+          "answer": "The left atrial appendage is a common site of thrombus formation in atrial fibrillation.",
+          "sources": [
+            {
+              "modelId": "heart-model-hs5",
+              "cardId": "heart-model-hs5-56",
+              "sourceLine": 56
+            }
+          ]
+        },
+        {
+          "id": "v-1406eaf61f",
+          "answer": "Left atrial appendage is a common site of thrombus formation in atrial fibrillation.",
+          "sources": [
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-148",
+              "sourceLine": 148
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "heart-model-hs5",
+      "section": "Auricles, great vessels and valves",
+      "path": [
+        "b"
+      ],
+      "label": "b"
+    },
+    {
+      "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+      "section": "Heart chambers and auricles",
+      "path": [
+        "19"
+      ],
+      "label": "19"
+    }
+  ]
+}

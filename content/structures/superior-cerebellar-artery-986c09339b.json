@@ -1,0 +1,108 @@
+{
+  "id": "superior-cerebellar-artery-986c09339b",
+  "name": "Superior cerebellar artery",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Arteries"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Cardiovascular"
+  ],
+  "organs": [],
+  "tags": [
+    "Artery",
+    "Course",
+    "Origin",
+    "Supply"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-8aadeb0ee1",
+      "variants": [
+        {
+          "id": "v-8aadeb0ee1",
+          "answer": "Superior cerebellar artery",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-82",
+              "sourceLine": 82
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-88ddf5b51c",
+      "variants": [
+        {
+          "id": "v-88ddf5b51c",
+          "answer": "Basilar artery near its termination.",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-83",
+              "sourceLine": 83
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-e3cc2cbf5f",
+      "variants": [
+        {
+          "id": "v-e3cc2cbf5f",
+          "answer": "Passes laterally around the midbrain below the oculomotor nerve.",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-84",
+              "sourceLine": 84
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-222db0fc1c",
+      "question": "Supply",
+      "preferredVariantId": "v-1bb6a53519",
+      "variants": [
+        {
+          "id": "v-1bb6a53519",
+          "answer": "Superior cerebellum, superior cerebellar peduncle and parts of the rostral brainstem.",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-85",
+              "sourceLine": 85
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "cranial-floor-model-bs1",
+      "section": "",
+      "path": [
+        "14"
+      ],
+      "label": "14"
+    }
+  ]
+}

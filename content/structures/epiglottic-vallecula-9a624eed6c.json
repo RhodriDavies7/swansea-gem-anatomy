@@ -1,0 +1,115 @@
+{
+  "id": "epiglottic-vallecula-9a624eed6c",
+  "name": "Epiglottic vallecula",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Respiratory"
+  ],
+  "organs": [
+    "Larynx"
+  ],
+  "tags": [
+    "Clinical",
+    "InternalLarynx",
+    "Location",
+    "Space"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-2ae665ebc0",
+      "variants": [
+        {
+          "id": "v-2ae665ebc0",
+          "answer": "Epiglottic vallecula",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-266",
+              "sourceLine": 266
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-266",
+              "sourceLine": 266
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-f4eef7ee9b",
+      "variants": [
+        {
+          "id": "v-f4eef7ee9b",
+          "answer": "Depression between the base of the tongue and epiglottis.",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-267",
+              "sourceLine": 267
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-267",
+              "sourceLine": 267
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-b03737e3cd",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-bf9267025e",
+      "variants": [
+        {
+          "id": "v-bf9267025e",
+          "answer": "Important landmark during direct laryngoscopy; the tip of a Macintosh blade is commonly placed here.",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-268",
+              "sourceLine": 268
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-268",
+              "sourceLine": 268
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "larynx-model-gs7",
+      "section": "Internal laryngeal structures and mucosa",
+      "path": [
+        "35"
+      ],
+      "label": "35"
+    },
+    {
+      "modelId": "larynx-and-airway-model-gs5",
+      "section": "Internal laryngeal structures and mucosa",
+      "path": [
+        "35"
+      ],
+      "label": "35"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "id": "annular-ligaments-of-trachea-d399931d03",
+  "name": "Annular ligaments of trachea",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Ligaments"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Musculoskeletal",
+    "Respiratory"
+  ],
+  "organs": [
+    "Larynx"
+  ],
+  "tags": [
+    "Function",
+    "Larynx",
+    "Ligament",
+    "Structure"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-83c1d5055b",
+      "variants": [
+        {
+          "id": "v-83c1d5055b",
+          "answer": "Annular ligaments of trachea",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-79",
+              "sourceLine": 79
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-1e573423ba",
+      "variants": [
+        {
+          "id": "v-1e573423ba",
+          "answer": "Fibroelastic tissue connecting adjacent tracheal rings.",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-80",
+              "sourceLine": 80
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-40d7752e8f",
+      "variants": [
+        {
+          "id": "v-40d7752e8f",
+          "answer": "Provide flexibility while maintaining continuity of the airway wall.",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-81",
+              "sourceLine": 81
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "larynx-and-tongue-model-gs4",
+      "section": "Larynx",
+      "path": [
+        "13"
+      ],
+      "label": "13"
+    }
+  ]
+}

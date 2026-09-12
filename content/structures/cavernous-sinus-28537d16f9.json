@@ -1,0 +1,127 @@
+{
+  "id": "cavernous-sinus-28537d16f9",
+  "name": "Cavernous sinus",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Veins"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Cardiovascular"
+  ],
+  "organs": [],
+  "tags": [
+    "Clinical",
+    "Contents",
+    "Drainage",
+    "Location",
+    "VenousSinus"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-887e54e0c6",
+      "variants": [
+        {
+          "id": "v-887e54e0c6",
+          "answer": "Cavernous sinus",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-26",
+              "sourceLine": 26
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-119d76e2a3",
+      "variants": [
+        {
+          "id": "v-119d76e2a3",
+          "answer": "Paired dural venous sinus on either side of the sella turcica.",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-27",
+              "sourceLine": 27
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-74a64b1943",
+      "question": "Drainage",
+      "preferredVariantId": "v-76cdd86188",
+      "variants": [
+        {
+          "id": "v-76cdd86188",
+          "answer": "Receives ophthalmic veins and superficial middle cerebral vein; drains via superior and inferior petrosal sinuses and emissary connections.",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-28",
+              "sourceLine": 28
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f5cbdf6bfb",
+      "question": "Contents",
+      "preferredVariantId": "v-7fb387d0b0",
+      "variants": [
+        {
+          "id": "v-7fb387d0b0",
+          "answer": "Internal carotid artery and abducens nerve pass within the sinus; CN III, IV, V1 and V2 run in the lateral wall.",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-29",
+              "sourceLine": 29
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-b03737e3cd",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-76ff56e6e6",
+      "variants": [
+        {
+          "id": "v-76ff56e6e6",
+          "answer": "Infection can spread from the face or orbit to cause cavernous sinus thrombosis with multiple cranial neuropathies.",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-30",
+              "sourceLine": 30
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "cranial-floor-model-bs1",
+      "section": "",
+      "path": [
+        "5"
+      ],
+      "label": "5"
+    }
+  ]
+}

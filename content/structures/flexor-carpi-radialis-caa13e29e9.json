@@ -1,0 +1,129 @@
+{
+  "id": "flexor-carpi-radialis-caa13e29e9",
+  "name": "Flexor carpi radialis",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Origin"
+  ],
+  "imageIds": [
+    "img-049ee822fb7d"
+  ],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-faccc56a3f",
+      "variants": [
+        {
+          "id": "v-faccc56a3f",
+          "answer": "Flexor carpi radialis",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-75",
+              "sourceLine": 75
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-29f6556023",
+      "variants": [
+        {
+          "id": "v-29f6556023",
+          "answer": "Flexes and abducts (radially deviates) the wrist.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-76",
+              "sourceLine": 76
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-c1afe21896",
+      "variants": [
+        {
+          "id": "v-c1afe21896",
+          "answer": "Median nerve (C6–C7).",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-77",
+              "sourceLine": 77
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-e53c0cc7fd",
+      "variants": [
+        {
+          "id": "v-e53c0cc7fd",
+          "answer": "Common flexor tendon from medial epicondyle of humerus.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-78",
+              "sourceLine": 78
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-77592f98d5",
+      "variants": [
+        {
+          "id": "v-77592f98d5",
+          "answer": "Base of second metacarpal, often with slip to third metacarpal.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-79",
+              "sourceLine": 79
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "upper-limb-model-ns15",
+      "section": "Muscles",
+      "path": [
+        "13"
+      ],
+      "label": "13"
+    }
+  ]
+}

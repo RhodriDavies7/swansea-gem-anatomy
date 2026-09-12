@@ -1,0 +1,90 @@
+{
+  "id": "tragus-8a60027730",
+  "name": "Tragus",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [],
+  "organs": [
+    "Ear"
+  ],
+  "tags": [
+    "Auricle",
+    "ExternalEar",
+    "Relations",
+    "Structure"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-9022e1e58f",
+      "variants": [
+        {
+          "id": "v-9022e1e58f",
+          "answer": "Tragus",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-29",
+              "sourceLine": 29
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-433c3b82a2",
+      "variants": [
+        {
+          "id": "v-433c3b82a2",
+          "answer": "Small cartilaginous projection anterior to the external acoustic meatus.",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-30",
+              "sourceLine": 30
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-f9f19124f6",
+      "variants": [
+        {
+          "id": "v-f9f19124f6",
+          "answer": "Opposes the antitragus across the intertragic notch.",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-31",
+              "sourceLine": 31
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "ear-largest-model-ds1",
+      "section": "A. External ear",
+      "path": [
+        "6"
+      ],
+      "label": "6"
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "id": "pterygopalatine-ganglion-268b7e6374",
+  "name": "Pterygopalatine ganglion",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Nerves"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [],
+  "tags": [
+    "Branches",
+    "Function",
+    "Ganglion",
+    "Location",
+    "Roots"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-97fbe922ab",
+      "variants": [
+        {
+          "id": "v-97fbe922ab",
+          "answer": "Pterygopalatine ganglion",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-225",
+              "sourceLine": 225
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-6b80f374f4",
+      "variants": [
+        {
+          "id": "v-6b80f374f4",
+          "answer": "Lies in the pterygopalatine fossa, suspended from the maxillary nerve.",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-226",
+              "sourceLine": 226
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-08c461413b",
+      "variants": [
+        {
+          "id": "v-08c461413b",
+          "answer": "Parasympathetic ganglion for lacrimal, nasal and palatal gland secretomotor pathways.",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-227",
+              "sourceLine": 227
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-4d78ec7d11",
+      "question": "Roots",
+      "preferredVariantId": "v-22114c2574",
+      "variants": [
+        {
+          "id": "v-22114c2574",
+          "answer": "Preganglionic parasympathetic fibres arrive via greater petrosal nerve and nerve of pterygoid canal; sympathetic and sensory fibres pass through without synapsing.",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-228",
+              "sourceLine": 228
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f578227926",
+      "question": "Branches",
+      "preferredVariantId": "v-c280c986fb",
+      "variants": [
+        {
+          "id": "v-c280c986fb",
+          "answer": "Distributes fibres through branches of V2, including palatine and nasal branches.",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-229",
+              "sourceLine": 229
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "deep-face-model-bs8-1",
+      "section": "",
+      "path": [
+        "35"
+      ],
+      "label": "35"
+    }
+  ]
+}

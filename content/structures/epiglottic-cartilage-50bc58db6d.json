@@ -1,0 +1,174 @@
+{
+  "id": "epiglottic-cartilage-50bc58db6d",
+  "name": "Epiglottic cartilage",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Cartilage"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Musculoskeletal",
+    "Respiratory"
+  ],
+  "organs": [
+    "Larynx"
+  ],
+  "tags": [
+    "Attachments",
+    "Cartilage",
+    "Function",
+    "InternalLarynx",
+    "LarynxAndAirway",
+    "Structure"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-a75aa478c8",
+      "variants": [
+        {
+          "id": "v-a75aa478c8",
+          "answer": "Epiglottic cartilage",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-227",
+              "sourceLine": 227
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-227",
+              "sourceLine": 227
+            },
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-61",
+              "sourceLine": 61
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-61296d2930",
+      "variants": [
+        {
+          "id": "v-61296d2930",
+          "answer": "Leaf-shaped elastic cartilage forming the structural core of the epiglottis.",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-228",
+              "sourceLine": 228
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-228",
+              "sourceLine": 228
+            }
+          ]
+        },
+        {
+          "id": "v-43faa57e48",
+          "answer": "Leaf-shaped elastic cartilage forming the core of the epiglottis.",
+          "sources": [
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-62",
+              "sourceLine": 62
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-a878094c9b",
+      "variants": [
+        {
+          "id": "v-a878094c9b",
+          "answer": "Helps protect the laryngeal inlet during swallowing.",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-229",
+              "sourceLine": 229
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-229",
+              "sourceLine": 229
+            },
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-63",
+              "sourceLine": 63
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6771ade6e8",
+      "question": "Attachments",
+      "preferredVariantId": "v-0c8b3aa45a",
+      "variants": [
+        {
+          "id": "v-0c8b3aa45a",
+          "answer": "Connected to thyroid cartilage by the thyroepiglottic ligament and to hyoid by the hyoepiglottic ligament.",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-230",
+              "sourceLine": 230
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-230",
+              "sourceLine": 230
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "larynx-model-gs7",
+      "section": "Internal laryngeal structures and mucosa",
+      "path": [
+        "28"
+      ],
+      "label": "28"
+    },
+    {
+      "modelId": "larynx-and-airway-model-gs5",
+      "section": "Internal laryngeal structures and mucosa",
+      "path": [
+        "28"
+      ],
+      "label": "28"
+    },
+    {
+      "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+      "section": "Larynx and airway",
+      "path": [
+        "4"
+      ],
+      "label": "4"
+    }
+  ]
+}

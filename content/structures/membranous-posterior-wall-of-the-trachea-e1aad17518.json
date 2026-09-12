@@ -1,0 +1,111 @@
+{
+  "id": "membranous-posterior-wall-of-the-trachea-e1aad17518",
+  "name": "Membranous posterior wall of the trachea",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Respiratory"
+  ],
+  "organs": [
+    "Larynx"
+  ],
+  "tags": [
+    "AirwayWall",
+    "Contents",
+    "Function",
+    "Larynx",
+    "Structure"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-8a8ab3e0ad",
+      "variants": [
+        {
+          "id": "v-8a8ab3e0ad",
+          "answer": "Membranous posterior wall of the trachea",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-84",
+              "sourceLine": 84
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-4f1c212595",
+      "variants": [
+        {
+          "id": "v-4f1c212595",
+          "answer": "Fibromuscular posterior wall bridging the open ends of the C-shaped tracheal cartilages.",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-85",
+              "sourceLine": 85
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f5cbdf6bfb",
+      "question": "Contents",
+      "preferredVariantId": "v-275d36cf58",
+      "variants": [
+        {
+          "id": "v-275d36cf58",
+          "answer": "Contains trachealis muscle and fibroelastic tissue.",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-86",
+              "sourceLine": 86
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-e9e2aa6805",
+      "variants": [
+        {
+          "id": "v-e9e2aa6805",
+          "answer": "Allows posterior wall movement and oesophageal expansion.",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-87",
+              "sourceLine": 87
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "larynx-and-tongue-model-gs4",
+      "section": "Larynx",
+      "path": [
+        "14"
+      ],
+      "label": "14"
+    }
+  ]
+}

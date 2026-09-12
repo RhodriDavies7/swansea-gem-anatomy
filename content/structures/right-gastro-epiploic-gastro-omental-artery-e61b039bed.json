@@ -1,0 +1,131 @@
+{
+  "id": "right-gastro-epiploic-gastro-omental-artery-e61b039bed",
+  "name": "Right gastro-epiploic (gastro-omental) artery",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Arteries"
+  ],
+  "regions": [
+    "Abdomen"
+  ],
+  "systems": [
+    "Cardiovascular",
+    "Digestive"
+  ],
+  "organs": [
+    "Stomach"
+  ],
+  "tags": [
+    "Arteries",
+    "Artery",
+    "Connections",
+    "Course",
+    "Origin",
+    "Supply"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-0302deb28f",
+      "variants": [
+        {
+          "id": "v-0302deb28f",
+          "answer": "Right gastro-epiploic (gastro-omental) artery",
+          "sources": [
+            {
+              "modelId": "stomach-model-ns15",
+              "cardId": "stomach-model-ns15-82",
+              "sourceLine": 82
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-fd9985f6a1",
+      "variants": [
+        {
+          "id": "v-fd9985f6a1",
+          "answer": "Usually terminal branch of the gastroduodenal artery.",
+          "sources": [
+            {
+              "modelId": "stomach-model-ns15",
+              "cardId": "stomach-model-ns15-83",
+              "sourceLine": 83
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-87e7679250",
+      "variants": [
+        {
+          "id": "v-87e7679250",
+          "answer": "Runs along the greater curvature from right to left within the greater omentum.",
+          "sources": [
+            {
+              "modelId": "stomach-model-ns15",
+              "cardId": "stomach-model-ns15-84",
+              "sourceLine": 84
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-222db0fc1c",
+      "question": "Supply",
+      "preferredVariantId": "v-e9767bcb0f",
+      "variants": [
+        {
+          "id": "v-e9767bcb0f",
+          "answer": "Supplies lower/right greater curvature and adjacent stomach wall.",
+          "sources": [
+            {
+              "modelId": "stomach-model-ns15",
+              "cardId": "stomach-model-ns15-85",
+              "sourceLine": 85
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-8f3509b64e",
+      "question": "Connections",
+      "preferredVariantId": "v-a19df2c433",
+      "variants": [
+        {
+          "id": "v-a19df2c433",
+          "answer": "Anastomoses with the left gastro-omental artery.",
+          "sources": [
+            {
+              "modelId": "stomach-model-ns15",
+              "cardId": "stomach-model-ns15-86",
+              "sourceLine": 86
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "stomach-model-ns15",
+      "section": "Arteries",
+      "path": [
+        "14"
+      ],
+      "label": "14"
+    }
+  ]
+}

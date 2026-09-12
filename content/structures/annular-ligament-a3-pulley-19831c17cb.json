@@ -1,0 +1,125 @@
+{
+  "id": "annular-ligament-a3-pulley-19831c17cb",
+  "name": "Annular ligament (A3 pulley)",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [],
+  "organs": [],
+  "tags": [
+    "Attachments",
+    "Clinical",
+    "Function",
+    "Pulley",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-1755630a5f",
+      "variants": [
+        {
+          "id": "v-1755630a5f",
+          "answer": "Annular ligament (A3 pulley)",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-239",
+              "sourceLine": 239
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6771ade6e8",
+      "question": "Attachments",
+      "preferredVariantId": "v-cbbb05b96a",
+      "variants": [
+        {
+          "id": "v-cbbb05b96a",
+          "answer": "Attaches around the palmar aspect of the PIP joint/volar plate region.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-240",
+              "sourceLine": 240
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-1dcbe0d363",
+      "variants": [
+        {
+          "id": "v-1dcbe0d363",
+          "answer": "Maintains flexor tendons close to the digit and limits bowstringing.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-241",
+              "sourceLine": 241
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-e2147a2139",
+      "variants": [
+        {
+          "id": "v-e2147a2139",
+          "answer": "Part of the fibrous digital sheath, between cruciform pulley segments.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-242",
+              "sourceLine": 242
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-b03737e3cd",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-ab7260f5e0",
+      "variants": [
+        {
+          "id": "v-ab7260f5e0",
+          "answer": "Pulley injury can alter flexor tendon mechanics; A2 and A4 are particularly important for preventing bowstringing.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-243",
+              "sourceLine": 243
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "upper-limb-model-ns15",
+      "section": "Muscles",
+      "path": [
+        "40"
+      ],
+      "label": "40"
+    }
+  ]
+}

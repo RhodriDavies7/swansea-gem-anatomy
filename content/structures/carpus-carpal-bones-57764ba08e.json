@@ -1,0 +1,144 @@
+{
+  "id": "carpus-carpal-bones-57764ba08e",
+  "name": "Carpus (carpal bones)",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Bones"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [],
+  "organs": [],
+  "tags": [
+    "Articulations",
+    "BoneGroup",
+    "Components",
+    "Function",
+    "Landmarks",
+    "Orientation"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-6e9f9f79a7",
+      "variants": [
+        {
+          "id": "v-6e9f9f79a7",
+          "answer": "Carpus (carpal bones)",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-595",
+              "sourceLine": 595
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9289473eee",
+      "question": "Components",
+      "preferredVariantId": "v-4e0ef3fe35",
+      "variants": [
+        {
+          "id": "v-4e0ef3fe35",
+          "answer": "Proximal row lateral to medial: scaphoid, lunate, triquetrum, pisiform. Distal row: trapezium, trapezoid, capitate, hamate.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-596",
+              "sourceLine": 596
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-a40bee8d10",
+      "question": "Articulations",
+      "preferredVariantId": "v-493499aab2",
+      "variants": [
+        {
+          "id": "v-493499aab2",
+          "answer": "Radius and articular disc proximally; metacarpals distally; extensive intercarpal articulations.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-597",
+              "sourceLine": 597
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-626b6c1d45",
+      "question": "Landmarks",
+      "preferredVariantId": "v-312929c6bc",
+      "variants": [
+        {
+          "id": "v-312929c6bc",
+          "answer": "Scaphoid tubercle and trapezium laterally; pisiform and hook of hamate medially form bony margins of carpal tunnel.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-598",
+              "sourceLine": 598
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-ce4ef369fe",
+      "variants": [
+        {
+          "id": "v-ce4ef369fe",
+          "answer": "Forms the wrist skeleton, permitting mobility while transmitting load from hand to forearm.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-599",
+              "sourceLine": 599
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-86e4e38754",
+      "question": "Orientation",
+      "preferredVariantId": "v-8d0a688232",
+      "variants": [
+        {
+          "id": "v-8d0a688232",
+          "answer": "Scaphoid/trapezium lie radial; pisiform/hamate ulnar; concave palmar carpal arch is bridged by flexor retinaculum.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-600",
+              "sourceLine": 600
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "upper-limb-model-ns15",
+      "section": "Bones",
+      "path": [
+        "93"
+      ],
+      "label": "93"
+    }
+  ]
+}

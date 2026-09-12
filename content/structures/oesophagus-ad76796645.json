@@ -1,0 +1,111 @@
+{
+  "id": "oesophagus-ad76796645",
+  "name": "Oesophagus",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Respiratory"
+  ],
+  "organs": [
+    "Larynx"
+  ],
+  "tags": [
+    "Course",
+    "Function",
+    "MajorOrgans",
+    "Relations",
+    "Tube"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-10360fdead",
+      "variants": [
+        {
+          "id": "v-10360fdead",
+          "answer": "Oesophagus",
+          "sources": [
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-20",
+              "sourceLine": 20
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-51d0a9784a",
+      "variants": [
+        {
+          "id": "v-51d0a9784a",
+          "answer": "Transports food and fluid from pharynx to stomach by peristalsis.",
+          "sources": [
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-21",
+              "sourceLine": 21
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-355277e441",
+      "variants": [
+        {
+          "id": "v-355277e441",
+          "answer": "Begins at C6, descends through posterior mediastinum and passes through diaphragm at T10.",
+          "sources": [
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-22",
+              "sourceLine": 22
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-ecad9ffb0d",
+      "variants": [
+        {
+          "id": "v-ecad9ffb0d",
+          "answer": "Lies posterior to trachea in the neck and upper thorax.",
+          "sources": [
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-23",
+              "sourceLine": 23
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+      "section": "Major organs and regions (A–G)",
+      "path": [
+        "D"
+      ],
+      "label": "D"
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "id": "lateral-plantar-artery-552c56f3d3",
+  "name": "Lateral plantar artery",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Arteries"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Cardiovascular"
+  ],
+  "organs": [],
+  "tags": [
+    "ArteriesAndNerves",
+    "Artery",
+    "Course",
+    "Origin",
+    "Supply"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-6ae10a4d61",
+      "variants": [
+        {
+          "id": "v-6ae10a4d61",
+          "answer": "Lateral plantar artery",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-371",
+              "sourceLine": 371
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-973547b163",
+      "variants": [
+        {
+          "id": "v-973547b163",
+          "answer": "Larger terminal branch of posterior tibial artery.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-372",
+              "sourceLine": 372
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-5e7c78e9ca",
+      "variants": [
+        {
+          "id": "v-5e7c78e9ca",
+          "answer": "Runs obliquely across sole then curves medially to form most of the deep plantar arch.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-373",
+              "sourceLine": 373
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-222db0fc1c",
+      "question": "Supply",
+      "preferredVariantId": "v-96e333ec1f",
+      "variants": [
+        {
+          "id": "v-96e333ec1f",
+          "answer": "Lateral sole and much of plantar forefoot.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-374",
+              "sourceLine": 374
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "foot-model-ns9",
+      "section": "Arteries and nerves",
+      "path": [
+        "55"
+      ],
+      "label": "55"
+    }
+  ]
+}

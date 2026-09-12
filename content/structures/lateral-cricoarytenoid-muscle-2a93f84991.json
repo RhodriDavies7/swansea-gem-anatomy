@@ -1,0 +1,164 @@
+{
+  "id": "lateral-cricoarytenoid-muscle-2a93f84991",
+  "name": "Lateral cricoarytenoid muscle",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Musculoskeletal",
+    "Respiratory"
+  ],
+  "organs": [
+    "Larynx"
+  ],
+  "tags": [
+    "Action",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Muscles",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-55b621f7d4",
+      "variants": [
+        {
+          "id": "v-55b621f7d4",
+          "answer": "Lateral cricoarytenoid muscle",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-145",
+              "sourceLine": 145
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-145",
+              "sourceLine": 145
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-d12637963c",
+      "variants": [
+        {
+          "id": "v-d12637963c",
+          "answer": "Adducts the vocal folds by medially rotating the arytenoid cartilages.",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-146",
+              "sourceLine": 146
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-146",
+              "sourceLine": 146
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-7b28d2894f",
+      "variants": [
+        {
+          "id": "v-7b28d2894f",
+          "answer": "Recurrent laryngeal nerve (CN X).",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-147",
+              "sourceLine": 147
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-147",
+              "sourceLine": 147
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-cbecb924a8",
+      "variants": [
+        {
+          "id": "v-cbecb924a8",
+          "answer": "Upper border of lateral cricoid arch.",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-148",
+              "sourceLine": 148
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-148",
+              "sourceLine": 148
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-069d1efb68",
+      "variants": [
+        {
+          "id": "v-069d1efb68",
+          "answer": "Muscular process of arytenoid cartilage.",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-149",
+              "sourceLine": 149
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-149",
+              "sourceLine": 149
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "larynx-model-gs7",
+      "section": "Laryngeal and airway muscles",
+      "path": [
+        "20"
+      ],
+      "label": "20"
+    },
+    {
+      "modelId": "larynx-and-airway-model-gs5",
+      "section": "Laryngeal and airway muscles",
+      "path": [
+        "20"
+      ],
+      "label": "20"
+    }
+  ]
+}

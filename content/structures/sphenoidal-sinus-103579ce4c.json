@@ -1,0 +1,236 @@
+{
+  "id": "sphenoidal-sinus-103579ce4c",
+  "name": "Sphenoidal sinus",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Respiratory"
+  ],
+  "organs": [],
+  "tags": [
+    "BonyStructures",
+    "Clinical",
+    "Drainage",
+    "Location",
+    "MidSagittal",
+    "ParanasalSinus",
+    "Relations",
+    "SinusesAndOpenings"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-73b585e403",
+      "variants": [
+        {
+          "id": "v-73b585e403",
+          "answer": "Sphenoidal sinus",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-230",
+              "sourceLine": 230
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-78",
+              "sourceLine": 78
+            },
+            {
+              "modelId": "nose-and-nasal-cavity-model-fs3",
+              "cardId": "nose-and-nasal-cavity-model-fs3-85",
+              "sourceLine": 85
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-af5f6bb1d2",
+      "variants": [
+        {
+          "id": "v-af5f6bb1d2",
+          "answer": "Within body of sphenoid bone.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-231",
+              "sourceLine": 231
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-79",
+              "sourceLine": 79
+            }
+          ]
+        },
+        {
+          "id": "v-0a581188ea",
+          "answer": "Within the body of the sphenoid bone.",
+          "sources": [
+            {
+              "modelId": "nose-and-nasal-cavity-model-fs3",
+              "cardId": "nose-and-nasal-cavity-model-fs3-86",
+              "sourceLine": 86
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-74a64b1943",
+      "question": "Drainage",
+      "preferredVariantId": "v-98925f56e2",
+      "variants": [
+        {
+          "id": "v-98925f56e2",
+          "answer": "Drains into sphenoethmoidal recess.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-232",
+              "sourceLine": 232
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-80",
+              "sourceLine": 80
+            }
+          ]
+        },
+        {
+          "id": "v-c893c24bbc",
+          "answer": "Drains into the sphenoethmoidal recess.",
+          "sources": [
+            {
+              "modelId": "nose-and-nasal-cavity-model-fs3",
+              "cardId": "nose-and-nasal-cavity-model-fs3-87",
+              "sourceLine": 87
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-67fefefe02",
+      "variants": [
+        {
+          "id": "v-67fefefe02",
+          "answer": "Pituitary gland lies superiorly; cavernous sinus and internal carotid arteries lie laterally.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-233",
+              "sourceLine": 233
+            },
+            {
+              "modelId": "nose-and-nasal-cavity-model-fs3",
+              "cardId": "nose-and-nasal-cavity-model-fs3-88",
+              "sourceLine": 88
+            }
+          ]
+        },
+        {
+          "id": "v-c13ab8a8cf",
+          "answer": "Pituitary lies superiorly; cavernous sinus and internal carotid arteries lie laterally.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-81",
+              "sourceLine": 81
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-b03737e3cd",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-639a9cc3f2",
+      "variants": [
+        {
+          "id": "v-639a9cc3f2",
+          "answer": "Provides a transsphenoidal surgical route to the pituitary.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-234",
+              "sourceLine": 234
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-82",
+              "sourceLine": 82
+            }
+          ]
+        },
+        {
+          "id": "v-0a907bbe5d",
+          "answer": "Provides a transsphenoidal route to the pituitary.",
+          "sources": [
+            {
+              "modelId": "nose-and-nasal-cavity-model-fs3",
+              "cardId": "nose-and-nasal-cavity-model-fs3-89",
+              "sourceLine": 89
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "coronal-and-mid-sagittal-head-mb20",
+      "section": "Bony structures",
+      "path": [
+        "b"
+      ],
+      "label": "b"
+    },
+    {
+      "modelId": "half-head-and-neck-model-bs9",
+      "section": "Bony structures",
+      "path": [
+        "b"
+      ],
+      "label": "b"
+    },
+    {
+      "modelId": "nose-and-nasal-cavity-model-fs3",
+      "section": "Paranasal sinuses, conchae and openings (a–p)",
+      "path": [
+        "p"
+      ],
+      "label": "p"
+    }
+  ]
+}

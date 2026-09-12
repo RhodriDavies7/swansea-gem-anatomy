@@ -1,0 +1,127 @@
+{
+  "id": "gracilis-muscle-d283602fdb",
+  "name": "Gracilis muscle",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-15e8764359",
+      "variants": [
+        {
+          "id": "v-15e8764359",
+          "answer": "Gracilis muscle",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-124",
+              "sourceLine": 124
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-8305949330",
+      "variants": [
+        {
+          "id": "v-8305949330",
+          "answer": "Adducts the hip; flexes the knee and medially rotates the flexed leg.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-125",
+              "sourceLine": 125
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-310a17dfd5",
+      "variants": [
+        {
+          "id": "v-310a17dfd5",
+          "answer": "Anterior division of obturator nerve (L2–L3).",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-126",
+              "sourceLine": 126
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-86ad86c6f1",
+      "variants": [
+        {
+          "id": "v-86ad86c6f1",
+          "answer": "Body and inferior ramus of pubis.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-127",
+              "sourceLine": 127
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-d996c89d10",
+      "variants": [
+        {
+          "id": "v-d996c89d10",
+          "answer": "Superior medial tibia as part of pes anserinus.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-128",
+              "sourceLine": 128
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "lower-limb-model-ns10",
+      "section": "Muscles",
+      "path": [
+        "15"
+      ],
+      "label": "15"
+    }
+  ]
+}

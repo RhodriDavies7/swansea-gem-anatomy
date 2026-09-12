@@ -1,0 +1,146 @@
+{
+  "id": "palmar-digital-artery-dcacdafe5f",
+  "name": "Palmar digital artery",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Arteries"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [
+    "Cardiovascular"
+  ],
+  "organs": [],
+  "tags": [
+    "Artery",
+    "Branches",
+    "Course",
+    "Origin",
+    "Relations",
+    "Supply"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-3dfb70595c",
+      "variants": [
+        {
+          "id": "v-3dfb70595c",
+          "answer": "Palmar digital artery",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-400",
+              "sourceLine": 400
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-b5bbce575c",
+      "variants": [
+        {
+          "id": "v-b5bbce575c",
+          "answer": "Usually common palmar digital arteries from superficial palmar arch.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-401",
+              "sourceLine": 401
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-53003e5611",
+      "variants": [
+        {
+          "id": "v-53003e5611",
+          "answer": "Run toward interdigital web spaces.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-402",
+              "sourceLine": 402
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f578227926",
+      "question": "Branches",
+      "preferredVariantId": "v-0de660d681",
+      "variants": [
+        {
+          "id": "v-0de660d681",
+          "answer": "Divide into proper palmar digital arteries.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-403",
+              "sourceLine": 403
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-222db0fc1c",
+      "question": "Supply",
+      "preferredVariantId": "v-c02ffa97db",
+      "variants": [
+        {
+          "id": "v-c02ffa97db",
+          "answer": "Adjacent sides of fingers.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-404",
+              "sourceLine": 404
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-0bfd9e045d",
+      "variants": [
+        {
+          "id": "v-0bfd9e045d",
+          "answer": "Travel with digital nerves in the sides of digits.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-405",
+              "sourceLine": 405
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "upper-limb-model-ns15",
+      "section": "Arteries",
+      "path": [
+        "64"
+      ],
+      "label": "64"
+    }
+  ]
+}

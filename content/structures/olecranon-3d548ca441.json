@@ -1,0 +1,127 @@
+{
+  "id": "olecranon-3d548ca441",
+  "name": "Olecranon",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Bones"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Attachments",
+    "Bone",
+    "BonyLandmark",
+    "Clinical",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-781413cf2d",
+      "variants": [
+        {
+          "id": "v-781413cf2d",
+          "answer": "Olecranon",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-570",
+              "sourceLine": 570
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-bcf605d6bb",
+      "question": "Bone",
+      "preferredVariantId": "v-ea67e8d1ab",
+      "variants": [
+        {
+          "id": "v-ea67e8d1ab",
+          "answer": "Proximal ulna.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-571",
+              "sourceLine": 571
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6771ade6e8",
+      "question": "Attachments",
+      "preferredVariantId": "v-5d350ec2e9",
+      "variants": [
+        {
+          "id": "v-5d350ec2e9",
+          "answer": "Triceps inserts posteriorly/superiorly; flexor carpi ulnaris arises partly from it; elbow capsule and collateral structures attach around it.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-572",
+              "sourceLine": 572
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-9c1404fb7e",
+      "variants": [
+        {
+          "id": "v-9c1404fb7e",
+          "answer": "Forms posterior point of elbow and enters olecranon fossa during extension.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-573",
+              "sourceLine": 573
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-b03737e3cd",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-ee4d6c821e",
+      "variants": [
+        {
+          "id": "v-ee4d6c821e",
+          "answer": "Subcutaneous bursa over it can inflame (olecranon bursitis); fractures may disrupt triceps mechanism.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-574",
+              "sourceLine": 574
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "upper-limb-model-ns15",
+      "section": "Bones",
+      "path": [
+        "89"
+      ],
+      "label": "89"
+    }
+  ]
+}

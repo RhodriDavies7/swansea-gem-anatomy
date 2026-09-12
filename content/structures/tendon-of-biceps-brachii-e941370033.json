@@ -1,0 +1,146 @@
+{
+  "id": "tendon-of-biceps-brachii-e941370033",
+  "name": "Tendon of biceps brachii",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Tendons"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Clinical",
+    "Function",
+    "Insertion",
+    "Origin",
+    "Relations",
+    "Tendon"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-c6c852d4aa",
+      "variants": [
+        {
+          "id": "v-c6c852d4aa",
+          "answer": "Tendon of biceps brachii",
+          "sources": [
+            {
+              "modelId": "elbow-joint-model-ns18",
+              "cardId": "elbow-joint-model-ns18-50",
+              "sourceLine": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-6c455ad517",
+      "variants": [
+        {
+          "id": "v-6c455ad517",
+          "answer": "Continuation of the biceps brachii muscle distally.",
+          "sources": [
+            {
+              "modelId": "elbow-joint-model-ns18",
+              "cardId": "elbow-joint-model-ns18-51",
+              "sourceLine": 51
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-46e7d364d7",
+      "variants": [
+        {
+          "id": "v-46e7d364d7",
+          "answer": "Inserts on the radial tuberosity; the bicipital aponeurosis blends with forearm fascia.",
+          "sources": [
+            {
+              "modelId": "elbow-joint-model-ns18",
+              "cardId": "elbow-joint-model-ns18-52",
+              "sourceLine": 52
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-2b513a5108",
+      "variants": [
+        {
+          "id": "v-2b513a5108",
+          "answer": "Transmits biceps force for forearm supination and elbow flexion.",
+          "sources": [
+            {
+              "modelId": "elbow-joint-model-ns18",
+              "cardId": "elbow-joint-model-ns18-53",
+              "sourceLine": 53
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-214138f851",
+      "variants": [
+        {
+          "id": "v-214138f851",
+          "answer": "Passes anterior to the elbow joint into the cubital fossa before inserting on the radius.",
+          "sources": [
+            {
+              "modelId": "elbow-joint-model-ns18",
+              "cardId": "elbow-joint-model-ns18-54",
+              "sourceLine": 54
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-b03737e3cd",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-12494ccd06",
+      "variants": [
+        {
+          "id": "v-12494ccd06",
+          "answer": "Distal biceps rupture weakens supination more than elbow flexion.",
+          "sources": [
+            {
+              "modelId": "elbow-joint-model-ns18",
+              "cardId": "elbow-joint-model-ns18-55",
+              "sourceLine": 55
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "elbow-joint-model-ns18",
+      "section": "",
+      "path": [
+        "5"
+      ],
+      "label": "5"
+    }
+  ]
+}

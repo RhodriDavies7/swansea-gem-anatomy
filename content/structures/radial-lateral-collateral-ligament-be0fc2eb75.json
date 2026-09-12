@@ -1,0 +1,127 @@
+{
+  "id": "radial-lateral-collateral-ligament-be0fc2eb75",
+  "name": "Radial (lateral) collateral ligament",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Ligaments"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Attachments",
+    "Clinical",
+    "Function",
+    "Ligament",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-d5b4ae6018",
+      "variants": [
+        {
+          "id": "v-d5b4ae6018",
+          "answer": "Radial (lateral) collateral ligament",
+          "sources": [
+            {
+              "modelId": "elbow-joint-model-ns18",
+              "cardId": "elbow-joint-model-ns18-29",
+              "sourceLine": 29
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6771ade6e8",
+      "question": "Attachments",
+      "preferredVariantId": "v-bf4c6d9470",
+      "variants": [
+        {
+          "id": "v-bf4c6d9470",
+          "answer": "Extends from the lateral epicondyle of humerus and blends mainly with the annular ligament.",
+          "sources": [
+            {
+              "modelId": "elbow-joint-model-ns18",
+              "cardId": "elbow-joint-model-ns18-30",
+              "sourceLine": 30
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-28a8d17bce",
+      "variants": [
+        {
+          "id": "v-28a8d17bce",
+          "answer": "Provides lateral stability to the elbow and resists varus stress.",
+          "sources": [
+            {
+              "modelId": "elbow-joint-model-ns18",
+              "cardId": "elbow-joint-model-ns18-31",
+              "sourceLine": 31
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-446cc21981",
+      "variants": [
+        {
+          "id": "v-446cc21981",
+          "answer": "Part of the lateral collateral ligament complex, adjacent to the annular ligament of the radius.",
+          "sources": [
+            {
+              "modelId": "elbow-joint-model-ns18",
+              "cardId": "elbow-joint-model-ns18-32",
+              "sourceLine": 32
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-b03737e3cd",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-4950f61cc1",
+      "variants": [
+        {
+          "id": "v-4950f61cc1",
+          "answer": "Injury to the lateral collateral complex can contribute to posterolateral rotatory instability.",
+          "sources": [
+            {
+              "modelId": "elbow-joint-model-ns18",
+              "cardId": "elbow-joint-model-ns18-33",
+              "sourceLine": 33
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "elbow-joint-model-ns18",
+      "section": "",
+      "path": [
+        "2"
+      ],
+      "label": "2"
+    }
+  ]
+}

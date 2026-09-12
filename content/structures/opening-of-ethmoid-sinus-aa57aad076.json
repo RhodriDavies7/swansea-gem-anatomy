@@ -1,0 +1,90 @@
+{
+  "id": "opening-of-ethmoid-sinus-aa57aad076",
+  "name": "Opening of ethmoid sinus",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Respiratory"
+  ],
+  "organs": [],
+  "tags": [
+    "Function",
+    "Location",
+    "Opening",
+    "SinusesAndOpenings"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-440251b9bf",
+      "variants": [
+        {
+          "id": "v-440251b9bf",
+          "answer": "Opening of ethmoid sinus",
+          "sources": [
+            {
+              "modelId": "nose-and-nasal-cavity-model-fs3",
+              "cardId": "nose-and-nasal-cavity-model-fs3-42",
+              "sourceLine": 42
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-e047c72dbb",
+      "variants": [
+        {
+          "id": "v-e047c72dbb",
+          "answer": "Ethmoidal air cells open into the superior and middle meatuses depending on the cell group.",
+          "sources": [
+            {
+              "modelId": "nose-and-nasal-cavity-model-fs3",
+              "cardId": "nose-and-nasal-cavity-model-fs3-43",
+              "sourceLine": 43
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-abadf77f9e",
+      "variants": [
+        {
+          "id": "v-abadf77f9e",
+          "answer": "Allows drainage and ventilation of ethmoidal sinuses.",
+          "sources": [
+            {
+              "modelId": "nose-and-nasal-cavity-model-fs3",
+              "cardId": "nose-and-nasal-cavity-model-fs3-44",
+              "sourceLine": 44
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "nose-and-nasal-cavity-model-fs3",
+      "section": "Paranasal sinuses, conchae and openings (a–p)",
+      "path": [
+        "h"
+      ],
+      "label": "h"
+    }
+  ]
+}

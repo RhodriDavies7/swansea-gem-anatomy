@@ -1,0 +1,238 @@
+{
+  "id": "pectoralis-major-muscle-d03b5bc362",
+  "name": "Pectoralis major muscle",
+  "aliases": [
+    "Pectoralis major"
+  ],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Thorax",
+    "Upper limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [
+    "Breast"
+  ],
+  "tags": [
+    "Action",
+    "AttachmentSite",
+    "Attachments",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-684a2ab62f",
+      "variants": [
+        {
+          "id": "v-684a2ab62f",
+          "answer": "Pectoralis major muscle",
+          "sources": [
+            {
+              "modelId": "breast-model-ms7",
+              "cardId": "breast-model-ms7-58",
+              "sourceLine": 58
+            },
+            {
+              "modelId": "rotator-cuff-qs55-6",
+              "cardId": "rotator-cuff-qs55-6-9",
+              "sourceLine": 9
+            }
+          ]
+        },
+        {
+          "id": "v-28ec4bb911",
+          "answer": "Pectoralis major",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-45",
+              "sourceLine": 45
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-d15bcb97d0",
+      "variants": [
+        {
+          "id": "v-d15bcb97d0",
+          "answer": "Adducts and medially rotates the arm; clavicular head flexes the arm; sternocostal head extends a flexed arm.",
+          "sources": [
+            {
+              "modelId": "breast-model-ms7",
+              "cardId": "breast-model-ms7-59",
+              "sourceLine": 59
+            },
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-46",
+              "sourceLine": 46
+            }
+          ]
+        },
+        {
+          "id": "v-45734d9782",
+          "answer": "Adducts and medially rotates arm; clavicular head flexes arm; sternocostal head can extend a flexed arm.",
+          "sources": [
+            {
+              "modelId": "rotator-cuff-qs55-6",
+              "cardId": "rotator-cuff-qs55-6-11",
+              "sourceLine": 11
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-7a00205c6c",
+      "variants": [
+        {
+          "id": "v-7a00205c6c",
+          "answer": "Lateral and medial pectoral nerves (C5–T1).",
+          "sources": [
+            {
+              "modelId": "breast-model-ms7",
+              "cardId": "breast-model-ms7-60",
+              "sourceLine": 60
+            },
+            {
+              "modelId": "rotator-cuff-qs55-6",
+              "cardId": "rotator-cuff-qs55-6-12",
+              "sourceLine": 12
+            },
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-47",
+              "sourceLine": 47
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-15c5172dfd",
+      "variants": [
+        {
+          "id": "v-15c5172dfd",
+          "answer": "Medial half of clavicle; sternum; upper six costal cartilages; aponeurosis of external oblique.",
+          "sources": [
+            {
+              "modelId": "breast-model-ms7",
+              "cardId": "breast-model-ms7-61",
+              "sourceLine": 61
+            },
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-48",
+              "sourceLine": 48
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-414be61d78",
+      "variants": [
+        {
+          "id": "v-414be61d78",
+          "answer": "Lateral lip of the intertubercular sulcus of the humerus.",
+          "sources": [
+            {
+              "modelId": "breast-model-ms7",
+              "cardId": "breast-model-ms7-62",
+              "sourceLine": 62
+            }
+          ]
+        },
+        {
+          "id": "v-c4bf134c5a",
+          "answer": "Lateral lip of intertubercular sulcus of humerus.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-49",
+              "sourceLine": 49
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-531c9dad58",
+      "question": "Attachment on model",
+      "preferredVariantId": "v-aa682ed564",
+      "variants": [
+        {
+          "id": "v-aa682ed564",
+          "answer": "Lateral lip of the intertubercular sulcus of humerus; clavicular head also originates from medial half of clavicle.",
+          "sources": [
+            {
+              "modelId": "rotator-cuff-qs55-6",
+              "cardId": "rotator-cuff-qs55-6-10",
+              "sourceLine": 10
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "breast-model-ms7",
+      "section": "",
+      "path": [
+        "10"
+      ],
+      "label": "10"
+    },
+    {
+      "modelId": "rotator-cuff-qs55-6",
+      "section": "Muscle attachment sites",
+      "path": [
+        "2"
+      ],
+      "label": "2"
+    },
+    {
+      "modelId": "upper-limb-model-ns15",
+      "section": "Muscles",
+      "path": [
+        "8"
+      ],
+      "label": "8"
+    }
+  ]
+}

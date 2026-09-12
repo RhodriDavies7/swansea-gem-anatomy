@@ -1,0 +1,161 @@
+{
+  "id": "anterior-semicircular-canal-19d989751d",
+  "name": "Anterior semicircular canal",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [],
+  "organs": [
+    "Ear"
+  ],
+  "tags": [
+    "Contents",
+    "Function",
+    "InnerEar",
+    "Relations",
+    "SemicircularCanal",
+    "VestibularApparatus"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-bd8fa38e28",
+      "variants": [
+        {
+          "id": "v-bd8fa38e28",
+          "answer": "Anterior semicircular canal",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-229",
+              "sourceLine": 229
+            },
+            {
+              "modelId": "ear-model-ds3",
+              "cardId": "ear-model-ds3-131",
+              "sourceLine": 131
+            },
+            {
+              "modelId": "inner-ear-model-ds17",
+              "cardId": "inner-ear-model-ds17-92",
+              "sourceLine": 92
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-8921810ef9",
+      "variants": [
+        {
+          "id": "v-8921810ef9",
+          "answer": "Detects angular acceleration in a vertical plane.",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-230",
+              "sourceLine": 230
+            },
+            {
+              "modelId": "ear-model-ds3",
+              "cardId": "ear-model-ds3-132",
+              "sourceLine": 132
+            }
+          ]
+        },
+        {
+          "id": "v-d674497487",
+          "answer": "Detects angular acceleration of the head in its anatomical plane.",
+          "sources": [
+            {
+              "modelId": "inner-ear-model-ds17",
+              "cardId": "inner-ear-model-ds17-93",
+              "sourceLine": 93
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-7466fd2ce4",
+      "variants": [
+        {
+          "id": "v-7466fd2ce4",
+          "answer": "Shares a common crus with the posterior semicircular canal before entering the vestibule.",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-231",
+              "sourceLine": 231
+            },
+            {
+              "modelId": "ear-model-ds3",
+              "cardId": "ear-model-ds3-133",
+              "sourceLine": 133
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f5cbdf6bfb",
+      "question": "Contents",
+      "preferredVariantId": "v-57ef137c2d",
+      "variants": [
+        {
+          "id": "v-57ef137c2d",
+          "answer": "Contains corresponding semicircular duct within the bony labyrinth.",
+          "sources": [
+            {
+              "modelId": "inner-ear-model-ds17",
+              "cardId": "inner-ear-model-ds17-94",
+              "sourceLine": 94
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "ear-largest-model-ds1",
+      "section": "D. Inner ear",
+      "path": [
+        "36"
+      ],
+      "label": "36"
+    },
+    {
+      "modelId": "ear-model-ds3",
+      "section": "C. Inner ear",
+      "path": [
+        "18"
+      ],
+      "label": "18"
+    },
+    {
+      "modelId": "inner-ear-model-ds17",
+      "section": "Vestibular apparatus",
+      "path": [
+        "12"
+      ],
+      "label": "12"
+    }
+  ]
+}

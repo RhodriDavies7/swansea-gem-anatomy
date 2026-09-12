@@ -1,0 +1,106 @@
+{
+  "id": "chiasma-tendinum-of-flexor-digitorum-superficialis-tendon-0b2f3e53b5",
+  "name": "Chiasma tendinum of flexor digitorum superficialis tendon",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [],
+  "organs": [],
+  "tags": [
+    "Definition",
+    "Function",
+    "Relations",
+    "TendonRelation"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-d2cb317448",
+      "variants": [
+        {
+          "id": "v-d2cb317448",
+          "answer": "Chiasma tendinum of flexor digitorum superficialis tendon",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-266",
+              "sourceLine": 266
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-bf1be2b7ad",
+      "question": "Definition",
+      "preferredVariantId": "v-358ff8bece",
+      "variants": [
+        {
+          "id": "v-358ff8bece",
+          "answer": "The split in each FDS tendon through which the FDP tendon passes, also called Camper’s chiasm.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-267",
+              "sourceLine": 267
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-fd67af9152",
+      "variants": [
+        {
+          "id": "v-fd67af9152",
+          "answer": "Allows FDS to insert on the middle phalanx while FDP continues distally to the distal phalanx.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-268",
+              "sourceLine": 268
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-39106ed805",
+      "variants": [
+        {
+          "id": "v-39106ed805",
+          "answer": "Occurs along the proximal phalanx within the fibrous digital sheath.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-269",
+              "sourceLine": 269
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "upper-limb-model-ns15",
+      "section": "Muscles",
+      "path": [
+        "44"
+      ],
+      "label": "44"
+    }
+  ]
+}

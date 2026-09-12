@@ -1,0 +1,148 @@
+{
+  "id": "femoral-artery-0c033ab737",
+  "name": "Femoral artery",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Arteries"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Cardiovascular"
+  ],
+  "organs": [],
+  "tags": [
+    "Artery",
+    "Branches",
+    "Course",
+    "Origin",
+    "Relations",
+    "Supply"
+  ],
+  "imageIds": [
+    "img-3424f828038b"
+  ],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-a48d2c186b",
+      "variants": [
+        {
+          "id": "v-a48d2c186b",
+          "answer": "Femoral artery",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-350",
+              "sourceLine": 350
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-8a1650eabb",
+      "variants": [
+        {
+          "id": "v-8a1650eabb",
+          "answer": "Continuation of external iliac artery distal to inguinal ligament.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-351",
+              "sourceLine": 351
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-61caa250dc",
+      "variants": [
+        {
+          "id": "v-61caa250dc",
+          "answer": "Passes through femoral triangle and adductor canal; becomes popliteal artery at adductor hiatus.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-352",
+              "sourceLine": 352
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f578227926",
+      "question": "Branches",
+      "preferredVariantId": "v-128ecdf911",
+      "variants": [
+        {
+          "id": "v-128ecdf911",
+          "answer": "Superficial epigastric, superficial circumflex iliac, external pudendal, profunda femoris, muscular and descending genicular branches.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-353",
+              "sourceLine": 353
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-222db0fc1c",
+      "question": "Supply",
+      "preferredVariantId": "v-60af12ef8f",
+      "variants": [
+        {
+          "id": "v-60af12ef8f",
+          "answer": "Main arterial inflow to lower limb; directly supplies anterior thigh and superficial groin regions.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-354",
+              "sourceLine": 354
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-3719e9f752",
+      "variants": [
+        {
+          "id": "v-3719e9f752",
+          "answer": "At inguinal ligament, nerve is lateral and vein medial to artery; nerve lies outside femoral sheath. Pulse is at mid-inguinal point, halfway between ASIS and pubic symphysis.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-355",
+              "sourceLine": 355
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "lower-limb-model-ns10",
+      "section": "Blood vessels",
+      "path": [
+        "45"
+      ],
+      "label": "45"
+    }
+  ]
+}

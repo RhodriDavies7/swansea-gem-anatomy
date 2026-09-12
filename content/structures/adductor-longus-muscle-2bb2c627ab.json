@@ -1,0 +1,127 @@
+{
+  "id": "adductor-longus-muscle-2bb2c627ab",
+  "name": "Adductor longus muscle",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-82dc7a1f47",
+      "variants": [
+        {
+          "id": "v-82dc7a1f47",
+          "answer": "Adductor longus muscle",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-112",
+              "sourceLine": 112
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-c048b947e4",
+      "variants": [
+        {
+          "id": "v-c048b947e4",
+          "answer": "Adducts the hip and assists hip flexion.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-113",
+              "sourceLine": 113
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-164e486ab5",
+      "variants": [
+        {
+          "id": "v-164e486ab5",
+          "answer": "Anterior division of obturator nerve (L2–L4).",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-114",
+              "sourceLine": 114
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-47d8ffb933",
+      "variants": [
+        {
+          "id": "v-47d8ffb933",
+          "answer": "Body of pubis inferior to pubic crest.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-115",
+              "sourceLine": 115
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-f79cef8d23",
+      "variants": [
+        {
+          "id": "v-f79cef8d23",
+          "answer": "Middle third of linea aspera.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-116",
+              "sourceLine": 116
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "lower-limb-model-ns10",
+      "section": "Muscles",
+      "path": [
+        "13"
+      ],
+      "label": "13"
+    }
+  ]
+}

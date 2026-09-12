@@ -1,0 +1,242 @@
+{
+  "id": "masseter-muscle-0c5a8faf86",
+  "name": "Masseter muscle",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "Coronal",
+    "HeadNeck",
+    "HeadNeckMuscles",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-2c6d6bdc6f",
+      "variants": [
+        {
+          "id": "v-2c6d6bdc6f",
+          "answer": "Masseter muscle",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-90",
+              "sourceLine": 90
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-498",
+              "sourceLine": 498
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-244",
+              "sourceLine": 244
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-4f0b2dc89e",
+      "variants": [
+        {
+          "id": "v-4f0b2dc89e",
+          "answer": "Elevates the mandible; superficial fibres also assist protrusion.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-91",
+              "sourceLine": 91
+            }
+          ]
+        },
+        {
+          "id": "v-3525fbfe24",
+          "answer": "Elevates mandible; superficial fibres assist protrusion.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-499",
+              "sourceLine": 499
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-245",
+              "sourceLine": 245
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-91b627057e",
+      "variants": [
+        {
+          "id": "v-91b627057e",
+          "answer": "Masseteric nerve from mandibular division of trigeminal nerve (V3).",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-92",
+              "sourceLine": 92
+            }
+          ]
+        },
+        {
+          "id": "v-88ce04ecc2",
+          "answer": "Masseteric nerve from V3.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-500",
+              "sourceLine": 500
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-246",
+              "sourceLine": 246
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-e57a4a9f87",
+      "variants": [
+        {
+          "id": "v-e57a4a9f87",
+          "answer": "Zygomatic arch and adjacent zygomatic bone.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-93",
+              "sourceLine": 93
+            }
+          ]
+        },
+        {
+          "id": "v-abd37b4c2c",
+          "answer": "Zygomatic arch and zygomatic bone.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-501",
+              "sourceLine": 501
+            }
+          ]
+        },
+        {
+          "id": "v-4bf2eeca79",
+          "answer": "Zygomatic arch.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-247",
+              "sourceLine": 247
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-cdc24c9f94",
+      "variants": [
+        {
+          "id": "v-cdc24c9f94",
+          "answer": "Lateral surface of ramus and angle of mandible.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-94",
+              "sourceLine": 94
+            }
+          ]
+        },
+        {
+          "id": "v-480ca64d57",
+          "answer": "Lateral ramus and angle of mandible.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-502",
+              "sourceLine": 502
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-248",
+              "sourceLine": 248
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "coronal-and-mid-sagittal-head-mb20",
+      "section": "Coronal head",
+      "path": [
+        "18"
+      ],
+      "label": "18"
+    },
+    {
+      "modelId": "half-head-and-neck-model-bs9",
+      "section": "Musculature of the head and neck",
+      "path": [
+        "39"
+      ],
+      "label": "39"
+    },
+    {
+      "modelId": "head-and-neck-model-cs17-2",
+      "section": "Musculature of the head and neck",
+      "path": [
+        "41"
+      ],
+      "label": "41"
+    }
+  ]
+}

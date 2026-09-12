@@ -1,0 +1,233 @@
+{
+  "id": "vocalis-muscle-9fb059d1f2",
+  "name": "Vocalis muscle",
+  "aliases": [
+    "Vocalis muscle (medial part of thyroarytenoid muscle)"
+  ],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Musculoskeletal",
+    "Respiratory"
+  ],
+  "organs": [
+    "Larynx"
+  ],
+  "tags": [
+    "Action",
+    "Innervation",
+    "Insertion",
+    "Larynx",
+    "Muscle",
+    "Origin",
+    "Muscles"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-244573d508",
+      "variants": [
+        {
+          "id": "v-244573d508",
+          "answer": "Vocalis muscle",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-178",
+              "sourceLine": 178
+            }
+          ]
+        },
+        {
+          "id": "v-6d34041bef",
+          "answer": "Vocalis muscle (medial part of thyroarytenoid muscle)",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-186",
+              "sourceLine": 186
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-186",
+              "sourceLine": 186
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-b361f689ce",
+      "variants": [
+        {
+          "id": "v-16e6c50a30",
+          "answer": "Fine-tunes tension of the vocal fold.",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-179",
+              "sourceLine": 179
+            }
+          ]
+        },
+        {
+          "id": "v-b361f689ce",
+          "answer": "Fine-tunes vocal-fold tension by selectively tensing or relaxing portions of the vocal ligament.",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-187",
+              "sourceLine": 187
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-187",
+              "sourceLine": 187
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-7b28d2894f",
+      "variants": [
+        {
+          "id": "v-7b28d2894f",
+          "answer": "Recurrent laryngeal nerve (CN X).",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-180",
+              "sourceLine": 180
+            },
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-188",
+              "sourceLine": 188
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-188",
+              "sourceLine": 188
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-9a7ef73eac",
+      "variants": [
+        {
+          "id": "v-9a7ef73eac",
+          "answer": "Inner thyroid angle/anterior vocal ligament region.",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-181",
+              "sourceLine": 181
+            }
+          ]
+        },
+        {
+          "id": "v-a1d8d81366",
+          "answer": "Inner thyroid angle/anterior vocal-ligament region.",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-189",
+              "sourceLine": 189
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-189",
+              "sourceLine": 189
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-247ffe4cd5",
+      "variants": [
+        {
+          "id": "v-247ffe4cd5",
+          "answer": "Vocal process and adjacent arytenoid cartilage.",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-182",
+              "sourceLine": 182
+            },
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-190",
+              "sourceLine": 190
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-190",
+              "sourceLine": 190
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "larynx-and-tongue-model-gs4",
+      "section": "Larynx",
+      "path": [
+        "29"
+      ],
+      "label": "29"
+    },
+    {
+      "modelId": "larynx-model-gs7",
+      "section": "Laryngeal and airway muscles",
+      "path": [
+        "40"
+      ],
+      "label": "40"
+    },
+    {
+      "modelId": "larynx-and-airway-model-gs5",
+      "section": "Laryngeal and airway muscles",
+      "path": [
+        "40"
+      ],
+      "label": "40"
+    }
+  ],
+  "redirectIds": [
+    "vocalis-muscle-medial-part-of-thyroarytenoid-muscle-e6d943b2e9"
+  ]
+}

@@ -1,0 +1,280 @@
+{
+  "id": "trigone-of-the-bladder-b7abd8155e",
+  "name": "Trigone of the bladder",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Abdomen",
+    "Pelvis"
+  ],
+  "systems": [
+    "Reproductive",
+    "Urinary"
+  ],
+  "organs": [],
+  "tags": [
+    "Bladder",
+    "BladderRegion",
+    "Boundaries",
+    "Clinical",
+    "Features",
+    "Function",
+    "Landmarks",
+    "Location",
+    "Organ",
+    "OrganPart",
+    "Relations",
+    "Structure"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-c906805c53",
+      "variants": [
+        {
+          "id": "v-c906805c53",
+          "answer": "Trigone of the bladder",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-407",
+              "sourceLine": 407
+            },
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-53",
+              "sourceLine": 53
+            },
+            {
+              "modelId": "urinary-system-model-ls3-1",
+              "cardId": "urinary-system-model-ls3-1-118",
+              "sourceLine": 118
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-607e52a331",
+      "variants": [
+        {
+          "id": "v-4fe0e396d0",
+          "answer": "Smooth triangular area of bladder mucosa between the two ureteric orifices and internal urethral orifice.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-408",
+              "sourceLine": 408
+            }
+          ]
+        },
+        {
+          "id": "v-607e52a331",
+          "answer": "Unlike most bladder mucosa, it is smooth and lacks rugae when empty.",
+          "sources": [
+            {
+              "modelId": "urinary-system-model-ls3-1",
+              "cardId": "urinary-system-model-ls3-1-121",
+              "sourceLine": 121
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-4954616ffe",
+      "variants": [
+        {
+          "id": "v-4954616ffe",
+          "answer": "Funnels urine toward bladder neck/urethra.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-409",
+              "sourceLine": 409
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-0ac14b96bf",
+      "variants": [
+        {
+          "id": "v-0ac14b96bf",
+          "answer": "Unlike most bladder mucosa, firmly adherent to underlying muscle.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-410",
+              "sourceLine": 410
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f5143a2323",
+      "question": "Organ",
+      "preferredVariantId": "v-c6039d9860",
+      "variants": [
+        {
+          "id": "v-c6039d9860",
+          "answer": "Urinary bladder.",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-54",
+              "sourceLine": 54
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-676167cbb2",
+      "question": "Boundaries",
+      "preferredVariantId": "v-40aa77132a",
+      "variants": [
+        {
+          "id": "v-b192be2a69",
+          "answer": "Triangular area between the two ureteric orifices and the internal urethral orifice.",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-55",
+              "sourceLine": 55
+            }
+          ]
+        },
+        {
+          "id": "v-40aa77132a",
+          "answer": "Two ureteric orifices superolaterally and internal urethral orifice inferiorly.",
+          "sources": [
+            {
+              "modelId": "urinary-system-model-ls3-1",
+              "cardId": "urinary-system-model-ls3-1-120",
+              "sourceLine": 120
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-fc338f87a0",
+      "question": "Features",
+      "preferredVariantId": "v-4b6bb0d92e",
+      "variants": [
+        {
+          "id": "v-4b6bb0d92e",
+          "answer": "Mucosa is smooth and firmly attached to underlying muscle, unlike the rugae of the distensible bladder wall.",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-56",
+              "sourceLine": 56
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-b03737e3cd",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-eda906af67",
+      "variants": [
+        {
+          "id": "v-eda906af67",
+          "answer": "Important cystoscopic landmark; irritation of the trigone can contribute to urinary urgency and frequency.",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-57",
+              "sourceLine": 57
+            }
+          ]
+        },
+        {
+          "id": "v-dd2a6d1f10",
+          "answer": "Clinically important region around the ureteric and urethral openings.",
+          "sources": [
+            {
+              "modelId": "urinary-system-model-ls3-1",
+              "cardId": "urinary-system-model-ls3-1-122",
+              "sourceLine": 122
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-33caf5d823",
+      "variants": [
+        {
+          "id": "v-33caf5d823",
+          "answer": "Smooth triangular area on the internal bladder base.",
+          "sources": [
+            {
+              "modelId": "urinary-system-model-ls3-1",
+              "cardId": "urinary-system-model-ls3-1-119",
+              "sourceLine": 119
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "female-pelvis-model-mo8",
+      "section": "",
+      "path": [
+        "61"
+      ],
+      "label": "61"
+    },
+    {
+      "modelId": "male-reproductive-system-model-ms2",
+      "section": "",
+      "path": [
+        "4",
+        "4f"
+      ],
+      "label": "4f"
+    },
+    {
+      "modelId": "urinary-system-model-ls3-1",
+      "section": "Bladder openings and trigone",
+      "path": [
+        "15"
+      ],
+      "label": "15"
+    }
+  ]
+}

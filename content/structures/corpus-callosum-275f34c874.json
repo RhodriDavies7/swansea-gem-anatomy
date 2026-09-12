@@ -1,0 +1,90 @@
+{
+  "id": "corpus-callosum-275f34c874",
+  "name": "Corpus callosum",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [],
+  "tags": [
+    "Brain",
+    "CNS",
+    "Parts",
+    "Structure"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-c2766c4bca",
+      "variants": [
+        {
+          "id": "v-c2766c4bca",
+          "answer": "Corpus callosum",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-687",
+              "sourceLine": 687
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-f98ca64f52",
+      "variants": [
+        {
+          "id": "v-f98ca64f52",
+          "answer": "Largest commissural fibre bundle connecting cerebral hemispheres.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-688",
+              "sourceLine": 688
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-e374280917",
+      "question": "Parts",
+      "preferredVariantId": "v-fd3d477dfa",
+      "variants": [
+        {
+          "id": "v-fd3d477dfa",
+          "answer": "Rostrum, genu, body and splenium.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-689",
+              "sourceLine": 689
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "head-and-neck-model-cs17-2",
+      "section": "Internal brain structures and cranial nerves (1–26)",
+      "path": [
+        "5"
+      ],
+      "label": "5"
+    }
+  ]
+}

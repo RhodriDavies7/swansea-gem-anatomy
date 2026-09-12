@@ -1,0 +1,235 @@
+{
+  "id": "ischiocavernosus-muscle-fe8d65ecdf",
+  "name": "Ischiocavernosus muscle",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Pelvis"
+  ],
+  "systems": [
+    "Musculoskeletal",
+    "Reproductive"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-1af88adc7d",
+      "variants": [
+        {
+          "id": "v-1af88adc7d",
+          "answer": "Ischiocavernosus muscle",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-115",
+              "sourceLine": 115
+            },
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-131",
+              "sourceLine": 131
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "curated-02a4f2ae99",
+      "variants": [
+        {
+          "id": "v-8467ec4d4d",
+          "answer": "Compresses the crus of clitoris and helps maintain clitoral erection.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-116",
+              "sourceLine": 116
+            }
+          ]
+        },
+        {
+          "id": "v-0cc0fc4d36",
+          "answer": "Compresses the crus of the penis and helps maintain erection by reducing venous outflow.",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-132",
+              "sourceLine": 132
+            }
+          ]
+        },
+        {
+          "id": "curated-02a4f2ae99",
+          "answer": "Compresses the crus of the penis or clitoris, reducing venous outflow to help maintain erection.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-116",
+              "sourceLine": 116
+            },
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-132",
+              "sourceLine": 132
+            }
+          ],
+          "editorial": true
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-1604c45ae4",
+      "variants": [
+        {
+          "id": "v-123d0478b5",
+          "answer": "Deep branch of pudendal nerve (S2–S4).",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-117",
+              "sourceLine": 117
+            }
+          ]
+        },
+        {
+          "id": "v-1604c45ae4",
+          "answer": "Deep branch of the perineal nerve from the pudendal nerve (S2–S4).",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-133",
+              "sourceLine": 133
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-3348460d62",
+      "variants": [
+        {
+          "id": "v-3348460d62",
+          "answer": "Ischial tuberosity and ischiopubic ramus.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-118",
+              "sourceLine": 118
+            }
+          ]
+        },
+        {
+          "id": "v-1f5dacd58f",
+          "answer": "Medial surface of the ischial tuberosity and ischiopubic ramus.",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-134",
+              "sourceLine": 134
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "curated-8f1e8de9f3",
+      "variants": [
+        {
+          "id": "v-a9e532c74b",
+          "answer": "Crus of clitoris/perineal membrane.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-119",
+              "sourceLine": 119
+            }
+          ]
+        },
+        {
+          "id": "v-af229a53eb",
+          "answer": "Crus of the penis and adjacent tunica albuginea of the corpus cavernosum.",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-135",
+              "sourceLine": 135
+            }
+          ]
+        },
+        {
+          "id": "curated-8f1e8de9f3",
+          "answer": "Crus of the penis or clitoris and adjacent tunica albuginea.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-119",
+              "sourceLine": 119
+            },
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-135",
+              "sourceLine": 135
+            }
+          ],
+          "editorial": true
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "female-pelvis-model-mo8",
+      "section": "",
+      "path": [
+        "22"
+      ],
+      "label": "22"
+    },
+    {
+      "modelId": "male-reproductive-system-model-ms2",
+      "section": "",
+      "path": [
+        "14"
+      ],
+      "label": "14"
+    }
+  ]
+}

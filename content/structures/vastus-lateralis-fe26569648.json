@@ -1,0 +1,128 @@
+{
+  "id": "vastus-lateralis-fe26569648",
+  "name": "Vastus lateralis",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-caa556d9c5",
+      "variants": [
+        {
+          "id": "v-caa556d9c5",
+          "answer": "Vastus lateralis",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-87",
+              "sourceLine": 87
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-31573c2f5f",
+      "variants": [
+        {
+          "id": "v-31573c2f5f",
+          "answer": "Extends the knee.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-88",
+              "sourceLine": 88
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-14dac355e2",
+      "variants": [
+        {
+          "id": "v-14dac355e2",
+          "answer": "Femoral nerve (L2–L4).",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-89",
+              "sourceLine": 89
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-e7efd2ff10",
+      "variants": [
+        {
+          "id": "v-e7efd2ff10",
+          "answer": "Greater trochanter, gluteal tuberosity and lateral lip of linea aspera.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-90",
+              "sourceLine": 90
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-0827e62f73",
+      "variants": [
+        {
+          "id": "v-0827e62f73",
+          "answer": "Patella via quadriceps tendon and lateral patellar retinaculum; tibial tuberosity via patellar ligament.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-91",
+              "sourceLine": 91
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "lower-limb-model-ns10",
+      "section": "Muscles",
+      "path": [
+        "11",
+        "11c"
+      ],
+      "label": "11c"
+    }
+  ]
+}

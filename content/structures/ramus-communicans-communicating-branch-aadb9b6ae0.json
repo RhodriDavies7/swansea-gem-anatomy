@@ -1,0 +1,90 @@
+{
+  "id": "ramus-communicans-communicating-branch-aadb9b6ae0",
+  "name": "Ramus communicans (communicating branch)",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Arteries"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Cardiovascular"
+  ],
+  "organs": [],
+  "tags": [
+    "ArteriesAndNerves",
+    "Artery",
+    "Function",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-3ad196d844",
+      "variants": [
+        {
+          "id": "v-3ad196d844",
+          "answer": "Ramus communicans (communicating branch)",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-348",
+              "sourceLine": 348
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-10cf783b7f",
+      "variants": [
+        {
+          "id": "v-10cf783b7f",
+          "answer": "Provides an anastomotic communication between distal posterior tibial and fibular arterial territories.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-349",
+              "sourceLine": 349
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-2bd925bf1b",
+      "variants": [
+        {
+          "id": "v-2bd925bf1b",
+          "answer": "Located in the distal posterior leg/ankle vascular network.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-350",
+              "sourceLine": 350
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "foot-model-ns9",
+      "section": "Arteries and nerves",
+      "path": [
+        "51"
+      ],
+      "label": "51"
+    }
+  ]
+}

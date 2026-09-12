@@ -1,0 +1,128 @@
+{
+  "id": "flexor-digitorum-longus-tendon-bdfa9bc25b",
+  "name": "Flexor digitorum longus tendon",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Tendons"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Course",
+    "Function",
+    "Insertion",
+    "Muscles",
+    "Relations",
+    "Tendon"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-d4f05d868b",
+      "variants": [
+        {
+          "id": "v-d4f05d868b",
+          "answer": "Flexor digitorum longus tendon",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-145",
+              "sourceLine": 145
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-a31757ae7a",
+      "variants": [
+        {
+          "id": "v-a31757ae7a",
+          "answer": "Passes posterior to medial malleolus, enters sole and divides into four tendons for toes 2–5.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-146",
+              "sourceLine": 146
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-8c05523e4a",
+      "variants": [
+        {
+          "id": "v-8c05523e4a",
+          "answer": "Bases of distal phalanges of toes 2–5.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-147",
+              "sourceLine": 147
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-076bcdc556",
+      "variants": [
+        {
+          "id": "v-076bcdc556",
+          "answer": "Transmits flexor digitorum longus force to flex the lateral four toes.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-148",
+              "sourceLine": 148
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-baeb160f4b",
+      "variants": [
+        {
+          "id": "v-baeb160f4b",
+          "answer": "Receives insertion of quadratus plantae and gives origin to lumbricals in the sole.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-149",
+              "sourceLine": 149
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "foot-model-ns9",
+      "section": "Muscles",
+      "path": [
+        "22"
+      ],
+      "label": "22"
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "id": "posterior-inferior-cerebellar-artery-af9a066d61",
+  "name": "Posterior inferior cerebellar artery",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Arteries"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Cardiovascular"
+  ],
+  "organs": [],
+  "tags": [
+    "Artery",
+    "Clinical",
+    "Course",
+    "Origin",
+    "Supply"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-e44e998510",
+      "variants": [
+        {
+          "id": "v-e44e998510",
+          "answer": "Posterior inferior cerebellar artery",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-113",
+              "sourceLine": 113
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-cc36879674",
+      "variants": [
+        {
+          "id": "v-cc36879674",
+          "answer": "Vertebral artery.",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-114",
+              "sourceLine": 114
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-2ae3778588",
+      "variants": [
+        {
+          "id": "v-2ae3778588",
+          "answer": "Winds around the medulla toward the inferior cerebellum.",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-115",
+              "sourceLine": 115
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-222db0fc1c",
+      "question": "Supply",
+      "preferredVariantId": "v-34c3106772",
+      "variants": [
+        {
+          "id": "v-34c3106772",
+          "answer": "Posteroinferior cerebellum and lateral medulla.",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-116",
+              "sourceLine": 116
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-b03737e3cd",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-1c5ad07ad1",
+      "variants": [
+        {
+          "id": "v-1c5ad07ad1",
+          "answer": "Occlusion classically causes lateral medullary (Wallenberg) syndrome.",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-117",
+              "sourceLine": 117
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "cranial-floor-model-bs1",
+      "section": "",
+      "path": [
+        "19"
+      ],
+      "label": "19"
+    }
+  ]
+}

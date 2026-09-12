@@ -1,0 +1,127 @@
+{
+  "id": "teres-major-8d24d41b64",
+  "name": "Teres major",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-43b13f38ed",
+      "variants": [
+        {
+          "id": "v-43b13f38ed",
+          "answer": "Teres major",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-15",
+              "sourceLine": 15
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-a64f975fc2",
+      "variants": [
+        {
+          "id": "v-a64f975fc2",
+          "answer": "Adducts and medially rotates the arm; assists extension of the arm from a flexed position.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-16",
+              "sourceLine": 16
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-02f44ba7f8",
+      "variants": [
+        {
+          "id": "v-02f44ba7f8",
+          "answer": "Lower subscapular nerve (C5–C6).",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-17",
+              "sourceLine": 17
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-942d642ac7",
+      "variants": [
+        {
+          "id": "v-942d642ac7",
+          "answer": "Posterior surface of inferior angle and adjacent lateral border of scapula.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-18",
+              "sourceLine": 18
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-909b0ba0c3",
+      "variants": [
+        {
+          "id": "v-909b0ba0c3",
+          "answer": "Medial lip of intertubercular sulcus of humerus.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-19",
+              "sourceLine": 19
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "upper-limb-model-ns15",
+      "section": "Muscles",
+      "path": [
+        "3"
+      ],
+      "label": "3"
+    }
+  ]
+}

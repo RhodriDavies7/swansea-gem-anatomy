@@ -1,0 +1,272 @@
+{
+  "id": "orbicularis-oris-muscle-9093589cd5",
+  "name": "Orbicularis oris muscle",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "HeadNeck",
+    "HeadNeckMuscles",
+    "Innervation",
+    "Insertion",
+    "MidSagittal",
+    "MidlineStructures",
+    "Muscle",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-3ae2ea2e04",
+      "variants": [
+        {
+          "id": "v-3ae2ea2e04",
+          "answer": "Orbicularis oris muscle",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-380",
+              "sourceLine": 380
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-262",
+              "sourceLine": 262
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-449",
+              "sourceLine": 449
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-202",
+              "sourceLine": 202
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-9a9e2a5450",
+      "variants": [
+        {
+          "id": "v-9a9e2a5450",
+          "answer": "Closes and protrudes lips; important in speech, sucking and controlling oral opening.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-381",
+              "sourceLine": 381
+            }
+          ]
+        },
+        {
+          "id": "v-44dcfd07f0",
+          "answer": "Closes and protrudes lips; important in speech and oral competence.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-263",
+              "sourceLine": 263
+            }
+          ]
+        },
+        {
+          "id": "v-89e6cd8705",
+          "answer": "Closes and protrudes lips.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-450",
+              "sourceLine": 450
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-203",
+              "sourceLine": 203
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-6ed4bfb505",
+      "variants": [
+        {
+          "id": "v-6ed4bfb505",
+          "answer": "Facial nerve (CN VII).",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-382",
+              "sourceLine": 382
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-264",
+              "sourceLine": 264
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-451",
+              "sourceLine": 451
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-204",
+              "sourceLine": 204
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-457e8e3a76",
+      "variants": [
+        {
+          "id": "v-457e8e3a76",
+          "answer": "Complex fibres from maxilla, mandible and surrounding perioral muscles/modiolus.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-383",
+              "sourceLine": 383
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-265",
+              "sourceLine": 265
+            }
+          ]
+        },
+        {
+          "id": "v-d9bbb08d70",
+          "answer": "Complex fibres around modiolus, maxilla and mandible.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-452",
+              "sourceLine": 452
+            }
+          ]
+        },
+        {
+          "id": "v-4f0f231b72",
+          "answer": "Perioral fibres from maxilla, mandible and modiolus.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-205",
+              "sourceLine": 205
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-47c6c4f7db",
+      "variants": [
+        {
+          "id": "v-47c6c4f7db",
+          "answer": "Skin and mucosa of lips.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-384",
+              "sourceLine": 384
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-266",
+              "sourceLine": 266
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-453",
+              "sourceLine": 453
+            }
+          ]
+        },
+        {
+          "id": "v-56b447cab9",
+          "answer": "Skin/mucosa of lips.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-206",
+              "sourceLine": 206
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "coronal-and-mid-sagittal-head-mb20",
+      "section": "Other midline structures",
+      "path": [
+        "f"
+      ],
+      "label": "f"
+    },
+    {
+      "modelId": "half-head-and-neck-model-bs9",
+      "section": "Other midline structures",
+      "path": [
+        "f"
+      ],
+      "label": "f"
+    },
+    {
+      "modelId": "half-head-and-neck-model-bs9",
+      "section": "Musculature of the head and neck",
+      "path": [
+        "32"
+      ],
+      "label": "32"
+    },
+    {
+      "modelId": "head-and-neck-model-cs17-2",
+      "section": "Musculature of the head and neck",
+      "path": [
+        "35"
+      ],
+      "label": "35"
+    }
+  ]
+}

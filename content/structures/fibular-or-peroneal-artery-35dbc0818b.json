@@ -1,0 +1,127 @@
+{
+  "id": "fibular-or-peroneal-artery-35dbc0818b",
+  "name": "Fibular (or peroneal) artery",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Arteries"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Cardiovascular"
+  ],
+  "organs": [],
+  "tags": [
+    "Artery",
+    "Branches",
+    "Course",
+    "Origin",
+    "Supply"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-14c4468621",
+      "variants": [
+        {
+          "id": "v-14c4468621",
+          "answer": "Fibular (or peroneal) artery",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-428",
+              "sourceLine": 428
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-0e5058efe5",
+      "variants": [
+        {
+          "id": "v-0e5058efe5",
+          "answer": "Tibioperoneal trunk; commonly described as a proximal branch of posterior tibial artery.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-429",
+              "sourceLine": 429
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-bc8dc08deb",
+      "variants": [
+        {
+          "id": "v-bc8dc08deb",
+          "answer": "Descends close to medial side of fibula in deep posterior compartment, deep to flexor hallucis longus.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-430",
+              "sourceLine": 430
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f578227926",
+      "question": "Branches",
+      "preferredVariantId": "v-0fa1adf302",
+      "variants": [
+        {
+          "id": "v-0fa1adf302",
+          "answer": "Muscular, nutrient fibular, perforating, communicating and calcaneal branches.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-431",
+              "sourceLine": 431
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-222db0fc1c",
+      "question": "Supply",
+      "preferredVariantId": "v-0bb6cd4cf8",
+      "variants": [
+        {
+          "id": "v-0bb6cd4cf8",
+          "answer": "Lateral and deep posterior leg, fibula, and lateral ankle/heel.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-432",
+              "sourceLine": 432
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "lower-limb-model-ns10",
+      "section": "Blood vessels",
+      "path": [
+        "58"
+      ],
+      "label": "58"
+    }
+  ]
+}

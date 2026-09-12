@@ -1,0 +1,146 @@
+{
+  "id": "common-interosseus-artery-8afe4aafbb",
+  "name": "Common interosseus artery",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Arteries"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [
+    "Cardiovascular"
+  ],
+  "organs": [],
+  "tags": [
+    "Artery",
+    "Branches",
+    "Course",
+    "Origin",
+    "Relations",
+    "Supply"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-290c3e6538",
+      "variants": [
+        {
+          "id": "v-290c3e6538",
+          "answer": "Common interosseus artery",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-372",
+              "sourceLine": 372
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-6191c82f6b",
+      "variants": [
+        {
+          "id": "v-6191c82f6b",
+          "answer": "Short proximal branch of ulnar artery.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-373",
+              "sourceLine": 373
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-67e39a9f0e",
+      "variants": [
+        {
+          "id": "v-67e39a9f0e",
+          "answer": "Passes toward proximal interosseous membrane.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-374",
+              "sourceLine": 374
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f578227926",
+      "question": "Branches",
+      "preferredVariantId": "v-8ecfc4eb96",
+      "variants": [
+        {
+          "id": "v-8ecfc4eb96",
+          "answer": "Anterior and posterior interosseous arteries.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-375",
+              "sourceLine": 375
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-222db0fc1c",
+      "question": "Supply",
+      "preferredVariantId": "v-e806cc152d",
+      "variants": [
+        {
+          "id": "v-e806cc152d",
+          "answer": "Deep structures of forearm through terminal branches.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-376",
+              "sourceLine": 376
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-e740439fc0",
+      "variants": [
+        {
+          "id": "v-e740439fc0",
+          "answer": "Very short arterial trunk near proximal radius/ulna.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-377",
+              "sourceLine": 377
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "upper-limb-model-ns15",
+      "section": "Arteries",
+      "path": [
+        "60"
+      ],
+      "label": "60"
+    }
+  ]
+}

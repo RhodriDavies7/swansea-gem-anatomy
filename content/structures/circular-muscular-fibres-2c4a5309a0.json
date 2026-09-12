@@ -1,0 +1,111 @@
+{
+  "id": "circular-muscular-fibres-2c4a5309a0",
+  "name": "Circular muscular fibres",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Abdomen"
+  ],
+  "systems": [
+    "Digestive"
+  ],
+  "organs": [
+    "Stomach"
+  ],
+  "tags": [
+    "Function",
+    "GastricWall",
+    "Location",
+    "MuscleLayer",
+    "Structure"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-1f218c43df",
+      "variants": [
+        {
+          "id": "v-1f218c43df",
+          "answer": "Circular muscular fibres",
+          "sources": [
+            {
+              "modelId": "stomach-model-ns15",
+              "cardId": "stomach-model-ns15-44",
+              "sourceLine": 44
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-84fbc1f86d",
+      "variants": [
+        {
+          "id": "v-84fbc1f86d",
+          "answer": "Middle layer of the muscularis externa.",
+          "sources": [
+            {
+              "modelId": "stomach-model-ns15",
+              "cardId": "stomach-model-ns15-45",
+              "sourceLine": 45
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-b31030f0e8",
+      "variants": [
+        {
+          "id": "v-b31030f0e8",
+          "answer": "Constricts the stomach lumen during mixing and peristalsis.",
+          "sources": [
+            {
+              "modelId": "stomach-model-ns15",
+              "cardId": "stomach-model-ns15-46",
+              "sourceLine": 46
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-ea1414d4c6",
+      "question": "Specialisation",
+      "preferredVariantId": "v-db97c1d767",
+      "variants": [
+        {
+          "id": "v-db97c1d767",
+          "answer": "Thickens distally to form the pyloric sphincter.",
+          "sources": [
+            {
+              "modelId": "stomach-model-ns15",
+              "cardId": "stomach-model-ns15-47",
+              "sourceLine": 47
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "stomach-model-ns15",
+      "section": "Gastric wall and muscle layers",
+      "path": [
+        "8"
+      ],
+      "label": "8"
+    }
+  ]
+}

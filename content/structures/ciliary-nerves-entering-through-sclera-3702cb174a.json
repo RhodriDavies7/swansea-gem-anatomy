@@ -1,0 +1,130 @@
+{
+  "id": "ciliary-nerves-entering-through-sclera-3702cb174a",
+  "name": "Ciliary nerves entering through sclera",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Nerves"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [
+    "Eye"
+  ],
+  "tags": [
+    "Autonomic",
+    "Course",
+    "Eye",
+    "Lesion",
+    "Nerve",
+    "Sensory"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-c1b529461f",
+      "variants": [
+        {
+          "id": "v-c1b529461f",
+          "answer": "Ciliary nerves entering through sclera",
+          "sources": [
+            {
+              "modelId": "eyeball-with-part-of-orbit-model-cs2",
+              "cardId": "eyeball-with-part-of-orbit-model-cs2-96",
+              "sourceLine": 96
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-83d45944f3",
+      "variants": [
+        {
+          "id": "v-83d45944f3",
+          "answer": "Long and short ciliary nerves pierce the sclera around the optic nerve and pass forward within the suprachoroidal space.",
+          "sources": [
+            {
+              "modelId": "eyeball-with-part-of-orbit-model-cs2",
+              "cardId": "eyeball-with-part-of-orbit-model-cs2-97",
+              "sourceLine": 97
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-a453254382",
+      "question": "Sensory functions",
+      "preferredVariantId": "v-fdba248b49",
+      "variants": [
+        {
+          "id": "v-fdba248b49",
+          "answer": "Carry sensory fibres from cornea and other ocular structures.",
+          "sources": [
+            {
+              "modelId": "eyeball-with-part-of-orbit-model-cs2",
+              "cardId": "eyeball-with-part-of-orbit-model-cs2-98",
+              "sourceLine": 98
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-47f6fc5937",
+      "question": "Autonomic functions",
+      "preferredVariantId": "v-e22dab0477",
+      "variants": [
+        {
+          "id": "v-e22dab0477",
+          "answer": "Carry sympathetic and parasympathetic fibres to structures including iris and ciliary muscle.",
+          "sources": [
+            {
+              "modelId": "eyeball-with-part-of-orbit-model-cs2",
+              "cardId": "eyeball-with-part-of-orbit-model-cs2-99",
+              "sourceLine": 99
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-bc53d10c57",
+      "question": "Lesion",
+      "preferredVariantId": "v-5aa79f6d14",
+      "variants": [
+        {
+          "id": "v-5aa79f6d14",
+          "answer": "Damage may impair ocular sensation and autonomic control of the pupil and accommodation, depending on which long or short ciliary fibres are involved.",
+          "sources": [
+            {
+              "modelId": "eyeball-with-part-of-orbit-model-cs2",
+              "cardId": "eyeball-with-part-of-orbit-model-cs2-100",
+              "sourceLine": 100
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "eyeball-with-part-of-orbit-model-cs2",
+      "section": "Eye",
+      "path": [
+        "15"
+      ],
+      "label": "15"
+    }
+  ]
+}

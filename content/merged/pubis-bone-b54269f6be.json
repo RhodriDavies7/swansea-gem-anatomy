@@ -1,0 +1,190 @@
+{
+  "id": "pubis-bone-b54269f6be",
+  "name": "Pubis bone",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Bones"
+  ],
+  "regions": [
+    "Lower limb",
+    "Pelvis"
+  ],
+  "systems": [
+    "Musculoskeletal",
+    "Reproductive"
+  ],
+  "organs": [],
+  "tags": [
+    "Articulations",
+    "Attachments",
+    "Bone",
+    "Landmarks",
+    "Orientation"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-8251d02f88",
+      "variants": [
+        {
+          "id": "v-8251d02f88",
+          "answer": "Pubis bone",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-2",
+              "sourceLine": 2
+            },
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-532",
+              "sourceLine": 532
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-a40bee8d10",
+      "question": "Articulations",
+      "preferredVariantId": "v-488f1bc966",
+      "variants": [
+        {
+          "id": "v-29241de865",
+          "answer": "Articulates with the opposite pubis at the pubic symphysis and contributes to the acetabulum and obturator foramen.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-3",
+              "sourceLine": 3
+            }
+          ]
+        },
+        {
+          "id": "v-488f1bc966",
+          "answer": "Meets opposite pubis at pubic symphysis; fuses with ilium and ischium in hip bone and contributes to acetabulum articulating with femoral head.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-533",
+              "sourceLine": 533
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-626b6c1d45",
+      "question": "Landmarks",
+      "preferredVariantId": "v-3f2cdb1397",
+      "variants": [
+        {
+          "id": "v-8ac26eb140",
+          "answer": "Body, superior ramus, inferior ramus, pubic crest, pubic tubercle and pecten pubis.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-4",
+              "sourceLine": 4
+            }
+          ]
+        },
+        {
+          "id": "v-3f2cdb1397",
+          "answer": "Body, superior and inferior rami, pubic crest, pubic tubercle, pecten pubis and obturator groove.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-534",
+              "sourceLine": 534
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-6771ade6e8",
+      "question": "Attachments",
+      "preferredVariantId": "v-261dd0e643",
+      "variants": [
+        {
+          "id": "v-261dd0e643",
+          "answer": "Provides attachment for adductor muscles, gracilis, rectus abdominis and pelvic/perineal structures.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-5",
+              "sourceLine": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-2389607e0b",
+      "question": "Muscle attachments",
+      "preferredVariantId": "v-37d8010295",
+      "variants": [
+        {
+          "id": "v-37d8010295",
+          "answer": "Pectineus on superior ramus; adductor longus on body; adductor brevis, gracilis and adductor magnus on body/inferior ramus; rectus abdominis on crest/symphysis; obturator muscles around obturator foramen.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-535",
+              "sourceLine": 535
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-86e4e38754",
+      "question": "Orientation",
+      "preferredVariantId": "v-1b5d1db193",
+      "variants": [
+        {
+          "id": "v-1b5d1db193",
+          "answer": "Symphyseal surface faces medially; body is anterior; acetabular contribution faces laterally; superior ramus lies above obturator foramen.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-536",
+              "sourceLine": 536
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "female-pelvis-model-mo8",
+      "section": "",
+      "path": [
+        "1"
+      ],
+      "label": "1"
+    },
+    {
+      "modelId": "lower-limb-model-ns10",
+      "section": "Bones",
+      "path": [
+        "73"
+      ],
+      "label": "73"
+    }
+  ]
+}

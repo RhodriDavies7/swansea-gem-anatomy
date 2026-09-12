@@ -1,0 +1,72 @@
+{
+  "id": "middle-turn-2nd-turn-of-cochlea-14c3790b22",
+  "name": "Middle turn (2nd turn) of cochlea",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [],
+  "organs": [
+    "Ear"
+  ],
+  "tags": [
+    "CochlearPart",
+    "InnerEar",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-748d17ff19",
+      "variants": [
+        {
+          "id": "v-748d17ff19",
+          "answer": "Middle turn (2nd turn) of cochlea",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-252",
+              "sourceLine": 252
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-676c4c82c9",
+      "variants": [
+        {
+          "id": "v-676c4c82c9",
+          "answer": "Intermediate spiral turn between the basal and upper turns.",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-253",
+              "sourceLine": 253
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "ear-largest-model-ds1",
+      "section": "D. Inner ear",
+      "path": [
+        "38",
+        "b"
+      ],
+      "label": "38b"
+    }
+  ]
+}

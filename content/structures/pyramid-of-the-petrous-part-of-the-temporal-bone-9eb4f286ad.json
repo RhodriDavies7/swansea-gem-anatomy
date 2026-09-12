@@ -1,0 +1,111 @@
+{
+  "id": "pyramid-of-the-petrous-part-of-the-temporal-bone-9eb4f286ad",
+  "name": "Pyramid of the petrous part of the temporal bone",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Bones"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [
+    "Ear"
+  ],
+  "tags": [
+    "Bone",
+    "Contents",
+    "Relations",
+    "Structure",
+    "TemporalBone"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-08df6674cb",
+      "variants": [
+        {
+          "id": "v-08df6674cb",
+          "answer": "Pyramid of the petrous part of the temporal bone",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-79",
+              "sourceLine": 79
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-4ad21ece2b",
+      "variants": [
+        {
+          "id": "v-4ad21ece2b",
+          "answer": "Dense pyramidal portion of temporal bone containing the middle and inner ear structures.",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-80",
+              "sourceLine": 80
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-f8f76772ec",
+      "variants": [
+        {
+          "id": "v-f8f76772ec",
+          "answer": "Projects anteromedially from the temporal bone toward the skull base.",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-81",
+              "sourceLine": 81
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f5cbdf6bfb",
+      "question": "Contents",
+      "preferredVariantId": "v-82fe1fd3f4",
+      "variants": [
+        {
+          "id": "v-82fe1fd3f4",
+          "answer": "Contains the bony labyrinth, internal acoustic meatus and carotid canal.",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-82",
+              "sourceLine": 82
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "ear-largest-model-ds1",
+      "section": "B. Temporal bone",
+      "path": [
+        "15"
+      ],
+      "label": "15"
+    }
+  ]
+}

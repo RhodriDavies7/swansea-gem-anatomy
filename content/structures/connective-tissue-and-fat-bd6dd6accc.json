@@ -1,0 +1,108 @@
+{
+  "id": "connective-tissue-and-fat-bd6dd6accc",
+  "name": "Connective tissue and fat",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Thorax"
+  ],
+  "systems": [],
+  "organs": [
+    "Breast"
+  ],
+  "tags": [
+    "BreastTissue",
+    "Function",
+    "Relations",
+    "Structure"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-cff3a197da",
+      "variants": [
+        {
+          "id": "v-cff3a197da",
+          "answer": "Connective tissue and fat",
+          "sources": [
+            {
+              "modelId": "breast-model-ms7",
+              "cardId": "breast-model-ms7-39",
+              "sourceLine": 39
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-410da65012",
+      "variants": [
+        {
+          "id": "v-410da65012",
+          "answer": "Fibrous connective tissue and adipose tissue surrounding and supporting the glandular tissue.",
+          "sources": [
+            {
+              "modelId": "breast-model-ms7",
+              "cardId": "breast-model-ms7-40",
+              "sourceLine": 40
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-6cac32225c",
+      "variants": [
+        {
+          "id": "v-6cac32225c",
+          "answer": "Provides structural support, shape and cushioning to the breast.",
+          "sources": [
+            {
+              "modelId": "breast-model-ms7",
+              "cardId": "breast-model-ms7-41",
+              "sourceLine": 41
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-75654f3bd4",
+      "variants": [
+        {
+          "id": "v-75654f3bd4",
+          "answer": "Fibrous septa extend between skin and deep fascia and contribute to the suspensory ligaments of the breast.",
+          "sources": [
+            {
+              "modelId": "breast-model-ms7",
+              "cardId": "breast-model-ms7-42",
+              "sourceLine": 42
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "breast-model-ms7",
+      "section": "",
+      "path": [
+        "7"
+      ],
+      "label": "7"
+    }
+  ]
+}

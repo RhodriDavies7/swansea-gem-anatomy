@@ -1,0 +1,193 @@
+{
+  "id": "abductor-digiti-minimi-muscle-b6f34ff987",
+  "name": "Abductor digiti minimi muscle",
+  "aliases": [
+    "Abductor digiti minimi"
+  ],
+  "scope": "Upper limb",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "MusclesAndTendons",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-dd1338a450",
+      "variants": [
+        {
+          "id": "v-dd1338a450",
+          "answer": "Abductor digiti minimi muscle",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-108",
+              "sourceLine": 108
+            }
+          ]
+        },
+        {
+          "id": "v-323ed61629",
+          "answer": "Abductor digiti minimi",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-204",
+              "sourceLine": 204
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-f0d62587f4",
+      "variants": [
+        {
+          "id": "v-6cf3e49321",
+          "answer": "Abducts the 5th digit and assists MCP flexion.",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-109",
+              "sourceLine": 109
+            }
+          ]
+        },
+        {
+          "id": "v-f0d62587f4",
+          "answer": "Abducts the fifth digit and assists MCP flexion.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-205",
+              "sourceLine": 205
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-5d580a350d",
+      "variants": [
+        {
+          "id": "v-5d580a350d",
+          "answer": "Deep branch of ulnar nerve (C8–T1).",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-110",
+              "sourceLine": 110
+            },
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-206",
+              "sourceLine": 206
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-cb8ccc410e",
+      "variants": [
+        {
+          "id": "v-cb8ccc410e",
+          "answer": "Pisiform and tendon of flexor carpi ulnaris.",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-111",
+              "sourceLine": 111
+            },
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-207",
+              "sourceLine": 207
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-6947826737",
+      "variants": [
+        {
+          "id": "v-edc21ae658",
+          "answer": "Medial base of proximal phalanx of 5th digit and extensor expansion.",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-112",
+              "sourceLine": 112
+            }
+          ]
+        },
+        {
+          "id": "v-6947826737",
+          "answer": "Medial base of proximal phalanx of fifth digit and extensor expansion.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-208",
+              "sourceLine": 208
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "hand-model-ns13",
+      "section": "Muscles, tendons and pulleys",
+      "path": [
+        "m"
+      ],
+      "label": "m"
+    },
+    {
+      "modelId": "upper-limb-model-ns15",
+      "section": "Muscles",
+      "path": [
+        "34"
+      ],
+      "label": "34"
+    }
+  ]
+}

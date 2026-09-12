@@ -1,0 +1,127 @@
+{
+  "id": "deltoid-1e16057c54",
+  "name": "Deltoid",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-43aecbe897",
+      "variants": [
+        {
+          "id": "v-43aecbe897",
+          "answer": "Deltoid",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-39",
+              "sourceLine": 39
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-233d493d48",
+      "variants": [
+        {
+          "id": "v-233d493d48",
+          "answer": "Middle fibres abduct the arm; anterior fibres flex and medially rotate; posterior fibres extend and laterally rotate.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-40",
+              "sourceLine": 40
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-fdb3d6c6c0",
+      "variants": [
+        {
+          "id": "v-fdb3d6c6c0",
+          "answer": "Axillary nerve (C5–C6).",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-41",
+              "sourceLine": 41
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-c0111a8618",
+      "variants": [
+        {
+          "id": "v-c0111a8618",
+          "answer": "Lateral third of clavicle, acromion and spine of scapula.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-42",
+              "sourceLine": 42
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-ec6272be40",
+      "variants": [
+        {
+          "id": "v-ec6272be40",
+          "answer": "Deltoid tuberosity of humerus.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-43",
+              "sourceLine": 43
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "upper-limb-model-ns15",
+      "section": "Muscles",
+      "path": [
+        "7"
+      ],
+      "label": "7"
+    }
+  ]
+}

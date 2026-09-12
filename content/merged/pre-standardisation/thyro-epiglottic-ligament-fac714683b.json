@@ -1,0 +1,93 @@
+{
+  "id": "thyro-epiglottic-ligament-fac714683b",
+  "name": "Thyro-epiglottic ligament",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Ligaments"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Musculoskeletal",
+    "Respiratory"
+  ],
+  "organs": [
+    "Larynx"
+  ],
+  "tags": [
+    "Attachments",
+    "Function",
+    "Larynx",
+    "Ligament"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-0dcf2f29fa",
+      "variants": [
+        {
+          "id": "v-0dcf2f29fa",
+          "answer": "Thyro-epiglottic ligament",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-157",
+              "sourceLine": 157
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6771ade6e8",
+      "question": "Attachments",
+      "preferredVariantId": "v-09f0097e5f",
+      "variants": [
+        {
+          "id": "v-09f0097e5f",
+          "answer": "Connects the petiole of the epiglottis to the inner thyroid cartilage.",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-158",
+              "sourceLine": 158
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-f482d64839",
+      "variants": [
+        {
+          "id": "v-f482d64839",
+          "answer": "Anchors the epiglottis inferiorly.",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-159",
+              "sourceLine": 159
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "larynx-and-tongue-model-gs4",
+      "section": "Larynx",
+      "path": [
+        "25"
+      ],
+      "label": "25"
+    }
+  ]
+}

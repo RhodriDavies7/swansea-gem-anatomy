@@ -1,0 +1,213 @@
+{
+  "id": "external-anal-sphincter-muscle-a58c4231f1",
+  "name": "External anal sphincter muscle",
+  "aliases": [
+    "External anal sphincter"
+  ],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Pelvis"
+  ],
+  "systems": [
+    "Musculoskeletal",
+    "Reproductive"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-45c3f3f4d4",
+      "variants": [
+        {
+          "id": "v-45c3f3f4d4",
+          "answer": "External anal sphincter muscle",
+          "sources": [
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-135",
+              "sourceLine": 135
+            }
+          ]
+        },
+        {
+          "id": "v-b674f0a9b3",
+          "answer": "External anal sphincter",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-122",
+              "sourceLine": 122
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-d482f3c541",
+      "variants": [
+        {
+          "id": "v-6228cbabe4",
+          "answer": "Provides voluntary constriction of the anal canal and contributes to faecal continence.",
+          "sources": [
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-136",
+              "sourceLine": 136
+            }
+          ]
+        },
+        {
+          "id": "v-d482f3c541",
+          "answer": "Voluntarily constricts the anal canal and contributes to faecal continence.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-123",
+              "sourceLine": 123
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-f48a0377c6",
+      "variants": [
+        {
+          "id": "v-f48a0377c6",
+          "answer": "Inferior rectal nerves from pudendal nerve (S2–S4), with contributions from S4.",
+          "sources": [
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-137",
+              "sourceLine": 137
+            }
+          ]
+        },
+        {
+          "id": "v-99a7088502",
+          "answer": "Inferior rectal nerve from pudendal nerve (S2–S4), with S4 contribution.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-124",
+              "sourceLine": 124
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-ce34a15860",
+      "variants": [
+        {
+          "id": "v-ce34a15860",
+          "answer": "Encircles the anal canal and attaches anteriorly to the perineal body.",
+          "sources": [
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-138",
+              "sourceLine": 138
+            }
+          ]
+        },
+        {
+          "id": "v-110b294c1e",
+          "answer": "Perineal body and tissues around anal canal.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-125",
+              "sourceLine": 125
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-92b4dbeff5",
+      "variants": [
+        {
+          "id": "v-92b4dbeff5",
+          "answer": "Posteriorly attaches to the anococcygeal ligament/body and coccyx region.",
+          "sources": [
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-139",
+              "sourceLine": 139
+            }
+          ]
+        },
+        {
+          "id": "v-fed149aaf3",
+          "answer": "Anococcygeal ligament/coccyx region.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-126",
+              "sourceLine": 126
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "female-reproductive-system-model-ms1",
+      "section": "",
+      "path": [
+        "19"
+      ],
+      "label": "19"
+    },
+    {
+      "modelId": "female-pelvis-model-mo8",
+      "section": "",
+      "path": [
+        "23"
+      ],
+      "label": "23"
+    }
+  ]
+}

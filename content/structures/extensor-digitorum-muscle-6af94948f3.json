@@ -1,0 +1,203 @@
+{
+  "id": "extensor-digitorum-muscle-6af94948f3",
+  "name": "Extensor digitorum muscle",
+  "aliases": [
+    "Extensor digitorum"
+  ],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "MusclesAndTendons",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-94b02317ed",
+      "variants": [
+        {
+          "id": "v-94b02317ed",
+          "answer": "Extensor digitorum muscle",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-31",
+              "sourceLine": 31
+            }
+          ]
+        },
+        {
+          "id": "v-cc691cf2f7",
+          "answer": "Extensor digitorum",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-99",
+              "sourceLine": 99
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-66ba004a3d",
+      "variants": [
+        {
+          "id": "v-baf5b4bd4b",
+          "answer": "Extends digits 2–5 mainly at metacarpophalangeal joints and assists wrist extension.",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-32",
+              "sourceLine": 32
+            }
+          ]
+        },
+        {
+          "id": "v-66ba004a3d",
+          "answer": "Extends digits 2–5, chiefly at MCP joints and via extensor expansions at IP joints; assists wrist extension.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-100",
+              "sourceLine": 100
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-95dc268767",
+      "variants": [
+        {
+          "id": "v-95dc268767",
+          "answer": "Posterior interosseous nerve, continuation of deep radial nerve (C7–C8).",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-33",
+              "sourceLine": 33
+            }
+          ]
+        },
+        {
+          "id": "v-6f015ae0cc",
+          "answer": "Posterior interosseous nerve (C7–C8).",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-101",
+              "sourceLine": 101
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-60183a93bd",
+      "variants": [
+        {
+          "id": "v-60183a93bd",
+          "answer": "Lateral epicondyle of humerus via common extensor tendon.",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-34",
+              "sourceLine": 34
+            }
+          ]
+        },
+        {
+          "id": "v-86ac4ca28b",
+          "answer": "Lateral epicondyle via common extensor tendon.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-102",
+              "sourceLine": 102
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-b4525c8c2e",
+      "variants": [
+        {
+          "id": "v-b4525c8c2e",
+          "answer": "Extensor expansions of digits 2–5.",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-35",
+              "sourceLine": 35
+            },
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-103",
+              "sourceLine": 103
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "hand-model-ns13",
+      "section": "Muscles, tendons and pulleys",
+      "path": [
+        "a"
+      ],
+      "label": "a"
+    },
+    {
+      "modelId": "upper-limb-model-ns15",
+      "section": "Muscles",
+      "path": [
+        "17"
+      ],
+      "label": "17"
+    }
+  ]
+}

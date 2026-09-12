@@ -1,0 +1,107 @@
+{
+  "id": "annular-pulley-448a42d47f",
+  "name": "Annular pulley",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [],
+  "organs": [],
+  "tags": [
+    "Clinical",
+    "Function",
+    "MusclesAndTendons",
+    "Pulley",
+    "Structure"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-49f9ac1c37",
+      "variants": [
+        {
+          "id": "v-49f9ac1c37",
+          "answer": "Annular pulley",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-155",
+              "sourceLine": 155
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-d137286ae6",
+      "variants": [
+        {
+          "id": "v-d137286ae6",
+          "answer": "Strong transverse thickening of the fibrous digital sheath attached to the phalanges/metacarpophalangeal region.",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-156",
+              "sourceLine": 156
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-8cb3ca9958",
+      "variants": [
+        {
+          "id": "v-8cb3ca9958",
+          "answer": "Holds flexor tendons close to the phalanges and prevents bowstringing during finger flexion.",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-157",
+              "sourceLine": 157
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-b03737e3cd",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-b1961ddb30",
+      "variants": [
+        {
+          "id": "v-b1961ddb30",
+          "answer": "A1 pulley thickening or stenosis is a common cause of trigger finger.",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-158",
+              "sourceLine": 158
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "hand-model-ns13",
+      "section": "Muscles, tendons and pulleys",
+      "path": [
+        "t"
+      ],
+      "label": "t"
+    }
+  ]
+}

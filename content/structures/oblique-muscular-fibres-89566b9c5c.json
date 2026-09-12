@@ -1,0 +1,92 @@
+{
+  "id": "oblique-muscular-fibres-89566b9c5c",
+  "name": "Oblique muscular fibres",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Abdomen"
+  ],
+  "systems": [
+    "Digestive"
+  ],
+  "organs": [
+    "Stomach"
+  ],
+  "tags": [
+    "Function",
+    "GastricWall",
+    "Location",
+    "MuscleLayer"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-c32ef43abb",
+      "variants": [
+        {
+          "id": "v-c32ef43abb",
+          "answer": "Oblique muscular fibres",
+          "sources": [
+            {
+              "modelId": "stomach-model-ns15",
+              "cardId": "stomach-model-ns15-50",
+              "sourceLine": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-ef949c331b",
+      "variants": [
+        {
+          "id": "v-ef949c331b",
+          "answer": "Innermost muscle layer, most prominent in the body/fundus.",
+          "sources": [
+            {
+              "modelId": "stomach-model-ns15",
+              "cardId": "stomach-model-ns15-51",
+              "sourceLine": 51
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-a58becb70d",
+      "variants": [
+        {
+          "id": "v-a58becb70d",
+          "answer": "Adds powerful churning and mixing movements unique to the stomach.",
+          "sources": [
+            {
+              "modelId": "stomach-model-ns15",
+              "cardId": "stomach-model-ns15-52",
+              "sourceLine": 52
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "stomach-model-ns15",
+      "section": "Gastric wall and muscle layers",
+      "path": [
+        "9"
+      ],
+      "label": "9"
+    }
+  ]
+}

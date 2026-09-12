@@ -1,0 +1,147 @@
+{
+  "id": "lateral-plantar-nerve-af82ee05e2",
+  "name": "Lateral plantar nerve",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Nerves"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [],
+  "tags": [
+    "ArteriesAndNerves",
+    "Course",
+    "Lesion",
+    "Motor",
+    "Nerve",
+    "Roots",
+    "Sensory"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-7906878b11",
+      "variants": [
+        {
+          "id": "v-7906878b11",
+          "answer": "Lateral plantar nerve",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-406",
+              "sourceLine": 406
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-4d78ec7d11",
+      "question": "Roots",
+      "preferredVariantId": "v-11162bc538",
+      "variants": [
+        {
+          "id": "v-11162bc538",
+          "answer": "Terminal branch of tibial nerve, mainly S1–S2.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-407",
+              "sourceLine": 407
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-422c671fd5",
+      "variants": [
+        {
+          "id": "v-422c671fd5",
+          "answer": "Runs obliquely across sole with lateral plantar artery and divides into superficial/deep branches.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-408",
+              "sourceLine": 408
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c8b6915183",
+      "question": "Motor functions",
+      "preferredVariantId": "v-7cc3355870",
+      "variants": [
+        {
+          "id": "v-7cc3355870",
+          "answer": "Supplies most intrinsic muscles of sole not supplied by medial plantar nerve.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-409",
+              "sourceLine": 409
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-a453254382",
+      "question": "Sensory functions",
+      "preferredVariantId": "v-3d5a186829",
+      "variants": [
+        {
+          "id": "v-3d5a186829",
+          "answer": "Supplies lateral sole and plantar surfaces of lateral 1½ toes.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-410",
+              "sourceLine": 410
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-bc53d10c57",
+      "question": "Lesion",
+      "preferredVariantId": "v-074da621e6",
+      "variants": [
+        {
+          "id": "v-074da621e6",
+          "answer": "Causes weakness of most intrinsic foot muscles with sensory loss or paraesthesia over the lateral sole and lateral 1½ toes.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-411",
+              "sourceLine": 411
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "foot-model-ns9",
+      "section": "Arteries and nerves",
+      "path": [
+        "60"
+      ],
+      "label": "60"
+    }
+  ]
+}

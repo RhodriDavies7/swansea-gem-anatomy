@@ -1,0 +1,127 @@
+{
+  "id": "extensor-digitorum-c6ba3f44e3",
+  "name": "Extensor digitorum",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-cc691cf2f7",
+      "variants": [
+        {
+          "id": "v-cc691cf2f7",
+          "answer": "Extensor digitorum",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-99",
+              "sourceLine": 99
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-66ba004a3d",
+      "variants": [
+        {
+          "id": "v-66ba004a3d",
+          "answer": "Extends digits 2–5, chiefly at MCP joints and via extensor expansions at IP joints; assists wrist extension.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-100",
+              "sourceLine": 100
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-6f015ae0cc",
+      "variants": [
+        {
+          "id": "v-6f015ae0cc",
+          "answer": "Posterior interosseous nerve (C7–C8).",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-101",
+              "sourceLine": 101
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-86ac4ca28b",
+      "variants": [
+        {
+          "id": "v-86ac4ca28b",
+          "answer": "Lateral epicondyle via common extensor tendon.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-102",
+              "sourceLine": 102
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-b4525c8c2e",
+      "variants": [
+        {
+          "id": "v-b4525c8c2e",
+          "answer": "Extensor expansions of digits 2–5.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-103",
+              "sourceLine": 103
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "upper-limb-model-ns15",
+      "section": "Muscles",
+      "path": [
+        "17"
+      ],
+      "label": "17"
+    }
+  ]
+}

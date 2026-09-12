@@ -1,0 +1,128 @@
+{
+  "id": "ligament-of-head-of-the-femur-round-ligament-ligamentum-teres-835f6ebe6e",
+  "name": "Ligament of head of the femur (round ligament; ligamentum teres)",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Ligaments"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Attachments",
+    "BloodSupply",
+    "Clinical",
+    "Function",
+    "Ligament",
+    "LigamentsAndJoint"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-1d37145fd7",
+      "variants": [
+        {
+          "id": "v-1d37145fd7",
+          "answer": "Ligament of head of the femur (round ligament; ligamentum teres)",
+          "sources": [
+            {
+              "modelId": "hip-joint-model-ns20",
+              "cardId": "hip-joint-model-ns20-73",
+              "sourceLine": 73
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6771ade6e8",
+      "question": "Attachments",
+      "preferredVariantId": "v-92fc9c4cd1",
+      "variants": [
+        {
+          "id": "v-92fc9c4cd1",
+          "answer": "From fovea capitis of femoral head to margins of acetabular notch and transverse acetabular ligament.",
+          "sources": [
+            {
+              "modelId": "hip-joint-model-ns20",
+              "cardId": "hip-joint-model-ns20-74",
+              "sourceLine": 74
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-398018f97e",
+      "variants": [
+        {
+          "id": "v-398018f97e",
+          "answer": "Provides limited mechanical stability and carries a small artery to the femoral head.",
+          "sources": [
+            {
+              "modelId": "hip-joint-model-ns20",
+              "cardId": "hip-joint-model-ns20-75",
+              "sourceLine": 75
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-a707f7e176",
+      "question": "Blood supply",
+      "preferredVariantId": "v-1c4b900160",
+      "variants": [
+        {
+          "id": "v-1c4b900160",
+          "answer": "Carries the acetabular branch of obturator artery, particularly important in children.",
+          "sources": [
+            {
+              "modelId": "hip-joint-model-ns20",
+              "cardId": "hip-joint-model-ns20-76",
+              "sourceLine": 76
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-b03737e3cd",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-2113b18e21",
+      "variants": [
+        {
+          "id": "v-2113b18e21",
+          "answer": "Can be torn during traumatic hip dislocation.",
+          "sources": [
+            {
+              "modelId": "hip-joint-model-ns20",
+              "cardId": "hip-joint-model-ns20-77",
+              "sourceLine": 77
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "hip-joint-model-ns20",
+      "section": "Ligaments and joint structures",
+      "path": [
+        "8"
+      ],
+      "label": "8"
+    }
+  ]
+}

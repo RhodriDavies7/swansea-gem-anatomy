@@ -1,0 +1,225 @@
+{
+  "id": "infraspinatus-muscle-a97d61f7d7",
+  "name": "Infraspinatus muscle",
+  "aliases": [
+    "Infraspinatus"
+  ],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "AttachmentSite",
+    "Attachments",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-2cc2883742",
+      "variants": [
+        {
+          "id": "v-2cc2883742",
+          "answer": "Infraspinatus muscle",
+          "sources": [
+            {
+              "modelId": "deep-shoulder-model-ns17",
+              "cardId": "deep-shoulder-model-ns17-99",
+              "sourceLine": 99
+            },
+            {
+              "modelId": "rotator-cuff-qs55-6",
+              "cardId": "rotator-cuff-qs55-6-46",
+              "sourceLine": 46
+            }
+          ]
+        },
+        {
+          "id": "v-47615f6954",
+          "answer": "Infraspinatus",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-9",
+              "sourceLine": 9
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-cf367daf4d",
+      "variants": [
+        {
+          "id": "v-cf367daf4d",
+          "answer": "Laterally rotates the arm and stabilises the humeral head in the glenoid.",
+          "sources": [
+            {
+              "modelId": "deep-shoulder-model-ns17",
+              "cardId": "deep-shoulder-model-ns17-100",
+              "sourceLine": 100
+            },
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-10",
+              "sourceLine": 10
+            }
+          ]
+        },
+        {
+          "id": "v-cab6588006",
+          "answer": "Laterally rotates arm and stabilises humeral head.",
+          "sources": [
+            {
+              "modelId": "rotator-cuff-qs55-6",
+              "cardId": "rotator-cuff-qs55-6-48",
+              "sourceLine": 48
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-949fbb9f03",
+      "variants": [
+        {
+          "id": "v-949fbb9f03",
+          "answer": "Suprascapular nerve (C5–C6).",
+          "sources": [
+            {
+              "modelId": "deep-shoulder-model-ns17",
+              "cardId": "deep-shoulder-model-ns17-101",
+              "sourceLine": 101
+            },
+            {
+              "modelId": "rotator-cuff-qs55-6",
+              "cardId": "rotator-cuff-qs55-6-49",
+              "sourceLine": 49
+            },
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-11",
+              "sourceLine": 11
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-78c0d6089d",
+      "variants": [
+        {
+          "id": "v-78c0d6089d",
+          "answer": "Infraspinous fossa of scapula and overlying fascia.",
+          "sources": [
+            {
+              "modelId": "deep-shoulder-model-ns17",
+              "cardId": "deep-shoulder-model-ns17-102",
+              "sourceLine": 102
+            },
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-12",
+              "sourceLine": 12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-0023322baf",
+      "variants": [
+        {
+          "id": "v-0023322baf",
+          "answer": "Middle facet of greater tubercle of humerus and shoulder joint capsule.",
+          "sources": [
+            {
+              "modelId": "deep-shoulder-model-ns17",
+              "cardId": "deep-shoulder-model-ns17-103",
+              "sourceLine": 103
+            },
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-13",
+              "sourceLine": 13
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-531c9dad58",
+      "question": "Attachment on model",
+      "preferredVariantId": "v-d136a9e37f",
+      "variants": [
+        {
+          "id": "v-d136a9e37f",
+          "answer": "Origin from infraspinous fossa; inserts on middle facet of greater tubercle of humerus.",
+          "sources": [
+            {
+              "modelId": "rotator-cuff-qs55-6",
+              "cardId": "rotator-cuff-qs55-6-47",
+              "sourceLine": 47
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "deep-shoulder-model-ns17",
+      "section": "",
+      "path": [
+        "15"
+      ],
+      "label": "15"
+    },
+    {
+      "modelId": "rotator-cuff-qs55-6",
+      "section": "Muscle attachment sites",
+      "path": [
+        "8"
+      ],
+      "label": "8"
+    },
+    {
+      "modelId": "upper-limb-model-ns15",
+      "section": "Muscles",
+      "path": [
+        "2"
+      ],
+      "label": "2"
+    }
+  ]
+}

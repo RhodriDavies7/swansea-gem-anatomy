@@ -1,0 +1,127 @@
+{
+  "id": "maxillary-nerve-0426a9ad9e",
+  "name": "Maxillary nerve",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Nerves"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [],
+  "tags": [
+    "Course",
+    "Lesion",
+    "Motor",
+    "Nerve",
+    "Sensory"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-5ae58105d3",
+      "variants": [
+        {
+          "id": "v-5ae58105d3",
+          "answer": "Maxillary nerve",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-170",
+              "sourceLine": 170
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-422a066ec5",
+      "variants": [
+        {
+          "id": "v-422a066ec5",
+          "answer": "Passes in the lateral wall of the cavernous sinus, exits via foramen rotundum and enters the pterygopalatine fossa.",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-171",
+              "sourceLine": 171
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-a453254382",
+      "question": "Sensory functions",
+      "preferredVariantId": "v-757a4adacb",
+      "variants": [
+        {
+          "id": "v-757a4adacb",
+          "answer": "Supplies midface, upper lip, maxillary teeth, palate and parts of nasal cavity.",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-172",
+              "sourceLine": 172
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c8b6915183",
+      "question": "Motor functions",
+      "preferredVariantId": "v-93b80f1f16",
+      "variants": [
+        {
+          "id": "v-93b80f1f16",
+          "answer": "None; purely sensory.",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-173",
+              "sourceLine": 173
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-bc53d10c57",
+      "question": "Lesion",
+      "preferredVariantId": "v-b9e8a2f15d",
+      "variants": [
+        {
+          "id": "v-b9e8a2f15d",
+          "answer": "Causes sensory loss or paraesthesia over the midface, upper lip, maxillary teeth and palate; there is no motor deficit because V2 is purely sensory.",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-174",
+              "sourceLine": 174
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "deep-face-model-bs8-1",
+      "section": "",
+      "path": [
+        "27"
+      ],
+      "label": "27"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "no-label-1e4afb0693",
+  "name": "No label",
+  "aliases": [],
+  "scope": "head-and-neck-model-cs17-2[\"Gross brain, meninges and venous structures (A–N)\",[\"I\"]]",
+  "kind": "model-note",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [],
+  "tags": [
+    "Brain",
+    "ModelNote"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-d756b1f61f",
+      "variants": [
+        {
+          "id": "v-d756b1f61f",
+          "answer": "No label",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-636",
+              "sourceLine": 636
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c0d9dc54c1",
+      "question": "Model note",
+      "preferredVariantId": "v-71b239ea9e",
+      "variants": [
+        {
+          "id": "v-71b239ea9e",
+          "answer": "There is no labelled anatomical structure at this position on the model key.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-637",
+              "sourceLine": 637
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "head-and-neck-model-cs17-2",
+      "section": "Gross brain, meninges and venous structures (A–N)",
+      "path": [
+        "I"
+      ],
+      "label": "I"
+    }
+  ]
+}

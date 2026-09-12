@@ -1,0 +1,131 @@
+{
+  "id": "brachiocephalic-trunk-df0bc63c0c",
+  "name": "Brachiocephalic trunk",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Arteries"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Cardiovascular",
+    "Respiratory"
+  ],
+  "organs": [
+    "Larynx"
+  ],
+  "tags": [
+    "Artery",
+    "Branches",
+    "Course",
+    "MajorVessels",
+    "Origin",
+    "Supply"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-b1be69b87e",
+      "variants": [
+        {
+          "id": "v-b1be69b87e",
+          "answer": "Brachiocephalic trunk",
+          "sources": [
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-226",
+              "sourceLine": 226
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-84dca2004f",
+      "variants": [
+        {
+          "id": "v-84dca2004f",
+          "answer": "First branch of the aortic arch.",
+          "sources": [
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-227",
+              "sourceLine": 227
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-638ccaed01",
+      "variants": [
+        {
+          "id": "v-638ccaed01",
+          "answer": "Ascends to the right behind the manubrium.",
+          "sources": [
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-228",
+              "sourceLine": 228
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f578227926",
+      "question": "Branches",
+      "preferredVariantId": "v-530e7b92ba",
+      "variants": [
+        {
+          "id": "v-530e7b92ba",
+          "answer": "Divides into right common carotid and right subclavian arteries.",
+          "sources": [
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-229",
+              "sourceLine": 229
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-222db0fc1c",
+      "question": "Supply",
+      "preferredVariantId": "v-9a263c92a4",
+      "variants": [
+        {
+          "id": "v-9a263c92a4",
+          "answer": "Supplies right head/neck and right upper limb through its terminal branches.",
+          "sources": [
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-230",
+              "sourceLine": 230
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+      "section": "Major neck and thoracic vessels",
+      "path": [
+        "32"
+      ],
+      "label": "32"
+    }
+  ]
+}

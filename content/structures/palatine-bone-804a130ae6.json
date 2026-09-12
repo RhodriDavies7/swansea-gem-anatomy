@@ -1,0 +1,184 @@
+{
+  "id": "palatine-bone-804a130ae6",
+  "name": "Palatine bone",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Bones"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Musculoskeletal",
+    "Respiratory"
+  ],
+  "organs": [],
+  "tags": [
+    "Articulations",
+    "Bone",
+    "BonyStructures",
+    "Landmarks",
+    "MidSagittal",
+    "NasalCavity",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-81b93a1375",
+      "variants": [
+        {
+          "id": "v-81b93a1375",
+          "answer": "Palatine bone",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-201",
+              "sourceLine": 201
+            },
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-32",
+              "sourceLine": 32
+            },
+            {
+              "modelId": "nose-and-nasal-cavity-model-fs3",
+              "cardId": "nose-and-nasal-cavity-model-fs3-123",
+              "sourceLine": 123
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-a40bee8d10",
+      "question": "Articulations",
+      "preferredVariantId": "v-662e9b03fb",
+      "variants": [
+        {
+          "id": "v-662e9b03fb",
+          "answer": "Articulates with maxilla, sphenoid, ethmoid, vomer, inferior nasal concha and opposite palatine bone.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-202",
+              "sourceLine": 202
+            },
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-33",
+              "sourceLine": 33
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-18b077e50e",
+      "variants": [
+        {
+          "id": "v-18b077e50e",
+          "answer": "Horizontal plate forms posterior part of hard palate; perpendicular plate contributes to lateral nasal wall.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-203",
+              "sourceLine": 203
+            }
+          ]
+        },
+        {
+          "id": "v-854e01d7c0",
+          "answer": "Horizontal plate forms posterior hard palate; perpendicular plate contributes to lateral nasal wall.",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-34",
+              "sourceLine": 34
+            }
+          ]
+        },
+        {
+          "id": "v-4b1ef5ca1c",
+          "answer": "Contributes to posterior hard palate, lateral nasal wall and floor of orbit.",
+          "sources": [
+            {
+              "modelId": "nose-and-nasal-cavity-model-fs3",
+              "cardId": "nose-and-nasal-cavity-model-fs3-124",
+              "sourceLine": 124
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-626b6c1d45",
+      "question": "Landmarks",
+      "preferredVariantId": "v-cb5ac7caf9",
+      "variants": [
+        {
+          "id": "v-cb5ac7caf9",
+          "answer": "Horizontal plate, perpendicular plate, pyramidal process and greater/lesser palatine foramina.",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-35",
+              "sourceLine": 35
+            }
+          ]
+        },
+        {
+          "id": "v-3f3668db01",
+          "answer": "Horizontal and perpendicular plates.",
+          "sources": [
+            {
+              "modelId": "nose-and-nasal-cavity-model-fs3",
+              "cardId": "nose-and-nasal-cavity-model-fs3-125",
+              "sourceLine": 125
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "coronal-and-mid-sagittal-head-mb20",
+      "section": "Bony structures",
+      "path": [
+        "H"
+      ],
+      "label": "H"
+    },
+    {
+      "modelId": "deep-face-model-bs8-1",
+      "section": "",
+      "path": [
+        "6"
+      ],
+      "label": "6"
+    },
+    {
+      "modelId": "nose-and-nasal-cavity-model-fs3",
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "path": [
+        "7"
+      ],
+      "label": "7"
+    }
+  ]
+}

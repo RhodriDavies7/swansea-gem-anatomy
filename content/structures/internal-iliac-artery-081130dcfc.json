@@ -1,0 +1,282 @@
+{
+  "id": "internal-iliac-artery-081130dcfc",
+  "name": "Internal iliac artery",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Arteries"
+  ],
+  "regions": [
+    "Lower limb",
+    "Pelvis"
+  ],
+  "systems": [
+    "Cardiovascular",
+    "Reproductive"
+  ],
+  "organs": [],
+  "tags": [
+    "Artery",
+    "Branches",
+    "Course",
+    "Origin",
+    "Relations",
+    "Supply"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-a5f5bd3d0e",
+      "variants": [
+        {
+          "id": "v-a5f5bd3d0e",
+          "answer": "Internal iliac artery",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-240",
+              "sourceLine": 240
+            },
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-174",
+              "sourceLine": 174
+            },
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-315",
+              "sourceLine": 315
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-6cc3b62e31",
+      "variants": [
+        {
+          "id": "v-1702e25f84",
+          "answer": "Terminal branch of common iliac artery.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-241",
+              "sourceLine": 241
+            }
+          ]
+        },
+        {
+          "id": "v-6cc3b62e31",
+          "answer": "Terminal branch of the common iliac artery near the sacroiliac joint.",
+          "sources": [
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-175",
+              "sourceLine": 175
+            }
+          ]
+        },
+        {
+          "id": "v-a521f9106d",
+          "answer": "Common iliac artery near sacroiliac joint.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-316",
+              "sourceLine": 316
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-9d239d41ab",
+      "variants": [
+        {
+          "id": "v-f93a428cd9",
+          "answer": "Descends into lesser pelvis and divides into anterior and posterior divisions.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-242",
+              "sourceLine": 242
+            }
+          ]
+        },
+        {
+          "id": "v-9d239d41ab",
+          "answer": "Descends into the lesser pelvis and usually divides into anterior and posterior divisions.",
+          "sources": [
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-176",
+              "sourceLine": 176
+            }
+          ]
+        },
+        {
+          "id": "v-80278fe919",
+          "answer": "Descends into lesser pelvis; usually divides into anterior and posterior divisions.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-317",
+              "sourceLine": 317
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-222db0fc1c",
+      "question": "Supply",
+      "preferredVariantId": "v-2f2fe40a37",
+      "variants": [
+        {
+          "id": "v-e1c4cd7f4d",
+          "answer": "Pelvic viscera/walls, gluteal region and perineum.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-243",
+              "sourceLine": 243
+            }
+          ]
+        },
+        {
+          "id": "v-2f2fe40a37",
+          "answer": "Pelvic walls and viscera, gluteal region, perineum and parts of the medial thigh.",
+          "sources": [
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-178",
+              "sourceLine": 178
+            }
+          ]
+        },
+        {
+          "id": "v-84a2378159",
+          "answer": "Pelvic walls and viscera, gluteal region, perineum and part of medial thigh.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-319",
+              "sourceLine": 319
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-f578227926",
+      "question": "Branches",
+      "preferredVariantId": "v-dc6788922e",
+      "variants": [
+        {
+          "id": "v-4010b10271",
+          "answer": "Posterior division gives iliolumbar, lateral sacral and superior gluteal arteries; anterior division gives pelvic visceral and perineal branches including uterine, vaginal, obturator, internal pudendal and inferior gluteal arteries.",
+          "sources": [
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-177",
+              "sourceLine": 177
+            }
+          ]
+        },
+        {
+          "id": "v-dc6788922e",
+          "answer": "Posterior division: iliolumbar, lateral sacral, superior gluteal. Anterior division commonly gives obturator, inferior gluteal, internal pudendal, umbilical/superior vesical, middle rectal and sex-dependent visceral branches.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-318",
+              "sourceLine": 318
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-234a9570d2",
+      "variants": [
+        {
+          "id": "v-234a9570d2",
+          "answer": "Lies anterior to the internal iliac vein; branching pattern is variable.",
+          "sources": [
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-179",
+              "sourceLine": 179
+            }
+          ]
+        },
+        {
+          "id": "v-423a09c6a5",
+          "answer": "Branching is variable; lies anterior to the internal iliac vein.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-320",
+              "sourceLine": 320
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "female-pelvis-model-mo8",
+      "section": "",
+      "path": [
+        "37"
+      ],
+      "label": "37"
+    },
+    {
+      "modelId": "female-reproductive-system-model-ms1",
+      "section": "",
+      "path": [
+        "24"
+      ],
+      "label": "24"
+    },
+    {
+      "modelId": "lower-limb-model-ns10",
+      "section": "Blood vessels",
+      "path": [
+        "40"
+      ],
+      "label": "40"
+    }
+  ]
+}

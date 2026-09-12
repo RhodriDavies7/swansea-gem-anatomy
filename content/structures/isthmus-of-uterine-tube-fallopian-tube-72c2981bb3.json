@@ -1,0 +1,108 @@
+{
+  "id": "isthmus-of-uterine-tube-fallopian-tube-72c2981bb3",
+  "name": "Isthmus of uterine tube (Fallopian tube)",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Pelvis"
+  ],
+  "systems": [
+    "Reproductive"
+  ],
+  "organs": [],
+  "tags": [
+    "Function",
+    "Location",
+    "Relations",
+    "TubePart"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-efe387c2f8",
+      "variants": [
+        {
+          "id": "v-efe387c2f8",
+          "answer": "Isthmus of uterine tube (Fallopian tube)",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-335",
+              "sourceLine": 335
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-4374008d29",
+      "variants": [
+        {
+          "id": "v-4374008d29",
+          "answer": "Narrow medial segment between ampulla and uterine part.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-336",
+              "sourceLine": 336
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-e646b02084",
+      "variants": [
+        {
+          "id": "v-e646b02084",
+          "answer": "Conducts gametes/early embryo toward the uterus.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-337",
+              "sourceLine": 337
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-0f5618fc28",
+      "variants": [
+        {
+          "id": "v-0f5618fc28",
+          "answer": "Runs within the superior free margin of the broad ligament.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-338",
+              "sourceLine": 338
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "female-pelvis-model-mo8",
+      "section": "",
+      "path": [
+        "50"
+      ],
+      "label": "50"
+    }
+  ]
+}

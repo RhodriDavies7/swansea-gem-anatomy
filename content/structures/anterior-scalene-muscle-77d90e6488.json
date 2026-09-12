@@ -1,0 +1,187 @@
+{
+  "id": "anterior-scalene-muscle-77d90e6488",
+  "name": "Anterior scalene muscle",
+  "aliases": [
+    "Scalenus anterior muscle"
+  ],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "HeadNeck",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Origin",
+    "HeadNeckMuscles"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-b84d51a5e8",
+      "variants": [
+        {
+          "id": "v-b84d51a5e8",
+          "answer": "Anterior scalene muscle",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-377",
+              "sourceLine": 377
+            }
+          ]
+        },
+        {
+          "id": "v-88c057c1bd",
+          "answer": "Scalenus anterior muscle",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-624",
+              "sourceLine": 624
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-f3e919d96e",
+      "variants": [
+        {
+          "id": "v-f3e919d96e",
+          "answer": "Elevates 1st rib and flexes/laterally flexes neck.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-378",
+              "sourceLine": 378
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-625",
+              "sourceLine": 625
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-4a81f1e2ce",
+      "variants": [
+        {
+          "id": "v-4a81f1e2ce",
+          "answer": "Anterior rami C4–C6.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-379",
+              "sourceLine": 379
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-626",
+              "sourceLine": 626
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-03e6020967",
+      "variants": [
+        {
+          "id": "v-71a2ba9241",
+          "answer": "Transverse processes C3–C6.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-380",
+              "sourceLine": 380
+            }
+          ]
+        },
+        {
+          "id": "v-03e6020967",
+          "answer": "Anterior tubercles of transverse processes C3–C6.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-627",
+              "sourceLine": 627
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-15ba4b8de5",
+      "variants": [
+        {
+          "id": "v-15ba4b8de5",
+          "answer": "Scalene tubercle of 1st rib.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-381",
+              "sourceLine": 381
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-628",
+              "sourceLine": 628
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "head-and-neck-model-cs17-2",
+      "section": "Musculature of the head and neck",
+      "path": [
+        "60"
+      ],
+      "label": "60"
+    },
+    {
+      "modelId": "half-head-and-neck-model-bs9",
+      "section": "Musculature of the head and neck",
+      "path": [
+        "57"
+      ],
+      "label": "57"
+    }
+  ],
+  "redirectIds": [
+    "scalenus-anterior-muscle-121c12151a"
+  ]
+}

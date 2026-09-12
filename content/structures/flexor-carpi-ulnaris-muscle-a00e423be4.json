@@ -1,0 +1,223 @@
+{
+  "id": "flexor-carpi-ulnaris-muscle-a00e423be4",
+  "name": "Flexor carpi ulnaris muscle",
+  "aliases": [
+    "Flexor carpi ulnaris"
+  ],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "MusclesAndTendons",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-f82db43320",
+      "variants": [
+        {
+          "id": "v-f82db43320",
+          "answer": "Flexor carpi ulnaris muscle",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-73",
+              "sourceLine": 73
+            }
+          ]
+        },
+        {
+          "id": "v-af9f4c075e",
+          "answer": "Flexor carpi ulnaris",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-87",
+              "sourceLine": 87
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-313c9c9ff2",
+      "variants": [
+        {
+          "id": "v-313c9c9ff2",
+          "answer": "Flexes and adducts (ulnar deviates) the wrist.",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-74",
+              "sourceLine": 74
+            },
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-88",
+              "sourceLine": 88
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "curated-5174c4d153",
+      "variants": [
+        {
+          "id": "v-9334914398",
+          "answer": "Ulnar nerve (C8–T1).",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-75",
+              "sourceLine": 75
+            }
+          ]
+        },
+        {
+          "id": "v-8d0a78356f",
+          "answer": "Ulnar nerve (C7–T1, mainly C8).",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-89",
+              "sourceLine": 89
+            }
+          ]
+        },
+        {
+          "id": "curated-5174c4d153",
+          "answer": "Ulnar nerve, predominantly C8 (root contributions are commonly listed as C7–T1).",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-75",
+              "sourceLine": 75
+            },
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-89",
+              "sourceLine": 89
+            }
+          ],
+          "editorial": true
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording.",
+        "references": [
+          "https://ncbi.nlm.nih.gov/books/NBK526051/"
+        ]
+      }
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-0a16023cff",
+      "variants": [
+        {
+          "id": "v-21b4a71a51",
+          "answer": "Medial epicondyle, olecranon and posterior border of ulna.",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-76",
+              "sourceLine": 76
+            }
+          ]
+        },
+        {
+          "id": "v-0a16023cff",
+          "answer": "Humeral head: medial epicondyle. Ulnar head: olecranon and posterior border of ulna.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-90",
+              "sourceLine": 90
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-8c4566f5eb",
+      "variants": [
+        {
+          "id": "v-8c4566f5eb",
+          "answer": "Pisiform, with continuation via pisohamate and pisometacarpal ligaments to hook of hamate and base of 5th metacarpal.",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-77",
+              "sourceLine": 77
+            }
+          ]
+        },
+        {
+          "id": "v-2c106a0255",
+          "answer": "Pisiform, hook of hamate and base of fifth metacarpal via pisohamate and pisometacarpal ligaments.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-91",
+              "sourceLine": 91
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "hand-model-ns13",
+      "section": "Muscles, tendons and pulleys",
+      "path": [
+        "g"
+      ],
+      "label": "g"
+    },
+    {
+      "modelId": "upper-limb-model-ns15",
+      "section": "Muscles",
+      "path": [
+        "15"
+      ],
+      "label": "15"
+    }
+  ]
+}

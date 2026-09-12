@@ -1,0 +1,109 @@
+{
+  "id": "greater-palatine-foramen-8d73a9744d",
+  "name": "Greater palatine foramen",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Respiratory"
+  ],
+  "organs": [],
+  "tags": [
+    "Bone",
+    "Contents",
+    "Foramen",
+    "Relations",
+    "SinusesAndOpenings"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-90713a14de",
+      "variants": [
+        {
+          "id": "v-90713a14de",
+          "answer": "Greater palatine foramen",
+          "sources": [
+            {
+              "modelId": "nose-and-nasal-cavity-model-fs3",
+              "cardId": "nose-and-nasal-cavity-model-fs3-79",
+              "sourceLine": 79
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-bcf605d6bb",
+      "question": "Bone",
+      "preferredVariantId": "v-764cede34e",
+      "variants": [
+        {
+          "id": "v-764cede34e",
+          "answer": "Located in the palatine bone.",
+          "sources": [
+            {
+              "modelId": "nose-and-nasal-cavity-model-fs3",
+              "cardId": "nose-and-nasal-cavity-model-fs3-80",
+              "sourceLine": 80
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f5cbdf6bfb",
+      "question": "Contents",
+      "preferredVariantId": "v-7e9833a5bf",
+      "variants": [
+        {
+          "id": "v-7e9833a5bf",
+          "answer": "Transmits greater palatine nerve and vessels.",
+          "sources": [
+            {
+              "modelId": "nose-and-nasal-cavity-model-fs3",
+              "cardId": "nose-and-nasal-cavity-model-fs3-81",
+              "sourceLine": 81
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-c5f12f6267",
+      "variants": [
+        {
+          "id": "v-c5f12f6267",
+          "answer": "Opens onto the posterolateral hard palate.",
+          "sources": [
+            {
+              "modelId": "nose-and-nasal-cavity-model-fs3",
+              "cardId": "nose-and-nasal-cavity-model-fs3-82",
+              "sourceLine": 82
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "nose-and-nasal-cavity-model-fs3",
+      "section": "Paranasal sinuses, conchae and openings (a–p)",
+      "path": [
+        "o"
+      ],
+      "label": "o"
+    }
+  ]
+}

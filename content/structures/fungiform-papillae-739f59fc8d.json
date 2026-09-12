@@ -1,0 +1,92 @@
+{
+  "id": "fungiform-papillae-739f59fc8d",
+  "name": "Fungiform papillae",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Respiratory"
+  ],
+  "organs": [
+    "Larynx"
+  ],
+  "tags": [
+    "Function",
+    "Papilla",
+    "Structure",
+    "Tongue"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-071b83d7f2",
+      "variants": [
+        {
+          "id": "v-071b83d7f2",
+          "answer": "Fungiform papillae",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-218",
+              "sourceLine": 218
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-11c4dd9ab8",
+      "variants": [
+        {
+          "id": "v-11c4dd9ab8",
+          "answer": "Mushroom-shaped papillae scattered especially near the apex and margins.",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-219",
+              "sourceLine": 219
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-9f85d0ce67",
+      "variants": [
+        {
+          "id": "v-9f85d0ce67",
+          "answer": "Contain taste buds and participate in gustation.",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-220",
+              "sourceLine": 220
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "larynx-and-tongue-model-gs4",
+      "section": "Tongue",
+      "path": [
+        "4"
+      ],
+      "label": "4"
+    }
+  ]
+}

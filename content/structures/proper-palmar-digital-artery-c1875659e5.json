@@ -1,0 +1,127 @@
+{
+  "id": "proper-palmar-digital-artery-c1875659e5",
+  "name": "Proper palmar digital artery",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Arteries"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [
+    "Cardiovascular"
+  ],
+  "organs": [],
+  "tags": [
+    "Artery",
+    "Course",
+    "Origin",
+    "Relations",
+    "Supply"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-8010f7ef7f",
+      "variants": [
+        {
+          "id": "v-8010f7ef7f",
+          "answer": "Proper palmar digital artery",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-407",
+              "sourceLine": 407
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-ae17b26152",
+      "variants": [
+        {
+          "id": "v-ae17b26152",
+          "answer": "Common palmar digital artery or direct branch of superficial palmar arch.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-408",
+              "sourceLine": 408
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-52dc60d757",
+      "variants": [
+        {
+          "id": "v-52dc60d757",
+          "answer": "Runs along side of a finger.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-409",
+              "sourceLine": 409
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-222db0fc1c",
+      "question": "Supply",
+      "preferredVariantId": "v-739d2175e1",
+      "variants": [
+        {
+          "id": "v-739d2175e1",
+          "answer": "Skin, subcutaneous tissues, tendon sheaths and phalanges of corresponding side of digit.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-410",
+              "sourceLine": 410
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-efc0ec44c2",
+      "variants": [
+        {
+          "id": "v-efc0ec44c2",
+          "answer": "Accompanies proper digital nerve along lateral or medial aspect of digit.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-411",
+              "sourceLine": 411
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "upper-limb-model-ns15",
+      "section": "Arteries",
+      "path": [
+        "65"
+      ],
+      "label": "65"
+    }
+  ]
+}

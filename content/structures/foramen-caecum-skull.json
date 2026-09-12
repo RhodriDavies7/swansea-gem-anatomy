@@ -1,0 +1,108 @@
+{
+  "id": "foramen-caecum-skull",
+  "name": "Foramen caecum (skull)",
+  "aliases": [
+    "Foramen caecum"
+  ],
+  "scope": "Head and neck",
+  "kind": "structure",
+  "types": [
+    "Bones"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Foramen",
+    "Contents",
+    "Location",
+    "HeadNeck"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "curated-0a737c1d56",
+      "variants": [
+        {
+          "id": "v-277f390367",
+          "answer": "Foramen caecum",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-98",
+              "sourceLine": 98
+            }
+          ]
+        },
+        {
+          "id": "curated-0a737c1d56",
+          "answer": "Foramen caecum (skull)",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-98",
+              "sourceLine": 98
+            }
+          ],
+          "editorial": true
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-bccaed0505",
+      "variants": [
+        {
+          "id": "v-bccaed0505",
+          "answer": "Midline between frontal bone and crista galli region of ethmoid.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-99",
+              "sourceLine": 99
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f5cbdf6bfb",
+      "question": "Contents",
+      "preferredVariantId": "v-045218c1c8",
+      "variants": [
+        {
+          "id": "v-045218c1c8",
+          "answer": "May transmit an emissary vein when patent.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-100",
+              "sourceLine": 100
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "head-and-neck-model-cs17-2",
+      "section": "Bony structures, foramina and ear structures",
+      "path": [
+        "19"
+      ],
+      "label": "19"
+    }
+  ]
+}

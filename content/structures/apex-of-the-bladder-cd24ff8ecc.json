@@ -1,0 +1,109 @@
+{
+  "id": "apex-of-the-bladder-cd24ff8ecc",
+  "name": "Apex of the bladder",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Pelvis"
+  ],
+  "systems": [
+    "Reproductive"
+  ],
+  "organs": [],
+  "tags": [
+    "Location",
+    "Organ",
+    "OrganPart",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-a2722632c1",
+      "variants": [
+        {
+          "id": "v-a2722632c1",
+          "answer": "Apex of the bladder",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-28",
+              "sourceLine": 28
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f5143a2323",
+      "question": "Organ",
+      "preferredVariantId": "v-c6039d9860",
+      "variants": [
+        {
+          "id": "v-c6039d9860",
+          "answer": "Urinary bladder.",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-29",
+              "sourceLine": 29
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-98cd297735",
+      "variants": [
+        {
+          "id": "v-98cd297735",
+          "answer": "Anterior end of the bladder, directed toward the pubic symphysis.",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-30",
+              "sourceLine": 30
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-4bfc3c9dc5",
+      "variants": [
+        {
+          "id": "v-4bfc3c9dc5",
+          "answer": "Connected to the umbilicus by the median umbilical ligament, a remnant of the urachus.",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-31",
+              "sourceLine": 31
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "male-reproductive-system-model-ms2",
+      "section": "",
+      "path": [
+        "4",
+        "4a"
+      ],
+      "label": "4a"
+    }
+  ]
+}

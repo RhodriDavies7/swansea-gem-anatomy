@@ -1,0 +1,220 @@
+{
+  "id": "abducens-nerve-cn-vi-a2b784816a",
+  "name": "Abducens nerve (CN VI)",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Nerves"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [],
+  "tags": [
+    "Brain",
+    "Course",
+    "Lesion",
+    "Motor",
+    "Nerve",
+    "Roots",
+    "Sensory"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-b363643a7b",
+      "variants": [
+        {
+          "id": "v-b363643a7b",
+          "answer": "Abducens nerve (CN VI)",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-207",
+              "sourceLine": 207
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-773",
+              "sourceLine": 773
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-4d78ec7d11",
+      "question": "Roots",
+      "preferredVariantId": "v-60bf1a9a77",
+      "variants": [
+        {
+          "id": "v-60bf1a9a77",
+          "answer": "Abducens nucleus in caudal pons.",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-208",
+              "sourceLine": 208
+            }
+          ]
+        },
+        {
+          "id": "v-37024c06cb",
+          "answer": "Arises from abducens nucleus in pons.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-774",
+              "sourceLine": 774
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-01a2d669cd",
+      "variants": [
+        {
+          "id": "v-01a2d669cd",
+          "answer": "Emerges at pontomedullary junction, ascends over clivus, passes through cavernous sinus beside internal carotid artery and enters orbit via superior orbital fissure.",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-209",
+              "sourceLine": 209
+            }
+          ]
+        },
+        {
+          "id": "v-82bf32100a",
+          "answer": "Emerges at pontomedullary junction, passes through cavernous sinus and superior orbital fissure.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-775",
+              "sourceLine": 775
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-c8b6915183",
+      "question": "Motor functions",
+      "preferredVariantId": "v-a6c442cf58",
+      "variants": [
+        {
+          "id": "v-a6c442cf58",
+          "answer": "Supplies lateral rectus muscle, abducting the eye.",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-210",
+              "sourceLine": 210
+            }
+          ]
+        },
+        {
+          "id": "v-df1e87153d",
+          "answer": "Supplies lateral rectus.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-776",
+              "sourceLine": 776
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-bc53d10c57",
+      "question": "Lesion",
+      "preferredVariantId": "v-84627f8766",
+      "variants": [
+        {
+          "id": "v-c5f7cfe7e7",
+          "answer": "Causes failure of abduction and horizontal diplopia; affected eye rests relatively medially.",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-211",
+              "sourceLine": 211
+            }
+          ]
+        },
+        {
+          "id": "v-84627f8766",
+          "answer": "Causes inability to abduct the affected eye, horizontal diplopia and medial deviation.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-778",
+              "sourceLine": 778
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-a453254382",
+      "question": "Sensory functions",
+      "preferredVariantId": "v-cb1e255fe3",
+      "variants": [
+        {
+          "id": "v-cb1e255fe3",
+          "answer": "No cutaneous sensory function.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-777",
+              "sourceLine": 777
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "cranial-floor-model-bs1",
+      "section": "",
+      "path": [
+        "33"
+      ],
+      "label": "33"
+    },
+    {
+      "modelId": "head-and-neck-model-cs17-2",
+      "section": "Internal brain structures and cranial nerves (1–26)",
+      "path": [
+        "20"
+      ],
+      "label": "20"
+    }
+  ]
+}

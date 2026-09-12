@@ -1,0 +1,111 @@
+{
+  "id": "fossa-for-the-gallbladder-c8c248f621",
+  "name": "Fossa for the gallbladder",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Abdomen"
+  ],
+  "systems": [
+    "Digestive"
+  ],
+  "organs": [
+    "Liver"
+  ],
+  "tags": [
+    "Contents",
+    "Fossa",
+    "LobesAndLandmarks",
+    "Location",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-eeb72fb618",
+      "variants": [
+        {
+          "id": "v-eeb72fb618",
+          "answer": "Fossa for the gallbladder",
+          "sources": [
+            {
+              "modelId": "liver-js5",
+              "cardId": "liver-js5-27",
+              "sourceLine": 27
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-4a0f2768ad",
+      "variants": [
+        {
+          "id": "v-4a0f2768ad",
+          "answer": "Depression on the visceral surface of the liver between right lobe and quadrate lobe.",
+          "sources": [
+            {
+              "modelId": "liver-js5",
+              "cardId": "liver-js5-28",
+              "sourceLine": 28
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f5cbdf6bfb",
+      "question": "Contents",
+      "preferredVariantId": "v-b7155dc2c2",
+      "variants": [
+        {
+          "id": "v-b7155dc2c2",
+          "answer": "Contains the gallbladder.",
+          "sources": [
+            {
+              "modelId": "liver-js5",
+              "cardId": "liver-js5-29",
+              "sourceLine": 29
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-eaa9fa1019",
+      "variants": [
+        {
+          "id": "v-eaa9fa1019",
+          "answer": "Forms part of the main plane used to divide the liver functionally into right and left portions.",
+          "sources": [
+            {
+              "modelId": "liver-js5",
+              "cardId": "liver-js5-30",
+              "sourceLine": 30
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "liver-js5",
+      "section": "Lobes and surface landmarks",
+      "path": [
+        "5"
+      ],
+      "label": "5"
+    }
+  ]
+}

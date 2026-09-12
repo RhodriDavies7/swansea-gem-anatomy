@@ -1,0 +1,189 @@
+{
+  "id": "bicuspid-valve-mitral-left-atrioventricular-valve-27f66fbba4",
+  "name": "Bicuspid valve (mitral / left atrioventricular valve)",
+  "aliases": [
+    "Bicuspid (mitral) valve"
+  ],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck",
+    "Thorax"
+  ],
+  "systems": [
+    "Cardiovascular",
+    "Respiratory"
+  ],
+  "organs": [
+    "Larynx",
+    "Heart"
+  ],
+  "tags": [
+    "CardiacVesselsValves",
+    "Function",
+    "Location",
+    "Structure",
+    "Valve",
+    "AuriclesVesselsValves",
+    "Clinical"
+  ],
+  "imageIds": [
+    "img-2cc522fc1432"
+  ],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-6cc7178e2e",
+      "variants": [
+        {
+          "id": "v-6cc7178e2e",
+          "answer": "Bicuspid valve (mitral / left atrioventricular valve)",
+          "sources": [
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-199",
+              "sourceLine": 199
+            }
+          ]
+        },
+        {
+          "id": "v-9793077fe3",
+          "answer": "Bicuspid (mitral) valve",
+          "sources": [
+            {
+              "modelId": "heart-model-hs5",
+              "cardId": "heart-model-hs5-90",
+              "sourceLine": 90
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-2040a55ec3",
+      "variants": [
+        {
+          "id": "v-2040a55ec3",
+          "answer": "Between left atrium and left ventricle.",
+          "sources": [
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-200",
+              "sourceLine": 200
+            },
+            {
+              "modelId": "heart-model-hs5",
+              "cardId": "heart-model-hs5-91",
+              "sourceLine": 91
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-599290b72a",
+      "variants": [
+        {
+          "id": "v-599290b72a",
+          "answer": "Has anterior and posterior cusps attached to chordae tendineae and papillary muscles.",
+          "sources": [
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-201",
+              "sourceLine": 201
+            },
+            {
+              "modelId": "heart-model-hs5",
+              "cardId": "heart-model-hs5-92",
+              "sourceLine": 92
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-aee6ca1d47",
+      "variants": [
+        {
+          "id": "v-26f36f7532",
+          "answer": "Prevents backflow into left atrium during ventricular systole.",
+          "sources": [
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-202",
+              "sourceLine": 202
+            }
+          ]
+        },
+        {
+          "id": "v-aee6ca1d47",
+          "answer": "Prevents backflow from left ventricle into left atrium during ventricular systole.",
+          "sources": [
+            {
+              "modelId": "heart-model-hs5",
+              "cardId": "heart-model-hs5-93",
+              "sourceLine": 93
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-b03737e3cd",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-9caafa90c1",
+      "variants": [
+        {
+          "id": "v-9caafa90c1",
+          "answer": "Mitral stenosis or regurgitation may cause left atrial enlargement and pulmonary congestion.",
+          "sources": [
+            {
+              "modelId": "heart-model-hs5",
+              "cardId": "heart-model-hs5-94",
+              "sourceLine": 94
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+      "section": "Cardiac vessels and valves",
+      "path": [
+        "28"
+      ],
+      "label": "28"
+    },
+    {
+      "modelId": "heart-model-hs5",
+      "section": "Auricles, great vessels and valves",
+      "path": [
+        "h"
+      ],
+      "label": "h"
+    }
+  ],
+  "redirectIds": [
+    "bicuspid-mitral-valve-920439ca76"
+  ]
+}

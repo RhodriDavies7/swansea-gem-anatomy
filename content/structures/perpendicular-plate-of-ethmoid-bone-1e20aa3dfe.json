@@ -1,0 +1,91 @@
+{
+  "id": "perpendicular-plate-of-ethmoid-bone-1e20aa3dfe",
+  "name": "Perpendicular plate of ethmoid bone",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Bones"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Musculoskeletal",
+    "Respiratory"
+  ],
+  "organs": [],
+  "tags": [
+    "Bone",
+    "BonyLandmark",
+    "Location",
+    "NasalSeptum"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-250faafbbf",
+      "variants": [
+        {
+          "id": "v-250faafbbf",
+          "answer": "Perpendicular plate of ethmoid bone",
+          "sources": [
+            {
+              "modelId": "nose-and-nasal-cavity-model-fs3",
+              "cardId": "nose-and-nasal-cavity-model-fs3-232",
+              "sourceLine": 232
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-bcf605d6bb",
+      "question": "Bone",
+      "preferredVariantId": "v-436e9daff0",
+      "variants": [
+        {
+          "id": "v-436e9daff0",
+          "answer": "Part of the ethmoid bone.",
+          "sources": [
+            {
+              "modelId": "nose-and-nasal-cavity-model-fs3",
+              "cardId": "nose-and-nasal-cavity-model-fs3-233",
+              "sourceLine": 233
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-6c35f7d185",
+      "variants": [
+        {
+          "id": "v-6c35f7d185",
+          "answer": "Forms the superior bony part of the nasal septum.",
+          "sources": [
+            {
+              "modelId": "nose-and-nasal-cavity-model-fs3",
+              "cardId": "nose-and-nasal-cavity-model-fs3-234",
+              "sourceLine": 234
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "nose-and-nasal-cavity-model-fs3",
+      "section": "Nasal septum",
+      "path": [
+        "48"
+      ],
+      "label": "48"
+    }
+  ]
+}

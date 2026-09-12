@@ -1,0 +1,128 @@
+{
+  "id": "inferior-cornu-horn-of-thyroid-cartilage-31db55b7aa",
+  "name": "Inferior cornu (horn) of thyroid cartilage",
+  "aliases": [
+    "Inferior horn (cornu) of thyroid cartilage"
+  ],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Cartilage"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Respiratory"
+  ],
+  "organs": [
+    "Larynx"
+  ],
+  "tags": [
+    "Articulations",
+    "CartilagePart",
+    "Larynx",
+    "CartilagesAndBones"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-1eccfef8a3",
+      "variants": [
+        {
+          "id": "v-1eccfef8a3",
+          "answer": "Inferior cornu (horn) of thyroid cartilage",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-24",
+              "sourceLine": 24
+            }
+          ]
+        },
+        {
+          "id": "v-aa70a47e6c",
+          "answer": "Inferior horn (cornu) of thyroid cartilage",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-26",
+              "sourceLine": 26
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-26",
+              "sourceLine": 26
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-b3e7bd5736",
+      "question": "Articulation",
+      "preferredVariantId": "v-47cc7faec3",
+      "variants": [
+        {
+          "id": "v-47cc7faec3",
+          "answer": "Articulates with cricoid cartilage at the cricothyroid joint.",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-25",
+              "sourceLine": 25
+            },
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-27",
+              "sourceLine": 27
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-27",
+              "sourceLine": 27
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "larynx-and-tongue-model-gs4",
+      "section": "Larynx",
+      "path": [
+        "2",
+        "e"
+      ],
+      "label": "2e"
+    },
+    {
+      "modelId": "larynx-model-gs7",
+      "section": "Hyoid and laryngeal cartilages",
+      "path": [
+        "2",
+        "e"
+      ],
+      "label": "2e"
+    },
+    {
+      "modelId": "larynx-and-airway-model-gs5",
+      "section": "Hyoid and laryngeal cartilages",
+      "path": [
+        "2",
+        "e"
+      ],
+      "label": "2e"
+    }
+  ],
+  "redirectIds": [
+    "inferior-horn-cornu-of-thyroid-cartilage-50482aaf44"
+  ]
+}

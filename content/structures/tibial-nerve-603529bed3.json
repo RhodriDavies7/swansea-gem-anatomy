@@ -1,0 +1,235 @@
+{
+  "id": "tibial-nerve-603529bed3",
+  "name": "Tibial nerve",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Nerves"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [],
+  "tags": [
+    "ArteriesAndNerves",
+    "Course",
+    "Lesion",
+    "Motor",
+    "Nerve",
+    "Roots",
+    "Sensory"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-9903de9fa4",
+      "variants": [
+        {
+          "id": "v-9903de9fa4",
+          "answer": "Tibial nerve",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-390",
+              "sourceLine": 390
+            },
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-472",
+              "sourceLine": 472
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-4d78ec7d11",
+      "question": "Roots",
+      "preferredVariantId": "v-92a5c472dd",
+      "variants": [
+        {
+          "id": "v-92a5c472dd",
+          "answer": "L4–S3, terminal branch of sciatic nerve.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-391",
+              "sourceLine": 391
+            }
+          ]
+        },
+        {
+          "id": "v-1ff07c2173",
+          "answer": "L4–S3; anterior divisions through sciatic nerve.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-473",
+              "sourceLine": 473
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-1c70cc657f",
+      "variants": [
+        {
+          "id": "v-107b43ecdd",
+          "answer": "Descends in posterior leg, passes behind medial malleolus beneath flexor retinaculum and divides into medial/lateral plantar nerves.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-392",
+              "sourceLine": 392
+            }
+          ]
+        },
+        {
+          "id": "v-1c70cc657f",
+          "answer": "Runs centrally through popliteal fossa, beneath soleal arch and down deep posterior leg; passes behind medial malleolus through tarsal tunnel and divides into medial/lateral plantar nerves.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-474",
+              "sourceLine": 474
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-c8b6915183",
+      "question": "Motor functions",
+      "preferredVariantId": "v-006e3fb312",
+      "variants": [
+        {
+          "id": "v-562a643886",
+          "answer": "Supplies posterior leg and, through plantar branches, most intrinsic muscles of sole.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-393",
+              "sourceLine": 393
+            }
+          ]
+        },
+        {
+          "id": "v-006e3fb312",
+          "answer": "Plantarflexion, toe flexion and inversion through posterior leg muscles; most intrinsic foot actions through plantar branches; popliteus unlocks knee.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-475",
+              "sourceLine": 475
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-a453254382",
+      "question": "Sensory functions",
+      "preferredVariantId": "v-4e61cbf500",
+      "variants": [
+        {
+          "id": "v-3427b1e94e",
+          "answer": "Supplies heel and sole via calcaneal and plantar branches.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-394",
+              "sourceLine": 394
+            }
+          ]
+        },
+        {
+          "id": "v-4e61cbf500",
+          "answer": "Heel through calcaneal branches, sole through plantar nerves; contributes to sural nerve supplying posterolateral distal leg and lateral foot.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-476",
+              "sourceLine": 476
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-bc53d10c57",
+      "question": "Lesion",
+      "preferredVariantId": "v-457c74d358",
+      "variants": [
+        {
+          "id": "v-2f8f007c1c",
+          "answer": "Proximal injury causes weak plantarflexion, toe flexion and inversion with sensory loss over the sole; compression at the tarsal tunnel mainly causes plantar pain/paraesthesia and intrinsic foot weakness.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-395",
+              "sourceLine": 395
+            }
+          ]
+        },
+        {
+          "id": "v-457c74d358",
+          "answer": "Proximal lesion causes weak plantarflexion, inversion and toe flexion, inability to stand normally on tiptoe, sole sensory loss and reduced Achilles reflex (mainly S1). Distal tarsal tunnel lesions mainly affect plantar sensation and intrinsic foot muscles.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-477",
+              "sourceLine": 477
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "foot-model-ns9",
+      "section": "Arteries and nerves",
+      "path": [
+        "58"
+      ],
+      "label": "58"
+    },
+    {
+      "modelId": "lower-limb-model-ns10",
+      "section": "Nerves",
+      "path": [
+        "64"
+      ],
+      "label": "64"
+    }
+  ]
+}

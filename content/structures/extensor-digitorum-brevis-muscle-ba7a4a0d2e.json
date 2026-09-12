@@ -1,0 +1,203 @@
+{
+  "id": "extensor-digitorum-brevis-muscle-ba7a4a0d2e",
+  "name": "Extensor digitorum brevis muscle",
+  "aliases": [
+    "Extensor digitorum brevis"
+  ],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Origin",
+    "Muscles"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-d423277fb8",
+      "variants": [
+        {
+          "id": "v-d423277fb8",
+          "answer": "Extensor digitorum brevis muscle",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-251",
+              "sourceLine": 251
+            }
+          ]
+        },
+        {
+          "id": "v-acd6341e25",
+          "answer": "Extensor digitorum brevis",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-96",
+              "sourceLine": 96
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-2ed8859301",
+      "variants": [
+        {
+          "id": "v-2ed8859301",
+          "answer": "Assists extension of toes 2–4 at metatarsophalangeal and interphalangeal joints.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-252",
+              "sourceLine": 252
+            }
+          ]
+        },
+        {
+          "id": "v-18f732b737",
+          "answer": "Assists extension of toes 2–4.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-97",
+              "sourceLine": 97
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-61fe0ce0c6",
+      "variants": [
+        {
+          "id": "v-61fe0ce0c6",
+          "answer": "Deep fibular nerve (L5–S1).",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-253",
+              "sourceLine": 253
+            },
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-98",
+              "sourceLine": 98
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-39553348d0",
+      "variants": [
+        {
+          "id": "v-39553348d0",
+          "answer": "Superolateral calcaneus and inferior extensor retinaculum.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-254",
+              "sourceLine": 254
+            }
+          ]
+        },
+        {
+          "id": "v-075a45b30c",
+          "answer": "Superolateral calcaneus.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-99",
+              "sourceLine": 99
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-f80d8c29e3",
+      "variants": [
+        {
+          "id": "v-f80d8c29e3",
+          "answer": "Extensor digitorum longus tendons/extensor expansions of toes 2–4.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-255",
+              "sourceLine": 255
+            }
+          ]
+        },
+        {
+          "id": "v-8469188309",
+          "answer": "Tendons to toes 2–4 joining extensor expansions.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-100",
+              "sourceLine": 100
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "lower-limb-model-ns10",
+      "section": "Muscles",
+      "path": [
+        "31"
+      ],
+      "label": "31"
+    },
+    {
+      "modelId": "foot-model-ns9",
+      "section": "Muscles",
+      "path": [
+        "15"
+      ],
+      "label": "15"
+    }
+  ]
+}

@@ -1,0 +1,220 @@
+{
+  "id": "tendon-of-flexor-pollicis-longus-fb7ad6936b",
+  "name": "Tendon of flexor pollicis longus",
+  "aliases": [
+    "Tendon of flexor pollicis longus muscle"
+  ],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Tendons"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Course",
+    "Formation",
+    "Function",
+    "Insertion",
+    "Relations",
+    "Tendon",
+    "MusclesAndTendons"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-314f5178e5",
+      "variants": [
+        {
+          "id": "v-314f5178e5",
+          "answer": "Tendon of flexor pollicis longus",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-245",
+              "sourceLine": 245
+            }
+          ]
+        },
+        {
+          "id": "v-3e7c3f003d",
+          "answer": "Tendon of flexor pollicis longus muscle",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-129",
+              "sourceLine": 129
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-c13b6a1fb1",
+      "question": "Formed by",
+      "preferredVariantId": "v-2257c1e740",
+      "variants": [
+        {
+          "id": "v-2257c1e740",
+          "answer": "Distal tendon of flexor pollicis longus muscle.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-246",
+              "sourceLine": 246
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-e27e807143",
+      "variants": [
+        {
+          "id": "v-e27e807143",
+          "answer": "Passes through the carpal tunnel, then through the flexor sheath of the thumb.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-247",
+              "sourceLine": 247
+            }
+          ]
+        },
+        {
+          "id": "v-f9ce91881d",
+          "answer": "Passes through the carpal tunnel and then within the fibrous digital sheath of the thumb.",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-130",
+              "sourceLine": 130
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-a2e6913dbc",
+      "variants": [
+        {
+          "id": "v-a2e6913dbc",
+          "answer": "Palmar base of distal phalanx of thumb.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-248",
+              "sourceLine": 248
+            }
+          ]
+        },
+        {
+          "id": "v-19c1195393",
+          "answer": "Base of distal phalanx of thumb.",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-131",
+              "sourceLine": 131
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-794c2c36c9",
+      "variants": [
+        {
+          "id": "v-794c2c36c9",
+          "answer": "Transmits force to flex the thumb, especially at the interphalangeal joint.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-249",
+              "sourceLine": 249
+            }
+          ]
+        },
+        {
+          "id": "v-ff9c1d285c",
+          "answer": "Flexes the thumb, especially at the interphalangeal joint.",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-132",
+              "sourceLine": 132
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-17aeb08096",
+      "variants": [
+        {
+          "id": "v-17aeb08096",
+          "answer": "Runs between the sesamoids at the MCP region and within its own digital synovial sheath.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-250",
+              "sourceLine": 250
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "upper-limb-model-ns15",
+      "section": "Muscles",
+      "path": [
+        "41"
+      ],
+      "label": "41"
+    },
+    {
+      "modelId": "hand-model-ns13",
+      "section": "Muscles, tendons and pulleys",
+      "path": [
+        "p"
+      ],
+      "label": "p"
+    }
+  ],
+  "redirectIds": [
+    "tendon-of-flexor-pollicis-longus-muscle-d3954dc732"
+  ]
+}

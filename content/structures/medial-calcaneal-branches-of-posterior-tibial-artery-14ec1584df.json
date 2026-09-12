@@ -1,0 +1,90 @@
+{
+  "id": "medial-calcaneal-branches-of-posterior-tibial-artery-14ec1584df",
+  "name": "Medial calcaneal branches of posterior tibial artery",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Arteries"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Cardiovascular"
+  ],
+  "organs": [],
+  "tags": [
+    "ArteriesAndNerves",
+    "Artery",
+    "Origin",
+    "Supply"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-dbacec8e60",
+      "variants": [
+        {
+          "id": "v-dbacec8e60",
+          "answer": "Medial calcaneal branches of posterior tibial artery",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-360",
+              "sourceLine": 360
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-a07085ae89",
+      "variants": [
+        {
+          "id": "v-a07085ae89",
+          "answer": "Branches of posterior tibial artery near the ankle.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-361",
+              "sourceLine": 361
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-222db0fc1c",
+      "question": "Supply",
+      "preferredVariantId": "v-45b0d14508",
+      "variants": [
+        {
+          "id": "v-45b0d14508",
+          "answer": "Medial heel and calcaneal region.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-362",
+              "sourceLine": 362
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "foot-model-ns9",
+      "section": "Arteries and nerves",
+      "path": [
+        "53"
+      ],
+      "label": "53"
+    }
+  ]
+}

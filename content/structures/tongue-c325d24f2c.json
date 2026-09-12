@@ -1,0 +1,122 @@
+{
+  "id": "tongue-c325d24f2c",
+  "name": "Tongue",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Organs"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [],
+  "organs": [],
+  "tags": [
+    "Function",
+    "Innervation",
+    "MidSagittal",
+    "MidlineStructures",
+    "Organ"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-2c0af9c54f",
+      "variants": [
+        {
+          "id": "v-2c0af9c54f",
+          "answer": "Tongue",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-399",
+              "sourceLine": 399
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-285",
+              "sourceLine": 285
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-507b9744e4",
+      "variants": [
+        {
+          "id": "v-507b9744e4",
+          "answer": "Manipulates food, contributes to swallowing, taste and speech.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-400",
+              "sourceLine": 400
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-286",
+              "sourceLine": 286
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-50939aee88",
+      "variants": [
+        {
+          "id": "v-50939aee88",
+          "answer": "Motor via hypoglossal nerve except palatoglossus via vagus; sensory/taste innervation varies by region.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-401",
+              "sourceLine": 401
+            }
+          ]
+        },
+        {
+          "id": "v-3b22fc2586",
+          "answer": "Motor via CN XII except palatoglossus via CN X; sensory/taste varies by region.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-287",
+              "sourceLine": 287
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "coronal-and-mid-sagittal-head-mb20",
+      "section": "Other midline structures",
+      "path": [
+        "k"
+      ],
+      "label": "k"
+    },
+    {
+      "modelId": "half-head-and-neck-model-bs9",
+      "section": "Other midline structures",
+      "path": [
+        "k"
+      ],
+      "label": "k"
+    }
+  ]
+}

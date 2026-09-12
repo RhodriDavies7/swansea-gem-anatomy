@@ -1,0 +1,147 @@
+{
+  "id": "anterior-auricular-nerve-e8b0057d84",
+  "name": "Anterior auricular nerve",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Nerves"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [],
+  "tags": [
+    "BloodVesselsAndNerves",
+    "Course",
+    "Lesion",
+    "Motor",
+    "Nerve",
+    "Roots",
+    "Sensory"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-79f93c0855",
+      "variants": [
+        {
+          "id": "v-79f93c0855",
+          "answer": "Anterior auricular nerve",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-701",
+              "sourceLine": 701
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-4d78ec7d11",
+      "question": "Roots",
+      "preferredVariantId": "v-4a500ce0b9",
+      "variants": [
+        {
+          "id": "v-4a500ce0b9",
+          "answer": "Usually auriculotemporal nerve distribution from V3 around anterior auricle/temporal region.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-702",
+              "sourceLine": 702
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-bff4c1f359",
+      "variants": [
+        {
+          "id": "v-bff4c1f359",
+          "answer": "Runs anterior to auricle in temporal region.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-703",
+              "sourceLine": 703
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c8b6915183",
+      "question": "Motor functions",
+      "preferredVariantId": "v-7737d0d824",
+      "variants": [
+        {
+          "id": "v-7737d0d824",
+          "answer": "No motor function.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-704",
+              "sourceLine": 704
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-a453254382",
+      "question": "Sensory functions",
+      "preferredVariantId": "v-33990a4296",
+      "variants": [
+        {
+          "id": "v-33990a4296",
+          "answer": "Supplies sensation to anterior auricle, external acoustic meatus region and temporal scalp.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-705",
+              "sourceLine": 705
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-bc53d10c57",
+      "question": "Lesion",
+      "preferredVariantId": "v-f9d981fff0",
+      "variants": [
+        {
+          "id": "v-f9d981fff0",
+          "answer": "Lesion causes localised sensory loss or paraesthesia anterior to the auricle/temporal region without motor deficit.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-706",
+              "sourceLine": 706
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "half-head-and-neck-model-bs9",
+      "section": "Blood vessels and nerves",
+      "path": [
+        "67"
+      ],
+      "label": "67"
+    }
+  ]
+}

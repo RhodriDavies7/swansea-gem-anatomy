@@ -1,0 +1,130 @@
+{
+  "id": "major-pancreatic-duct-duct-of-wirsung-11ce5885ea",
+  "name": "Major pancreatic duct (duct of Wirsung)",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Abdomen"
+  ],
+  "systems": [
+    "Digestive"
+  ],
+  "organs": [
+    "Pancreas"
+  ],
+  "tags": [
+    "Clinical",
+    "Course",
+    "Duct",
+    "Ducts",
+    "Function",
+    "Termination"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-3b6b8cd938",
+      "variants": [
+        {
+          "id": "v-3b6b8cd938",
+          "answer": "Major pancreatic duct (duct of Wirsung)",
+          "sources": [
+            {
+              "modelId": "pancreas-model-js11",
+              "cardId": "pancreas-model-js11-26",
+              "sourceLine": 26
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-2d3a2e263f",
+      "variants": [
+        {
+          "id": "v-2d3a2e263f",
+          "answer": "Runs from the tail through the body toward the pancreatic head.",
+          "sources": [
+            {
+              "modelId": "pancreas-model-js11",
+              "cardId": "pancreas-model-js11-27",
+              "sourceLine": 27
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-2ee8521886",
+      "question": "Termination",
+      "preferredVariantId": "v-de09589ad7",
+      "variants": [
+        {
+          "id": "v-de09589ad7",
+          "answer": "Usually joins the common bile duct to form the hepatopancreatic ampulla and opens at the major duodenal papilla.",
+          "sources": [
+            {
+              "modelId": "pancreas-model-js11",
+              "cardId": "pancreas-model-js11-28",
+              "sourceLine": 28
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-39c8dabd60",
+      "variants": [
+        {
+          "id": "v-39c8dabd60",
+          "answer": "Drains most exocrine pancreatic secretions into the duodenum.",
+          "sources": [
+            {
+              "modelId": "pancreas-model-js11",
+              "cardId": "pancreas-model-js11-29",
+              "sourceLine": 29
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-b03737e3cd",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-5d66776206",
+      "variants": [
+        {
+          "id": "v-5d66776206",
+          "answer": "Obstruction can contribute to pancreatitis.",
+          "sources": [
+            {
+              "modelId": "pancreas-model-js11",
+              "cardId": "pancreas-model-js11-30",
+              "sourceLine": 30
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "pancreas-model-js11",
+      "section": "Pancreatic and biliary ducts",
+      "path": [
+        "1"
+      ],
+      "label": "1"
+    }
+  ]
+}

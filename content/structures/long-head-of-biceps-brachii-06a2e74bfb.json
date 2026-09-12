@@ -1,0 +1,146 @@
+{
+  "id": "long-head-of-biceps-brachii-06a2e74bfb",
+  "name": "Long head of biceps brachii",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "Course",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-9059510305",
+      "variants": [
+        {
+          "id": "v-9059510305",
+          "answer": "Long head of biceps brachii",
+          "sources": [
+            {
+              "modelId": "deep-shoulder-model-ns17",
+              "cardId": "deep-shoulder-model-ns17-84",
+              "sourceLine": 84
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-fe6a998694",
+      "variants": [
+        {
+          "id": "v-fe6a998694",
+          "answer": "Supinates the forearm and flexes the elbow; assists shoulder flexion and helps stabilise the humeral head.",
+          "sources": [
+            {
+              "modelId": "deep-shoulder-model-ns17",
+              "cardId": "deep-shoulder-model-ns17-85",
+              "sourceLine": 85
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-69eed64145",
+      "variants": [
+        {
+          "id": "v-69eed64145",
+          "answer": "Musculocutaneous nerve (C5–C6).",
+          "sources": [
+            {
+              "modelId": "deep-shoulder-model-ns17",
+              "cardId": "deep-shoulder-model-ns17-86",
+              "sourceLine": 86
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-5952e6ffc0",
+      "variants": [
+        {
+          "id": "v-5952e6ffc0",
+          "answer": "Supraglenoid tubercle of scapula and adjacent superior glenoid labrum.",
+          "sources": [
+            {
+              "modelId": "deep-shoulder-model-ns17",
+              "cardId": "deep-shoulder-model-ns17-87",
+              "sourceLine": 87
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-d738dff646",
+      "variants": [
+        {
+          "id": "v-d738dff646",
+          "answer": "Tendon passes intra-articularly but extrasynovially across the humeral head and then through the intertubercular sulcus.",
+          "sources": [
+            {
+              "modelId": "deep-shoulder-model-ns17",
+              "cardId": "deep-shoulder-model-ns17-88",
+              "sourceLine": 88
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-2a8c9a4c51",
+      "variants": [
+        {
+          "id": "v-2a8c9a4c51",
+          "answer": "Radial tuberosity and forearm fascia via the bicipital aponeurosis.",
+          "sources": [
+            {
+              "modelId": "deep-shoulder-model-ns17",
+              "cardId": "deep-shoulder-model-ns17-89",
+              "sourceLine": 89
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "deep-shoulder-model-ns17",
+      "section": "",
+      "path": [
+        "13"
+      ],
+      "label": "13"
+    }
+  ]
+}

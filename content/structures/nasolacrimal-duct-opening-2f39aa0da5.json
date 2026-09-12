@@ -1,0 +1,90 @@
+{
+  "id": "nasolacrimal-duct-opening-2f39aa0da5",
+  "name": "Nasolacrimal duct opening",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Respiratory"
+  ],
+  "organs": [],
+  "tags": [
+    "Function",
+    "Location",
+    "Opening",
+    "SinusesAndOpenings"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-a6597f4111",
+      "variants": [
+        {
+          "id": "v-a6597f4111",
+          "answer": "Nasolacrimal duct opening",
+          "sources": [
+            {
+              "modelId": "nose-and-nasal-cavity-model-fs3",
+              "cardId": "nose-and-nasal-cavity-model-fs3-68",
+              "sourceLine": 68
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-b6d98ad818",
+      "variants": [
+        {
+          "id": "v-b6d98ad818",
+          "answer": "Opens into the inferior nasal meatus.",
+          "sources": [
+            {
+              "modelId": "nose-and-nasal-cavity-model-fs3",
+              "cardId": "nose-and-nasal-cavity-model-fs3-69",
+              "sourceLine": 69
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-fcb4382655",
+      "variants": [
+        {
+          "id": "v-fcb4382655",
+          "answer": "Drains tears from the lacrimal sac into the nasal cavity.",
+          "sources": [
+            {
+              "modelId": "nose-and-nasal-cavity-model-fs3",
+              "cardId": "nose-and-nasal-cavity-model-fs3-70",
+              "sourceLine": 70
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "nose-and-nasal-cavity-model-fs3",
+      "section": "Paranasal sinuses, conchae and openings (a–p)",
+      "path": [
+        "m"
+      ],
+      "label": "m"
+    }
+  ]
+}

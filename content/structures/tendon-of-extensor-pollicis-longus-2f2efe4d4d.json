@@ -1,0 +1,146 @@
+{
+  "id": "tendon-of-extensor-pollicis-longus-2f2efe4d4d",
+  "name": "Tendon of extensor pollicis longus",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Tendons"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Course",
+    "Formation",
+    "Function",
+    "Insertion",
+    "Relations",
+    "Tendon"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-e72a1e0e72",
+      "variants": [
+        {
+          "id": "v-e72a1e0e72",
+          "answer": "Tendon of extensor pollicis longus",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-123",
+              "sourceLine": 123
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c13b6a1fb1",
+      "question": "Formed by",
+      "preferredVariantId": "v-f3fd6d3641",
+      "variants": [
+        {
+          "id": "v-f3fd6d3641",
+          "answer": "Distal tendon of extensor pollicis longus muscle.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-124",
+              "sourceLine": 124
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-6fc6f99f67",
+      "variants": [
+        {
+          "id": "v-6fc6f99f67",
+          "answer": "Passes through the third extensor compartment, turns around Lister’s tubercle, then crosses the dorsum of the wrist to the thumb.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-125",
+              "sourceLine": 125
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-400d0f3704",
+      "variants": [
+        {
+          "id": "v-400d0f3704",
+          "answer": "Dorsal base of distal phalanx of thumb.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-126",
+              "sourceLine": 126
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-0db449c8fd",
+      "variants": [
+        {
+          "id": "v-0db449c8fd",
+          "answer": "Transmits extensor pollicis longus force to extend the thumb, especially at the interphalangeal joint.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-127",
+              "sourceLine": 127
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-c583ae06fe",
+      "variants": [
+        {
+          "id": "v-c583ae06fe",
+          "answer": "Forms the medial border of the anatomical snuffbox.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-128",
+              "sourceLine": 128
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "upper-limb-model-ns15",
+      "section": "Muscles",
+      "path": [
+        "21"
+      ],
+      "label": "21"
+    }
+  ]
+}

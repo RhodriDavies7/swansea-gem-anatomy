@@ -1,0 +1,157 @@
+{
+  "id": "round-window-fda74e92c9",
+  "name": "Round window",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [],
+  "organs": [
+    "Ear"
+  ],
+  "tags": [
+    "Function",
+    "InnerEar",
+    "Location",
+    "Opening",
+    "VestibularApparatus"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-0b7cf35724",
+      "variants": [
+        {
+          "id": "v-0b7cf35724",
+          "answer": "Round window",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-216",
+              "sourceLine": 216
+            },
+            {
+              "modelId": "ear-model-ds3",
+              "cardId": "ear-model-ds3-118",
+              "sourceLine": 118
+            },
+            {
+              "modelId": "inner-ear-model-ds17",
+              "cardId": "inner-ear-model-ds17-79",
+              "sourceLine": 79
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-e744814bc3",
+      "variants": [
+        {
+          "id": "v-e744814bc3",
+          "answer": "Opening between middle ear and scala tympani, closed by the secondary tympanic membrane.",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-217",
+              "sourceLine": 217
+            },
+            {
+              "modelId": "ear-model-ds3",
+              "cardId": "ear-model-ds3-119",
+              "sourceLine": 119
+            }
+          ]
+        },
+        {
+          "id": "v-1cc0376a9f",
+          "answer": "Opening from scala tympani into middle-ear region, closed by secondary tympanic membrane.",
+          "sources": [
+            {
+              "modelId": "inner-ear-model-ds17",
+              "cardId": "inner-ear-model-ds17-80",
+              "sourceLine": 80
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-bea1f0b990",
+      "variants": [
+        {
+          "id": "v-bea1f0b990",
+          "answer": "Allows pressure release/displacement of cochlear fluid when the stapes moves at the oval window.",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-218",
+              "sourceLine": 218
+            },
+            {
+              "modelId": "ear-model-ds3",
+              "cardId": "ear-model-ds3-120",
+              "sourceLine": 120
+            }
+          ]
+        },
+        {
+          "id": "v-a7371042fd",
+          "answer": "Allows pressure release/displacement of cochlear fluids during sound transmission.",
+          "sources": [
+            {
+              "modelId": "inner-ear-model-ds17",
+              "cardId": "inner-ear-model-ds17-81",
+              "sourceLine": 81
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "ear-largest-model-ds1",
+      "section": "D. Inner ear",
+      "path": [
+        "34"
+      ],
+      "label": "34"
+    },
+    {
+      "modelId": "ear-model-ds3",
+      "section": "C. Inner ear",
+      "path": [
+        "16"
+      ],
+      "label": "16"
+    },
+    {
+      "modelId": "inner-ear-model-ds17",
+      "section": "Vestibular apparatus",
+      "path": [
+        "10"
+      ],
+      "label": "10"
+    }
+  ]
+}

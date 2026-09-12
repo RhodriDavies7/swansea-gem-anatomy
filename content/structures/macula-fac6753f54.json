@@ -1,0 +1,90 @@
+{
+  "id": "macula-fac6753f54",
+  "name": "Macula",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [],
+  "organs": [
+    "Eye"
+  ],
+  "tags": [
+    "Eye",
+    "Function",
+    "Location",
+    "RetinalLandmark"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-e0b3a7cb16",
+      "variants": [
+        {
+          "id": "v-e0b3a7cb16",
+          "answer": "Macula",
+          "sources": [
+            {
+              "modelId": "eyeball-with-part-of-orbit-model-cs2",
+              "cardId": "eyeball-with-part-of-orbit-model-cs2-136",
+              "sourceLine": 136
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-be07eedb08",
+      "variants": [
+        {
+          "id": "v-be07eedb08",
+          "answer": "Specialised area of retina lateral to the optic disc; fovea centralis lies at its centre.",
+          "sources": [
+            {
+              "modelId": "eyeball-with-part-of-orbit-model-cs2",
+              "cardId": "eyeball-with-part-of-orbit-model-cs2-137",
+              "sourceLine": 137
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-430ae478f6",
+      "variants": [
+        {
+          "id": "v-430ae478f6",
+          "answer": "Responsible for high-acuity central vision and detailed colour vision.",
+          "sources": [
+            {
+              "modelId": "eyeball-with-part-of-orbit-model-cs2",
+              "cardId": "eyeball-with-part-of-orbit-model-cs2-138",
+              "sourceLine": 138
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "eyeball-with-part-of-orbit-model-cs2",
+      "section": "Eye",
+      "path": [
+        "21"
+      ],
+      "label": "21"
+    }
+  ]
+}

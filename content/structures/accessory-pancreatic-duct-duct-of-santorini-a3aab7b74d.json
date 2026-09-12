@@ -1,0 +1,111 @@
+{
+  "id": "accessory-pancreatic-duct-duct-of-santorini-a3aab7b74d",
+  "name": "Accessory pancreatic duct (duct of Santorini)",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Abdomen"
+  ],
+  "systems": [
+    "Digestive"
+  ],
+  "organs": [
+    "Pancreas"
+  ],
+  "tags": [
+    "Course",
+    "Duct",
+    "Ducts",
+    "Function",
+    "Termination"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-b36caa3a96",
+      "variants": [
+        {
+          "id": "v-b36caa3a96",
+          "answer": "Accessory pancreatic duct (duct of Santorini)",
+          "sources": [
+            {
+              "modelId": "pancreas-model-js11",
+              "cardId": "pancreas-model-js11-33",
+              "sourceLine": 33
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-a6f1321fd4",
+      "variants": [
+        {
+          "id": "v-a6f1321fd4",
+          "answer": "Drains part of the pancreatic head and may communicate with the major pancreatic duct.",
+          "sources": [
+            {
+              "modelId": "pancreas-model-js11",
+              "cardId": "pancreas-model-js11-34",
+              "sourceLine": 34
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-2ee8521886",
+      "question": "Termination",
+      "preferredVariantId": "v-edd9b073eb",
+      "variants": [
+        {
+          "id": "v-edd9b073eb",
+          "answer": "Typically opens into the minor duodenal papilla.",
+          "sources": [
+            {
+              "modelId": "pancreas-model-js11",
+              "cardId": "pancreas-model-js11-35",
+              "sourceLine": 35
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-551b26afe2",
+      "variants": [
+        {
+          "id": "v-551b26afe2",
+          "answer": "Provides an additional drainage route for pancreatic secretions.",
+          "sources": [
+            {
+              "modelId": "pancreas-model-js11",
+              "cardId": "pancreas-model-js11-36",
+              "sourceLine": 36
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "pancreas-model-js11",
+      "section": "Pancreatic and biliary ducts",
+      "path": [
+        "2"
+      ],
+      "label": "2"
+    }
+  ]
+}

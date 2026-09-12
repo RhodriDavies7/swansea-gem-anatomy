@@ -1,0 +1,109 @@
+{
+  "id": "retromandibular-vein-24e4a826a4",
+  "name": "Retromandibular vein",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Veins"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Cardiovascular"
+  ],
+  "organs": [],
+  "tags": [
+    "Course",
+    "Formation",
+    "HeadNeck",
+    "Termination",
+    "Vein"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-5d82b79a6a",
+      "variants": [
+        {
+          "id": "v-5d82b79a6a",
+          "answer": "Retromandibular vein",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-497",
+              "sourceLine": 497
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-bc0bd86b8f",
+      "question": "Formation",
+      "preferredVariantId": "v-6dc180c9bf",
+      "variants": [
+        {
+          "id": "v-6dc180c9bf",
+          "answer": "Formed in parotid gland by union of superficial temporal and maxillary veins.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-498",
+              "sourceLine": 498
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-caa78eb2b7",
+      "variants": [
+        {
+          "id": "v-caa78eb2b7",
+          "answer": "Descends through parotid gland.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-499",
+              "sourceLine": 499
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-2ee8521886",
+      "question": "Termination",
+      "preferredVariantId": "v-2000f649c2",
+      "variants": [
+        {
+          "id": "v-2000f649c2",
+          "answer": "Divides into anterior/posterior divisions; contributes to facial and external jugular drainage.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-500",
+              "sourceLine": 500
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "head-and-neck-model-cs17-2",
+      "section": "Veins",
+      "path": [
+        "77"
+      ],
+      "label": "77"
+    }
+  ]
+}

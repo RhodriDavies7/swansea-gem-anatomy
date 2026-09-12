@@ -1,0 +1,201 @@
+{
+  "id": "clitoris-eb201dbee3",
+  "name": "Clitoris",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Pelvis"
+  ],
+  "systems": [
+    "Reproductive"
+  ],
+  "organs": [],
+  "tags": [
+    "BloodSupply",
+    "ErectileTissue",
+    "Function",
+    "Innervation",
+    "Parts",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-26bd1125ea",
+      "variants": [
+        {
+          "id": "v-26bd1125ea",
+          "answer": "Clitoris",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-195",
+              "sourceLine": 195
+            },
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-37",
+              "sourceLine": 37
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-29edb1e761",
+      "variants": [
+        {
+          "id": "v-29edb1e761",
+          "answer": "Erectile sensory organ involved in sexual arousal.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-196",
+              "sourceLine": 196
+            },
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-38",
+              "sourceLine": 38
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-e374280917",
+      "question": "Parts",
+      "preferredVariantId": "v-ccf8df459c",
+      "variants": [
+        {
+          "id": "v-ccf8df459c",
+          "answer": "Root, body and glans; paired crura form the root.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-197",
+              "sourceLine": 197
+            },
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-39",
+              "sourceLine": 39
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "curated-90551beabd",
+      "variants": [
+        {
+          "id": "v-2df1150e0f",
+          "answer": "Somatic sensation mainly via dorsal nerve of clitoris from pudendal nerve.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-198",
+              "sourceLine": 198
+            }
+          ]
+        },
+        {
+          "id": "v-9ee68810f1",
+          "answer": "Somatic sensation mainly via the dorsal nerve of the clitoris; autonomic cavernous fibres regulate erection.",
+          "sources": [
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-42",
+              "sourceLine": 42
+            }
+          ]
+        },
+        {
+          "id": "curated-90551beabd",
+          "answer": "Somatic sensation: dorsal nerve of the clitoris (pudendal nerve). Autonomic cavernous fibres regulate erection.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-198",
+              "sourceLine": 198
+            },
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-42",
+              "sourceLine": 42
+            }
+          ],
+          "editorial": true
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-a24d67d6ae",
+      "variants": [
+        {
+          "id": "v-a24d67d6ae",
+          "answer": "Located at the anterior end of the vulva where the labia minora meet.",
+          "sources": [
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-40",
+              "sourceLine": 40
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-a707f7e176",
+      "question": "Blood supply",
+      "preferredVariantId": "v-dcaa6a823c",
+      "variants": [
+        {
+          "id": "v-dcaa6a823c",
+          "answer": "Branches of the internal pudendal artery, including deep and dorsal arteries of the clitoris.",
+          "sources": [
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-41",
+              "sourceLine": 41
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "female-pelvis-model-mo8",
+      "section": "",
+      "path": [
+        "26"
+      ],
+      "label": "26"
+    },
+    {
+      "modelId": "female-reproductive-system-model-ms1",
+      "section": "",
+      "path": [
+        "6"
+      ],
+      "label": "6"
+    }
+  ]
+}

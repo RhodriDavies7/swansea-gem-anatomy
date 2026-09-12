@@ -1,0 +1,109 @@
+{
+  "id": "sphenopalatine-foramen-8dd49e942d",
+  "name": "Sphenopalatine foramen",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Respiratory"
+  ],
+  "organs": [],
+  "tags": [
+    "Clinical",
+    "Contents",
+    "Foramen",
+    "Location",
+    "SinusesAndOpenings"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-9edb80f944",
+      "variants": [
+        {
+          "id": "v-9edb80f944",
+          "answer": "Sphenopalatine foramen",
+          "sources": [
+            {
+              "modelId": "nose-and-nasal-cavity-model-fs3",
+              "cardId": "nose-and-nasal-cavity-model-fs3-73",
+              "sourceLine": 73
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-d64032bdee",
+      "variants": [
+        {
+          "id": "v-d64032bdee",
+          "answer": "Posterior part of the lateral nasal wall between sphenoid and palatine bones.",
+          "sources": [
+            {
+              "modelId": "nose-and-nasal-cavity-model-fs3",
+              "cardId": "nose-and-nasal-cavity-model-fs3-74",
+              "sourceLine": 74
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f5cbdf6bfb",
+      "question": "Contents",
+      "preferredVariantId": "v-50a3db3f06",
+      "variants": [
+        {
+          "id": "v-50a3db3f06",
+          "answer": "Transmits sphenopalatine vessels and posterior superior nasal nerves.",
+          "sources": [
+            {
+              "modelId": "nose-and-nasal-cavity-model-fs3",
+              "cardId": "nose-and-nasal-cavity-model-fs3-75",
+              "sourceLine": 75
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-b03737e3cd",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-ef5332d9d2",
+      "variants": [
+        {
+          "id": "v-ef5332d9d2",
+          "answer": "Sphenopalatine artery is a major source of posterior epistaxis.",
+          "sources": [
+            {
+              "modelId": "nose-and-nasal-cavity-model-fs3",
+              "cardId": "nose-and-nasal-cavity-model-fs3-76",
+              "sourceLine": 76
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "nose-and-nasal-cavity-model-fs3",
+      "section": "Paranasal sinuses, conchae and openings (a–p)",
+      "path": [
+        "n"
+      ],
+      "label": "n"
+    }
+  ]
+}

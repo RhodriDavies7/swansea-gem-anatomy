@@ -1,0 +1,111 @@
+{
+  "id": "longitudinal-fold-of-the-duodenum-0f228634cf",
+  "name": "Longitudinal fold of the duodenum",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Abdomen"
+  ],
+  "systems": [
+    "Digestive"
+  ],
+  "organs": [
+    "Pancreas"
+  ],
+  "tags": [
+    "Ducts",
+    "Function",
+    "Location",
+    "MucosalFold",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-0469a9fa60",
+      "variants": [
+        {
+          "id": "v-0469a9fa60",
+          "answer": "Longitudinal fold of the duodenum",
+          "sources": [
+            {
+              "modelId": "pancreas-model-js11",
+              "cardId": "pancreas-model-js11-46",
+              "sourceLine": 46
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-71ce49fd20",
+      "variants": [
+        {
+          "id": "v-71ce49fd20",
+          "answer": "Longitudinal mucosal fold on the medial wall of the descending duodenum.",
+          "sources": [
+            {
+              "modelId": "pancreas-model-js11",
+              "cardId": "pancreas-model-js11-47",
+              "sourceLine": 47
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-f9827ddc65",
+      "variants": [
+        {
+          "id": "v-f9827ddc65",
+          "answer": "The major duodenal papilla lies on the fold.",
+          "sources": [
+            {
+              "modelId": "pancreas-model-js11",
+              "cardId": "pancreas-model-js11-48",
+              "sourceLine": 48
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-50e6dd686d",
+      "variants": [
+        {
+          "id": "v-50e6dd686d",
+          "answer": "Marks the region where bile and pancreatic secretions enter the duodenum.",
+          "sources": [
+            {
+              "modelId": "pancreas-model-js11",
+              "cardId": "pancreas-model-js11-49",
+              "sourceLine": 49
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "pancreas-model-js11",
+      "section": "Pancreatic and biliary ducts",
+      "path": [
+        "4"
+      ],
+      "label": "4"
+    }
+  ]
+}

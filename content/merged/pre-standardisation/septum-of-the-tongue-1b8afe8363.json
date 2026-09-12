@@ -1,0 +1,92 @@
+{
+  "id": "septum-of-the-tongue-1b8afe8363",
+  "name": "Septum of the tongue",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Respiratory"
+  ],
+  "organs": [
+    "Larynx"
+  ],
+  "tags": [
+    "Function",
+    "Septum",
+    "Structure",
+    "Tongue"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-4845c42f01",
+      "variants": [
+        {
+          "id": "v-4845c42f01",
+          "answer": "Septum of the tongue",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-307",
+              "sourceLine": 307
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-e5687f482d",
+      "variants": [
+        {
+          "id": "v-e5687f482d",
+          "answer": "Midline fibrous partition within the tongue.",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-308",
+              "sourceLine": 308
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-dffe24d0e4",
+      "variants": [
+        {
+          "id": "v-dffe24d0e4",
+          "answer": "Separates right and left tongue musculature and provides internal support.",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-309",
+              "sourceLine": 309
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "larynx-and-tongue-model-gs4",
+      "section": "Tongue",
+      "path": [
+        "17"
+      ],
+      "label": "17"
+    }
+  ]
+}

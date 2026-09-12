@@ -1,0 +1,130 @@
+{
+  "id": "duodenum-39d05d6ae2",
+  "name": "Duodenum",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Organs"
+  ],
+  "regions": [
+    "Abdomen"
+  ],
+  "systems": [
+    "Digestive"
+  ],
+  "organs": [
+    "Pancreas"
+  ],
+  "tags": [
+    "BloodSupply",
+    "Function",
+    "MajorOrgans",
+    "Organ",
+    "Parts",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-5ec83a0c55",
+      "variants": [
+        {
+          "id": "v-5ec83a0c55",
+          "answer": "Duodenum",
+          "sources": [
+            {
+              "modelId": "pancreas-model-js11",
+              "cardId": "pancreas-model-js11-18",
+              "sourceLine": 18
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-e374280917",
+      "question": "Parts",
+      "preferredVariantId": "v-430740b4b5",
+      "variants": [
+        {
+          "id": "v-430740b4b5",
+          "answer": "Superior, descending, horizontal and ascending parts.",
+          "sources": [
+            {
+              "modelId": "pancreas-model-js11",
+              "cardId": "pancreas-model-js11-19",
+              "sourceLine": 19
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-ef72c0ba9d",
+      "variants": [
+        {
+          "id": "v-ef72c0ba9d",
+          "answer": "Receives gastric chyme, bile and pancreatic secretions and begins major small-intestinal digestion.",
+          "sources": [
+            {
+              "modelId": "pancreas-model-js11",
+              "cardId": "pancreas-model-js11-20",
+              "sourceLine": 20
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-871338ae46",
+      "variants": [
+        {
+          "id": "v-871338ae46",
+          "answer": "C-shaped around the pancreatic head.",
+          "sources": [
+            {
+              "modelId": "pancreas-model-js11",
+              "cardId": "pancreas-model-js11-21",
+              "sourceLine": 21
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-a707f7e176",
+      "question": "Blood supply",
+      "preferredVariantId": "v-08dd606d99",
+      "variants": [
+        {
+          "id": "v-08dd606d99",
+          "answer": "Superior pancreaticoduodenal branches from gastroduodenal artery and inferior pancreaticoduodenal branches from SMA.",
+          "sources": [
+            {
+              "modelId": "pancreas-model-js11",
+              "cardId": "pancreas-model-js11-22",
+              "sourceLine": 22
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "pancreas-model-js11",
+      "section": "Major organs",
+      "path": [
+        "C"
+      ],
+      "label": "C"
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "id": "palatine-nerves-639712a2df",
+  "name": "Palatine nerves",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Nerves"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [],
+  "tags": [
+    "Course",
+    "Nerve",
+    "Parasympathetic",
+    "Roots",
+    "Sensory"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-d3bb527e1f",
+      "variants": [
+        {
+          "id": "v-d3bb527e1f",
+          "answer": "Palatine nerves",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-191",
+              "sourceLine": 191
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-4d78ec7d11",
+      "question": "Roots",
+      "preferredVariantId": "v-c602ad74a5",
+      "variants": [
+        {
+          "id": "v-c602ad74a5",
+          "answer": "Branches associated with the maxillary nerve via the pterygopalatine ganglion.",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-192",
+              "sourceLine": 192
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-bd70936813",
+      "variants": [
+        {
+          "id": "v-bd70936813",
+          "answer": "Descend through the palatine canals to the palate as greater and lesser palatine nerves.",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-193",
+              "sourceLine": 193
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-a453254382",
+      "question": "Sensory functions",
+      "preferredVariantId": "v-e51f724c2f",
+      "variants": [
+        {
+          "id": "v-e51f724c2f",
+          "answer": "General sensation from much of the hard and soft palate.",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-194",
+              "sourceLine": 194
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9f76a2a9d2",
+      "question": "Parasympathetic functions",
+      "preferredVariantId": "v-6e41d9c237",
+      "variants": [
+        {
+          "id": "v-6e41d9c237",
+          "answer": "Carry postganglionic parasympathetic secretomotor fibres to palatal glands.",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-195",
+              "sourceLine": 195
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "deep-face-model-bs8-1",
+      "section": "",
+      "path": [
+        "30"
+      ],
+      "label": "30"
+    }
+  ]
+}

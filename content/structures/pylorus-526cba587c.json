@@ -1,0 +1,111 @@
+{
+  "id": "pylorus-526cba587c",
+  "name": "Pylorus",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Abdomen"
+  ],
+  "systems": [
+    "Digestive"
+  ],
+  "organs": [
+    "Stomach"
+  ],
+  "tags": [
+    "Function",
+    "Location",
+    "Parts",
+    "RegionsAndLandmarks",
+    "StomachRegion"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-96f2a20ca7",
+      "variants": [
+        {
+          "id": "v-96f2a20ca7",
+          "answer": "Pylorus",
+          "sources": [
+            {
+              "modelId": "stomach-model-ns15",
+              "cardId": "stomach-model-ns15-27",
+              "sourceLine": 27
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-9c41c69c7d",
+      "variants": [
+        {
+          "id": "v-9c41c69c7d",
+          "answer": "Distal region of stomach leading to first part of duodenum.",
+          "sources": [
+            {
+              "modelId": "stomach-model-ns15",
+              "cardId": "stomach-model-ns15-28",
+              "sourceLine": 28
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-e374280917",
+      "question": "Parts",
+      "preferredVariantId": "v-967fc96442",
+      "variants": [
+        {
+          "id": "v-967fc96442",
+          "answer": "Includes pyloric antrum, pyloric canal and pyloric sphincter.",
+          "sources": [
+            {
+              "modelId": "stomach-model-ns15",
+              "cardId": "stomach-model-ns15-29",
+              "sourceLine": 29
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-62b256c86b",
+      "variants": [
+        {
+          "id": "v-62b256c86b",
+          "answer": "Regulates gastric emptying into the duodenum.",
+          "sources": [
+            {
+              "modelId": "stomach-model-ns15",
+              "cardId": "stomach-model-ns15-30",
+              "sourceLine": 30
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "stomach-model-ns15",
+      "section": "Regions and external landmarks",
+      "path": [
+        "5"
+      ],
+      "label": "5"
+    }
+  ]
+}

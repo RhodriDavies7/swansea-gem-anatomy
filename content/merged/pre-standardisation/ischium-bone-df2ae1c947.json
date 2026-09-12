@@ -1,0 +1,109 @@
+{
+  "id": "ischium-bone-df2ae1c947",
+  "name": "Ischium bone",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Bones"
+  ],
+  "regions": [
+    "Pelvis"
+  ],
+  "systems": [
+    "Musculoskeletal",
+    "Reproductive"
+  ],
+  "organs": [],
+  "tags": [
+    "Articulations",
+    "Attachments",
+    "Bone",
+    "Landmarks"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-e8c025e831",
+      "variants": [
+        {
+          "id": "v-e8c025e831",
+          "answer": "Ischium bone",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-8",
+              "sourceLine": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-a40bee8d10",
+      "question": "Articulations",
+      "preferredVariantId": "v-ca7777a009",
+      "variants": [
+        {
+          "id": "v-ca7777a009",
+          "answer": "Contributes to the acetabulum and joins the pubis anteriorly and ilium superiorly.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-9",
+              "sourceLine": 9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-626b6c1d45",
+      "question": "Landmarks",
+      "preferredVariantId": "v-7654727dec",
+      "variants": [
+        {
+          "id": "v-7654727dec",
+          "answer": "Ischial spine, ischial tuberosity, lesser sciatic notch and ramus.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-10",
+              "sourceLine": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6771ade6e8",
+      "question": "Attachments",
+      "preferredVariantId": "v-1b184516fd",
+      "variants": [
+        {
+          "id": "v-1b184516fd",
+          "answer": "Provides attachment for hamstrings, sacrotuberous ligament and several pelvic/perineal muscles.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-11",
+              "sourceLine": 11
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "female-pelvis-model-mo8",
+      "section": "",
+      "path": [
+        "2"
+      ],
+      "label": "2"
+    }
+  ]
+}

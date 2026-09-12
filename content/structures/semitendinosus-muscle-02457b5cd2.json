@@ -1,0 +1,129 @@
+{
+  "id": "semitendinosus-muscle-02457b5cd2",
+  "name": "Semitendinosus muscle",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Origin"
+  ],
+  "imageIds": [
+    "img-ac11953b0a6a"
+  ],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-d70eb1d3d7",
+      "variants": [
+        {
+          "id": "v-d70eb1d3d7",
+          "answer": "Semitendinosus muscle",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-130",
+              "sourceLine": 130
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-4ed0193606",
+      "variants": [
+        {
+          "id": "v-4ed0193606",
+          "answer": "Extends the hip; flexes the knee and medially rotates the flexed leg.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-131",
+              "sourceLine": 131
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-04183178d7",
+      "variants": [
+        {
+          "id": "v-04183178d7",
+          "answer": "Tibial division of sciatic nerve (L5–S2).",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-132",
+              "sourceLine": 132
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-a7a2d2dd1b",
+      "variants": [
+        {
+          "id": "v-a7a2d2dd1b",
+          "answer": "Ischial tuberosity, sharing a proximal tendon with long head of biceps femoris.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-133",
+              "sourceLine": 133
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-d996c89d10",
+      "variants": [
+        {
+          "id": "v-d996c89d10",
+          "answer": "Superior medial tibia as part of pes anserinus.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-134",
+              "sourceLine": 134
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "lower-limb-model-ns10",
+      "section": "Muscles",
+      "path": [
+        "16"
+      ],
+      "label": "16"
+    }
+  ]
+}

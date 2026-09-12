@@ -1,0 +1,164 @@
+{
+  "id": "aryepiglottic-muscle-4f6d83f442",
+  "name": "Aryepiglottic muscle",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Musculoskeletal",
+    "Respiratory"
+  ],
+  "organs": [
+    "Larynx"
+  ],
+  "tags": [
+    "Action",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Muscles",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-844c54b264",
+      "variants": [
+        {
+          "id": "v-844c54b264",
+          "answer": "Aryepiglottic muscle",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-152",
+              "sourceLine": 152
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-152",
+              "sourceLine": 152
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-77c0c0bc7e",
+      "variants": [
+        {
+          "id": "v-77c0c0bc7e",
+          "answer": "Narrows the laryngeal inlet by drawing the aryepiglottic folds together.",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-153",
+              "sourceLine": 153
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-153",
+              "sourceLine": 153
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-d3dd3edf3d",
+      "variants": [
+        {
+          "id": "v-d3dd3edf3d",
+          "answer": "Recurrent laryngeal nerve via inferior laryngeal nerve (CN X).",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-154",
+              "sourceLine": 154
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-154",
+              "sourceLine": 154
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-bd64abbf2a",
+      "variants": [
+        {
+          "id": "v-bd64abbf2a",
+          "answer": "Continuation of oblique arytenoid fibres.",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-155",
+              "sourceLine": 155
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-155",
+              "sourceLine": 155
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-c3c9a8fe80",
+      "variants": [
+        {
+          "id": "v-c3c9a8fe80",
+          "answer": "Lateral margin of epiglottis and aryepiglottic fold.",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-156",
+              "sourceLine": 156
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-156",
+              "sourceLine": 156
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "larynx-model-gs7",
+      "section": "Laryngeal and airway muscles",
+      "path": [
+        "21"
+      ],
+      "label": "21"
+    },
+    {
+      "modelId": "larynx-and-airway-model-gs5",
+      "section": "Laryngeal and airway muscles",
+      "path": [
+        "21"
+      ],
+      "label": "21"
+    }
+  ]
+}

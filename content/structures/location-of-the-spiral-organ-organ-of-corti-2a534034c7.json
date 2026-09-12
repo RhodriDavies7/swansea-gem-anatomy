@@ -1,0 +1,128 @@
+{
+  "id": "location-of-the-spiral-organ-organ-of-corti-2a534034c7",
+  "name": "Location of the spiral organ (organ of Corti)",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Organs"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [],
+  "organs": [
+    "Ear"
+  ],
+  "tags": [
+    "Cochlea",
+    "Function",
+    "Innervation",
+    "Location",
+    "Relations",
+    "SensoryOrgan"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-585fc629b6",
+      "variants": [
+        {
+          "id": "v-585fc629b6",
+          "answer": "Location of the spiral organ (organ of Corti)",
+          "sources": [
+            {
+              "modelId": "inner-ear-model-ds17",
+              "cardId": "inner-ear-model-ds17-140",
+              "sourceLine": 140
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-e42c275358",
+      "variants": [
+        {
+          "id": "v-e42c275358",
+          "answer": "Lies on basilar membrane within the cochlear duct.",
+          "sources": [
+            {
+              "modelId": "inner-ear-model-ds17",
+              "cardId": "inner-ear-model-ds17-141",
+              "sourceLine": 141
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-54fa22446d",
+      "variants": [
+        {
+          "id": "v-54fa22446d",
+          "answer": "Converts mechanical sound vibrations into neural signals via inner and outer hair cells.",
+          "sources": [
+            {
+              "modelId": "inner-ear-model-ds17",
+              "cardId": "inner-ear-model-ds17-142",
+              "sourceLine": 142
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-3df85c8d05",
+      "variants": [
+        {
+          "id": "v-3df85c8d05",
+          "answer": "Hair-cell stereocilia interact with the overlying tectorial membrane.",
+          "sources": [
+            {
+              "modelId": "inner-ear-model-ds17",
+              "cardId": "inner-ear-model-ds17-143",
+              "sourceLine": 143
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-784bfb9d9b",
+      "variants": [
+        {
+          "id": "v-784bfb9d9b",
+          "answer": "Hair cells synapse with fibres of cochlear nerve via spiral ganglion neurons.",
+          "sources": [
+            {
+              "modelId": "inner-ear-model-ds17",
+              "cardId": "inner-ear-model-ds17-144",
+              "sourceLine": 144
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "inner-ear-model-ds17",
+      "section": "Cochlea and auditory structures",
+      "path": [
+        "19"
+      ],
+      "label": "19"
+    }
+  ]
+}

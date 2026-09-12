@@ -1,0 +1,146 @@
+{
+  "id": "penis-6c084d4578",
+  "name": "Penis",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Organs"
+  ],
+  "regions": [
+    "Pelvis"
+  ],
+  "systems": [
+    "Reproductive"
+  ],
+  "organs": [],
+  "tags": [
+    "BloodSupply",
+    "ErectileTissue",
+    "Function",
+    "Innervation",
+    "Organ",
+    "Parts"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-2ff3b4e235",
+      "variants": [
+        {
+          "id": "v-2ff3b4e235",
+          "answer": "Penis",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-111",
+              "sourceLine": 111
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-e5415620af",
+      "variants": [
+        {
+          "id": "v-e5415620af",
+          "answer": "Organ of copulation and conduit for urine through the urethra.",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-112",
+              "sourceLine": 112
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-e374280917",
+      "question": "Parts",
+      "preferredVariantId": "v-f92f650cb6",
+      "variants": [
+        {
+          "id": "v-f92f650cb6",
+          "answer": "Root, body and glans.",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-113",
+              "sourceLine": 113
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-0d737cebbe",
+      "question": "Erectile tissues",
+      "preferredVariantId": "v-d27a878beb",
+      "variants": [
+        {
+          "id": "v-d27a878beb",
+          "answer": "Paired corpora cavernosa dorsally and a single corpus spongiosum ventrally.",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-114",
+              "sourceLine": 114
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-a707f7e176",
+      "question": "Blood supply",
+      "preferredVariantId": "v-6ff0fb1c0e",
+      "variants": [
+        {
+          "id": "v-6ff0fb1c0e",
+          "answer": "Internal pudendal branches include deep arteries of the penis, dorsal arteries and artery of the bulb; skin also receives external pudendal contributions.",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-115",
+              "sourceLine": 115
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-4172e28143",
+      "variants": [
+        {
+          "id": "v-4172e28143",
+          "answer": "Somatic sensation mainly via the dorsal nerve of the penis; autonomic cavernous nerves regulate erection.",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-116",
+              "sourceLine": 116
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "male-reproductive-system-model-ms2",
+      "section": "",
+      "path": [
+        "11"
+      ],
+      "label": "11"
+    }
+  ]
+}

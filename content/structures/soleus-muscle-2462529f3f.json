@@ -1,0 +1,128 @@
+{
+  "id": "soleus-muscle-2462529f3f",
+  "name": "Soleus muscle",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-e640d76fe6",
+      "variants": [
+        {
+          "id": "v-e640d76fe6",
+          "answer": "Soleus muscle",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-202",
+              "sourceLine": 202
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-ac10271e43",
+      "variants": [
+        {
+          "id": "v-ac10271e43",
+          "answer": "Plantarflexes the ankle; stabilises the leg on the foot during standing.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-203",
+              "sourceLine": 203
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-e952a2186f",
+      "variants": [
+        {
+          "id": "v-e952a2186f",
+          "answer": "Tibial nerve (S1–S2).",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-204",
+              "sourceLine": 204
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-5ffa2d0876",
+      "variants": [
+        {
+          "id": "v-5ffa2d0876",
+          "answer": "Posterior head and proximal fibula, soleal line and medial tibial border, and tendinous arch between tibia and fibula.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-205",
+              "sourceLine": 205
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-b3cede683e",
+      "variants": [
+        {
+          "id": "v-b3cede683e",
+          "answer": "Posterior calcaneus via calcaneal tendon.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-206",
+              "sourceLine": 206
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "lower-limb-model-ns10",
+      "section": "Muscles",
+      "path": [
+        "24",
+        "24c"
+      ],
+      "label": "24c"
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "id": "vorticose-veins-a66913aff1",
+  "name": "Vorticose veins",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Veins"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Cardiovascular"
+  ],
+  "organs": [
+    "Eye"
+  ],
+  "tags": [
+    "Drainage",
+    "Eye",
+    "Location",
+    "ModelNote",
+    "Vein"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-295d2949f8",
+      "variants": [
+        {
+          "id": "v-295d2949f8",
+          "answer": "Vorticose veins",
+          "sources": [
+            {
+              "modelId": "eyeball-with-part-of-orbit-model-cs2",
+              "cardId": "eyeball-with-part-of-orbit-model-cs2-122",
+              "sourceLine": 122
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-71bd1fb53d",
+      "variants": [
+        {
+          "id": "v-71bd1fb53d",
+          "answer": "Large veins draining the choroid and exiting obliquely through the posterior sclera.",
+          "sources": [
+            {
+              "modelId": "eyeball-with-part-of-orbit-model-cs2",
+              "cardId": "eyeball-with-part-of-orbit-model-cs2-123",
+              "sourceLine": 123
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-74a64b1943",
+      "question": "Drainage",
+      "preferredVariantId": "v-c6214d68ce",
+      "variants": [
+        {
+          "id": "v-c6214d68ce",
+          "answer": "Drain the choroidal circulation into ophthalmic veins.",
+          "sources": [
+            {
+              "modelId": "eyeball-with-part-of-orbit-model-cs2",
+              "cardId": "eyeball-with-part-of-orbit-model-cs2-124",
+              "sourceLine": 124
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-2c924e3088",
+      "question": "Note",
+      "preferredVariantId": "v-5f4f1fe91e",
+      "variants": [
+        {
+          "id": "v-5f4f1fe91e",
+          "answer": "On these models, the number 9 may have a visible tail; use the model position and structure rather than the numeral shape alone.",
+          "sources": [
+            {
+              "modelId": "eyeball-with-part-of-orbit-model-cs2",
+              "cardId": "eyeball-with-part-of-orbit-model-cs2-125",
+              "sourceLine": 125
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "eyeball-with-part-of-orbit-model-cs2",
+      "section": "Eye",
+      "path": [
+        "19"
+      ],
+      "label": "19"
+    }
+  ]
+}

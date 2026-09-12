@@ -1,0 +1,109 @@
+{
+  "id": "internal-acoustic-meatus-c15afac4e5",
+  "name": "Internal acoustic meatus",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [],
+  "organs": [
+    "Ear"
+  ],
+  "tags": [
+    "Canal",
+    "Contents",
+    "Location",
+    "Relations",
+    "TemporalBone"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-d329b922b1",
+      "variants": [
+        {
+          "id": "v-d329b922b1",
+          "answer": "Internal acoustic meatus",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-91",
+              "sourceLine": 91
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-5aed220c48",
+      "variants": [
+        {
+          "id": "v-5aed220c48",
+          "answer": "Canal in the posterior surface of the petrous temporal bone.",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-92",
+              "sourceLine": 92
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f5cbdf6bfb",
+      "question": "Contents",
+      "preferredVariantId": "v-242f1a2e4f",
+      "variants": [
+        {
+          "id": "v-242f1a2e4f",
+          "answer": "Facial nerve (CN VII), vestibulocochlear nerve (CN VIII) and labyrinthine vessels.",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-93",
+              "sourceLine": 93
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-f98d32e650",
+      "variants": [
+        {
+          "id": "v-f98d32e650",
+          "answer": "Opens from the posterior cranial fossa toward the inner ear.",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-94",
+              "sourceLine": 94
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "ear-largest-model-ds1",
+      "section": "B. Temporal bone",
+      "path": [
+        "17"
+      ],
+      "label": "17"
+    }
+  ]
+}

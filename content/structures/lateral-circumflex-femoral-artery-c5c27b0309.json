@@ -1,0 +1,127 @@
+{
+  "id": "lateral-circumflex-femoral-artery-c5c27b0309",
+  "name": "Lateral circumflex femoral artery",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Arteries"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Cardiovascular"
+  ],
+  "organs": [],
+  "tags": [
+    "Artery",
+    "Branches",
+    "Course",
+    "Origin",
+    "Supply"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-f8dd67dd60",
+      "variants": [
+        {
+          "id": "v-f8dd67dd60",
+          "answer": "Lateral circumflex femoral artery",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-364",
+              "sourceLine": 364
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-2bed938e5e",
+      "variants": [
+        {
+          "id": "v-2bed938e5e",
+          "answer": "Usually profunda femoris; sometimes femoral artery.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-365",
+              "sourceLine": 365
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-d404f1869b",
+      "variants": [
+        {
+          "id": "v-d404f1869b",
+          "answer": "Runs laterally deep to sartorius and rectus femoris, between femoral nerve divisions.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-366",
+              "sourceLine": 366
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f578227926",
+      "question": "Branches",
+      "preferredVariantId": "v-6448b1fc10",
+      "variants": [
+        {
+          "id": "v-6448b1fc10",
+          "answer": "Ascending, transverse and descending branches.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-367",
+              "sourceLine": 367
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-222db0fc1c",
+      "question": "Supply",
+      "preferredVariantId": "v-7b2a9dc196",
+      "variants": [
+        {
+          "id": "v-7b2a9dc196",
+          "answer": "Anterior/lateral thigh, hip region and knee through descending branch.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-368",
+              "sourceLine": 368
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "lower-limb-model-ns10",
+      "section": "Blood vessels",
+      "path": [
+        "47"
+      ],
+      "label": "47"
+    }
+  ]
+}

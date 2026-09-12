@@ -1,0 +1,92 @@
+{
+  "id": "upper-lobe-of-left-lung-68f0cc3ab7",
+  "name": "Upper lobe of left lung",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Respiratory"
+  ],
+  "organs": [
+    "Larynx"
+  ],
+  "tags": [
+    "Function",
+    "LungLobe",
+    "LungLobes",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-1689255c89",
+      "variants": [
+        {
+          "id": "v-1689255c89",
+          "answer": "Upper lobe of left lung",
+          "sources": [
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-116",
+              "sourceLine": 116
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-28d3935ee0",
+      "variants": [
+        {
+          "id": "v-28d3935ee0",
+          "answer": "Superior to oblique fissure; includes the lingula.",
+          "sources": [
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-117",
+              "sourceLine": 117
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-6b2ab0ece1",
+      "variants": [
+        {
+          "id": "v-6b2ab0ece1",
+          "answer": "Contains upper-lobe bronchopulmonary segments and participates in gas exchange.",
+          "sources": [
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-118",
+              "sourceLine": 118
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+      "section": "Lung lobes",
+      "path": [
+        "14"
+      ],
+      "label": "14"
+    }
+  ]
+}

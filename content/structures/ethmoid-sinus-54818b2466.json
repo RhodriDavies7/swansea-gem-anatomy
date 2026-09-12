@@ -1,0 +1,126 @@
+{
+  "id": "ethmoid-sinus-54818b2466",
+  "name": "Ethmoid sinus",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [],
+  "organs": [],
+  "tags": [
+    "Clinical",
+    "Coronal",
+    "Drainage",
+    "ParanasalSinus",
+    "Relations",
+    "Structure"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-7ca9485883",
+      "variants": [
+        {
+          "id": "v-7ca9485883",
+          "answer": "Ethmoid sinus",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-67",
+              "sourceLine": 67
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-e390fb5bb5",
+      "variants": [
+        {
+          "id": "v-e390fb5bb5",
+          "answer": "Multiple ethmoidal air cells within the ethmoid bone.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-68",
+              "sourceLine": 68
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-74a64b1943",
+      "question": "Drainage",
+      "preferredVariantId": "v-6a29e37117",
+      "variants": [
+        {
+          "id": "v-6a29e37117",
+          "answer": "Anterior and middle cells drain to the middle meatus; posterior cells drain to the superior meatus.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-69",
+              "sourceLine": 69
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-ee45db9353",
+      "variants": [
+        {
+          "id": "v-ee45db9353",
+          "answer": "Between nasal cavity and orbit; separated from orbit by the thin lamina papyracea.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-70",
+              "sourceLine": 70
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-b03737e3cd",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-1d7a62b694",
+      "variants": [
+        {
+          "id": "v-1d7a62b694",
+          "answer": "Ethmoid sinus infection can spread to the orbit because of the thin medial orbital wall.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-71",
+              "sourceLine": 71
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "coronal-and-mid-sagittal-head-mb20",
+      "section": "Coronal head",
+      "path": [
+        "14"
+      ],
+      "label": "14"
+    }
+  ]
+}

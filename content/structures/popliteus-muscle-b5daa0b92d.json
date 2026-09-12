@@ -1,0 +1,127 @@
+{
+  "id": "popliteus-muscle-b5daa0b92d",
+  "name": "Popliteus muscle",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-611f514075",
+      "variants": [
+        {
+          "id": "v-611f514075",
+          "answer": "Popliteus muscle",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-221",
+              "sourceLine": 221
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-f666ef673a",
+      "variants": [
+        {
+          "id": "v-f666ef673a",
+          "answer": "Unlocks the extended knee by laterally rotating the femur on a fixed tibia, or medially rotating a free tibia; weakly flexes the knee.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-222",
+              "sourceLine": 222
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-2daaab5ee6",
+      "variants": [
+        {
+          "id": "v-2daaab5ee6",
+          "answer": "Tibial nerve (L4–S1).",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-223",
+              "sourceLine": 223
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-24102dc6ca",
+      "variants": [
+        {
+          "id": "v-24102dc6ca",
+          "answer": "Lateral femoral condyle; tendon also connects to lateral meniscus.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-224",
+              "sourceLine": 224
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-7ee87a3d99",
+      "variants": [
+        {
+          "id": "v-7ee87a3d99",
+          "answer": "Posterior tibia above soleal line.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-225",
+              "sourceLine": 225
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "lower-limb-model-ns10",
+      "section": "Muscles",
+      "path": [
+        "26"
+      ],
+      "label": "26"
+    }
+  ]
+}

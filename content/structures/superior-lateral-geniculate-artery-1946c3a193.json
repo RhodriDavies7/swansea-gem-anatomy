@@ -1,0 +1,108 @@
+{
+  "id": "superior-lateral-geniculate-artery-1946c3a193",
+  "name": "Superior lateral geniculate artery",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Arteries"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Cardiovascular"
+  ],
+  "organs": [],
+  "tags": [
+    "Artery",
+    "Course",
+    "Origin",
+    "Supply"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-b0a6ea944f",
+      "variants": [
+        {
+          "id": "v-b0a6ea944f",
+          "answer": "Superior lateral geniculate artery",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-394",
+              "sourceLine": 394
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-9969b306c1",
+      "variants": [
+        {
+          "id": "v-9969b306c1",
+          "answer": "Popliteal artery above knee joint.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-395",
+              "sourceLine": 395
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-62cc9e3060",
+      "variants": [
+        {
+          "id": "v-62cc9e3060",
+          "answer": "Winds around lateral femoral condyle deep to biceps femoris tendon.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-396",
+              "sourceLine": 396
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-222db0fc1c",
+      "question": "Supply",
+      "preferredVariantId": "v-cf85e6261e",
+      "variants": [
+        {
+          "id": "v-cf85e6261e",
+          "answer": "Superolateral knee and genicular anastomosis; also adjacent vastus lateralis.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-397",
+              "sourceLine": 397
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "lower-limb-model-ns10",
+      "section": "Blood vessels",
+      "path": [
+        "52"
+      ],
+      "label": "52"
+    }
+  ]
+}

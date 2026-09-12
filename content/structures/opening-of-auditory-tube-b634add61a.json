@@ -1,0 +1,88 @@
+{
+  "id": "opening-of-auditory-tube-b634add61a",
+  "name": "Opening of auditory tube",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [],
+  "organs": [],
+  "tags": [
+    "Function",
+    "Location",
+    "MidlineStructures",
+    "Opening"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-dd5366897a",
+      "variants": [
+        {
+          "id": "v-dd5366897a",
+          "answer": "Opening of auditory tube",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-252",
+              "sourceLine": 252
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-6d2988207f",
+      "variants": [
+        {
+          "id": "v-6d2988207f",
+          "answer": "Lateral wall of nasopharynx.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-253",
+              "sourceLine": 253
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-a3ea4c72c0",
+      "variants": [
+        {
+          "id": "v-a3ea4c72c0",
+          "answer": "Connects nasopharynx to middle ear and equalises pressure across tympanic membrane.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-254",
+              "sourceLine": 254
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "half-head-and-neck-model-bs9",
+      "section": "Other midline structures",
+      "path": [
+        "d"
+      ],
+      "label": "d"
+    }
+  ]
+}

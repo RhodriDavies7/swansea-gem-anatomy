@@ -1,0 +1,150 @@
+{
+  "id": "renal-artery-ab81c35e36",
+  "name": "Renal artery",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Arteries"
+  ],
+  "regions": [
+    "Abdomen"
+  ],
+  "systems": [
+    "Cardiovascular",
+    "Urinary"
+  ],
+  "organs": [
+    "Kidney"
+  ],
+  "tags": [
+    "Artery",
+    "Branches",
+    "Clinical",
+    "Course",
+    "Origin",
+    "RenalVessels",
+    "Supply"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-c87aa1d42a",
+      "variants": [
+        {
+          "id": "v-c87aa1d42a",
+          "answer": "Renal artery",
+          "sources": [
+            {
+              "modelId": "kidney-model-ls5",
+              "cardId": "kidney-model-ls5-25",
+              "sourceLine": 25
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-18e0078981",
+      "variants": [
+        {
+          "id": "v-18e0078981",
+          "answer": "Direct lateral branch of the abdominal aorta, usually around L1–L2.",
+          "sources": [
+            {
+              "modelId": "kidney-model-ls5",
+              "cardId": "kidney-model-ls5-26",
+              "sourceLine": 26
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-1cbf5a156f",
+      "variants": [
+        {
+          "id": "v-1cbf5a156f",
+          "answer": "Runs toward the renal hilum; the right renal artery passes posterior to the inferior vena cava.",
+          "sources": [
+            {
+              "modelId": "kidney-model-ls5",
+              "cardId": "kidney-model-ls5-27",
+              "sourceLine": 27
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f578227926",
+      "question": "Branches",
+      "preferredVariantId": "v-abe4665412",
+      "variants": [
+        {
+          "id": "v-abe4665412",
+          "answer": "Divides into segmental arteries, then interlobar, arcuate and interlobular arteries.",
+          "sources": [
+            {
+              "modelId": "kidney-model-ls5",
+              "cardId": "kidney-model-ls5-28",
+              "sourceLine": 28
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-222db0fc1c",
+      "question": "Supply",
+      "preferredVariantId": "v-c244e919f1",
+      "variants": [
+        {
+          "id": "v-c244e919f1",
+          "answer": "Supplies renal parenchyma and gives rise ultimately to afferent arterioles of glomeruli.",
+          "sources": [
+            {
+              "modelId": "kidney-model-ls5",
+              "cardId": "kidney-model-ls5-29",
+              "sourceLine": 29
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-b03737e3cd",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-ef4c94b726",
+      "variants": [
+        {
+          "id": "v-ef4c94b726",
+          "answer": "Segmental arteries are effectively end arteries, so occlusion may cause segmental renal infarction.",
+          "sources": [
+            {
+              "modelId": "kidney-model-ls5",
+              "cardId": "kidney-model-ls5-30",
+              "sourceLine": 30
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "kidney-model-ls5",
+      "section": "Renal vessels",
+      "path": [
+        "2"
+      ],
+      "label": "2"
+    }
+  ]
+}

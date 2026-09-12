@@ -1,0 +1,128 @@
+{
+  "id": "deep-plantar-arch-0ac31947a7",
+  "name": "Deep plantar arch",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Arteries"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Cardiovascular"
+  ],
+  "organs": [],
+  "tags": [
+    "ArteriesAndNerves",
+    "Artery",
+    "Branches",
+    "Formation",
+    "Location",
+    "Supply"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-fc8c87ca9f",
+      "variants": [
+        {
+          "id": "v-fc8c87ca9f",
+          "answer": "Deep plantar arch",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-377",
+              "sourceLine": 377
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-bc0bd86b8f",
+      "question": "Formation",
+      "preferredVariantId": "v-ed234f15d5",
+      "variants": [
+        {
+          "id": "v-ed234f15d5",
+          "answer": "Formed mainly by lateral plantar artery and completed medially by deep plantar branch of dorsalis pedis.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-378",
+              "sourceLine": 378
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-8231d984e0",
+      "variants": [
+        {
+          "id": "v-8231d984e0",
+          "answer": "Deep in sole across bases of metatarsals.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-379",
+              "sourceLine": 379
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f578227926",
+      "question": "Branches",
+      "preferredVariantId": "v-46c2ad6d8a",
+      "variants": [
+        {
+          "id": "v-46c2ad6d8a",
+          "answer": "Gives plantar metatarsal arteries and perforating branches.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-380",
+              "sourceLine": 380
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-222db0fc1c",
+      "question": "Supply",
+      "preferredVariantId": "v-eedbb1b869",
+      "variants": [
+        {
+          "id": "v-eedbb1b869",
+          "answer": "Deep plantar forefoot and toes through branches.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-381",
+              "sourceLine": 381
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "foot-model-ns9",
+      "section": "Arteries and nerves",
+      "path": [
+        "56"
+      ],
+      "label": "56"
+    }
+  ]
+}

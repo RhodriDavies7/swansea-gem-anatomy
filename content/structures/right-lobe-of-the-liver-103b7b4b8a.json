@@ -1,0 +1,111 @@
+{
+  "id": "right-lobe-of-the-liver-103b7b4b8a",
+  "name": "Right lobe of the liver",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Abdomen"
+  ],
+  "systems": [
+    "Digestive"
+  ],
+  "organs": [
+    "Liver"
+  ],
+  "tags": [
+    "Function",
+    "LiverLobe",
+    "LobesAndLandmarks",
+    "Location",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-6eb15af9d9",
+      "variants": [
+        {
+          "id": "v-6eb15af9d9",
+          "answer": "Right lobe of the liver",
+          "sources": [
+            {
+              "modelId": "liver-js5",
+              "cardId": "liver-js5-3",
+              "sourceLine": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-30d1c26258",
+      "variants": [
+        {
+          "id": "v-30d1c26258",
+          "answer": "Largest anatomical lobe, lying mainly to the right of the falciform ligament on the diaphragmatic surface.",
+          "sources": [
+            {
+              "modelId": "liver-js5",
+              "cardId": "liver-js5-4",
+              "sourceLine": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-fdd8a0d877",
+      "variants": [
+        {
+          "id": "v-fdd8a0d877",
+          "answer": "Related superiorly to diaphragm and inferiorly to right kidney, hepatic flexure and duodenum.",
+          "sources": [
+            {
+              "modelId": "liver-js5",
+              "cardId": "liver-js5-5",
+              "sourceLine": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-0e2f6218b3",
+      "variants": [
+        {
+          "id": "v-0e2f6218b3",
+          "answer": "Contains functional hepatic parenchyma performing metabolic, synthetic, detoxification and biliary functions.",
+          "sources": [
+            {
+              "modelId": "liver-js5",
+              "cardId": "liver-js5-6",
+              "sourceLine": 6
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "liver-js5",
+      "section": "Lobes and surface landmarks",
+      "path": [
+        "1"
+      ],
+      "label": "1"
+    }
+  ]
+}

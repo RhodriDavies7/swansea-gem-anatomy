@@ -1,0 +1,195 @@
+{
+  "id": "mandibular-branch-of-trigeminal-nerve-cn-v3-0b6d2d4fe7",
+  "name": "Mandibular branch of trigeminal nerve (CN V3)",
+  "aliases": [
+    "Mandibular nerve"
+  ],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Nerves"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [],
+  "tags": [
+    "Course",
+    "Lesion",
+    "Motor",
+    "Nerve",
+    "Sensory"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-e2642ff57f",
+      "variants": [
+        {
+          "id": "v-e2642ff57f",
+          "answer": "Mandibular branch of trigeminal nerve (CN V3)",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-200",
+              "sourceLine": 200
+            }
+          ]
+        },
+        {
+          "id": "v-0293466074",
+          "answer": "Mandibular nerve",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-177",
+              "sourceLine": 177
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-f0927aa9c8",
+      "variants": [
+        {
+          "id": "v-e3a8dc8d7c",
+          "answer": "Exits cranial cavity through foramen ovale.",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-201",
+              "sourceLine": 201
+            }
+          ]
+        },
+        {
+          "id": "v-f0927aa9c8",
+          "answer": "Exits cranial cavity through foramen ovale and enters the infratemporal fossa.",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-178",
+              "sourceLine": 178
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-c8b6915183",
+      "question": "Motor functions",
+      "preferredVariantId": "v-b73a4982e1",
+      "variants": [
+        {
+          "id": "v-b73a4982e1",
+          "answer": "Supplies muscles of mastication, mylohyoid, anterior belly of digastric, tensor tympani and tensor veli palatini.",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-202",
+              "sourceLine": 202
+            },
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-179",
+              "sourceLine": 179
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-a453254382",
+      "question": "Sensory functions",
+      "preferredVariantId": "v-9b59b45442",
+      "variants": [
+        {
+          "id": "v-9b59b45442",
+          "answer": "Sensation from lower face, mandibular teeth, anterior two-thirds of tongue for general sensation and parts of external ear and dura.",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-203",
+              "sourceLine": 203
+            }
+          ]
+        },
+        {
+          "id": "v-025d3484ba",
+          "answer": "Supplies lower face, mandibular teeth, anterior two-thirds of tongue for general sensation and parts of external ear and dura.",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-180",
+              "sourceLine": 180
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-bc53d10c57",
+      "question": "Lesion",
+      "preferredVariantId": "v-6de784415e",
+      "variants": [
+        {
+          "id": "v-6de784415e",
+          "answer": "Causes sensory loss over the lower face, mandibular teeth and general sensation from the anterior two-thirds of the tongue; motor involvement weakens mastication and the jaw deviates toward the affected side on opening.",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-204",
+              "sourceLine": 204
+            },
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-181",
+              "sourceLine": 181
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "cranial-floor-model-bs1",
+      "section": "",
+      "path": [
+        "32"
+      ],
+      "label": "32"
+    },
+    {
+      "modelId": "deep-face-model-bs8-1",
+      "section": "",
+      "path": [
+        "28"
+      ],
+      "label": "28"
+    }
+  ],
+  "redirectIds": [
+    "mandibular-nerve-ba6dab149e"
+  ]
+}

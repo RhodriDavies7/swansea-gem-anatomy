@@ -1,0 +1,89 @@
+{
+  "id": "external-opening-of-urethra-65834eaf0b",
+  "name": "External opening of urethra",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Pelvis"
+  ],
+  "systems": [
+    "Reproductive"
+  ],
+  "organs": [],
+  "tags": [
+    "Function",
+    "Location",
+    "Opening"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-582785f960",
+      "variants": [
+        {
+          "id": "v-582785f960",
+          "answer": "External opening of urethra",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-206",
+              "sourceLine": 206
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-14eec5237f",
+      "variants": [
+        {
+          "id": "v-14eec5237f",
+          "answer": "Opens into the vestibule anterior to the vaginal opening.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-207",
+              "sourceLine": 207
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-caf55a6433",
+      "variants": [
+        {
+          "id": "v-caf55a6433",
+          "answer": "External outlet for urine.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-208",
+              "sourceLine": 208
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "female-pelvis-model-mo8",
+      "section": "",
+      "path": [
+        "28"
+      ],
+      "label": "28"
+    }
+  ]
+}

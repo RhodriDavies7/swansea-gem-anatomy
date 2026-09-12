@@ -1,0 +1,111 @@
+{
+  "id": "portal-fissure-porta-hepatis-7b58eee9bf",
+  "name": "Portal fissure (porta hepatis)",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Abdomen"
+  ],
+  "systems": [
+    "Digestive"
+  ],
+  "organs": [
+    "Liver"
+  ],
+  "tags": [
+    "Contents",
+    "Hilum",
+    "LobesAndLandmarks",
+    "Location",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-e8cfef28d5",
+      "variants": [
+        {
+          "id": "v-e8cfef28d5",
+          "answer": "Portal fissure (porta hepatis)",
+          "sources": [
+            {
+              "modelId": "liver-js5",
+              "cardId": "liver-js5-39",
+              "sourceLine": 39
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-db04fc2d85",
+      "variants": [
+        {
+          "id": "v-db04fc2d85",
+          "answer": "Transverse fissure on visceral surface between caudate and quadrate lobes.",
+          "sources": [
+            {
+              "modelId": "liver-js5",
+              "cardId": "liver-js5-40",
+              "sourceLine": 40
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f5cbdf6bfb",
+      "question": "Contents",
+      "preferredVariantId": "v-b3d14370de",
+      "variants": [
+        {
+          "id": "v-b3d14370de",
+          "answer": "Transmits portal vein, hepatic artery, hepatic ducts, lymphatics and autonomic nerves.",
+          "sources": [
+            {
+              "modelId": "liver-js5",
+              "cardId": "liver-js5-41",
+              "sourceLine": 41
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-cbb16bf2e5",
+      "variants": [
+        {
+          "id": "v-cbb16bf2e5",
+          "answer": "Central hilar gateway for structures entering and leaving the liver.",
+          "sources": [
+            {
+              "modelId": "liver-js5",
+              "cardId": "liver-js5-42",
+              "sourceLine": 42
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "liver-js5",
+      "section": "Lobes and surface landmarks",
+      "path": [
+        "7"
+      ],
+      "label": "7"
+    }
+  ]
+}

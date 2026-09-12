@@ -1,0 +1,131 @@
+{
+  "id": "gastric-artery-b25dee55e6",
+  "name": "Gastric artery",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Arteries"
+  ],
+  "regions": [
+    "Abdomen"
+  ],
+  "systems": [
+    "Cardiovascular",
+    "Digestive"
+  ],
+  "organs": [
+    "Pancreas"
+  ],
+  "tags": [
+    "Arteries",
+    "Artery",
+    "Course",
+    "ModelNote",
+    "Origin",
+    "Supply"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-457be5a046",
+      "variants": [
+        {
+          "id": "v-457be5a046",
+          "answer": "Gastric artery",
+          "sources": [
+            {
+              "modelId": "pancreas-model-js11",
+              "cardId": "pancreas-model-js11-95",
+              "sourceLine": 95
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-bf50c9f308",
+      "variants": [
+        {
+          "id": "v-bf50c9f308",
+          "answer": "The left gastric artery is a branch of the coeliac trunk.",
+          "sources": [
+            {
+              "modelId": "pancreas-model-js11",
+              "cardId": "pancreas-model-js11-96",
+              "sourceLine": 96
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-cb8fba4548",
+      "variants": [
+        {
+          "id": "v-cb8fba4548",
+          "answer": "Runs toward the lesser curvature of the stomach.",
+          "sources": [
+            {
+              "modelId": "pancreas-model-js11",
+              "cardId": "pancreas-model-js11-97",
+              "sourceLine": 97
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-222db0fc1c",
+      "question": "Supply",
+      "preferredVariantId": "v-73e60aa9db",
+      "variants": [
+        {
+          "id": "v-73e60aa9db",
+          "answer": "Supplies the stomach and lower oesophagus.",
+          "sources": [
+            {
+              "modelId": "pancreas-model-js11",
+              "cardId": "pancreas-model-js11-98",
+              "sourceLine": 98
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c0d9dc54c1",
+      "question": "Model note",
+      "preferredVariantId": "v-42ddf7f717",
+      "variants": [
+        {
+          "id": "v-42ddf7f717",
+          "answer": "The supplied model key states 'Gastric artery'; this card uses the left gastric artery as the usual named coeliac branch.",
+          "sources": [
+            {
+              "modelId": "pancreas-model-js11",
+              "cardId": "pancreas-model-js11-99",
+              "sourceLine": 99
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "pancreas-model-js11",
+      "section": "Arteries",
+      "path": [
+        "11"
+      ],
+      "label": "11"
+    }
+  ]
+}

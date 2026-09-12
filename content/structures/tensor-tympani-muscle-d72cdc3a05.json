@@ -1,0 +1,226 @@
+{
+  "id": "tensor-tympani-muscle-d72cdc3a05",
+  "name": "Tensor tympani muscle",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [
+    "Ear"
+  ],
+  "tags": [
+    "Action",
+    "Innervation",
+    "Insertion",
+    "MiddleEar",
+    "Muscle",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-e6cb1438a2",
+      "variants": [
+        {
+          "id": "v-e6cb1438a2",
+          "answer": "Tensor tympani muscle",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-190",
+              "sourceLine": 190
+            },
+            {
+              "modelId": "ear-model-ds3",
+              "cardId": "ear-model-ds3-92",
+              "sourceLine": 92
+            },
+            {
+              "modelId": "inner-ear-model-ds17",
+              "cardId": "inner-ear-model-ds17-60",
+              "sourceLine": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-598193d187",
+      "variants": [
+        {
+          "id": "v-598193d187",
+          "answer": "Tenses the tympanic membrane by pulling the malleus medially, reducing excessive ossicular movement.",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-191",
+              "sourceLine": 191
+            },
+            {
+              "modelId": "ear-model-ds3",
+              "cardId": "ear-model-ds3-93",
+              "sourceLine": 93
+            }
+          ]
+        },
+        {
+          "id": "v-704273f3f6",
+          "answer": "Tenses the tympanic membrane by pulling the malleus medially, dampening excessive vibration.",
+          "sources": [
+            {
+              "modelId": "inner-ear-model-ds17",
+              "cardId": "inner-ear-model-ds17-61",
+              "sourceLine": 61
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-28d56bfd08",
+      "variants": [
+        {
+          "id": "v-28d56bfd08",
+          "answer": "Mandibular division of trigeminal nerve (V3), via nerve to medial pterygoid/tensor tympani branch.",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-192",
+              "sourceLine": 192
+            },
+            {
+              "modelId": "ear-model-ds3",
+              "cardId": "ear-model-ds3-94",
+              "sourceLine": 94
+            }
+          ]
+        },
+        {
+          "id": "v-312e12f152",
+          "answer": "Nerve to tensor tympani from mandibular division of trigeminal nerve (V3).",
+          "sources": [
+            {
+              "modelId": "inner-ear-model-ds17",
+              "cardId": "inner-ear-model-ds17-62",
+              "sourceLine": 62
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-4e85692762",
+      "variants": [
+        {
+          "id": "v-4e85692762",
+          "answer": "Cartilaginous pharyngotympanic tube and adjacent sphenoid/petrous temporal bone.",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-193",
+              "sourceLine": 193
+            },
+            {
+              "modelId": "ear-model-ds3",
+              "cardId": "ear-model-ds3-95",
+              "sourceLine": 95
+            }
+          ]
+        },
+        {
+          "id": "v-51fbf5f0fd",
+          "answer": "Cartilaginous auditory tube and adjacent sphenoid/temporal bone.",
+          "sources": [
+            {
+              "modelId": "inner-ear-model-ds17",
+              "cardId": "inner-ear-model-ds17-63",
+              "sourceLine": 63
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-67ec9866f3",
+      "variants": [
+        {
+          "id": "v-67ec9866f3",
+          "answer": "Handle of malleus.",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-194",
+              "sourceLine": 194
+            },
+            {
+              "modelId": "ear-model-ds3",
+              "cardId": "ear-model-ds3-96",
+              "sourceLine": 96
+            },
+            {
+              "modelId": "inner-ear-model-ds17",
+              "cardId": "inner-ear-model-ds17-64",
+              "sourceLine": 64
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "ear-largest-model-ds1",
+      "section": "C. Middle ear",
+      "path": [
+        "30"
+      ],
+      "label": "30"
+    },
+    {
+      "modelId": "ear-model-ds3",
+      "section": "B. Middle ear",
+      "path": [
+        "12"
+      ],
+      "label": "12"
+    },
+    {
+      "modelId": "inner-ear-model-ds17",
+      "section": "Tympanic membrane and ossicles",
+      "path": [
+        "7"
+      ],
+      "label": "7"
+    }
+  ]
+}

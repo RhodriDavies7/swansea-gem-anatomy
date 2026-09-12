@@ -1,0 +1,128 @@
+{
+  "id": "scalenus-posterior-muscle-fc194a3ca3",
+  "name": "Scalenus posterior muscle",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "HeadNeckMuscles",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-66bed211de",
+      "variants": [
+        {
+          "id": "v-66bed211de",
+          "answer": "Scalenus posterior muscle",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-610",
+              "sourceLine": 610
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-8ab2fca1be",
+      "variants": [
+        {
+          "id": "v-8ab2fca1be",
+          "answer": "Elevates 2nd rib and laterally flexes neck.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-611",
+              "sourceLine": 611
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-d93d5ed90c",
+      "variants": [
+        {
+          "id": "v-d93d5ed90c",
+          "answer": "Anterior rami of lower cervical nerves, mainly C6–C8.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-612",
+              "sourceLine": 612
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-18db6ae4dc",
+      "variants": [
+        {
+          "id": "v-18db6ae4dc",
+          "answer": "Posterior tubercles of transverse processes C4–C6.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-613",
+              "sourceLine": 613
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-9ee1407949",
+      "variants": [
+        {
+          "id": "v-9ee1407949",
+          "answer": "Outer surface of 2nd rib.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-614",
+              "sourceLine": 614
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "half-head-and-neck-model-bs9",
+      "section": "Musculature of the head and neck",
+      "path": [
+        "55"
+      ],
+      "label": "55"
+    }
+  ]
+}

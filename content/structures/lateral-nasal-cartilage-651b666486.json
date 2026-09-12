@@ -1,0 +1,108 @@
+{
+  "id": "lateral-nasal-cartilage-651b666486",
+  "name": "Lateral nasal cartilage",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Cartilage"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Cartilage",
+    "Function",
+    "Relations",
+    "Structure"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-d2094088f5",
+      "variants": [
+        {
+          "id": "v-d2094088f5",
+          "answer": "Lateral nasal cartilage",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-50",
+              "sourceLine": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-a277a6c8fe",
+      "variants": [
+        {
+          "id": "v-a277a6c8fe",
+          "answer": "Paired hyaline cartilage forming part of the upper lateral wall of the external nose.",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-51",
+              "sourceLine": 51
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-ff6b079add",
+      "variants": [
+        {
+          "id": "v-ff6b079add",
+          "answer": "Lies inferior to nasal bone and superior to the major alar cartilage.",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-52",
+              "sourceLine": 52
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-37ac31e92c",
+      "variants": [
+        {
+          "id": "v-37ac31e92c",
+          "answer": "Supports the lateral nasal wall and helps maintain patency of the nasal airway.",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-53",
+              "sourceLine": 53
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "deep-face-model-bs8-1",
+      "section": "",
+      "path": [
+        "9"
+      ],
+      "label": "9"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "id": "superior-mesenteric-vein-352f92ffef",
+  "name": "Superior mesenteric vein",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Veins"
+  ],
+  "regions": [
+    "Abdomen"
+  ],
+  "systems": [
+    "Cardiovascular",
+    "Digestive"
+  ],
+  "organs": [
+    "Pancreas"
+  ],
+  "tags": [
+    "Course",
+    "Drainage",
+    "Formation",
+    "Termination",
+    "Vein",
+    "Veins"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-4c03682a96",
+      "variants": [
+        {
+          "id": "v-4c03682a96",
+          "answer": "Superior mesenteric vein",
+          "sources": [
+            {
+              "modelId": "pancreas-model-js11",
+              "cardId": "pancreas-model-js11-67",
+              "sourceLine": 67
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-bc0bd86b8f",
+      "question": "Formation",
+      "preferredVariantId": "v-ec7d6da93d",
+      "variants": [
+        {
+          "id": "v-ec7d6da93d",
+          "answer": "Formed by tributaries draining the small intestine and much of the large intestine.",
+          "sources": [
+            {
+              "modelId": "pancreas-model-js11",
+              "cardId": "pancreas-model-js11-68",
+              "sourceLine": 68
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-9ea0d6e527",
+      "variants": [
+        {
+          "id": "v-9ea0d6e527",
+          "answer": "Ascends in the root of the mesentery and passes anterior to the third part of the duodenum.",
+          "sources": [
+            {
+              "modelId": "pancreas-model-js11",
+              "cardId": "pancreas-model-js11-69",
+              "sourceLine": 69
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-2ee8521886",
+      "question": "Termination",
+      "preferredVariantId": "v-ad496f6c74",
+      "variants": [
+        {
+          "id": "v-ad496f6c74",
+          "answer": "Joins the splenic vein behind the neck of the pancreas to form the portal vein.",
+          "sources": [
+            {
+              "modelId": "pancreas-model-js11",
+              "cardId": "pancreas-model-js11-70",
+              "sourceLine": 70
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-74a64b1943",
+      "question": "Drainage",
+      "preferredVariantId": "v-b415452bb5",
+      "variants": [
+        {
+          "id": "v-b415452bb5",
+          "answer": "Drains the midgut-derived gastrointestinal tract.",
+          "sources": [
+            {
+              "modelId": "pancreas-model-js11",
+              "cardId": "pancreas-model-js11-71",
+              "sourceLine": 71
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "pancreas-model-js11",
+      "section": "Veins",
+      "path": [
+        "7"
+      ],
+      "label": "7"
+    }
+  ]
+}

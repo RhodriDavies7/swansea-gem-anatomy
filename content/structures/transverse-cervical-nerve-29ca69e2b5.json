@@ -1,0 +1,147 @@
+{
+  "id": "transverse-cervical-nerve-29ca69e2b5",
+  "name": "Transverse cervical nerve",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Nerves"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [],
+  "tags": [
+    "BloodVesselsAndNerves",
+    "Course",
+    "Lesion",
+    "Motor",
+    "Nerve",
+    "Roots",
+    "Sensory"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-4a6f74c177",
+      "variants": [
+        {
+          "id": "v-4a6f74c177",
+          "answer": "Transverse cervical nerve",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-765",
+              "sourceLine": 765
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-4d78ec7d11",
+      "question": "Roots",
+      "preferredVariantId": "v-fd6fd7ec2f",
+      "variants": [
+        {
+          "id": "v-fd6fd7ec2f",
+          "answer": "C2–C3 from cervical plexus.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-766",
+              "sourceLine": 766
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-7d41600b2e",
+      "variants": [
+        {
+          "id": "v-7d41600b2e",
+          "answer": "Emerges at posterior border of SCM and crosses horizontally over its surface.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-767",
+              "sourceLine": 767
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c8b6915183",
+      "question": "Motor functions",
+      "preferredVariantId": "v-7737d0d824",
+      "variants": [
+        {
+          "id": "v-7737d0d824",
+          "answer": "No motor function.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-768",
+              "sourceLine": 768
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-a453254382",
+      "question": "Sensory functions",
+      "preferredVariantId": "v-051a4d603d",
+      "variants": [
+        {
+          "id": "v-051a4d603d",
+          "answer": "Supplies skin of anterior and lateral neck.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-769",
+              "sourceLine": 769
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-bc53d10c57",
+      "question": "Lesion",
+      "preferredVariantId": "v-3ca20d312b",
+      "variants": [
+        {
+          "id": "v-3ca20d312b",
+          "answer": "Lesion causes numbness or paraesthesia over anterior/lateral neck.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-770",
+              "sourceLine": 770
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "half-head-and-neck-model-bs9",
+      "section": "Blood vessels and nerves",
+      "path": [
+        "75"
+      ],
+      "label": "75"
+    }
+  ]
+}

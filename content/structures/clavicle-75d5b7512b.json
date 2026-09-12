@@ -1,0 +1,190 @@
+{
+  "id": "clavicle-75d5b7512b",
+  "name": "Clavicle",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Bones"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Articulations",
+    "Attachments",
+    "Bone",
+    "Landmarks",
+    "Orientation"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-6acc342569",
+      "variants": [
+        {
+          "id": "v-6acc342569",
+          "answer": "Clavicle",
+          "sources": [
+            {
+              "modelId": "deep-shoulder-model-ns17",
+              "cardId": "deep-shoulder-model-ns17-30",
+              "sourceLine": 30
+            },
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-546",
+              "sourceLine": 546
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-a40bee8d10",
+      "question": "Articulations",
+      "preferredVariantId": "v-7537b8c648",
+      "variants": [
+        {
+          "id": "v-9f23cf1f87",
+          "answer": "Articulates medially with the manubrium and laterally with the acromion.",
+          "sources": [
+            {
+              "modelId": "deep-shoulder-model-ns17",
+              "cardId": "deep-shoulder-model-ns17-31",
+              "sourceLine": 31
+            }
+          ]
+        },
+        {
+          "id": "v-7537b8c648",
+          "answer": "Manubrium medially at sternoclavicular joint and acromion laterally at acromioclavicular joint.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-547",
+              "sourceLine": 547
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-626b6c1d45",
+      "question": "Landmarks",
+      "preferredVariantId": "v-c12ee2b177",
+      "variants": [
+        {
+          "id": "v-c12ee2b177",
+          "answer": "Sternal end, acromial end, conoid tubercle, trapezoid line, subclavian groove and impression for costoclavicular ligament.",
+          "sources": [
+            {
+              "modelId": "deep-shoulder-model-ns17",
+              "cardId": "deep-shoulder-model-ns17-32",
+              "sourceLine": 32
+            },
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-548",
+              "sourceLine": 548
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-2389607e0b",
+      "question": "Muscle attachments",
+      "preferredVariantId": "v-e7c2a2c660",
+      "variants": [
+        {
+          "id": "v-e7c2a2c660",
+          "answer": "Pectoralis major, deltoid, trapezius, sternocleidomastoid and subclavius attach to the clavicle.",
+          "sources": [
+            {
+              "modelId": "deep-shoulder-model-ns17",
+              "cardId": "deep-shoulder-model-ns17-33",
+              "sourceLine": 33
+            }
+          ]
+        },
+        {
+          "id": "v-6568870186",
+          "answer": "Pectoralis major, deltoid, trapezius, sternocleidomastoid and subclavius.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-549",
+              "sourceLine": 549
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-86e4e38754",
+      "question": "Orientation",
+      "preferredVariantId": "v-0d933dc0e2",
+      "variants": [
+        {
+          "id": "v-bd75295b2f",
+          "answer": "Sternal end is bulky; acromial end is flattened; conoid tubercle lies inferoposteriorly near the lateral end.",
+          "sources": [
+            {
+              "modelId": "deep-shoulder-model-ns17",
+              "cardId": "deep-shoulder-model-ns17-34",
+              "sourceLine": 34
+            }
+          ]
+        },
+        {
+          "id": "v-0d933dc0e2",
+          "answer": "Bulky sternal end medial; flattened acromial end lateral; medial two-thirds convex anteriorly and lateral third concave anteriorly; conoid tubercle inferior/posterior.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-550",
+              "sourceLine": 550
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "deep-shoulder-model-ns17",
+      "section": "",
+      "path": [
+        "5"
+      ],
+      "label": "5"
+    },
+    {
+      "modelId": "upper-limb-model-ns15",
+      "section": "Bones",
+      "path": [
+        "85"
+      ],
+      "label": "85"
+    }
+  ]
+}

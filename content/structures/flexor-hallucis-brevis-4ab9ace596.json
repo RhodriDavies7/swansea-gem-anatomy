@@ -1,0 +1,128 @@
+{
+  "id": "flexor-hallucis-brevis-4ab9ace596",
+  "name": "Flexor hallucis brevis",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Muscles",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-01216062b1",
+      "variants": [
+        {
+          "id": "v-01216062b1",
+          "answer": "Flexor hallucis brevis",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-172",
+              "sourceLine": 172
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-3c7b92050a",
+      "variants": [
+        {
+          "id": "v-3c7b92050a",
+          "answer": "Flexes hallux at the metatarsophalangeal joint and supports medial arch.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-173",
+              "sourceLine": 173
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-2727aff239",
+      "variants": [
+        {
+          "id": "v-2727aff239",
+          "answer": "Medial plantar nerve, with possible lateral plantar contribution to lateral head (S2–S3).",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-174",
+              "sourceLine": 174
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-50e07648f6",
+      "variants": [
+        {
+          "id": "v-50e07648f6",
+          "answer": "Plantar cuboid and lateral cuneiform with tendon of tibialis posterior.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-175",
+              "sourceLine": 175
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-3bc7bf298c",
+      "variants": [
+        {
+          "id": "v-3bc7bf298c",
+          "answer": "Both sides of base of proximal phalanx of hallux via sesamoids.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-176",
+              "sourceLine": 176
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "foot-model-ns9",
+      "section": "Muscles",
+      "path": [
+        "26"
+      ],
+      "label": "26"
+    }
+  ]
+}

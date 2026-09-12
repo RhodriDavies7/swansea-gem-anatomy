@@ -1,0 +1,109 @@
+{
+  "id": "anterior-inferior-tibiofibular-ligament-f564318006",
+  "name": "Anterior inferior tibiofibular ligament",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Ligaments"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Attachments",
+    "Clinical",
+    "Function",
+    "Ligament",
+    "Ligaments"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-11888f77a9",
+      "variants": [
+        {
+          "id": "v-11888f77a9",
+          "answer": "Anterior inferior tibiofibular ligament",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-267",
+              "sourceLine": 267
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6771ade6e8",
+      "question": "Attachments",
+      "preferredVariantId": "v-c2ae19bb75",
+      "variants": [
+        {
+          "id": "v-c2ae19bb75",
+          "answer": "Connects distal anterior tibia to distal fibula.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-268",
+              "sourceLine": 268
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-91b6b10110",
+      "variants": [
+        {
+          "id": "v-91b6b10110",
+          "answer": "Stabilises the distal tibiofibular syndesmosis and ankle mortise.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-269",
+              "sourceLine": 269
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-b03737e3cd",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-be112caeeb",
+      "variants": [
+        {
+          "id": "v-be112caeeb",
+          "answer": "Commonly injured in a high ankle sprain.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-270",
+              "sourceLine": 270
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "foot-model-ns9",
+      "section": "Ligaments of the ankle joint",
+      "path": [
+        "39"
+      ],
+      "label": "39"
+    }
+  ]
+}

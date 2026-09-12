@@ -1,0 +1,147 @@
+{
+  "id": "posterior-auricular-nerve-1446729c95",
+  "name": "Posterior auricular nerve",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Nerves"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [],
+  "tags": [
+    "BloodVesselsAndNerves",
+    "Course",
+    "Lesion",
+    "Motor",
+    "Nerve",
+    "Roots",
+    "Sensory"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-a30ce04ffa",
+      "variants": [
+        {
+          "id": "v-a30ce04ffa",
+          "answer": "Posterior auricular nerve",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-733",
+              "sourceLine": 733
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-4d78ec7d11",
+      "question": "Roots",
+      "preferredVariantId": "v-784477b5f7",
+      "variants": [
+        {
+          "id": "v-784477b5f7",
+          "answer": "Branch of facial nerve shortly after stylomastoid foramen.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-734",
+              "sourceLine": 734
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-417eb02a6e",
+      "variants": [
+        {
+          "id": "v-417eb02a6e",
+          "answer": "Ascends behind auricle.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-735",
+              "sourceLine": 735
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c8b6915183",
+      "question": "Motor functions",
+      "preferredVariantId": "v-3b5e10ed72",
+      "variants": [
+        {
+          "id": "v-3b5e10ed72",
+          "answer": "Supplies posterior auricular muscles and occipital belly of occipitofrontalis.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-736",
+              "sourceLine": 736
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-a453254382",
+      "question": "Sensory functions",
+      "preferredVariantId": "v-437b851209",
+      "variants": [
+        {
+          "id": "v-437b851209",
+          "answer": "No significant cutaneous sensory distribution.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-737",
+              "sourceLine": 737
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-bc53d10c57",
+      "question": "Lesion",
+      "preferredVariantId": "v-909af1203e",
+      "variants": [
+        {
+          "id": "v-909af1203e",
+          "answer": "Lesion causes weakness of posterior auricular muscles and occipital belly, usually subtle clinically.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-738",
+              "sourceLine": 738
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "half-head-and-neck-model-bs9",
+      "section": "Blood vessels and nerves",
+      "path": [
+        "71"
+      ],
+      "label": "71"
+    }
+  ]
+}

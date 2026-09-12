@@ -1,0 +1,207 @@
+{
+  "id": "middle-scalene-muscle-8f8e31b54e",
+  "name": "Middle scalene muscle",
+  "aliases": [
+    "Scalenus medius muscle"
+  ],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "HeadNeck",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Origin",
+    "HeadNeckMuscles"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-f458d259d1",
+      "variants": [
+        {
+          "id": "v-f458d259d1",
+          "answer": "Middle scalene muscle",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-370",
+              "sourceLine": 370
+            }
+          ]
+        },
+        {
+          "id": "v-0b49811014",
+          "answer": "Scalenus medius muscle",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-617",
+              "sourceLine": 617
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-a44d05ec8e",
+      "variants": [
+        {
+          "id": "v-a44d05ec8e",
+          "answer": "Elevates 1st rib and laterally flexes neck.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-371",
+              "sourceLine": 371
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-618",
+              "sourceLine": 618
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-421762835c",
+      "variants": [
+        {
+          "id": "v-421762835c",
+          "answer": "Anterior rami C3–C8.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-372",
+              "sourceLine": 372
+            }
+          ]
+        },
+        {
+          "id": "v-712b70d112",
+          "answer": "Anterior rami of cervical nerves, mainly C3–C8.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-619",
+              "sourceLine": 619
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-4d8170a05d",
+      "variants": [
+        {
+          "id": "v-a2609b69ea",
+          "answer": "Transverse processes C2–C7.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-373",
+              "sourceLine": 373
+            }
+          ]
+        },
+        {
+          "id": "v-4d8170a05d",
+          "answer": "Posterior tubercles of transverse processes C2–C7.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-620",
+              "sourceLine": 620
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-52cb5c5129",
+      "variants": [
+        {
+          "id": "v-189bf99793",
+          "answer": "1st rib posterior to subclavian groove.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-374",
+              "sourceLine": 374
+            }
+          ]
+        },
+        {
+          "id": "v-52cb5c5129",
+          "answer": "Superior surface of 1st rib posterior to subclavian groove.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-621",
+              "sourceLine": 621
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "head-and-neck-model-cs17-2",
+      "section": "Musculature of the head and neck",
+      "path": [
+        "59"
+      ],
+      "label": "59"
+    },
+    {
+      "modelId": "half-head-and-neck-model-bs9",
+      "section": "Musculature of the head and neck",
+      "path": [
+        "56"
+      ],
+      "label": "56"
+    }
+  ],
+  "redirectIds": [
+    "scalenus-medius-muscle-2ac443fcf7"
+  ]
+}

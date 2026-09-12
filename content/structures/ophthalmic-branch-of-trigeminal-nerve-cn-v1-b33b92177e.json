@@ -1,0 +1,205 @@
+{
+  "id": "ophthalmic-branch-of-trigeminal-nerve-cn-v1-b33b92177e",
+  "name": "Ophthalmic branch of trigeminal nerve (CN V1)",
+  "aliases": [
+    "Ophthalmic nerve"
+  ],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Nerves"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [],
+  "tags": [
+    "Course",
+    "Lesion",
+    "Motor",
+    "Nerve",
+    "Sensory"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-9aa15f536d",
+      "variants": [
+        {
+          "id": "v-9aa15f536d",
+          "answer": "Ophthalmic branch of trigeminal nerve (CN V1)",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-186",
+              "sourceLine": 186
+            }
+          ]
+        },
+        {
+          "id": "v-d7d3045634",
+          "answer": "Ophthalmic nerve",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-163",
+              "sourceLine": 163
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-7cdca4afba",
+      "variants": [
+        {
+          "id": "v-7cdca4afba",
+          "answer": "Passes in the lateral wall of the cavernous sinus and exits the skull through the superior orbital fissure.",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-187",
+              "sourceLine": 187
+            }
+          ]
+        },
+        {
+          "id": "v-80795690e2",
+          "answer": "Passes in the lateral wall of the cavernous sinus and exits through the superior orbital fissure.",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-164",
+              "sourceLine": 164
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-a453254382",
+      "question": "Sensory functions",
+      "preferredVariantId": "v-0a45c5bab2",
+      "variants": [
+        {
+          "id": "v-0a45c5bab2",
+          "answer": "Sensation from cornea, upper eyelid, forehead, scalp, dorsum of nose and parts of nasal cavity and cranial dura.",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-188",
+              "sourceLine": 188
+            }
+          ]
+        },
+        {
+          "id": "v-3375ab0251",
+          "answer": "Supplies cornea, upper eyelid, forehead, scalp, dorsum of nose and parts of nasal cavity and cranial dura.",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-165",
+              "sourceLine": 165
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-c8b6915183",
+      "question": "Motor functions",
+      "preferredVariantId": "v-93b80f1f16",
+      "variants": [
+        {
+          "id": "v-93b80f1f16",
+          "answer": "None; purely sensory.",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-189",
+              "sourceLine": 189
+            },
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-166",
+              "sourceLine": 166
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-bc53d10c57",
+      "question": "Lesion",
+      "preferredVariantId": "v-59ac4607b3",
+      "variants": [
+        {
+          "id": "v-59ac4607b3",
+          "answer": "Sensory loss in V1 territory and reduced/absent afferent limb of corneal reflex.",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-190",
+              "sourceLine": 190
+            }
+          ]
+        },
+        {
+          "id": "v-5f0f9df54b",
+          "answer": "Causes sensory loss over the forehead, cornea and dorsum of the nose, with loss or reduction of the afferent limb of the corneal reflex.",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-167",
+              "sourceLine": 167
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "cranial-floor-model-bs1",
+      "section": "",
+      "path": [
+        "30"
+      ],
+      "label": "30"
+    },
+    {
+      "modelId": "deep-face-model-bs8-1",
+      "section": "",
+      "path": [
+        "26"
+      ],
+      "label": "26"
+    }
+  ],
+  "redirectIds": [
+    "ophthalmic-nerve-435326be9c"
+  ]
+}

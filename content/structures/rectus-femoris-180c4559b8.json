@@ -1,0 +1,128 @@
+{
+  "id": "rectus-femoris-180c4559b8",
+  "name": "Rectus femoris",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-aa74220ff3",
+      "variants": [
+        {
+          "id": "v-aa74220ff3",
+          "answer": "Rectus femoris",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-75",
+              "sourceLine": 75
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-542ba676ea",
+      "variants": [
+        {
+          "id": "v-542ba676ea",
+          "answer": "Extends the knee and flexes the hip.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-76",
+              "sourceLine": 76
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-14dac355e2",
+      "variants": [
+        {
+          "id": "v-14dac355e2",
+          "answer": "Femoral nerve (L2–L4).",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-77",
+              "sourceLine": 77
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-6ab6f12dbe",
+      "variants": [
+        {
+          "id": "v-6ab6f12dbe",
+          "answer": "AIIS (straight head) and ilium superior to acetabulum (reflected head).",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-78",
+              "sourceLine": 78
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-374f6feb15",
+      "variants": [
+        {
+          "id": "v-374f6feb15",
+          "answer": "Base of patella via quadriceps tendon; tibial tuberosity via patellar ligament.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-79",
+              "sourceLine": 79
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "lower-limb-model-ns10",
+      "section": "Muscles",
+      "path": [
+        "11",
+        "11a"
+      ],
+      "label": "11a"
+    }
+  ]
+}

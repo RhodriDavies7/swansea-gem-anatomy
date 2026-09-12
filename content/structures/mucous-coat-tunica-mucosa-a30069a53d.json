@@ -1,0 +1,109 @@
+{
+  "id": "mucous-coat-tunica-mucosa-a30069a53d",
+  "name": "Mucous coat (tunica mucosa)",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Pelvis"
+  ],
+  "systems": [
+    "Reproductive"
+  ],
+  "organs": [],
+  "tags": [
+    "Epithelium",
+    "Function",
+    "Histology",
+    "Organ"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-20e56e9582",
+      "variants": [
+        {
+          "id": "v-20e56e9582",
+          "answer": "Mucous coat (tunica mucosa)",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-43",
+              "sourceLine": 43
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f5143a2323",
+      "question": "Organ",
+      "preferredVariantId": "v-c6039d9860",
+      "variants": [
+        {
+          "id": "v-c6039d9860",
+          "answer": "Urinary bladder.",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-44",
+              "sourceLine": 44
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-427c39f98f",
+      "question": "Epithelium",
+      "preferredVariantId": "v-203acb7945",
+      "variants": [
+        {
+          "id": "v-203acb7945",
+          "answer": "Transitional epithelium (urothelium).",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-45",
+              "sourceLine": 45
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-6982080ab5",
+      "variants": [
+        {
+          "id": "v-6982080ab5",
+          "answer": "Allows distension while maintaining a urine-impermeable barrier.",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-46",
+              "sourceLine": 46
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "male-reproductive-system-model-ms2",
+      "section": "",
+      "path": [
+        "4",
+        "4d"
+      ],
+      "label": "4d"
+    }
+  ]
+}

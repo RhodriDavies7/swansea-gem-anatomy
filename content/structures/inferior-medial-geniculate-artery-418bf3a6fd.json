@@ -1,0 +1,108 @@
+{
+  "id": "inferior-medial-geniculate-artery-418bf3a6fd",
+  "name": "Inferior medial geniculate artery",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Arteries"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Cardiovascular"
+  ],
+  "organs": [],
+  "tags": [
+    "Artery",
+    "Course",
+    "Origin",
+    "Supply"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-91cb6be5e7",
+      "variants": [
+        {
+          "id": "v-91cb6be5e7",
+          "answer": "Inferior medial geniculate artery",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-409",
+              "sourceLine": 409
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-6d458d0485",
+      "variants": [
+        {
+          "id": "v-6d458d0485",
+          "answer": "Popliteal artery near knee joint level.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-410",
+              "sourceLine": 410
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-598828453a",
+      "variants": [
+        {
+          "id": "v-598828453a",
+          "answer": "Passes below medial tibial condyle, deep to tibial collateral ligament.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-411",
+              "sourceLine": 411
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-222db0fc1c",
+      "question": "Supply",
+      "preferredVariantId": "v-806b18b732",
+      "variants": [
+        {
+          "id": "v-806b18b732",
+          "answer": "Inferomedial knee and genicular anastomosis.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-412",
+              "sourceLine": 412
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "lower-limb-model-ns10",
+      "section": "Blood vessels",
+      "path": [
+        "55"
+      ],
+      "label": "55"
+    }
+  ]
+}

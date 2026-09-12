@@ -1,0 +1,247 @@
+{
+  "id": "radius-f2ad870ac9",
+  "name": "Radius",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Bones"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Articulations",
+    "Attachments",
+    "Bone",
+    "BonesAndRetinacula",
+    "Landmarks",
+    "Orientation"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-e5aaeaac2e",
+      "variants": [
+        {
+          "id": "v-e5aaeaac2e",
+          "answer": "Radius",
+          "sources": [
+            {
+              "modelId": "elbow-joint-model-ns18",
+              "cardId": "elbow-joint-model-ns18-16",
+              "sourceLine": 16
+            },
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-17",
+              "sourceLine": 17
+            },
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-582",
+              "sourceLine": 582
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-a40bee8d10",
+      "question": "Articulations",
+      "preferredVariantId": "v-eff568a398",
+      "variants": [
+        {
+          "id": "v-eff568a398",
+          "answer": "Articulates proximally with capitulum of humerus and radial notch of ulna; distally with scaphoid/lunate and ulna.",
+          "sources": [
+            {
+              "modelId": "elbow-joint-model-ns18",
+              "cardId": "elbow-joint-model-ns18-17",
+              "sourceLine": 17
+            }
+          ]
+        },
+        {
+          "id": "v-43bd90f706",
+          "answer": "Articulates distally with scaphoid and lunate and with ulna at the distal radioulnar joint.",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-18",
+              "sourceLine": 18
+            }
+          ]
+        },
+        {
+          "id": "v-40061f8730",
+          "answer": "Capitulum of humerus and ulna proximally; ulna and scaphoid/lunate distally.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-583",
+              "sourceLine": 583
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-626b6c1d45",
+      "question": "Landmarks",
+      "preferredVariantId": "v-3ebbb8ab32",
+      "variants": [
+        {
+          "id": "v-b52b313374",
+          "answer": "Head, neck, radial tuberosity and interosseous border.",
+          "sources": [
+            {
+              "modelId": "elbow-joint-model-ns18",
+              "cardId": "elbow-joint-model-ns18-18",
+              "sourceLine": 18
+            }
+          ]
+        },
+        {
+          "id": "v-4f2090f53b",
+          "answer": "Radial styloid, dorsal tubercle and ulnar notch are key distal landmarks.",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-19",
+              "sourceLine": 19
+            }
+          ]
+        },
+        {
+          "id": "v-3ebbb8ab32",
+          "answer": "Head, neck, radial tuberosity, shaft, ulnar notch, dorsal tubercle and styloid process.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-584",
+              "sourceLine": 584
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-2389607e0b",
+      "question": "Muscle attachments",
+      "preferredVariantId": "v-e068aabdee",
+      "variants": [
+        {
+          "id": "v-fd2c39b7e5",
+          "answer": "Biceps brachii inserts on radial tuberosity; supinator wraps around proximal radius; pronator teres inserts on lateral radius.",
+          "sources": [
+            {
+              "modelId": "elbow-joint-model-ns18",
+              "cardId": "elbow-joint-model-ns18-19",
+              "sourceLine": 19
+            }
+          ]
+        },
+        {
+          "id": "v-e068aabdee",
+          "answer": "Biceps inserts on radial tuberosity; pronator teres and pronator quadratus insert on radius; supinator inserts proximally; multiple thumb muscles arise from shaft.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-585",
+              "sourceLine": 585
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-86e4e38754",
+      "question": "Orientation",
+      "preferredVariantId": "v-3615ed1cb7",
+      "variants": [
+        {
+          "id": "v-7ba55cef17",
+          "answer": "Radial head is proximal and disc-shaped; radial tuberosity lies medially.",
+          "sources": [
+            {
+              "modelId": "elbow-joint-model-ns18",
+              "cardId": "elbow-joint-model-ns18-20",
+              "sourceLine": 20
+            }
+          ]
+        },
+        {
+          "id": "v-6434ee9cbe",
+          "answer": "Radial styloid lies laterally; dorsal tubercle lies posteriorly.",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-20",
+              "sourceLine": 20
+            }
+          ]
+        },
+        {
+          "id": "v-3615ed1cb7",
+          "answer": "Disc-shaped head proximal; tuberosity faces medially; styloid distal/lateral; dorsal tubercle posterior.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-586",
+              "sourceLine": 586
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "elbow-joint-model-ns18",
+      "section": "",
+      "path": [
+        "c"
+      ],
+      "label": "c"
+    },
+    {
+      "modelId": "hand-model-ns13",
+      "section": "Bones and retinacula",
+      "path": [
+        "III"
+      ],
+      "label": "III"
+    },
+    {
+      "modelId": "upper-limb-model-ns15",
+      "section": "Bones",
+      "path": [
+        "91"
+      ],
+      "label": "91"
+    }
+  ]
+}

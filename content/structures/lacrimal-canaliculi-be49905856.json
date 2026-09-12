@@ -1,0 +1,88 @@
+{
+  "id": "lacrimal-canaliculi-be49905856",
+  "name": "Lacrimal canaliculi",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [],
+  "organs": [],
+  "tags": [
+    "Eye",
+    "Function",
+    "LacrimalApparatus",
+    "Structure"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-5c3c8537f2",
+      "variants": [
+        {
+          "id": "v-5c3c8537f2",
+          "answer": "Lacrimal canaliculi",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-593",
+              "sourceLine": 593
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-cbaccfdbe4",
+      "variants": [
+        {
+          "id": "v-cbaccfdbe4",
+          "answer": "Drain tears from lacrimal puncta to lacrimal sac.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-594",
+              "sourceLine": 594
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-9e4d25fa3f",
+      "variants": [
+        {
+          "id": "v-9e4d25fa3f",
+          "answer": "Superior and inferior canaliculi commonly join before entering the sac.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-595",
+              "sourceLine": 595
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "head-and-neck-model-cs17-2",
+      "section": "Eye",
+      "path": [
+        "6"
+      ],
+      "label": "6"
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "id": "aryepiglottic-fold-0a919711e2",
+  "name": "Aryepiglottic fold",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Respiratory"
+  ],
+  "organs": [
+    "Larynx"
+  ],
+  "tags": [
+    "Function",
+    "InternalLarynx",
+    "Larynx",
+    "MucosalFold",
+    "Structure"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-72c8538830",
+      "variants": [
+        {
+          "id": "v-72c8538830",
+          "answer": "Aryepiglottic fold",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-282",
+              "sourceLine": 282
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-282",
+              "sourceLine": 282
+            },
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-190",
+              "sourceLine": 190
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-bb489c26e6",
+      "variants": [
+        {
+          "id": "v-bb489c26e6",
+          "answer": "Mucosal fold extending from arytenoid cartilage to lateral epiglottis and containing aryepiglottic muscle and small cartilages.",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-283",
+              "sourceLine": 283
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-283",
+              "sourceLine": 283
+            }
+          ]
+        },
+        {
+          "id": "v-d5c2336ea2",
+          "answer": "Mucosal fold from arytenoid cartilage to lateral epiglottis.",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-191",
+              "sourceLine": 191
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-bc583ea922",
+      "variants": [
+        {
+          "id": "v-bc583ea922",
+          "answer": "Forms the lateral margin of the laryngeal inlet and helps close it during swallowing.",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-284",
+              "sourceLine": 284
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-284",
+              "sourceLine": 284
+            }
+          ]
+        },
+        {
+          "id": "v-832fa10726",
+          "answer": "Forms the lateral boundary of the laryngeal inlet and helps close it during swallowing.",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-192",
+              "sourceLine": 192
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "larynx-model-gs7",
+      "section": "Internal laryngeal structures and mucosa",
+      "path": [
+        "39"
+      ],
+      "label": "39"
+    },
+    {
+      "modelId": "larynx-and-airway-model-gs5",
+      "section": "Internal laryngeal structures and mucosa",
+      "path": [
+        "39"
+      ],
+      "label": "39"
+    },
+    {
+      "modelId": "larynx-and-tongue-model-gs4",
+      "section": "Larynx",
+      "path": [
+        "31"
+      ],
+      "label": "31"
+    }
+  ]
+}

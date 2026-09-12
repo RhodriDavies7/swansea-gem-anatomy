@@ -1,0 +1,213 @@
+{
+  "id": "flexor-pollicis-brevis-muscle-279d98db70",
+  "name": "Flexor pollicis brevis muscle",
+  "aliases": [
+    "Flexor pollicis brevis"
+  ],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "MusclesAndTendons",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-0a88405c3c",
+      "variants": [
+        {
+          "id": "v-0a88405c3c",
+          "answer": "Flexor pollicis brevis muscle",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-166",
+              "sourceLine": 166
+            }
+          ]
+        },
+        {
+          "id": "v-789d3fa060",
+          "answer": "Flexor pollicis brevis",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-168",
+              "sourceLine": 168
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-dacfffcae5",
+      "variants": [
+        {
+          "id": "v-dacfffcae5",
+          "answer": "Flexes thumb at the metacarpophalangeal joint and assists opposition.",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-167",
+              "sourceLine": 167
+            }
+          ]
+        },
+        {
+          "id": "v-d1d4a2a81b",
+          "answer": "Flexes the thumb at the MCP joint and assists opposition.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-169",
+              "sourceLine": 169
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-b02afe4d2c",
+      "variants": [
+        {
+          "id": "v-b02afe4d2c",
+          "answer": "Superficial head mainly recurrent branch of median nerve; deep head often deep branch of ulnar nerve (C8–T1).",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-168",
+              "sourceLine": 168
+            }
+          ]
+        },
+        {
+          "id": "v-d4f3776858",
+          "answer": "Superficial head: recurrent branch of median nerve (C8–T1). Deep head is often supplied by deep branch of ulnar nerve.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-170",
+              "sourceLine": 170
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-5ebc841433",
+      "variants": [
+        {
+          "id": "v-8c807b5ca5",
+          "answer": "Flexor retinaculum and trapezium, with deeper fibres from carpal region.",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-169",
+              "sourceLine": 169
+            }
+          ]
+        },
+        {
+          "id": "v-5ebc841433",
+          "answer": "Flexor retinaculum and trapezium; deep head may arise from trapezoid/capitate region.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-171",
+              "sourceLine": 171
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-b87a21be59",
+      "variants": [
+        {
+          "id": "v-8128e6c3fe",
+          "answer": "Lateral base of proximal phalanx of thumb via sesamoid.",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-170",
+              "sourceLine": 170
+            }
+          ]
+        },
+        {
+          "id": "v-b87a21be59",
+          "answer": "Lateral base of proximal phalanx of thumb via lateral sesamoid.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-172",
+              "sourceLine": 172
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "hand-model-ns13",
+      "section": "Muscles, tendons and pulleys",
+      "path": [
+        "v"
+      ],
+      "label": "v"
+    },
+    {
+      "modelId": "upper-limb-model-ns15",
+      "section": "Muscles",
+      "path": [
+        "28"
+      ],
+      "label": "28"
+    }
+  ]
+}

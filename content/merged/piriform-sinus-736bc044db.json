@@ -1,0 +1,111 @@
+{
+  "id": "piriform-sinus-736bc044db",
+  "name": "Piriform sinus",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Respiratory"
+  ],
+  "organs": [
+    "Larynx"
+  ],
+  "tags": [
+    "Clinical",
+    "Larynx",
+    "Location",
+    "Relations",
+    "Space"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-d83891ea6d",
+      "variants": [
+        {
+          "id": "v-d83891ea6d",
+          "answer": "Piriform sinus",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-195",
+              "sourceLine": 195
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-7167d93d34",
+      "variants": [
+        {
+          "id": "v-7167d93d34",
+          "answer": "Recess of the laryngopharynx lateral to the laryngeal inlet.",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-196",
+              "sourceLine": 196
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-cc45aae57a",
+      "variants": [
+        {
+          "id": "v-cc45aae57a",
+          "answer": "Internal laryngeal nerve lies deep to its mucosa.",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-197",
+              "sourceLine": 197
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-b03737e3cd",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-f8eeec08ae",
+      "variants": [
+        {
+          "id": "v-f8eeec08ae",
+          "answer": "Foreign bodies may lodge here and injure the internal laryngeal nerve.",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-198",
+              "sourceLine": 198
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "larynx-and-tongue-model-gs4",
+      "section": "Larynx",
+      "path": [
+        "32"
+      ],
+      "label": "32"
+    }
+  ]
+}

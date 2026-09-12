@@ -1,0 +1,146 @@
+{
+  "id": "testis-844d5e5e8e",
+  "name": "Testis",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Organs"
+  ],
+  "regions": [
+    "Pelvis"
+  ],
+  "systems": [
+    "Reproductive"
+  ],
+  "organs": [],
+  "tags": [
+    "BloodSupply",
+    "Coverings",
+    "Function",
+    "Location",
+    "Lymphatics",
+    "Organ"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-c36d0e7da3",
+      "variants": [
+        {
+          "id": "v-c36d0e7da3",
+          "answer": "Testis",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-138",
+              "sourceLine": 138
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-ba4086409e",
+      "variants": [
+        {
+          "id": "v-ba4086409e",
+          "answer": "Produces spermatozoa and testosterone.",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-139",
+              "sourceLine": 139
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-e6e764fdb1",
+      "variants": [
+        {
+          "id": "v-e6e764fdb1",
+          "answer": "Within the scrotum, suspended by the spermatic cord.",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-140",
+              "sourceLine": 140
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-5ffbe9f767",
+      "question": "Coverings",
+      "preferredVariantId": "v-452b93ff9c",
+      "variants": [
+        {
+          "id": "v-452b93ff9c",
+          "answer": "Tunica vaginalis externally and tunica albuginea directly surrounding the testis.",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-141",
+              "sourceLine": 141
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-a707f7e176",
+      "question": "Blood supply",
+      "preferredVariantId": "v-645720499e",
+      "variants": [
+        {
+          "id": "v-645720499e",
+          "answer": "Testicular artery from the abdominal aorta; venous drainage via the pampiniform plexus into the testicular veins.",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-142",
+              "sourceLine": 142
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-81a19046b8",
+      "question": "Lymphatic drainage",
+      "preferredVariantId": "v-b807bd2a53",
+      "variants": [
+        {
+          "id": "v-b807bd2a53",
+          "answer": "Para-aortic (lumbar) lymph nodes, reflecting the embryological origin of the testes.",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-143",
+              "sourceLine": 143
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "male-reproductive-system-model-ms2",
+      "section": "",
+      "path": [
+        "15"
+      ],
+      "label": "15"
+    }
+  ]
+}

@@ -1,0 +1,201 @@
+{
+  "id": "cricothyroid-ligament-30a3f32d37",
+  "name": "Cricothyroid ligament",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Ligaments"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Musculoskeletal",
+    "Respiratory"
+  ],
+  "organs": [
+    "Larynx"
+  ],
+  "tags": [
+    "Attachments",
+    "Clinical",
+    "Function",
+    "LaryngealStructures",
+    "Larynx",
+    "Ligament",
+    "MidSagittal"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-9c116df1f3",
+      "variants": [
+        {
+          "id": "v-9c116df1f3",
+          "answer": "Cricothyroid ligament",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-459",
+              "sourceLine": 459
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-356",
+              "sourceLine": 356
+            },
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-69",
+              "sourceLine": 69
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6771ade6e8",
+      "question": "Attachments",
+      "preferredVariantId": "v-bef1a64173",
+      "variants": [
+        {
+          "id": "v-bef1a64173",
+          "answer": "Connects cricoid and thyroid cartilages; median part forms cricothyroid membrane/ligament.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-460",
+              "sourceLine": 460
+            }
+          ]
+        },
+        {
+          "id": "v-b663faebd8",
+          "answer": "Connects cricoid and thyroid cartilages.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-357",
+              "sourceLine": 357
+            }
+          ]
+        },
+        {
+          "id": "v-73f3504e33",
+          "answer": "Connects cricoid cartilage to thyroid cartilage.",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-70",
+              "sourceLine": 70
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-42e1f3bc33",
+      "variants": [
+        {
+          "id": "v-42e1f3bc33",
+          "answer": "Stabilises the laryngeal framework.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-461",
+              "sourceLine": 461
+            }
+          ]
+        },
+        {
+          "id": "v-394af15dad",
+          "answer": "Stabilises laryngeal framework.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-358",
+              "sourceLine": 358
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-b03737e3cd",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-c8064bdb00",
+      "variants": [
+        {
+          "id": "v-3db9353ee6",
+          "answer": "Site used for emergency cricothyrotomy.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-462",
+              "sourceLine": 462
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-359",
+              "sourceLine": 359
+            }
+          ]
+        },
+        {
+          "id": "v-c8064bdb00",
+          "answer": "Median part is used for emergency cricothyrotomy.",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-71",
+              "sourceLine": 71
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "coronal-and-mid-sagittal-head-mb20",
+      "section": "Laryngeal structures",
+      "path": [
+        "V"
+      ],
+      "label": "V"
+    },
+    {
+      "modelId": "half-head-and-neck-model-bs9",
+      "section": "Laryngeal structures",
+      "path": [
+        "V"
+      ],
+      "label": "V"
+    },
+    {
+      "modelId": "larynx-and-tongue-model-gs4",
+      "section": "Larynx",
+      "path": [
+        "11"
+      ],
+      "label": "11"
+    }
+  ]
+}

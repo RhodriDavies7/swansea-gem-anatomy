@@ -1,0 +1,202 @@
+{
+  "id": "temporalis-muscle-af08b9db57",
+  "name": "Temporalis muscle",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "Coronal",
+    "HeadNeck",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-4d924e7d20",
+      "variants": [
+        {
+          "id": "v-4d924e7d20",
+          "answer": "Temporalis muscle",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-84",
+              "sourceLine": 84
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-237",
+              "sourceLine": 237
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-94da6b9749",
+      "variants": [
+        {
+          "id": "v-94da6b9749",
+          "answer": "Elevates the mandible; posterior fibres retract the mandible.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-85",
+              "sourceLine": 85
+            }
+          ]
+        },
+        {
+          "id": "v-a149153c65",
+          "answer": "Elevates mandible; posterior fibres retract mandible.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-238",
+              "sourceLine": 238
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-47dab1de5a",
+      "variants": [
+        {
+          "id": "v-47dab1de5a",
+          "answer": "Deep temporal nerves from mandibular division of trigeminal nerve (V3).",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-86",
+              "sourceLine": 86
+            }
+          ]
+        },
+        {
+          "id": "v-4fb62c5e90",
+          "answer": "Deep temporal nerves from V3.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-239",
+              "sourceLine": 239
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-864b82d90e",
+      "variants": [
+        {
+          "id": "v-864b82d90e",
+          "answer": "Temporal fossa and deep surface of temporal fascia.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-87",
+              "sourceLine": 87
+            }
+          ]
+        },
+        {
+          "id": "v-3ba5344ca4",
+          "answer": "Temporal fossa and temporal fascia.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-240",
+              "sourceLine": 240
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-e48ab6a385",
+      "variants": [
+        {
+          "id": "v-e48ab6a385",
+          "answer": "Coronoid process and anterior border of ramus of mandible.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-88",
+              "sourceLine": 88
+            }
+          ]
+        },
+        {
+          "id": "v-08a28129fd",
+          "answer": "Coronoid process/anterior ramus of mandible.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-241",
+              "sourceLine": 241
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "coronal-and-mid-sagittal-head-mb20",
+      "section": "Coronal head",
+      "path": [
+        "17"
+      ],
+      "label": "17"
+    },
+    {
+      "modelId": "head-and-neck-model-cs17-2",
+      "section": "Musculature of the head and neck",
+      "path": [
+        "40"
+      ],
+      "label": "40"
+    }
+  ]
+}

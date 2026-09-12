@@ -1,0 +1,111 @@
+{
+  "id": "greater-curvature-4b100e2aba",
+  "name": "Greater curvature",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Abdomen"
+  ],
+  "systems": [
+    "Digestive"
+  ],
+  "organs": [
+    "Stomach"
+  ],
+  "tags": [
+    "Attachments",
+    "BloodSupply",
+    "Location",
+    "RegionsAndLandmarks",
+    "StomachLandmark"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-1ca9978c85",
+      "variants": [
+        {
+          "id": "v-1ca9978c85",
+          "answer": "Greater curvature",
+          "sources": [
+            {
+              "modelId": "stomach-model-ns15",
+              "cardId": "stomach-model-ns15-21",
+              "sourceLine": 21
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-967fa744f6",
+      "variants": [
+        {
+          "id": "v-967fa744f6",
+          "answer": "Long, convex lateral/inferior border of the stomach.",
+          "sources": [
+            {
+              "modelId": "stomach-model-ns15",
+              "cardId": "stomach-model-ns15-22",
+              "sourceLine": 22
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6771ade6e8",
+      "question": "Attachments",
+      "preferredVariantId": "v-1fa920769e",
+      "variants": [
+        {
+          "id": "v-1fa920769e",
+          "answer": "Gives attachment to greater omentum and gastrosplenic/gastrophrenic ligaments.",
+          "sources": [
+            {
+              "modelId": "stomach-model-ns15",
+              "cardId": "stomach-model-ns15-23",
+              "sourceLine": 23
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-af779333e2",
+      "question": "Vessels",
+      "preferredVariantId": "v-0182007f61",
+      "variants": [
+        {
+          "id": "v-0182007f61",
+          "answer": "Left and right gastro-omental arteries run along it.",
+          "sources": [
+            {
+              "modelId": "stomach-model-ns15",
+              "cardId": "stomach-model-ns15-24",
+              "sourceLine": 24
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "stomach-model-ns15",
+      "section": "Regions and external landmarks",
+      "path": [
+        "4"
+      ],
+      "label": "4"
+    }
+  ]
+}

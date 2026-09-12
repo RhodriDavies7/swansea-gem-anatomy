@@ -1,0 +1,129 @@
+{
+  "id": "left-renal-artery-feb339d255",
+  "name": "Left renal artery",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Arteries"
+  ],
+  "regions": [
+    "Abdomen"
+  ],
+  "systems": [
+    "Cardiovascular",
+    "Urinary"
+  ],
+  "organs": [],
+  "tags": [
+    "Artery",
+    "Branches",
+    "Course",
+    "MajorVesselsAndGlands",
+    "Origin",
+    "Supply"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-65945a3d57",
+      "variants": [
+        {
+          "id": "v-65945a3d57",
+          "answer": "Left renal artery",
+          "sources": [
+            {
+              "modelId": "urinary-system-model-ls3-1",
+              "cardId": "urinary-system-model-ls3-1-98",
+              "sourceLine": 98
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-e9e7e84b29",
+      "variants": [
+        {
+          "id": "v-e9e7e84b29",
+          "answer": "Branch of the abdominal aorta, usually around L1–L2.",
+          "sources": [
+            {
+              "modelId": "urinary-system-model-ls3-1",
+              "cardId": "urinary-system-model-ls3-1-99",
+              "sourceLine": 99
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-3cd9f59a93",
+      "variants": [
+        {
+          "id": "v-3cd9f59a93",
+          "answer": "Passes laterally toward the left renal hilum.",
+          "sources": [
+            {
+              "modelId": "urinary-system-model-ls3-1",
+              "cardId": "urinary-system-model-ls3-1-100",
+              "sourceLine": 100
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f578227926",
+      "question": "Branches",
+      "preferredVariantId": "v-16e9b54c81",
+      "variants": [
+        {
+          "id": "v-16e9b54c81",
+          "answer": "Divides into segmental arteries near the renal hilum.",
+          "sources": [
+            {
+              "modelId": "urinary-system-model-ls3-1",
+              "cardId": "urinary-system-model-ls3-1-101",
+              "sourceLine": 101
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-222db0fc1c",
+      "question": "Supply",
+      "preferredVariantId": "v-ad58534796",
+      "variants": [
+        {
+          "id": "v-ad58534796",
+          "answer": "Supplies the left kidney.",
+          "sources": [
+            {
+              "modelId": "urinary-system-model-ls3-1",
+              "cardId": "urinary-system-model-ls3-1-102",
+              "sourceLine": 102
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "urinary-system-model-ls3-1",
+      "section": "Suprarenal gland and major vessels",
+      "path": [
+        "12"
+      ],
+      "label": "12"
+    }
+  ]
+}

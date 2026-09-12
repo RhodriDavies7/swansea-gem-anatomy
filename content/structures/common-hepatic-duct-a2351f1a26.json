@@ -1,0 +1,130 @@
+{
+  "id": "common-hepatic-duct-a2351f1a26",
+  "name": "Common hepatic duct",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Abdomen"
+  ],
+  "systems": [
+    "Digestive"
+  ],
+  "organs": [
+    "Liver"
+  ],
+  "tags": [
+    "BiliaryTree",
+    "Course",
+    "Duct",
+    "Formation",
+    "Function",
+    "Termination"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-570cb1f573",
+      "variants": [
+        {
+          "id": "v-570cb1f573",
+          "answer": "Common hepatic duct",
+          "sources": [
+            {
+              "modelId": "liver-js5",
+              "cardId": "liver-js5-60",
+              "sourceLine": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-bc0bd86b8f",
+      "question": "Formation",
+      "preferredVariantId": "v-4a11a11c57",
+      "variants": [
+        {
+          "id": "v-4a11a11c57",
+          "answer": "Formed by union of right and left hepatic ducts.",
+          "sources": [
+            {
+              "modelId": "liver-js5",
+              "cardId": "liver-js5-61",
+              "sourceLine": 61
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-27ac66f6bc",
+      "variants": [
+        {
+          "id": "v-27ac66f6bc",
+          "answer": "Descends in the hepatoduodenal ligament and joins the cystic duct.",
+          "sources": [
+            {
+              "modelId": "liver-js5",
+              "cardId": "liver-js5-62",
+              "sourceLine": 62
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-2ee8521886",
+      "question": "Termination",
+      "preferredVariantId": "v-991249b180",
+      "variants": [
+        {
+          "id": "v-991249b180",
+          "answer": "Joins the cystic duct to form the common bile duct.",
+          "sources": [
+            {
+              "modelId": "liver-js5",
+              "cardId": "liver-js5-63",
+              "sourceLine": 63
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-a9509ae01f",
+      "variants": [
+        {
+          "id": "v-a9509ae01f",
+          "answer": "Conducts bile from the liver toward the extrahepatic biliary tract.",
+          "sources": [
+            {
+              "modelId": "liver-js5",
+              "cardId": "liver-js5-64",
+              "sourceLine": 64
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "liver-js5",
+      "section": "Gallbladder and biliary tree",
+      "path": [
+        "10"
+      ],
+      "label": "10"
+    }
+  ]
+}

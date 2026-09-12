@@ -1,0 +1,146 @@
+{
+  "id": "seminal-vesicles-ddb47c3811",
+  "name": "Seminal vesicles",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Organs"
+  ],
+  "regions": [
+    "Pelvis"
+  ],
+  "systems": [
+    "Reproductive"
+  ],
+  "organs": [],
+  "tags": [
+    "BloodSupply",
+    "Duct",
+    "Function",
+    "Innervation",
+    "Location",
+    "Organ"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-e2db1ed85c",
+      "variants": [
+        {
+          "id": "v-e2db1ed85c",
+          "answer": "Seminal vesicles",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-80",
+              "sourceLine": 80
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-cbe6358296",
+      "variants": [
+        {
+          "id": "v-cbe6358296",
+          "answer": "Secrete fructose-rich, alkaline seminal fluid that contributes a large proportion of semen volume.",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-81",
+              "sourceLine": 81
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-6ccb431073",
+      "variants": [
+        {
+          "id": "v-6ccb431073",
+          "answer": "Posterior to the bladder and anterior to the rectum, superior to the prostate.",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-82",
+              "sourceLine": 82
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-03f259b14d",
+      "question": "Duct",
+      "preferredVariantId": "v-b0633fd862",
+      "variants": [
+        {
+          "id": "v-b0633fd862",
+          "answer": "Each seminal vesicle joins the ampulla of the ductus deferens to form an ejaculatory duct.",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-83",
+              "sourceLine": 83
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-a707f7e176",
+      "question": "Blood supply",
+      "preferredVariantId": "v-efaeb6fd8d",
+      "variants": [
+        {
+          "id": "v-efaeb6fd8d",
+          "answer": "Branches of inferior vesical and middle rectal arteries.",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-84",
+              "sourceLine": 84
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-3c5e5d4f61",
+      "variants": [
+        {
+          "id": "v-3c5e5d4f61",
+          "answer": "Autonomic fibres from the inferior hypogastric plexus; sympathetic activity promotes emission.",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-85",
+              "sourceLine": 85
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "male-reproductive-system-model-ms2",
+      "section": "",
+      "path": [
+        "7"
+      ],
+      "label": "7"
+    }
+  ]
+}

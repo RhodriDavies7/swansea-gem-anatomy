@@ -1,0 +1,110 @@
+{
+  "id": "caudate-lobe-acc1d8a812",
+  "name": "Caudate lobe",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Abdomen"
+  ],
+  "systems": [
+    "Digestive"
+  ],
+  "organs": [
+    "Liver"
+  ],
+  "tags": [
+    "LiverLobe",
+    "LobesAndLandmarks",
+    "Location",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-d24ac2d2f1",
+      "variants": [
+        {
+          "id": "v-d24ac2d2f1",
+          "answer": "Caudate lobe",
+          "sources": [
+            {
+              "modelId": "liver-js5",
+              "cardId": "liver-js5-21",
+              "sourceLine": 21
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-1fc0669228",
+      "variants": [
+        {
+          "id": "v-1fc0669228",
+          "answer": "On posterior visceral surface between the inferior vena cava groove and fissure for ligamentum venosum.",
+          "sources": [
+            {
+              "modelId": "liver-js5",
+              "cardId": "liver-js5-22",
+              "sourceLine": 22
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-581f1d6ba7",
+      "variants": [
+        {
+          "id": "v-581f1d6ba7",
+          "answer": "Superior to the porta hepatis.",
+          "sources": [
+            {
+              "modelId": "liver-js5",
+              "cardId": "liver-js5-23",
+              "sourceLine": 23
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-5ac29d19cf",
+      "question": "Functional anatomy",
+      "preferredVariantId": "v-8d49fc3488",
+      "variants": [
+        {
+          "id": "v-8d49fc3488",
+          "answer": "Has relatively independent vascular inflow/outflow and may drain directly into the inferior vena cava.",
+          "sources": [
+            {
+              "modelId": "liver-js5",
+              "cardId": "liver-js5-24",
+              "sourceLine": 24
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "liver-js5",
+      "section": "Lobes and surface landmarks",
+      "path": [
+        "4"
+      ],
+      "label": "4"
+    }
+  ]
+}

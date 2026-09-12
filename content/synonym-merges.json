@@ -1,0 +1,524 @@
+[
+  {
+    "keep": "optic-nerve-cn-ii-16898537fd",
+    "merge": "optic-nerve-6cb09a23fc",
+    "names": [
+      "Optic nerve (CN II)",
+      "Optic nerve"
+    ],
+    "reason": "Same anatomical entity; source context checked. Original records archived and card answers retained."
+  },
+  {
+    "keep": "facial-nerve-cn-vii-69c5a43599",
+    "merge": "facial-nerve-8e01b4bcfa",
+    "names": [
+      "Facial nerve (CN VII)",
+      "Facial nerve"
+    ],
+    "reason": "Same anatomical entity; source context checked. Original records archived and card answers retained."
+  },
+  {
+    "keep": "hypoglossal-nerve-cn-xii-a00408a95d",
+    "merge": "hypoglossal-nerve-9f8310b358",
+    "names": [
+      "Hypoglossal nerve (CN XII)",
+      "Hypoglossal nerve"
+    ],
+    "reason": "Same anatomical entity; source context checked. Original records archived and card answers retained."
+  },
+  {
+    "keep": "trigeminal-nerve-cn-v-4edd7269fe",
+    "merge": "trigeminal-nerve-9aaa6f8d50",
+    "names": [
+      "Trigeminal nerve (CN V)",
+      "Trigeminal nerve"
+    ],
+    "reason": "Same anatomical entity; source context checked. Original records archived and card answers retained."
+  },
+  {
+    "keep": "vagus-nerve-cn-x-050cb0c8d5",
+    "merge": "vagus-nerve-3ddb1f4ea9",
+    "names": [
+      "Vagus nerve (CN X)",
+      "Vagus nerve"
+    ],
+    "reason": "Same anatomical entity; source context checked. Original records archived and card answers retained."
+  },
+  {
+    "keep": "ophthalmic-branch-of-trigeminal-nerve-cn-v1-b33b92177e",
+    "merge": "ophthalmic-nerve-435326be9c",
+    "names": [
+      "Ophthalmic branch of trigeminal nerve (CN V1)",
+      "Ophthalmic nerve"
+    ],
+    "reason": "Same anatomical entity; source context checked. Original records archived and card answers retained."
+  },
+  {
+    "keep": "maxillary-branch-of-trigeminal-nerve-cn-v2-43c7d1f013",
+    "merge": "maxillary-nerve-0426a9ad9e",
+    "names": [
+      "Maxillary branch of trigeminal nerve (CN V2)",
+      "Maxillary nerve"
+    ],
+    "reason": "Same anatomical entity; source context checked. Original records archived and card answers retained."
+  },
+  {
+    "keep": "mandibular-branch-of-trigeminal-nerve-cn-v3-0b6d2d4fe7",
+    "merge": "mandibular-nerve-ba6dab149e",
+    "names": [
+      "Mandibular branch of trigeminal nerve (CN V3)",
+      "Mandibular nerve"
+    ],
+    "reason": "Same anatomical entity; source context checked. Original records archived and card answers retained."
+  },
+  {
+    "keep": "calcaneal-achilles-tendon-888c079a0e",
+    "merge": "calcaneal-or-achilles-tendon-c1d297419d",
+    "names": [
+      "Calcaneal (Achilles) tendon",
+      "Calcaneal (or Achilles) tendon"
+    ],
+    "reason": "Same anatomical entity; source context checked. Original records archived and card answers retained."
+  },
+  {
+    "keep": "cerebral-aqueduct-aqueduct-of-sylvius-ec857b8f52",
+    "merge": "cerebral-aqueduct-277a77d5ca",
+    "names": [
+      "Cerebral aqueduct (aqueduct of Sylvius)",
+      "Cerebral aqueduct"
+    ],
+    "reason": "Same anatomical entity; source context checked. Original records archived and card answers retained."
+  },
+  {
+    "keep": "corniculate-cartilage-f0ebbbdb38",
+    "merge": "corniculate-cartilage-cartilage-of-santorini-3cebad40e7",
+    "names": [
+      "Corniculate cartilage",
+      "Corniculate cartilage (cartilage of Santorini)"
+    ],
+    "reason": "Same anatomical entity; source context checked. Original records archived and card answers retained."
+  },
+  {
+    "keep": "cuneiform-cartilage-14d8a59504",
+    "merge": "cuneiform-cartilage-cartilage-of-wrisberg-e9e2f360b7",
+    "names": [
+      "Cuneiform cartilage",
+      "Cuneiform cartilage (cartilage of Wrisberg)"
+    ],
+    "reason": "Same anatomical entity; source context checked. Original records archived and card answers retained."
+  },
+  {
+    "keep": "cricothyroid-joint-capsule-c9c5e54388",
+    "merge": "capsule-of-cricothyroid-joint-19b71a2fcf",
+    "names": [
+      "Cricothyroid joint capsule",
+      "Capsule of cricothyroid joint"
+    ],
+    "reason": "Same anatomical entity; source context checked. Original records archived and card answers retained."
+  },
+  {
+    "keep": "dorsal-branch-of-ulnar-nerve-9f7123a6fb",
+    "merge": "dorsal-branch-of-the-ulnar-nerve-fdce6ce580",
+    "names": [
+      "Dorsal branch of ulnar nerve",
+      "Dorsal branch of the ulnar nerve"
+    ],
+    "reason": "Same anatomical entity; source context checked. Original records archived and card answers retained."
+  },
+  {
+    "keep": "external-acoustic-meatus-external-auditory-canal-f908c5f8c1",
+    "merge": "external-acoustic-meatus-b33b5e1bc9",
+    "names": [
+      "External acoustic meatus (external auditory canal)",
+      "External acoustic meatus"
+    ],
+    "reason": "Same anatomical entity; source context checked. Original records archived and card answers retained."
+  },
+  {
+    "keep": "fibularis-or-peroneus-brevis-muscle-e97127f1c6",
+    "merge": "fibularis-peroneus-brevis-c5dda535cd",
+    "names": [
+      "Fibularis (or peroneus) brevis muscle",
+      "Fibularis (peroneus) brevis"
+    ],
+    "reason": "Same anatomical entity; source context checked. Original records archived and card answers retained."
+  },
+  {
+    "keep": "fibularis-or-peroneus-longus-muscle-2784e83ea7",
+    "merge": "fibularis-peroneus-longus-cef8ae275a",
+    "names": [
+      "Fibularis (or peroneus) longus muscle",
+      "Fibularis (peroneus) longus"
+    ],
+    "reason": "Same anatomical entity; source context checked. Original records archived and card answers retained."
+  },
+  {
+    "keep": "fifth-lumbar-vertebra-c5ac0beff9",
+    "merge": "5th-lumbar-vertebra-2de61cb512",
+    "names": [
+      "Fifth lumbar vertebra",
+      "5th lumbar vertebra"
+    ],
+    "reason": "Same anatomical entity; source context checked. Original records archived and card answers retained."
+  },
+  {
+    "keep": "fifth-metatarsal-103314283c",
+    "merge": "5th-metatarsal-03079b8a4a",
+    "names": [
+      "Fifth metatarsal",
+      "5th metatarsal"
+    ],
+    "reason": "Same anatomical entity; source context checked. Original records archived and card answers retained."
+  },
+  {
+    "keep": "first-metatarsal-daa13e67e4",
+    "merge": "1st-metatarsal-5ef8a5b00a",
+    "names": [
+      "First metatarsal",
+      "1st metatarsal"
+    ],
+    "reason": "Same anatomical entity; source context checked. Original records archived and card answers retained."
+  },
+  {
+    "keep": "greater-cornu-horn-of-hyoid-bone-9e3a21a3e7",
+    "merge": "greater-horn-cornu-of-hyoid-bone-1dd577d568",
+    "names": [
+      "Greater cornu (horn) of hyoid bone",
+      "Greater horn (cornu) of hyoid bone"
+    ],
+    "reason": "Same anatomical entity; source context checked. Original records archived and card answers retained."
+  },
+  {
+    "keep": "lesser-cornu-horn-of-hyoid-bone-a5f3046539",
+    "merge": "lesser-horn-cornu-of-hyoid-bone-e2d136b748",
+    "names": [
+      "Lesser cornu (horn) of hyoid bone",
+      "Lesser horn (cornu) of hyoid bone"
+    ],
+    "reason": "Same anatomical entity; source context checked. Original records archived and card answers retained."
+  },
+  {
+    "keep": "superior-cornu-horn-of-thyroid-cartilage-89efd8c779",
+    "merge": "superior-horn-cornu-of-thyroid-cartilage-6081198310",
+    "names": [
+      "Superior cornu (horn) of thyroid cartilage",
+      "Superior horn (cornu) of thyroid cartilage"
+    ],
+    "reason": "Same anatomical entity; source context checked. Original records archived and card answers retained."
+  },
+  {
+    "keep": "inferior-cornu-horn-of-thyroid-cartilage-31db55b7aa",
+    "merge": "inferior-horn-cornu-of-thyroid-cartilage-50482aaf44",
+    "names": [
+      "Inferior cornu (horn) of thyroid cartilage",
+      "Inferior horn (cornu) of thyroid cartilage"
+    ],
+    "reason": "Same anatomical entity; source context checked. Original records archived and card answers retained."
+  },
+  {
+    "keep": "hyoepiglottic-ligament-e0f6877afe",
+    "merge": "hyo-epiglottic-ligament-90782839e2",
+    "names": [
+      "Hyoepiglottic ligament",
+      "Hyo-epiglottic ligament"
+    ],
+    "reason": "Same anatomical entity; source context checked. Original records archived and card answers retained."
+  },
+  {
+    "keep": "hyoid-bone-87a205bd00",
+    "merge": "hyoid-c1a29a57f6",
+    "names": [
+      "Hyoid bone",
+      "Hyoid"
+    ],
+    "reason": "Same anatomical entity; source context checked. Original records archived and card answers retained."
+  },
+  {
+    "keep": "ilium-49060b72e9",
+    "merge": "ilium-bone-408bc27e08",
+    "names": [
+      "Ilium",
+      "Ilium bone"
+    ],
+    "reason": "Same anatomical entity; source context checked. Original records archived and card answers retained."
+  },
+  {
+    "keep": "ischium-8580fdc5bd",
+    "merge": "ischium-bone-df2ae1c947",
+    "names": [
+      "Ischium",
+      "Ischium bone"
+    ],
+    "reason": "Same anatomical entity; source context checked. Original records archived and card answers retained."
+  },
+  {
+    "keep": "pubis-55135df83f",
+    "merge": "pubis-bone-b54269f6be",
+    "names": [
+      "Pubis",
+      "Pubis bone"
+    ],
+    "reason": "Same anatomical entity; source context checked. Original records archived and card answers retained."
+  },
+  {
+    "keep": "pubis-55135df83f",
+    "merge": "pubic-bone-9ac5e85192",
+    "names": [
+      "Pubis",
+      "Pubic bone"
+    ],
+    "reason": "Same anatomical entity; source context checked. Original records archived and card answers retained."
+  },
+  {
+    "keep": "intrinsic-muscles-of-the-tongue-983e62ea4e",
+    "merge": "tongue-intrinsic-muscles-bb183453f2",
+    "names": [
+      "Intrinsic muscles of the tongue",
+      "Tongue intrinsic muscles"
+    ],
+    "reason": "Same anatomical entity; source context checked. Original records archived and card answers retained."
+  },
+  {
+    "keep": "laryngeal-ventricle-afc21f0be1",
+    "merge": "ventricle-of-the-larynx-ab43d63894",
+    "names": [
+      "Laryngeal ventricle",
+      "Ventricle of the larynx"
+    ],
+    "reason": "Same anatomical entity; source context checked. Original records archived and card answers retained."
+  },
+  {
+    "keep": "lingual-septum-23733bdd22",
+    "merge": "septum-of-the-tongue-1b8afe8363",
+    "names": [
+      "Lingual septum",
+      "Septum of the tongue"
+    ],
+    "reason": "Same anatomical entity; source context checked. Original records archived and card answers retained."
+  },
+  {
+    "keep": "renal-pyramid-b3af5c7ccb",
+    "merge": "medullary-renal-pyramid-b36bbfc2dd",
+    "names": [
+      "Renal pyramid",
+      "Medullary (renal) pyramid"
+    ],
+    "reason": "Same anatomical entity; source context checked. Original records archived and card answers retained."
+  },
+  {
+    "keep": "mucosa-of-trachea-f392d56f2e",
+    "merge": "mucous-membrane-of-the-trachea-0e0407e57e",
+    "names": [
+      "Mucosa of trachea",
+      "Mucous membrane of the trachea"
+    ],
+    "reason": "Same anatomical entity; source context checked. Original records archived and card answers retained."
+  },
+  {
+    "keep": "obturator-internus-muscle-1b1ec5179a",
+    "merge": "obturator-internus-d622762dd7",
+    "names": [
+      "Obturator internus muscle",
+      "Obturator internus"
+    ],
+    "reason": "Same anatomical entity; source context checked. Original records archived and card answers retained."
+  },
+  {
+    "keep": "occipitofrontalis-muscle-frontal-belly-83407af2ca",
+    "merge": "frontalis-part-of-occipitofrontalis-muscle-63ed46b538",
+    "names": [
+      "Occipitofrontalis muscle (frontal belly)",
+      "Frontalis part of occipitofrontalis muscle"
+    ],
+    "reason": "Same anatomical entity; source context checked. Original records archived and card answers retained."
+  },
+  {
+    "keep": "occipitofrontalis-muscle-occipital-belly-1053c4ab6f",
+    "merge": "occipital-part-of-occipitofrontalis-muscle-78feee0203",
+    "names": [
+      "Occipitofrontalis muscle (occipital belly)",
+      "Occipital part of occipitofrontalis muscle"
+    ],
+    "reason": "Same anatomical entity; source context checked. Original records archived and card answers retained."
+  },
+  {
+    "keep": "renal-pelvis-2e1b26ac5b",
+    "merge": "pelvis-of-the-kidney-f8049ec4c2",
+    "names": [
+      "Renal pelvis",
+      "Pelvis of the kidney"
+    ],
+    "reason": "Same anatomical entity; source context checked. Original records archived and card answers retained."
+  },
+  {
+    "keep": "pineal-body-pineal-gland-5aa736b2b0",
+    "merge": "pineal-body-or-gland-2bca6b5bdc",
+    "names": [
+      "Pineal body (pineal gland)",
+      "Pineal body or gland"
+    ],
+    "reason": "Same anatomical entity; source context checked. Original records archived and card answers retained."
+  },
+  {
+    "keep": "piriform-recess-ad1b3d73fc",
+    "merge": "piriform-sinus-736bc044db",
+    "names": [
+      "Piriform recess",
+      "Piriform sinus"
+    ],
+    "reason": "Same anatomical entity; source context checked. Original records archived and card answers retained."
+  },
+  {
+    "keep": "pisiform-bone-a02014563c",
+    "merge": "pisiform-c8f434d148",
+    "names": [
+      "Pisiform bone",
+      "Pisiform"
+    ],
+    "reason": "Same anatomical entity; source context checked. Original records archived and card answers retained."
+  },
+  {
+    "keep": "pituitary-gland-hypophysis-083652bc58",
+    "merge": "pituitary-gland-a57a081111",
+    "names": [
+      "Pituitary gland (hypophysis)",
+      "Pituitary gland"
+    ],
+    "reason": "Same anatomical entity; source context checked. Original records archived and card answers retained."
+  },
+  {
+    "keep": "pituitary-gland-hypophysis-083652bc58",
+    "merge": "pituitary-gland-or-hypophysis-952f96e3ba",
+    "names": [
+      "Pituitary gland (hypophysis)",
+      "Pituitary gland or hypophysis"
+    ],
+    "reason": "Same anatomical entity; source context checked. Original records archived and card answers retained."
+  },
+  {
+    "keep": "posterior-cricoarytenoid-muscle-9135a12117",
+    "merge": "posterior-crico-arytenoid-muscle-8dffc4f3d0",
+    "names": [
+      "Posterior cricoarytenoid muscle",
+      "Posterior crico-arytenoid muscle"
+    ],
+    "reason": "Same anatomical entity; source context checked. Original records archived and card answers retained."
+  },
+  {
+    "keep": "anterior-scalene-muscle-77d90e6488",
+    "merge": "scalenus-anterior-muscle-121c12151a",
+    "names": [
+      "Anterior scalene muscle",
+      "Scalenus anterior muscle"
+    ],
+    "reason": "Same anatomical entity; source context checked. Original records archived and card answers retained."
+  },
+  {
+    "keep": "middle-scalene-muscle-8f8e31b54e",
+    "merge": "scalenus-medius-muscle-2ac443fcf7",
+    "names": [
+      "Middle scalene muscle",
+      "Scalenus medius muscle"
+    ],
+    "reason": "Same anatomical entity; source context checked. Original records archived and card answers retained."
+  },
+  {
+    "keep": "posterior-scalene-muscle-2630d89a0a",
+    "merge": "scalenus-posterior-muscle-fc194a3ca3",
+    "names": [
+      "Posterior scalene muscle",
+      "Scalenus posterior muscle"
+    ],
+    "reason": "Same anatomical entity; source context checked. Original records archived and card answers retained."
+  },
+  {
+    "keep": "sclera-2368501218",
+    "merge": "sclera-of-eyeball-78ac706a7c",
+    "names": [
+      "Sclera",
+      "Sclera of eyeball"
+    ],
+    "reason": "Same anatomical entity; source context checked. Original records archived and card answers retained."
+  },
+  {
+    "keep": "spine-of-scapula-7780c29880",
+    "merge": "spine-of-the-scapula-097871eed3",
+    "names": [
+      "Spine of scapula",
+      "Spine of the scapula"
+    ],
+    "reason": "Same anatomical entity; source context checked. Original records archived and card answers retained."
+  },
+  {
+    "keep": "sublingual-gland-63b18862b9",
+    "merge": "sublingual-salivary-gland-42702c5faa",
+    "names": [
+      "Sublingual gland",
+      "Sublingual salivary gland"
+    ],
+    "reason": "Same anatomical entity; source context checked. Original records archived and card answers retained."
+  },
+  {
+    "keep": "tendon-of-flexor-pollicis-longus-fb7ad6936b",
+    "merge": "tendon-of-flexor-pollicis-longus-muscle-d3954dc732",
+    "names": [
+      "Tendon of flexor pollicis longus",
+      "Tendon of flexor pollicis longus muscle"
+    ],
+    "reason": "Same anatomical entity; source context checked. Original records archived and card answers retained."
+  },
+  {
+    "keep": "thyroepiglottic-ligament-9b031ebb9d",
+    "merge": "thyro-epiglottic-ligament-fac714683b",
+    "names": [
+      "Thyroepiglottic ligament",
+      "Thyro-epiglottic ligament"
+    ],
+    "reason": "Same anatomical entity; source context checked. Original records archived and card answers retained."
+  },
+  {
+    "keep": "vestibular-fold-false-vocal-cord-f8c4c4297a",
+    "merge": "vestibular-fold-00eddbca39",
+    "names": [
+      "Vestibular fold (false vocal cord)",
+      "Vestibular fold"
+    ],
+    "reason": "Same anatomical entity; source context checked. Original records archived and card answers retained."
+  },
+  {
+    "keep": "vitreous-humour-vitreous-body-8f55a0b810",
+    "merge": "vitreous-body-c5dda376cb",
+    "names": [
+      "Vitreous humour (vitreous body)",
+      "Vitreous body"
+    ],
+    "reason": "Same anatomical entity; source context checked. Original records archived and card answers retained."
+  },
+  {
+    "keep": "vocal-fold-true-vocal-cord-d2bba25e09",
+    "merge": "vocal-fold-8b669e1c72",
+    "names": [
+      "Vocal fold (true vocal cord)",
+      "Vocal fold"
+    ],
+    "reason": "Same anatomical entity; source context checked. Original records archived and card answers retained."
+  },
+  {
+    "keep": "vocalis-muscle-9fb059d1f2",
+    "merge": "vocalis-muscle-medial-part-of-thyroarytenoid-muscle-e6d943b2e9",
+    "names": [
+      "Vocalis muscle",
+      "Vocalis muscle (medial part of thyroarytenoid muscle)"
+    ],
+    "reason": "Same anatomical entity; source context checked. Original records archived and card answers retained."
+  },
+  {
+    "keep": "bicuspid-valve-mitral-left-atrioventricular-valve-27f66fbba4",
+    "merge": "bicuspid-mitral-valve-920439ca76",
+    "names": [
+      "Bicuspid valve (mitral / left atrioventricular valve)",
+      "Bicuspid (mitral) valve"
+    ],
+    "reason": "Same anatomical entity; source context checked. Original records archived and card answers retained."
+  }
+]

@@ -1,0 +1,127 @@
+{
+  "id": "long-head-of-biceps-femoris-muscle-812ef86535",
+  "name": "Long head of biceps femoris muscle",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-6b065d5d81",
+      "variants": [
+        {
+          "id": "v-6b065d5d81",
+          "answer": "Long head of biceps femoris muscle",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-142",
+              "sourceLine": 142
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-df9e94bdd1",
+      "variants": [
+        {
+          "id": "v-df9e94bdd1",
+          "answer": "Extends the hip; flexes the knee and laterally rotates the flexed leg.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-143",
+              "sourceLine": 143
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-04183178d7",
+      "variants": [
+        {
+          "id": "v-04183178d7",
+          "answer": "Tibial division of sciatic nerve (L5–S2).",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-144",
+              "sourceLine": 144
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-5ca04ba355",
+      "variants": [
+        {
+          "id": "v-5ca04ba355",
+          "answer": "Ischial tuberosity, sharing a proximal tendon with semitendinosus.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-145",
+              "sourceLine": 145
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-27fa467020",
+      "variants": [
+        {
+          "id": "v-27fa467020",
+          "answer": "Lateral aspect of head of fibula through the common biceps femoris tendon.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-146",
+              "sourceLine": 146
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "lower-limb-model-ns10",
+      "section": "Muscles",
+      "path": [
+        "18a"
+      ],
+      "label": "18a"
+    }
+  ]
+}

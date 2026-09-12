@@ -1,0 +1,125 @@
+{
+  "id": "proximal-phalanx-i-middle-phalanx-ii-distal-phalanx-iii-7e271210cf",
+  "name": "Proximal phalanx (I), middle phalanx (II), distal phalanx (III)",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Bones"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [],
+  "organs": [],
+  "tags": [
+    "Articulations",
+    "Attachments",
+    "BoneGroup",
+    "Landmarks",
+    "Orientation"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-2ad36b1729",
+      "variants": [
+        {
+          "id": "v-2ad36b1729",
+          "answer": "Proximal phalanx (I), middle phalanx (II), distal phalanx (III)",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-608",
+              "sourceLine": 608
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-a40bee8d10",
+      "question": "Articulations",
+      "preferredVariantId": "v-4c06c025da",
+      "variants": [
+        {
+          "id": "v-4c06c025da",
+          "answer": "Proximal phalanx with metacarpal and middle phalanx; middle with proximal/distal phalanges; distal with middle phalanx.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-609",
+              "sourceLine": 609
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-626b6c1d45",
+      "question": "Landmarks",
+      "preferredVariantId": "v-a2cb31fae5",
+      "variants": [
+        {
+          "id": "v-a2cb31fae5",
+          "answer": "Each has base, shaft and head except distal phalanx, which has a terminal tuft.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-610",
+              "sourceLine": 610
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-2389607e0b",
+      "question": "Muscle attachments",
+      "preferredVariantId": "v-c458915908",
+      "variants": [
+        {
+          "id": "v-c458915908",
+          "answer": "Flexor digitorum superficialis inserts on middle phalanx; flexor digitorum profundus on distal phalanx; extensor expansion attaches across middle/distal phalanges; intrinsic hand muscles attach to proximal phalanges/extensor expansions.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-611",
+              "sourceLine": 611
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-86e4e38754",
+      "question": "Orientation",
+      "preferredVariantId": "v-8025a58fbb",
+      "variants": [
+        {
+          "id": "v-8025a58fbb",
+          "answer": "Bases are proximal and heads distal; distal phalanges have broad terminal tufts; palmar surfaces relate to flexor sheaths.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-612",
+              "sourceLine": 612
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "upper-limb-model-ns15",
+      "section": "Bones",
+      "path": [
+        "95"
+      ],
+      "label": "95"
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "id": "ascending-aorta-75e2d35ebe",
+  "name": "Ascending aorta",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Arteries"
+  ],
+  "regions": [
+    "Thorax"
+  ],
+  "systems": [
+    "Cardiovascular"
+  ],
+  "organs": [
+    "Heart"
+  ],
+  "tags": [
+    "Artery",
+    "Branches",
+    "Course",
+    "InternalCoronary",
+    "Origin",
+    "Supply"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-dc5867ac09",
+      "variants": [
+        {
+          "id": "v-dc5867ac09",
+          "answer": "Ascending aorta",
+          "sources": [
+            {
+              "modelId": "heart-model-hs5",
+              "cardId": "heart-model-hs5-124",
+              "sourceLine": 124
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-107dfced66",
+      "variants": [
+        {
+          "id": "v-107dfced66",
+          "answer": "Begins at the aortic valve of the left ventricle.",
+          "sources": [
+            {
+              "modelId": "heart-model-hs5",
+              "cardId": "heart-model-hs5-125",
+              "sourceLine": 125
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-e41d8531b9",
+      "variants": [
+        {
+          "id": "v-e41d8531b9",
+          "answer": "Ascends within the pericardium and continues as the arch of the aorta.",
+          "sources": [
+            {
+              "modelId": "heart-model-hs5",
+              "cardId": "heart-model-hs5-126",
+              "sourceLine": 126
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f578227926",
+      "question": "Branches",
+      "preferredVariantId": "v-39e75c147a",
+      "variants": [
+        {
+          "id": "v-39e75c147a",
+          "answer": "Right and left coronary arteries arise from the aortic sinuses.",
+          "sources": [
+            {
+              "modelId": "heart-model-hs5",
+              "cardId": "heart-model-hs5-127",
+              "sourceLine": 127
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-222db0fc1c",
+      "question": "Supply",
+      "preferredVariantId": "v-211f655f15",
+      "variants": [
+        {
+          "id": "v-211f655f15",
+          "answer": "Carries oxygenated blood into the systemic circulation.",
+          "sources": [
+            {
+              "modelId": "heart-model-hs5",
+              "cardId": "heart-model-hs5-128",
+              "sourceLine": 128
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "heart-model-hs5",
+      "section": "Internal and coronary structures",
+      "path": [
+        "3"
+      ],
+      "label": "3"
+    }
+  ]
+}

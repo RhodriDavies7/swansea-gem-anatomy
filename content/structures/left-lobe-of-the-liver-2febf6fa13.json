@@ -1,0 +1,111 @@
+{
+  "id": "left-lobe-of-the-liver-2febf6fa13",
+  "name": "Left lobe of the liver",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Abdomen"
+  ],
+  "systems": [
+    "Digestive"
+  ],
+  "organs": [
+    "Liver"
+  ],
+  "tags": [
+    "Function",
+    "LiverLobe",
+    "LobesAndLandmarks",
+    "Location",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-86e4db2c10",
+      "variants": [
+        {
+          "id": "v-86e4db2c10",
+          "answer": "Left lobe of the liver",
+          "sources": [
+            {
+              "modelId": "liver-js5",
+              "cardId": "liver-js5-9",
+              "sourceLine": 9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-56f6d4453c",
+      "variants": [
+        {
+          "id": "v-56f6d4453c",
+          "answer": "Smaller anatomical lobe lying mainly to the left of the falciform ligament.",
+          "sources": [
+            {
+              "modelId": "liver-js5",
+              "cardId": "liver-js5-10",
+              "sourceLine": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-d889f6d8fe",
+      "variants": [
+        {
+          "id": "v-d889f6d8fe",
+          "answer": "Related to stomach and oesophagus on its visceral surface.",
+          "sources": [
+            {
+              "modelId": "liver-js5",
+              "cardId": "liver-js5-11",
+              "sourceLine": 11
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-01ebc9e315",
+      "variants": [
+        {
+          "id": "v-01ebc9e315",
+          "answer": "Contains functional hepatic parenchyma with the same major metabolic and synthetic functions as the rest of the liver.",
+          "sources": [
+            {
+              "modelId": "liver-js5",
+              "cardId": "liver-js5-12",
+              "sourceLine": 12
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "liver-js5",
+      "section": "Lobes and surface landmarks",
+      "path": [
+        "2"
+      ],
+      "label": "2"
+    }
+  ]
+}

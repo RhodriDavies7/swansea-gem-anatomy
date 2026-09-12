@@ -1,0 +1,109 @@
+{
+  "id": "greater-vestibular-gland-bartholin-s-gland-a3db92222b",
+  "name": "Greater vestibular gland (Bartholin's gland)",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Organs"
+  ],
+  "regions": [
+    "Pelvis"
+  ],
+  "systems": [
+    "Reproductive"
+  ],
+  "organs": [],
+  "tags": [
+    "Drainage",
+    "Function",
+    "Gland",
+    "Location"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-7ec3537903",
+      "variants": [
+        {
+          "id": "v-7ec3537903",
+          "answer": "Greater vestibular gland (Bartholin's gland)",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-166",
+              "sourceLine": 166
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-bf5af3b5d5",
+      "variants": [
+        {
+          "id": "v-bf5af3b5d5",
+          "answer": "Secretes mucus that lubricates the vestibule, particularly during sexual arousal.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-167",
+              "sourceLine": 167
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-ee895a2069",
+      "variants": [
+        {
+          "id": "v-ee895a2069",
+          "answer": "Posterolateral to the vaginal opening in the superficial perineal pouch, deep to bulbospongiosus.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-168",
+              "sourceLine": 168
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-74a64b1943",
+      "question": "Drainage",
+      "preferredVariantId": "v-760a3fbe72",
+      "variants": [
+        {
+          "id": "v-760a3fbe72",
+          "answer": "Duct opens into the vestibule near the posterolateral vaginal opening.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-169",
+              "sourceLine": 169
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "female-pelvis-model-mo8",
+      "section": "",
+      "path": [
+        "19",
+        "a"
+      ],
+      "label": "19a"
+    }
+  ]
+}

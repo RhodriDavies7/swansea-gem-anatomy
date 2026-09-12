@@ -1,0 +1,205 @@
+{
+  "id": "adductor-pollicis-muscle-f1daef3c37",
+  "name": "Adductor pollicis muscle",
+  "aliases": [
+    "Adductor pollicis"
+  ],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "MusclesAndTendons",
+    "Origin"
+  ],
+  "imageIds": [
+    "img-124ca087bbbc"
+  ],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-b46ba051c1",
+      "variants": [
+        {
+          "id": "v-b46ba051c1",
+          "answer": "Adductor pollicis muscle",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-101",
+              "sourceLine": 101
+            }
+          ]
+        },
+        {
+          "id": "v-7ae744d2c3",
+          "answer": "Adductor pollicis",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-180",
+              "sourceLine": 180
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-47dcdf01a5",
+      "variants": [
+        {
+          "id": "v-47dcdf01a5",
+          "answer": "Adducts thumb and assists power grip.",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-102",
+              "sourceLine": 102
+            }
+          ]
+        },
+        {
+          "id": "v-a6cad934de",
+          "answer": "Adducts the thumb and is important for power grip.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-181",
+              "sourceLine": 181
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-5d580a350d",
+      "variants": [
+        {
+          "id": "v-5d580a350d",
+          "answer": "Deep branch of ulnar nerve (C8–T1).",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-103",
+              "sourceLine": 103
+            },
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-182",
+              "sourceLine": 182
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-ad6b1403e6",
+      "variants": [
+        {
+          "id": "v-ad6b1403e6",
+          "answer": "Oblique head: bases of metacarpals 2–3 and capitate; transverse head: shaft of 3rd metacarpal.",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-104",
+              "sourceLine": 104
+            }
+          ]
+        },
+        {
+          "id": "v-2ae165a0cb",
+          "answer": "Oblique head: bases of 2nd/3rd metacarpals and capitate. Transverse head: shaft of 3rd metacarpal.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-183",
+              "sourceLine": 183
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-ad0b75574d",
+      "variants": [
+        {
+          "id": "v-e026c4542b",
+          "answer": "Medial base of proximal phalanx of thumb.",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-105",
+              "sourceLine": 105
+            }
+          ]
+        },
+        {
+          "id": "v-ad0b75574d",
+          "answer": "Medial base of proximal phalanx of thumb via medial sesamoid and extensor expansion.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-184",
+              "sourceLine": 184
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "hand-model-ns13",
+      "section": "Muscles, tendons and pulleys",
+      "path": [
+        "l"
+      ],
+      "label": "l"
+    },
+    {
+      "modelId": "upper-limb-model-ns15",
+      "section": "Muscles",
+      "path": [
+        "30"
+      ],
+      "label": "30"
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "id": "medial-epicondyle-of-the-femur-e09cc74f7e",
+  "name": "Medial epicondyle of the femur",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Bones"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Attachments",
+    "Bone",
+    "BonyLandmark",
+    "Clinical",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-9db1c780a6",
+      "variants": [
+        {
+          "id": "v-9db1c780a6",
+          "answer": "Medial epicondyle of the femur",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-576",
+              "sourceLine": 576
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-bcf605d6bb",
+      "question": "Bone",
+      "preferredVariantId": "v-1246ccedf2",
+      "variants": [
+        {
+          "id": "v-1246ccedf2",
+          "answer": "Distal femur.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-577",
+              "sourceLine": 577
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6771ade6e8",
+      "question": "Attachments",
+      "preferredVariantId": "v-9bb1190b9e",
+      "variants": [
+        {
+          "id": "v-9bb1190b9e",
+          "answer": "Femoral attachment of tibial (medial) collateral ligament; adductor magnus hamstring tendon attaches to nearby adductor tubercle superiorly.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-578",
+              "sourceLine": 578
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-8177de2828",
+      "variants": [
+        {
+          "id": "v-8177de2828",
+          "answer": "Medial non-articular prominence above medial condyle; distinguish epicondyle from adductor tubercle.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-579",
+              "sourceLine": 579
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-b03737e3cd",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-e3bc2697b1",
+      "variants": [
+        {
+          "id": "v-e3bc2697b1",
+          "answer": "Medial collateral ligament injury follows valgus stress and may produce local tenderness.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-580",
+              "sourceLine": 580
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "lower-limb-model-ns10",
+      "section": "Bones",
+      "path": [
+        "80"
+      ],
+      "label": "80"
+    }
+  ]
+}

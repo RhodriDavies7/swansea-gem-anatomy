@@ -1,0 +1,92 @@
+{
+  "id": "arcuate-eminence-of-the-petrous-part-of-the-temporal-bone-9a0b08527e",
+  "name": "Arcuate eminence of the petrous part of the temporal bone",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Bones"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [
+    "Ear"
+  ],
+  "tags": [
+    "Bone",
+    "BonyLandmark",
+    "Relations",
+    "TemporalBone"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-580065c898",
+      "variants": [
+        {
+          "id": "v-580065c898",
+          "answer": "Arcuate eminence of the petrous part of the temporal bone",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-74",
+              "sourceLine": 74
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-bcf605d6bb",
+      "question": "Bone",
+      "preferredVariantId": "v-1417e6a3a8",
+      "variants": [
+        {
+          "id": "v-1417e6a3a8",
+          "answer": "Petrous part of the temporal bone.",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-75",
+              "sourceLine": 75
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-48a6984c27",
+      "variants": [
+        {
+          "id": "v-48a6984c27",
+          "answer": "Elevation on the anterior surface of the petrous temporal bone, related approximately to the superior semicircular canal.",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-76",
+              "sourceLine": 76
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "ear-largest-model-ds1",
+      "section": "B. Temporal bone",
+      "path": [
+        "14"
+      ],
+      "label": "14"
+    }
+  ]
+}

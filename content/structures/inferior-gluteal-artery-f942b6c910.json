@@ -1,0 +1,206 @@
+{
+  "id": "inferior-gluteal-artery-f942b6c910",
+  "name": "Inferior gluteal artery",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Arteries"
+  ],
+  "regions": [
+    "Lower limb",
+    "Pelvis"
+  ],
+  "systems": [
+    "Cardiovascular",
+    "Reproductive"
+  ],
+  "organs": [],
+  "tags": [
+    "Artery",
+    "Branches",
+    "Course",
+    "Origin",
+    "Relations",
+    "Supply"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-af656e5bf5",
+      "variants": [
+        {
+          "id": "v-af656e5bf5",
+          "answer": "Inferior gluteal artery",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-270",
+              "sourceLine": 270
+            },
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-336",
+              "sourceLine": 336
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-7695a10c3b",
+      "variants": [
+        {
+          "id": "v-9523de79d2",
+          "answer": "Anterior division of internal iliac artery.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-271",
+              "sourceLine": 271
+            }
+          ]
+        },
+        {
+          "id": "v-7695a10c3b",
+          "answer": "Usually anterior division of internal iliac artery.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-337",
+              "sourceLine": 337
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-d03ced507e",
+      "variants": [
+        {
+          "id": "v-2f6706a437",
+          "answer": "Exits greater sciatic foramen inferior to piriformis.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-272",
+              "sourceLine": 272
+            }
+          ]
+        },
+        {
+          "id": "v-d03ced507e",
+          "answer": "Leaves greater sciatic foramen below piriformis and descends deep to gluteus maximus.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-338",
+              "sourceLine": 338
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-222db0fc1c",
+      "question": "Supply",
+      "preferredVariantId": "v-c518de60b9",
+      "variants": [
+        {
+          "id": "v-c518de60b9",
+          "answer": "Gluteal region and proximal posterior thigh.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-273",
+              "sourceLine": 273
+            }
+          ]
+        },
+        {
+          "id": "v-41d8b3a8e7",
+          "answer": "Gluteus maximus, short lateral rotators, proximal hamstrings and sciatic nerve.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-340",
+              "sourceLine": 340
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-f578227926",
+      "question": "Branches",
+      "preferredVariantId": "v-4e2bc7cd69",
+      "variants": [
+        {
+          "id": "v-4e2bc7cd69",
+          "answer": "Muscular and anastomotic branches; artery accompanying sciatic nerve.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-339",
+              "sourceLine": 339
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-fed66cc51d",
+      "variants": [
+        {
+          "id": "v-fed66cc51d",
+          "answer": "Accompanies inferior gluteal nerve; contributes to cruciate anastomosis.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-341",
+              "sourceLine": 341
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "female-pelvis-model-mo8",
+      "section": "",
+      "path": [
+        "42"
+      ],
+      "label": "42"
+    },
+    {
+      "modelId": "lower-limb-model-ns10",
+      "section": "Blood vessels",
+      "path": [
+        "43"
+      ],
+      "label": "43"
+    }
+  ]
+}

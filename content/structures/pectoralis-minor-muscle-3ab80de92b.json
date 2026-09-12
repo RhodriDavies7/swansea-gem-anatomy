@@ -1,0 +1,109 @@
+{
+  "id": "pectoralis-minor-muscle-3ab80de92b",
+  "name": "Pectoralis minor muscle",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "AttachmentSite",
+    "Attachments",
+    "Innervation",
+    "Muscle"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-d3c1baf800",
+      "variants": [
+        {
+          "id": "v-d3c1baf800",
+          "answer": "Pectoralis minor muscle",
+          "sources": [
+            {
+              "modelId": "rotator-cuff-qs55-6",
+              "cardId": "rotator-cuff-qs55-6-82",
+              "sourceLine": 82
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-531c9dad58",
+      "question": "Attachment on model",
+      "preferredVariantId": "v-50d271fbb5",
+      "variants": [
+        {
+          "id": "v-50d271fbb5",
+          "answer": "Inserts on medial border/superior surface of coracoid process; originates from ribs 3–5.",
+          "sources": [
+            {
+              "modelId": "rotator-cuff-qs55-6",
+              "cardId": "rotator-cuff-qs55-6-83",
+              "sourceLine": 83
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-b4fe414de7",
+      "variants": [
+        {
+          "id": "v-b4fe414de7",
+          "answer": "Stabilises scapula by drawing it anteriorly and inferiorly against thoracic wall.",
+          "sources": [
+            {
+              "modelId": "rotator-cuff-qs55-6",
+              "cardId": "rotator-cuff-qs55-6-84",
+              "sourceLine": 84
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-0c97641a18",
+      "variants": [
+        {
+          "id": "v-0c97641a18",
+          "answer": "Medial pectoral nerve (C8–T1).",
+          "sources": [
+            {
+              "modelId": "rotator-cuff-qs55-6",
+              "cardId": "rotator-cuff-qs55-6-85",
+              "sourceLine": 85
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "rotator-cuff-qs55-6",
+      "section": "Muscle attachment sites",
+      "path": [
+        "14"
+      ],
+      "label": "14"
+    }
+  ]
+}

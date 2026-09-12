@@ -1,0 +1,209 @@
+{
+  "id": "parotid-gland-60e3a579f9",
+  "name": "Parotid gland",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Organs"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [],
+  "organs": [],
+  "tags": [
+    "BloodVesselsAndNerves",
+    "Drainage",
+    "Function",
+    "Gland",
+    "HeadNeck",
+    "Innervation",
+    "Location",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-7afbfe9cbd",
+      "variants": [
+        {
+          "id": "v-7afbfe9cbd",
+          "answer": "Parotid gland",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-795",
+              "sourceLine": 795
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-541",
+              "sourceLine": 541
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-085f0cf22f",
+      "variants": [
+        {
+          "id": "v-085f0cf22f",
+          "answer": "Produces serous saliva.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-796",
+              "sourceLine": 796
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-543",
+              "sourceLine": 543
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-a670e932e0",
+      "variants": [
+        {
+          "id": "v-a670e932e0",
+          "answer": "Parotid bed between ramus of mandible and mastoid/SCM region.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-797",
+              "sourceLine": 797
+            }
+          ]
+        },
+        {
+          "id": "v-cef4463eca",
+          "answer": "Between mandibular ramus and mastoid/SCM region.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-542",
+              "sourceLine": 542
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-74a64b1943",
+      "question": "Drainage",
+      "preferredVariantId": "v-8393bc2bbc",
+      "variants": [
+        {
+          "id": "v-8393bc2bbc",
+          "answer": "Parotid duct crosses masseter, pierces buccinator and opens opposite upper second molar.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-798",
+              "sourceLine": 798
+            }
+          ]
+        },
+        {
+          "id": "v-edb51ec0f6",
+          "answer": "Parotid duct opens opposite upper second molar.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-544",
+              "sourceLine": 544
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-d920a26799",
+      "variants": [
+        {
+          "id": "v-d920a26799",
+          "answer": "Parasympathetic secretomotor pathway from CN IX via lesser petrosal nerve, otic ganglion and auriculotemporal nerve.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-799",
+              "sourceLine": 799
+            }
+          ]
+        },
+        {
+          "id": "v-06c716c103",
+          "answer": "Parasympathetic secretomotor pathway from CN IX via otic ganglion and auriculotemporal nerve.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-545",
+              "sourceLine": 545
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-3ab15610ba",
+      "variants": [
+        {
+          "id": "v-3ab15610ba",
+          "answer": "Facial nerve, retromandibular vein and external carotid artery traverse the gland.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-800",
+              "sourceLine": 800
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "half-head-and-neck-model-bs9",
+      "section": "Blood vessels and nerves",
+      "path": [
+        "79"
+      ],
+      "label": "79"
+    },
+    {
+      "modelId": "head-and-neck-model-cs17-2",
+      "section": "Glands",
+      "path": [
+        "84"
+      ],
+      "label": "84"
+    }
+  ]
+}

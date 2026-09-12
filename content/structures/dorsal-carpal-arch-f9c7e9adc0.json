@@ -1,0 +1,146 @@
+{
+  "id": "dorsal-carpal-arch-f9c7e9adc0",
+  "name": "Dorsal carpal arch",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Arteries"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [
+    "Cardiovascular"
+  ],
+  "organs": [],
+  "tags": [
+    "Artery",
+    "Branches",
+    "Course",
+    "Formation",
+    "Relations",
+    "Supply"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-78504069a2",
+      "variants": [
+        {
+          "id": "v-78504069a2",
+          "answer": "Dorsal carpal arch",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-352",
+              "sourceLine": 352
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-bc0bd86b8f",
+      "question": "Formation",
+      "preferredVariantId": "v-1616aaebd6",
+      "variants": [
+        {
+          "id": "v-1616aaebd6",
+          "answer": "Anastomosis of dorsal carpal branches of radial and ulnar arteries, with interosseous contributions.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-353",
+              "sourceLine": 353
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-51640127f0",
+      "variants": [
+        {
+          "id": "v-51640127f0",
+          "answer": "Runs across dorsal carpus.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-354",
+              "sourceLine": 354
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f578227926",
+      "question": "Branches",
+      "preferredVariantId": "v-384be985e9",
+      "variants": [
+        {
+          "id": "v-384be985e9",
+          "answer": "Gives dorsal metacarpal arteries.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-355",
+              "sourceLine": 355
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-222db0fc1c",
+      "question": "Supply",
+      "preferredVariantId": "v-e3dfb9e093",
+      "variants": [
+        {
+          "id": "v-e3dfb9e093",
+          "answer": "Dorsum of hand and digits through dorsal metacarpal/digital branches.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-356",
+              "sourceLine": 356
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-16fffea150",
+      "variants": [
+        {
+          "id": "v-16fffea150",
+          "answer": "Lies deep to extensor tendons on dorsum of wrist.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-357",
+              "sourceLine": 357
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "upper-limb-model-ns15",
+      "section": "Arteries",
+      "path": [
+        "57"
+      ],
+      "label": "57"
+    }
+  ]
+}

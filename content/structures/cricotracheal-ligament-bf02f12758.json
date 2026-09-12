@@ -1,0 +1,190 @@
+{
+  "id": "cricotracheal-ligament-bf02f12758",
+  "name": "Cricotracheal ligament",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Ligaments"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Musculoskeletal",
+    "Respiratory"
+  ],
+  "organs": [
+    "Larynx"
+  ],
+  "tags": [
+    "Attachments",
+    "Function",
+    "Larynx",
+    "LarynxAndAirway",
+    "Ligament",
+    "MembranesLigaments"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-810b61ab93",
+      "variants": [
+        {
+          "id": "v-810b61ab93",
+          "answer": "Cricotracheal ligament",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-84",
+              "sourceLine": 84
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-84",
+              "sourceLine": 84
+            },
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-74",
+              "sourceLine": 74
+            },
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-88",
+              "sourceLine": 88
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6771ade6e8",
+      "question": "Attachments",
+      "preferredVariantId": "v-6dfe266fc6",
+      "variants": [
+        {
+          "id": "v-6dfe266fc6",
+          "answer": "Connects inferior border of cricoid cartilage to the first tracheal ring.",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-85",
+              "sourceLine": 85
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-85",
+              "sourceLine": 85
+            }
+          ]
+        },
+        {
+          "id": "v-7bee59b642",
+          "answer": "Connects inferior border of cricoid cartilage to first tracheal ring.",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-75",
+              "sourceLine": 75
+            },
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-89",
+              "sourceLine": 89
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-135e05649d",
+      "variants": [
+        {
+          "id": "v-135e05649d",
+          "answer": "Secures the larynx to the trachea while allowing movement.",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-86",
+              "sourceLine": 86
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-86",
+              "sourceLine": 86
+            }
+          ]
+        },
+        {
+          "id": "v-a07b1c935b",
+          "answer": "Secures the larynx to the trachea.",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-76",
+              "sourceLine": 76
+            }
+          ]
+        },
+        {
+          "id": "v-b73cdd774a",
+          "answer": "Secures larynx to trachea while allowing movement.",
+          "sources": [
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-90",
+              "sourceLine": 90
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "larynx-model-gs7",
+      "section": "Membranes, ligaments and joints",
+      "path": [
+        "12"
+      ],
+      "label": "12"
+    },
+    {
+      "modelId": "larynx-and-airway-model-gs5",
+      "section": "Membranes, ligaments and joints",
+      "path": [
+        "12"
+      ],
+      "label": "12"
+    },
+    {
+      "modelId": "larynx-and-tongue-model-gs4",
+      "section": "Larynx",
+      "path": [
+        "12"
+      ],
+      "label": "12"
+    },
+    {
+      "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+      "section": "Larynx and airway",
+      "path": [
+        "9"
+      ],
+      "label": "9"
+    }
+  ]
+}

@@ -1,0 +1,191 @@
+{
+  "id": "maxillary-sinus-1f6538c238",
+  "name": "Maxillary sinus",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Respiratory"
+  ],
+  "organs": [],
+  "tags": [
+    "Clinical",
+    "Coronal",
+    "Drainage",
+    "Location",
+    "ParanasalSinus",
+    "Relations",
+    "SinusesAndOpenings",
+    "Structure"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-0f9f2c1e36",
+      "variants": [
+        {
+          "id": "v-0f9f2c1e36",
+          "answer": "Maxillary sinus",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-73",
+              "sourceLine": 73
+            },
+            {
+              "modelId": "nose-and-nasal-cavity-model-fs3",
+              "cardId": "nose-and-nasal-cavity-model-fs3-56",
+              "sourceLine": 56
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-d557a22e74",
+      "variants": [
+        {
+          "id": "v-d557a22e74",
+          "answer": "Largest paranasal sinus, within the body of the maxilla.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-74",
+              "sourceLine": 74
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-74a64b1943",
+      "question": "Drainage",
+      "preferredVariantId": "v-192b06a1c1",
+      "variants": [
+        {
+          "id": "v-192b06a1c1",
+          "answer": "Drains into the middle meatus via the hiatus semilunaris region.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-75",
+              "sourceLine": 75
+            }
+          ]
+        },
+        {
+          "id": "v-01a7e8b654",
+          "answer": "Drains into the middle meatus through the hiatus semilunaris.",
+          "sources": [
+            {
+              "modelId": "nose-and-nasal-cavity-model-fs3",
+              "cardId": "nose-and-nasal-cavity-model-fs3-58",
+              "sourceLine": 58
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-fb6444a303",
+      "variants": [
+        {
+          "id": "v-fb6444a303",
+          "answer": "Roof forms floor of orbit; floor relates closely to roots of upper premolar/molar teeth.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-76",
+              "sourceLine": 76
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-b03737e3cd",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-6d6fc7cc85",
+      "variants": [
+        {
+          "id": "v-6d6fc7cc85",
+          "answer": "High drainage opening can impair clearance; dental disease may spread into the sinus.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-77",
+              "sourceLine": 77
+            }
+          ]
+        },
+        {
+          "id": "v-73e4eae862",
+          "answer": "Its ostium is relatively high on the medial wall, which can impair drainage.",
+          "sources": [
+            {
+              "modelId": "nose-and-nasal-cavity-model-fs3",
+              "cardId": "nose-and-nasal-cavity-model-fs3-59",
+              "sourceLine": 59
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-451029f4a1",
+      "variants": [
+        {
+          "id": "v-451029f4a1",
+          "answer": "Within the body of the maxilla.",
+          "sources": [
+            {
+              "modelId": "nose-and-nasal-cavity-model-fs3",
+              "cardId": "nose-and-nasal-cavity-model-fs3-57",
+              "sourceLine": 57
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "coronal-and-mid-sagittal-head-mb20",
+      "section": "Coronal head",
+      "path": [
+        "15"
+      ],
+      "label": "15"
+    },
+    {
+      "modelId": "nose-and-nasal-cavity-model-fs3",
+      "section": "Paranasal sinuses, conchae and openings (a–p)",
+      "path": [
+        "k"
+      ],
+      "label": "k"
+    }
+  ]
+}

@@ -1,0 +1,213 @@
+{
+  "id": "piriform-recess-ad1b3d73fc",
+  "name": "Piriform recess",
+  "aliases": [
+    "Piriform sinus"
+  ],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Respiratory"
+  ],
+  "organs": [
+    "Larynx"
+  ],
+  "tags": [
+    "Clinical",
+    "InternalLarynx",
+    "Location",
+    "Relations",
+    "Space",
+    "Larynx"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-a6d48f4e8b",
+      "variants": [
+        {
+          "id": "v-a6d48f4e8b",
+          "answer": "Piriform recess",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-271",
+              "sourceLine": 271
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-271",
+              "sourceLine": 271
+            }
+          ]
+        },
+        {
+          "id": "v-d83891ea6d",
+          "answer": "Piriform sinus",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-195",
+              "sourceLine": 195
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-ebfa3e3234",
+      "variants": [
+        {
+          "id": "v-ebfa3e3234",
+          "answer": "Mucosal recess of the laryngopharynx lateral to the laryngeal inlet.",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-272",
+              "sourceLine": 272
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-272",
+              "sourceLine": 272
+            }
+          ]
+        },
+        {
+          "id": "v-7167d93d34",
+          "answer": "Recess of the laryngopharynx lateral to the laryngeal inlet.",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-196",
+              "sourceLine": 196
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-1a97d9fad6",
+      "variants": [
+        {
+          "id": "v-1a97d9fad6",
+          "answer": "The internal laryngeal nerve lies deep to the mucosa in this region.",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-273",
+              "sourceLine": 273
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-273",
+              "sourceLine": 273
+            }
+          ]
+        },
+        {
+          "id": "v-cc45aae57a",
+          "answer": "Internal laryngeal nerve lies deep to its mucosa.",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-197",
+              "sourceLine": 197
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-b03737e3cd",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-1dd10e597d",
+      "variants": [
+        {
+          "id": "v-1dd10e597d",
+          "answer": "Foreign bodies may lodge here and can damage the internal laryngeal nerve.",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-274",
+              "sourceLine": 274
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-274",
+              "sourceLine": 274
+            }
+          ]
+        },
+        {
+          "id": "v-f8eeec08ae",
+          "answer": "Foreign bodies may lodge here and injure the internal laryngeal nerve.",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-198",
+              "sourceLine": 198
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "larynx-model-gs7",
+      "section": "Internal laryngeal structures and mucosa",
+      "path": [
+        "36"
+      ],
+      "label": "36"
+    },
+    {
+      "modelId": "larynx-and-airway-model-gs5",
+      "section": "Internal laryngeal structures and mucosa",
+      "path": [
+        "36"
+      ],
+      "label": "36"
+    },
+    {
+      "modelId": "larynx-and-tongue-model-gs4",
+      "section": "Larynx",
+      "path": [
+        "32"
+      ],
+      "label": "32"
+    }
+  ],
+  "redirectIds": [
+    "piriform-sinus-736bc044db"
+  ]
+}

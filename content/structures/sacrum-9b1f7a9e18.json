@@ -1,0 +1,256 @@
+{
+  "id": "sacrum-9b1f7a9e18",
+  "name": "Sacrum",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Bones"
+  ],
+  "regions": [
+    "Lower limb",
+    "Pelvis"
+  ],
+  "systems": [
+    "Musculoskeletal",
+    "Reproductive"
+  ],
+  "organs": [],
+  "tags": [
+    "Articulations",
+    "Attachments",
+    "Bone",
+    "Landmarks",
+    "Orientation",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-fb87013ee4",
+      "variants": [
+        {
+          "id": "v-fb87013ee4",
+          "answer": "Sacrum",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-44",
+              "sourceLine": 44
+            },
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-508",
+              "sourceLine": 508
+            },
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-8",
+              "sourceLine": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-a40bee8d10",
+      "question": "Articulations",
+      "preferredVariantId": "v-e297759363",
+      "variants": [
+        {
+          "id": "v-64d48a504b",
+          "answer": "Articulates with L5, both ilia and the coccyx.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-45",
+              "sourceLine": 45
+            }
+          ]
+        },
+        {
+          "id": "v-e297759363",
+          "answer": "L5 at lumbosacral joint, both ilia at sacroiliac joints, and coccyx at sacrococcygeal joint.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-509",
+              "sourceLine": 509
+            }
+          ]
+        },
+        {
+          "id": "v-79e173835e",
+          "answer": "Articulates with L5 superiorly, both ilia at the sacroiliac joints, and the coccyx inferiorly.",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-9",
+              "sourceLine": 9
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-626b6c1d45",
+      "question": "Landmarks",
+      "preferredVariantId": "v-c0a511dc0e",
+      "variants": [
+        {
+          "id": "v-b56de55a11",
+          "answer": "Sacral promontory, foramina, ala, sacral canal and sacral hiatus.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-46",
+              "sourceLine": 46
+            }
+          ]
+        },
+        {
+          "id": "v-c0a511dc0e",
+          "answer": "Promontory, alae, anterior/posterior sacral foramina, median sacral crest, auricular surfaces, sacral canal, hiatus and cornua.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-510",
+              "sourceLine": 510
+            }
+          ]
+        },
+        {
+          "id": "v-0351426220",
+          "answer": "Sacral promontory, alae, anterior and posterior sacral foramina, median sacral crest, auricular surfaces, sacral canal and sacral hiatus.",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-10",
+              "sourceLine": 10
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-e199f39c0d",
+      "variants": [
+        {
+          "id": "v-e199f39c0d",
+          "answer": "Forms posterior wall of the pelvis.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-47",
+              "sourceLine": 47
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-2389607e0b",
+      "question": "Muscle attachments",
+      "preferredVariantId": "v-b90380f086",
+      "variants": [
+        {
+          "id": "v-b90380f086",
+          "answer": "Piriformis on pelvic surface; gluteus maximus and multifidus posteriorly; iliacus may arise from ala; pelvic floor muscles attach near lower lateral sacrum.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-511",
+              "sourceLine": 511
+            }
+          ]
+        },
+        {
+          "id": "v-72695980bc",
+          "answer": "Piriformis arises from the pelvic surface; gluteus maximus and multifidus attach posteriorly; pelvic floor muscles attach to the lower lateral sacrum.",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-11",
+              "sourceLine": 11
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-86e4e38754",
+      "question": "Orientation",
+      "preferredVariantId": "v-50358c4c4f",
+      "variants": [
+        {
+          "id": "v-50358c4c4f",
+          "answer": "Broad base superior, apex inferior; smooth concave surface anterior; rough crested surface posterior. Auricular surfaces face laterally.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-512",
+              "sourceLine": 512
+            }
+          ]
+        },
+        {
+          "id": "v-c5849b1de3",
+          "answer": "Broad base superior, apex inferior; smooth concave pelvic surface anterior, rough crested surface posterior.",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-12",
+              "sourceLine": 12
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "female-pelvis-model-mo8",
+      "section": "",
+      "path": [
+        "8"
+      ],
+      "label": "8"
+    },
+    {
+      "modelId": "lower-limb-model-ns10",
+      "section": "Bones",
+      "path": [
+        "69"
+      ],
+      "label": "69"
+    },
+    {
+      "modelId": "male-reproductive-system-model-ms2",
+      "section": "",
+      "path": [
+        "2"
+      ],
+      "label": "2"
+    }
+  ]
+}

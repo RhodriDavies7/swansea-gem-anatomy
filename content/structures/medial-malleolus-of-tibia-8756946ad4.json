@@ -1,0 +1,127 @@
+{
+  "id": "medial-malleolus-of-tibia-8756946ad4",
+  "name": "Medial malleolus (of tibia)",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Bones"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Attachments",
+    "Bone",
+    "BonyLandmark",
+    "Clinical",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-9a1d329cb8",
+      "variants": [
+        {
+          "id": "v-9a1d329cb8",
+          "answer": "Medial malleolus (of tibia)",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-600",
+              "sourceLine": 600
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-bcf605d6bb",
+      "question": "Bone",
+      "preferredVariantId": "v-41b99164a2",
+      "variants": [
+        {
+          "id": "v-41b99164a2",
+          "answer": "Distal tibia.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-601",
+              "sourceLine": 601
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6771ade6e8",
+      "question": "Attachments",
+      "preferredVariantId": "v-46d01e13d6",
+      "variants": [
+        {
+          "id": "v-46d01e13d6",
+          "answer": "Deltoid ligament; flexor retinaculum along posterior region.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-602",
+              "sourceLine": 602
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-4529b70fc8",
+      "variants": [
+        {
+          "id": "v-4529b70fc8",
+          "answer": "Forms medial ankle mortise and articulates with talus. Behind it run tibialis posterior, flexor digitorum longus, posterior tibial vessels, tibial nerve and flexor hallucis longus, from anterior to posterior.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-603",
+              "sourceLine": 603
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-b03737e3cd",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-1b229e19da",
+      "variants": [
+        {
+          "id": "v-1b229e19da",
+          "answer": "Fracture may accompany ankle instability; posterior tibial pulse lies behind it and tibial nerve can be compressed in tarsal tunnel.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-604",
+              "sourceLine": 604
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "lower-limb-model-ns10",
+      "section": "Bones",
+      "path": [
+        "84"
+      ],
+      "label": "84"
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "id": "dorsalis-pedis-artery-7af3edbb90",
+  "name": "Dorsalis pedis artery",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Arteries"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Cardiovascular"
+  ],
+  "organs": [],
+  "tags": [
+    "ArteriesAndNerves",
+    "Artery",
+    "Branches",
+    "Course",
+    "Origin",
+    "Supply"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-e1588203a5",
+      "variants": [
+        {
+          "id": "v-e1588203a5",
+          "answer": "Dorsalis pedis artery",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-323",
+              "sourceLine": 323
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-a893d0ba8c",
+      "variants": [
+        {
+          "id": "v-a893d0ba8c",
+          "answer": "Continuation of anterior tibial artery distal to ankle.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-324",
+              "sourceLine": 324
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-83d90bf729",
+      "variants": [
+        {
+          "id": "v-83d90bf729",
+          "answer": "Runs on dorsum of foot lateral to extensor hallucis longus tendon toward first intermetatarsal space.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-325",
+              "sourceLine": 325
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f578227926",
+      "question": "Branches",
+      "preferredVariantId": "v-86159ce8e1",
+      "variants": [
+        {
+          "id": "v-86159ce8e1",
+          "answer": "Gives lateral tarsal, arcuate, dorsal metatarsal and deep plantar branches.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-326",
+              "sourceLine": 326
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-222db0fc1c",
+      "question": "Supply",
+      "preferredVariantId": "v-3ef3693592",
+      "variants": [
+        {
+          "id": "v-3ef3693592",
+          "answer": "Dorsum of foot and contributes to plantar arch.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-327",
+              "sourceLine": 327
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "foot-model-ns9",
+      "section": "Arteries and nerves",
+      "path": [
+        "47"
+      ],
+      "label": "47"
+    }
+  ]
+}

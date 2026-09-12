@@ -1,0 +1,156 @@
+{
+  "id": "interventricular-foramen-ec3a9d03f1",
+  "name": "Interventricular foramen",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [],
+  "organs": [],
+  "tags": [
+    "AlsoCalled",
+    "Clinical",
+    "Connections",
+    "MidSagittal",
+    "MidlineStructures",
+    "Ventricle"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-5ff4913c59",
+      "variants": [
+        {
+          "id": "v-5ff4913c59",
+          "answer": "Interventricular foramen",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-347",
+              "sourceLine": 347
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-221",
+              "sourceLine": 221
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-4365b97418",
+      "question": "Also called",
+      "preferredVariantId": "v-20dc988184",
+      "variants": [
+        {
+          "id": "v-20dc988184",
+          "answer": "Foramen of Monro.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-348",
+              "sourceLine": 348
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-222",
+              "sourceLine": 222
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-8f3509b64e",
+      "question": "Connections",
+      "preferredVariantId": "v-23e8b02b07",
+      "variants": [
+        {
+          "id": "v-23e8b02b07",
+          "answer": "Connects each lateral ventricle with the third ventricle.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-349",
+              "sourceLine": 349
+            }
+          ]
+        },
+        {
+          "id": "v-7c271230fb",
+          "answer": "Connects each lateral ventricle with third ventricle.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-223",
+              "sourceLine": 223
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-b03737e3cd",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-fa46c0f418",
+      "variants": [
+        {
+          "id": "v-fa46c0f418",
+          "answer": "Obstruction can enlarge one or both lateral ventricles depending on site.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-350",
+              "sourceLine": 350
+            }
+          ]
+        },
+        {
+          "id": "v-673ab54008",
+          "answer": "Obstruction can enlarge one or both lateral ventricles.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-224",
+              "sourceLine": 224
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "coronal-and-mid-sagittal-head-mb20",
+      "section": "Other midline structures",
+      "path": [
+        "21"
+      ],
+      "label": "21"
+    },
+    {
+      "modelId": "half-head-and-neck-model-bs9",
+      "section": "Other midline structures",
+      "path": [
+        "21"
+      ],
+      "label": "21"
+    }
+  ]
+}

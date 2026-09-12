@@ -1,0 +1,329 @@
+{
+  "id": "trigeminal-nerve-cn-v-4edd7269fe",
+  "name": "Trigeminal nerve (CN V)",
+  "aliases": [
+    "Trigeminal nerve"
+  ],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Nerves"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [],
+  "tags": [
+    "Brain",
+    "Course",
+    "Lesion",
+    "Motor",
+    "Nerve",
+    "Roots",
+    "Sensory"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-c058c6c506",
+      "variants": [
+        {
+          "id": "v-c058c6c506",
+          "answer": "Trigeminal nerve (CN V)",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-172",
+              "sourceLine": 172
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-765",
+              "sourceLine": 765
+            }
+          ]
+        },
+        {
+          "id": "v-4cc4e88bb9",
+          "answer": "Trigeminal nerve",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-149",
+              "sourceLine": 149
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-4d78ec7d11",
+      "question": "Roots",
+      "preferredVariantId": "v-8921f7d2e7",
+      "variants": [
+        {
+          "id": "v-8921f7d2e7",
+          "answer": "Large sensory root and smaller motor root emerging from lateral pons.",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-173",
+              "sourceLine": 173
+            }
+          ]
+        },
+        {
+          "id": "v-1f50cb9080",
+          "answer": "Large sensory and small motor roots emerge from lateral pons.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-766",
+              "sourceLine": 766
+            }
+          ]
+        },
+        {
+          "id": "v-2322fc10e3",
+          "answer": "Large sensory root and smaller motor root emerging from the lateral pons.",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-150",
+              "sourceLine": 150
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-ede8dafa5b",
+      "variants": [
+        {
+          "id": "v-ede8dafa5b",
+          "answer": "Sensory root expands into trigeminal ganglion; divisions V1, V2 and V3 leave via superior orbital fissure, foramen rotundum and foramen ovale respectively.",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-174",
+              "sourceLine": 174
+            }
+          ]
+        },
+        {
+          "id": "v-29b703d268",
+          "answer": "Sensory root reaches trigeminal ganglion; divisions V1, V2 and V3 leave through superior orbital fissure, foramen rotundum and foramen ovale respectively.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-767",
+              "sourceLine": 767
+            }
+          ]
+        },
+        {
+          "id": "v-804e5719c1",
+          "answer": "Sensory root expands into the trigeminal ganglion; V1, V2 and V3 then leave the cranial cavity by different foramina.",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-151",
+              "sourceLine": 151
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-c8b6915183",
+      "question": "Motor functions",
+      "preferredVariantId": "v-16d2490d32",
+      "variants": [
+        {
+          "id": "v-16d2490d32",
+          "answer": "Motor fibres travel with V3 to muscles of mastication and selected first-arch muscles.",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-175",
+              "sourceLine": 175
+            }
+          ]
+        },
+        {
+          "id": "v-669522b2fd",
+          "answer": "Motor root travels with V3 to muscles of mastication and selected other muscles.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-768",
+              "sourceLine": 768
+            }
+          ]
+        },
+        {
+          "id": "v-75ed1b73c8",
+          "answer": "Motor fibres travel with V3 to muscles of mastication and selected first-pharyngeal-arch muscles.",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-152",
+              "sourceLine": 152
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-a453254382",
+      "question": "Sensory functions",
+      "preferredVariantId": "curated-a2fbe02e9e",
+      "variants": [
+        {
+          "id": "v-4be631f4ea",
+          "answer": "Major somatic sensory nerve of face, cornea, nasal/oral cavities, teeth and much of cranial dura.",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-176",
+              "sourceLine": 176
+            }
+          ]
+        },
+        {
+          "id": "v-df8401f10a",
+          "answer": "Principal sensory nerve of face; also cornea, oral/nasal cavities and general sensation from anterior two-thirds of tongue via V3.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-769",
+              "sourceLine": 769
+            }
+          ]
+        },
+        {
+          "id": "curated-a2fbe02e9e",
+          "answer": "Somatic sensation from the face, cornea, teeth, oral/nasal cavities and much of the cranial dura; general sensation from the anterior two-thirds of the tongue via V3.",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-176",
+              "sourceLine": 176
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-769",
+              "sourceLine": 769
+            }
+          ],
+          "editorial": true
+        },
+        {
+          "id": "v-70ec4568e7",
+          "answer": "Major somatic sensory nerve of face, oral/nasal cavities, teeth, cornea and much of cranial dura.",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-153",
+              "sourceLine": 153
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-bc53d10c57",
+      "question": "Lesion",
+      "preferredVariantId": "v-8573805e9d",
+      "variants": [
+        {
+          "id": "v-8573805e9d",
+          "answer": "May cause ipsilateral facial sensory loss; motor root involvement causes weakness of mastication with the jaw deviating toward the side of the lesion on opening; the corneal reflex afferent limb may be impaired if V1 is involved.",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-177",
+              "sourceLine": 177
+            },
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-154",
+              "sourceLine": 154
+            }
+          ]
+        },
+        {
+          "id": "v-5eacf622f9",
+          "answer": "May cause ipsilateral facial sensory loss; motor root involvement weakens mastication and jaw deviates toward the lesion.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-770",
+              "sourceLine": 770
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "cranial-floor-model-bs1",
+      "section": "",
+      "path": [
+        "28"
+      ],
+      "label": "28"
+    },
+    {
+      "modelId": "head-and-neck-model-cs17-2",
+      "section": "Internal brain structures and cranial nerves (1–26)",
+      "path": [
+        "19"
+      ],
+      "label": "19"
+    },
+    {
+      "modelId": "deep-face-model-bs8-1",
+      "section": "",
+      "path": [
+        "24"
+      ],
+      "label": "24"
+    }
+  ],
+  "redirectIds": [
+    "trigeminal-nerve-9aaa6f8d50"
+  ]
+}

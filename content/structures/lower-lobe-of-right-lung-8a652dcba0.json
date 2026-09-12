@@ -1,0 +1,154 @@
+{
+  "id": "lower-lobe-of-right-lung-8a652dcba0",
+  "name": "Lower lobe of right lung",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Respiratory"
+  ],
+  "organs": [
+    "Larynx"
+  ],
+  "tags": [
+    "Function",
+    "LungLobe",
+    "LungLobes",
+    "ModelNote",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-86e5bd7587",
+      "variants": [
+        {
+          "id": "v-86e5bd7587",
+          "answer": "Lower lobe of right lung",
+          "sources": [
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-111",
+              "sourceLine": 111
+            },
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-121",
+              "sourceLine": 121
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-c067a518cd",
+      "variants": [
+        {
+          "id": "v-c067a518cd",
+          "answer": "Inferior to oblique fissure and forms much of the diaphragmatic surface.",
+          "sources": [
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-112",
+              "sourceLine": 112
+            }
+          ]
+        },
+        {
+          "id": "v-e62f314f0e",
+          "answer": "Inferior to the oblique fissure.",
+          "sources": [
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-122",
+              "sourceLine": 122
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-81c2f69fec",
+      "variants": [
+        {
+          "id": "v-feaef24cbe",
+          "answer": "Contains superior and basal bronchopulmonary segments.",
+          "sources": [
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-113",
+              "sourceLine": 113
+            }
+          ]
+        },
+        {
+          "id": "v-81c2f69fec",
+          "answer": "Participates in gas exchange.",
+          "sources": [
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-123",
+              "sourceLine": 123
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-c0d9dc54c1",
+      "question": "Model note",
+      "preferredVariantId": "v-452986d8d5",
+      "variants": [
+        {
+          "id": "v-452986d8d5",
+          "answer": "The supplied model key labels number 15 as 'Lower lobe of right lung', duplicating number 13. This has been preserved exactly and should be checked against the physical model.",
+          "sources": [
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-124",
+              "sourceLine": 124
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+      "section": "Lung lobes",
+      "path": [
+        "13"
+      ],
+      "label": "13"
+    },
+    {
+      "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+      "section": "Lung lobes",
+      "path": [
+        "15"
+      ],
+      "label": "15"
+    }
+  ]
+}

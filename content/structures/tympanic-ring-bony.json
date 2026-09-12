@@ -1,0 +1,110 @@
+{
+  "id": "tympanic-ring-bony",
+  "name": "Tympanic ring (bony)",
+  "aliases": [
+    "Tympanic ring"
+  ],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Bones"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [
+    "Ear"
+  ],
+  "tags": [
+    "Bone",
+    "Structure",
+    "Relations",
+    "MiddleEar"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "curated-025c60cd43",
+      "variants": [
+        {
+          "id": "v-d8e51ec38c",
+          "answer": "Tympanic ring",
+          "sources": [
+            {
+              "modelId": "inner-ear-model-ds17",
+              "cardId": "inner-ear-model-ds17-10",
+              "sourceLine": 10
+            }
+          ]
+        },
+        {
+          "id": "curated-025c60cd43",
+          "answer": "Tympanic ring (bony)",
+          "sources": [
+            {
+              "modelId": "inner-ear-model-ds17",
+              "cardId": "inner-ear-model-ds17-10",
+              "sourceLine": 10
+            }
+          ],
+          "editorial": true
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-b254402390",
+      "variants": [
+        {
+          "id": "v-b254402390",
+          "answer": "Bony ring of temporal bone supporting much of the tympanic membrane.",
+          "sources": [
+            {
+              "modelId": "inner-ear-model-ds17",
+              "cardId": "inner-ear-model-ds17-11",
+              "sourceLine": 11
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-f570516fc1",
+      "variants": [
+        {
+          "id": "v-f570516fc1",
+          "answer": "Forms part of the external acoustic meatus and surrounds the tympanic membrane.",
+          "sources": [
+            {
+              "modelId": "inner-ear-model-ds17",
+              "cardId": "inner-ear-model-ds17-12",
+              "sourceLine": 12
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "inner-ear-model-ds17",
+      "section": "Tympanic membrane and ossicles",
+      "path": [
+        "2"
+      ],
+      "label": "2"
+    }
+  ]
+}

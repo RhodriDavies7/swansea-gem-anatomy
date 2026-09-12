@@ -1,0 +1,91 @@
+{
+  "id": "vomer-6e6f3c1ec1",
+  "name": "Vomer",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Bones"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Musculoskeletal",
+    "Respiratory"
+  ],
+  "organs": [],
+  "tags": [
+    "Articulations",
+    "Bone",
+    "Location",
+    "NasalSeptum"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-d3e3e30bfd",
+      "variants": [
+        {
+          "id": "v-d3e3e30bfd",
+          "answer": "Vomer",
+          "sources": [
+            {
+              "modelId": "nose-and-nasal-cavity-model-fs3",
+              "cardId": "nose-and-nasal-cavity-model-fs3-227",
+              "sourceLine": 227
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-5a81c267f5",
+      "variants": [
+        {
+          "id": "v-5a81c267f5",
+          "answer": "Posteroinferior bony part of the nasal septum.",
+          "sources": [
+            {
+              "modelId": "nose-and-nasal-cavity-model-fs3",
+              "cardId": "nose-and-nasal-cavity-model-fs3-228",
+              "sourceLine": 228
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-a40bee8d10",
+      "question": "Articulations",
+      "preferredVariantId": "v-53a429a531",
+      "variants": [
+        {
+          "id": "v-53a429a531",
+          "answer": "Articulates with sphenoid, ethmoid, maxillae and palatine bones.",
+          "sources": [
+            {
+              "modelId": "nose-and-nasal-cavity-model-fs3",
+              "cardId": "nose-and-nasal-cavity-model-fs3-229",
+              "sourceLine": 229
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "nose-and-nasal-cavity-model-fs3",
+      "section": "Nasal septum",
+      "path": [
+        "47"
+      ],
+      "label": "47"
+    }
+  ]
+}

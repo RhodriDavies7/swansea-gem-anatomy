@@ -1,0 +1,71 @@
+{
+  "id": "occipital-lobe-fd8c0271a3",
+  "name": "Occipital lobe",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [],
+  "tags": [
+    "Brain",
+    "CNS",
+    "Function"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-61a7b2bab8",
+      "variants": [
+        {
+          "id": "v-61a7b2bab8",
+          "answer": "Occipital lobe",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-628",
+              "sourceLine": 628
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-5401e507fd",
+      "variants": [
+        {
+          "id": "v-5401e507fd",
+          "answer": "Primary cortical region for vision.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-629",
+              "sourceLine": 629
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "head-and-neck-model-cs17-2",
+      "section": "Gross brain, meninges and venous structures (A–N)",
+      "path": [
+        "G"
+      ],
+      "label": "G"
+    }
+  ]
+}

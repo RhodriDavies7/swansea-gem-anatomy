@@ -1,0 +1,202 @@
+{
+  "id": "psoas-major-muscle-465fb8563e",
+  "name": "Psoas major muscle",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Lower limb",
+    "Pelvis"
+  ],
+  "systems": [
+    "Musculoskeletal",
+    "Reproductive"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-3bd57d41e1",
+      "variants": [
+        {
+          "id": "v-3bd57d41e1",
+          "answer": "Psoas major muscle",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-87",
+              "sourceLine": 87
+            },
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-3",
+              "sourceLine": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-dc9307ff4b",
+      "variants": [
+        {
+          "id": "v-622cbb1c9e",
+          "answer": "Flexes the hip and trunk; assists lateral rotation and stabilises lumbar spine.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-88",
+              "sourceLine": 88
+            }
+          ]
+        },
+        {
+          "id": "v-dc9307ff4b",
+          "answer": "Flexes the hip; with the femur fixed, flexes the trunk and laterally flexes the lumbar spine; stabilises the lumbar spine.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-4",
+              "sourceLine": 4
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-ccdfa3d01d",
+      "variants": [
+        {
+          "id": "v-bc53eaf85d",
+          "answer": "Anterior rami of L1–L3.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-89",
+              "sourceLine": 89
+            }
+          ]
+        },
+        {
+          "id": "v-ccdfa3d01d",
+          "answer": "Anterior rami of L1–L3 (sometimes L4).",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-5",
+              "sourceLine": 5
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-25c7aa3cad",
+      "variants": [
+        {
+          "id": "v-de8c76ae20",
+          "answer": "Bodies, discs and transverse processes of T12–L5.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-90",
+              "sourceLine": 90
+            }
+          ]
+        },
+        {
+          "id": "v-25c7aa3cad",
+          "answer": "Sides of T12–L5 vertebral bodies and intervening discs; transverse processes of L1–L5.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-6",
+              "sourceLine": 6
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-caf45c91d5",
+      "variants": [
+        {
+          "id": "v-caf45c91d5",
+          "answer": "Lesser trochanter via iliopsoas tendon.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-91",
+              "sourceLine": 91
+            }
+          ]
+        },
+        {
+          "id": "v-ebe195a05f",
+          "answer": "Lesser trochanter of femur via the iliopsoas tendon.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-7",
+              "sourceLine": 7
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "female-pelvis-model-mo8",
+      "section": "",
+      "path": [
+        "15"
+      ],
+      "label": "15"
+    },
+    {
+      "modelId": "lower-limb-model-ns10",
+      "section": "Muscles",
+      "path": [
+        "1"
+      ],
+      "label": "1"
+    }
+  ]
+}

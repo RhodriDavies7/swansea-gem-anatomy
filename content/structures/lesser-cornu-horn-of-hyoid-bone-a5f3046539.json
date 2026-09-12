@@ -1,0 +1,129 @@
+{
+  "id": "lesser-cornu-horn-of-hyoid-bone-a5f3046539",
+  "name": "Lesser cornu (horn) of hyoid bone",
+  "aliases": [
+    "Lesser horn (cornu) of hyoid bone"
+  ],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Bones"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Musculoskeletal",
+    "Respiratory"
+  ],
+  "organs": [
+    "Larynx"
+  ],
+  "tags": [
+    "Attachments",
+    "BonyLandmark",
+    "Larynx",
+    "CartilagesAndBones"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-d733e753cc",
+      "variants": [
+        {
+          "id": "v-d733e753cc",
+          "answer": "Lesser cornu (horn) of hyoid bone",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-13",
+              "sourceLine": 13
+            }
+          ]
+        },
+        {
+          "id": "v-ca1ef0e5e2",
+          "answer": "Lesser horn (cornu) of hyoid bone",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-14",
+              "sourceLine": 14
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-14",
+              "sourceLine": 14
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-6771ade6e8",
+      "question": "Attachments",
+      "preferredVariantId": "v-98eca26a6f",
+      "variants": [
+        {
+          "id": "v-98eca26a6f",
+          "answer": "Gives attachment to the stylohyoid ligament.",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-14",
+              "sourceLine": 14
+            },
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-15",
+              "sourceLine": 15
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-15",
+              "sourceLine": 15
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "larynx-and-tongue-model-gs4",
+      "section": "Larynx",
+      "path": [
+        "1",
+        "c"
+      ],
+      "label": "1c"
+    },
+    {
+      "modelId": "larynx-model-gs7",
+      "section": "Hyoid and laryngeal cartilages",
+      "path": [
+        "1",
+        "c"
+      ],
+      "label": "1c"
+    },
+    {
+      "modelId": "larynx-and-airway-model-gs5",
+      "section": "Hyoid and laryngeal cartilages",
+      "path": [
+        "1",
+        "c"
+      ],
+      "label": "1c"
+    }
+  ],
+  "redirectIds": [
+    "lesser-horn-cornu-of-hyoid-bone-e2d136b748"
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "id": "medial-deltoid-ligament-4026edfb14",
+  "name": "Medial (deltoid) ligament",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Ligaments"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Attachments",
+    "Function",
+    "Ligament",
+    "Ligaments",
+    "Parts"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-074f8c727a",
+      "variants": [
+        {
+          "id": "v-074f8c727a",
+          "answer": "Medial (deltoid) ligament",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-261",
+              "sourceLine": 261
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6771ade6e8",
+      "question": "Attachments",
+      "preferredVariantId": "v-94eeed71b3",
+      "variants": [
+        {
+          "id": "v-94eeed71b3",
+          "answer": "Broad ligament from medial malleolus to talus, calcaneus and navicular.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-262",
+              "sourceLine": 262
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-e374280917",
+      "question": "Parts",
+      "preferredVariantId": "v-47accb10f5",
+      "variants": [
+        {
+          "id": "v-47accb10f5",
+          "answer": "Includes tibionavicular, tibiocalcaneal, anterior tibiotalar and posterior tibiotalar components.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-263",
+              "sourceLine": 263
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-c4797c589c",
+      "variants": [
+        {
+          "id": "v-c4797c589c",
+          "answer": "Stabilises medial ankle and strongly resists excessive eversion.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-264",
+              "sourceLine": 264
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "foot-model-ns9",
+      "section": "Ligaments of the ankle joint",
+      "path": [
+        "38"
+      ],
+      "label": "38"
+    }
+  ]
+}

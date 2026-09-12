@@ -1,0 +1,147 @@
+{
+  "id": "pampiniform-plexus-baf4469b8b",
+  "name": "Pampiniform plexus",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Veins"
+  ],
+  "regions": [
+    "Pelvis"
+  ],
+  "systems": [
+    "Cardiovascular",
+    "Reproductive"
+  ],
+  "organs": [],
+  "tags": [
+    "Clinical",
+    "Course",
+    "Drainage",
+    "Formation",
+    "Function",
+    "Vein"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-204cf09698",
+      "variants": [
+        {
+          "id": "v-204cf09698",
+          "answer": "Pampiniform plexus",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-166",
+              "sourceLine": 166
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-bc0bd86b8f",
+      "question": "Formation",
+      "preferredVariantId": "v-e32402798c",
+      "variants": [
+        {
+          "id": "v-e32402798c",
+          "answer": "Network of veins in the spermatic cord draining the testis.",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-167",
+              "sourceLine": 167
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-36e444753e",
+      "variants": [
+        {
+          "id": "v-36e444753e",
+          "answer": "Veins converge superiorly to form the testicular vein.",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-168",
+              "sourceLine": 168
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-f8ce957b8f",
+      "variants": [
+        {
+          "id": "v-f8ce957b8f",
+          "answer": "Countercurrent heat exchange cools arterial blood entering the testis and helps maintain optimal temperature for spermatogenesis.",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-169",
+              "sourceLine": 169
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-74a64b1943",
+      "question": "Drainage",
+      "preferredVariantId": "v-d55390de0c",
+      "variants": [
+        {
+          "id": "v-d55390de0c",
+          "answer": "Right testicular vein drains to the IVC; left testicular vein drains to the left renal vein.",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-170",
+              "sourceLine": 170
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-b03737e3cd",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-bdd3dd8539",
+      "variants": [
+        {
+          "id": "v-bdd3dd8539",
+          "answer": "Dilatation forms a varicocele, more commonly on the left.",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-171",
+              "sourceLine": 171
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "male-reproductive-system-model-ms2",
+      "section": "",
+      "path": [
+        "17"
+      ],
+      "label": "17"
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "id": "aorta-97a15f94fe",
+  "name": "Aorta",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Arteries"
+  ],
+  "regions": [
+    "Head and neck",
+    "Thorax"
+  ],
+  "systems": [
+    "Cardiovascular",
+    "Respiratory"
+  ],
+  "organs": [
+    "Heart",
+    "Larynx"
+  ],
+  "tags": [
+    "Artery",
+    "AuriclesVesselsValves",
+    "Function",
+    "GreatVessels",
+    "Origin",
+    "Parts"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-7ed7cca943",
+      "variants": [
+        {
+          "id": "v-7ed7cca943",
+          "answer": "Aorta",
+          "sources": [
+            {
+              "modelId": "heart-model-hs5",
+              "cardId": "heart-model-hs5-97",
+              "sourceLine": 97
+            },
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-94",
+              "sourceLine": 94
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-256c2174fd",
+      "variants": [
+        {
+          "id": "v-256c2174fd",
+          "answer": "Arises from left ventricle through the aortic valve.",
+          "sources": [
+            {
+              "modelId": "heart-model-hs5",
+              "cardId": "heart-model-hs5-98",
+              "sourceLine": 98
+            }
+          ]
+        },
+        {
+          "id": "v-cb0d40912a",
+          "answer": "Arises from the left ventricle through the aortic valve.",
+          "sources": [
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-95",
+              "sourceLine": 95
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-e374280917",
+      "question": "Parts",
+      "preferredVariantId": "v-19ec76d87d",
+      "variants": [
+        {
+          "id": "v-19ec76d87d",
+          "answer": "Ascending aorta, arch of aorta and descending thoracic/abdominal aorta.",
+          "sources": [
+            {
+              "modelId": "heart-model-hs5",
+              "cardId": "heart-model-hs5-99",
+              "sourceLine": 99
+            },
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-96",
+              "sourceLine": 96
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-98f63cdfc3",
+      "variants": [
+        {
+          "id": "v-98f63cdfc3",
+          "answer": "Main systemic artery carrying oxygenated blood from the left ventricle.",
+          "sources": [
+            {
+              "modelId": "heart-model-hs5",
+              "cardId": "heart-model-hs5-100",
+              "sourceLine": 100
+            },
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-97",
+              "sourceLine": 97
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "heart-model-hs5",
+      "section": "Auricles, great vessels and valves",
+      "path": [
+        "i"
+      ],
+      "label": "i"
+    },
+    {
+      "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+      "section": "Great vessels",
+      "path": [
+        "10"
+      ],
+      "label": "10"
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "id": "semilunar-valves-a59411c471",
+  "name": "Semilunar valves",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Thorax"
+  ],
+  "systems": [
+    "Cardiovascular"
+  ],
+  "organs": [
+    "Heart"
+  ],
+  "tags": [
+    "AuriclesVesselsValves",
+    "Clinical",
+    "Components",
+    "Function",
+    "Structure",
+    "Valve"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-673c356ba8",
+      "variants": [
+        {
+          "id": "v-673c356ba8",
+          "answer": "Semilunar valves",
+          "sources": [
+            {
+              "modelId": "heart-model-hs5",
+              "cardId": "heart-model-hs5-103",
+              "sourceLine": 103
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9289473eee",
+      "question": "Components",
+      "preferredVariantId": "v-14758c7e21",
+      "variants": [
+        {
+          "id": "v-14758c7e21",
+          "answer": "The aortic and pulmonary valves are semilunar valves.",
+          "sources": [
+            {
+              "modelId": "heart-model-hs5",
+              "cardId": "heart-model-hs5-104",
+              "sourceLine": 104
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-82117314dc",
+      "variants": [
+        {
+          "id": "v-82117314dc",
+          "answer": "Each has three pocket-shaped cusps and no chordae tendineae or papillary muscle attachments.",
+          "sources": [
+            {
+              "modelId": "heart-model-hs5",
+              "cardId": "heart-model-hs5-105",
+              "sourceLine": 105
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-9bcf981ed9",
+      "variants": [
+        {
+          "id": "v-9bcf981ed9",
+          "answer": "Prevent backflow from the aorta and pulmonary trunk into the ventricles during diastole.",
+          "sources": [
+            {
+              "modelId": "heart-model-hs5",
+              "cardId": "heart-model-hs5-106",
+              "sourceLine": 106
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-b03737e3cd",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-4947f35849",
+      "variants": [
+        {
+          "id": "v-4947f35849",
+          "answer": "Aortic stenosis causes left ventricular pressure overload; pulmonary valve disease affects right ventricular outflow.",
+          "sources": [
+            {
+              "modelId": "heart-model-hs5",
+              "cardId": "heart-model-hs5-107",
+              "sourceLine": 107
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "heart-model-hs5",
+      "section": "Auricles, great vessels and valves",
+      "path": [
+        "k"
+      ],
+      "label": "k"
+    }
+  ]
+}

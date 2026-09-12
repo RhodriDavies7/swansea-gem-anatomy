@@ -1,0 +1,187 @@
+{
+  "id": "superficial-temporal-artery-15e7f20211",
+  "name": "Superficial temporal artery",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Arteries"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Cardiovascular"
+  ],
+  "organs": [],
+  "tags": [
+    "Artery",
+    "BloodVesselsAndNerves",
+    "Branches",
+    "Course",
+    "HeadNeck",
+    "Origin",
+    "Supply"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-51f21ae916",
+      "variants": [
+        {
+          "id": "v-51f21ae916",
+          "answer": "Superficial temporal artery",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-675",
+              "sourceLine": 675
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-456",
+              "sourceLine": 456
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-a2ed73f602",
+      "variants": [
+        {
+          "id": "v-a2ed73f602",
+          "answer": "Terminal branch of external carotid artery within parotid gland.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-676",
+              "sourceLine": 676
+            }
+          ]
+        },
+        {
+          "id": "v-44c8cdf933",
+          "answer": "Terminal branch of external carotid artery.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-457",
+              "sourceLine": 457
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-7ed1d59221",
+      "variants": [
+        {
+          "id": "v-7ed1d59221",
+          "answer": "Ascends anterior to ear over zygomatic arch into scalp.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-677",
+              "sourceLine": 677
+            }
+          ]
+        },
+        {
+          "id": "v-fdc92e29ba",
+          "answer": "Ascends anterior to ear over zygomatic arch.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-458",
+              "sourceLine": 458
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-222db0fc1c",
+      "question": "Supply",
+      "preferredVariantId": "v-32a7acfe98",
+      "variants": [
+        {
+          "id": "v-32a7acfe98",
+          "answer": "Lateral scalp and temporal region.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-678",
+              "sourceLine": 678
+            }
+          ]
+        },
+        {
+          "id": "v-6e4cbf9ed9",
+          "answer": "Lateral scalp.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-460",
+              "sourceLine": 460
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-f578227926",
+      "question": "Branches",
+      "preferredVariantId": "v-31a9e76e2a",
+      "variants": [
+        {
+          "id": "v-31a9e76e2a",
+          "answer": "Frontal and parietal branches.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-459",
+              "sourceLine": 459
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "half-head-and-neck-model-bs9",
+      "section": "Blood vessels and nerves",
+      "path": [
+        "63"
+      ],
+      "label": "63"
+    },
+    {
+      "modelId": "head-and-neck-model-cs17-2",
+      "section": "Arteries",
+      "path": [
+        "71"
+      ],
+      "label": "71"
+    }
+  ]
+}

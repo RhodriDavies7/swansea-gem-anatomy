@@ -1,0 +1,175 @@
+{
+  "id": "hyoepiglottic-ligament-e0f6877afe",
+  "name": "Hyoepiglottic ligament",
+  "aliases": [
+    "Hyo-epiglottic ligament"
+  ],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Ligaments"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Musculoskeletal",
+    "Respiratory"
+  ],
+  "organs": [
+    "Larynx"
+  ],
+  "tags": [
+    "Attachments",
+    "Function",
+    "InternalLarynx",
+    "Ligament",
+    "Larynx"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-8996043257",
+      "variants": [
+        {
+          "id": "v-8996043257",
+          "answer": "Hyoepiglottic ligament",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-233",
+              "sourceLine": 233
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-233",
+              "sourceLine": 233
+            }
+          ]
+        },
+        {
+          "id": "v-fc0f1edd6c",
+          "answer": "Hyo-epiglottic ligament",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-152",
+              "sourceLine": 152
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-6771ade6e8",
+      "question": "Attachments",
+      "preferredVariantId": "v-ddd1d23d5a",
+      "variants": [
+        {
+          "id": "v-ddd1d23d5a",
+          "answer": "Connects the anterior surface of the epiglottis to the body of the hyoid.",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-234",
+              "sourceLine": 234
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-234",
+              "sourceLine": 234
+            }
+          ]
+        },
+        {
+          "id": "v-f9d7cebc3e",
+          "answer": "Connects the epiglottis to the hyoid bone.",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-153",
+              "sourceLine": 153
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-dbf7860d58",
+      "variants": [
+        {
+          "id": "v-dbf7860d58",
+          "answer": "Helps anchor the epiglottis to the hyoid.",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-235",
+              "sourceLine": 235
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-235",
+              "sourceLine": 235
+            }
+          ]
+        },
+        {
+          "id": "v-a5c68b8948",
+          "answer": "Anchors the epiglottis superiorly/anteriorly.",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-154",
+              "sourceLine": 154
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "larynx-model-gs7",
+      "section": "Internal laryngeal structures and mucosa",
+      "path": [
+        "29"
+      ],
+      "label": "29"
+    },
+    {
+      "modelId": "larynx-and-airway-model-gs5",
+      "section": "Internal laryngeal structures and mucosa",
+      "path": [
+        "29"
+      ],
+      "label": "29"
+    },
+    {
+      "modelId": "larynx-and-tongue-model-gs4",
+      "section": "Larynx",
+      "path": [
+        "24"
+      ],
+      "label": "24"
+    }
+  ],
+  "redirectIds": [
+    "hyo-epiglottic-ligament-90782839e2"
+  ]
+}

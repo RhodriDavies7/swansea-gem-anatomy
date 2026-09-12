@@ -1,0 +1,90 @@
+{
+  "id": "tympanic-annulus-ef0001e2b4",
+  "name": "Tympanic annulus",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [],
+  "organs": [
+    "Ear"
+  ],
+  "tags": [
+    "ExternalEar",
+    "FibrousRing",
+    "Function",
+    "Structure"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-09d7ea95ca",
+      "variants": [
+        {
+          "id": "v-09d7ea95ca",
+          "answer": "Tympanic annulus",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-61",
+              "sourceLine": 61
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-46c9bd7325",
+      "variants": [
+        {
+          "id": "v-46c9bd7325",
+          "answer": "Fibrocartilaginous ring anchoring most of the tympanic membrane to the tympanic sulcus.",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-62",
+              "sourceLine": 62
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-432b5c9110",
+      "variants": [
+        {
+          "id": "v-432b5c9110",
+          "answer": "Supports and fixes the tympanic membrane at its periphery.",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-63",
+              "sourceLine": 63
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "ear-largest-model-ds1",
+      "section": "A. External ear",
+      "path": [
+        "12"
+      ],
+      "label": "12"
+    }
+  ]
+}

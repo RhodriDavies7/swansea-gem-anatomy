@@ -1,0 +1,128 @@
+{
+  "id": "posterior-cruciate-ligament-be20c6e509",
+  "name": "Posterior cruciate ligament",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Ligaments"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Attachments",
+    "Clinical",
+    "Function",
+    "Ligament",
+    "LigamentsAndMenisci",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-4c68d5f8cf",
+      "variants": [
+        {
+          "id": "v-4c68d5f8cf",
+          "answer": "Posterior cruciate ligament",
+          "sources": [
+            {
+              "modelId": "knee-joint-model-ns19",
+              "cardId": "knee-joint-model-ns19-58",
+              "sourceLine": 58
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6771ade6e8",
+      "question": "Attachments",
+      "preferredVariantId": "v-cb86b3ad09",
+      "variants": [
+        {
+          "id": "v-cb86b3ad09",
+          "answer": "From posterior intercondylar area of tibia to lateral surface of medial femoral condyle.",
+          "sources": [
+            {
+              "modelId": "knee-joint-model-ns19",
+              "cardId": "knee-joint-model-ns19-59",
+              "sourceLine": 59
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-9974f4ea93",
+      "variants": [
+        {
+          "id": "v-9974f4ea93",
+          "answer": "Prevents posterior translation of tibia relative to femur and limits hyperflexion.",
+          "sources": [
+            {
+              "modelId": "knee-joint-model-ns19",
+              "cardId": "knee-joint-model-ns19-60",
+              "sourceLine": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-83cbb88eb2",
+      "variants": [
+        {
+          "id": "v-83cbb88eb2",
+          "answer": "Intracapsular but extrasynovial and generally stronger than the ACL.",
+          "sources": [
+            {
+              "modelId": "knee-joint-model-ns19",
+              "cardId": "knee-joint-model-ns19-61",
+              "sourceLine": 61
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-b03737e3cd",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-1323d202de",
+      "variants": [
+        {
+          "id": "v-1323d202de",
+          "answer": "Dashboard-type trauma may rupture the PCL; posterior drawer test may be positive.",
+          "sources": [
+            {
+              "modelId": "knee-joint-model-ns19",
+              "cardId": "knee-joint-model-ns19-62",
+              "sourceLine": 62
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "knee-joint-model-ns19",
+      "section": "Ligaments and menisci",
+      "path": [
+        "9"
+      ],
+      "label": "9"
+    }
+  ]
+}

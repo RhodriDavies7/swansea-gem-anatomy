@@ -1,0 +1,92 @@
+{
+  "id": "apex-of-the-tongue-9a7063c941",
+  "name": "Apex of the tongue",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Respiratory"
+  ],
+  "organs": [
+    "Larynx"
+  ],
+  "tags": [
+    "Function",
+    "Location",
+    "Tongue",
+    "TonguePart"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-3f26b70718",
+      "variants": [
+        {
+          "id": "v-3f26b70718",
+          "answer": "Apex of the tongue",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-202",
+              "sourceLine": 202
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-b37f5a09b0",
+      "variants": [
+        {
+          "id": "v-b37f5a09b0",
+          "answer": "Anterior tip of the tongue.",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-203",
+              "sourceLine": 203
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-0cd8eec958",
+      "variants": [
+        {
+          "id": "v-0cd8eec958",
+          "answer": "Highly mobile part used in speech, manipulation of food and taste.",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-204",
+              "sourceLine": 204
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "larynx-and-tongue-model-gs4",
+      "section": "Tongue",
+      "path": [
+        "1"
+      ],
+      "label": "1"
+    }
+  ]
+}

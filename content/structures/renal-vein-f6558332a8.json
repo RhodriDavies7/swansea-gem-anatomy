@@ -1,0 +1,131 @@
+{
+  "id": "renal-vein-f6558332a8",
+  "name": "Renal vein",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Veins"
+  ],
+  "regions": [
+    "Abdomen"
+  ],
+  "systems": [
+    "Cardiovascular",
+    "Urinary"
+  ],
+  "organs": [
+    "Kidney"
+  ],
+  "tags": [
+    "Clinical",
+    "Course",
+    "Formation",
+    "Relations",
+    "RenalVessels",
+    "Vein"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-4de619d647",
+      "variants": [
+        {
+          "id": "v-4de619d647",
+          "answer": "Renal vein",
+          "sources": [
+            {
+              "modelId": "kidney-model-ls5",
+              "cardId": "kidney-model-ls5-18",
+              "sourceLine": 18
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-bc0bd86b8f",
+      "question": "Formation",
+      "preferredVariantId": "v-5277c1fbf5",
+      "variants": [
+        {
+          "id": "v-5277c1fbf5",
+          "answer": "Formed by convergence of intrarenal venous channels at the renal hilum.",
+          "sources": [
+            {
+              "modelId": "kidney-model-ls5",
+              "cardId": "kidney-model-ls5-19",
+              "sourceLine": 19
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-f0c248b52d",
+      "variants": [
+        {
+          "id": "v-f0c248b52d",
+          "answer": "Leaves the kidney anterior to the renal artery and drains into the inferior vena cava.",
+          "sources": [
+            {
+              "modelId": "kidney-model-ls5",
+              "cardId": "kidney-model-ls5-20",
+              "sourceLine": 20
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-9b828462a8",
+      "variants": [
+        {
+          "id": "v-9b828462a8",
+          "answer": "At the hilum the usual anterior-to-posterior arrangement is renal vein, renal artery, renal pelvis/ureter.",
+          "sources": [
+            {
+              "modelId": "kidney-model-ls5",
+              "cardId": "kidney-model-ls5-21",
+              "sourceLine": 21
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-b03737e3cd",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-425178e13f",
+      "variants": [
+        {
+          "id": "v-425178e13f",
+          "answer": "The left renal vein passes anterior to the aorta and beneath the superior mesenteric artery and may be compressed in nutcracker syndrome.",
+          "sources": [
+            {
+              "modelId": "kidney-model-ls5",
+              "cardId": "kidney-model-ls5-22",
+              "sourceLine": 22
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "kidney-model-ls5",
+      "section": "Renal vessels",
+      "path": [
+        "1"
+      ],
+      "label": "1"
+    }
+  ]
+}

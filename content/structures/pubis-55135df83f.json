@@ -1,0 +1,354 @@
+{
+  "id": "pubis-55135df83f",
+  "name": "Pubis",
+  "aliases": [
+    "Pubis bone",
+    "Pubic bone"
+  ],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Bones"
+  ],
+  "regions": [
+    "Lower limb",
+    "Pelvis"
+  ],
+  "systems": [
+    "Musculoskeletal",
+    "Reproductive"
+  ],
+  "organs": [],
+  "tags": [
+    "Articulations",
+    "Bone",
+    "Bones",
+    "Landmarks",
+    "Attachments",
+    "Orientation"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-e3a77ab2b8",
+      "variants": [
+        {
+          "id": "v-e3a77ab2b8",
+          "answer": "Pubis",
+          "sources": [
+            {
+              "modelId": "hip-joint-model-ns20",
+              "cardId": "hip-joint-model-ns20-12",
+              "sourceLine": 12
+            }
+          ]
+        },
+        {
+          "id": "v-8251d02f88",
+          "answer": "Pubis bone",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-2",
+              "sourceLine": 2
+            },
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-532",
+              "sourceLine": 532
+            }
+          ]
+        },
+        {
+          "id": "v-e39bb5682a",
+          "answer": "Pubic bone",
+          "sources": [
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-2",
+              "sourceLine": 2
+            },
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-2",
+              "sourceLine": 2
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-a40bee8d10",
+      "question": "Articulations",
+      "preferredVariantId": "v-531d26c902",
+      "variants": [
+        {
+          "id": "v-c88402e14b",
+          "answer": "Articulates with opposite pubis at pubic symphysis and contributes to acetabulum and obturator foramen.",
+          "sources": [
+            {
+              "modelId": "hip-joint-model-ns20",
+              "cardId": "hip-joint-model-ns20-13",
+              "sourceLine": 13
+            }
+          ]
+        },
+        {
+          "id": "v-29241de865",
+          "answer": "Articulates with the opposite pubis at the pubic symphysis and contributes to the acetabulum and obturator foramen.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-3",
+              "sourceLine": 3
+            }
+          ]
+        },
+        {
+          "id": "v-488f1bc966",
+          "answer": "Meets opposite pubis at pubic symphysis; fuses with ilium and ischium in hip bone and contributes to acetabulum articulating with femoral head.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-533",
+              "sourceLine": 533
+            }
+          ]
+        },
+        {
+          "id": "v-531d26c902",
+          "answer": "Articulates with the opposite pubis at the pubic symphysis; joins the ilium and ischium within the hip bone and contributes to the acetabulum.",
+          "sources": [
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-3",
+              "sourceLine": 3
+            }
+          ]
+        },
+        {
+          "id": "v-cd843f3f31",
+          "answer": "Articulates with the opposite pubis at the pubic symphysis; joins ilium and ischium within the hip bone and contributes to the acetabulum.",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-3",
+              "sourceLine": 3
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-626b6c1d45",
+      "question": "Landmarks",
+      "preferredVariantId": "v-3f2cdb1397",
+      "variants": [
+        {
+          "id": "v-cecc5f30c2",
+          "answer": "Body, superior ramus, inferior ramus, pubic crest and pubic tubercle.",
+          "sources": [
+            {
+              "modelId": "hip-joint-model-ns20",
+              "cardId": "hip-joint-model-ns20-14",
+              "sourceLine": 14
+            }
+          ]
+        },
+        {
+          "id": "v-8ac26eb140",
+          "answer": "Body, superior ramus, inferior ramus, pubic crest, pubic tubercle and pecten pubis.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-4",
+              "sourceLine": 4
+            }
+          ]
+        },
+        {
+          "id": "v-3f2cdb1397",
+          "answer": "Body, superior and inferior rami, pubic crest, pubic tubercle, pecten pubis and obturator groove.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-534",
+              "sourceLine": 534
+            }
+          ]
+        },
+        {
+          "id": "v-bf4670430c",
+          "answer": "Body, superior ramus, inferior ramus, pubic crest, pubic tubercle, pecten pubis and obturator groove.",
+          "sources": [
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-4",
+              "sourceLine": 4
+            },
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-4",
+              "sourceLine": 4
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-6771ade6e8",
+      "question": "Attachments",
+      "preferredVariantId": "v-261dd0e643",
+      "variants": [
+        {
+          "id": "v-261dd0e643",
+          "answer": "Provides attachment for adductor muscles, gracilis, rectus abdominis and pelvic/perineal structures.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-5",
+              "sourceLine": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-2389607e0b",
+      "question": "Muscle attachments",
+      "preferredVariantId": "v-37d8010295",
+      "variants": [
+        {
+          "id": "v-37d8010295",
+          "answer": "Pectineus on superior ramus; adductor longus on body; adductor brevis, gracilis and adductor magnus on body/inferior ramus; rectus abdominis on crest/symphysis; obturator muscles around obturator foramen.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-535",
+              "sourceLine": 535
+            }
+          ]
+        },
+        {
+          "id": "v-3996054970",
+          "answer": "Pectineus, adductor longus, adductor brevis, gracilis and part of adductor magnus attach to the pubis; rectus abdominis attaches near the pubic crest/symphysis.",
+          "sources": [
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-5",
+              "sourceLine": 5
+            },
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-5",
+              "sourceLine": 5
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-86e4e38754",
+      "question": "Orientation",
+      "preferredVariantId": "v-1b5d1db193",
+      "variants": [
+        {
+          "id": "v-1b5d1db193",
+          "answer": "Symphyseal surface faces medially; body is anterior; acetabular contribution faces laterally; superior ramus lies above obturator foramen.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-536",
+              "sourceLine": 536
+            }
+          ]
+        },
+        {
+          "id": "v-6406bd91e1",
+          "answer": "Symphyseal surface faces medially; body lies anteriorly; superior ramus lies above the obturator foramen.",
+          "sources": [
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-6",
+              "sourceLine": 6
+            },
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-6",
+              "sourceLine": 6
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "hip-joint-model-ns20",
+      "section": "Bones and bony landmarks",
+      "path": [
+        "1",
+        "b"
+      ],
+      "label": "1b"
+    },
+    {
+      "modelId": "female-pelvis-model-mo8",
+      "section": "",
+      "path": [
+        "1"
+      ],
+      "label": "1"
+    },
+    {
+      "modelId": "lower-limb-model-ns10",
+      "section": "Bones",
+      "path": [
+        "73"
+      ],
+      "label": "73"
+    },
+    {
+      "modelId": "female-reproductive-system-model-ms1",
+      "section": "",
+      "path": [
+        "1"
+      ],
+      "label": "1"
+    },
+    {
+      "modelId": "male-reproductive-system-model-ms2",
+      "section": "",
+      "path": [
+        "1"
+      ],
+      "label": "1"
+    }
+  ],
+  "redirectIds": [
+    "pubic-bone-9ac5e85192",
+    "pubis-bone-b54269f6be"
+  ]
+}

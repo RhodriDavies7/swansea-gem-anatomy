@@ -1,0 +1,147 @@
+{
+  "id": "buccal-branch-of-the-facial-nerve-059498e083",
+  "name": "Buccal branch of the facial nerve",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Nerves"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [],
+  "tags": [
+    "BloodVesselsAndNerves",
+    "Course",
+    "Lesion",
+    "Motor",
+    "Nerve",
+    "Roots",
+    "Sensory"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-ab03c3090a",
+      "variants": [
+        {
+          "id": "v-ab03c3090a",
+          "answer": "Buccal branch of the facial nerve",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-717",
+              "sourceLine": 717
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-4d78ec7d11",
+      "question": "Roots",
+      "preferredVariantId": "v-0f3f2a25a5",
+      "variants": [
+        {
+          "id": "v-0f3f2a25a5",
+          "answer": "Terminal motor branch of facial nerve within parotid plexus.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-718",
+              "sourceLine": 718
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-1a8d6e63e4",
+      "variants": [
+        {
+          "id": "v-1a8d6e63e4",
+          "answer": "Runs across masseter toward cheek and upper lip.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-719",
+              "sourceLine": 719
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c8b6915183",
+      "question": "Motor functions",
+      "preferredVariantId": "v-3583e0b387",
+      "variants": [
+        {
+          "id": "v-3583e0b387",
+          "answer": "Supplies buccinator and muscles of upper lip/nose region.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-720",
+              "sourceLine": 720
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-a453254382",
+      "question": "Sensory functions",
+      "preferredVariantId": "v-58bd02dda4",
+      "variants": [
+        {
+          "id": "v-58bd02dda4",
+          "answer": "No meaningful cutaneous sensory territory.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-721",
+              "sourceLine": 721
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-bc53d10c57",
+      "question": "Lesion",
+      "preferredVariantId": "v-d2a9c0810c",
+      "variants": [
+        {
+          "id": "v-d2a9c0810c",
+          "answer": "Lesion causes weakness of cheek compression and facial-expression muscles in the midface, potentially causing food to collect in the vestibule.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-722",
+              "sourceLine": 722
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "half-head-and-neck-model-bs9",
+      "section": "Blood vessels and nerves",
+      "path": [
+        "69"
+      ],
+      "label": "69"
+    }
+  ]
+}

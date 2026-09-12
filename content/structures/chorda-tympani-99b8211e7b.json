@@ -1,0 +1,187 @@
+{
+  "id": "chorda-tympani-99b8211e7b",
+  "name": "Chorda tympani",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Nerves"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [
+    "Ear"
+  ],
+  "tags": [
+    "Course",
+    "Lesion",
+    "MiddleEar",
+    "Nerve",
+    "Parasympathetic",
+    "Roots",
+    "Sensory"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-41bc87ac5f",
+      "variants": [
+        {
+          "id": "v-41bc87ac5f",
+          "answer": "Chorda tympani",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-182",
+              "sourceLine": 182
+            },
+            {
+              "modelId": "ear-model-ds3",
+              "cardId": "ear-model-ds3-84",
+              "sourceLine": 84
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-4d78ec7d11",
+      "question": "Roots",
+      "preferredVariantId": "v-ea51cbb508",
+      "variants": [
+        {
+          "id": "v-ea51cbb508",
+          "answer": "Branch of the facial nerve (CN VII).",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-183",
+              "sourceLine": 183
+            },
+            {
+              "modelId": "ear-model-ds3",
+              "cardId": "ear-model-ds3-85",
+              "sourceLine": 85
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-d472558374",
+      "variants": [
+        {
+          "id": "v-d472558374",
+          "answer": "Crosses the tympanic cavity between the malleus and incus, exits via petrotympanic fissure and joins the lingual nerve.",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-184",
+              "sourceLine": 184
+            },
+            {
+              "modelId": "ear-model-ds3",
+              "cardId": "ear-model-ds3-86",
+              "sourceLine": 86
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-a453254382",
+      "question": "Sensory functions",
+      "preferredVariantId": "v-977fc0a98d",
+      "variants": [
+        {
+          "id": "v-977fc0a98d",
+          "answer": "Carries taste from the anterior two-thirds of the tongue.",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-185",
+              "sourceLine": 185
+            },
+            {
+              "modelId": "ear-model-ds3",
+              "cardId": "ear-model-ds3-87",
+              "sourceLine": 87
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9f76a2a9d2",
+      "question": "Parasympathetic functions",
+      "preferredVariantId": "v-6275e1d1c3",
+      "variants": [
+        {
+          "id": "v-6275e1d1c3",
+          "answer": "Carries preganglionic fibres to the submandibular ganglion for submandibular and sublingual glands.",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-186",
+              "sourceLine": 186
+            },
+            {
+              "modelId": "ear-model-ds3",
+              "cardId": "ear-model-ds3-88",
+              "sourceLine": 88
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-bc53d10c57",
+      "question": "Lesion",
+      "preferredVariantId": "v-f0ac37f322",
+      "variants": [
+        {
+          "id": "v-f0ac37f322",
+          "answer": "Causes loss or reduction of taste from the anterior two-thirds of the tongue and reduced submandibular and sublingual salivary secretion; general tongue sensation is preserved if the lingual nerve itself is intact.",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-187",
+              "sourceLine": 187
+            },
+            {
+              "modelId": "ear-model-ds3",
+              "cardId": "ear-model-ds3-89",
+              "sourceLine": 89
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "ear-largest-model-ds1",
+      "section": "C. Middle ear",
+      "path": [
+        "29"
+      ],
+      "label": "29"
+    },
+    {
+      "modelId": "ear-model-ds3",
+      "section": "B. Middle ear",
+      "path": [
+        "11"
+      ],
+      "label": "11"
+    }
+  ]
+}

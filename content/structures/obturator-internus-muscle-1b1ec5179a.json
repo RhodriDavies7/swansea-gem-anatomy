@@ -1,0 +1,207 @@
+{
+  "id": "obturator-internus-muscle-1b1ec5179a",
+  "name": "Obturator internus muscle",
+  "aliases": [
+    "Obturator internus"
+  ],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Pelvis",
+    "Lower limb"
+  ],
+  "systems": [
+    "Musculoskeletal",
+    "Reproductive"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-a5220b78cf",
+      "variants": [
+        {
+          "id": "v-a5220b78cf",
+          "answer": "Obturator internus muscle",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-101",
+              "sourceLine": 101
+            }
+          ]
+        },
+        {
+          "id": "v-49fe27a123",
+          "answer": "Obturator internus",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-33",
+              "sourceLine": 33
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-bec78b9bbb",
+      "variants": [
+        {
+          "id": "v-bec78b9bbb",
+          "answer": "Laterally rotates extended thigh, abducts flexed thigh and stabilises hip.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-102",
+              "sourceLine": 102
+            }
+          ]
+        },
+        {
+          "id": "v-3f43763510",
+          "answer": "Laterally rotates the extended hip; abducts the flexed hip; stabilises the femoral head.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-34",
+              "sourceLine": 34
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-b4709d3c0d",
+      "variants": [
+        {
+          "id": "v-b4709d3c0d",
+          "answer": "Nerve to obturator internus (L5–S2).",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-103",
+              "sourceLine": 103
+            },
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-35",
+              "sourceLine": 35
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-ef439b02ea",
+      "variants": [
+        {
+          "id": "v-9609ae18f4",
+          "answer": "Pelvic surface of obturator membrane and surrounding bone.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-104",
+              "sourceLine": 104
+            }
+          ]
+        },
+        {
+          "id": "v-ef439b02ea",
+          "answer": "Pelvic surface of obturator membrane and surrounding pubis and ischium.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-36",
+              "sourceLine": 36
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-3237b294f2",
+      "variants": [
+        {
+          "id": "v-1fef36a8a2",
+          "answer": "Medial surface of greater trochanter.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-105",
+              "sourceLine": 105
+            }
+          ]
+        },
+        {
+          "id": "v-3237b294f2",
+          "answer": "Medial surface of greater trochanter, anterior to the trochanteric fossa, with the gemelli.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-37",
+              "sourceLine": 37
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "female-pelvis-model-mo8",
+      "section": "",
+      "path": [
+        "18"
+      ],
+      "label": "18"
+    },
+    {
+      "modelId": "lower-limb-model-ns10",
+      "section": "Muscles",
+      "path": [
+        "6"
+      ],
+      "label": "6"
+    }
+  ],
+  "redirectIds": [
+    "obturator-internus-d622762dd7"
+  ]
+}

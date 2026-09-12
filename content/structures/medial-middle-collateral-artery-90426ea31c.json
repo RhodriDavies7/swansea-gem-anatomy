@@ -1,0 +1,127 @@
+{
+  "id": "medial-middle-collateral-artery-90426ea31c",
+  "name": "Medial (middle) collateral artery",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Arteries"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [
+    "Cardiovascular"
+  ],
+  "organs": [],
+  "tags": [
+    "Artery",
+    "Course",
+    "Origin",
+    "Relations",
+    "Supply"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-783ab34872",
+      "variants": [
+        {
+          "id": "v-783ab34872",
+          "answer": "Medial (middle) collateral artery",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-321",
+              "sourceLine": 321
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-2222acd03a",
+      "variants": [
+        {
+          "id": "v-2222acd03a",
+          "answer": "Profunda brachii artery.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-322",
+              "sourceLine": 322
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-93117e0931",
+      "variants": [
+        {
+          "id": "v-93117e0931",
+          "answer": "Descends posteriorly toward elbow, usually with radial nerve branches.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-323",
+              "sourceLine": 323
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-222db0fc1c",
+      "question": "Supply",
+      "preferredVariantId": "v-2f6b55f464",
+      "variants": [
+        {
+          "id": "v-2f6b55f464",
+          "answer": "Posterior elbow region and triceps; contributes to periarticular elbow anastomosis.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-324",
+              "sourceLine": 324
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-3fadd5935d",
+      "variants": [
+        {
+          "id": "v-3fadd5935d",
+          "answer": "Anastomoses with recurrent interosseous artery.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-325",
+              "sourceLine": 325
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "upper-limb-model-ns15",
+      "section": "Arteries",
+      "path": [
+        "52"
+      ],
+      "label": "52"
+    }
+  ]
+}

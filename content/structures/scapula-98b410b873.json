@@ -1,0 +1,200 @@
+{
+  "id": "scapula-98b410b873",
+  "name": "Scapula",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Bones"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Articulations",
+    "Attachments",
+    "Bone",
+    "Landmarks",
+    "Orientation"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-4ee35b9c8e",
+      "variants": [
+        {
+          "id": "v-4ee35b9c8e",
+          "answer": "Scapula",
+          "sources": [
+            {
+              "modelId": "deep-shoulder-model-ns17",
+              "cardId": "deep-shoulder-model-ns17-2",
+              "sourceLine": 2
+            },
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-528",
+              "sourceLine": 528
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-a40bee8d10",
+      "question": "Articulations",
+      "preferredVariantId": "v-d1372b6435",
+      "variants": [
+        {
+          "id": "v-d1372b6435",
+          "answer": "Articulates with the humeral head at the glenohumeral joint and with the clavicle at the acromioclavicular joint.",
+          "sources": [
+            {
+              "modelId": "deep-shoulder-model-ns17",
+              "cardId": "deep-shoulder-model-ns17-3",
+              "sourceLine": 3
+            }
+          ]
+        },
+        {
+          "id": "v-4b0b752fb4",
+          "answer": "Humeral head at glenoid cavity and clavicle at acromioclavicular joint.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-529",
+              "sourceLine": 529
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-626b6c1d45",
+      "question": "Landmarks",
+      "preferredVariantId": "v-2052f3dde8",
+      "variants": [
+        {
+          "id": "v-2052f3dde8",
+          "answer": "Spine, acromion, coracoid process, glenoid cavity, supraglenoid and infraglenoid tubercles, supraspinous/infraspinous fossae, subscapular fossa, borders and angles.",
+          "sources": [
+            {
+              "modelId": "deep-shoulder-model-ns17",
+              "cardId": "deep-shoulder-model-ns17-4",
+              "sourceLine": 4
+            }
+          ]
+        },
+        {
+          "id": "v-74d01ad47d",
+          "answer": "Spine, acromion, coracoid process, glenoid cavity, supraglenoid/infraglenoid tubercles, supra- and infraspinous fossae, subscapular fossa, borders and angles.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-530",
+              "sourceLine": 530
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-2389607e0b",
+      "question": "Muscle attachments",
+      "preferredVariantId": "v-218ff508e5",
+      "variants": [
+        {
+          "id": "v-60dfc20776",
+          "answer": "Rotator cuff muscles, deltoid, trapezius, biceps/triceps long heads, coracobrachialis, pectoralis minor, rhomboids, levator scapulae and teres muscles attach to the scapula.",
+          "sources": [
+            {
+              "modelId": "deep-shoulder-model-ns17",
+              "cardId": "deep-shoulder-model-ns17-5",
+              "sourceLine": 5
+            }
+          ]
+        },
+        {
+          "id": "v-218ff508e5",
+          "answer": "Rotator cuff muscles, deltoid, trapezius, biceps/triceps long heads, coracobrachialis, pectoralis minor, rhomboids, levator scapulae, serratus anterior and teres muscles.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-531",
+              "sourceLine": 531
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-86e4e38754",
+      "question": "Orientation",
+      "preferredVariantId": "v-f63220ccaf",
+      "variants": [
+        {
+          "id": "v-f63220ccaf",
+          "answer": "Glenoid faces laterally; spine is posterior; subscapular fossa is anterior; inferior angle points down.",
+          "sources": [
+            {
+              "modelId": "deep-shoulder-model-ns17",
+              "cardId": "deep-shoulder-model-ns17-6",
+              "sourceLine": 6
+            }
+          ]
+        },
+        {
+          "id": "v-295e436f26",
+          "answer": "Glenoid faces laterally; spine and infraspinous fossa posteriorly; subscapular fossa anteriorly; inferior angle points down.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-532",
+              "sourceLine": 532
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "deep-shoulder-model-ns17",
+      "section": "",
+      "path": [
+        "1"
+      ],
+      "label": "1"
+    },
+    {
+      "modelId": "upper-limb-model-ns15",
+      "section": "Bones",
+      "path": [
+        "82"
+      ],
+      "label": "82"
+    }
+  ]
+}

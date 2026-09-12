@@ -1,0 +1,242 @@
+{
+  "id": "trapezius-muscle-1a155618e9",
+  "name": "Trapezius muscle",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Head and neck",
+    "Upper limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "AttachmentSite",
+    "Attachments",
+    "HeadNeck",
+    "HeadNeckMuscles",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-4c1210948c",
+      "variants": [
+        {
+          "id": "v-4c1210948c",
+          "answer": "Trapezius muscle",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-589",
+              "sourceLine": 589
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-342",
+              "sourceLine": 342
+            },
+            {
+              "modelId": "rotator-cuff-qs55-6",
+              "cardId": "rotator-cuff-qs55-6-21",
+              "sourceLine": 21
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-4f11fad079",
+      "variants": [
+        {
+          "id": "v-d5f83a88e6",
+          "answer": "Elevates, retracts and depresses scapula; rotates scapula upward.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-590",
+              "sourceLine": 590
+            }
+          ]
+        },
+        {
+          "id": "v-935648bf22",
+          "answer": "Elevates, retracts, depresses and upwardly rotates scapula.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-343",
+              "sourceLine": 343
+            }
+          ]
+        },
+        {
+          "id": "v-4f11fad079",
+          "answer": "Upper fibres elevate and upwardly rotate scapula; middle fibres retract; lower fibres depress and upwardly rotate.",
+          "sources": [
+            {
+              "modelId": "rotator-cuff-qs55-6",
+              "cardId": "rotator-cuff-qs55-6-23",
+              "sourceLine": 23
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-edbffbd324",
+      "variants": [
+        {
+          "id": "v-edbffbd324",
+          "answer": "Accessory nerve (CN XI) motor; C3–C4 proprioception.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-591",
+              "sourceLine": 591
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-344",
+              "sourceLine": 344
+            }
+          ]
+        },
+        {
+          "id": "v-5cab7ec2f5",
+          "answer": "Spinal accessory nerve (CN XI) motor, with C3–C4 proprioceptive fibres.",
+          "sources": [
+            {
+              "modelId": "rotator-cuff-qs55-6",
+              "cardId": "rotator-cuff-qs55-6-24",
+              "sourceLine": 24
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-d3613f857c",
+      "variants": [
+        {
+          "id": "v-d3613f857c",
+          "answer": "Occiput, nuchal ligament and spinous processes C7–T12.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-592",
+              "sourceLine": 592
+            }
+          ]
+        },
+        {
+          "id": "v-1bbef67a00",
+          "answer": "Occiput, nuchal ligament and C7–T12 spinous processes.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-345",
+              "sourceLine": 345
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-9c2a7bacdd",
+      "variants": [
+        {
+          "id": "v-9c2a7bacdd",
+          "answer": "Lateral clavicle, acromion and spine of scapula.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-593",
+              "sourceLine": 593
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-346",
+              "sourceLine": 346
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-531c9dad58",
+      "question": "Attachment on model",
+      "preferredVariantId": "v-73e07e95d5",
+      "variants": [
+        {
+          "id": "v-73e07e95d5",
+          "answer": "Inserts on lateral third of clavicle, acromion and spine of scapula.",
+          "sources": [
+            {
+              "modelId": "rotator-cuff-qs55-6",
+              "cardId": "rotator-cuff-qs55-6-22",
+              "sourceLine": 22
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "half-head-and-neck-model-bs9",
+      "section": "Musculature of the head and neck",
+      "path": [
+        "52"
+      ],
+      "label": "52"
+    },
+    {
+      "modelId": "head-and-neck-model-cs17-2",
+      "section": "Musculature of the head and neck",
+      "path": [
+        "55"
+      ],
+      "label": "55"
+    },
+    {
+      "modelId": "rotator-cuff-qs55-6",
+      "section": "Muscle attachment sites",
+      "path": [
+        "4"
+      ],
+      "label": "4"
+    }
+  ]
+}

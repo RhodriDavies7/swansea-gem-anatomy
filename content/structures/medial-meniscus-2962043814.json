@@ -1,0 +1,128 @@
+{
+  "id": "medial-meniscus-2962043814",
+  "name": "Medial meniscus",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [],
+  "organs": [],
+  "tags": [
+    "Attachments",
+    "Clinical",
+    "Function",
+    "LigamentsAndMenisci",
+    "Meniscus",
+    "Structure"
+  ],
+  "imageIds": [
+    "img-df6842250728"
+  ],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-dfde7fe251",
+      "variants": [
+        {
+          "id": "v-dfde7fe251",
+          "answer": "Medial meniscus",
+          "sources": [
+            {
+              "modelId": "knee-joint-model-ns19",
+              "cardId": "knee-joint-model-ns19-30",
+              "sourceLine": 30
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-a665f3ab4f",
+      "variants": [
+        {
+          "id": "v-a665f3ab4f",
+          "answer": "C-shaped fibrocartilage attached to tibial plateau; less mobile than lateral meniscus.",
+          "sources": [
+            {
+              "modelId": "knee-joint-model-ns19",
+              "cardId": "knee-joint-model-ns19-31",
+              "sourceLine": 31
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6771ade6e8",
+      "question": "Attachments",
+      "preferredVariantId": "v-b609543db7",
+      "variants": [
+        {
+          "id": "v-b609543db7",
+          "answer": "Firmly attached to joint capsule and medial collateral ligament.",
+          "sources": [
+            {
+              "modelId": "knee-joint-model-ns19",
+              "cardId": "knee-joint-model-ns19-32",
+              "sourceLine": 32
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-1474706dde",
+      "variants": [
+        {
+          "id": "v-1474706dde",
+          "answer": "Improves joint congruence, distributes load and absorbs shock.",
+          "sources": [
+            {
+              "modelId": "knee-joint-model-ns19",
+              "cardId": "knee-joint-model-ns19-33",
+              "sourceLine": 33
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-b03737e3cd",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-edbbba09c4",
+      "variants": [
+        {
+          "id": "v-edbbba09c4",
+          "answer": "More commonly injured than lateral meniscus, especially with twisting injuries involving valgus stress.",
+          "sources": [
+            {
+              "modelId": "knee-joint-model-ns19",
+              "cardId": "knee-joint-model-ns19-34",
+              "sourceLine": 34
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "knee-joint-model-ns19",
+      "section": "Ligaments and menisci",
+      "path": [
+        "5"
+      ],
+      "label": "5"
+    }
+  ]
+}

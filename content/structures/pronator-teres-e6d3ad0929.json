@@ -1,0 +1,129 @@
+{
+  "id": "pronator-teres-e6d3ad0929",
+  "name": "Pronator teres",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Origin"
+  ],
+  "imageIds": [
+    "img-a1a6a67396f1"
+  ],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-0a929fd731",
+      "variants": [
+        {
+          "id": "v-0a929fd731",
+          "answer": "Pronator teres",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-69",
+              "sourceLine": 69
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-0f109385ba",
+      "variants": [
+        {
+          "id": "v-0f109385ba",
+          "answer": "Pronates the forearm and weakly flexes the elbow.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-70",
+              "sourceLine": 70
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-c1afe21896",
+      "variants": [
+        {
+          "id": "v-c1afe21896",
+          "answer": "Median nerve (C6–C7).",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-71",
+              "sourceLine": 71
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-b040aeb030",
+      "variants": [
+        {
+          "id": "v-b040aeb030",
+          "answer": "Humeral head: medial epicondyle. Ulnar head: coronoid process.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-72",
+              "sourceLine": 72
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-bf8af7dacb",
+      "variants": [
+        {
+          "id": "v-bf8af7dacb",
+          "answer": "Lateral surface of mid-radius.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-73",
+              "sourceLine": 73
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "upper-limb-model-ns15",
+      "section": "Muscles",
+      "path": [
+        "12"
+      ],
+      "label": "12"
+    }
+  ]
+}

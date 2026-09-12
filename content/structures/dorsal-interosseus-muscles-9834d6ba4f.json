@@ -1,0 +1,127 @@
+{
+  "id": "dorsal-interosseus-muscles-9834d6ba4f",
+  "name": "Dorsal interosseus muscles",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-9066656cd1",
+      "variants": [
+        {
+          "id": "v-9066656cd1",
+          "answer": "Dorsal interosseus muscles",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-293",
+              "sourceLine": 293
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-3782871512",
+      "variants": [
+        {
+          "id": "v-3782871512",
+          "answer": "Abduct toes 2–4 relative to the second toe; assist metatarsophalangeal flexion and interphalangeal extension.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-294",
+              "sourceLine": 294
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-9630ec009b",
+      "variants": [
+        {
+          "id": "v-9630ec009b",
+          "answer": "Deep branch of lateral plantar nerve (S2–S3).",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-295",
+              "sourceLine": 295
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-b63184b624",
+      "variants": [
+        {
+          "id": "v-b63184b624",
+          "answer": "Adjacent sides of metatarsals 1–5; four bipennate muscles.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-296",
+              "sourceLine": 296
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-d1d9a46190",
+      "variants": [
+        {
+          "id": "v-d1d9a46190",
+          "answer": "First: medial base of second proximal phalanx. Others: lateral bases of proximal phalanges of toes 2–4; also extensor expansions.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-297",
+              "sourceLine": 297
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "lower-limb-model-ns10",
+      "section": "Muscles",
+      "path": [
+        "38"
+      ],
+      "label": "38"
+    }
+  ]
+}

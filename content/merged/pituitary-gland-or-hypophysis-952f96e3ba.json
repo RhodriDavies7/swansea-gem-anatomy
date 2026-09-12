@@ -1,0 +1,126 @@
+{
+  "id": "pituitary-gland-or-hypophysis-952f96e3ba",
+  "name": "Pituitary gland or hypophysis",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Organs"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [],
+  "organs": [],
+  "tags": [
+    "Function",
+    "Gland",
+    "Location",
+    "MidlineStructures",
+    "Parts",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-5a33c03ed2",
+      "variants": [
+        {
+          "id": "v-5a33c03ed2",
+          "answer": "Pituitary gland or hypophysis",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-164",
+              "sourceLine": 164
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-b706c870e2",
+      "variants": [
+        {
+          "id": "v-b706c870e2",
+          "answer": "In hypophyseal fossa of sella turcica, connected to hypothalamus by infundibulum.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-165",
+              "sourceLine": 165
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-e374280917",
+      "question": "Parts",
+      "preferredVariantId": "v-cc2529d26b",
+      "variants": [
+        {
+          "id": "v-cc2529d26b",
+          "answer": "Anterior pituitary and posterior pituitary.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-166",
+              "sourceLine": 166
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-d84239089f",
+      "variants": [
+        {
+          "id": "v-d84239089f",
+          "answer": "Controls multiple endocrine axes.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-167",
+              "sourceLine": 167
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-42f64785c1",
+      "variants": [
+        {
+          "id": "v-42f64785c1",
+          "answer": "Optic chiasm superior; sphenoidal sinus inferior; cavernous sinuses lateral.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-168",
+              "sourceLine": 168
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "half-head-and-neck-model-bs9",
+      "section": "Other midline structures",
+      "path": [
+        "11"
+      ],
+      "label": "11"
+    }
+  ]
+}

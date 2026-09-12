@@ -1,0 +1,127 @@
+{
+  "id": "superior-ulnar-collateral-artery-7dbf89d104",
+  "name": "Superior ulnar collateral artery",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Arteries"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [
+    "Cardiovascular"
+  ],
+  "organs": [],
+  "tags": [
+    "Artery",
+    "Course",
+    "Origin",
+    "Relations",
+    "Supply"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-75d73bf331",
+      "variants": [
+        {
+          "id": "v-75d73bf331",
+          "answer": "Superior ulnar collateral artery",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-333",
+              "sourceLine": 333
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-23fbfa1284",
+      "variants": [
+        {
+          "id": "v-23fbfa1284",
+          "answer": "Brachial artery in mid-arm.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-334",
+              "sourceLine": 334
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-23e4531f65",
+      "variants": [
+        {
+          "id": "v-23e4531f65",
+          "answer": "Descends with ulnar nerve posterior to medial epicondyle.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-335",
+              "sourceLine": 335
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-222db0fc1c",
+      "question": "Supply",
+      "preferredVariantId": "v-c311317cbe",
+      "variants": [
+        {
+          "id": "v-c311317cbe",
+          "answer": "Medial elbow region and adjacent muscles.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-336",
+              "sourceLine": 336
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-e65d032814",
+      "variants": [
+        {
+          "id": "v-e65d032814",
+          "answer": "Anastomoses with posterior ulnar recurrent artery.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-337",
+              "sourceLine": 337
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "upper-limb-model-ns15",
+      "section": "Arteries",
+      "path": [
+        "54"
+      ],
+      "label": "54"
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "id": "lateral-epicondyle-of-the-femur-618006220e",
+  "name": "Lateral epicondyle of the femur",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Bones"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Attachments",
+    "Bone",
+    "BonyLandmark",
+    "Clinical",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-b4b74b544e",
+      "variants": [
+        {
+          "id": "v-b4b74b544e",
+          "answer": "Lateral epicondyle of the femur",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-582",
+              "sourceLine": 582
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-bcf605d6bb",
+      "question": "Bone",
+      "preferredVariantId": "v-1246ccedf2",
+      "variants": [
+        {
+          "id": "v-1246ccedf2",
+          "answer": "Distal femur.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-583",
+              "sourceLine": 583
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6771ade6e8",
+      "question": "Attachments",
+      "preferredVariantId": "v-5878b4e5bb",
+      "variants": [
+        {
+          "id": "v-5878b4e5bb",
+          "answer": "Femoral attachment of fibular (lateral) collateral ligament.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-584",
+              "sourceLine": 584
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-7c3bc1509f",
+      "variants": [
+        {
+          "id": "v-7c3bc1509f",
+          "answer": "Lateral non-articular prominence; popliteus tendon arises in adjacent groove on lateral condyle, below/anterior to collateral attachment.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-585",
+              "sourceLine": 585
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-b03737e3cd",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-580f1b83e3",
+      "variants": [
+        {
+          "id": "v-580f1b83e3",
+          "answer": "Fibular collateral ligament resists varus stress; injury can cause lateral knee instability.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-586",
+              "sourceLine": 586
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "lower-limb-model-ns10",
+      "section": "Bones",
+      "path": [
+        "81"
+      ],
+      "label": "81"
+    }
+  ]
+}

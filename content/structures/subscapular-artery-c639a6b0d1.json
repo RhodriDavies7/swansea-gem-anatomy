@@ -1,0 +1,146 @@
+{
+  "id": "subscapular-artery-c639a6b0d1",
+  "name": "Subscapular artery",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Arteries"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [
+    "Cardiovascular"
+  ],
+  "organs": [],
+  "tags": [
+    "Artery",
+    "Branches",
+    "Course",
+    "Origin",
+    "Relations",
+    "Supply"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-a17d3e53f1",
+      "variants": [
+        {
+          "id": "v-a17d3e53f1",
+          "answer": "Subscapular artery",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-280",
+              "sourceLine": 280
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-97a0dc2125",
+      "variants": [
+        {
+          "id": "v-97a0dc2125",
+          "answer": "Third part of axillary artery.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-281",
+              "sourceLine": 281
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-3744abc5ca",
+      "variants": [
+        {
+          "id": "v-3744abc5ca",
+          "answer": "Descends along lateral border of scapula.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-282",
+              "sourceLine": 282
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f578227926",
+      "question": "Branches",
+      "preferredVariantId": "v-e7f26fa378",
+      "variants": [
+        {
+          "id": "v-e7f26fa378",
+          "answer": "Circumflex scapular and thoracodorsal arteries.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-283",
+              "sourceLine": 283
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-222db0fc1c",
+      "question": "Supply",
+      "preferredVariantId": "v-0a73455d5a",
+      "variants": [
+        {
+          "id": "v-0a73455d5a",
+          "answer": "Posterior axillary wall, scapular region and latissimus dorsi.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-284",
+              "sourceLine": 284
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-6b961400ec",
+      "variants": [
+        {
+          "id": "v-6b961400ec",
+          "answer": "Largest branch of axillary artery; participates in scapular anastomoses through circumflex scapular branch.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-285",
+              "sourceLine": 285
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "upper-limb-model-ns15",
+      "section": "Arteries",
+      "path": [
+        "46"
+      ],
+      "label": "46"
+    }
+  ]
+}

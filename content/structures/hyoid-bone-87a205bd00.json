@@ -1,0 +1,370 @@
+{
+  "id": "hyoid-bone-87a205bd00",
+  "name": "Hyoid bone",
+  "aliases": [
+    "Hyoid"
+  ],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Bones"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Musculoskeletal",
+    "Respiratory"
+  ],
+  "organs": [
+    "Larynx"
+  ],
+  "tags": [
+    "Articulations",
+    "BloodVesselsAndNerves",
+    "Bone",
+    "BonyStructures",
+    "CartilagesAndBones",
+    "Function",
+    "Landmarks",
+    "Larynx",
+    "LarynxAndAirway",
+    "MidSagittal",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-f641e56224",
+      "variants": [
+        {
+          "id": "v-f641e56224",
+          "answer": "Hyoid bone",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-210",
+              "sourceLine": 210
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-54",
+              "sourceLine": 54
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-809",
+              "sourceLine": 809
+            },
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-4",
+              "sourceLine": 4
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-4",
+              "sourceLine": 4
+            },
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-3",
+              "sourceLine": 3
+            },
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-45",
+              "sourceLine": 45
+            }
+          ]
+        },
+        {
+          "id": "v-504c3fde53",
+          "answer": "Hyoid",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-44",
+              "sourceLine": 44
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-a40bee8d10",
+      "question": "Articulations",
+      "preferredVariantId": "v-c5b4af2ac1",
+      "variants": [
+        {
+          "id": "v-c5b4af2ac1",
+          "answer": "Does not articulate directly with other bones; suspended by muscles and ligaments.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-211",
+              "sourceLine": 211
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-55",
+              "sourceLine": 55
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-810",
+              "sourceLine": 810
+            },
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-45",
+              "sourceLine": 45
+            }
+          ]
+        },
+        {
+          "id": "v-59f634585e",
+          "answer": "Does not articulate directly with any other bone; suspended by muscles and ligaments.",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-5",
+              "sourceLine": 5
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-5",
+              "sourceLine": 5
+            }
+          ]
+        },
+        {
+          "id": "v-43ba1e7b77",
+          "answer": "Does not articulate directly with another bone; suspended by muscles and ligaments.",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-4",
+              "sourceLine": 4
+            },
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-46",
+              "sourceLine": 46
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-626b6c1d45",
+      "question": "Landmarks",
+      "preferredVariantId": "v-c0673afb68",
+      "variants": [
+        {
+          "id": "v-c0673afb68",
+          "answer": "Body, greater horns and lesser horns.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-212",
+              "sourceLine": 212
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-56",
+              "sourceLine": 56
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-811",
+              "sourceLine": 811
+            },
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-46",
+              "sourceLine": 46
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-31bac85830",
+      "variants": [
+        {
+          "id": "v-31bac85830",
+          "answer": "Located in anterior neck around C3 level between mandible and thyroid cartilage.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-213",
+              "sourceLine": 213
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-57",
+              "sourceLine": 57
+            }
+          ]
+        },
+        {
+          "id": "v-fc97a4f6c9",
+          "answer": "Located in anterior neck around C3 between mandible and thyroid cartilage.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-812",
+              "sourceLine": 812
+            }
+          ]
+        },
+        {
+          "id": "v-f8b735f61a",
+          "answer": "Located in the anterior neck between the mandible and thyroid cartilage.",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-47",
+              "sourceLine": 47
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-a7b1cb8e88",
+      "variants": [
+        {
+          "id": "v-a7b1cb8e88",
+          "answer": "Provides attachment for tongue, suprahyoid and infrahyoid muscles and helps support the larynx.",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-6",
+              "sourceLine": 6
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-6",
+              "sourceLine": 6
+            }
+          ]
+        },
+        {
+          "id": "v-06a79c094b",
+          "answer": "Supports the tongue and larynx and provides attachment for suprahyoid and infrahyoid muscles.",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-5",
+              "sourceLine": 5
+            }
+          ]
+        },
+        {
+          "id": "v-1467657a25",
+          "answer": "Supports tongue and larynx and provides muscular attachment.",
+          "sources": [
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-47",
+              "sourceLine": 47
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "coronal-and-mid-sagittal-head-mb20",
+      "section": "Bony structures",
+      "path": [
+        "K"
+      ],
+      "label": "K"
+    },
+    {
+      "modelId": "half-head-and-neck-model-bs9",
+      "section": "Bony structures",
+      "path": [
+        "K"
+      ],
+      "label": "K"
+    },
+    {
+      "modelId": "half-head-and-neck-model-bs9",
+      "section": "Blood vessels and nerves",
+      "path": [
+        "81"
+      ],
+      "label": "81"
+    },
+    {
+      "modelId": "larynx-model-gs7",
+      "section": "Hyoid and laryngeal cartilages",
+      "path": [
+        "1"
+      ],
+      "label": "1"
+    },
+    {
+      "modelId": "larynx-and-airway-model-gs5",
+      "section": "Hyoid and laryngeal cartilages",
+      "path": [
+        "1"
+      ],
+      "label": "1"
+    },
+    {
+      "modelId": "larynx-and-tongue-model-gs4",
+      "section": "Larynx",
+      "path": [
+        "1"
+      ],
+      "label": "1"
+    },
+    {
+      "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+      "section": "Larynx and airway",
+      "path": [
+        "1"
+      ],
+      "label": "1"
+    },
+    {
+      "modelId": "deep-face-model-bs8-1",
+      "section": "",
+      "path": [
+        "8"
+      ],
+      "label": "8"
+    }
+  ],
+  "redirectIds": [
+    "hyoid-c1a29a57f6"
+  ]
+}

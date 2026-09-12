@@ -1,0 +1,150 @@
+{
+  "id": "inferior-pancreaticoduodenal-artery-104867dbcd",
+  "name": "Inferior pancreaticoduodenal artery",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Arteries"
+  ],
+  "regions": [
+    "Abdomen"
+  ],
+  "systems": [
+    "Cardiovascular",
+    "Digestive"
+  ],
+  "organs": [
+    "Pancreas"
+  ],
+  "tags": [
+    "Arteries",
+    "Artery",
+    "Branches",
+    "Connections",
+    "Course",
+    "Origin",
+    "Supply"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-596e99bf53",
+      "variants": [
+        {
+          "id": "v-596e99bf53",
+          "answer": "Inferior pancreaticoduodenal artery",
+          "sources": [
+            {
+              "modelId": "pancreas-model-js11",
+              "cardId": "pancreas-model-js11-117",
+              "sourceLine": 117
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-5e52fb2c92",
+      "variants": [
+        {
+          "id": "v-5e52fb2c92",
+          "answer": "Usually the first branch of the superior mesenteric artery.",
+          "sources": [
+            {
+              "modelId": "pancreas-model-js11",
+              "cardId": "pancreas-model-js11-118",
+              "sourceLine": 118
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-c559c1b3ee",
+      "variants": [
+        {
+          "id": "v-c559c1b3ee",
+          "answer": "Runs around the head of the pancreas and duodenum.",
+          "sources": [
+            {
+              "modelId": "pancreas-model-js11",
+              "cardId": "pancreas-model-js11-119",
+              "sourceLine": 119
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f578227926",
+      "question": "Branches",
+      "preferredVariantId": "v-85fa28c7ff",
+      "variants": [
+        {
+          "id": "v-85fa28c7ff",
+          "answer": "Typically divides into anterior and posterior branches.",
+          "sources": [
+            {
+              "modelId": "pancreas-model-js11",
+              "cardId": "pancreas-model-js11-120",
+              "sourceLine": 120
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-222db0fc1c",
+      "question": "Supply",
+      "preferredVariantId": "v-e0cde71ada",
+      "variants": [
+        {
+          "id": "v-e0cde71ada",
+          "answer": "Supplies the inferior pancreatic head and distal duodenum.",
+          "sources": [
+            {
+              "modelId": "pancreas-model-js11",
+              "cardId": "pancreas-model-js11-121",
+              "sourceLine": 121
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-8f3509b64e",
+      "question": "Connections",
+      "preferredVariantId": "v-89da15a96a",
+      "variants": [
+        {
+          "id": "v-89da15a96a",
+          "answer": "Anastomoses with superior pancreaticoduodenal branches, linking coeliac and SMA circulations.",
+          "sources": [
+            {
+              "modelId": "pancreas-model-js11",
+              "cardId": "pancreas-model-js11-122",
+              "sourceLine": 122
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "pancreas-model-js11",
+      "section": "Arteries",
+      "path": [
+        "14"
+      ],
+      "label": "14"
+    }
+  ]
+}

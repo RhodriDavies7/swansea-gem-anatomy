@@ -1,0 +1,90 @@
+{
+  "id": "posterior-tibiofibular-ligament-971599d464",
+  "name": "Posterior tibiofibular ligament",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Ligaments"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Attachments",
+    "Function",
+    "Ligament",
+    "Ligaments"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-47882a1305",
+      "variants": [
+        {
+          "id": "v-47882a1305",
+          "answer": "Posterior tibiofibular ligament",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-273",
+              "sourceLine": 273
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6771ade6e8",
+      "question": "Attachments",
+      "preferredVariantId": "v-e567735c30",
+      "variants": [
+        {
+          "id": "v-e567735c30",
+          "answer": "Connects posterior distal tibia to posterior distal fibula.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-274",
+              "sourceLine": 274
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-266a670187",
+      "variants": [
+        {
+          "id": "v-266a670187",
+          "answer": "Reinforces the posterior distal tibiofibular syndesmosis and stabilises the ankle mortise.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-275",
+              "sourceLine": 275
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "foot-model-ns9",
+      "section": "Ligaments of the ankle joint",
+      "path": [
+        "40"
+      ],
+      "label": "40"
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "id": "detrusor-muscle-85d4e67db4",
+  "name": "Detrusor muscle",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Abdomen"
+  ],
+  "systems": [
+    "Musculoskeletal",
+    "Urinary"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "Innervation",
+    "Muscle",
+    "Structure",
+    "UrinarySystem"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-733343f7c2",
+      "variants": [
+        {
+          "id": "v-733343f7c2",
+          "answer": "Detrusor muscle",
+          "sources": [
+            {
+              "modelId": "urinary-system-model-ls3-1",
+              "cardId": "urinary-system-model-ls3-1-31",
+              "sourceLine": 31
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-6397d1fd7b",
+      "variants": [
+        {
+          "id": "v-6397d1fd7b",
+          "answer": "Contracts to expel urine during micturition.",
+          "sources": [
+            {
+              "modelId": "urinary-system-model-ls3-1",
+              "cardId": "urinary-system-model-ls3-1-32",
+              "sourceLine": 32
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-47000ef3f5",
+      "variants": [
+        {
+          "id": "v-47000ef3f5",
+          "answer": "Smooth muscle forming most of the bladder wall.",
+          "sources": [
+            {
+              "modelId": "urinary-system-model-ls3-1",
+              "cardId": "urinary-system-model-ls3-1-33",
+              "sourceLine": 33
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-ef9d1089ae",
+      "variants": [
+        {
+          "id": "v-ef9d1089ae",
+          "answer": "Parasympathetic fibres from pelvic splanchnic nerves (S2–S4) promote contraction.",
+          "sources": [
+            {
+              "modelId": "urinary-system-model-ls3-1",
+              "cardId": "urinary-system-model-ls3-1-34",
+              "sourceLine": 34
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "urinary-system-model-ls3-1",
+      "section": "Major urinary structures",
+      "path": [
+        "6"
+      ],
+      "label": "6"
+    }
+  ]
+}

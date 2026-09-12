@@ -1,0 +1,111 @@
+{
+  "id": "left-hepatic-duct-87a23cdcbb",
+  "name": "Left hepatic duct",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Abdomen"
+  ],
+  "systems": [
+    "Digestive"
+  ],
+  "organs": [
+    "Liver"
+  ],
+  "tags": [
+    "BiliaryTree",
+    "Course",
+    "Duct",
+    "Formation",
+    "Termination"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-3ffc68874b",
+      "variants": [
+        {
+          "id": "v-3ffc68874b",
+          "answer": "Left hepatic duct",
+          "sources": [
+            {
+              "modelId": "liver-js5",
+              "cardId": "liver-js5-67",
+              "sourceLine": 67
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-bc0bd86b8f",
+      "question": "Formation",
+      "preferredVariantId": "v-270b51e6aa",
+      "variants": [
+        {
+          "id": "v-270b51e6aa",
+          "answer": "Collects bile from the functional left side of the liver.",
+          "sources": [
+            {
+              "modelId": "liver-js5",
+              "cardId": "liver-js5-68",
+              "sourceLine": 68
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-e04583879f",
+      "variants": [
+        {
+          "id": "v-e04583879f",
+          "answer": "Runs toward the porta hepatis.",
+          "sources": [
+            {
+              "modelId": "liver-js5",
+              "cardId": "liver-js5-69",
+              "sourceLine": 69
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-2ee8521886",
+      "question": "Termination",
+      "preferredVariantId": "v-43c2543dff",
+      "variants": [
+        {
+          "id": "v-43c2543dff",
+          "answer": "Joins the right hepatic duct to form the common hepatic duct.",
+          "sources": [
+            {
+              "modelId": "liver-js5",
+              "cardId": "liver-js5-70",
+              "sourceLine": 70
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "liver-js5",
+      "section": "Gallbladder and biliary tree",
+      "path": [
+        "11"
+      ],
+      "label": "11"
+    }
+  ]
+}

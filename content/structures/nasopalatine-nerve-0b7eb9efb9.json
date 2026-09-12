@@ -1,0 +1,108 @@
+{
+  "id": "nasopalatine-nerve-0b7eb9efb9",
+  "name": "Nasopalatine nerve",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Nerves"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [],
+  "tags": [
+    "Course",
+    "Nerve",
+    "Roots",
+    "Sensory"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-bde71aba0a",
+      "variants": [
+        {
+          "id": "v-bde71aba0a",
+          "answer": "Nasopalatine nerve",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-211",
+              "sourceLine": 211
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-4d78ec7d11",
+      "question": "Roots",
+      "preferredVariantId": "v-fb382e9d3f",
+      "variants": [
+        {
+          "id": "v-fb382e9d3f",
+          "answer": "Branch of maxillary nerve distribution via the pterygopalatine ganglion.",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-212",
+              "sourceLine": 212
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-c84ed080e5",
+      "variants": [
+        {
+          "id": "v-c84ed080e5",
+          "answer": "Enters nasal cavity through sphenopalatine foramen, crosses nasal septum and passes through incisive canal.",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-213",
+              "sourceLine": 213
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-a453254382",
+      "question": "Sensory functions",
+      "preferredVariantId": "v-8132bb76b9",
+      "variants": [
+        {
+          "id": "v-8132bb76b9",
+          "answer": "Supplies posterior/inferior nasal septum and anterior hard palate behind the incisors.",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-214",
+              "sourceLine": 214
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "deep-face-model-bs8-1",
+      "section": "",
+      "path": [
+        "33"
+      ],
+      "label": "33"
+    }
+  ]
+}

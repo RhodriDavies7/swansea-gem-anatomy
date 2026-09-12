@@ -1,0 +1,108 @@
+{
+  "id": "superior-petrosal-sinus-4789071586",
+  "name": "Superior petrosal sinus",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Veins"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Cardiovascular"
+  ],
+  "organs": [],
+  "tags": [
+    "Drainage",
+    "Location",
+    "Relations",
+    "VenousSinus"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-32667ecf38",
+      "variants": [
+        {
+          "id": "v-32667ecf38",
+          "answer": "Superior petrosal sinus",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-14",
+              "sourceLine": 14
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-1b96d49248",
+      "variants": [
+        {
+          "id": "v-1b96d49248",
+          "answer": "Runs along the superior border of the petrous temporal bone in the attached margin of the tentorium cerebelli.",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-15",
+              "sourceLine": 15
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-74a64b1943",
+      "question": "Drainage",
+      "preferredVariantId": "v-4835ac9bc8",
+      "variants": [
+        {
+          "id": "v-4835ac9bc8",
+          "answer": "Connects the cavernous sinus with the transverse-sigmoid sinus junction.",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-16",
+              "sourceLine": 16
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-6ef17b9794",
+      "variants": [
+        {
+          "id": "v-6ef17b9794",
+          "answer": "Closely related to the trigeminal root and petrous ridge.",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-17",
+              "sourceLine": 17
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "cranial-floor-model-bs1",
+      "section": "",
+      "path": [
+        "3"
+      ],
+      "label": "3"
+    }
+  ]
+}

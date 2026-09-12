@@ -1,0 +1,94 @@
+{
+  "id": "pars-recta-of-cricothyroid-muscle-ac57d57160",
+  "name": "Pars recta of cricothyroid muscle",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Musculoskeletal",
+    "Respiratory"
+  ],
+  "organs": [
+    "Larynx"
+  ],
+  "tags": [
+    "Function",
+    "MusclePart",
+    "Muscles"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-731ccb5293",
+      "variants": [
+        {
+          "id": "v-731ccb5293",
+          "answer": "Pars recta of cricothyroid muscle",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-116",
+              "sourceLine": 116
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-116",
+              "sourceLine": 116
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-5eb472147f",
+      "variants": [
+        {
+          "id": "v-5eb472147f",
+          "answer": "More vertical fibres contributing to thyroid-cricoid movement and vocal-fold tension.",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-117",
+              "sourceLine": 117
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-117",
+              "sourceLine": 117
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "larynx-model-gs7",
+      "section": "Laryngeal and airway muscles",
+      "path": [
+        "16",
+        "a"
+      ],
+      "label": "16a"
+    },
+    {
+      "modelId": "larynx-and-airway-model-gs5",
+      "section": "Laryngeal and airway muscles",
+      "path": [
+        "16",
+        "a"
+      ],
+      "label": "16a"
+    }
+  ]
+}

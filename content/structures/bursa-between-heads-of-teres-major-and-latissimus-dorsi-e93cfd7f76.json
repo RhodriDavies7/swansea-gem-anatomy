@@ -1,0 +1,106 @@
+{
+  "id": "bursa-between-heads-of-teres-major-and-latissimus-dorsi-e93cfd7f76",
+  "name": "Bursa between heads of teres major and latissimus dorsi",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [],
+  "organs": [],
+  "tags": [
+    "Bursa",
+    "Function",
+    "Location",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-74c8c6a4fb",
+      "variants": [
+        {
+          "id": "v-74c8c6a4fb",
+          "answer": "Bursa between heads of teres major and latissimus dorsi",
+          "sources": [
+            {
+              "modelId": "deep-shoulder-model-ns17",
+              "cardId": "deep-shoulder-model-ns17-120",
+              "sourceLine": 120
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-92a18d99ef",
+      "variants": [
+        {
+          "id": "v-92a18d99ef",
+          "answer": "Lies between the adjacent tendinous/muscular portions of teres major and latissimus dorsi near their humeral insertions.",
+          "sources": [
+            {
+              "modelId": "deep-shoulder-model-ns17",
+              "cardId": "deep-shoulder-model-ns17-121",
+              "sourceLine": 121
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-fb99f54500",
+      "variants": [
+        {
+          "id": "v-fb99f54500",
+          "answer": "Reduces friction between teres major and latissimus dorsi during shoulder movement.",
+          "sources": [
+            {
+              "modelId": "deep-shoulder-model-ns17",
+              "cardId": "deep-shoulder-model-ns17-122",
+              "sourceLine": 122
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-e0b3b08c49",
+      "variants": [
+        {
+          "id": "v-e0b3b08c49",
+          "answer": "Located near the medial and floor regions of the intertubercular sulcus where teres major and latissimus dorsi insert.",
+          "sources": [
+            {
+              "modelId": "deep-shoulder-model-ns17",
+              "cardId": "deep-shoulder-model-ns17-123",
+              "sourceLine": 123
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "deep-shoulder-model-ns17",
+      "section": "",
+      "path": [
+        "18"
+      ],
+      "label": "18"
+    }
+  ]
+}

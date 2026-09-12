@@ -1,0 +1,127 @@
+{
+  "id": "supinator-47231e8d06",
+  "name": "Supinator",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-d594099458",
+      "variants": [
+        {
+          "id": "v-d594099458",
+          "answer": "Supinator",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-148",
+              "sourceLine": 148
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-5a848398dc",
+      "variants": [
+        {
+          "id": "v-5a848398dc",
+          "answer": "Supinates the forearm, especially during unresisted or slow supination.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-149",
+              "sourceLine": 149
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-9862bab38d",
+      "variants": [
+        {
+          "id": "v-9862bab38d",
+          "answer": "Deep branch of radial nerve (C6–C7).",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-150",
+              "sourceLine": 150
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-798d5050c7",
+      "variants": [
+        {
+          "id": "v-798d5050c7",
+          "answer": "Lateral epicondyle, radial collateral and annular ligaments, supinator crest and fossa of ulna.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-151",
+              "sourceLine": 151
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-dd963bee74",
+      "variants": [
+        {
+          "id": "v-dd963bee74",
+          "answer": "Lateral, posterior and anterior surfaces of proximal third of radius.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-152",
+              "sourceLine": 152
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "upper-limb-model-ns15",
+      "section": "Muscles",
+      "path": [
+        "25"
+      ],
+      "label": "25"
+    }
+  ]
+}

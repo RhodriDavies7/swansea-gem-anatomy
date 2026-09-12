@@ -1,0 +1,92 @@
+{
+  "id": "submucosa-87644276d4",
+  "name": "Submucosa",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Abdomen"
+  ],
+  "systems": [
+    "Digestive"
+  ],
+  "organs": [
+    "Stomach"
+  ],
+  "tags": [
+    "Function",
+    "MucosaAndGlands",
+    "Structure",
+    "Submucosa"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-c7e7fc07e0",
+      "variants": [
+        {
+          "id": "v-c7e7fc07e0",
+          "answer": "Submucosa",
+          "sources": [
+            {
+              "modelId": "stomach-model-ns15",
+              "cardId": "stomach-model-ns15-117",
+              "sourceLine": 117
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-d26bb4085e",
+      "variants": [
+        {
+          "id": "v-d26bb4085e",
+          "answer": "Dense connective tissue layer beneath the mucosa containing vessels, lymphatics and submucosal nerve plexus.",
+          "sources": [
+            {
+              "modelId": "stomach-model-ns15",
+              "cardId": "stomach-model-ns15-118",
+              "sourceLine": 118
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-1ce0a7bc05",
+      "variants": [
+        {
+          "id": "v-1ce0a7bc05",
+          "answer": "Supports the mucosa and permits formation of rugae.",
+          "sources": [
+            {
+              "modelId": "stomach-model-ns15",
+              "cardId": "stomach-model-ns15-119",
+              "sourceLine": 119
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "stomach-model-ns15",
+      "section": "Mucosa and glands",
+      "path": [
+        "19"
+      ],
+      "label": "19"
+    }
+  ]
+}

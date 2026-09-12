@@ -1,0 +1,125 @@
+{
+  "id": "subcoracoid-bursa-81a82c5f13",
+  "name": "Subcoracoid bursa",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [],
+  "organs": [],
+  "tags": [
+    "Bursa",
+    "Clinical",
+    "Function",
+    "Location",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-49aab7948b",
+      "variants": [
+        {
+          "id": "v-49aab7948b",
+          "answer": "Subcoracoid bursa",
+          "sources": [
+            {
+              "modelId": "deep-shoulder-model-ns17",
+              "cardId": "deep-shoulder-model-ns17-113",
+              "sourceLine": 113
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-c8532b78a9",
+      "variants": [
+        {
+          "id": "v-c8532b78a9",
+          "answer": "Lies beneath the coracoid process, between it and adjacent subscapularis/capsular structures.",
+          "sources": [
+            {
+              "modelId": "deep-shoulder-model-ns17",
+              "cardId": "deep-shoulder-model-ns17-114",
+              "sourceLine": 114
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-ed6f83d5a3",
+      "variants": [
+        {
+          "id": "v-ed6f83d5a3",
+          "answer": "Reduces friction between structures moving beneath the coracoid process.",
+          "sources": [
+            {
+              "modelId": "deep-shoulder-model-ns17",
+              "cardId": "deep-shoulder-model-ns17-115",
+              "sourceLine": 115
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-6dbbb9d64f",
+      "variants": [
+        {
+          "id": "v-6dbbb9d64f",
+          "answer": "Related to the subscapularis tendon and anterior shoulder capsule; may communicate variably with nearby bursae or joint recesses.",
+          "sources": [
+            {
+              "modelId": "deep-shoulder-model-ns17",
+              "cardId": "deep-shoulder-model-ns17-116",
+              "sourceLine": 116
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-b03737e3cd",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-a44baedcef",
+      "variants": [
+        {
+          "id": "v-a44baedcef",
+          "answer": "Can become inflamed and contribute to anterior shoulder pain.",
+          "sources": [
+            {
+              "modelId": "deep-shoulder-model-ns17",
+              "cardId": "deep-shoulder-model-ns17-117",
+              "sourceLine": 117
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "deep-shoulder-model-ns17",
+      "section": "",
+      "path": [
+        "17"
+      ],
+      "label": "17"
+    }
+  ]
+}

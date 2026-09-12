@@ -1,0 +1,127 @@
+{
+  "id": "2nd-metacarpal-bone-5208cb604d",
+  "name": "2nd metacarpal bone",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Bones"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Articulations",
+    "Attachments",
+    "Bone",
+    "Landmarks",
+    "Orientation"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-3dc788f1b1",
+      "variants": [
+        {
+          "id": "v-3dc788f1b1",
+          "answer": "2nd metacarpal bone",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-602",
+              "sourceLine": 602
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-a40bee8d10",
+      "question": "Articulations",
+      "preferredVariantId": "v-747bfaafd6",
+      "variants": [
+        {
+          "id": "v-747bfaafd6",
+          "answer": "Trapezoid mainly, with trapezium/capitate and adjacent metacarpal bases variably; proximal phalanx of index finger distally.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-603",
+              "sourceLine": 603
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-626b6c1d45",
+      "question": "Landmarks",
+      "preferredVariantId": "v-821668c544",
+      "variants": [
+        {
+          "id": "v-821668c544",
+          "answer": "Base, shaft and head.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-604",
+              "sourceLine": 604
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-2389607e0b",
+      "question": "Muscle attachments",
+      "preferredVariantId": "v-7107d91400",
+      "variants": [
+        {
+          "id": "v-7107d91400",
+          "answer": "Flexor carpi radialis and extensor carpi radialis longus insert at base; dorsal and palmar interossei arise from shaft surfaces.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-605",
+              "sourceLine": 605
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-86e4e38754",
+      "question": "Orientation",
+      "preferredVariantId": "v-2cd506be82",
+      "variants": [
+        {
+          "id": "v-2cd506be82",
+          "answer": "Base proximal, rounded head distal; radial side belongs toward thumb; shaft lies between first and third metacarpals.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-606",
+              "sourceLine": 606
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "upper-limb-model-ns15",
+      "section": "Bones",
+      "path": [
+        "94"
+      ],
+      "label": "94"
+    }
+  ]
+}

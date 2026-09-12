@@ -1,0 +1,129 @@
+{
+  "id": "dorsal-branch-of-the-ulnar-nerve-fdce6ce580",
+  "name": "Dorsal branch of the ulnar nerve",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Nerves"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [],
+  "tags": [
+    "ArteriesAndNerves",
+    "Course",
+    "Lesion",
+    "NerveBranch",
+    "Origin",
+    "Sensory"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-0511487b26",
+      "variants": [
+        {
+          "id": "v-0511487b26",
+          "answer": "Dorsal branch of the ulnar nerve",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-235",
+              "sourceLine": 235
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-a8c26ccd70",
+      "variants": [
+        {
+          "id": "v-a8c26ccd70",
+          "answer": "Arises from the ulnar nerve in the distal forearm proximal to the wrist.",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-236",
+              "sourceLine": 236
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-b06a419cdc",
+      "variants": [
+        {
+          "id": "v-b06a419cdc",
+          "answer": "Passes dorsally around the ulna to the dorsomedial hand.",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-237",
+              "sourceLine": 237
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-a453254382",
+      "question": "Sensory functions",
+      "preferredVariantId": "v-c17743b366",
+      "variants": [
+        {
+          "id": "v-c17743b366",
+          "answer": "Supplies dorsomedial hand and dorsal aspects of medial 1½ digits, mainly proximal to the nail beds.",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-238",
+              "sourceLine": 238
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-bc53d10c57",
+      "question": "Lesion",
+      "preferredVariantId": "v-d9093a2297",
+      "variants": [
+        {
+          "id": "v-d9093a2297",
+          "answer": "Causes sensory loss or paraesthesia over the dorsomedial hand and dorsal medial 1½ digits without intrinsic hand weakness if the branch alone is affected.",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-239",
+              "sourceLine": 239
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "hand-model-ns13",
+      "section": "Arteries and nerves",
+      "path": [
+        "6",
+        "b"
+      ],
+      "label": "6b"
+    }
+  ]
+}

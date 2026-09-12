@@ -1,0 +1,108 @@
+{
+  "id": "lactiferous-sinus-wider-black-part-1490844fea",
+  "name": "Lactiferous sinus (wider black part)",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Thorax"
+  ],
+  "systems": [],
+  "organs": [
+    "Breast"
+  ],
+  "tags": [
+    "Duct",
+    "Function",
+    "Relations",
+    "Structure"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-ffe252f10f",
+      "variants": [
+        {
+          "id": "v-ffe252f10f",
+          "answer": "Lactiferous sinus (wider black part)",
+          "sources": [
+            {
+              "modelId": "breast-model-ms7",
+              "cardId": "breast-model-ms7-20",
+              "sourceLine": 20
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-cb05664f31",
+      "variants": [
+        {
+          "id": "v-cb05664f31",
+          "answer": "Dilated portion of a lactiferous duct near the nipple.",
+          "sources": [
+            {
+              "modelId": "breast-model-ms7",
+              "cardId": "breast-model-ms7-21",
+              "sourceLine": 21
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-f071fad1af",
+      "variants": [
+        {
+          "id": "v-f071fad1af",
+          "answer": "Traditionally described as a small reservoir for milk near the nipple.",
+          "sources": [
+            {
+              "modelId": "breast-model-ms7",
+              "cardId": "breast-model-ms7-22",
+              "sourceLine": 22
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-943e8b7b85",
+      "variants": [
+        {
+          "id": "v-943e8b7b85",
+          "answer": "Lies immediately deep to the nipple and areolar region along the terminal part of a lactiferous duct.",
+          "sources": [
+            {
+              "modelId": "breast-model-ms7",
+              "cardId": "breast-model-ms7-23",
+              "sourceLine": 23
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "breast-model-ms7",
+      "section": "",
+      "path": [
+        "4"
+      ],
+      "label": "4"
+    }
+  ]
+}

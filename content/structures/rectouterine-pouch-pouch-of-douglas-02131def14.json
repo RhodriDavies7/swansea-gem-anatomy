@@ -1,0 +1,108 @@
+{
+  "id": "rectouterine-pouch-pouch-of-douglas-02131def14",
+  "name": "Rectouterine pouch (pouch of Douglas)",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Pelvis"
+  ],
+  "systems": [
+    "Reproductive"
+  ],
+  "organs": [],
+  "tags": [
+    "Clinical",
+    "Location",
+    "PeritonealSpace",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-4cfbb064eb",
+      "variants": [
+        {
+          "id": "v-4cfbb064eb",
+          "answer": "Rectouterine pouch (pouch of Douglas)",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-308",
+              "sourceLine": 308
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-742bec8b9b",
+      "variants": [
+        {
+          "id": "v-742bec8b9b",
+          "answer": "Peritoneal recess between posterior uterus/cervix and anterior rectum.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-309",
+              "sourceLine": 309
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-b03737e3cd",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-b1ee8b1ab3",
+      "variants": [
+        {
+          "id": "v-b1ee8b1ab3",
+          "answer": "Lowest part of the female peritoneal cavity when upright; fluid may collect here.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-310",
+              "sourceLine": 310
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-0ccb077048",
+      "variants": [
+        {
+          "id": "v-0ccb077048",
+          "answer": "Can be accessed through the posterior vaginal fornix.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-311",
+              "sourceLine": 311
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "female-pelvis-model-mo8",
+      "section": "",
+      "path": [
+        "46"
+      ],
+      "label": "46"
+    }
+  ]
+}

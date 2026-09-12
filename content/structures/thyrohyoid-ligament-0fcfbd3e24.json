@@ -1,0 +1,93 @@
+{
+  "id": "thyrohyoid-ligament-0fcfbd3e24",
+  "name": "Thyrohyoid ligament",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Ligaments"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Musculoskeletal",
+    "Respiratory"
+  ],
+  "organs": [
+    "Larynx"
+  ],
+  "tags": [
+    "Attachments",
+    "Function",
+    "Larynx",
+    "Ligament"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-a7f4b3f35b",
+      "variants": [
+        {
+          "id": "v-a7f4b3f35b",
+          "answer": "Thyrohyoid ligament",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-54",
+              "sourceLine": 54
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6771ade6e8",
+      "question": "Attachments",
+      "preferredVariantId": "v-ef7a015a90",
+      "variants": [
+        {
+          "id": "v-ef7a015a90",
+          "answer": "Connects thyroid cartilage to hyoid bone as a thickening of the thyrohyoid membrane.",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-55",
+              "sourceLine": 55
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-d5145c9fcf",
+      "variants": [
+        {
+          "id": "v-d5145c9fcf",
+          "answer": "Helps suspend the larynx from the hyoid.",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-56",
+              "sourceLine": 56
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "larynx-and-tongue-model-gs4",
+      "section": "Larynx",
+      "path": [
+        "8"
+      ],
+      "label": "8"
+    }
+  ]
+}

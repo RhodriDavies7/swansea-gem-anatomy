@@ -1,0 +1,91 @@
+{
+  "id": "nasal-cartilages-3613a3b58c",
+  "name": "Nasal cartilages",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Cartilage"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Musculoskeletal",
+    "Respiratory"
+  ],
+  "organs": [],
+  "tags": [
+    "Cartilage",
+    "Function",
+    "NasalCavity",
+    "Structure"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-688ffee543",
+      "variants": [
+        {
+          "id": "v-688ffee543",
+          "answer": "Nasal cartilages",
+          "sources": [
+            {
+              "modelId": "nose-and-nasal-cavity-model-fs3",
+              "cardId": "nose-and-nasal-cavity-model-fs3-133",
+              "sourceLine": 133
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-8316001dc4",
+      "variants": [
+        {
+          "id": "v-8316001dc4",
+          "answer": "Cartilaginous framework supporting the external nose.",
+          "sources": [
+            {
+              "modelId": "nose-and-nasal-cavity-model-fs3",
+              "cardId": "nose-and-nasal-cavity-model-fs3-134",
+              "sourceLine": 134
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-1163fbdc72",
+      "variants": [
+        {
+          "id": "v-1163fbdc72",
+          "answer": "Maintains nasal shape while allowing flexibility.",
+          "sources": [
+            {
+              "modelId": "nose-and-nasal-cavity-model-fs3",
+              "cardId": "nose-and-nasal-cavity-model-fs3-135",
+              "sourceLine": 135
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "nose-and-nasal-cavity-model-fs3",
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "path": [
+        "9"
+      ],
+      "label": "9"
+    }
+  ]
+}

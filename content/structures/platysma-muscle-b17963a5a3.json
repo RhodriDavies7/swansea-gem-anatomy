@@ -1,0 +1,128 @@
+{
+  "id": "platysma-muscle-b17963a5a3",
+  "name": "Platysma muscle",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "Coronal",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-cb512772a2",
+      "variants": [
+        {
+          "id": "v-cb512772a2",
+          "answer": "Platysma muscle",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-159",
+              "sourceLine": 159
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-710065eda7",
+      "variants": [
+        {
+          "id": "v-710065eda7",
+          "answer": "Tenses skin of neck and depresses lower lip/mandible slightly.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-160",
+              "sourceLine": 160
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-e095a15274",
+      "variants": [
+        {
+          "id": "v-e095a15274",
+          "answer": "Cervical branch of facial nerve (CN VII).",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-161",
+              "sourceLine": 161
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-ed88c612bb",
+      "variants": [
+        {
+          "id": "v-ed88c612bb",
+          "answer": "Superficial fascia over upper pectoral and deltoid regions.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-162",
+              "sourceLine": 162
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-0609721450",
+      "variants": [
+        {
+          "id": "v-0609721450",
+          "answer": "Inferior border of mandible and skin/subcutaneous tissues of lower face.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-163",
+              "sourceLine": 163
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "coronal-and-mid-sagittal-head-mb20",
+      "section": "Coronal head",
+      "path": [
+        "30"
+      ],
+      "label": "30"
+    }
+  ]
+}

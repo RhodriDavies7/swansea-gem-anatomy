@@ -1,0 +1,109 @@
+{
+  "id": "tuberosity-of-5th-metatarsal-6d8fb6b849",
+  "name": "Tuberosity of 5th metatarsal",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Bones"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Attachments",
+    "Bone",
+    "Bones",
+    "BonyLandmark",
+    "Clinical"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-97373d3c62",
+      "variants": [
+        {
+          "id": "v-97373d3c62",
+          "answer": "Tuberosity of 5th metatarsal",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-60",
+              "sourceLine": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-bcf605d6bb",
+      "question": "Bone",
+      "preferredVariantId": "v-98c737eea2",
+      "variants": [
+        {
+          "id": "v-98c737eea2",
+          "answer": "Base of the 5th metatarsal.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-61",
+              "sourceLine": 61
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6771ade6e8",
+      "question": "Attachments",
+      "preferredVariantId": "v-e6c7688b19",
+      "variants": [
+        {
+          "id": "v-e6c7688b19",
+          "answer": "Fibularis brevis inserts here; lateral band of plantar aponeurosis also attaches.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-62",
+              "sourceLine": 62
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-b03737e3cd",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-22181b6ae2",
+      "variants": [
+        {
+          "id": "v-22181b6ae2",
+          "answer": "Avulsion fractures may occur with forceful inversion of the foot.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-63",
+              "sourceLine": 63
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "foot-model-ns9",
+      "section": "Bones",
+      "path": [
+        "10"
+      ],
+      "label": "10"
+    }
+  ]
+}

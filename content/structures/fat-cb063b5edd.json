@@ -1,0 +1,108 @@
+{
+  "id": "fat-cb063b5edd",
+  "name": "Fat",
+  "aliases": [],
+  "scope": "Thorax",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Thorax"
+  ],
+  "systems": [],
+  "organs": [
+    "Breast"
+  ],
+  "tags": [
+    "AdiposeTissue",
+    "Clinical",
+    "Function",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-7b71bd0c3d",
+      "variants": [
+        {
+          "id": "v-7b71bd0c3d",
+          "answer": "Fat",
+          "sources": [
+            {
+              "modelId": "breast-model-ms7",
+              "cardId": "breast-model-ms7-45",
+              "sourceLine": 45
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-9f4be6b4b4",
+      "variants": [
+        {
+          "id": "v-9f4be6b4b4",
+          "answer": "Contributes substantially to breast volume, contour and cushioning.",
+          "sources": [
+            {
+              "modelId": "breast-model-ms7",
+              "cardId": "breast-model-ms7-46",
+              "sourceLine": 46
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-d0506dc6ef",
+      "variants": [
+        {
+          "id": "v-d0506dc6ef",
+          "answer": "Surrounds and separates glandular lobes and lies within the superficial fascia of the anterior chest wall.",
+          "sources": [
+            {
+              "modelId": "breast-model-ms7",
+              "cardId": "breast-model-ms7-47",
+              "sourceLine": 47
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-b03737e3cd",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-50651a625a",
+      "variants": [
+        {
+          "id": "v-50651a625a",
+          "answer": "The proportion of fat relative to glandular tissue varies with age, hormonal state and body composition.",
+          "sources": [
+            {
+              "modelId": "breast-model-ms7",
+              "cardId": "breast-model-ms7-48",
+              "sourceLine": 48
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "breast-model-ms7",
+      "section": "",
+      "path": [
+        "8"
+      ],
+      "label": "8"
+    }
+  ]
+}

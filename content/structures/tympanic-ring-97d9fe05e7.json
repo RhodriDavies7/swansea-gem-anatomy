@@ -1,0 +1,110 @@
+{
+  "id": "tympanic-ring-97d9fe05e7",
+  "name": "Tympanic annulus (fibrous)",
+  "aliases": [
+    "Tympanic ring"
+  ],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [
+    "Ear"
+  ],
+  "tags": [
+    "FibrousRing",
+    "Structure",
+    "Function",
+    "MiddleEar"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "curated-f847dbd091",
+      "variants": [
+        {
+          "id": "v-d8e51ec38c",
+          "answer": "Tympanic ring",
+          "sources": [
+            {
+              "modelId": "ear-model-ds3",
+              "cardId": "ear-model-ds3-16",
+              "sourceLine": 16
+            }
+          ]
+        },
+        {
+          "id": "curated-f847dbd091",
+          "answer": "Tympanic annulus (fibrous)",
+          "sources": [
+            {
+              "modelId": "ear-model-ds3",
+              "cardId": "ear-model-ds3-16",
+              "sourceLine": 16
+            }
+          ],
+          "editorial": true
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-4e1008c3af",
+      "variants": [
+        {
+          "id": "v-4e1008c3af",
+          "answer": "Fibrocartilaginous ring supporting and anchoring most of the tympanic membrane.",
+          "sources": [
+            {
+              "modelId": "ear-model-ds3",
+              "cardId": "ear-model-ds3-17",
+              "sourceLine": 17
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-c9f7593d00",
+      "variants": [
+        {
+          "id": "v-c9f7593d00",
+          "answer": "Fixes the tympanic membrane at its periphery within the tympanic sulcus.",
+          "sources": [
+            {
+              "modelId": "ear-model-ds3",
+              "cardId": "ear-model-ds3-18",
+              "sourceLine": 18
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "ear-model-ds3",
+      "section": "A. External ear",
+      "path": [
+        "3"
+      ],
+      "label": "3"
+    }
+  ]
+}

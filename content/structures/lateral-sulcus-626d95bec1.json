@@ -1,0 +1,90 @@
+{
+  "id": "lateral-sulcus-626d95bec1",
+  "name": "Lateral sulcus",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [],
+  "tags": [
+    "Brain",
+    "CNS",
+    "Location",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-0c57c0c125",
+      "variants": [
+        {
+          "id": "v-0c57c0c125",
+          "answer": "Lateral sulcus",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-667",
+              "sourceLine": 667
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-923214ddd2",
+      "variants": [
+        {
+          "id": "v-923214ddd2",
+          "answer": "Separates temporal lobe from frontal/parietal lobes.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-668",
+              "sourceLine": 668
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-1444c3da64",
+      "variants": [
+        {
+          "id": "v-1444c3da64",
+          "answer": "Insula lies deep to it.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-669",
+              "sourceLine": 669
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "head-and-neck-model-cs17-2",
+      "section": "Internal brain structures and cranial nerves (1–26)",
+      "path": [
+        "1"
+      ],
+      "label": "1"
+    }
+  ]
+}

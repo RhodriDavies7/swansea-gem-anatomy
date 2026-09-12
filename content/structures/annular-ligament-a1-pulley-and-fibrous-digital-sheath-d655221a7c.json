@@ -1,0 +1,125 @@
+{
+  "id": "annular-ligament-a1-pulley-and-fibrous-digital-sheath-d655221a7c",
+  "name": "Annular ligament (A1 pulley) and fibrous digital sheath",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [],
+  "organs": [],
+  "tags": [
+    "Attachments",
+    "Clinical",
+    "Function",
+    "Relations",
+    "Sheath"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-083705b296",
+      "variants": [
+        {
+          "id": "v-083705b296",
+          "answer": "Annular ligament (A1 pulley) and fibrous digital sheath",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-228",
+              "sourceLine": 228
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6771ade6e8",
+      "question": "Attachments",
+      "preferredVariantId": "v-8c6c9caecd",
+      "variants": [
+        {
+          "id": "v-8c6c9caecd",
+          "answer": "Fibrous digital sheath attaches along the margins of phalanges and palmar plates; A1 pulley lies over the MCP joint.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-229",
+              "sourceLine": 229
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-0a3786e766",
+      "variants": [
+        {
+          "id": "v-0a3786e766",
+          "answer": "Holds flexor tendons close to the phalanges, preventing bowstringing during finger flexion.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-230",
+              "sourceLine": 230
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-4df049bccc",
+      "variants": [
+        {
+          "id": "v-4df049bccc",
+          "answer": "Flexor digitorum superficialis and profundus tendons run within the digital synovial/fibrous sheath.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-231",
+              "sourceLine": 231
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-b03737e3cd",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-e4be37a2f0",
+      "variants": [
+        {
+          "id": "v-e4be37a2f0",
+          "answer": "Thickening at the A1 pulley can cause trigger finger.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-232",
+              "sourceLine": 232
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "upper-limb-model-ns15",
+      "section": "Muscles",
+      "path": [
+        "38"
+      ],
+      "label": "38"
+    }
+  ]
+}

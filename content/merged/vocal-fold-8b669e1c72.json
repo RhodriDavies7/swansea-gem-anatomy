@@ -1,0 +1,156 @@
+{
+  "id": "vocal-fold-8b669e1c72",
+  "name": "Vocal fold",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [],
+  "organs": [],
+  "tags": [
+    "Function",
+    "Innervation",
+    "LaryngealFold",
+    "LaryngealStructures",
+    "MidSagittal",
+    "Structure"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-5a0b923635",
+      "variants": [
+        {
+          "id": "v-5a0b923635",
+          "answer": "Vocal fold",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-470",
+              "sourceLine": 470
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-369",
+              "sourceLine": 369
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-39ed937458",
+      "variants": [
+        {
+          "id": "v-39ed937458",
+          "answer": "Mucosal fold containing vocal ligament and vocalis muscle.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-471",
+              "sourceLine": 471
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-370",
+              "sourceLine": 370
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-ee6f5afdb0",
+      "variants": [
+        {
+          "id": "v-ee6f5afdb0",
+          "answer": "Vibrates for phonation and closes the glottis for airway protection.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-472",
+              "sourceLine": 472
+            }
+          ]
+        },
+        {
+          "id": "v-c85fd5f05a",
+          "answer": "Vibrates for phonation and closes glottis for airway protection.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-371",
+              "sourceLine": 371
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-34eaad698c",
+      "variants": [
+        {
+          "id": "v-34eaad698c",
+          "answer": "Motor control of intrinsic laryngeal muscles mainly via recurrent laryngeal nerve; sensory below folds via recurrent laryngeal nerve.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-473",
+              "sourceLine": 473
+            }
+          ]
+        },
+        {
+          "id": "v-3fe251e535",
+          "answer": "Intrinsic laryngeal motor control mainly via recurrent laryngeal nerve; sensory below fold via recurrent laryngeal nerve.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-372",
+              "sourceLine": 372
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "coronal-and-mid-sagittal-head-mb20",
+      "section": "Laryngeal structures",
+      "path": [
+        "VII"
+      ],
+      "label": "VII"
+    },
+    {
+      "modelId": "half-head-and-neck-model-bs9",
+      "section": "Laryngeal structures",
+      "path": [
+        "VII"
+      ],
+      "label": "VII"
+    }
+  ]
+}

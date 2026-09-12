@@ -1,0 +1,153 @@
+{
+  "id": "pulmonary-trunk-d29b190d8f",
+  "name": "Pulmonary trunk",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Arteries"
+  ],
+  "regions": [
+    "Head and neck",
+    "Thorax"
+  ],
+  "systems": [
+    "Cardiovascular",
+    "Respiratory"
+  ],
+  "organs": [
+    "Heart",
+    "Larynx"
+  ],
+  "tags": [
+    "Artery",
+    "AuriclesVesselsValves",
+    "CardiacVesselsValves",
+    "Course",
+    "Origin",
+    "Supply"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-cd7e10b1cd",
+      "variants": [
+        {
+          "id": "v-cd7e10b1cd",
+          "answer": "Pulmonary trunk",
+          "sources": [
+            {
+              "modelId": "heart-model-hs5",
+              "cardId": "heart-model-hs5-78",
+              "sourceLine": 78
+            },
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-176",
+              "sourceLine": 176
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-78464c906b",
+      "variants": [
+        {
+          "id": "v-78464c906b",
+          "answer": "Arises from right ventricle through the pulmonary valve.",
+          "sources": [
+            {
+              "modelId": "heart-model-hs5",
+              "cardId": "heart-model-hs5-79",
+              "sourceLine": 79
+            }
+          ]
+        },
+        {
+          "id": "v-b4ce00088c",
+          "answer": "Arises from right ventricle through pulmonary valve.",
+          "sources": [
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-177",
+              "sourceLine": 177
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-406418ded4",
+      "variants": [
+        {
+          "id": "v-406418ded4",
+          "answer": "Passes superiorly and posteriorly before dividing into right and left pulmonary arteries.",
+          "sources": [
+            {
+              "modelId": "heart-model-hs5",
+              "cardId": "heart-model-hs5-80",
+              "sourceLine": 80
+            },
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-178",
+              "sourceLine": 178
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-222db0fc1c",
+      "question": "Supply",
+      "preferredVariantId": "v-e2b803fc17",
+      "variants": [
+        {
+          "id": "v-e2b803fc17",
+          "answer": "Carries deoxygenated blood to the lungs.",
+          "sources": [
+            {
+              "modelId": "heart-model-hs5",
+              "cardId": "heart-model-hs5-81",
+              "sourceLine": 81
+            },
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-179",
+              "sourceLine": 179
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "heart-model-hs5",
+      "section": "Auricles, great vessels and valves",
+      "path": [
+        "f"
+      ],
+      "label": "f"
+    },
+    {
+      "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+      "section": "Cardiac vessels and valves",
+      "path": [
+        "24"
+      ],
+      "label": "24"
+    }
+  ]
+}

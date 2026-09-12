@@ -1,0 +1,109 @@
+{
+  "id": "cochlear-duct-9c4efba511",
+  "name": "Cochlear duct",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [],
+  "organs": [
+    "Ear"
+  ],
+  "tags": [
+    "Cochlea",
+    "CochlearDuct",
+    "Contents",
+    "Location",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-6e3b47c139",
+      "variants": [
+        {
+          "id": "v-6e3b47c139",
+          "answer": "Cochlear duct",
+          "sources": [
+            {
+              "modelId": "inner-ear-model-ds17",
+              "cardId": "inner-ear-model-ds17-134",
+              "sourceLine": 134
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-366657ad7e",
+      "variants": [
+        {
+          "id": "v-366657ad7e",
+          "answer": "Endolymph-filled membranous duct between scala vestibuli and scala tympani.",
+          "sources": [
+            {
+              "modelId": "inner-ear-model-ds17",
+              "cardId": "inner-ear-model-ds17-135",
+              "sourceLine": 135
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-676167cbb2",
+      "question": "Boundaries",
+      "preferredVariantId": "v-0098a6025c",
+      "variants": [
+        {
+          "id": "v-0098a6025c",
+          "answer": "Separated from scala vestibuli by vestibular membrane and from scala tympani by basilar membrane.",
+          "sources": [
+            {
+              "modelId": "inner-ear-model-ds17",
+              "cardId": "inner-ear-model-ds17-136",
+              "sourceLine": 136
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f5cbdf6bfb",
+      "question": "Contents",
+      "preferredVariantId": "v-1306757913",
+      "variants": [
+        {
+          "id": "v-1306757913",
+          "answer": "Contains organ of Corti on basilar membrane.",
+          "sources": [
+            {
+              "modelId": "inner-ear-model-ds17",
+              "cardId": "inner-ear-model-ds17-137",
+              "sourceLine": 137
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "inner-ear-model-ds17",
+      "section": "Cochlea and auditory structures",
+      "path": [
+        "18"
+      ],
+      "label": "18"
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "id": "serratus-anterior-muscle-424cade3b4",
+  "name": "Serratus anterior muscle",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "AttachmentSite",
+    "Attachments",
+    "Clinical",
+    "Innervation",
+    "Muscle"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-acc85ab8f0",
+      "variants": [
+        {
+          "id": "v-acc85ab8f0",
+          "answer": "Serratus anterior muscle",
+          "sources": [
+            {
+              "modelId": "rotator-cuff-qs55-6",
+              "cardId": "rotator-cuff-qs55-6-118",
+              "sourceLine": 118
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-531c9dad58",
+      "question": "Attachment on model",
+      "preferredVariantId": "v-b772fd36f2",
+      "variants": [
+        {
+          "id": "v-b772fd36f2",
+          "answer": "Inserts on anterior surface of medial border of scapula; originates from upper 8–9 ribs.",
+          "sources": [
+            {
+              "modelId": "rotator-cuff-qs55-6",
+              "cardId": "rotator-cuff-qs55-6-119",
+              "sourceLine": 119
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-c9359d7436",
+      "variants": [
+        {
+          "id": "v-c9359d7436",
+          "answer": "Protracts scapula, holds it against thoracic wall and assists upward rotation.",
+          "sources": [
+            {
+              "modelId": "rotator-cuff-qs55-6",
+              "cardId": "rotator-cuff-qs55-6-120",
+              "sourceLine": 120
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-5047a8727d",
+      "variants": [
+        {
+          "id": "v-5047a8727d",
+          "answer": "Long thoracic nerve (C5–C7).",
+          "sources": [
+            {
+              "modelId": "rotator-cuff-qs55-6",
+              "cardId": "rotator-cuff-qs55-6-121",
+              "sourceLine": 121
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-b03737e3cd",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-2a69659584",
+      "variants": [
+        {
+          "id": "v-2a69659584",
+          "answer": "Long thoracic nerve injury causes winging of the scapula.",
+          "sources": [
+            {
+              "modelId": "rotator-cuff-qs55-6",
+              "cardId": "rotator-cuff-qs55-6-122",
+              "sourceLine": 122
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "rotator-cuff-qs55-6",
+      "section": "Muscle attachment sites",
+      "path": [
+        "20"
+      ],
+      "label": "20"
+    }
+  ]
+}

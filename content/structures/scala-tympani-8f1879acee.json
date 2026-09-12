@@ -1,0 +1,172 @@
+{
+  "id": "scala-tympani-8f1879acee",
+  "name": "Scala tympani",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [],
+  "organs": [
+    "Ear"
+  ],
+  "tags": [
+    "Cochlea",
+    "CochlearSpace",
+    "Connections",
+    "Function",
+    "InnerEar",
+    "Location",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-22b32e39d1",
+      "variants": [
+        {
+          "id": "v-22b32e39d1",
+          "answer": "Scala tympani",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-264",
+              "sourceLine": 264
+            },
+            {
+              "modelId": "inner-ear-model-ds17",
+              "cardId": "inner-ear-model-ds17-122",
+              "sourceLine": 122
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-0a358ee1eb",
+      "variants": [
+        {
+          "id": "v-0a358ee1eb",
+          "answer": "Perilymph-filled compartment inferior to the cochlear duct.",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-265",
+              "sourceLine": 265
+            }
+          ]
+        },
+        {
+          "id": "v-76829d837a",
+          "answer": "Perilymph-filled compartment inferior to cochlear duct.",
+          "sources": [
+            {
+              "modelId": "inner-ear-model-ds17",
+              "cardId": "inner-ear-model-ds17-123",
+              "sourceLine": 123
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-8f3509b64e",
+      "question": "Connections",
+      "preferredVariantId": "v-22697006b4",
+      "variants": [
+        {
+          "id": "v-22697006b4",
+          "answer": "Communicates with scala vestibuli at the helicotrema and ends at the round window.",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-266",
+              "sourceLine": 266
+            }
+          ]
+        },
+        {
+          "id": "v-70493ce55d",
+          "answer": "Communicates with scala vestibuli at helicotrema near cochlear apex.",
+          "sources": [
+            {
+              "modelId": "inner-ear-model-ds17",
+              "cardId": "inner-ear-model-ds17-124",
+              "sourceLine": 124
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-5701c13b75",
+      "variants": [
+        {
+          "id": "v-5701c13b75",
+          "answer": "Conducts pressure waves through perilymph toward the round window.",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-267",
+              "sourceLine": 267
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-fa841b1e57",
+      "variants": [
+        {
+          "id": "v-fa841b1e57",
+          "answer": "Ends basally at round window.",
+          "sources": [
+            {
+              "modelId": "inner-ear-model-ds17",
+              "cardId": "inner-ear-model-ds17-125",
+              "sourceLine": 125
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "ear-largest-model-ds1",
+      "section": "D. Inner ear",
+      "path": [
+        "40"
+      ],
+      "label": "40"
+    },
+    {
+      "modelId": "inner-ear-model-ds17",
+      "section": "Cochlea and auditory structures",
+      "path": [
+        "16"
+      ],
+      "label": "16"
+    }
+  ]
+}

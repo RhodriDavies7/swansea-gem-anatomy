@@ -1,0 +1,129 @@
+{
+  "id": "palmar-branch-of-the-ulnar-nerve-44725f4f7e",
+  "name": "Palmar branch of the ulnar nerve",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Nerves"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [],
+  "tags": [
+    "ArteriesAndNerves",
+    "Course",
+    "Lesion",
+    "NerveBranch",
+    "Origin",
+    "Sensory"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-727bf3891d",
+      "variants": [
+        {
+          "id": "v-727bf3891d",
+          "answer": "Palmar branch of the ulnar nerve",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-229",
+              "sourceLine": 229
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-b2c1c747bb",
+      "variants": [
+        {
+          "id": "v-b2c1c747bb",
+          "answer": "Arises from the ulnar nerve in the distal forearm.",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-230",
+              "sourceLine": 230
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-8a5ae8aaa7",
+      "variants": [
+        {
+          "id": "v-8a5ae8aaa7",
+          "answer": "Passes superficial to flexor retinaculum into the palm.",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-231",
+              "sourceLine": 231
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-a453254382",
+      "question": "Sensory functions",
+      "preferredVariantId": "v-9c45ee1edc",
+      "variants": [
+        {
+          "id": "v-9c45ee1edc",
+          "answer": "Supplies skin over the medial palm/hypothenar region.",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-232",
+              "sourceLine": 232
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-bc53d10c57",
+      "question": "Lesion",
+      "preferredVariantId": "v-a64512fc93",
+      "variants": [
+        {
+          "id": "v-a64512fc93",
+          "answer": "Causes numbness or paraesthesia over the medial palmar hand while sparing the dorsal ulnar hand and intrinsic motor function if the branch alone is affected.",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-233",
+              "sourceLine": 233
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "hand-model-ns13",
+      "section": "Arteries and nerves",
+      "path": [
+        "6",
+        "a"
+      ],
+      "label": "6a"
+    }
+  ]
+}

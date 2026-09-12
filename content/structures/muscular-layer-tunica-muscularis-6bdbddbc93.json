@@ -1,0 +1,109 @@
+{
+  "id": "muscular-layer-tunica-muscularis-6bdbddbc93",
+  "name": "Muscular layer (tunica muscularis)",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Pelvis"
+  ],
+  "systems": [
+    "Reproductive"
+  ],
+  "organs": [],
+  "tags": [
+    "Composition",
+    "Function",
+    "Histology",
+    "Organ"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-f8f1ceb5db",
+      "variants": [
+        {
+          "id": "v-f8f1ceb5db",
+          "answer": "Muscular layer (tunica muscularis)",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-38",
+              "sourceLine": 38
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f5143a2323",
+      "question": "Organ",
+      "preferredVariantId": "v-c6039d9860",
+      "variants": [
+        {
+          "id": "v-c6039d9860",
+          "answer": "Urinary bladder.",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-39",
+              "sourceLine": 39
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-ca5e001204",
+      "question": "Composition",
+      "preferredVariantId": "v-68ae1bdc09",
+      "variants": [
+        {
+          "id": "v-68ae1bdc09",
+          "answer": "Interlacing smooth muscle bundles forming the detrusor muscle.",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-40",
+              "sourceLine": 40
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-f2352ef2d6",
+      "variants": [
+        {
+          "id": "v-f2352ef2d6",
+          "answer": "Contracts during micturition to expel urine.",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-41",
+              "sourceLine": 41
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "male-reproductive-system-model-ms2",
+      "section": "",
+      "path": [
+        "4",
+        "4c"
+      ],
+      "label": "4c"
+    }
+  ]
+}

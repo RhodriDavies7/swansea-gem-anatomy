@@ -1,0 +1,234 @@
+{
+  "id": "external-carotid-artery-2122f08313",
+  "name": "External carotid artery",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Arteries"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Cardiovascular"
+  ],
+  "organs": [],
+  "tags": [
+    "Artery",
+    "BloodVesselsAndNerves",
+    "Branches",
+    "Course",
+    "HeadNeck",
+    "Origin",
+    "Supply"
+  ],
+  "imageIds": [
+    "img-0fb3600efde9"
+  ],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-53622b50ae",
+      "variants": [
+        {
+          "id": "v-53622b50ae",
+          "answer": "External carotid artery",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-121",
+              "sourceLine": 121
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-638",
+              "sourceLine": 638
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-393",
+              "sourceLine": 393
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-dd54b8b279",
+      "variants": [
+        {
+          "id": "v-dd54b8b279",
+          "answer": "Terminal branch of common carotid artery.",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-122",
+              "sourceLine": 122
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-639",
+              "sourceLine": 639
+            }
+          ]
+        },
+        {
+          "id": "v-051f64b9e6",
+          "answer": "Common carotid artery.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-394",
+              "sourceLine": 394
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-dfbaadddf8",
+      "variants": [
+        {
+          "id": "v-dfbaadddf8",
+          "answer": "Ascends through the carotid triangle, passes deep to posterior belly of digastric and enters parotid gland.",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-123",
+              "sourceLine": 123
+            }
+          ]
+        },
+        {
+          "id": "v-468471f7fe",
+          "answer": "Ascends through carotid triangle, passes deep to posterior belly of digastric and enters parotid gland.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-640",
+              "sourceLine": 640
+            }
+          ]
+        },
+        {
+          "id": "v-07062b5d21",
+          "answer": "Ascends in carotid triangle and enters parotid gland.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-395",
+              "sourceLine": 395
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-f578227926",
+      "question": "Branches",
+      "preferredVariantId": "v-34645ca143",
+      "variants": [
+        {
+          "id": "v-34645ca143",
+          "answer": "Superior thyroid, ascending pharyngeal, lingual, facial, occipital, posterior auricular, maxillary and superficial temporal arteries.",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-124",
+              "sourceLine": 124
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-641",
+              "sourceLine": 641
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-396",
+              "sourceLine": 396
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-222db0fc1c",
+      "question": "Supply",
+      "preferredVariantId": "v-06b651f085",
+      "variants": [
+        {
+          "id": "v-06b651f085",
+          "answer": "Most extracranial structures of head and neck.",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-125",
+              "sourceLine": 125
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-642",
+              "sourceLine": 642
+            }
+          ]
+        },
+        {
+          "id": "v-7d0dcf57ce",
+          "answer": "Most extracranial head and neck.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-397",
+              "sourceLine": 397
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "deep-face-model-bs8-1",
+      "section": "",
+      "path": [
+        "20"
+      ],
+      "label": "20"
+    },
+    {
+      "modelId": "half-head-and-neck-model-bs9",
+      "section": "Blood vessels and nerves",
+      "path": [
+        "58",
+        "a"
+      ],
+      "label": "58a"
+    },
+    {
+      "modelId": "head-and-neck-model-cs17-2",
+      "section": "Arteries",
+      "path": [
+        "62"
+      ],
+      "label": "62"
+    }
+  ]
+}

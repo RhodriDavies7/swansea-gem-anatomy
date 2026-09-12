@@ -1,0 +1,146 @@
+{
+  "id": "axillary-artery-70afc83478",
+  "name": "Axillary artery",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Arteries"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [
+    "Cardiovascular"
+  ],
+  "organs": [],
+  "tags": [
+    "Artery",
+    "Branches",
+    "Course",
+    "Origin",
+    "Relations",
+    "Supply"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-5a98b188d9",
+      "variants": [
+        {
+          "id": "v-5a98b188d9",
+          "answer": "Axillary artery",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-273",
+              "sourceLine": 273
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-3451be8ebd",
+      "variants": [
+        {
+          "id": "v-3451be8ebd",
+          "answer": "Continuation of subclavian artery at lateral border of first rib.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-274",
+              "sourceLine": 274
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-b34a9b8939",
+      "variants": [
+        {
+          "id": "v-b34a9b8939",
+          "answer": "Passes through axilla and becomes brachial artery at inferior border of teres major; divided into three parts by pectoralis minor.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-275",
+              "sourceLine": 275
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f578227926",
+      "question": "Branches",
+      "preferredVariantId": "v-b00adcea40",
+      "variants": [
+        {
+          "id": "v-b00adcea40",
+          "answer": "Superior thoracic; thoraco-acromial and lateral thoracic; subscapular, anterior circumflex humeral and posterior circumflex humeral.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-276",
+              "sourceLine": 276
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-222db0fc1c",
+      "question": "Supply",
+      "preferredVariantId": "v-2600193949",
+      "variants": [
+        {
+          "id": "v-2600193949",
+          "answer": "Axilla, shoulder region, lateral thoracic wall and upper limb.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-277",
+              "sourceLine": 277
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-717307a0ef",
+      "variants": [
+        {
+          "id": "v-717307a0ef",
+          "answer": "Cords of brachial plexus are named by their relationship to the second part of the axillary artery.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-278",
+              "sourceLine": 278
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "upper-limb-model-ns15",
+      "section": "Arteries",
+      "path": [
+        "45"
+      ],
+      "label": "45"
+    }
+  ]
+}

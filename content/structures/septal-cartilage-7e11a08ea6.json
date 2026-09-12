@@ -1,0 +1,91 @@
+{
+  "id": "septal-cartilage-7e11a08ea6",
+  "name": "Septal cartilage",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Cartilage"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Musculoskeletal",
+    "Respiratory"
+  ],
+  "organs": [],
+  "tags": [
+    "Cartilage",
+    "Function",
+    "Location",
+    "NasalSeptum"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-5e99239437",
+      "variants": [
+        {
+          "id": "v-5e99239437",
+          "answer": "Septal cartilage",
+          "sources": [
+            {
+              "modelId": "nose-and-nasal-cavity-model-fs3",
+              "cardId": "nose-and-nasal-cavity-model-fs3-237",
+              "sourceLine": 237
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-f6ac54506f",
+      "variants": [
+        {
+          "id": "v-f6ac54506f",
+          "answer": "Forms the anterior cartilaginous portion of the nasal septum.",
+          "sources": [
+            {
+              "modelId": "nose-and-nasal-cavity-model-fs3",
+              "cardId": "nose-and-nasal-cavity-model-fs3-238",
+              "sourceLine": 238
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-cdd2ccdeeb",
+      "variants": [
+        {
+          "id": "v-cdd2ccdeeb",
+          "answer": "Provides flexible structural support to the anterior nose.",
+          "sources": [
+            {
+              "modelId": "nose-and-nasal-cavity-model-fs3",
+              "cardId": "nose-and-nasal-cavity-model-fs3-239",
+              "sourceLine": 239
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "nose-and-nasal-cavity-model-fs3",
+      "section": "Nasal septum",
+      "path": [
+        "49"
+      ],
+      "label": "49"
+    }
+  ]
+}

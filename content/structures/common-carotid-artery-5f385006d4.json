@@ -1,0 +1,269 @@
+{
+  "id": "common-carotid-artery-5f385006d4",
+  "name": "Common carotid artery",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Arteries"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Cardiovascular"
+  ],
+  "organs": [],
+  "tags": [
+    "Artery",
+    "BloodVesselsAndNerves",
+    "Branches",
+    "Course",
+    "HeadNeck",
+    "Origin",
+    "Supply"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-2c3b2b7f1c",
+      "variants": [
+        {
+          "id": "v-2c3b2b7f1c",
+          "answer": "Common carotid artery",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-114",
+              "sourceLine": 114
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-632",
+              "sourceLine": 632
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-386",
+              "sourceLine": 386
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-1da685a041",
+      "variants": [
+        {
+          "id": "v-1da685a041",
+          "answer": "Right arises from brachiocephalic trunk; left arises directly from aortic arch.",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-115",
+              "sourceLine": 115
+            }
+          ]
+        },
+        {
+          "id": "v-782d4b7f68",
+          "answer": "Right from brachiocephalic trunk; left from aortic arch.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-633",
+              "sourceLine": 633
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-387",
+              "sourceLine": 387
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-e5e6581720",
+      "variants": [
+        {
+          "id": "v-e5e6581720",
+          "answer": "Ascends in the carotid sheath and usually bifurcates around the upper border of thyroid cartilage into internal and external carotid arteries.",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-116",
+              "sourceLine": 116
+            }
+          ]
+        },
+        {
+          "id": "v-2e95db4565",
+          "answer": "Ascends in carotid sheath and bifurcates near upper border of thyroid cartilage.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-634",
+              "sourceLine": 634
+            }
+          ]
+        },
+        {
+          "id": "v-3bcea57615",
+          "answer": "Ascends within carotid sheath to bifurcation near upper border of thyroid cartilage.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-388",
+              "sourceLine": 388
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-f578227926",
+      "question": "Branches",
+      "preferredVariantId": "curated-75c7dd9c69",
+      "variants": [
+        {
+          "id": "v-317aad7fdc",
+          "answer": "No major branches in the neck before its terminal bifurcation.",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-117",
+              "sourceLine": 117
+            }
+          ]
+        },
+        {
+          "id": "v-a67cdb5599",
+          "answer": "Terminates as external and internal carotid arteries.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-635",
+              "sourceLine": 635
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-389",
+              "sourceLine": 389
+            }
+          ]
+        },
+        {
+          "id": "curated-75c7dd9c69",
+          "answer": "No major branches in the neck before dividing into the internal and external carotid arteries.",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-117",
+              "sourceLine": 117
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-635",
+              "sourceLine": 635
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-389",
+              "sourceLine": 389
+            }
+          ],
+          "editorial": true
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-222db0fc1c",
+      "question": "Supply",
+      "preferredVariantId": "v-c7d0916aa3",
+      "variants": [
+        {
+          "id": "v-c7d0916aa3",
+          "answer": "Supplies head and neck through the external and internal carotid systems.",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-118",
+              "sourceLine": 118
+            }
+          ]
+        },
+        {
+          "id": "v-63c9989ea3",
+          "answer": "Head and neck through external and internal carotid systems.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-636",
+              "sourceLine": 636
+            }
+          ]
+        },
+        {
+          "id": "v-d783c06cc2",
+          "answer": "Head and neck through terminal branches.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-390",
+              "sourceLine": 390
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "deep-face-model-bs8-1",
+      "section": "",
+      "path": [
+        "19"
+      ],
+      "label": "19"
+    },
+    {
+      "modelId": "half-head-and-neck-model-bs9",
+      "section": "Blood vessels and nerves",
+      "path": [
+        "58"
+      ],
+      "label": "58"
+    },
+    {
+      "modelId": "head-and-neck-model-cs17-2",
+      "section": "Arteries",
+      "path": [
+        "61"
+      ],
+      "label": "61"
+    }
+  ]
+}

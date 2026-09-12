@@ -1,0 +1,90 @@
+{
+  "id": "temporal-bone-d16c45cccc",
+  "name": "Temporal bone",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Bones"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Bone",
+    "HeadNeck",
+    "Landmarks",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-924f990867",
+      "variants": [
+        {
+          "id": "v-924f990867",
+          "answer": "Temporal bone",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-24",
+              "sourceLine": 24
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-626b6c1d45",
+      "question": "Landmarks",
+      "preferredVariantId": "v-dacbc6c2af",
+      "variants": [
+        {
+          "id": "v-dacbc6c2af",
+          "answer": "Squamous, petrous, mastoid and tympanic parts; mastoid and styloid processes.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-25",
+              "sourceLine": 25
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-d05650d138",
+      "variants": [
+        {
+          "id": "v-d05650d138",
+          "answer": "Contributes to lateral skull, cranial base and houses middle/inner ear.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-26",
+              "sourceLine": 26
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "head-and-neck-model-cs17-2",
+      "section": "Bony structures, foramina and ear structures",
+      "path": [
+        "5"
+      ],
+      "label": "5"
+    }
+  ]
+}

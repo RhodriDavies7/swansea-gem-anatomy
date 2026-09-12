@@ -1,0 +1,203 @@
+{
+  "id": "soft-palate-8e7cffcd9e",
+  "name": "Soft palate",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Respiratory"
+  ],
+  "organs": [],
+  "tags": [
+    "Function",
+    "Innervation",
+    "MidSagittal",
+    "MidlineStructures",
+    "NasalCavity",
+    "SoftTissue",
+    "Structure"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-f3312ccad7",
+      "variants": [
+        {
+          "id": "v-f3312ccad7",
+          "answer": "Soft palate",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-390",
+              "sourceLine": 390
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-274",
+              "sourceLine": 274
+            },
+            {
+              "modelId": "nose-and-nasal-cavity-model-fs3",
+              "cardId": "nose-and-nasal-cavity-model-fs3-189",
+              "sourceLine": 189
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-65e5f706f1",
+      "variants": [
+        {
+          "id": "v-65e5f706f1",
+          "answer": "Elevates during swallowing to close nasopharynx and contributes to speech.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-391",
+              "sourceLine": 391
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-275",
+              "sourceLine": 275
+            }
+          ]
+        },
+        {
+          "id": "v-80f94aa4af",
+          "answer": "Elevates during swallowing to close the nasopharynx and contributes to speech.",
+          "sources": [
+            {
+              "modelId": "nose-and-nasal-cavity-model-fs3",
+              "cardId": "nose-and-nasal-cavity-model-fs3-191",
+              "sourceLine": 191
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-327a4398b6",
+      "variants": [
+        {
+          "id": "v-327a4398b6",
+          "answer": "Muscular fibrous fold extending posteriorly from hard palate.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-392",
+              "sourceLine": 392
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-276",
+              "sourceLine": 276
+            }
+          ]
+        },
+        {
+          "id": "v-b6b9224baf",
+          "answer": "Muscular fibrous fold extending posteriorly from the hard palate.",
+          "sources": [
+            {
+              "modelId": "nose-and-nasal-cavity-model-fs3",
+              "cardId": "nose-and-nasal-cavity-model-fs3-190",
+              "sourceLine": 190
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-4d0dbc1f31",
+      "variants": [
+        {
+          "id": "v-4d0dbc1f31",
+          "answer": "Motor mainly via pharyngeal plexus (vagus) except tensor veli palatini via V3; sensory via trigeminal pathways.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-393",
+              "sourceLine": 393
+            }
+          ]
+        },
+        {
+          "id": "v-2d0e487305",
+          "answer": "Motor mainly via pharyngeal plexus except tensor veli palatini via V3; sensory via trigeminal pathways.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-277",
+              "sourceLine": 277
+            }
+          ]
+        },
+        {
+          "id": "v-89c2ebfbb2",
+          "answer": "Motor mainly via pharyngeal plexus except tensor veli palatini via V3.",
+          "sources": [
+            {
+              "modelId": "nose-and-nasal-cavity-model-fs3",
+              "cardId": "nose-and-nasal-cavity-model-fs3-192",
+              "sourceLine": 192
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "coronal-and-mid-sagittal-head-mb20",
+      "section": "Other midline structures",
+      "path": [
+        "h"
+      ],
+      "label": "h"
+    },
+    {
+      "modelId": "half-head-and-neck-model-bs9",
+      "section": "Other midline structures",
+      "path": [
+        "h"
+      ],
+      "label": "h"
+    },
+    {
+      "modelId": "nose-and-nasal-cavity-model-fs3",
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "path": [
+        "20"
+      ],
+      "label": "20"
+    }
+  ]
+}

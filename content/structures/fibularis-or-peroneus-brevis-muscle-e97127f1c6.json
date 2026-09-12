@@ -1,0 +1,206 @@
+{
+  "id": "fibularis-or-peroneus-brevis-muscle-e97127f1c6",
+  "name": "Fibularis (or peroneus) brevis muscle",
+  "aliases": [
+    "Fibularis (peroneus) brevis"
+  ],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Origin",
+    "Muscles"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-5b07b62ab2",
+      "variants": [
+        {
+          "id": "v-5b07b62ab2",
+          "answer": "Fibularis (or peroneus) brevis muscle",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-178",
+              "sourceLine": 178
+            }
+          ]
+        },
+        {
+          "id": "v-0ddae98ac7",
+          "answer": "Fibularis (peroneus) brevis",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-110",
+              "sourceLine": 110
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-b3b9c7bd7e",
+      "variants": [
+        {
+          "id": "v-b3b9c7bd7e",
+          "answer": "Everts the foot and weakly plantarflexes the ankle.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-179",
+              "sourceLine": 179
+            }
+          ]
+        },
+        {
+          "id": "v-6c5ea9625c",
+          "answer": "Everts foot and weakly plantarflexes ankle.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-111",
+              "sourceLine": 111
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-93ee03395e",
+      "variants": [
+        {
+          "id": "v-93ee03395e",
+          "answer": "Superficial fibular nerve (L5–S2).",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-180",
+              "sourceLine": 180
+            },
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-112",
+              "sourceLine": 112
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-9bd86e7d48",
+      "variants": [
+        {
+          "id": "v-9bd86e7d48",
+          "answer": "Lower two-thirds of lateral fibula.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-181",
+              "sourceLine": 181
+            }
+          ]
+        },
+        {
+          "id": "v-6976077b7f",
+          "answer": "Inferior two-thirds of lateral fibula.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-113",
+              "sourceLine": 113
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-1d4a2fe3b5",
+      "variants": [
+        {
+          "id": "v-1d4a2fe3b5",
+          "answer": "Tuberosity at base of fifth metatarsal.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-182",
+              "sourceLine": 182
+            }
+          ]
+        },
+        {
+          "id": "v-4975216785",
+          "answer": "Tuberosity at base of 5th metatarsal.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-114",
+              "sourceLine": 114
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "lower-limb-model-ns10",
+      "section": "Muscles",
+      "path": [
+        "23"
+      ],
+      "label": "23"
+    },
+    {
+      "modelId": "foot-model-ns9",
+      "section": "Muscles",
+      "path": [
+        "17"
+      ],
+      "label": "17"
+    }
+  ],
+  "redirectIds": [
+    "fibularis-peroneus-brevis-c5dda535cd"
+  ]
+}

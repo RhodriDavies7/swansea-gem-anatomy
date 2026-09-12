@@ -1,0 +1,110 @@
+{
+  "id": "right-renal-vein-2620573285",
+  "name": "Right renal vein",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Veins"
+  ],
+  "regions": [
+    "Abdomen"
+  ],
+  "systems": [
+    "Cardiovascular",
+    "Urinary"
+  ],
+  "organs": [],
+  "tags": [
+    "Course",
+    "Formation",
+    "MajorVesselsAndGlands",
+    "Termination",
+    "Vein"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-21563dbd43",
+      "variants": [
+        {
+          "id": "v-21563dbd43",
+          "answer": "Right renal vein",
+          "sources": [
+            {
+              "modelId": "urinary-system-model-ls3-1",
+              "cardId": "urinary-system-model-ls3-1-105",
+              "sourceLine": 105
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-bc0bd86b8f",
+      "question": "Formation",
+      "preferredVariantId": "v-ca2bce56d6",
+      "variants": [
+        {
+          "id": "v-ca2bce56d6",
+          "answer": "Drains venous blood from the right kidney.",
+          "sources": [
+            {
+              "modelId": "urinary-system-model-ls3-1",
+              "cardId": "urinary-system-model-ls3-1-106",
+              "sourceLine": 106
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-734f86a3e6",
+      "variants": [
+        {
+          "id": "v-734f86a3e6",
+          "answer": "Short vein passing from right renal hilum directly to the inferior vena cava.",
+          "sources": [
+            {
+              "modelId": "urinary-system-model-ls3-1",
+              "cardId": "urinary-system-model-ls3-1-107",
+              "sourceLine": 107
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-2ee8521886",
+      "question": "Termination",
+      "preferredVariantId": "v-345cb7a2f8",
+      "variants": [
+        {
+          "id": "v-345cb7a2f8",
+          "answer": "Inferior vena cava.",
+          "sources": [
+            {
+              "modelId": "urinary-system-model-ls3-1",
+              "cardId": "urinary-system-model-ls3-1-108",
+              "sourceLine": 108
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "urinary-system-model-ls3-1",
+      "section": "Suprarenal gland and major vessels",
+      "path": [
+        "13"
+      ],
+      "label": "13"
+    }
+  ]
+}

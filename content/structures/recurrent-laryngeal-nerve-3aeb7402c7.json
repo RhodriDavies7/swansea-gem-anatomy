@@ -1,0 +1,212 @@
+{
+  "id": "recurrent-laryngeal-nerve-3aeb7402c7",
+  "name": "Recurrent laryngeal nerve",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Nerves"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Nervous",
+    "Respiratory"
+  ],
+  "organs": [
+    "Larynx"
+  ],
+  "tags": [
+    "ArteriesAndNerves",
+    "Clinical",
+    "Course",
+    "Lesion",
+    "Motor",
+    "Nerve",
+    "Roots",
+    "Sensory"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-7a7cdb1921",
+      "variants": [
+        {
+          "id": "v-7a7cdb1921",
+          "answer": "Recurrent laryngeal nerve",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-216",
+              "sourceLine": 216
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-216",
+              "sourceLine": 216
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-4d78ec7d11",
+      "question": "Roots",
+      "preferredVariantId": "v-572d550859",
+      "variants": [
+        {
+          "id": "v-572d550859",
+          "answer": "Branch of the vagus nerve (CN X).",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-217",
+              "sourceLine": 217
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-217",
+              "sourceLine": 217
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-a4c8e44521",
+      "variants": [
+        {
+          "id": "v-a4c8e44521",
+          "answer": "Right loops under the subclavian artery; left loops under the aortic arch near the ligamentum arteriosum; both ascend in the tracheo-oesophageal groove and enter the larynx as inferior laryngeal nerves.",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-218",
+              "sourceLine": 218
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-218",
+              "sourceLine": 218
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c8b6915183",
+      "question": "Motor functions",
+      "preferredVariantId": "v-41319b2804",
+      "variants": [
+        {
+          "id": "v-41319b2804",
+          "answer": "Supplies all intrinsic laryngeal muscles except cricothyroid.",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-219",
+              "sourceLine": 219
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-219",
+              "sourceLine": 219
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-a453254382",
+      "question": "Sensory functions",
+      "preferredVariantId": "v-644a539a9f",
+      "variants": [
+        {
+          "id": "v-644a539a9f",
+          "answer": "Supplies laryngeal mucosa below the vocal folds.",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-220",
+              "sourceLine": 220
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-220",
+              "sourceLine": 220
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-bc53d10c57",
+      "question": "Lesion",
+      "preferredVariantId": "v-5abd371f31",
+      "variants": [
+        {
+          "id": "v-5abd371f31",
+          "answer": "Unilateral injury causes hoarseness from ipsilateral vocal-fold paralysis; bilateral injury can cause severe airway obstruction because both vocal folds may remain near the midline.",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-221",
+              "sourceLine": 221
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-221",
+              "sourceLine": 221
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-b03737e3cd",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-84c5a64d00",
+      "variants": [
+        {
+          "id": "v-84c5a64d00",
+          "answer": "At risk in thyroid surgery and mediastinal pathology; the left nerve may be affected by aortic arch enlargement.",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-222",
+              "sourceLine": 222
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-222",
+              "sourceLine": 222
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "larynx-model-gs7",
+      "section": "Arteries and nerves",
+      "path": [
+        "27"
+      ],
+      "label": "27"
+    },
+    {
+      "modelId": "larynx-and-airway-model-gs5",
+      "section": "Arteries and nerves",
+      "path": [
+        "27"
+      ],
+      "label": "27"
+    }
+  ]
+}

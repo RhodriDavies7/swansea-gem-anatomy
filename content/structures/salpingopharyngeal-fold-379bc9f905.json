@@ -1,0 +1,132 @@
+{
+  "id": "salpingopharyngeal-fold-379bc9f905",
+  "name": "Salpingopharyngeal fold",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [],
+  "organs": [],
+  "tags": [
+    "Function",
+    "MidSagittal",
+    "MidlineStructures",
+    "MucosalFold",
+    "Structure"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-12db0006cf",
+      "variants": [
+        {
+          "id": "v-12db0006cf",
+          "answer": "Salpingopharyngeal fold",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-376",
+              "sourceLine": 376
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-257",
+              "sourceLine": 257
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-9c4d3cab8d",
+      "variants": [
+        {
+          "id": "v-9c4d3cab8d",
+          "answer": "Mucosal fold over salpingopharyngeus muscle descending from auditory tube region.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-377",
+              "sourceLine": 377
+            }
+          ]
+        },
+        {
+          "id": "v-0da241d643",
+          "answer": "Mucosal fold over salpingopharyngeus descending from auditory-tube region.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-258",
+              "sourceLine": 258
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-7d9f28a118",
+      "variants": [
+        {
+          "id": "v-7d9f28a118",
+          "answer": "Salpingopharyngeus elevates pharynx during swallowing and may assist opening of auditory tube.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-378",
+              "sourceLine": 378
+            }
+          ]
+        },
+        {
+          "id": "v-3b3d57f887",
+          "answer": "Salpingopharyngeus elevates pharynx during swallowing and may assist tube opening.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-259",
+              "sourceLine": 259
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "coronal-and-mid-sagittal-head-mb20",
+      "section": "Other midline structures",
+      "path": [
+        "e"
+      ],
+      "label": "e"
+    },
+    {
+      "modelId": "half-head-and-neck-model-bs9",
+      "section": "Other midline structures",
+      "path": [
+        "e"
+      ],
+      "label": "e"
+    }
+  ]
+}

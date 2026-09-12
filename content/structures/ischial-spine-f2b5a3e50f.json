@@ -1,0 +1,127 @@
+{
+  "id": "ischial-spine-f2b5a3e50f",
+  "name": "Ischial spine",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Bones"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Attachments",
+    "Bone",
+    "BonyLandmark",
+    "Clinical",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-0592f71829",
+      "variants": [
+        {
+          "id": "v-0592f71829",
+          "answer": "Ischial spine",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-546",
+              "sourceLine": 546
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-bcf605d6bb",
+      "question": "Bone",
+      "preferredVariantId": "v-427c03592e",
+      "variants": [
+        {
+          "id": "v-427c03592e",
+          "answer": "Ischium of hip bone.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-547",
+              "sourceLine": 547
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6771ade6e8",
+      "question": "Attachments",
+      "preferredVariantId": "v-db487a4015",
+      "variants": [
+        {
+          "id": "v-db487a4015",
+          "answer": "Sacrospinous ligament; superior gemellus; coccygeus; posterior attachment of tendinous arch of levator ani.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-548",
+              "sourceLine": 548
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-acfeb9c3a4",
+      "variants": [
+        {
+          "id": "v-acfeb9c3a4",
+          "answer": "Separates greater and lesser sciatic notches; pudendal nerve and internal pudendal vessels pass near its posterior aspect.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-549",
+              "sourceLine": 549
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-b03737e3cd",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-5af6d79b4c",
+      "variants": [
+        {
+          "id": "v-5af6d79b4c",
+          "answer": "Palpable landmark for pudendal nerve block.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-550",
+              "sourceLine": 550
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "lower-limb-model-ns10",
+      "section": "Bones",
+      "path": [
+        "75"
+      ],
+      "label": "75"
+    }
+  ]
+}

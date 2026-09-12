@@ -1,0 +1,206 @@
+{
+  "id": "vestibule-85d539a683",
+  "name": "Vestibule",
+  "aliases": [],
+  "scope": "Head and neck",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [],
+  "organs": [
+    "Ear"
+  ],
+  "tags": [
+    "Contents",
+    "Function",
+    "InnerEar",
+    "InnerEarStructure",
+    "Location",
+    "Structure",
+    "VestibularApparatus"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-d9d2dc55c8",
+      "variants": [
+        {
+          "id": "v-d9d2dc55c8",
+          "answer": "Vestibule",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-199",
+              "sourceLine": 199
+            },
+            {
+              "modelId": "ear-model-ds3",
+              "cardId": "ear-model-ds3-101",
+              "sourceLine": 101
+            },
+            {
+              "modelId": "inner-ear-model-ds17",
+              "cardId": "inner-ear-model-ds17-68",
+              "sourceLine": 68
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-473aaac4ee",
+      "variants": [
+        {
+          "id": "v-473aaac4ee",
+          "answer": "Central part of the bony labyrinth between cochlea and semicircular canals.",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-200",
+              "sourceLine": 200
+            },
+            {
+              "modelId": "ear-model-ds3",
+              "cardId": "ear-model-ds3-102",
+              "sourceLine": 102
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f5cbdf6bfb",
+      "question": "Contents",
+      "preferredVariantId": "v-94204f5d24",
+      "variants": [
+        {
+          "id": "v-94204f5d24",
+          "answer": "Contains the utricle and saccule of the membranous labyrinth.",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-201",
+              "sourceLine": 201
+            },
+            {
+              "modelId": "ear-model-ds3",
+              "cardId": "ear-model-ds3-103",
+              "sourceLine": 103
+            }
+          ]
+        },
+        {
+          "id": "v-6f28507860",
+          "answer": "Contains utricle and saccule of membranous labyrinth.",
+          "sources": [
+            {
+              "modelId": "inner-ear-model-ds17",
+              "cardId": "inner-ear-model-ds17-70",
+              "sourceLine": 70
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-ae7173a027",
+      "variants": [
+        {
+          "id": "v-ae7173a027",
+          "answer": "Participates in static equilibrium and linear acceleration sensing through utricle and saccule.",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-202",
+              "sourceLine": 202
+            }
+          ]
+        },
+        {
+          "id": "v-85e26eaecb",
+          "answer": "Participates in static equilibrium and linear acceleration sensing through the utricle and saccule.",
+          "sources": [
+            {
+              "modelId": "ear-model-ds3",
+              "cardId": "ear-model-ds3-104",
+              "sourceLine": 104
+            }
+          ]
+        },
+        {
+          "id": "v-cda2923996",
+          "answer": "Detects linear acceleration and head position relative to gravity.",
+          "sources": [
+            {
+              "modelId": "inner-ear-model-ds17",
+              "cardId": "inner-ear-model-ds17-71",
+              "sourceLine": 71
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-05da886f49",
+      "variants": [
+        {
+          "id": "v-05da886f49",
+          "answer": "Central part of bony labyrinth between cochlea and semicircular canals.",
+          "sources": [
+            {
+              "modelId": "inner-ear-model-ds17",
+              "cardId": "inner-ear-model-ds17-69",
+              "sourceLine": 69
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "ear-largest-model-ds1",
+      "section": "D. Inner ear",
+      "path": [
+        "31"
+      ],
+      "label": "31"
+    },
+    {
+      "modelId": "ear-model-ds3",
+      "section": "C. Inner ear",
+      "path": [
+        "13"
+      ],
+      "label": "13"
+    },
+    {
+      "modelId": "inner-ear-model-ds17",
+      "section": "Vestibular apparatus",
+      "path": [
+        "8"
+      ],
+      "label": "8"
+    }
+  ]
+}

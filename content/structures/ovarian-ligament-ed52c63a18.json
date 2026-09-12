@@ -1,0 +1,169 @@
+{
+  "id": "ovarian-ligament-ed52c63a18",
+  "name": "Ovarian ligament",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Ligaments"
+  ],
+  "regions": [
+    "Pelvis"
+  ],
+  "systems": [
+    "Musculoskeletal",
+    "Reproductive"
+  ],
+  "organs": [],
+  "tags": [
+    "Attachments",
+    "Embryology",
+    "Function",
+    "Ligament"
+  ],
+  "imageIds": [
+    "img-e713e768b32e"
+  ],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-d6b67f2898",
+      "variants": [
+        {
+          "id": "v-d6b67f2898",
+          "answer": "Ovarian ligament",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-361",
+              "sourceLine": 361
+            },
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-114",
+              "sourceLine": 114
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6771ade6e8",
+      "question": "Attachments",
+      "preferredVariantId": "v-496ecee75d",
+      "variants": [
+        {
+          "id": "v-496ecee75d",
+          "answer": "Medial ovary to lateral uterus just inferior to uterine tube.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-362",
+              "sourceLine": 362
+            }
+          ]
+        },
+        {
+          "id": "v-2cbf9f16b8",
+          "answer": "Extends from medial pole of ovary to lateral angle of the uterus, just inferior to the uterine tube.",
+          "sources": [
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-115",
+              "sourceLine": 115
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-f99982a01a",
+      "variants": [
+        {
+          "id": "v-f99982a01a",
+          "answer": "Anchors ovary to uterus.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-363",
+              "sourceLine": 363
+            }
+          ]
+        },
+        {
+          "id": "v-a946fb953a",
+          "answer": "Helps anchor the ovary to the uterus.",
+          "sources": [
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-116",
+              "sourceLine": 116
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-7653a79b3b",
+      "question": "Embryology",
+      "preferredVariantId": "v-c8cc596266",
+      "variants": [
+        {
+          "id": "v-c8cc596266",
+          "answer": "Derived from gubernaculum.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-364",
+              "sourceLine": 364
+            }
+          ]
+        },
+        {
+          "id": "v-12f335b556",
+          "answer": "Derived from the gubernaculum.",
+          "sources": [
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-117",
+              "sourceLine": 117
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "female-pelvis-model-mo8",
+      "section": "",
+      "path": [
+        "54"
+      ],
+      "label": "54"
+    },
+    {
+      "modelId": "female-reproductive-system-model-ms1",
+      "section": "",
+      "path": [
+        "16"
+      ],
+      "label": "16"
+    }
+  ]
+}

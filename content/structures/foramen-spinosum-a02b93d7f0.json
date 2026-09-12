@@ -1,0 +1,88 @@
+{
+  "id": "foramen-spinosum-a02b93d7f0",
+  "name": "Foramen spinosum",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [],
+  "organs": [],
+  "tags": [
+    "Bone",
+    "Contents",
+    "Foramen",
+    "HeadNeck"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-04107869dc",
+      "variants": [
+        {
+          "id": "v-04107869dc",
+          "answer": "Foramen spinosum",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-114",
+              "sourceLine": 114
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-bcf605d6bb",
+      "question": "Bone",
+      "preferredVariantId": "v-245e3b2f4e",
+      "variants": [
+        {
+          "id": "v-245e3b2f4e",
+          "answer": "Greater wing of sphenoid.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-115",
+              "sourceLine": 115
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f5cbdf6bfb",
+      "question": "Contents",
+      "preferredVariantId": "v-c1aefe93dd",
+      "variants": [
+        {
+          "id": "v-c1aefe93dd",
+          "answer": "Middle meningeal artery/vein and meningeal branch of V3.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-116",
+              "sourceLine": 116
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "head-and-neck-model-cs17-2",
+      "section": "Bony structures, foramina and ear structures",
+      "path": [
+        "22"
+      ],
+      "label": "22"
+    }
+  ]
+}

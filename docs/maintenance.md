@@ -1,71 +1,205 @@
-# Swansea GEM Anatomy
+## Photos of the same structure on different models
 
-A standalone static website using the 34 supplied RemNote guides (6,353 cards). Model titles, question wording, answers, tag spelling and source ordering are preserved. No importer, database, accounts, spaced repetition, browser storage, or persistent learning state.
+In the local Add images page, choose the shared structure, then the model pictured. Add each photo separately. All photos stay attached to one structure and use its shared answers. The library shows the model name below each photo, with Previous/Next controls. Mock spotters randomly select one eligible photo per structure, so additional model photos do not duplicate that structure within an exam.
 
-## Run locally
+For photos with a physical pin, select “The photo already has a clear physical pin marking the target” and enable spotters. No digital marker is needed. Ensure only the intended target is pinned and no visible label gives away the answer. For unmarked photos, click the target to place marker A. General images can leave the model unspecified. The CLI also accepts `--model MODEL_ID`.
 
-Install Node.js 20 or newer, open a terminal in this Anatomy folder, and run:
+# Maintaining the anatomy library
+
+## Add images using the local page
+
+1. Run `npm start` in the Anatomy folder (restart it if it was running before this update).
+2. Open http://127.0.0.1:4173/manage-images or choose **Add images** in the local library.
+3. Search for a structure and select it.
+4. Choose a JPG, PNG or WebP image (up to 5 MB).
+5. For exam use, choose an image without answer labels, tick **Use this image for spotters and identification**, then click the structure to place marker A.
+6. Add a description and optional credit, then select **Save to the library**.
+
+The page copies the image, links it to the shared structure and rebuilds the data. No IDs or JSON editing needed. Publish the project changes to share the new images. This editing page runs locally; the public GitHub Pages site only serves revision content.
+
+## Mock spotter
+
+Open `spotter.html` or choose **Mock spotter**. A full mock selects 30 distinct image-ready structures and mixes identification, actions, innervation and other available topics. Below 30 eligible structures, a shorter practice run is available. Region filters apply to eligibility. Choose untimed, 30-minute or 45-minute timing; shorter runs receive proportional time. These are configurable practice timings, not a claim about the official assessment format.
+
+Write responses, flag questions and navigate freely. Submit to reveal the answers and self-mark each question. Timed runs submit when time expires. Responses and marks exist only in the current tab and disappear when you leave or refresh.
+
+The older command-line image workflow below still works, including separate labelled answer images. Images added with the new page store `quizMarker` coordinates between 0 and 1; the marker is displayed over the original image without altering it.
+
+
+The app has two views: **Model revision** for use with the lab models, and **Anatomy library** for searching and revising across models. Both read the same shared facts.
+
+It remains a static website compatible with GitHub Pages. There is no database server, account system or saved learning state. The JSON files act as related tables, and a small build command checks their links and prepares the files the browser reads.
+
+## Where to edit
+
+| Location | Purpose |
+| --- | --- |
+| `content/structures/<id>.json` | One shared structure: name, aliases, collections, facts, source versions and image references |
+| `content/models/<model>.json` | Model cards with their original labels/order and references to shared structures and facts |
+| `content/models.json` | Model names, filenames and selection photographs |
+| `content/images.json` | Shared image catalogue: paths, captions, credit and optional quiz image settings |
+| `dist/images/structures/` | Local structure image files served by the website |
+| `source-guides/` | Unchanged original RemNote text, retained as source evidence |
+| `content/review-needed.json` | Generated list of questions that have multiple answers without a preferred version |
+| `content/merged/` | Original records archived by the reviewed merge tool |
+| `dist/data/` | Generated browser data; edit `content/` instead |
+
+After changing content:
 
 ```sh
-npm start
+npm run build:data
+npm test
 ```
 
-Open http://127.0.0.1:4173. No dependency installation or build is required. Stop with Ctrl+C. Set PORT if that port is already in use. Opening index.html directly is not supported because the browser needs HTTP to fetch the model data.
+Refresh the preview after building. Start the local server with `npm start` if it is not already running. The GitHub Pages workflow also builds and checks content before publishing a push to `main`.
 
-## Revision
+## Add your first image
 
-Choose a model, All cards or Identification only, and In order or Random. Tag chips show the source tags unchanged. Match all selected is an intersection; Match any selected is a union. With no selected tags, the full chosen card set is included. Chip counts reflect the selected card type; the run count reflects all active filters.
+Open a terminal in the Anatomy project. Find the structure's ID:
 
-Start creates an in-memory snapshot. Random order is shuffled once per run with Fisher–Yates, without duplicates. Reveal an answer before advancing. Previous hides the answer again. Space reveals and arrow keys navigate when focus is on the card. Buttons also work with standard keyboard activation. Reaching the last card offers a fresh run or a return to the filters. Reloading resets everything.
+```sh
+npm run structure:find -- "pectoralis major"
+```
 
-The export contains text, not photographs. Identification prompts show the original model label and section for use alongside the physical model. Other cards hide the structure name until Show structure name is selected or the answer is revealed. The hint reveals only the name, not the answer; it resets on each card. Identification answers remain hidden until revealed.
+For example, the shared record for Pectoralis major muscle is:
 
-## Files and architecture
+```text
+pectoralis-major-muscle-d03b5bc362
+```
 
-- `dist/index.html`, `dist/style.css`: responsive interface and reduced-motion support.
-- `dist/app.js`: model selection, chip controls, loading/error states and the in-memory session.
-- `dist/logic.js`: pure selection, shuffling and structure-context functions.
-- `dist/data/models.json`: model index with display names, filenames, counts and exact tag vocabulary.
-- `dist/data/<model-name>.json`: one static file per guide, loaded on selection.
-- `source-guides/`: original individual text guides, unchanged, retained for reference. The ZIP's aggregate Guides.txt is not duplicated as cards.
-- `server.mjs`: dependency-free local preview server, bound to your computer only.
-- `tests/revision.test.mjs`: source conversion and revision logic checks (`npm test`).
+Register a local JPG, PNG or WebP image with an accurate description:
 
-Source content is displayed as plain text, never executed as HTML or treated as application instructions. The optional WebMCP read tool reports the current selection in supporting browsers; it is not required for revision.
+```sh
+npm run image:add -- pectoralis-major-muscle-d03b5bc362 "/path/to/pectoralis-major.jpg" "Anterior view showing pectoralis major" --credit "Your image credit"
+npm run build:data
+```
 
-## Add or update a model
+Replace `/path/to/pectoralis-major.jpg` with your file's actual path. You can drag a file into Terminal to insert its path.
 
-Edit its static JSON file directly. Cards follow this shape:
+The command copies the image into `dist/images/structures/`, gives it a stable filename, adds an entry to `content/images.json`, and links it to the structure. That single image is then available wherever that structure is used; it does not need a separate copy for every model. Re-running the same registration is rejected to prevent duplicates.
+
+The library will display the image when you select the structure. Multiple registered images form a browsable gallery. Add `--license "Licence name"` and `--source "https://source-page.example"` when relevant; captions and credit can also be edited in the image catalogue. Use images you have permission to share.
+
+## Add an image-identification question
+
+A general labelled diagram is useful for reading, but may reveal the answer in a quiz. Prepare a separate quiz image with the target marked (for example, an arrow or `A`) and the target's name hidden.
+
+Register both versions together:
+
+```sh
+npm run image:add -- pectoralis-major-muscle-d03b5bc362 "/path/to/reference.jpg" "Anterior view of pectoralis major" --quiz "/path/to/quiz.jpg" --quiz-alt "Identify the structure marked A" --answer "/path/to/labelled-answer.jpg" --credit "Your image credit"
+npm run build:data
+```
+
+`--answer` is optional. It displays a labelled image after revealing the answer. The quiz prompt uses only the neutral `--quiz-alt` description and the quiz image; image credit is shown after revealing to avoid giving away the target.
+
+The command sets `quizReady: true` and `quizStructureId` for that exact structure. The image-identification mode automatically includes it. Structures without a quiz-ready image are excluded from image-identification runs, while their text knowledge questions remain available.
+
+Only mark an image quiz-ready after checking the target is unambiguous and its name is not visible. A quiz image must target exactly one structure. The same source image file can be reused with different marked versions for different structures.
+
+### Editing the image catalogue directly
+
+An entry in `content/images.json` looks like:
 
 ```json
 {
-  "id": "unique-card-id",
-  "path": ["7", "a"],
-  "label": "7a",
-  "section": "B. Middle ear",
-  "question": "Identification",
-  "answer": "Your exact answer",
-  "tags": ["Identification", "Ossicle", "DS3"],
+  "id": "img-pectoralis-anterior",
+  "src": "images/structures/pectoralis-reference.jpg",
+  "alt": "Anterior view of pectoralis major",
+  "caption": "Anterior view",
+  "credit": "Your image credit",
+  "license": "",
+  "sourceUrl": "",
+  "quizReady": true,
+  "quizSrc": "images/structures/pectoralis-quiz.jpg",
+  "quizAlt": "Identify the structure marked A",
+  "quizStructureId": "pectoralis-major-muscle-d03b5bc362",
+  "answerSrc": "images/structures/pectoralis-answer.jpg"
+}
+```
+
+Add the image ID to the structure's `imageIds` array. Paths are relative to `dist/`, must begin `images/`, and must point to existing files. The builder rejects missing files, duplicate IDs, broken references and a quiz assigned to the wrong structure. A display-only image needs no quiz fields and uses `quizReady: false`.
+
+To reuse a display image on another structure, add the same image ID to that structure's `imageIds`. Its quiz will still only be used for `quizStructureId`. To replace an image, replace its file at the same path or update the catalogue path, then rebuild.
+
+## Standardise a fact once
+
+A structure contains facts with one or more source variants:
+
+```json
+{
+  "id": "f-example",
+  "question": "Actions",
+  "preferredVariantId": null,
+  "variants": [
+    { "id": "v-first", "answer": "First source answer", "sources": [] },
+    { "id": "v-second", "answer": "Another source answer", "sources": [] }
+  ]
+}
+```
+
+Every current topic has one selected `preferredVariantId`, following the editorial review. Older source versions remain stored for traceability. A future merge clears the preference when answers differ, so choose the shared answer before publishing.
+
+After reviewing the answers, set `preferredVariantId` to the variant you want to use (for example, `"v-first"`). For new wording, add a new variant and select its ID; keep the original variants unchanged. Rebuild, and the library, outside-lab revision and every model card referencing that fact use the preferred answer. Keep the other variants and their sources so the original material is not lost.
+
+To add a new standard answer while preserving the original wording, add a new variant with a unique ID, your answer, and `sources: []`, then select that ID. This is the recommended approach for substantive edits. The source-fidelity test checks original variants against the original guides, so changing original wording will deliberately flag a mismatch.
+
+Questions are distinct fields: `Actions`, `Innervation`, `Origin` and `Insertion`, for example. Renaming a structure does not automatically rewrite the original Identification answer; select or add the desired Identification variant as well.
+
+## Review duplicate names
+
+Initial consolidation merged exact names with case/spacing differences and reviewed muscle-name pairs that differed only by the word “muscle”. Original names remain aliases. Ambiguous names, including matching hand and foot structures, remain separate. A further 58 synonym pairs were reviewed and merged, including numbered cranial nerves and alternative anatomical names. Three same-name collisions were split using source context. See [Editorial review](editorial-review.md). There is no fuzzy automatic merge.
+
+Find both records, then preview a merge:
+
+```sh
+npm run structures:merge -- KEEP_ID MERGE_ID
+```
+
+Only if they refer to the same structure, including region and laterality:
+
+```sh
+npm run structures:merge -- KEEP_ID MERGE_ID --apply
+npm run build:data
+npm test
+```
+
+The tool keeps the first ID, adds the other name as an alias, combines facts and images, and updates model-card references. It preserves differing answers and clears the preference for combined questions with multiple versions. The original merged record is archived under `content/merged/`; Git records all file changes. To undo a merge, restore the structure, model and image files from before the merge together.
+
+Do not merge left/right structures, muscle parts, or similarly named structures from different regions simply because they look alike.
+
+## Collections and search
+
+Each structure has editable arrays: `types`, `systems`, `regions`, `organs`, `tags` and `aliases`. The filters are generated from these arrays, so adding a new collection requires no UI code.
+
+Initial types and systems use source tags; regions and organ collections also use source-model membership. These are starting collections for navigation, not a completed anatomical ontology. For example, structures appearing in a heart guide may appear in the Heart collection even when they are neighbouring vessels. Review and refine memberships in the structure files as needed.
+
+Search matches names, aliases, tags and the displayed fact answers. Filters combine: selecting Muscles and Upper limb narrows to structures in both. Knowledge revision offers topics within the selected structures and deduplicates identical shared fact versions. Image revision uses one ready quiz image per structure. No learning history is stored.
+
+## Model-card references
+
+A model card now stores references instead of copying a question and answer:
+
+```json
+{
+  "id": "original-card-id",
+  "structureId": "pectoralis-major-muscle-d03b5bc362",
+  "factId": "f-example",
+  "variantId": "v-first",
+  "label": "10",
+  "path": ["10"],
+  "section": "Muscles",
+  "tags": ["Action", "Muscle", "MS7"],
   "sourceLine": 42
 }
 ```
 
-The containing file has `id`, `name`, and a `cards` array. Keep cards in the desired sequential order. IDs must be unique within a model. `path` retains nesting; `label` is the readable prompt. Repeated labels in different sections must keep distinct sections. Use the exact `Identification` tag to include a card in Identification only. Questions and tags are separate: e.g. `Actions` can retain the source tag `Action`.
+Keep existing IDs, labels, sections and array order. `variantId` points to the original model answer; a preferred fact answer overrides it at display time. Images are reached through `structureId → imageIds → image catalogue`, so they are not duplicated per model.
 
-For a new model, create a new file and add an entry to `models.json`, with its `id`, exact `name`, `file`, total `count`, `identificationCount`, and the sorted unique `tags` from its cards. For updates, refresh these index fields and the retained guide if applicable. To use a future export, replace the corresponding static files in this same format; there is intentionally no import pipeline in the app. The initial fidelity test contains the original export totals; update those expectations when intentionally adding or removing content.
+## What is ready and what remains manual
 
-The two source filenames `Stomach (Model NS15)` and `Upper Limb (Model NS15)` are intentionally preserved as separate files and models. Source tags are also preserved independently of the filenames.
+The initial library contains 904 searchable structures and five retained model-note entries, with all 6,353 original model cards preserved. No current questions are waiting for a preferred answer; earlier source versions remain stored within the records. The builder refreshes the review list whenever content changes.
 
-## Share or host
+The existing model photographs remain in model selection. No structure-specific images have been guessed or substituted: the image catalogue starts empty. Add suitable images gradually; search and knowledge revision already work without them.
 
-Upload the contents of `dist/` to any static web host. No Node server, secrets, database, or build step is needed in production. Keep data filenames and relative paths together. `source-guides/` and tests need not be published. A private hosting preview is separate from the runnable local codebase.
-
-## Model selection images
-
-All 34 models have a thumbnail in the model list and a larger photograph beside the selected model's name. Images use contain sizing so tall models are shown in full, without cropping. They do not appear on revision cards.
-
-Original photographs remain in Images/. Browser-ready copies are in dist/images/. Each entry in dist/data/models.json has an image path relative to dist/. To replace an image, replace that file. To add one, copy it into dist/images/ and set the model's image field, for example images/ms7.jpg. JPG, JPEG and PNG are supported.
-
-Colon-separated image codes map to underscore-separated model codes (BS8:1 → BS8_1). The Stomach (Model NS15) entry explicitly uses JS4.jpg, which depicts the stomach; Upper Limb uses NS15.jpg. Display names and card data remain unchanged.
-
-Tag search filters the visible chips only, ignoring case and an optional leading #. Selected tags remain active when hidden by a search. Clear the search to see all chips again; Clear filters removes the selected tags. Switching models clears the tag search.
+Image descriptions in the local uploader are optional. Leaving one blank generates accessible text from the structure name and, when selected, the model name. Exam image descriptions remain neutral.

@@ -1,0 +1,127 @@
+{
+  "id": "gluteus-maximus-muscle-59895725fb",
+  "name": "Gluteus maximus muscle",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-b9b59bd32d",
+      "variants": [
+        {
+          "id": "v-b9b59bd32d",
+          "answer": "Gluteus maximus muscle",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-15",
+              "sourceLine": 15
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-5ef988bb8d",
+      "variants": [
+        {
+          "id": "v-5ef988bb8d",
+          "answer": "Extends and laterally rotates the hip; especially active when rising or climbing; helps stabilise the knee through the iliotibial tract.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-16",
+              "sourceLine": 16
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-a9d5fb4d0e",
+      "variants": [
+        {
+          "id": "v-a9d5fb4d0e",
+          "answer": "Inferior gluteal nerve (L5–S2).",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-17",
+              "sourceLine": 17
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-bb85803812",
+      "variants": [
+        {
+          "id": "v-bb85803812",
+          "answer": "Ilium posterior to the posterior gluteal line; dorsal sacrum and coccyx; sacrotuberous ligament.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-18",
+              "sourceLine": 18
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-de9f4aa57f",
+      "variants": [
+        {
+          "id": "v-de9f4aa57f",
+          "answer": "Iliotibial tract and gluteal tuberosity of femur.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-19",
+              "sourceLine": 19
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "lower-limb-model-ns10",
+      "section": "Muscles",
+      "path": [
+        "3"
+      ],
+      "label": "3"
+    }
+  ]
+}

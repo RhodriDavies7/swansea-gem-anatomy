@@ -1,0 +1,247 @@
+{
+  "id": "maxilla-8ba086319d",
+  "name": "Maxilla",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Bones"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Musculoskeletal",
+    "Respiratory"
+  ],
+  "organs": [],
+  "tags": [
+    "Articulations",
+    "Bone",
+    "BonyStructures",
+    "HeadNeck",
+    "Landmarks",
+    "MidSagittal",
+    "NasalCavity",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-7891c254b0",
+      "variants": [
+        {
+          "id": "v-7891c254b0",
+          "answer": "Maxilla",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-196",
+              "sourceLine": 196
+            },
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-26",
+              "sourceLine": 26
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-36",
+              "sourceLine": 36
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-50",
+              "sourceLine": 50
+            },
+            {
+              "modelId": "nose-and-nasal-cavity-model-fs3",
+              "cardId": "nose-and-nasal-cavity-model-fs3-118",
+              "sourceLine": 118
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-a40bee8d10",
+      "question": "Articulations",
+      "preferredVariantId": "v-c39df9eb7d",
+      "variants": [
+        {
+          "id": "v-c39df9eb7d",
+          "answer": "Articulates with multiple facial bones and contributes to hard palate, orbit and nasal cavity.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-197",
+              "sourceLine": 197
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-37",
+              "sourceLine": 37
+            }
+          ]
+        },
+        {
+          "id": "v-ed3784e6a8",
+          "answer": "Articulates with multiple facial bones and contributes to the hard palate, nasal cavity and orbit.",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-27",
+              "sourceLine": 27
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-626b6c1d45",
+      "question": "Landmarks",
+      "preferredVariantId": "v-814dae2090",
+      "variants": [
+        {
+          "id": "v-814dae2090",
+          "answer": "Alveolar process, palatine process, infraorbital foramen and maxillary sinus.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-198",
+              "sourceLine": 198
+            },
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-28",
+              "sourceLine": 28
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-38",
+              "sourceLine": 38
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-51",
+              "sourceLine": 51
+            },
+            {
+              "modelId": "nose-and-nasal-cavity-model-fs3",
+              "cardId": "nose-and-nasal-cavity-model-fs3-119",
+              "sourceLine": 119
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-38f72584c1",
+      "variants": [
+        {
+          "id": "v-83d3066673",
+          "answer": "Houses upper teeth and forms much of the midface.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-199",
+              "sourceLine": 199
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-39",
+              "sourceLine": 39
+            }
+          ]
+        },
+        {
+          "id": "v-f0c03e4f5e",
+          "answer": "Houses the upper teeth and forms much of the midface.",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-29",
+              "sourceLine": 29
+            }
+          ]
+        },
+        {
+          "id": "v-ee26f36bb7",
+          "answer": "Forms upper jaw, hard palate, orbital floor and lateral nasal wall.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-52",
+              "sourceLine": 52
+            }
+          ]
+        },
+        {
+          "id": "v-38f72584c1",
+          "answer": "Forms upper jaw, orbital floor, lateral nasal wall and anterior hard palate.",
+          "sources": [
+            {
+              "modelId": "nose-and-nasal-cavity-model-fs3",
+              "cardId": "nose-and-nasal-cavity-model-fs3-120",
+              "sourceLine": 120
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "coronal-and-mid-sagittal-head-mb20",
+      "section": "Bony structures",
+      "path": [
+        "G"
+      ],
+      "label": "G"
+    },
+    {
+      "modelId": "deep-face-model-bs8-1",
+      "section": "",
+      "path": [
+        "5"
+      ],
+      "label": "5"
+    },
+    {
+      "modelId": "half-head-and-neck-model-bs9",
+      "section": "Bony structures",
+      "path": [
+        "G"
+      ],
+      "label": "G"
+    },
+    {
+      "modelId": "head-and-neck-model-cs17-2",
+      "section": "Bony structures, foramina and ear structures",
+      "path": [
+        "10"
+      ],
+      "label": "10"
+    },
+    {
+      "modelId": "nose-and-nasal-cavity-model-fs3",
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "path": [
+        "6"
+      ],
+      "label": "6"
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "id": "latissimus-dorsi-muscle-e787479866",
+  "name": "Latissimus dorsi muscle",
+  "aliases": [
+    "Latissimus dorsi"
+  ],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "AttachmentSite",
+    "Attachments",
+    "Innervation",
+    "Muscle",
+    "Insertion",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-7e905dd37d",
+      "variants": [
+        {
+          "id": "v-7e905dd37d",
+          "answer": "Latissimus dorsi muscle",
+          "sources": [
+            {
+              "modelId": "rotator-cuff-qs55-6",
+              "cardId": "rotator-cuff-qs55-6-125",
+              "sourceLine": 125
+            }
+          ]
+        },
+        {
+          "id": "v-f5bd4c436d",
+          "answer": "Latissimus dorsi",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-27",
+              "sourceLine": 27
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-531c9dad58",
+      "question": "Attachment on model",
+      "preferredVariantId": "v-78a40e0b06",
+      "variants": [
+        {
+          "id": "v-78a40e0b06",
+          "answer": "Inserts on the floor of the intertubercular sulcus of humerus.",
+          "sources": [
+            {
+              "modelId": "rotator-cuff-qs55-6",
+              "cardId": "rotator-cuff-qs55-6-126",
+              "sourceLine": 126
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-ea449988b1",
+      "variants": [
+        {
+          "id": "v-b18ff931e1",
+          "answer": "Extends, adducts and medially rotates arm.",
+          "sources": [
+            {
+              "modelId": "rotator-cuff-qs55-6",
+              "cardId": "rotator-cuff-qs55-6-127",
+              "sourceLine": 127
+            }
+          ]
+        },
+        {
+          "id": "v-ea449988b1",
+          "answer": "Extends, adducts and medially rotates the arm; can help raise the trunk toward the arms during climbing.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-28",
+              "sourceLine": 28
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-1341f01103",
+      "variants": [
+        {
+          "id": "v-1341f01103",
+          "answer": "Thoracodorsal nerve (C6–C8).",
+          "sources": [
+            {
+              "modelId": "rotator-cuff-qs55-6",
+              "cardId": "rotator-cuff-qs55-6-128",
+              "sourceLine": 128
+            },
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-29",
+              "sourceLine": 29
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-6020d2d1dd",
+      "variants": [
+        {
+          "id": "v-6020d2d1dd",
+          "answer": "Spinous processes T7–T12, thoracolumbar fascia, iliac crest and lower ribs; variable slip from inferior angle of scapula.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-30",
+              "sourceLine": 30
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-435b24f760",
+      "variants": [
+        {
+          "id": "v-435b24f760",
+          "answer": "Floor of intertubercular sulcus of humerus.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-31",
+              "sourceLine": 31
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "rotator-cuff-qs55-6",
+      "section": "Muscle attachment sites",
+      "path": [
+        "21"
+      ],
+      "label": "21"
+    },
+    {
+      "modelId": "upper-limb-model-ns15",
+      "section": "Muscles",
+      "path": [
+        "5"
+      ],
+      "label": "5"
+    }
+  ]
+}

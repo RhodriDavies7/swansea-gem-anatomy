@@ -1,0 +1,177 @@
+{
+  "id": "obturator-membrane-03523eba71",
+  "name": "Obturator membrane",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Lower limb",
+    "Pelvis"
+  ],
+  "systems": [
+    "Reproductive"
+  ],
+  "organs": [],
+  "tags": [
+    "Attachments",
+    "Contents",
+    "Function",
+    "LigamentsAndJoint",
+    "Membrane",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-778c1b7ab4",
+      "variants": [
+        {
+          "id": "v-778c1b7ab4",
+          "answer": "Obturator membrane",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-74",
+              "sourceLine": 74
+            },
+            {
+              "modelId": "hip-joint-model-ns20",
+              "cardId": "hip-joint-model-ns20-80",
+              "sourceLine": 80
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6771ade6e8",
+      "question": "Attachments",
+      "preferredVariantId": "v-098348af30",
+      "variants": [
+        {
+          "id": "v-28a4dee381",
+          "answer": "Closes most of the obturator foramen, attaching to its bony margins.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-75",
+              "sourceLine": 75
+            }
+          ]
+        },
+        {
+          "id": "v-098348af30",
+          "answer": "Attaches around margins of obturator foramen, leaving the obturator canal superiorly.",
+          "sources": [
+            {
+              "modelId": "hip-joint-model-ns20",
+              "cardId": "hip-joint-model-ns20-81",
+              "sourceLine": 81
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-d21c731041",
+      "variants": [
+        {
+          "id": "v-d21c731041",
+          "answer": "Provides muscle attachment and leaves the obturator canal for neurovascular passage.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-76",
+              "sourceLine": 76
+            }
+          ]
+        },
+        {
+          "id": "v-a365816bef",
+          "answer": "Closes most of obturator foramen and provides attachment for obturator muscles.",
+          "sources": [
+            {
+              "modelId": "hip-joint-model-ns20",
+              "cardId": "hip-joint-model-ns20-82",
+              "sourceLine": 82
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-f5cbdf6bfb",
+      "question": "Contents",
+      "preferredVariantId": "v-80c557c43e",
+      "variants": [
+        {
+          "id": "v-80c557c43e",
+          "answer": "Obturator nerve and vessels pass through the obturator canal.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-77",
+              "sourceLine": 77
+            },
+            {
+              "modelId": "hip-joint-model-ns20",
+              "cardId": "hip-joint-model-ns20-83",
+              "sourceLine": 83
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-9943d12814",
+      "variants": [
+        {
+          "id": "v-9943d12814",
+          "answer": "Obturator internus arises from its pelvic surface and obturator externus from its external surface.",
+          "sources": [
+            {
+              "modelId": "hip-joint-model-ns20",
+              "cardId": "hip-joint-model-ns20-84",
+              "sourceLine": 84
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "female-pelvis-model-mo8",
+      "section": "",
+      "path": [
+        "13"
+      ],
+      "label": "13"
+    },
+    {
+      "modelId": "hip-joint-model-ns20",
+      "section": "Ligaments and joint structures",
+      "path": [
+        "9"
+      ],
+      "label": "9"
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "id": "middle-meningeal-artery-ac4b5a3ea6",
+  "name": "Middle meningeal artery",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Arteries"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Cardiovascular"
+  ],
+  "organs": [],
+  "tags": [
+    "Artery",
+    "Clinical",
+    "Course",
+    "Origin",
+    "Supply"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-2bcba67031",
+      "variants": [
+        {
+          "id": "v-2bcba67031",
+          "answer": "Middle meningeal artery",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-120",
+              "sourceLine": 120
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-2c04a5ad37",
+      "variants": [
+        {
+          "id": "v-2c04a5ad37",
+          "answer": "Usually a branch of the maxillary artery.",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-121",
+              "sourceLine": 121
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-b21fe9b682",
+      "variants": [
+        {
+          "id": "v-b21fe9b682",
+          "answer": "Enters the cranial cavity through foramen spinosum and runs between dura and inner skull.",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-122",
+              "sourceLine": 122
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-222db0fc1c",
+      "question": "Supply",
+      "preferredVariantId": "v-6569b4d180",
+      "variants": [
+        {
+          "id": "v-6569b4d180",
+          "answer": "Dura mater and calvarial structures.",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-123",
+              "sourceLine": 123
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-b03737e3cd",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-972e6d5d78",
+      "variants": [
+        {
+          "id": "v-972e6d5d78",
+          "answer": "Vulnerable near the pterion; rupture can cause an epidural haematoma.",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-124",
+              "sourceLine": 124
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "cranial-floor-model-bs1",
+      "section": "",
+      "path": [
+        "20"
+      ],
+      "label": "20"
+    }
+  ]
+}

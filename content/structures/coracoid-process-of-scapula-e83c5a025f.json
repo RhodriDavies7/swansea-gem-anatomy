@@ -1,0 +1,127 @@
+{
+  "id": "coracoid-process-of-scapula-e83c5a025f",
+  "name": "Coracoid process (of scapula)",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Bones"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Attachments",
+    "Bone",
+    "BonyLandmark",
+    "Clinical",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-87cd2bf6a1",
+      "variants": [
+        {
+          "id": "v-87cd2bf6a1",
+          "answer": "Coracoid process (of scapula)",
+          "sources": [
+            {
+              "modelId": "deep-shoulder-model-ns17",
+              "cardId": "deep-shoulder-model-ns17-23",
+              "sourceLine": 23
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-bcf605d6bb",
+      "question": "Bone",
+      "preferredVariantId": "v-8b89fc5935",
+      "variants": [
+        {
+          "id": "v-8b89fc5935",
+          "answer": "Scapula.",
+          "sources": [
+            {
+              "modelId": "deep-shoulder-model-ns17",
+              "cardId": "deep-shoulder-model-ns17-24",
+              "sourceLine": 24
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6771ade6e8",
+      "question": "Attachments",
+      "preferredVariantId": "v-7f9031df82",
+      "variants": [
+        {
+          "id": "v-7f9031df82",
+          "answer": "Short head of biceps and coracobrachialis arise from its tip; pectoralis minor inserts medially; coracoacromial, coracoclavicular and coracohumeral ligaments attach to it.",
+          "sources": [
+            {
+              "modelId": "deep-shoulder-model-ns17",
+              "cardId": "deep-shoulder-model-ns17-25",
+              "sourceLine": 25
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-02bea04f01",
+      "variants": [
+        {
+          "id": "v-02bea04f01",
+          "answer": "Projects anterolaterally above the glenoid and is palpable below the lateral clavicle.",
+          "sources": [
+            {
+              "modelId": "deep-shoulder-model-ns17",
+              "cardId": "deep-shoulder-model-ns17-26",
+              "sourceLine": 26
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-b03737e3cd",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-25290a6214",
+      "variants": [
+        {
+          "id": "v-25290a6214",
+          "answer": "Important landmark in shoulder surgery and in stabilisation of the acromioclavicular complex.",
+          "sources": [
+            {
+              "modelId": "deep-shoulder-model-ns17",
+              "cardId": "deep-shoulder-model-ns17-27",
+              "sourceLine": 27
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "deep-shoulder-model-ns17",
+      "section": "",
+      "path": [
+        "4"
+      ],
+      "label": "4"
+    }
+  ]
+}

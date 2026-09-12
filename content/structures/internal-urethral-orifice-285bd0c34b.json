@@ -1,0 +1,109 @@
+{
+  "id": "internal-urethral-orifice-285bd0c34b",
+  "name": "Internal urethral orifice",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Abdomen"
+  ],
+  "systems": [
+    "Urinary"
+  ],
+  "organs": [],
+  "tags": [
+    "Function",
+    "Location",
+    "Opening",
+    "Relations",
+    "UrinarySystem"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-2ea1b3b012",
+      "variants": [
+        {
+          "id": "v-2ea1b3b012",
+          "answer": "Internal urethral orifice",
+          "sources": [
+            {
+              "modelId": "urinary-system-model-ls3-1",
+              "cardId": "urinary-system-model-ls3-1-37",
+              "sourceLine": 37
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-46dda56b48",
+      "variants": [
+        {
+          "id": "v-46dda56b48",
+          "answer": "Opening at the bladder neck where the urethra begins.",
+          "sources": [
+            {
+              "modelId": "urinary-system-model-ls3-1",
+              "cardId": "urinary-system-model-ls3-1-38",
+              "sourceLine": 38
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-da09a43b96",
+      "variants": [
+        {
+          "id": "v-da09a43b96",
+          "answer": "Forms the inferior point of the bladder trigone.",
+          "sources": [
+            {
+              "modelId": "urinary-system-model-ls3-1",
+              "cardId": "urinary-system-model-ls3-1-39",
+              "sourceLine": 39
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-be54cb4467",
+      "variants": [
+        {
+          "id": "v-be54cb4467",
+          "answer": "Allows urine to pass from bladder into urethra.",
+          "sources": [
+            {
+              "modelId": "urinary-system-model-ls3-1",
+              "cardId": "urinary-system-model-ls3-1-40",
+              "sourceLine": 40
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "urinary-system-model-ls3-1",
+      "section": "Major urinary structures",
+      "path": [
+        "7"
+      ],
+      "label": "7"
+    }
+  ]
+}

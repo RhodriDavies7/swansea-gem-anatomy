@@ -1,0 +1,146 @@
+{
+  "id": "ductus-deferens-57a1aa2b18",
+  "name": "Ductus deferens",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Pelvis"
+  ],
+  "systems": [
+    "Reproductive"
+  ],
+  "organs": [],
+  "tags": [
+    "Course",
+    "Function",
+    "Innervation",
+    "Relations",
+    "Termination",
+    "Tube"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-e801bdd0cf",
+      "variants": [
+        {
+          "id": "v-e801bdd0cf",
+          "answer": "Ductus deferens",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-88",
+              "sourceLine": 88
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-2c02102dca",
+      "variants": [
+        {
+          "id": "v-2c02102dca",
+          "answer": "Transports sperm from the epididymis toward the ejaculatory duct.",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-89",
+              "sourceLine": 89
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-ea8eda8a24",
+      "variants": [
+        {
+          "id": "v-ea8eda8a24",
+          "answer": "Ascends in the spermatic cord, passes through the inguinal canal, crosses the external iliac vessels, then runs along the lateral pelvic wall and posterior bladder before enlarging as the ampulla.",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-90",
+              "sourceLine": 90
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-2ee8521886",
+      "question": "Termination",
+      "preferredVariantId": "v-6a57eb7d5a",
+      "variants": [
+        {
+          "id": "v-6a57eb7d5a",
+          "answer": "Joins the duct of the seminal vesicle to form the ejaculatory duct.",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-91",
+              "sourceLine": 91
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-babd6b4100",
+      "variants": [
+        {
+          "id": "v-babd6b4100",
+          "answer": "Passes superior to the ureter near the posterolateral bladder.",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-92",
+              "sourceLine": 92
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-283527a39f",
+      "variants": [
+        {
+          "id": "v-283527a39f",
+          "answer": "Sympathetic fibres from pelvic plexuses drive strong peristaltic contraction during emission.",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-93",
+              "sourceLine": 93
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "male-reproductive-system-model-ms2",
+      "section": "",
+      "path": [
+        "8"
+      ],
+      "label": "8"
+    }
+  ]
+}

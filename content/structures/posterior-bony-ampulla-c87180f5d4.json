@@ -1,0 +1,91 @@
+{
+  "id": "posterior-bony-ampulla-c87180f5d4",
+  "name": "Posterior bony ampulla",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [],
+  "organs": [
+    "Ear"
+  ],
+  "tags": [
+    "Ampulla",
+    "Function",
+    "InnerEar"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-2f190653ad",
+      "variants": [
+        {
+          "id": "v-2f190653ad",
+          "answer": "Posterior bony ampulla",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-241",
+              "sourceLine": 241
+            },
+            {
+              "modelId": "ear-model-ds3",
+              "cardId": "ear-model-ds3-143",
+              "sourceLine": 143
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-990c0860fa",
+      "variants": [
+        {
+          "id": "v-990c0860fa",
+          "answer": "Enlarged end housing the ampulla of the posterior semicircular duct and its sensory crista.",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-242",
+              "sourceLine": 242
+            },
+            {
+              "modelId": "ear-model-ds3",
+              "cardId": "ear-model-ds3-144",
+              "sourceLine": 144
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "ear-largest-model-ds1",
+      "section": "D. Inner ear",
+      "path": [
+        "37",
+        "c"
+      ],
+      "label": "37c"
+    },
+    {
+      "modelId": "ear-model-ds3",
+      "section": "C. Inner ear",
+      "path": [
+        "19",
+        "c"
+      ],
+      "label": "19c"
+    }
+  ]
+}

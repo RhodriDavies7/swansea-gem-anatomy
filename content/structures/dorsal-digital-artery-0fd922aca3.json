@@ -1,0 +1,127 @@
+{
+  "id": "dorsal-digital-artery-0fd922aca3",
+  "name": "Dorsal digital artery",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Arteries"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [
+    "Cardiovascular"
+  ],
+  "organs": [],
+  "tags": [
+    "Artery",
+    "Course",
+    "Origin",
+    "Relations",
+    "Supply"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-37085aad1d",
+      "variants": [
+        {
+          "id": "v-37085aad1d",
+          "answer": "Dorsal digital artery",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-413",
+              "sourceLine": 413
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-3f7c981af5",
+      "variants": [
+        {
+          "id": "v-3f7c981af5",
+          "answer": "Usually dorsal metacarpal arteries from dorsal carpal network.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-414",
+              "sourceLine": 414
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-475b12fd4c",
+      "variants": [
+        {
+          "id": "v-475b12fd4c",
+          "answer": "Runs along dorsal aspects/sides of digits.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-415",
+              "sourceLine": 415
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-222db0fc1c",
+      "question": "Supply",
+      "preferredVariantId": "v-1220a9c023",
+      "variants": [
+        {
+          "id": "v-1220a9c023",
+          "answer": "Dorsal surfaces of proximal digits; distal dorsal digits also receive palmar digital contributions.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-416",
+              "sourceLine": 416
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-cbcefe0c33",
+      "variants": [
+        {
+          "id": "v-cbcefe0c33",
+          "answer": "Forms dorsal vascular networks with palmar digital branches.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-417",
+              "sourceLine": 417
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "upper-limb-model-ns15",
+      "section": "Arteries",
+      "path": [
+        "66"
+      ],
+      "label": "66"
+    }
+  ]
+}

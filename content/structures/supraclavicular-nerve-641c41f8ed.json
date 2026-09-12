@@ -1,0 +1,147 @@
+{
+  "id": "supraclavicular-nerve-641c41f8ed",
+  "name": "Supraclavicular nerve",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Nerves"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [],
+  "tags": [
+    "BloodVesselsAndNerves",
+    "Course",
+    "Lesion",
+    "Motor",
+    "Nerve",
+    "Roots",
+    "Sensory"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-02e862403a",
+      "variants": [
+        {
+          "id": "v-02e862403a",
+          "answer": "Supraclavicular nerve",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-773",
+              "sourceLine": 773
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-4d78ec7d11",
+      "question": "Roots",
+      "preferredVariantId": "v-422693e4a2",
+      "variants": [
+        {
+          "id": "v-422693e4a2",
+          "answer": "C3–C4 from cervical plexus.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-774",
+              "sourceLine": 774
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-b24d610fbb",
+      "variants": [
+        {
+          "id": "v-b24d610fbb",
+          "answer": "Descends from posterior border of SCM and divides into medial, intermediate and lateral branches.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-775",
+              "sourceLine": 775
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c8b6915183",
+      "question": "Motor functions",
+      "preferredVariantId": "v-7737d0d824",
+      "variants": [
+        {
+          "id": "v-7737d0d824",
+          "answer": "No motor function.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-776",
+              "sourceLine": 776
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-a453254382",
+      "question": "Sensory functions",
+      "preferredVariantId": "v-0bf175fa80",
+      "variants": [
+        {
+          "id": "v-0bf175fa80",
+          "answer": "Supplies skin over clavicle, upper chest and shoulder.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-777",
+              "sourceLine": 777
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-bc53d10c57",
+      "question": "Lesion",
+      "preferredVariantId": "v-35a5ab9ad0",
+      "variants": [
+        {
+          "id": "v-35a5ab9ad0",
+          "answer": "Lesion causes sensory loss or paraesthesia over clavicular/upper thoracic/shoulder skin.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-778",
+              "sourceLine": 778
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "half-head-and-neck-model-bs9",
+      "section": "Blood vessels and nerves",
+      "path": [
+        "76"
+      ],
+      "label": "76"
+    }
+  ]
+}

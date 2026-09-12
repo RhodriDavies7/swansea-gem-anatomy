@@ -1,0 +1,107 @@
+{
+  "id": "molar-tooth-db49b490fa",
+  "name": "Molar tooth",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [],
+  "organs": [],
+  "tags": [
+    "Coronal",
+    "Function",
+    "Relations",
+    "Structure",
+    "Tooth"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-5a36b8b286",
+      "variants": [
+        {
+          "id": "v-5a36b8b286",
+          "answer": "Molar tooth",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-107",
+              "sourceLine": 107
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-7046ad9f92",
+      "variants": [
+        {
+          "id": "v-7046ad9f92",
+          "answer": "Crushes and grinds food during mastication.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-108",
+              "sourceLine": 108
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-b8830d1677",
+      "variants": [
+        {
+          "id": "v-b8830d1677",
+          "answer": "Composed of crown, neck and roots; enamel covers crown, dentine surrounds pulp, cementum covers root.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-109",
+              "sourceLine": 109
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-36b1ad1657",
+      "variants": [
+        {
+          "id": "v-36b1ad1657",
+          "answer": "Maxillary molar roots may lie close to the floor of the maxillary sinus.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-110",
+              "sourceLine": 110
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "coronal-and-mid-sagittal-head-mb20",
+      "section": "Coronal head",
+      "path": [
+        "21"
+      ],
+      "label": "21"
+    }
+  ]
+}

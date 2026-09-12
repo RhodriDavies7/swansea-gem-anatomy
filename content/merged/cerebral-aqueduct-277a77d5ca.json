@@ -1,0 +1,109 @@
+{
+  "id": "cerebral-aqueduct-277a77d5ca",
+  "name": "Cerebral aqueduct",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [],
+  "tags": [
+    "Brain",
+    "Clinical",
+    "Connections",
+    "Location",
+    "Ventricle"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-f55c8c5959",
+      "variants": [
+        {
+          "id": "v-f55c8c5959",
+          "answer": "Cerebral aqueduct",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-714",
+              "sourceLine": 714
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-85af51dbec",
+      "variants": [
+        {
+          "id": "v-85af51dbec",
+          "answer": "Narrow channel through midbrain.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-715",
+              "sourceLine": 715
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-8f3509b64e",
+      "question": "Connections",
+      "preferredVariantId": "v-26318ca624",
+      "variants": [
+        {
+          "id": "v-26318ca624",
+          "answer": "Connects third and fourth ventricles.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-716",
+              "sourceLine": 716
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-b03737e3cd",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-638ecd1a77",
+      "variants": [
+        {
+          "id": "v-638ecd1a77",
+          "answer": "Obstruction causes non-communicating hydrocephalus.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-717",
+              "sourceLine": 717
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "head-and-neck-model-cs17-2",
+      "section": "Internal brain structures and cranial nerves (1–26)",
+      "path": [
+        "11"
+      ],
+      "label": "11"
+    }
+  ]
+}

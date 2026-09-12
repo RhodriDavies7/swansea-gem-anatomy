@@ -1,0 +1,131 @@
+{
+  "id": "left-gastric-artery-3d028eae82",
+  "name": "Left gastric artery",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Arteries"
+  ],
+  "regions": [
+    "Abdomen"
+  ],
+  "systems": [
+    "Cardiovascular",
+    "Digestive"
+  ],
+  "organs": [
+    "Stomach"
+  ],
+  "tags": [
+    "Arteries",
+    "Artery",
+    "Connections",
+    "Course",
+    "Origin",
+    "Supply"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-5066fe5196",
+      "variants": [
+        {
+          "id": "v-5066fe5196",
+          "answer": "Left gastric artery",
+          "sources": [
+            {
+              "modelId": "stomach-model-ns15",
+              "cardId": "stomach-model-ns15-61",
+              "sourceLine": 61
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-f7670dd788",
+      "variants": [
+        {
+          "id": "v-f7670dd788",
+          "answer": "Usually a direct branch of the coeliac trunk.",
+          "sources": [
+            {
+              "modelId": "stomach-model-ns15",
+              "cardId": "stomach-model-ns15-62",
+              "sourceLine": 62
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-cc875bd3ba",
+      "variants": [
+        {
+          "id": "v-cc875bd3ba",
+          "answer": "Runs along the lesser curvature from left to right.",
+          "sources": [
+            {
+              "modelId": "stomach-model-ns15",
+              "cardId": "stomach-model-ns15-63",
+              "sourceLine": 63
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-222db0fc1c",
+      "question": "Supply",
+      "preferredVariantId": "v-7022a03745",
+      "variants": [
+        {
+          "id": "v-7022a03745",
+          "answer": "Supplies upper lesser curvature and adjacent anterior/posterior gastric walls.",
+          "sources": [
+            {
+              "modelId": "stomach-model-ns15",
+              "cardId": "stomach-model-ns15-64",
+              "sourceLine": 64
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-8f3509b64e",
+      "question": "Connections",
+      "preferredVariantId": "v-0123708157",
+      "variants": [
+        {
+          "id": "v-0123708157",
+          "answer": "Anastomoses with the right gastric artery.",
+          "sources": [
+            {
+              "modelId": "stomach-model-ns15",
+              "cardId": "stomach-model-ns15-65",
+              "sourceLine": 65
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "stomach-model-ns15",
+      "section": "Arteries",
+      "path": [
+        "11"
+      ],
+      "label": "11"
+    }
+  ]
+}

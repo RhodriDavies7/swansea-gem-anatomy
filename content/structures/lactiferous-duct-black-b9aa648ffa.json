@@ -1,0 +1,108 @@
+{
+  "id": "lactiferous-duct-black-b9aa648ffa",
+  "name": "Lactiferous duct (black)",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Thorax"
+  ],
+  "systems": [],
+  "organs": [
+    "Breast"
+  ],
+  "tags": [
+    "Course",
+    "Duct",
+    "Function",
+    "Termination"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-1a811a8565",
+      "variants": [
+        {
+          "id": "v-1a811a8565",
+          "answer": "Lactiferous duct (black)",
+          "sources": [
+            {
+              "modelId": "breast-model-ms7",
+              "cardId": "breast-model-ms7-14",
+              "sourceLine": 14
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-58b6b5c1be",
+      "variants": [
+        {
+          "id": "v-58b6b5c1be",
+          "answer": "Conveys milk from the glandular lobes toward the nipple.",
+          "sources": [
+            {
+              "modelId": "breast-model-ms7",
+              "cardId": "breast-model-ms7-15",
+              "sourceLine": 15
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-76ca269444",
+      "variants": [
+        {
+          "id": "v-76ca269444",
+          "answer": "Runs from the mammary gland lobes toward the nipple, receiving smaller ducts from lobules.",
+          "sources": [
+            {
+              "modelId": "breast-model-ms7",
+              "cardId": "breast-model-ms7-16",
+              "sourceLine": 16
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-2ee8521886",
+      "question": "Termination",
+      "preferredVariantId": "v-7a4ebfbb27",
+      "variants": [
+        {
+          "id": "v-7a4ebfbb27",
+          "answer": "Opens onto the surface of the nipple through a lactiferous opening.",
+          "sources": [
+            {
+              "modelId": "breast-model-ms7",
+              "cardId": "breast-model-ms7-17",
+              "sourceLine": 17
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "breast-model-ms7",
+      "section": "",
+      "path": [
+        "3"
+      ],
+      "label": "3"
+    }
+  ]
+}

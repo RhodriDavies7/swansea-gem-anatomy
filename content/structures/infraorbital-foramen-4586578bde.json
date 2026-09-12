@@ -1,0 +1,107 @@
+{
+  "id": "infraorbital-foramen-4586578bde",
+  "name": "Infraorbital foramen",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [],
+  "organs": [],
+  "tags": [
+    "Bone",
+    "Contents",
+    "Foramen",
+    "HeadNeck",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-9bc79717ca",
+      "variants": [
+        {
+          "id": "v-9bc79717ca",
+          "answer": "Infraorbital foramen",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-86",
+              "sourceLine": 86
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-bcf605d6bb",
+      "question": "Bone",
+      "preferredVariantId": "v-a515bb665c",
+      "variants": [
+        {
+          "id": "v-a515bb665c",
+          "answer": "Maxilla.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-87",
+              "sourceLine": 87
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f5cbdf6bfb",
+      "question": "Contents",
+      "preferredVariantId": "v-2169d9ee39",
+      "variants": [
+        {
+          "id": "v-2169d9ee39",
+          "answer": "Infraorbital nerve and vessels.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-88",
+              "sourceLine": 88
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-de25f97ce6",
+      "variants": [
+        {
+          "id": "v-de25f97ce6",
+          "answer": "Located inferior to orbital margin.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-89",
+              "sourceLine": 89
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "head-and-neck-model-cs17-2",
+      "section": "Bony structures, foramina and ear structures",
+      "path": [
+        "17"
+      ],
+      "label": "17"
+    }
+  ]
+}

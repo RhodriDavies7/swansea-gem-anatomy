@@ -1,0 +1,92 @@
+{
+  "id": "longitudinal-muscle-fibres-056ac34be5",
+  "name": "Longitudinal muscle fibres",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Abdomen"
+  ],
+  "systems": [
+    "Digestive"
+  ],
+  "organs": [
+    "Stomach"
+  ],
+  "tags": [
+    "Function",
+    "GastricWall",
+    "Location",
+    "MuscleLayer"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-499a4d92a6",
+      "variants": [
+        {
+          "id": "v-499a4d92a6",
+          "answer": "Longitudinal muscle fibres",
+          "sources": [
+            {
+              "modelId": "stomach-model-ns15",
+              "cardId": "stomach-model-ns15-39",
+              "sourceLine": 39
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-19599e39e1",
+      "variants": [
+        {
+          "id": "v-19599e39e1",
+          "answer": "Outermost layer of the muscularis externa.",
+          "sources": [
+            {
+              "modelId": "stomach-model-ns15",
+              "cardId": "stomach-model-ns15-40",
+              "sourceLine": 40
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-0f2f5d723e",
+      "variants": [
+        {
+          "id": "v-0f2f5d723e",
+          "answer": "Shortens the stomach wall and contributes to peristalsis.",
+          "sources": [
+            {
+              "modelId": "stomach-model-ns15",
+              "cardId": "stomach-model-ns15-41",
+              "sourceLine": 41
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "stomach-model-ns15",
+      "section": "Gastric wall and muscle layers",
+      "path": [
+        "7"
+      ],
+      "label": "7"
+    }
+  ]
+}

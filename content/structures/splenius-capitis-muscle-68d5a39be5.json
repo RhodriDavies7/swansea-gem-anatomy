@@ -1,0 +1,192 @@
+{
+  "id": "splenius-capitis-muscle-68d5a39be5",
+  "name": "Splenius capitis muscle",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "HeadNeck",
+    "HeadNeckMuscles",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-537acb0de2",
+      "variants": [
+        {
+          "id": "v-537acb0de2",
+          "answer": "Splenius capitis muscle",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-596",
+              "sourceLine": 596
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-349",
+              "sourceLine": 349
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-e3296d2270",
+      "variants": [
+        {
+          "id": "v-e3296d2270",
+          "answer": "Bilaterally extends head/neck; unilaterally rotates and laterally flexes ipsilaterally.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-597",
+              "sourceLine": 597
+            }
+          ]
+        },
+        {
+          "id": "v-e241778699",
+          "answer": "Extends head/neck bilaterally; ipsilateral rotation and lateral flexion unilaterally.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-350",
+              "sourceLine": 350
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-cf89a95eb3",
+      "variants": [
+        {
+          "id": "v-cf89a95eb3",
+          "answer": "Posterior rami of middle cervical spinal nerves.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-598",
+              "sourceLine": 598
+            }
+          ]
+        },
+        {
+          "id": "v-f1f4b97463",
+          "answer": "Posterior rami of cervical spinal nerves.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-351",
+              "sourceLine": 351
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-3304e3f994",
+      "variants": [
+        {
+          "id": "v-3304e3f994",
+          "answer": "Nuchal ligament and spinous processes C7–T3/4.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-599",
+              "sourceLine": 599
+            }
+          ]
+        },
+        {
+          "id": "v-28398c2cfe",
+          "answer": "Nuchal ligament and C7–T3/4 spinous processes.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-352",
+              "sourceLine": 352
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-4f810ded64",
+      "variants": [
+        {
+          "id": "v-4f810ded64",
+          "answer": "Mastoid process and lateral superior nuchal line.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-600",
+              "sourceLine": 600
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-353",
+              "sourceLine": 353
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "half-head-and-neck-model-bs9",
+      "section": "Musculature of the head and neck",
+      "path": [
+        "53"
+      ],
+      "label": "53"
+    },
+    {
+      "modelId": "head-and-neck-model-cs17-2",
+      "section": "Musculature of the head and neck",
+      "path": [
+        "56"
+      ],
+      "label": "56"
+    }
+  ]
+}

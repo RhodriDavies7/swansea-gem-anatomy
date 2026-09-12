@@ -1,0 +1,108 @@
+{
+  "id": "anterior-ethmoidal-nerve-branch-of-the-ophthalmic-nerve-f7604507c2",
+  "name": "Anterior ethmoidal nerve (branch of the ophthalmic nerve)",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Nerves"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [],
+  "tags": [
+    "Course",
+    "Nerve",
+    "Origin",
+    "Sensory"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-6b85689148",
+      "variants": [
+        {
+          "id": "v-6b85689148",
+          "answer": "Anterior ethmoidal nerve (branch of the ophthalmic nerve)",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-198",
+              "sourceLine": 198
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-c335fb31bd",
+      "variants": [
+        {
+          "id": "v-c335fb31bd",
+          "answer": "Branch of the nasociliary nerve from ophthalmic division of trigeminal nerve (V1).",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-199",
+              "sourceLine": 199
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-02774b3fda",
+      "variants": [
+        {
+          "id": "v-02774b3fda",
+          "answer": "Passes through anterior ethmoidal foramen into anterior cranial fossa, then through cribriform region into nasal cavity.",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-200",
+              "sourceLine": 200
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-a453254382",
+      "question": "Sensory functions",
+      "preferredVariantId": "v-f44d3d80a4",
+      "variants": [
+        {
+          "id": "v-f44d3d80a4",
+          "answer": "Supplies anterosuperior nasal cavity and skin of lower dorsum/tip of nose via external nasal branch.",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-201",
+              "sourceLine": 201
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "deep-face-model-bs8-1",
+      "section": "",
+      "path": [
+        "31"
+      ],
+      "label": "31"
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "id": "great-auricular-nerve-f4ba62cc05",
+  "name": "Great auricular nerve",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Nerves"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [],
+  "tags": [
+    "BloodVesselsAndNerves",
+    "Course",
+    "Lesion",
+    "Motor",
+    "Nerve",
+    "Roots",
+    "Sensory"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-9291c4d40e",
+      "variants": [
+        {
+          "id": "v-9291c4d40e",
+          "answer": "Great auricular nerve",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-741",
+              "sourceLine": 741
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-4d78ec7d11",
+      "question": "Roots",
+      "preferredVariantId": "v-fd6fd7ec2f",
+      "variants": [
+        {
+          "id": "v-fd6fd7ec2f",
+          "answer": "C2–C3 from cervical plexus.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-742",
+              "sourceLine": 742
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-924b6965ac",
+      "variants": [
+        {
+          "id": "v-924b6965ac",
+          "answer": "Emerges at posterior border of SCM and ascends over it toward parotid/auricle.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-743",
+              "sourceLine": 743
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c8b6915183",
+      "question": "Motor functions",
+      "preferredVariantId": "v-7737d0d824",
+      "variants": [
+        {
+          "id": "v-7737d0d824",
+          "answer": "No motor function.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-744",
+              "sourceLine": 744
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-a453254382",
+      "question": "Sensory functions",
+      "preferredVariantId": "v-6492760da7",
+      "variants": [
+        {
+          "id": "v-6492760da7",
+          "answer": "Supplies skin over parotid region, mastoid region, angle of mandible and much of lower auricle.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-745",
+              "sourceLine": 745
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-bc53d10c57",
+      "question": "Lesion",
+      "preferredVariantId": "v-1cd5a628ed",
+      "variants": [
+        {
+          "id": "v-1cd5a628ed",
+          "answer": "Lesion causes numbness or paraesthesia over lower auricle, parotid region and angle of mandible.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-746",
+              "sourceLine": 746
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "half-head-and-neck-model-bs9",
+      "section": "Blood vessels and nerves",
+      "path": [
+        "72"
+      ],
+      "label": "72"
+    }
+  ]
+}

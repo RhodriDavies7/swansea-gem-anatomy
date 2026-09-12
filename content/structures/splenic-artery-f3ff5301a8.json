@@ -1,0 +1,131 @@
+{
+  "id": "splenic-artery-f3ff5301a8",
+  "name": "Splenic artery",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Arteries"
+  ],
+  "regions": [
+    "Abdomen"
+  ],
+  "systems": [
+    "Cardiovascular",
+    "Digestive"
+  ],
+  "organs": [
+    "Pancreas"
+  ],
+  "tags": [
+    "Arteries",
+    "Artery",
+    "Branches",
+    "Course",
+    "Origin",
+    "Supply"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-6c0486a32b",
+      "variants": [
+        {
+          "id": "v-6c0486a32b",
+          "answer": "Splenic artery",
+          "sources": [
+            {
+              "modelId": "pancreas-model-js11",
+              "cardId": "pancreas-model-js11-88",
+              "sourceLine": 88
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-e19c597692",
+      "variants": [
+        {
+          "id": "v-e19c597692",
+          "answer": "Branch of the coeliac trunk.",
+          "sources": [
+            {
+              "modelId": "pancreas-model-js11",
+              "cardId": "pancreas-model-js11-89",
+              "sourceLine": 89
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-4e8a64909f",
+      "variants": [
+        {
+          "id": "v-4e8a64909f",
+          "answer": "Runs tortuously along the superior border of the pancreas toward the spleen.",
+          "sources": [
+            {
+              "modelId": "pancreas-model-js11",
+              "cardId": "pancreas-model-js11-90",
+              "sourceLine": 90
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f578227926",
+      "question": "Branches",
+      "preferredVariantId": "v-fc1c28229f",
+      "variants": [
+        {
+          "id": "v-fc1c28229f",
+          "answer": "Gives pancreatic branches and short gastric/left gastro-omental branches.",
+          "sources": [
+            {
+              "modelId": "pancreas-model-js11",
+              "cardId": "pancreas-model-js11-91",
+              "sourceLine": 91
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-222db0fc1c",
+      "question": "Supply",
+      "preferredVariantId": "v-f2a6d1dcf0",
+      "variants": [
+        {
+          "id": "v-f2a6d1dcf0",
+          "answer": "Supplies spleen and contributes to blood supply of pancreas and stomach.",
+          "sources": [
+            {
+              "modelId": "pancreas-model-js11",
+              "cardId": "pancreas-model-js11-92",
+              "sourceLine": 92
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "pancreas-model-js11",
+      "section": "Arteries",
+      "path": [
+        "10"
+      ],
+      "label": "10"
+    }
+  ]
+}

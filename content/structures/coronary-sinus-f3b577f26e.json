@@ -1,0 +1,111 @@
+{
+  "id": "coronary-sinus-f3b577f26e",
+  "name": "Coronary sinus",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Veins"
+  ],
+  "regions": [
+    "Thorax"
+  ],
+  "systems": [
+    "Cardiovascular"
+  ],
+  "organs": [
+    "Heart"
+  ],
+  "tags": [
+    "Drainage",
+    "InternalCoronary",
+    "Location",
+    "Termination",
+    "VenousSinus"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-00d430ca20",
+      "variants": [
+        {
+          "id": "v-00d430ca20",
+          "answer": "Coronary sinus",
+          "sources": [
+            {
+              "modelId": "heart-model-hs5",
+              "cardId": "heart-model-hs5-147",
+              "sourceLine": 147
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-8546d0ab64",
+      "variants": [
+        {
+          "id": "v-8546d0ab64",
+          "answer": "Runs in the posterior atrioventricular groove.",
+          "sources": [
+            {
+              "modelId": "heart-model-hs5",
+              "cardId": "heart-model-hs5-148",
+              "sourceLine": 148
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-74a64b1943",
+      "question": "Drainage",
+      "preferredVariantId": "v-50c365ce25",
+      "variants": [
+        {
+          "id": "v-50c365ce25",
+          "answer": "Receives most venous blood from myocardium, including via great, middle and small cardiac veins.",
+          "sources": [
+            {
+              "modelId": "heart-model-hs5",
+              "cardId": "heart-model-hs5-149",
+              "sourceLine": 149
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-2ee8521886",
+      "question": "Termination",
+      "preferredVariantId": "v-84230f11c5",
+      "variants": [
+        {
+          "id": "v-84230f11c5",
+          "answer": "Opens into the right atrium between the inferior vena cava opening and tricuspid orifice.",
+          "sources": [
+            {
+              "modelId": "heart-model-hs5",
+              "cardId": "heart-model-hs5-150",
+              "sourceLine": 150
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "heart-model-hs5",
+      "section": "Internal and coronary structures",
+      "path": [
+        "6"
+      ],
+      "label": "6"
+    }
+  ]
+}

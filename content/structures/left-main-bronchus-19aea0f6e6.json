@@ -1,0 +1,170 @@
+{
+  "id": "left-main-bronchus-19aea0f6e6",
+  "name": "Left main bronchus",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Respiratory"
+  ],
+  "organs": [
+    "Larynx"
+  ],
+  "tags": [
+    "Branches",
+    "Bronchi",
+    "Bronchus",
+    "Course",
+    "LarynxAndAirway",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-26bb69dcb1",
+      "variants": [
+        {
+          "id": "v-26bb69dcb1",
+          "answer": "Left main bronchus",
+          "sources": [
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-295",
+              "sourceLine": 295
+            },
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-77",
+              "sourceLine": 77
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-4fd22ec795",
+      "variants": [
+        {
+          "id": "v-4fd22ec795",
+          "answer": "Passes inferolaterally toward the left lung; longer, narrower and more oblique than the right main bronchus.",
+          "sources": [
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-296",
+              "sourceLine": 296
+            }
+          ]
+        },
+        {
+          "id": "v-ac0fd3efbb",
+          "answer": "Longer, narrower and more oblique than the right main bronchus.",
+          "sources": [
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-78",
+              "sourceLine": 78
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-f578227926",
+      "question": "Branches",
+      "preferredVariantId": "v-fea11a3b26",
+      "variants": [
+        {
+          "id": "v-fea11a3b26",
+          "answer": "Divides into superior and inferior lobar bronchi.",
+          "sources": [
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-297",
+              "sourceLine": 297
+            }
+          ]
+        },
+        {
+          "id": "v-4fe43fbb1d",
+          "answer": "Divides into left upper and lower lobar bronchi.",
+          "sources": [
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-79",
+              "sourceLine": 79
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-8e6ec0a065",
+      "variants": [
+        {
+          "id": "v-8e6ec0a065",
+          "answer": "Passes inferior to the aortic arch and anterior to the oesophagus and descending aorta.",
+          "sources": [
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-298",
+              "sourceLine": 298
+            }
+          ]
+        },
+        {
+          "id": "v-441af46779",
+          "answer": "Passes inferior to the aortic arch.",
+          "sources": [
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-80",
+              "sourceLine": 80
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "larynx-and-airway-model-gs5",
+      "section": "Main bronchi",
+      "path": [
+        "B"
+      ],
+      "label": "B"
+    },
+    {
+      "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+      "section": "Larynx and airway",
+      "path": [
+        "7"
+      ],
+      "label": "7"
+    }
+  ]
+}

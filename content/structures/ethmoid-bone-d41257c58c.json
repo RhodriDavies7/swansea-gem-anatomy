@@ -1,0 +1,217 @@
+{
+  "id": "ethmoid-bone-d41257c58c",
+  "name": "Ethmoid bone",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Bones"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Musculoskeletal",
+    "Respiratory"
+  ],
+  "organs": [],
+  "tags": [
+    "Articulations",
+    "Bone",
+    "BonyStructures",
+    "Landmarks",
+    "MidSagittal",
+    "NasalCavity",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-e17c89319d",
+      "variants": [
+        {
+          "id": "v-e17c89319d",
+          "answer": "Ethmoid bone",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-181",
+              "sourceLine": 181
+            },
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-14",
+              "sourceLine": 14
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-18",
+              "sourceLine": 18
+            },
+            {
+              "modelId": "nose-and-nasal-cavity-model-fs3",
+              "cardId": "nose-and-nasal-cavity-model-fs3-98",
+              "sourceLine": 98
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-a40bee8d10",
+      "question": "Articulations",
+      "preferredVariantId": "v-c83099fa0b",
+      "variants": [
+        {
+          "id": "v-c83099fa0b",
+          "answer": "Articulates with frontal, sphenoid, vomer, nasal, maxillary, lacrimal, palatine bones and inferior nasal conchae.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-182",
+              "sourceLine": 182
+            },
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-15",
+              "sourceLine": 15
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-19",
+              "sourceLine": 19
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-626b6c1d45",
+      "question": "Landmarks",
+      "preferredVariantId": "v-26493238b5",
+      "variants": [
+        {
+          "id": "v-010ed1369c",
+          "answer": "Cribriform plate, crista galli, perpendicular plate and ethmoidal labyrinths.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-183",
+              "sourceLine": 183
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-20",
+              "sourceLine": 20
+            },
+            {
+              "modelId": "nose-and-nasal-cavity-model-fs3",
+              "cardId": "nose-and-nasal-cavity-model-fs3-99",
+              "sourceLine": 99
+            }
+          ]
+        },
+        {
+          "id": "v-26493238b5",
+          "answer": "Cribriform plate, crista galli, perpendicular plate, superior and middle nasal conchae and ethmoidal labyrinths.",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-16",
+              "sourceLine": 16
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-e3ee6bf586",
+      "variants": [
+        {
+          "id": "v-2c7ee526e0",
+          "answer": "Contributes to anterior cranial floor, nasal septum and medial orbital wall.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-184",
+              "sourceLine": 184
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-21",
+              "sourceLine": 21
+            }
+          ]
+        },
+        {
+          "id": "v-4b1df01395",
+          "answer": "Contributes to the anterior cranial floor, nasal septum and medial orbital wall.",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-17",
+              "sourceLine": 17
+            }
+          ]
+        },
+        {
+          "id": "v-e3ee6bf586",
+          "answer": "Contributes to nasal septum, lateral nasal wall, medial orbital wall and anterior cranial floor.",
+          "sources": [
+            {
+              "modelId": "nose-and-nasal-cavity-model-fs3",
+              "cardId": "nose-and-nasal-cavity-model-fs3-100",
+              "sourceLine": 100
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "coronal-and-mid-sagittal-head-mb20",
+      "section": "Bony structures",
+      "path": [
+        "D"
+      ],
+      "label": "D"
+    },
+    {
+      "modelId": "deep-face-model-bs8-1",
+      "section": "",
+      "path": [
+        "3"
+      ],
+      "label": "3"
+    },
+    {
+      "modelId": "half-head-and-neck-model-bs9",
+      "section": "Bony structures",
+      "path": [
+        "D"
+      ],
+      "label": "D"
+    },
+    {
+      "modelId": "nose-and-nasal-cavity-model-fs3",
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "path": [
+        "2"
+      ],
+      "label": "2"
+    }
+  ]
+}

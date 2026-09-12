@@ -1,0 +1,203 @@
+{
+  "id": "abductor-pollicis-brevis-muscle-b5ffb903dd",
+  "name": "Abductor pollicis brevis muscle",
+  "aliases": [
+    "Abductor pollicis brevis"
+  ],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "MusclesAndTendons",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-20bef91385",
+      "variants": [
+        {
+          "id": "v-20bef91385",
+          "answer": "Abductor pollicis brevis muscle",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-180",
+              "sourceLine": 180
+            }
+          ]
+        },
+        {
+          "id": "v-12bec13292",
+          "answer": "Abductor pollicis brevis",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-174",
+              "sourceLine": 174
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-69911b9f02",
+      "variants": [
+        {
+          "id": "v-69911b9f02",
+          "answer": "Abducts thumb perpendicular to palm and assists opposition.",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-181",
+              "sourceLine": 181
+            }
+          ]
+        },
+        {
+          "id": "v-87aa0503e5",
+          "answer": "Abducts the thumb perpendicular to the palm and assists opposition.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-175",
+              "sourceLine": 175
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-3ae2425f1f",
+      "variants": [
+        {
+          "id": "v-3ae2425f1f",
+          "answer": "Recurrent branch of median nerve (C8–T1).",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-182",
+              "sourceLine": 182
+            },
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-176",
+              "sourceLine": 176
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-5c30a10f69",
+      "variants": [
+        {
+          "id": "v-5c30a10f69",
+          "answer": "Flexor retinaculum, scaphoid tubercle and trapezium.",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-183",
+              "sourceLine": 183
+            }
+          ]
+        },
+        {
+          "id": "v-c0de69d2dd",
+          "answer": "Scaphoid tubercle, trapezium and flexor retinaculum.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-177",
+              "sourceLine": 177
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-d7597efdde",
+      "variants": [
+        {
+          "id": "v-73f6989972",
+          "answer": "Lateral base of proximal phalanx of thumb.",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-184",
+              "sourceLine": 184
+            }
+          ]
+        },
+        {
+          "id": "v-d7597efdde",
+          "answer": "Lateral base of proximal phalanx of thumb and extensor expansion.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-178",
+              "sourceLine": 178
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "hand-model-ns13",
+      "section": "Muscles, tendons and pulleys",
+      "path": [
+        "x"
+      ],
+      "label": "x"
+    },
+    {
+      "modelId": "upper-limb-model-ns15",
+      "section": "Muscles",
+      "path": [
+        "29"
+      ],
+      "label": "29"
+    }
+  ]
+}

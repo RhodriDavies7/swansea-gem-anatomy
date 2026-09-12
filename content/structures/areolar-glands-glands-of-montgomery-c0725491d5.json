@@ -1,0 +1,108 @@
+{
+  "id": "areolar-glands-glands-of-montgomery-c0725491d5",
+  "name": "Areolar glands (glands of Montgomery)",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Organs"
+  ],
+  "regions": [
+    "Thorax"
+  ],
+  "systems": [],
+  "organs": [
+    "Breast"
+  ],
+  "tags": [
+    "Function",
+    "Gland",
+    "Location",
+    "Structure"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-5700faf9b4",
+      "variants": [
+        {
+          "id": "v-5700faf9b4",
+          "answer": "Areolar glands (glands of Montgomery)",
+          "sources": [
+            {
+              "modelId": "breast-model-ms7",
+              "cardId": "breast-model-ms7-65",
+              "sourceLine": 65
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-344040e779",
+      "variants": [
+        {
+          "id": "v-344040e779",
+          "answer": "Enlarged sebaceous glands associated with the areola.",
+          "sources": [
+            {
+              "modelId": "breast-model-ms7",
+              "cardId": "breast-model-ms7-66",
+              "sourceLine": 66
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-54b1325a2c",
+      "variants": [
+        {
+          "id": "v-54b1325a2c",
+          "answer": "Secrete an oily substance that lubricates and protects the nipple–areola complex, particularly during breastfeeding.",
+          "sources": [
+            {
+              "modelId": "breast-model-ms7",
+              "cardId": "breast-model-ms7-67",
+              "sourceLine": 67
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-bb301d0898",
+      "variants": [
+        {
+          "id": "v-bb301d0898",
+          "answer": "Located within the skin of the areola and may form small visible elevations.",
+          "sources": [
+            {
+              "modelId": "breast-model-ms7",
+              "cardId": "breast-model-ms7-68",
+              "sourceLine": 68
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "breast-model-ms7",
+      "section": "",
+      "path": [
+        "11"
+      ],
+      "label": "11"
+    }
+  ]
+}

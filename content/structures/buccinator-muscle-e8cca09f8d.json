@@ -1,0 +1,254 @@
+{
+  "id": "buccinator-muscle-e8cca09f8d",
+  "name": "Buccinator muscle",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "Coronal",
+    "HeadNeck",
+    "HeadNeckMuscles",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-82293d7a16",
+      "variants": [
+        {
+          "id": "v-82293d7a16",
+          "answer": "Buccinator muscle",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-96",
+              "sourceLine": 96
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-470",
+              "sourceLine": 470
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-223",
+              "sourceLine": 223
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-448d8dd5eb",
+      "variants": [
+        {
+          "id": "v-448d8dd5eb",
+          "answer": "Compresses cheek against teeth, keeping food between occlusal surfaces; assists blowing and sucking.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-97",
+              "sourceLine": 97
+            }
+          ]
+        },
+        {
+          "id": "v-bdafebeef1",
+          "answer": "Compresses cheek against teeth; keeps food between occlusal surfaces.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-471",
+              "sourceLine": 471
+            }
+          ]
+        },
+        {
+          "id": "v-43af799e32",
+          "answer": "Compresses cheek against teeth and keeps food between occlusal surfaces.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-224",
+              "sourceLine": 224
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-e2cec36f99",
+      "variants": [
+        {
+          "id": "v-e2cec36f99",
+          "answer": "Buccal branches of facial nerve (CN VII).",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-98",
+              "sourceLine": 98
+            }
+          ]
+        },
+        {
+          "id": "v-6ed4bfb505",
+          "answer": "Facial nerve (CN VII).",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-472",
+              "sourceLine": 472
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-225",
+              "sourceLine": 225
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-7398170157",
+      "variants": [
+        {
+          "id": "v-7398170157",
+          "answer": "Alveolar processes of maxilla and mandible opposite molars and pterygomandibular raphe.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-99",
+              "sourceLine": 99
+            }
+          ]
+        },
+        {
+          "id": "v-695d98effd",
+          "answer": "Alveolar processes of maxilla/mandible and pterygomandibular raphe.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-473",
+              "sourceLine": 473
+            }
+          ]
+        },
+        {
+          "id": "v-b89c557d2a",
+          "answer": "Alveolar processes and pterygomandibular raphe.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-226",
+              "sourceLine": 226
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-17bfc30612",
+      "variants": [
+        {
+          "id": "v-17bfc30612",
+          "answer": "Blends with orbicularis oris at the angle of the mouth.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-100",
+              "sourceLine": 100
+            }
+          ]
+        },
+        {
+          "id": "v-d15521b6e4",
+          "answer": "Blends with orbicularis oris at angle of mouth.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-474",
+              "sourceLine": 474
+            }
+          ]
+        },
+        {
+          "id": "v-e4a08f7690",
+          "answer": "Blends with orbicularis oris.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-227",
+              "sourceLine": 227
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "coronal-and-mid-sagittal-head-mb20",
+      "section": "Coronal head",
+      "path": [
+        "19"
+      ],
+      "label": "19"
+    },
+    {
+      "modelId": "half-head-and-neck-model-bs9",
+      "section": "Musculature of the head and neck",
+      "path": [
+        "35"
+      ],
+      "label": "35"
+    },
+    {
+      "modelId": "head-and-neck-model-cs17-2",
+      "section": "Musculature of the head and neck",
+      "path": [
+        "38"
+      ],
+      "label": "38"
+    }
+  ]
+}

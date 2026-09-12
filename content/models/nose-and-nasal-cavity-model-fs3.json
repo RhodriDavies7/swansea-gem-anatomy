@@ -1,0 +1,2686 @@
+{
+  "id": "nose-and-nasal-cavity-model-fs3",
+  "name": "Nose and Nasal Cavity (Model FS3)",
+  "cards": [
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-3",
+      "path": [
+        "a"
+      ],
+      "tags": [
+        "Identification",
+        "ParanasalSinus",
+        "SinusesAndOpenings",
+        "FS3"
+      ],
+      "sourceLine": 3,
+      "section": "Paranasal sinuses, conchae and openings (a\u2013p)",
+      "label": "a",
+      "structureId": "frontal-sinus-3046ed106e",
+      "factId": "f-9d2c706308",
+      "variantId": "v-2f13e0a518"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-4",
+      "path": [
+        "a"
+      ],
+      "tags": [
+        "Location",
+        "ParanasalSinus",
+        "SinusesAndOpenings",
+        "FS3"
+      ],
+      "sourceLine": 4,
+      "section": "Paranasal sinuses, conchae and openings (a\u2013p)",
+      "label": "a",
+      "structureId": "frontal-sinus-3046ed106e",
+      "factId": "f-d219c68101",
+      "variantId": "v-d7cac68581"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-5",
+      "path": [
+        "a"
+      ],
+      "tags": [
+        "Drainage",
+        "ParanasalSinus",
+        "SinusesAndOpenings",
+        "FS3"
+      ],
+      "sourceLine": 5,
+      "section": "Paranasal sinuses, conchae and openings (a\u2013p)",
+      "label": "a",
+      "structureId": "frontal-sinus-3046ed106e",
+      "factId": "f-74a64b1943",
+      "variantId": "v-ccb51a203d"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-6",
+      "path": [
+        "a"
+      ],
+      "tags": [
+        "Relations",
+        "ParanasalSinus",
+        "SinusesAndOpenings",
+        "FS3"
+      ],
+      "sourceLine": 6,
+      "section": "Paranasal sinuses, conchae and openings (a\u2013p)",
+      "label": "a",
+      "structureId": "frontal-sinus-3046ed106e",
+      "factId": "f-6519fe11ef",
+      "variantId": "v-3e692f1ea5"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-9",
+      "path": [
+        "b"
+      ],
+      "tags": [
+        "Identification",
+        "BonyLandmark",
+        "SinusesAndOpenings",
+        "FS3"
+      ],
+      "sourceLine": 9,
+      "section": "Paranasal sinuses, conchae and openings (a\u2013p)",
+      "label": "b",
+      "structureId": "crista-galli-80ae4f6afa",
+      "factId": "f-9d2c706308",
+      "variantId": "v-ea2a9a3324"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-10",
+      "path": [
+        "b"
+      ],
+      "tags": [
+        "Bone",
+        "BonyLandmark",
+        "SinusesAndOpenings",
+        "FS3"
+      ],
+      "sourceLine": 10,
+      "section": "Paranasal sinuses, conchae and openings (a\u2013p)",
+      "label": "b",
+      "structureId": "crista-galli-80ae4f6afa",
+      "factId": "f-bcf605d6bb",
+      "variantId": "v-5febb7e681"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-11",
+      "path": [
+        "b"
+      ],
+      "tags": [
+        "Attachments",
+        "BonyLandmark",
+        "SinusesAndOpenings",
+        "FS3"
+      ],
+      "sourceLine": 11,
+      "section": "Paranasal sinuses, conchae and openings (a\u2013p)",
+      "label": "b",
+      "structureId": "crista-galli-80ae4f6afa",
+      "factId": "f-6771ade6e8",
+      "variantId": "v-931c894b4f"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-14",
+      "path": [
+        "c"
+      ],
+      "tags": [
+        "Identification",
+        "BonyLandmark",
+        "SinusesAndOpenings",
+        "FS3"
+      ],
+      "sourceLine": 14,
+      "section": "Paranasal sinuses, conchae and openings (a\u2013p)",
+      "label": "c",
+      "structureId": "cribriform-plate-8b63320a81",
+      "factId": "f-9d2c706308",
+      "variantId": "v-e7be774749"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-15",
+      "path": [
+        "c"
+      ],
+      "tags": [
+        "Bone",
+        "BonyLandmark",
+        "SinusesAndOpenings",
+        "FS3"
+      ],
+      "sourceLine": 15,
+      "section": "Paranasal sinuses, conchae and openings (a\u2013p)",
+      "label": "c",
+      "structureId": "cribriform-plate-8b63320a81",
+      "factId": "f-bcf605d6bb",
+      "variantId": "v-cd1734baeb"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-16",
+      "path": [
+        "c"
+      ],
+      "tags": [
+        "Contents",
+        "BonyLandmark",
+        "SinusesAndOpenings",
+        "FS3"
+      ],
+      "sourceLine": 16,
+      "section": "Paranasal sinuses, conchae and openings (a\u2013p)",
+      "label": "c",
+      "structureId": "cribriform-plate-8b63320a81",
+      "factId": "f-f5cbdf6bfb",
+      "variantId": "v-190df7000f"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-17",
+      "path": [
+        "c"
+      ],
+      "tags": [
+        "Clinical",
+        "BonyLandmark",
+        "SinusesAndOpenings",
+        "FS3"
+      ],
+      "sourceLine": 17,
+      "section": "Paranasal sinuses, conchae and openings (a\u2013p)",
+      "label": "c",
+      "structureId": "cribriform-plate-8b63320a81",
+      "factId": "f-b03737e3cd",
+      "variantId": "v-ec3f16d3c4"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-20",
+      "path": [
+        "d"
+      ],
+      "tags": [
+        "Identification",
+        "NasalConcha",
+        "SinusesAndOpenings",
+        "FS3"
+      ],
+      "sourceLine": 20,
+      "section": "Paranasal sinuses, conchae and openings (a\u2013p)",
+      "label": "d",
+      "structureId": "superior-nasal-concha-91a646650b",
+      "factId": "f-9d2c706308",
+      "variantId": "v-f99d563fe0"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-21",
+      "path": [
+        "d"
+      ],
+      "tags": [
+        "Location",
+        "NasalConcha",
+        "SinusesAndOpenings",
+        "FS3"
+      ],
+      "sourceLine": 21,
+      "section": "Paranasal sinuses, conchae and openings (a\u2013p)",
+      "label": "d",
+      "structureId": "superior-nasal-concha-91a646650b",
+      "factId": "f-d219c68101",
+      "variantId": "v-e54cc42d7e"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-22",
+      "path": [
+        "d"
+      ],
+      "tags": [
+        "Function",
+        "NasalConcha",
+        "SinusesAndOpenings",
+        "FS3"
+      ],
+      "sourceLine": 22,
+      "section": "Paranasal sinuses, conchae and openings (a\u2013p)",
+      "label": "d",
+      "structureId": "superior-nasal-concha-91a646650b",
+      "factId": "f-f1e410ad14",
+      "variantId": "v-360a69c7e4"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-23",
+      "path": [
+        "d"
+      ],
+      "tags": [
+        "Relations",
+        "NasalConcha",
+        "SinusesAndOpenings",
+        "FS3"
+      ],
+      "sourceLine": 23,
+      "section": "Paranasal sinuses, conchae and openings (a\u2013p)",
+      "label": "d",
+      "structureId": "superior-nasal-concha-91a646650b",
+      "factId": "f-6519fe11ef",
+      "variantId": "v-9d2768294f"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-26",
+      "path": [
+        "e"
+      ],
+      "tags": [
+        "Identification",
+        "NasalConcha",
+        "SinusesAndOpenings",
+        "FS3"
+      ],
+      "sourceLine": 26,
+      "section": "Paranasal sinuses, conchae and openings (a\u2013p)",
+      "label": "e",
+      "structureId": "middle-nasal-concha-0dcb2af9b7",
+      "factId": "f-9d2c706308",
+      "variantId": "v-33baf53db3"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-27",
+      "path": [
+        "e"
+      ],
+      "tags": [
+        "Location",
+        "NasalConcha",
+        "SinusesAndOpenings",
+        "FS3"
+      ],
+      "sourceLine": 27,
+      "section": "Paranasal sinuses, conchae and openings (a\u2013p)",
+      "label": "e",
+      "structureId": "middle-nasal-concha-0dcb2af9b7",
+      "factId": "f-d219c68101",
+      "variantId": "v-c0b7bc6825"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-28",
+      "path": [
+        "e"
+      ],
+      "tags": [
+        "Function",
+        "NasalConcha",
+        "SinusesAndOpenings",
+        "FS3"
+      ],
+      "sourceLine": 28,
+      "section": "Paranasal sinuses, conchae and openings (a\u2013p)",
+      "label": "e",
+      "structureId": "middle-nasal-concha-0dcb2af9b7",
+      "factId": "f-f1e410ad14",
+      "variantId": "v-23cd715966"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-29",
+      "path": [
+        "e"
+      ],
+      "tags": [
+        "Relations",
+        "NasalConcha",
+        "SinusesAndOpenings",
+        "FS3"
+      ],
+      "sourceLine": 29,
+      "section": "Paranasal sinuses, conchae and openings (a\u2013p)",
+      "label": "e",
+      "structureId": "middle-nasal-concha-0dcb2af9b7",
+      "factId": "f-6519fe11ef",
+      "variantId": "v-16449b9ecd"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-32",
+      "path": [
+        "f"
+      ],
+      "tags": [
+        "Identification",
+        "BonyLandmark",
+        "SinusesAndOpenings",
+        "FS3"
+      ],
+      "sourceLine": 32,
+      "section": "Paranasal sinuses, conchae and openings (a\u2013p)",
+      "label": "f",
+      "structureId": "uncinate-process-f7e11496cd",
+      "factId": "f-9d2c706308",
+      "variantId": "v-80cf87c250"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-33",
+      "path": [
+        "f"
+      ],
+      "tags": [
+        "Bone",
+        "BonyLandmark",
+        "SinusesAndOpenings",
+        "FS3"
+      ],
+      "sourceLine": 33,
+      "section": "Paranasal sinuses, conchae and openings (a\u2013p)",
+      "label": "f",
+      "structureId": "uncinate-process-f7e11496cd",
+      "factId": "f-bcf605d6bb",
+      "variantId": "v-2b8b42e3f9"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-34",
+      "path": [
+        "f"
+      ],
+      "tags": [
+        "Relations",
+        "BonyLandmark",
+        "SinusesAndOpenings",
+        "FS3"
+      ],
+      "sourceLine": 34,
+      "section": "Paranasal sinuses, conchae and openings (a\u2013p)",
+      "label": "f",
+      "structureId": "uncinate-process-f7e11496cd",
+      "factId": "f-6519fe11ef",
+      "variantId": "v-9ff690edd3"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-37",
+      "path": [
+        "g"
+      ],
+      "tags": [
+        "Identification",
+        "BonyLandmark",
+        "SinusesAndOpenings",
+        "FS3"
+      ],
+      "sourceLine": 37,
+      "section": "Paranasal sinuses, conchae and openings (a\u2013p)",
+      "label": "g",
+      "structureId": "ethmoid-bulla-e9af39904e",
+      "factId": "f-9d2c706308",
+      "variantId": "v-f06dc3a5a7"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-38",
+      "path": [
+        "g"
+      ],
+      "tags": [
+        "Bone",
+        "BonyLandmark",
+        "SinusesAndOpenings",
+        "FS3"
+      ],
+      "sourceLine": 38,
+      "section": "Paranasal sinuses, conchae and openings (a\u2013p)",
+      "label": "g",
+      "structureId": "ethmoid-bulla-e9af39904e",
+      "factId": "f-bcf605d6bb",
+      "variantId": "v-82a07b710b"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-39",
+      "path": [
+        "g"
+      ],
+      "tags": [
+        "Relations",
+        "BonyLandmark",
+        "SinusesAndOpenings",
+        "FS3"
+      ],
+      "sourceLine": 39,
+      "section": "Paranasal sinuses, conchae and openings (a\u2013p)",
+      "label": "g",
+      "structureId": "ethmoid-bulla-e9af39904e",
+      "factId": "f-6519fe11ef",
+      "variantId": "v-1964b32d51"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-42",
+      "path": [
+        "h"
+      ],
+      "tags": [
+        "Identification",
+        "Opening",
+        "SinusesAndOpenings",
+        "FS3"
+      ],
+      "sourceLine": 42,
+      "section": "Paranasal sinuses, conchae and openings (a\u2013p)",
+      "label": "h",
+      "structureId": "opening-of-ethmoid-sinus-aa57aad076",
+      "factId": "f-9d2c706308",
+      "variantId": "v-440251b9bf"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-43",
+      "path": [
+        "h"
+      ],
+      "tags": [
+        "Location",
+        "Opening",
+        "SinusesAndOpenings",
+        "FS3"
+      ],
+      "sourceLine": 43,
+      "section": "Paranasal sinuses, conchae and openings (a\u2013p)",
+      "label": "h",
+      "structureId": "opening-of-ethmoid-sinus-aa57aad076",
+      "factId": "f-d219c68101",
+      "variantId": "v-e047c72dbb"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-44",
+      "path": [
+        "h"
+      ],
+      "tags": [
+        "Function",
+        "Opening",
+        "SinusesAndOpenings",
+        "FS3"
+      ],
+      "sourceLine": 44,
+      "section": "Paranasal sinuses, conchae and openings (a\u2013p)",
+      "label": "h",
+      "structureId": "opening-of-ethmoid-sinus-aa57aad076",
+      "factId": "f-f1e410ad14",
+      "variantId": "v-abadf77f9e"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-47",
+      "path": [
+        "i"
+      ],
+      "tags": [
+        "Identification",
+        "Opening",
+        "SinusesAndOpenings",
+        "FS3"
+      ],
+      "sourceLine": 47,
+      "section": "Paranasal sinuses, conchae and openings (a\u2013p)",
+      "label": "i",
+      "structureId": "location-of-opening-to-frontal-sinus-1d8ca6f159",
+      "factId": "f-9d2c706308",
+      "variantId": "v-fcd022ec0c"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-48",
+      "path": [
+        "i"
+      ],
+      "tags": [
+        "Location",
+        "Opening",
+        "SinusesAndOpenings",
+        "FS3"
+      ],
+      "sourceLine": 48,
+      "section": "Paranasal sinuses, conchae and openings (a\u2013p)",
+      "label": "i",
+      "structureId": "location-of-opening-to-frontal-sinus-1d8ca6f159",
+      "factId": "f-d219c68101",
+      "variantId": "v-34130fb3bd"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-49",
+      "path": [
+        "i"
+      ],
+      "tags": [
+        "Function",
+        "Opening",
+        "SinusesAndOpenings",
+        "FS3"
+      ],
+      "sourceLine": 49,
+      "section": "Paranasal sinuses, conchae and openings (a\u2013p)",
+      "label": "i",
+      "structureId": "location-of-opening-to-frontal-sinus-1d8ca6f159",
+      "factId": "f-f1e410ad14",
+      "variantId": "v-69a7954405"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-52",
+      "path": [
+        "j"
+      ],
+      "tags": [
+        "Identification",
+        "ModelNote",
+        "SinusesAndOpenings",
+        "FS3"
+      ],
+      "sourceLine": 52,
+      "section": "Paranasal sinuses, conchae and openings (a\u2013p)",
+      "label": "j",
+      "structureId": "no-label-16e70c6626",
+      "factId": "f-9d2c706308",
+      "variantId": "v-d756b1f61f"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-53",
+      "path": [
+        "j"
+      ],
+      "tags": [
+        "ModelNote",
+        "SinusesAndOpenings",
+        "FS3"
+      ],
+      "sourceLine": 53,
+      "section": "Paranasal sinuses, conchae and openings (a\u2013p)",
+      "label": "j",
+      "structureId": "no-label-16e70c6626",
+      "factId": "f-c0d9dc54c1",
+      "variantId": "v-71b239ea9e"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-56",
+      "path": [
+        "k"
+      ],
+      "tags": [
+        "Identification",
+        "ParanasalSinus",
+        "SinusesAndOpenings",
+        "FS3"
+      ],
+      "sourceLine": 56,
+      "section": "Paranasal sinuses, conchae and openings (a\u2013p)",
+      "label": "k",
+      "structureId": "maxillary-sinus-1f6538c238",
+      "factId": "f-9d2c706308",
+      "variantId": "v-0f9f2c1e36"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-57",
+      "path": [
+        "k"
+      ],
+      "tags": [
+        "Location",
+        "ParanasalSinus",
+        "SinusesAndOpenings",
+        "FS3"
+      ],
+      "sourceLine": 57,
+      "section": "Paranasal sinuses, conchae and openings (a\u2013p)",
+      "label": "k",
+      "structureId": "maxillary-sinus-1f6538c238",
+      "factId": "f-d219c68101",
+      "variantId": "v-451029f4a1"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-58",
+      "path": [
+        "k"
+      ],
+      "tags": [
+        "Drainage",
+        "ParanasalSinus",
+        "SinusesAndOpenings",
+        "FS3"
+      ],
+      "sourceLine": 58,
+      "section": "Paranasal sinuses, conchae and openings (a\u2013p)",
+      "label": "k",
+      "structureId": "maxillary-sinus-1f6538c238",
+      "factId": "f-74a64b1943",
+      "variantId": "v-01a7e8b654"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-59",
+      "path": [
+        "k"
+      ],
+      "tags": [
+        "Clinical",
+        "ParanasalSinus",
+        "SinusesAndOpenings",
+        "FS3"
+      ],
+      "sourceLine": 59,
+      "section": "Paranasal sinuses, conchae and openings (a\u2013p)",
+      "label": "k",
+      "structureId": "maxillary-sinus-1f6538c238",
+      "factId": "f-b03737e3cd",
+      "variantId": "v-73e4eae862"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-62",
+      "path": [
+        "l"
+      ],
+      "tags": [
+        "Identification",
+        "NasalConcha",
+        "SinusesAndOpenings",
+        "FS3"
+      ],
+      "sourceLine": 62,
+      "section": "Paranasal sinuses, conchae and openings (a\u2013p)",
+      "label": "l",
+      "structureId": "section-of-inferior-nasal-concha-49545f9a15",
+      "factId": "f-9d2c706308",
+      "variantId": "v-0a8362186a"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-63",
+      "path": [
+        "l"
+      ],
+      "tags": [
+        "Location",
+        "NasalConcha",
+        "SinusesAndOpenings",
+        "FS3"
+      ],
+      "sourceLine": 63,
+      "section": "Paranasal sinuses, conchae and openings (a\u2013p)",
+      "label": "l",
+      "structureId": "section-of-inferior-nasal-concha-49545f9a15",
+      "factId": "f-d219c68101",
+      "variantId": "v-4e5f22f507"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-64",
+      "path": [
+        "l"
+      ],
+      "tags": [
+        "Function",
+        "NasalConcha",
+        "SinusesAndOpenings",
+        "FS3"
+      ],
+      "sourceLine": 64,
+      "section": "Paranasal sinuses, conchae and openings (a\u2013p)",
+      "label": "l",
+      "structureId": "section-of-inferior-nasal-concha-49545f9a15",
+      "factId": "f-f1e410ad14",
+      "variantId": "v-07c6984dcd"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-65",
+      "path": [
+        "l"
+      ],
+      "tags": [
+        "Relations",
+        "NasalConcha",
+        "SinusesAndOpenings",
+        "FS3"
+      ],
+      "sourceLine": 65,
+      "section": "Paranasal sinuses, conchae and openings (a\u2013p)",
+      "label": "l",
+      "structureId": "section-of-inferior-nasal-concha-49545f9a15",
+      "factId": "f-6519fe11ef",
+      "variantId": "v-0e25832714"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-68",
+      "path": [
+        "m"
+      ],
+      "tags": [
+        "Identification",
+        "Opening",
+        "SinusesAndOpenings",
+        "FS3"
+      ],
+      "sourceLine": 68,
+      "section": "Paranasal sinuses, conchae and openings (a\u2013p)",
+      "label": "m",
+      "structureId": "nasolacrimal-duct-opening-2f39aa0da5",
+      "factId": "f-9d2c706308",
+      "variantId": "v-a6597f4111"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-69",
+      "path": [
+        "m"
+      ],
+      "tags": [
+        "Location",
+        "Opening",
+        "SinusesAndOpenings",
+        "FS3"
+      ],
+      "sourceLine": 69,
+      "section": "Paranasal sinuses, conchae and openings (a\u2013p)",
+      "label": "m",
+      "structureId": "nasolacrimal-duct-opening-2f39aa0da5",
+      "factId": "f-d219c68101",
+      "variantId": "v-b6d98ad818"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-70",
+      "path": [
+        "m"
+      ],
+      "tags": [
+        "Function",
+        "Opening",
+        "SinusesAndOpenings",
+        "FS3"
+      ],
+      "sourceLine": 70,
+      "section": "Paranasal sinuses, conchae and openings (a\u2013p)",
+      "label": "m",
+      "structureId": "nasolacrimal-duct-opening-2f39aa0da5",
+      "factId": "f-f1e410ad14",
+      "variantId": "v-fcb4382655"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-73",
+      "path": [
+        "n"
+      ],
+      "tags": [
+        "Identification",
+        "Foramen",
+        "SinusesAndOpenings",
+        "FS3"
+      ],
+      "sourceLine": 73,
+      "section": "Paranasal sinuses, conchae and openings (a\u2013p)",
+      "label": "n",
+      "structureId": "sphenopalatine-foramen-8dd49e942d",
+      "factId": "f-9d2c706308",
+      "variantId": "v-9edb80f944"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-74",
+      "path": [
+        "n"
+      ],
+      "tags": [
+        "Location",
+        "Foramen",
+        "SinusesAndOpenings",
+        "FS3"
+      ],
+      "sourceLine": 74,
+      "section": "Paranasal sinuses, conchae and openings (a\u2013p)",
+      "label": "n",
+      "structureId": "sphenopalatine-foramen-8dd49e942d",
+      "factId": "f-d219c68101",
+      "variantId": "v-d64032bdee"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-75",
+      "path": [
+        "n"
+      ],
+      "tags": [
+        "Contents",
+        "Foramen",
+        "SinusesAndOpenings",
+        "FS3"
+      ],
+      "sourceLine": 75,
+      "section": "Paranasal sinuses, conchae and openings (a\u2013p)",
+      "label": "n",
+      "structureId": "sphenopalatine-foramen-8dd49e942d",
+      "factId": "f-f5cbdf6bfb",
+      "variantId": "v-50a3db3f06"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-76",
+      "path": [
+        "n"
+      ],
+      "tags": [
+        "Clinical",
+        "Foramen",
+        "SinusesAndOpenings",
+        "FS3"
+      ],
+      "sourceLine": 76,
+      "section": "Paranasal sinuses, conchae and openings (a\u2013p)",
+      "label": "n",
+      "structureId": "sphenopalatine-foramen-8dd49e942d",
+      "factId": "f-b03737e3cd",
+      "variantId": "v-ef5332d9d2"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-79",
+      "path": [
+        "o"
+      ],
+      "tags": [
+        "Identification",
+        "Foramen",
+        "SinusesAndOpenings",
+        "FS3"
+      ],
+      "sourceLine": 79,
+      "section": "Paranasal sinuses, conchae and openings (a\u2013p)",
+      "label": "o",
+      "structureId": "greater-palatine-foramen-8d73a9744d",
+      "factId": "f-9d2c706308",
+      "variantId": "v-90713a14de"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-80",
+      "path": [
+        "o"
+      ],
+      "tags": [
+        "Bone",
+        "Foramen",
+        "SinusesAndOpenings",
+        "FS3"
+      ],
+      "sourceLine": 80,
+      "section": "Paranasal sinuses, conchae and openings (a\u2013p)",
+      "label": "o",
+      "structureId": "greater-palatine-foramen-8d73a9744d",
+      "factId": "f-bcf605d6bb",
+      "variantId": "v-764cede34e"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-81",
+      "path": [
+        "o"
+      ],
+      "tags": [
+        "Contents",
+        "Foramen",
+        "SinusesAndOpenings",
+        "FS3"
+      ],
+      "sourceLine": 81,
+      "section": "Paranasal sinuses, conchae and openings (a\u2013p)",
+      "label": "o",
+      "structureId": "greater-palatine-foramen-8d73a9744d",
+      "factId": "f-f5cbdf6bfb",
+      "variantId": "v-7e9833a5bf"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-82",
+      "path": [
+        "o"
+      ],
+      "tags": [
+        "Relations",
+        "Foramen",
+        "SinusesAndOpenings",
+        "FS3"
+      ],
+      "sourceLine": 82,
+      "section": "Paranasal sinuses, conchae and openings (a\u2013p)",
+      "label": "o",
+      "structureId": "greater-palatine-foramen-8d73a9744d",
+      "factId": "f-6519fe11ef",
+      "variantId": "v-c5f12f6267"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-85",
+      "path": [
+        "p"
+      ],
+      "tags": [
+        "Identification",
+        "ParanasalSinus",
+        "SinusesAndOpenings",
+        "FS3"
+      ],
+      "sourceLine": 85,
+      "section": "Paranasal sinuses, conchae and openings (a\u2013p)",
+      "label": "p",
+      "structureId": "sphenoidal-sinus-103579ce4c",
+      "factId": "f-9d2c706308",
+      "variantId": "v-73b585e403"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-86",
+      "path": [
+        "p"
+      ],
+      "tags": [
+        "Location",
+        "ParanasalSinus",
+        "SinusesAndOpenings",
+        "FS3"
+      ],
+      "sourceLine": 86,
+      "section": "Paranasal sinuses, conchae and openings (a\u2013p)",
+      "label": "p",
+      "structureId": "sphenoidal-sinus-103579ce4c",
+      "factId": "f-d219c68101",
+      "variantId": "v-0a581188ea"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-87",
+      "path": [
+        "p"
+      ],
+      "tags": [
+        "Drainage",
+        "ParanasalSinus",
+        "SinusesAndOpenings",
+        "FS3"
+      ],
+      "sourceLine": 87,
+      "section": "Paranasal sinuses, conchae and openings (a\u2013p)",
+      "label": "p",
+      "structureId": "sphenoidal-sinus-103579ce4c",
+      "factId": "f-74a64b1943",
+      "variantId": "v-c893c24bbc"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-88",
+      "path": [
+        "p"
+      ],
+      "tags": [
+        "Relations",
+        "ParanasalSinus",
+        "SinusesAndOpenings",
+        "FS3"
+      ],
+      "sourceLine": 88,
+      "section": "Paranasal sinuses, conchae and openings (a\u2013p)",
+      "label": "p",
+      "structureId": "sphenoidal-sinus-103579ce4c",
+      "factId": "f-6519fe11ef",
+      "variantId": "v-67fefefe02"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-89",
+      "path": [
+        "p"
+      ],
+      "tags": [
+        "Clinical",
+        "ParanasalSinus",
+        "SinusesAndOpenings",
+        "FS3"
+      ],
+      "sourceLine": 89,
+      "section": "Paranasal sinuses, conchae and openings (a\u2013p)",
+      "label": "p",
+      "structureId": "sphenoidal-sinus-103579ce4c",
+      "factId": "f-b03737e3cd",
+      "variantId": "v-0a907bbe5d"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-93",
+      "path": [
+        "1"
+      ],
+      "tags": [
+        "Identification",
+        "Bone",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 93,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "1",
+      "structureId": "frontal-bone-1f589989c1",
+      "factId": "f-9d2c706308",
+      "variantId": "v-702c8eb699"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-94",
+      "path": [
+        "1"
+      ],
+      "tags": [
+        "Relations",
+        "Bone",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 94,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "1",
+      "structureId": "frontal-bone-1f589989c1",
+      "factId": "f-6519fe11ef",
+      "variantId": "v-2fa3e84634"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-95",
+      "path": [
+        "1"
+      ],
+      "tags": [
+        "Articulations",
+        "Bone",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 95,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "1",
+      "structureId": "frontal-bone-1f589989c1",
+      "factId": "f-a40bee8d10",
+      "variantId": "v-74b532bb8b"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-98",
+      "path": [
+        "2"
+      ],
+      "tags": [
+        "Identification",
+        "Bone",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 98,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "2",
+      "structureId": "ethmoid-bone-d41257c58c",
+      "factId": "f-9d2c706308",
+      "variantId": "v-e17c89319d"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-99",
+      "path": [
+        "2"
+      ],
+      "tags": [
+        "Landmarks",
+        "Bone",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 99,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "2",
+      "structureId": "ethmoid-bone-d41257c58c",
+      "factId": "f-626b6c1d45",
+      "variantId": "v-010ed1369c"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-100",
+      "path": [
+        "2"
+      ],
+      "tags": [
+        "Relations",
+        "Bone",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 100,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "2",
+      "structureId": "ethmoid-bone-d41257c58c",
+      "factId": "f-6519fe11ef",
+      "variantId": "v-e3ee6bf586"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-103",
+      "path": [
+        "3"
+      ],
+      "tags": [
+        "Identification",
+        "Bone",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 103,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "3",
+      "structureId": "inferior-nasal-concha-2dc67c9d54",
+      "factId": "f-9d2c706308",
+      "variantId": "v-f206de9832"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-104",
+      "path": [
+        "3"
+      ],
+      "tags": [
+        "Structure",
+        "Bone",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 104,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "3",
+      "structureId": "inferior-nasal-concha-2dc67c9d54",
+      "factId": "f-9482c5d5bf",
+      "variantId": "v-a33563a1aa"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-105",
+      "path": [
+        "3"
+      ],
+      "tags": [
+        "Function",
+        "Bone",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 105,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "3",
+      "structureId": "inferior-nasal-concha-2dc67c9d54",
+      "factId": "f-f1e410ad14",
+      "variantId": "v-0545b125f8"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-108",
+      "path": [
+        "4"
+      ],
+      "tags": [
+        "Identification",
+        "Bone",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 108,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "4",
+      "structureId": "lacrimal-bone-c73c2b31bc",
+      "factId": "f-9d2c706308",
+      "variantId": "v-022ffd4535"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-109",
+      "path": [
+        "4"
+      ],
+      "tags": [
+        "Relations",
+        "Bone",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 109,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "4",
+      "structureId": "lacrimal-bone-c73c2b31bc",
+      "factId": "f-6519fe11ef",
+      "variantId": "v-7ef576a16f"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-110",
+      "path": [
+        "4"
+      ],
+      "tags": [
+        "Function",
+        "Bone",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 110,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "4",
+      "structureId": "lacrimal-bone-c73c2b31bc",
+      "factId": "f-f1e410ad14",
+      "variantId": "v-e91938c66e"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-113",
+      "path": [
+        "5"
+      ],
+      "tags": [
+        "Identification",
+        "Bone",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 113,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "5",
+      "structureId": "nasal-bone-f71083d866",
+      "factId": "f-9d2c706308",
+      "variantId": "v-e3eb4fe00f"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-114",
+      "path": [
+        "5"
+      ],
+      "tags": [
+        "Relations",
+        "Bone",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 114,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "5",
+      "structureId": "nasal-bone-f71083d866",
+      "factId": "f-6519fe11ef",
+      "variantId": "v-904d531b23"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-115",
+      "path": [
+        "5"
+      ],
+      "tags": [
+        "Articulations",
+        "Bone",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 115,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "5",
+      "structureId": "nasal-bone-f71083d866",
+      "factId": "f-a40bee8d10",
+      "variantId": "v-1be0ac7971"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-118",
+      "path": [
+        "6"
+      ],
+      "tags": [
+        "Identification",
+        "Bone",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 118,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "6",
+      "structureId": "maxilla-8ba086319d",
+      "factId": "f-9d2c706308",
+      "variantId": "v-7891c254b0"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-119",
+      "path": [
+        "6"
+      ],
+      "tags": [
+        "Landmarks",
+        "Bone",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 119,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "6",
+      "structureId": "maxilla-8ba086319d",
+      "factId": "f-626b6c1d45",
+      "variantId": "v-814dae2090"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-120",
+      "path": [
+        "6"
+      ],
+      "tags": [
+        "Relations",
+        "Bone",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 120,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "6",
+      "structureId": "maxilla-8ba086319d",
+      "factId": "f-6519fe11ef",
+      "variantId": "v-38f72584c1"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-123",
+      "path": [
+        "7"
+      ],
+      "tags": [
+        "Identification",
+        "Bone",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 123,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "7",
+      "structureId": "palatine-bone-804a130ae6",
+      "factId": "f-9d2c706308",
+      "variantId": "v-81b93a1375"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-124",
+      "path": [
+        "7"
+      ],
+      "tags": [
+        "Relations",
+        "Bone",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 124,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "7",
+      "structureId": "palatine-bone-804a130ae6",
+      "factId": "f-6519fe11ef",
+      "variantId": "v-4b1ef5ca1c"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-125",
+      "path": [
+        "7"
+      ],
+      "tags": [
+        "Landmarks",
+        "Bone",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 125,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "7",
+      "structureId": "palatine-bone-804a130ae6",
+      "factId": "f-626b6c1d45",
+      "variantId": "v-3f3668db01"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-128",
+      "path": [
+        "8"
+      ],
+      "tags": [
+        "Identification",
+        "Bone",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 128,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "8",
+      "structureId": "sphenoid-bone-1c1ed77cc7",
+      "factId": "f-9d2c706308",
+      "variantId": "v-9bb01fe36d"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-129",
+      "path": [
+        "8"
+      ],
+      "tags": [
+        "Landmarks",
+        "Bone",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 129,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "8",
+      "structureId": "sphenoid-bone-1c1ed77cc7",
+      "factId": "f-626b6c1d45",
+      "variantId": "v-fd990addc4"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-130",
+      "path": [
+        "8"
+      ],
+      "tags": [
+        "Relations",
+        "Bone",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 130,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "8",
+      "structureId": "sphenoid-bone-1c1ed77cc7",
+      "factId": "f-6519fe11ef",
+      "variantId": "v-92043bed2f"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-133",
+      "path": [
+        "9"
+      ],
+      "tags": [
+        "Identification",
+        "Cartilage",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 133,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "9",
+      "structureId": "nasal-cartilages-3613a3b58c",
+      "factId": "f-9d2c706308",
+      "variantId": "v-688ffee543"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-134",
+      "path": [
+        "9"
+      ],
+      "tags": [
+        "Structure",
+        "Cartilage",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 134,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "9",
+      "structureId": "nasal-cartilages-3613a3b58c",
+      "factId": "f-9482c5d5bf",
+      "variantId": "v-8316001dc4"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-135",
+      "path": [
+        "9"
+      ],
+      "tags": [
+        "Function",
+        "Cartilage",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 135,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "9",
+      "structureId": "nasal-cartilages-3613a3b58c",
+      "factId": "f-f1e410ad14",
+      "variantId": "v-1163fbdc72"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-138",
+      "path": [
+        "10"
+      ],
+      "tags": [
+        "Identification",
+        "ModelNote",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 138,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "10",
+      "structureId": "no-label-f59bacafb8",
+      "factId": "f-9d2c706308",
+      "variantId": "v-d756b1f61f"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-139",
+      "path": [
+        "10"
+      ],
+      "tags": [
+        "ModelNote",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 139,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "10",
+      "structureId": "no-label-f59bacafb8",
+      "factId": "f-c0d9dc54c1",
+      "variantId": "v-71b239ea9e"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-142",
+      "path": [
+        "11"
+      ],
+      "tags": [
+        "Identification",
+        "NasalConcha",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 142,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "11",
+      "structureId": "superior-nasal-concha-91a646650b",
+      "factId": "f-9d2c706308",
+      "variantId": "v-f99d563fe0"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-143",
+      "path": [
+        "11"
+      ],
+      "tags": [
+        "Location",
+        "NasalConcha",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 143,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "11",
+      "structureId": "superior-nasal-concha-91a646650b",
+      "factId": "f-d219c68101",
+      "variantId": "v-d02f25255f"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-144",
+      "path": [
+        "11"
+      ],
+      "tags": [
+        "Function",
+        "NasalConcha",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 144,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "11",
+      "structureId": "superior-nasal-concha-91a646650b",
+      "factId": "f-f1e410ad14",
+      "variantId": "v-efe3ec0f5e"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-147",
+      "path": [
+        "12"
+      ],
+      "tags": [
+        "Identification",
+        "NasalConcha",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 147,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "12",
+      "structureId": "middle-nasal-concha-0dcb2af9b7",
+      "factId": "f-9d2c706308",
+      "variantId": "v-33baf53db3"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-148",
+      "path": [
+        "12"
+      ],
+      "tags": [
+        "Location",
+        "NasalConcha",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 148,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "12",
+      "structureId": "middle-nasal-concha-0dcb2af9b7",
+      "factId": "f-d219c68101",
+      "variantId": "v-9560e4d82b"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-149",
+      "path": [
+        "12"
+      ],
+      "tags": [
+        "Function",
+        "NasalConcha",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 149,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "12",
+      "structureId": "middle-nasal-concha-0dcb2af9b7",
+      "factId": "f-f1e410ad14",
+      "variantId": "v-06f3af31d3"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-152",
+      "path": [
+        "13"
+      ],
+      "tags": [
+        "Identification",
+        "NasalConcha",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 152,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "13",
+      "structureId": "inferior-nasal-concha-2dc67c9d54",
+      "factId": "f-9d2c706308",
+      "variantId": "v-f206de9832"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-153",
+      "path": [
+        "13"
+      ],
+      "tags": [
+        "Location",
+        "NasalConcha",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 153,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "13",
+      "structureId": "inferior-nasal-concha-2dc67c9d54",
+      "factId": "f-d219c68101",
+      "variantId": "v-adbc09d464"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-154",
+      "path": [
+        "13"
+      ],
+      "tags": [
+        "Function",
+        "NasalConcha",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 154,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "13",
+      "structureId": "inferior-nasal-concha-2dc67c9d54",
+      "factId": "f-f1e410ad14",
+      "variantId": "v-cb1a63deab"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-157",
+      "path": [
+        "14"
+      ],
+      "tags": [
+        "Identification",
+        "NasalMeatus",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 157,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "14",
+      "structureId": "superior-nasal-meatus-cda1d086c5",
+      "factId": "f-9d2c706308",
+      "variantId": "v-58556ccc62"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-158",
+      "path": [
+        "14"
+      ],
+      "tags": [
+        "Location",
+        "NasalMeatus",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 158,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "14",
+      "structureId": "superior-nasal-meatus-cda1d086c5",
+      "factId": "f-d219c68101",
+      "variantId": "v-0637c4f8b7"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-159",
+      "path": [
+        "14"
+      ],
+      "tags": [
+        "Drainage",
+        "NasalMeatus",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 159,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "14",
+      "structureId": "superior-nasal-meatus-cda1d086c5",
+      "factId": "f-74a64b1943",
+      "variantId": "v-60d3378d1c"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-162",
+      "path": [
+        "15"
+      ],
+      "tags": [
+        "Identification",
+        "NasalMeatus",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 162,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "15",
+      "structureId": "middle-nasal-meatus-781a56ca12",
+      "factId": "f-9d2c706308",
+      "variantId": "v-28561ea65b"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-163",
+      "path": [
+        "15"
+      ],
+      "tags": [
+        "Location",
+        "NasalMeatus",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 163,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "15",
+      "structureId": "middle-nasal-meatus-781a56ca12",
+      "factId": "f-d219c68101",
+      "variantId": "v-544067d6bd"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-164",
+      "path": [
+        "15"
+      ],
+      "tags": [
+        "Drainage",
+        "NasalMeatus",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 164,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "15",
+      "structureId": "middle-nasal-meatus-781a56ca12",
+      "factId": "f-74a64b1943",
+      "variantId": "v-3126b49173"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-165",
+      "path": [
+        "15"
+      ],
+      "tags": [
+        "Landmarks",
+        "NasalMeatus",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 165,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "15",
+      "structureId": "middle-nasal-meatus-781a56ca12",
+      "factId": "f-626b6c1d45",
+      "variantId": "v-b6f9a16b1c"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-168",
+      "path": [
+        "16"
+      ],
+      "tags": [
+        "Identification",
+        "NasalMeatus",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 168,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "16",
+      "structureId": "inferior-nasal-meatus-16afe341cd",
+      "factId": "f-9d2c706308",
+      "variantId": "v-9a37356df8"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-169",
+      "path": [
+        "16"
+      ],
+      "tags": [
+        "Location",
+        "NasalMeatus",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 169,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "16",
+      "structureId": "inferior-nasal-meatus-16afe341cd",
+      "factId": "f-d219c68101",
+      "variantId": "v-dc224e5b5c"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-170",
+      "path": [
+        "16"
+      ],
+      "tags": [
+        "Drainage",
+        "NasalMeatus",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 170,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "16",
+      "structureId": "inferior-nasal-meatus-16afe341cd",
+      "factId": "f-74a64b1943",
+      "variantId": "v-9c9ef1421d"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-173",
+      "path": [
+        "17"
+      ],
+      "tags": [
+        "Identification",
+        "Opening",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 173,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "17",
+      "structureId": "pharyngeal-opening-of-auditory-tube-8174fe9b46",
+      "factId": "f-9d2c706308",
+      "variantId": "v-1246b00639"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-174",
+      "path": [
+        "17"
+      ],
+      "tags": [
+        "Location",
+        "Opening",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 174,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "17",
+      "structureId": "pharyngeal-opening-of-auditory-tube-8174fe9b46",
+      "factId": "f-d219c68101",
+      "variantId": "v-14b2351bb9"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-175",
+      "path": [
+        "17"
+      ],
+      "tags": [
+        "Function",
+        "Opening",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 175,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "17",
+      "structureId": "pharyngeal-opening-of-auditory-tube-8174fe9b46",
+      "factId": "f-f1e410ad14",
+      "variantId": "v-7ed4f3c18a"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-178",
+      "path": [
+        "18"
+      ],
+      "tags": [
+        "Identification",
+        "Space",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 178,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "18",
+      "structureId": "pharyngeal-recess-9d02fd4562",
+      "factId": "f-9d2c706308",
+      "variantId": "v-a60c75da10"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-179",
+      "path": [
+        "18"
+      ],
+      "tags": [
+        "Location",
+        "Space",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 179,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "18",
+      "structureId": "pharyngeal-recess-9d02fd4562",
+      "factId": "f-d219c68101",
+      "variantId": "v-f72cc2fe5f"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-180",
+      "path": [
+        "18"
+      ],
+      "tags": [
+        "AlsoCalled",
+        "Space",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 180,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "18",
+      "structureId": "pharyngeal-recess-9d02fd4562",
+      "factId": "f-4365b97418",
+      "variantId": "v-349d22cfbb"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-181",
+      "path": [
+        "18"
+      ],
+      "tags": [
+        "Clinical",
+        "Space",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 181,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "18",
+      "structureId": "pharyngeal-recess-9d02fd4562",
+      "factId": "f-b03737e3cd",
+      "variantId": "v-afa5f3ce44"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-184",
+      "path": [
+        "19"
+      ],
+      "tags": [
+        "Identification",
+        "BonyLandmark",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 184,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "19",
+      "structureId": "hard-palate-8f81b6b8ed",
+      "factId": "f-9d2c706308",
+      "variantId": "v-b3c01172c6"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-185",
+      "path": [
+        "19"
+      ],
+      "tags": [
+        "Structure",
+        "BonyLandmark",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 185,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "19",
+      "structureId": "hard-palate-8f81b6b8ed",
+      "factId": "f-9482c5d5bf",
+      "variantId": "v-33917dcc17"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-186",
+      "path": [
+        "19"
+      ],
+      "tags": [
+        "Function",
+        "BonyLandmark",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 186,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "19",
+      "structureId": "hard-palate-8f81b6b8ed",
+      "factId": "f-f1e410ad14",
+      "variantId": "v-c2e7fabb06"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-189",
+      "path": [
+        "20"
+      ],
+      "tags": [
+        "Identification",
+        "SoftTissue",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 189,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "20",
+      "structureId": "soft-palate-8e7cffcd9e",
+      "factId": "f-9d2c706308",
+      "variantId": "v-f3312ccad7"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-190",
+      "path": [
+        "20"
+      ],
+      "tags": [
+        "Structure",
+        "SoftTissue",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 190,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "20",
+      "structureId": "soft-palate-8e7cffcd9e",
+      "factId": "f-9482c5d5bf",
+      "variantId": "v-b6b9224baf"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-191",
+      "path": [
+        "20"
+      ],
+      "tags": [
+        "Function",
+        "SoftTissue",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 191,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "20",
+      "structureId": "soft-palate-8e7cffcd9e",
+      "factId": "f-f1e410ad14",
+      "variantId": "v-80f94aa4af"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-192",
+      "path": [
+        "20"
+      ],
+      "tags": [
+        "Innervation",
+        "SoftTissue",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 192,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "20",
+      "structureId": "soft-palate-8e7cffcd9e",
+      "factId": "f-65461dd593",
+      "variantId": "v-89c2ebfbb2"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-195",
+      "path": [
+        "21"
+      ],
+      "tags": [
+        "Identification",
+        "Space",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 195,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "21",
+      "structureId": "nasal-vestibule-315cb3e9d7",
+      "factId": "f-9d2c706308",
+      "variantId": "v-dc53b2e185"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-196",
+      "path": [
+        "21"
+      ],
+      "tags": [
+        "Location",
+        "Space",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 196,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "21",
+      "structureId": "nasal-vestibule-315cb3e9d7",
+      "factId": "f-d219c68101",
+      "variantId": "v-17bcef5cfd"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-197",
+      "path": [
+        "21"
+      ],
+      "tags": [
+        "Structure",
+        "Space",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 197,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "21",
+      "structureId": "nasal-vestibule-315cb3e9d7",
+      "factId": "f-9482c5d5bf",
+      "variantId": "v-4da5a11267"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-198",
+      "path": [
+        "21"
+      ],
+      "tags": [
+        "Function",
+        "Space",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 198,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "21",
+      "structureId": "nasal-vestibule-315cb3e9d7",
+      "factId": "f-f1e410ad14",
+      "variantId": "v-535c913574"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-201",
+      "path": [
+        "22"
+      ],
+      "tags": [
+        "Identification",
+        "LymphoidTissue",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 201,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "22",
+      "structureId": "pharyngeal-tonsil-b9644b58ad",
+      "factId": "f-9d2c706308",
+      "variantId": "v-eb3f41c5ed"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-202",
+      "path": [
+        "22"
+      ],
+      "tags": [
+        "Location",
+        "LymphoidTissue",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 202,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "22",
+      "structureId": "pharyngeal-tonsil-b9644b58ad",
+      "factId": "f-d219c68101",
+      "variantId": "v-dc4bff72e8"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-203",
+      "path": [
+        "22"
+      ],
+      "tags": [
+        "Function",
+        "LymphoidTissue",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 203,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "22",
+      "structureId": "pharyngeal-tonsil-b9644b58ad",
+      "factId": "f-f1e410ad14",
+      "variantId": "v-cc46b6264e"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-204",
+      "path": [
+        "22"
+      ],
+      "tags": [
+        "Clinical",
+        "LymphoidTissue",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 204,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "22",
+      "structureId": "pharyngeal-tonsil-b9644b58ad",
+      "factId": "f-b03737e3cd",
+      "variantId": "v-9191ff763f"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-207",
+      "path": [
+        "23"
+      ],
+      "tags": [
+        "Identification",
+        "LymphoidTissue",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 207,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "23",
+      "structureId": "palatine-tonsil-42977202dc",
+      "factId": "f-9d2c706308",
+      "variantId": "v-5436c1457a"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-208",
+      "path": [
+        "23"
+      ],
+      "tags": [
+        "Location",
+        "LymphoidTissue",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 208,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "23",
+      "structureId": "palatine-tonsil-42977202dc",
+      "factId": "f-d219c68101",
+      "variantId": "v-d74576a2a1"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-209",
+      "path": [
+        "23"
+      ],
+      "tags": [
+        "Function",
+        "LymphoidTissue",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 209,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "23",
+      "structureId": "palatine-tonsil-42977202dc",
+      "factId": "f-f1e410ad14",
+      "variantId": "v-cc46b6264e"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-210",
+      "path": [
+        "23"
+      ],
+      "tags": [
+        "Clinical",
+        "LymphoidTissue",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 210,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "23",
+      "structureId": "palatine-tonsil-42977202dc",
+      "factId": "f-b03737e3cd",
+      "variantId": "v-9399b05dda"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-213",
+      "path": [
+        "24"
+      ],
+      "tags": [
+        "Identification",
+        "CNS",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 213,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "24",
+      "structureId": "olfactory-bulb-45717fb078",
+      "factId": "f-9d2c706308",
+      "variantId": "v-b35f6135ca"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-214",
+      "path": [
+        "24"
+      ],
+      "tags": [
+        "Location",
+        "CNS",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 214,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "24",
+      "structureId": "olfactory-bulb-45717fb078",
+      "factId": "f-d219c68101",
+      "variantId": "v-de36c17f43"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-215",
+      "path": [
+        "24"
+      ],
+      "tags": [
+        "Function",
+        "CNS",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 215,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "24",
+      "structureId": "olfactory-bulb-45717fb078",
+      "factId": "f-f1e410ad14",
+      "variantId": "v-2d3ec5d7c0"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-216",
+      "path": [
+        "24"
+      ],
+      "tags": [
+        "Connections",
+        "CNS",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 216,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "24",
+      "structureId": "olfactory-bulb-45717fb078",
+      "factId": "f-8f3509b64e",
+      "variantId": "v-d408e1add8"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-217",
+      "path": [
+        "24"
+      ],
+      "tags": [
+        "Clinical",
+        "CNS",
+        "NasalCavity",
+        "FS3"
+      ],
+      "sourceLine": 217,
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "label": "24",
+      "structureId": "olfactory-bulb-45717fb078",
+      "factId": "f-b03737e3cd",
+      "variantId": "v-e530e96643"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-221",
+      "path": [
+        "46"
+      ],
+      "tags": [
+        "Identification",
+        "Septum",
+        "NasalSeptum",
+        "FS3"
+      ],
+      "sourceLine": 221,
+      "section": "Nasal septum",
+      "label": "46",
+      "structureId": "nasal-septum-7e809a925a",
+      "factId": "f-9d2c706308",
+      "variantId": "v-c76805d43d"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-222",
+      "path": [
+        "46"
+      ],
+      "tags": [
+        "Structure",
+        "Septum",
+        "NasalSeptum",
+        "FS3"
+      ],
+      "sourceLine": 222,
+      "section": "Nasal septum",
+      "label": "46",
+      "structureId": "nasal-septum-7e809a925a",
+      "factId": "f-9482c5d5bf",
+      "variantId": "v-4268f158d0"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-223",
+      "path": [
+        "46"
+      ],
+      "tags": [
+        "Components",
+        "Septum",
+        "NasalSeptum",
+        "FS3"
+      ],
+      "sourceLine": 223,
+      "section": "Nasal septum",
+      "label": "46",
+      "structureId": "nasal-septum-7e809a925a",
+      "factId": "f-9289473eee",
+      "variantId": "v-3358de214e"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-224",
+      "path": [
+        "46"
+      ],
+      "tags": [
+        "Function",
+        "Septum",
+        "NasalSeptum",
+        "FS3"
+      ],
+      "sourceLine": 224,
+      "section": "Nasal septum",
+      "label": "46",
+      "structureId": "nasal-septum-7e809a925a",
+      "factId": "f-f1e410ad14",
+      "variantId": "v-d6c411beca"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-227",
+      "path": [
+        "47"
+      ],
+      "tags": [
+        "Identification",
+        "Bone",
+        "NasalSeptum",
+        "FS3"
+      ],
+      "sourceLine": 227,
+      "section": "Nasal septum",
+      "label": "47",
+      "structureId": "vomer-6e6f3c1ec1",
+      "factId": "f-9d2c706308",
+      "variantId": "v-d3e3e30bfd"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-228",
+      "path": [
+        "47"
+      ],
+      "tags": [
+        "Location",
+        "Bone",
+        "NasalSeptum",
+        "FS3"
+      ],
+      "sourceLine": 228,
+      "section": "Nasal septum",
+      "label": "47",
+      "structureId": "vomer-6e6f3c1ec1",
+      "factId": "f-d219c68101",
+      "variantId": "v-5a81c267f5"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-229",
+      "path": [
+        "47"
+      ],
+      "tags": [
+        "Articulations",
+        "Bone",
+        "NasalSeptum",
+        "FS3"
+      ],
+      "sourceLine": 229,
+      "section": "Nasal septum",
+      "label": "47",
+      "structureId": "vomer-6e6f3c1ec1",
+      "factId": "f-a40bee8d10",
+      "variantId": "v-53a429a531"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-232",
+      "path": [
+        "48"
+      ],
+      "tags": [
+        "Identification",
+        "BonyLandmark",
+        "NasalSeptum",
+        "FS3"
+      ],
+      "sourceLine": 232,
+      "section": "Nasal septum",
+      "label": "48",
+      "structureId": "perpendicular-plate-of-ethmoid-bone-1e20aa3dfe",
+      "factId": "f-9d2c706308",
+      "variantId": "v-250faafbbf"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-233",
+      "path": [
+        "48"
+      ],
+      "tags": [
+        "Bone",
+        "BonyLandmark",
+        "NasalSeptum",
+        "FS3"
+      ],
+      "sourceLine": 233,
+      "section": "Nasal septum",
+      "label": "48",
+      "structureId": "perpendicular-plate-of-ethmoid-bone-1e20aa3dfe",
+      "factId": "f-bcf605d6bb",
+      "variantId": "v-436e9daff0"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-234",
+      "path": [
+        "48"
+      ],
+      "tags": [
+        "Location",
+        "BonyLandmark",
+        "NasalSeptum",
+        "FS3"
+      ],
+      "sourceLine": 234,
+      "section": "Nasal septum",
+      "label": "48",
+      "structureId": "perpendicular-plate-of-ethmoid-bone-1e20aa3dfe",
+      "factId": "f-d219c68101",
+      "variantId": "v-6c35f7d185"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-237",
+      "path": [
+        "49"
+      ],
+      "tags": [
+        "Identification",
+        "Cartilage",
+        "NasalSeptum",
+        "FS3"
+      ],
+      "sourceLine": 237,
+      "section": "Nasal septum",
+      "label": "49",
+      "structureId": "septal-cartilage-7e11a08ea6",
+      "factId": "f-9d2c706308",
+      "variantId": "v-5e99239437"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-238",
+      "path": [
+        "49"
+      ],
+      "tags": [
+        "Location",
+        "Cartilage",
+        "NasalSeptum",
+        "FS3"
+      ],
+      "sourceLine": 238,
+      "section": "Nasal septum",
+      "label": "49",
+      "structureId": "septal-cartilage-7e11a08ea6",
+      "factId": "f-d219c68101",
+      "variantId": "v-f6ac54506f"
+    },
+    {
+      "id": "nose-and-nasal-cavity-model-fs3-239",
+      "path": [
+        "49"
+      ],
+      "tags": [
+        "Function",
+        "Cartilage",
+        "NasalSeptum",
+        "FS3"
+      ],
+      "sourceLine": 239,
+      "section": "Nasal septum",
+      "label": "49",
+      "structureId": "septal-cartilage-7e11a08ea6",
+      "factId": "f-f1e410ad14",
+      "variantId": "v-cdd2ccdeeb"
+    }
+  ]
+}

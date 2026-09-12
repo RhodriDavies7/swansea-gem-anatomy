@@ -1,0 +1,127 @@
+{
+  "id": "pectoral-fascia-and-retromammary-space-44d29de458",
+  "name": "Pectoral fascia and retromammary space",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Thorax"
+  ],
+  "systems": [],
+  "organs": [
+    "Breast"
+  ],
+  "tags": [
+    "Clinical",
+    "Fascia",
+    "Function",
+    "Relations",
+    "Structure"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-8c8550d973",
+      "variants": [
+        {
+          "id": "v-8c8550d973",
+          "answer": "Pectoral fascia and retromammary space",
+          "sources": [
+            {
+              "modelId": "breast-model-ms7",
+              "cardId": "breast-model-ms7-51",
+              "sourceLine": 51
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-cea323779c",
+      "variants": [
+        {
+          "id": "v-cea323779c",
+          "answer": "Pectoral fascia covers pectoralis major; the retromammary space is a loose connective tissue plane between the breast and the deep fascia.",
+          "sources": [
+            {
+              "modelId": "breast-model-ms7",
+              "cardId": "breast-model-ms7-52",
+              "sourceLine": 52
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-3b479bfff8",
+      "variants": [
+        {
+          "id": "v-3b479bfff8",
+          "answer": "The retromammary space allows the breast to move relatively freely over the pectoral fascia.",
+          "sources": [
+            {
+              "modelId": "breast-model-ms7",
+              "cardId": "breast-model-ms7-53",
+              "sourceLine": 53
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-fd2ba5cfd6",
+      "variants": [
+        {
+          "id": "v-fd2ba5cfd6",
+          "answer": "Lies deep to the breast and superficial to pectoralis major.",
+          "sources": [
+            {
+              "modelId": "breast-model-ms7",
+              "cardId": "breast-model-ms7-54",
+              "sourceLine": 54
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-b03737e3cd",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-fc32186c5f",
+      "variants": [
+        {
+          "id": "v-fc32186c5f",
+          "answer": "Loss of mobility over the chest wall can occur when malignancy invades the deep fascia or pectoral structures.",
+          "sources": [
+            {
+              "modelId": "breast-model-ms7",
+              "cardId": "breast-model-ms7-55",
+              "sourceLine": 55
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "breast-model-ms7",
+      "section": "",
+      "path": [
+        "9"
+      ],
+      "label": "9"
+    }
+  ]
+}

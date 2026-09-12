@@ -1,0 +1,173 @@
+{
+  "id": "superior-vena-cava-d34b0694af",
+  "name": "Superior vena cava",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Veins"
+  ],
+  "regions": [
+    "Head and neck",
+    "Thorax"
+  ],
+  "systems": [
+    "Cardiovascular",
+    "Respiratory"
+  ],
+  "organs": [
+    "Heart",
+    "Larynx"
+  ],
+  "tags": [
+    "AuriclesVesselsValves",
+    "CardiacVesselsValves",
+    "Course",
+    "Drainage",
+    "Formation",
+    "Vein"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-ad6d9611c3",
+      "variants": [
+        {
+          "id": "v-ad6d9611c3",
+          "answer": "Superior vena cava",
+          "sources": [
+            {
+              "modelId": "heart-model-hs5",
+              "cardId": "heart-model-hs5-59",
+              "sourceLine": 59
+            },
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-164",
+              "sourceLine": 164
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-bc0bd86b8f",
+      "question": "Formation",
+      "preferredVariantId": "v-cb4f370f08",
+      "variants": [
+        {
+          "id": "v-cb4f370f08",
+          "answer": "Formed by union of the right and left brachiocephalic veins.",
+          "sources": [
+            {
+              "modelId": "heart-model-hs5",
+              "cardId": "heart-model-hs5-60",
+              "sourceLine": 60
+            }
+          ]
+        },
+        {
+          "id": "v-e3cfb8dacc",
+          "answer": "Formed by union of right and left brachiocephalic veins.",
+          "sources": [
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-165",
+              "sourceLine": 165
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-da856dfeaf",
+      "variants": [
+        {
+          "id": "v-da856dfeaf",
+          "answer": "Descends in the right superior mediastinum and enters the superior aspect of the right atrium.",
+          "sources": [
+            {
+              "modelId": "heart-model-hs5",
+              "cardId": "heart-model-hs5-61",
+              "sourceLine": 61
+            }
+          ]
+        },
+        {
+          "id": "v-ac8395d107",
+          "answer": "Descends in right superior mediastinum to right atrium.",
+          "sources": [
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-166",
+              "sourceLine": 166
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-74a64b1943",
+      "question": "Drainage",
+      "preferredVariantId": "v-25acea4eee",
+      "variants": [
+        {
+          "id": "v-25acea4eee",
+          "answer": "Returns venous blood from structures above the diaphragm except the heart and lungs.",
+          "sources": [
+            {
+              "modelId": "heart-model-hs5",
+              "cardId": "heart-model-hs5-62",
+              "sourceLine": 62
+            }
+          ]
+        },
+        {
+          "id": "v-59ef5f7d30",
+          "answer": "Returns venous blood from structures above the diaphragm except heart and lungs.",
+          "sources": [
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-167",
+              "sourceLine": 167
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "heart-model-hs5",
+      "section": "Auricles, great vessels and valves",
+      "path": [
+        "c"
+      ],
+      "label": "c"
+    },
+    {
+      "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+      "section": "Cardiac vessels and valves",
+      "path": [
+        "22"
+      ],
+      "label": "22"
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "id": "superficial-fibular-peroneal-nerve-62253f3cdf",
+  "name": "Superficial fibular (peroneal) nerve",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Nerves"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [],
+  "tags": [
+    "Course",
+    "Lesion",
+    "Motor",
+    "Nerve",
+    "Roots",
+    "Sensory"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-f24654971b",
+      "variants": [
+        {
+          "id": "v-f24654971b",
+          "answer": "Superficial fibular (peroneal) nerve",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-493",
+              "sourceLine": 493
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-4d78ec7d11",
+      "question": "Roots",
+      "preferredVariantId": "v-f8eeafcfda",
+      "variants": [
+        {
+          "id": "v-f8eeafcfda",
+          "answer": "L5–S2.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-494",
+              "sourceLine": 494
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-dbbc1a0382",
+      "variants": [
+        {
+          "id": "v-dbbc1a0382",
+          "answer": "Descends in lateral leg compartment, supplies fibularis longus/brevis, pierces deep fascia in distal leg and divides across dorsal foot.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-495",
+              "sourceLine": 495
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c8b6915183",
+      "question": "Motor functions",
+      "preferredVariantId": "v-1fd4760874",
+      "variants": [
+        {
+          "id": "v-1fd4760874",
+          "answer": "Foot eversion through fibularis longus and brevis; assists weak plantarflexion.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-496",
+              "sourceLine": 496
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-a453254382",
+      "question": "Sensory functions",
+      "preferredVariantId": "v-ee50ded8f8",
+      "variants": [
+        {
+          "id": "v-ee50ded8f8",
+          "answer": "Anterolateral distal leg and most dorsum of foot, excluding first web space and usually lateral border; toe tips/nail beds are mainly plantar nerve territory.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-497",
+              "sourceLine": 497
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-bc53d10c57",
+      "question": "Lesion",
+      "preferredVariantId": "v-0782c4bf9f",
+      "variants": [
+        {
+          "id": "v-0782c4bf9f",
+          "answer": "Weak eversion and altered dorsal foot sensation, with dorsiflexion and first web-space sensation preserved in an isolated lesion.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-498",
+              "sourceLine": 498
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "lower-limb-model-ns10",
+      "section": "Nerves",
+      "path": [
+        "67"
+      ],
+      "label": "67"
+    }
+  ]
+}

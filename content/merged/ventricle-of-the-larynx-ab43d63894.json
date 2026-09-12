@@ -1,0 +1,195 @@
+{
+  "id": "ventricle-of-the-larynx-ab43d63894",
+  "name": "Ventricle of the larynx",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Respiratory"
+  ],
+  "organs": [
+    "Larynx"
+  ],
+  "tags": [
+    "Function",
+    "InternalLarynx",
+    "LaryngealStructures",
+    "Location",
+    "MidSagittal",
+    "Space"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-fda38a1407",
+      "variants": [
+        {
+          "id": "v-fda38a1407",
+          "answer": "Ventricle of the larynx",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-480",
+              "sourceLine": 480
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-381",
+              "sourceLine": 381
+            },
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-243",
+              "sourceLine": 243
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-243",
+              "sourceLine": 243
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-ee35539986",
+      "variants": [
+        {
+          "id": "v-ee35539986",
+          "answer": "Recess between vestibular fold superiorly and vocal fold inferiorly.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-481",
+              "sourceLine": 481
+            }
+          ]
+        },
+        {
+          "id": "v-4b7496ecf5",
+          "answer": "Recess between vestibular fold and vocal fold.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-382",
+              "sourceLine": 382
+            }
+          ]
+        },
+        {
+          "id": "v-f21990069e",
+          "answer": "Recess between the vestibular fold superiorly and vocal fold inferiorly.",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-244",
+              "sourceLine": 244
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-244",
+              "sourceLine": 244
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-6835cb4889",
+      "variants": [
+        {
+          "id": "v-6835cb4889",
+          "answer": "Allows independent movement of the two folds and communicates with the laryngeal saccule.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-482",
+              "sourceLine": 482
+            }
+          ]
+        },
+        {
+          "id": "v-f0698afd78",
+          "answer": "Allows independent movement of folds and communicates with laryngeal saccule.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-383",
+              "sourceLine": 383
+            }
+          ]
+        },
+        {
+          "id": "v-641e773db9",
+          "answer": "Permits independent movement of the folds and communicates with the laryngeal saccule.",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-245",
+              "sourceLine": 245
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-245",
+              "sourceLine": 245
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "coronal-and-mid-sagittal-head-mb20",
+      "section": "Laryngeal structures",
+      "path": [
+        "IX"
+      ],
+      "label": "IX"
+    },
+    {
+      "modelId": "half-head-and-neck-model-bs9",
+      "section": "Laryngeal structures",
+      "path": [
+        "IX"
+      ],
+      "label": "IX"
+    },
+    {
+      "modelId": "larynx-model-gs7",
+      "section": "Internal laryngeal structures and mucosa",
+      "path": [
+        "31"
+      ],
+      "label": "31"
+    },
+    {
+      "modelId": "larynx-and-airway-model-gs5",
+      "section": "Internal laryngeal structures and mucosa",
+      "path": [
+        "31"
+      ],
+      "label": "31"
+    }
+  ]
+}

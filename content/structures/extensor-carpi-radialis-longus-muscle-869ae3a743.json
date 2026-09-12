@@ -1,0 +1,193 @@
+{
+  "id": "extensor-carpi-radialis-longus-muscle-869ae3a743",
+  "name": "Extensor carpi radialis longus muscle",
+  "aliases": [
+    "Extensor carpi radialis longus"
+  ],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "MusclesAndTendons",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-87a7ee7fd4",
+      "variants": [
+        {
+          "id": "v-87a7ee7fd4",
+          "answer": "Extensor carpi radialis longus muscle",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-80",
+              "sourceLine": 80
+            }
+          ]
+        },
+        {
+          "id": "v-c5d3f005f0",
+          "answer": "Extensor carpi radialis longus",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-111",
+              "sourceLine": 111
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-26978df431",
+      "variants": [
+        {
+          "id": "v-26978df431",
+          "answer": "Extends and abducts (radially deviates) the wrist.",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-81",
+              "sourceLine": 81
+            }
+          ]
+        },
+        {
+          "id": "v-780622a339",
+          "answer": "Extends and abducts the wrist; helps return a flexed wrist toward neutral.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-112",
+              "sourceLine": 112
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-f652663683",
+      "variants": [
+        {
+          "id": "v-f652663683",
+          "answer": "Radial nerve (C6–C7).",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-82",
+              "sourceLine": 82
+            },
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-113",
+              "sourceLine": 113
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-2fb44c3d2c",
+      "variants": [
+        {
+          "id": "v-2fb44c3d2c",
+          "answer": "Lateral supracondylar ridge of humerus.",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-83",
+              "sourceLine": 83
+            },
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-114",
+              "sourceLine": 114
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-7b2c3e8f24",
+      "variants": [
+        {
+          "id": "v-5dc0e5e73f",
+          "answer": "Base of 2nd metacarpal.",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-84",
+              "sourceLine": 84
+            }
+          ]
+        },
+        {
+          "id": "v-7b2c3e8f24",
+          "answer": "Base of second metacarpal.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-115",
+              "sourceLine": 115
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "hand-model-ns13",
+      "section": "Muscles, tendons and pulleys",
+      "path": [
+        "h"
+      ],
+      "label": "h"
+    },
+    {
+      "modelId": "upper-limb-model-ns15",
+      "section": "Muscles",
+      "path": [
+        "19"
+      ],
+      "label": "19"
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "id": "lateral-malleolus-0bb8df05d5",
+  "name": "Lateral malleolus",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Bones"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Attachments",
+    "Bone",
+    "Bones",
+    "BonyLandmark",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-9aced317b3",
+      "variants": [
+        {
+          "id": "v-9aced317b3",
+          "answer": "Lateral malleolus",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-22",
+              "sourceLine": 22
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-bcf605d6bb",
+      "question": "Bone",
+      "preferredVariantId": "v-944407c43c",
+      "variants": [
+        {
+          "id": "v-944407c43c",
+          "answer": "Distal fibula.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-23",
+              "sourceLine": 23
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-8a11b2315a",
+      "variants": [
+        {
+          "id": "v-8a11b2315a",
+          "answer": "Forms the lateral wall of the ankle mortise and articulates with the lateral surface of the talus.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-24",
+              "sourceLine": 24
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6771ade6e8",
+      "question": "Attachments",
+      "preferredVariantId": "v-d918160090",
+      "variants": [
+        {
+          "id": "v-d918160090",
+          "answer": "Gives attachment to lateral ankle ligaments and fibular retinacula.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-25",
+              "sourceLine": 25
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "foot-model-ns9",
+      "section": "Bones",
+      "path": [
+        "4"
+      ],
+      "label": "4"
+    }
+  ]
+}

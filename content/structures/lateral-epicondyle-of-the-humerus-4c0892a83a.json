@@ -1,0 +1,127 @@
+{
+  "id": "lateral-epicondyle-of-the-humerus-4c0892a83a",
+  "name": "Lateral epicondyle of the humerus",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Bones"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Attachments",
+    "Bone",
+    "BonyLandmark",
+    "Clinical",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-e76e467eda",
+      "variants": [
+        {
+          "id": "v-e76e467eda",
+          "answer": "Lateral epicondyle of the humerus",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-564",
+              "sourceLine": 564
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-bcf605d6bb",
+      "question": "Bone",
+      "preferredVariantId": "v-5c32c28cfc",
+      "variants": [
+        {
+          "id": "v-5c32c28cfc",
+          "answer": "Distal humerus.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-565",
+              "sourceLine": 565
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6771ade6e8",
+      "question": "Attachments",
+      "preferredVariantId": "v-b6e4bb6c91",
+      "variants": [
+        {
+          "id": "v-b6e4bb6c91",
+          "answer": "Common extensor tendon, supinator and radial collateral/lateral ulnar collateral ligament complex.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-566",
+              "sourceLine": 566
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-e7132e22c5",
+      "variants": [
+        {
+          "id": "v-e7132e22c5",
+          "answer": "Lies lateral to capitulum; radial nerve divides anterior to lateral elbow region.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-567",
+              "sourceLine": 567
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-b03737e3cd",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-09f94d7035",
+      "variants": [
+        {
+          "id": "v-09f94d7035",
+          "answer": "Common extensor origin is involved in lateral epicondylitis (tennis elbow).",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-568",
+              "sourceLine": 568
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "upper-limb-model-ns15",
+      "section": "Bones",
+      "path": [
+        "88"
+      ],
+      "label": "88"
+    }
+  ]
+}

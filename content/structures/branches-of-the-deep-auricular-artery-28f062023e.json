@@ -1,0 +1,111 @@
+{
+  "id": "branches-of-the-deep-auricular-artery-28f062023e",
+  "name": "Branches of the deep auricular artery",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Arteries"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Cardiovascular"
+  ],
+  "organs": [
+    "Ear"
+  ],
+  "tags": [
+    "Artery",
+    "Course",
+    "ExternalEar",
+    "Origin",
+    "Supply"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-e9fb55b19d",
+      "variants": [
+        {
+          "id": "v-e9fb55b19d",
+          "answer": "Branches of the deep auricular artery",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-66",
+              "sourceLine": 66
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-091eb40256",
+      "variants": [
+        {
+          "id": "v-091eb40256",
+          "answer": "Deep auricular artery usually arises from the first part of the maxillary artery.",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-67",
+              "sourceLine": 67
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-bcbe8edd9b",
+      "variants": [
+        {
+          "id": "v-bcbe8edd9b",
+          "answer": "Passes toward the external acoustic meatus and tympanic membrane.",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-68",
+              "sourceLine": 68
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-222db0fc1c",
+      "question": "Supply",
+      "preferredVariantId": "v-7f011a09b8",
+      "variants": [
+        {
+          "id": "v-7f011a09b8",
+          "answer": "Supplies the external acoustic meatus and outer surface of the tympanic membrane.",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-69",
+              "sourceLine": 69
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "ear-largest-model-ds1",
+      "section": "A. External ear",
+      "path": [
+        "13"
+      ],
+      "label": "13"
+    }
+  ]
+}

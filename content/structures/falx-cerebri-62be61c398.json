@@ -1,0 +1,172 @@
+{
+  "id": "falx-cerebri-62be61c398",
+  "name": "Falx cerebri",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [],
+  "tags": [
+    "Attachments",
+    "Brain",
+    "Coronal",
+    "Dura",
+    "Function",
+    "Relations",
+    "Structure"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-414aeabd1b",
+      "variants": [
+        {
+          "id": "v-414aeabd1b",
+          "answer": "Falx cerebri",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-19",
+              "sourceLine": 19
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-655",
+              "sourceLine": 655
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-5799b19442",
+      "variants": [
+        {
+          "id": "v-5799b19442",
+          "answer": "Sickle-shaped vertical fold of dura mater between the cerebral hemispheres.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-20",
+              "sourceLine": 20
+            }
+          ]
+        },
+        {
+          "id": "v-698a2dc7ea",
+          "answer": "Vertical dural fold between cerebral hemispheres.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-656",
+              "sourceLine": 656
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-6771ade6e8",
+      "question": "Attachments",
+      "preferredVariantId": "v-5af08e141d",
+      "variants": [
+        {
+          "id": "v-5af08e141d",
+          "answer": "Attached anteriorly to crista galli and posteriorly to tentorium cerebelli; superior margin attaches to skull.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-21",
+              "sourceLine": 21
+            }
+          ]
+        },
+        {
+          "id": "v-e3cc7290d0",
+          "answer": "Attaches anteriorly to crista galli and posteriorly blends with tentorium cerebelli.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-657",
+              "sourceLine": 657
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-4aab91820c",
+      "variants": [
+        {
+          "id": "v-4aab91820c",
+          "answer": "Superior sagittal sinus lies in its attached superior margin; inferior sagittal sinus lies in its free inferior margin.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-22",
+              "sourceLine": 22
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-92bdb27353",
+      "variants": [
+        {
+          "id": "v-92bdb27353",
+          "answer": "Partially separates and stabilises the cerebral hemispheres.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-23",
+              "sourceLine": 23
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "coronal-and-mid-sagittal-head-mb20",
+      "section": "Coronal head",
+      "path": [
+        "4"
+      ],
+      "label": "4"
+    },
+    {
+      "modelId": "head-and-neck-model-cs17-2",
+      "section": "Gross brain, meninges and venous structures (A–N)",
+      "path": [
+        "M"
+      ],
+      "label": "M"
+    }
+  ]
+}

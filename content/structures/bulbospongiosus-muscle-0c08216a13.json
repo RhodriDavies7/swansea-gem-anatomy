@@ -1,0 +1,128 @@
+{
+  "id": "bulbospongiosus-muscle-0c08216a13",
+  "name": "Bulbospongiosus muscle",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Pelvis"
+  ],
+  "systems": [
+    "Musculoskeletal",
+    "Reproductive"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-521d7f9cbc",
+      "variants": [
+        {
+          "id": "v-521d7f9cbc",
+          "answer": "Bulbospongiosus muscle",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-108",
+              "sourceLine": 108
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-53525eaceb",
+      "variants": [
+        {
+          "id": "v-53525eaceb",
+          "answer": "Compresses vestibular bulb and greater vestibular gland; narrows vaginal opening and assists clitoral erection.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-109",
+              "sourceLine": 109
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-123d0478b5",
+      "variants": [
+        {
+          "id": "v-123d0478b5",
+          "answer": "Deep branch of pudendal nerve (S2–S4).",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-110",
+              "sourceLine": 110
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-c59736dd63",
+      "variants": [
+        {
+          "id": "v-c59736dd63",
+          "answer": "Perineal body.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-111",
+              "sourceLine": 111
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-4dda5b33f5",
+      "variants": [
+        {
+          "id": "v-4dda5b33f5",
+          "answer": "Perineal membrane, clitoral tissues and surrounding fascia.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-112",
+              "sourceLine": 112
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "female-pelvis-model-mo8",
+      "section": "",
+      "path": [
+        "21"
+      ],
+      "label": "21"
+    }
+  ]
+}

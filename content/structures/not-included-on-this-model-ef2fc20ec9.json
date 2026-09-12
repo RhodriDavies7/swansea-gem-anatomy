@@ -1,0 +1,70 @@
+{
+  "id": "not-included-on-this-model-ef2fc20ec9",
+  "name": "Not included on this model",
+  "aliases": [],
+  "scope": "urinary-system-model-ls3-1[\"Major urinary structures\",[\"5\"]]",
+  "kind": "model-note",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Abdomen"
+  ],
+  "systems": [
+    "Urinary"
+  ],
+  "organs": [],
+  "tags": [
+    "ModelNote",
+    "UrinarySystem"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-b4ca94cc44",
+      "variants": [
+        {
+          "id": "v-b4ca94cc44",
+          "answer": "Not included on this model",
+          "sources": [
+            {
+              "modelId": "urinary-system-model-ls3-1",
+              "cardId": "urinary-system-model-ls3-1-27",
+              "sourceLine": 27
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c0d9dc54c1",
+      "question": "Model note",
+      "preferredVariantId": "v-a2d63eed1a",
+      "variants": [
+        {
+          "id": "v-a2d63eed1a",
+          "answer": "The model key specifically states that label 5 is not included on this model.",
+          "sources": [
+            {
+              "modelId": "urinary-system-model-ls3-1",
+              "cardId": "urinary-system-model-ls3-1-28",
+              "sourceLine": 28
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "urinary-system-model-ls3-1",
+      "section": "Major urinary structures",
+      "path": [
+        "5"
+      ],
+      "label": "5"
+    }
+  ]
+}

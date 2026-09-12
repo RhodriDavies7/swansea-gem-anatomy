@@ -1,0 +1,239 @@
+{
+  "id": "trochlear-nerve-cn-iv-1087c804d0",
+  "name": "Trochlear nerve (CN IV)",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Nerves"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [],
+  "tags": [
+    "Brain",
+    "Course",
+    "Lesion",
+    "ModelNote",
+    "Motor",
+    "Nerve",
+    "Roots",
+    "Sensory"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-b72e23ee5b",
+      "variants": [
+        {
+          "id": "v-b72e23ee5b",
+          "answer": "Trochlear nerve (CN IV)",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-164",
+              "sourceLine": 164
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-757",
+              "sourceLine": 757
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-4d78ec7d11",
+      "question": "Roots",
+      "preferredVariantId": "v-25b5b6ed28",
+      "variants": [
+        {
+          "id": "v-25b5b6ed28",
+          "answer": "Trochlear nucleus in midbrain at level of inferior colliculus.",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-165",
+              "sourceLine": 165
+            }
+          ]
+        },
+        {
+          "id": "v-b3df4f4619",
+          "answer": "Arises from trochlear nucleus in midbrain at level of inferior colliculus.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-758",
+              "sourceLine": 758
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-73dbb757af",
+      "variants": [
+        {
+          "id": "v-73dbb757af",
+          "answer": "Only cranial nerve to emerge dorsally from brainstem; wraps around midbrain, runs in cavernous sinus wall and enters orbit through superior orbital fissure.",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-166",
+              "sourceLine": 166
+            }
+          ]
+        },
+        {
+          "id": "v-fcc5a4c3c0",
+          "answer": "Only cranial nerve to exit dorsally; traverses cavernous sinus and superior orbital fissure.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-759",
+              "sourceLine": 759
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-c8b6915183",
+      "question": "Motor functions",
+      "preferredVariantId": "v-c5623e0caa",
+      "variants": [
+        {
+          "id": "v-c5623e0caa",
+          "answer": "Supplies superior oblique muscle.",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-167",
+              "sourceLine": 167
+            }
+          ]
+        },
+        {
+          "id": "v-de82f9f977",
+          "answer": "Supplies superior oblique.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-760",
+              "sourceLine": 760
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-bc53d10c57",
+      "question": "Lesion",
+      "preferredVariantId": "v-d154bb22aa",
+      "variants": [
+        {
+          "id": "v-d154bb22aa",
+          "answer": "Causes vertical diplopia, worse when looking down and in; patient may tilt head away from affected side.",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-168",
+              "sourceLine": 168
+            }
+          ]
+        },
+        {
+          "id": "v-5418e9b39e",
+          "answer": "Causes vertical diplopia worse looking down and in; patient may tilt head away from affected side.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-762",
+              "sourceLine": 762
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-2c924e3088",
+      "question": "Note",
+      "preferredVariantId": "v-7b63af97c3",
+      "variants": [
+        {
+          "id": "v-7b63af97c3",
+          "answer": "May not be labelled on all versions of the model.",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-169",
+              "sourceLine": 169
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-a453254382",
+      "question": "Sensory functions",
+      "preferredVariantId": "v-cb1e255fe3",
+      "variants": [
+        {
+          "id": "v-cb1e255fe3",
+          "answer": "No cutaneous sensory function.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-761",
+              "sourceLine": 761
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "cranial-floor-model-bs1",
+      "section": "",
+      "path": [
+        "27"
+      ],
+      "label": "27"
+    },
+    {
+      "modelId": "head-and-neck-model-cs17-2",
+      "section": "Internal brain structures and cranial nerves (1–26)",
+      "path": [
+        "18"
+      ],
+      "label": "18"
+    }
+  ]
+}

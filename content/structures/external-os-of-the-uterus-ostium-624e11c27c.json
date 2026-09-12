@@ -1,0 +1,108 @@
+{
+  "id": "external-os-of-the-uterus-ostium-624e11c27c",
+  "name": "External os of the uterus (ostium)",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Pelvis"
+  ],
+  "systems": [
+    "Reproductive"
+  ],
+  "organs": [],
+  "tags": [
+    "Function",
+    "Location",
+    "Opening",
+    "Organ"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-8f0952233e",
+      "variants": [
+        {
+          "id": "v-8f0952233e",
+          "answer": "External os of the uterus (ostium)",
+          "sources": [
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-92",
+              "sourceLine": 92
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f5143a2323",
+      "question": "Organ",
+      "preferredVariantId": "v-6833998380",
+      "variants": [
+        {
+          "id": "v-6833998380",
+          "answer": "Opening of the cervical canal into the vagina.",
+          "sources": [
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-93",
+              "sourceLine": 93
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-78b1f87581",
+      "variants": [
+        {
+          "id": "v-78b1f87581",
+          "answer": "At the inferior end of the cervix within the vaginal part.",
+          "sources": [
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-94",
+              "sourceLine": 94
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-3c687beaf5",
+      "variants": [
+        {
+          "id": "v-3c687beaf5",
+          "answer": "Allows passage between the cervical canal and vagina, including menstrual flow and sperm transit.",
+          "sources": [
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-95",
+              "sourceLine": 95
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "female-reproductive-system-model-ms1",
+      "section": "",
+      "path": [
+        "13"
+      ],
+      "label": "13"
+    }
+  ]
+}

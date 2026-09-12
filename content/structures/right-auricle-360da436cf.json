@@ -1,0 +1,138 @@
+{
+  "id": "right-auricle-360da436cf",
+  "name": "Right auricle",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck",
+    "Thorax"
+  ],
+  "systems": [
+    "Respiratory"
+  ],
+  "organs": [
+    "Heart",
+    "Larynx"
+  ],
+  "tags": [
+    "Auricle",
+    "AuriclesVesselsValves",
+    "Function",
+    "HeartChambers",
+    "Structure"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-0fa60c5204",
+      "variants": [
+        {
+          "id": "v-0fa60c5204",
+          "answer": "Right auricle",
+          "sources": [
+            {
+              "modelId": "heart-model-hs5",
+              "cardId": "heart-model-hs5-48",
+              "sourceLine": 48
+            },
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-140",
+              "sourceLine": 140
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-09d34cb54a",
+      "variants": [
+        {
+          "id": "v-09d34cb54a",
+          "answer": "Muscular pouch projecting from the right atrium and containing pectinate muscles.",
+          "sources": [
+            {
+              "modelId": "heart-model-hs5",
+              "cardId": "heart-model-hs5-49",
+              "sourceLine": 49
+            }
+          ]
+        },
+        {
+          "id": "v-b3f61e0083",
+          "answer": "Muscular appendage of right atrium containing pectinate muscles.",
+          "sources": [
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-141",
+              "sourceLine": 141
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-325ed82ed2",
+      "variants": [
+        {
+          "id": "v-325ed82ed2",
+          "answer": "Increases the capacity of the right atrium.",
+          "sources": [
+            {
+              "modelId": "heart-model-hs5",
+              "cardId": "heart-model-hs5-50",
+              "sourceLine": 50
+            }
+          ]
+        },
+        {
+          "id": "v-3d7b3d5a6a",
+          "answer": "Increases right atrial capacity.",
+          "sources": [
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-142",
+              "sourceLine": 142
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "heart-model-hs5",
+      "section": "Auricles, great vessels and valves",
+      "path": [
+        "a"
+      ],
+      "label": "a"
+    },
+    {
+      "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+      "section": "Heart chambers and auricles",
+      "path": [
+        "18"
+      ],
+      "label": "18"
+    }
+  ]
+}

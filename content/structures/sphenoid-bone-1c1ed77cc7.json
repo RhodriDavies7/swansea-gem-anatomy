@@ -1,0 +1,301 @@
+{
+  "id": "sphenoid-bone-1c1ed77cc7",
+  "name": "Sphenoid bone",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Bones"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Musculoskeletal",
+    "Respiratory"
+  ],
+  "organs": [],
+  "tags": [
+    "Articulations",
+    "Bone",
+    "BonyStructures",
+    "HeadNeck",
+    "Landmarks",
+    "MidSagittal",
+    "NasalCavity",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-9bb01fe36d",
+      "variants": [
+        {
+          "id": "v-9bb01fe36d",
+          "answer": "Sphenoid bone",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-186",
+              "sourceLine": 186
+            },
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-20",
+              "sourceLine": 20
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-24",
+              "sourceLine": 24
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-19",
+              "sourceLine": 19
+            },
+            {
+              "modelId": "nose-and-nasal-cavity-model-fs3",
+              "cardId": "nose-and-nasal-cavity-model-fs3-128",
+              "sourceLine": 128
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-a40bee8d10",
+      "question": "Articulations",
+      "preferredVariantId": "v-9d55565ba0",
+      "variants": [
+        {
+          "id": "v-9d55565ba0",
+          "answer": "Central skull bone articulating with frontal, parietal, temporal, occipital, ethmoid, zygomatic, vomer and palatine bones.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-187",
+              "sourceLine": 187
+            }
+          ]
+        },
+        {
+          "id": "v-49474f995a",
+          "answer": "Articulates with frontal, parietal, temporal, occipital, ethmoid, zygomatic, vomer and palatine bones.",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-21",
+              "sourceLine": 21
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-25",
+              "sourceLine": 25
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-626b6c1d45",
+      "question": "Landmarks",
+      "preferredVariantId": "v-dbe5f25c1d",
+      "variants": [
+        {
+          "id": "v-197ba0d28d",
+          "answer": "Body, greater/lesser wings, pterygoid processes and sella turcica.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-188",
+              "sourceLine": 188
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-26",
+              "sourceLine": 26
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-20",
+              "sourceLine": 20
+            }
+          ]
+        },
+        {
+          "id": "v-dbe5f25c1d",
+          "answer": "Body, greater and lesser wings, pterygoid processes, sella turcica, foramina rotundum and ovale.",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-22",
+              "sourceLine": 22
+            }
+          ]
+        },
+        {
+          "id": "v-fd990addc4",
+          "answer": "Body, greater and lesser wings and pterygoid processes.",
+          "sources": [
+            {
+              "modelId": "nose-and-nasal-cavity-model-fs3",
+              "cardId": "nose-and-nasal-cavity-model-fs3-129",
+              "sourceLine": 129
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "curated-d752c8023b",
+      "variants": [
+        {
+          "id": "v-c8a3e5d267",
+          "answer": "Pituitary gland sits in hypophyseal fossa of the sella turcica.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-189",
+              "sourceLine": 189
+            }
+          ]
+        },
+        {
+          "id": "v-1a74524b4d",
+          "answer": "Central bone of skull base; contributes to orbit, cranial fossae and pterygopalatine/infratemporal regions.",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-23",
+              "sourceLine": 23
+            }
+          ]
+        },
+        {
+          "id": "v-82197d6e7b",
+          "answer": "Central skull-base bone related to pituitary, orbit and cranial foramina.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-27",
+              "sourceLine": 27
+            }
+          ]
+        },
+        {
+          "id": "v-cdd1bd29fa",
+          "answer": "Central skull-base bone related to pituitary gland, orbit and multiple cranial foramina.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-21",
+              "sourceLine": 21
+            }
+          ]
+        },
+        {
+          "id": "v-92043bed2f",
+          "answer": "Contributes to skull base, orbit and posterior nasal region.",
+          "sources": [
+            {
+              "modelId": "nose-and-nasal-cavity-model-fs3",
+              "cardId": "nose-and-nasal-cavity-model-fs3-130",
+              "sourceLine": 130
+            }
+          ]
+        },
+        {
+          "id": "curated-d752c8023b",
+          "answer": "Central skull-base bone contributing to the orbits and cranial fossae; the pituitary sits in its hypophyseal fossa (sella turcica).",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-189",
+              "sourceLine": 189
+            },
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-23",
+              "sourceLine": 23
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-27",
+              "sourceLine": 27
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-21",
+              "sourceLine": 21
+            },
+            {
+              "modelId": "nose-and-nasal-cavity-model-fs3",
+              "cardId": "nose-and-nasal-cavity-model-fs3-130",
+              "sourceLine": 130
+            }
+          ],
+          "editorial": true
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "coronal-and-mid-sagittal-head-mb20",
+      "section": "Bony structures",
+      "path": [
+        "E"
+      ],
+      "label": "E"
+    },
+    {
+      "modelId": "deep-face-model-bs8-1",
+      "section": "",
+      "path": [
+        "4"
+      ],
+      "label": "4"
+    },
+    {
+      "modelId": "half-head-and-neck-model-bs9",
+      "section": "Bony structures",
+      "path": [
+        "E"
+      ],
+      "label": "E"
+    },
+    {
+      "modelId": "head-and-neck-model-cs17-2",
+      "section": "Bony structures, foramina and ear structures",
+      "path": [
+        "4"
+      ],
+      "label": "4"
+    },
+    {
+      "modelId": "nose-and-nasal-cavity-model-fs3",
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "path": [
+        "8"
+      ],
+      "label": "8"
+    }
+  ]
+}

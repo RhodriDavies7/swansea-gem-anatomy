@@ -1,0 +1,222 @@
+{
+  "id": "extensor-retinaculum-ff03ad2292",
+  "name": "Extensor retinaculum",
+  "aliases": [],
+  "scope": "Upper limb",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [],
+  "organs": [],
+  "tags": [
+    "Attachments",
+    "BonesAndRetinacula",
+    "Clinical",
+    "Compartments",
+    "Contents",
+    "Function",
+    "Relations",
+    "Retinaculum"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-10a43ba180",
+      "variants": [
+        {
+          "id": "v-10a43ba180",
+          "answer": "Extensor retinaculum",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-4",
+              "sourceLine": 4
+            },
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-161",
+              "sourceLine": 161
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6771ade6e8",
+      "question": "Attachments",
+      "preferredVariantId": "v-aaffc9a9d1",
+      "variants": [
+        {
+          "id": "v-aaffc9a9d1",
+          "answer": "Attaches laterally to distal radius and medially to styloid process of ulna, triquetrum and pisiform region.",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-5",
+              "sourceLine": 5
+            }
+          ]
+        },
+        {
+          "id": "v-686801b332",
+          "answer": "Extends obliquely across the dorsal wrist from distal radius to ulnar-sided carpal and forearm fascia.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-162",
+              "sourceLine": 162
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-2cb16241c9",
+      "variants": [
+        {
+          "id": "v-2cb16241c9",
+          "answer": "Holds extensor tendons close to the wrist and prevents bowstringing during extension.",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-6",
+              "sourceLine": 6
+            }
+          ]
+        },
+        {
+          "id": "v-0b10a1be9b",
+          "answer": "Prevents bowstringing of extensor tendons at the wrist.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-163",
+              "sourceLine": 163
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-f5cbdf6bfb",
+      "question": "Contents",
+      "preferredVariantId": "v-df4997b5cf",
+      "variants": [
+        {
+          "id": "v-df4997b5cf",
+          "answer": "Forms six dorsal osteofibrous compartments for the extensor tendons at the wrist.",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-7",
+              "sourceLine": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-b03737e3cd",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-9b179e8d6d",
+      "variants": [
+        {
+          "id": "v-9b179e8d6d",
+          "answer": "Tenosynovitis may occur in specific compartments, such as de Quervain tenosynovitis in the first dorsal compartment.",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-8",
+              "sourceLine": 8
+            }
+          ]
+        },
+        {
+          "id": "v-b132111e0b",
+          "answer": "Tendon-compartment inflammation beneath it includes conditions such as de Quervain tenosynovitis in the first compartment.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-166",
+              "sourceLine": 166
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-74d39ecb9d",
+      "question": "Compartments",
+      "preferredVariantId": "v-8dfa44bc29",
+      "variants": [
+        {
+          "id": "v-8dfa44bc29",
+          "answer": "Forms six osteofibrous extensor compartments containing the wrist and finger extensor tendons.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-164",
+              "sourceLine": 164
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-8a89da7c2f",
+      "variants": [
+        {
+          "id": "v-8a89da7c2f",
+          "answer": "Lies superficial to the extensor tendon compartments on the dorsum of the wrist.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-165",
+              "sourceLine": 165
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "hand-model-ns13",
+      "section": "Bones and retinacula",
+      "path": [
+        "I"
+      ],
+      "label": "I"
+    },
+    {
+      "modelId": "upper-limb-model-ns15",
+      "section": "Muscles",
+      "path": [
+        "27"
+      ],
+      "label": "27"
+    }
+  ]
+}

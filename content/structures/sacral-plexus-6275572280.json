@@ -1,0 +1,215 @@
+{
+  "id": "sacral-plexus-6275572280",
+  "name": "Sacral plexus",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Nerves"
+  ],
+  "regions": [
+    "Lower limb",
+    "Pelvis"
+  ],
+  "systems": [
+    "Nervous",
+    "Reproductive"
+  ],
+  "organs": [],
+  "tags": [
+    "Branches",
+    "Course",
+    "Lesion",
+    "Location",
+    "Motor",
+    "Nerve",
+    "NervePlexus",
+    "Roots",
+    "Sensory"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-8e70491931",
+      "variants": [
+        {
+          "id": "v-8e70491931",
+          "answer": "Sacral plexus",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-302",
+              "sourceLine": 302
+            },
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-458",
+              "sourceLine": 458
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-4d78ec7d11",
+      "question": "Roots",
+      "preferredVariantId": "v-4e4877e7af",
+      "variants": [
+        {
+          "id": "v-e427f03431",
+          "answer": "L4–S4 anterior rami via lumbosacral trunk and sacral nerves.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-303",
+              "sourceLine": 303
+            }
+          ]
+        },
+        {
+          "id": "v-4e4877e7af",
+          "answer": "L4–S4 anterior rami; L4–L5 arrive via lumbosacral trunk.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-459",
+              "sourceLine": 459
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-ccb7f95896",
+      "variants": [
+        {
+          "id": "v-ccb7f95896",
+          "answer": "On posterolateral pelvic wall, anterior to piriformis.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-304",
+              "sourceLine": 304
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f578227926",
+      "question": "Branches",
+      "preferredVariantId": "v-84d7b8f899",
+      "variants": [
+        {
+          "id": "v-84d7b8f899",
+          "answer": "Includes sciatic, superior/inferior gluteal, pudendal, posterior femoral cutaneous and other nerves.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-305",
+              "sourceLine": 305
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-9026cc2591",
+      "variants": [
+        {
+          "id": "v-9026cc2591",
+          "answer": "Lies on anterior surface of piriformis on posterior pelvic wall; many branches leave via greater sciatic foramen.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-460",
+              "sourceLine": 460
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c8b6915183",
+      "question": "Motor functions",
+      "preferredVariantId": "v-e5dde1f58c",
+      "variants": [
+        {
+          "id": "v-e5dde1f58c",
+          "answer": "Via branches: gluteal muscles, short hip rotators, hamstrings, most of adductor magnus hamstring part, all leg and foot muscles, and perineal muscles.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-461",
+              "sourceLine": 461
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-a453254382",
+      "question": "Sensory functions",
+      "preferredVariantId": "v-ba71a26866",
+      "variants": [
+        {
+          "id": "v-ba71a26866",
+          "answer": "Via branches: posterior thigh, most of leg and foot, and perineum; excludes femoral/saphenous and obturator territories.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-462",
+              "sourceLine": 462
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-bc53d10c57",
+      "question": "Lesion",
+      "preferredVariantId": "v-cf53cc3a4b",
+      "variants": [
+        {
+          "id": "v-cf53cc3a4b",
+          "answer": "Deficits span several nerves: variable hip, knee, ankle and foot weakness with broad sensory loss; lower plexus involvement may affect perineal sensation and sphincter control.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-463",
+              "sourceLine": 463
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "female-pelvis-model-mo8",
+      "section": "",
+      "path": [
+        "45"
+      ],
+      "label": "45"
+    },
+    {
+      "modelId": "lower-limb-model-ns10",
+      "section": "Nerves",
+      "path": [
+        "62"
+      ],
+      "label": "62"
+    }
+  ]
+}

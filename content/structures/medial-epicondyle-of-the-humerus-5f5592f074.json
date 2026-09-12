@@ -1,0 +1,127 @@
+{
+  "id": "medial-epicondyle-of-the-humerus-5f5592f074",
+  "name": "Medial epicondyle of the humerus",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Bones"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Attachments",
+    "Bone",
+    "BonyLandmark",
+    "Clinical",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-340fe23e75",
+      "variants": [
+        {
+          "id": "v-340fe23e75",
+          "answer": "Medial epicondyle of the humerus",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-558",
+              "sourceLine": 558
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-bcf605d6bb",
+      "question": "Bone",
+      "preferredVariantId": "v-5c32c28cfc",
+      "variants": [
+        {
+          "id": "v-5c32c28cfc",
+          "answer": "Distal humerus.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-559",
+              "sourceLine": 559
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6771ade6e8",
+      "question": "Attachments",
+      "preferredVariantId": "v-e861d8ac22",
+      "variants": [
+        {
+          "id": "v-e861d8ac22",
+          "answer": "Common flexor-pronator tendon and ulnar collateral ligament.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-560",
+              "sourceLine": 560
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-910ea990a9",
+      "variants": [
+        {
+          "id": "v-910ea990a9",
+          "answer": "Ulnar nerve passes posterior to it in the cubital tunnel region.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-561",
+              "sourceLine": 561
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-b03737e3cd",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-4f5d85b671",
+      "variants": [
+        {
+          "id": "v-4f5d85b671",
+          "answer": "Ulnar nerve is vulnerable here; common site of traction injury/medial epicondylitis.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-562",
+              "sourceLine": 562
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "upper-limb-model-ns15",
+      "section": "Bones",
+      "path": [
+        "87"
+      ],
+      "label": "87"
+    }
+  ]
+}

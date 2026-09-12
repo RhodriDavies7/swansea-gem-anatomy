@@ -1,0 +1,129 @@
+{
+  "id": "flexor-digitorum-superficialis-468c9b107d",
+  "name": "Flexor digitorum superficialis",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Origin"
+  ],
+  "imageIds": [
+    "img-ecd28c697223"
+  ],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-92a1dce0eb",
+      "variants": [
+        {
+          "id": "v-92a1dce0eb",
+          "answer": "Flexor digitorum superficialis",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-142",
+              "sourceLine": 142
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-ba4cc60331",
+      "variants": [
+        {
+          "id": "v-ba4cc60331",
+          "answer": "Flexes PIP joints of digits 2–5; also flexes MCP joints and wrist.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-143",
+              "sourceLine": 143
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-f05a82a7e6",
+      "variants": [
+        {
+          "id": "v-f05a82a7e6",
+          "answer": "Median nerve (C7–T1).",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-144",
+              "sourceLine": 144
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-204d67d795",
+      "variants": [
+        {
+          "id": "v-204d67d795",
+          "answer": "Humero-ulnar head: medial epicondyle, ulnar collateral ligament and coronoid process. Radial head: superior anterior radius.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-145",
+              "sourceLine": 145
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-a4eaefdac0",
+      "variants": [
+        {
+          "id": "v-a4eaefdac0",
+          "answer": "Sides of middle phalanges of digits 2–5 after each tendon splits around FDP tendon.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-146",
+              "sourceLine": 146
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "upper-limb-model-ns15",
+      "section": "Muscles",
+      "path": [
+        "24"
+      ],
+      "label": "24"
+    }
+  ]
+}

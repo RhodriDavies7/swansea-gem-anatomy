@@ -1,0 +1,130 @@
+{
+  "id": "renal-medulla-3a65dc27da",
+  "name": "Renal medulla",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Abdomen"
+  ],
+  "systems": [
+    "Urinary"
+  ],
+  "organs": [
+    "Kidney"
+  ],
+  "tags": [
+    "BloodSupply",
+    "Function",
+    "Location",
+    "RenalRegion",
+    "RenalRegions",
+    "Structure"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-124b1048e5",
+      "variants": [
+        {
+          "id": "v-124b1048e5",
+          "answer": "Renal medulla",
+          "sources": [
+            {
+              "modelId": "kidney-model-ls5",
+              "cardId": "kidney-model-ls5-3",
+              "sourceLine": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-eea6af3d0f",
+      "variants": [
+        {
+          "id": "v-eea6af3d0f",
+          "answer": "Inner part of the kidney deep to the renal cortex.",
+          "sources": [
+            {
+              "modelId": "kidney-model-ls5",
+              "cardId": "kidney-model-ls5-4",
+              "sourceLine": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-5f291881b7",
+      "variants": [
+        {
+          "id": "v-5f291881b7",
+          "answer": "Composed mainly of renal pyramids containing loops of Henle, collecting ducts and vasa recta.",
+          "sources": [
+            {
+              "modelId": "kidney-model-ls5",
+              "cardId": "kidney-model-ls5-5",
+              "sourceLine": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-40f9c09403",
+      "variants": [
+        {
+          "id": "v-40f9c09403",
+          "answer": "Establishes and maintains the medullary osmotic gradient required to concentrate urine.",
+          "sources": [
+            {
+              "modelId": "kidney-model-ls5",
+              "cardId": "kidney-model-ls5-6",
+              "sourceLine": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-a707f7e176",
+      "question": "Blood supply",
+      "preferredVariantId": "v-b9be44983e",
+      "variants": [
+        {
+          "id": "v-b9be44983e",
+          "answer": "Supplied by vasa recta arising from efferent arterioles of juxtamedullary nephrons.",
+          "sources": [
+            {
+              "modelId": "kidney-model-ls5",
+              "cardId": "kidney-model-ls5-7",
+              "sourceLine": 7
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "kidney-model-ls5",
+      "section": "Renal regions",
+      "path": [
+        "A"
+      ],
+      "label": "A"
+    }
+  ]
+}

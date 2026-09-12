@@ -1,0 +1,108 @@
+{
+  "id": "trapezoid-part-of-coracoclavicular-ligament-4a40904a57",
+  "name": "Trapezoid part of coracoclavicular ligament",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Ligaments"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Attachments",
+    "Function",
+    "Ligament",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-ba7130fe05",
+      "variants": [
+        {
+          "id": "v-ba7130fe05",
+          "answer": "Trapezoid part of coracoclavicular ligament",
+          "sources": [
+            {
+              "modelId": "deep-shoulder-model-ns17",
+              "cardId": "deep-shoulder-model-ns17-71",
+              "sourceLine": 71
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6771ade6e8",
+      "question": "Attachments",
+      "preferredVariantId": "v-cc53e382d0",
+      "variants": [
+        {
+          "id": "v-cc53e382d0",
+          "answer": "Extends from the superior surface of the coracoid process to the trapezoid line on the inferior clavicle.",
+          "sources": [
+            {
+              "modelId": "deep-shoulder-model-ns17",
+              "cardId": "deep-shoulder-model-ns17-72",
+              "sourceLine": 72
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-69869e72b6",
+      "variants": [
+        {
+          "id": "v-69869e72b6",
+          "answer": "Stabilises the acromioclavicular joint and resists medial displacement/compression of the scapula relative to the clavicle.",
+          "sources": [
+            {
+              "modelId": "deep-shoulder-model-ns17",
+              "cardId": "deep-shoulder-model-ns17-73",
+              "sourceLine": 73
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-e2a0bb316c",
+      "variants": [
+        {
+          "id": "v-e2a0bb316c",
+          "answer": "More lateral and more oblique/horizontal than the conoid part.",
+          "sources": [
+            {
+              "modelId": "deep-shoulder-model-ns17",
+              "cardId": "deep-shoulder-model-ns17-74",
+              "sourceLine": 74
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "deep-shoulder-model-ns17",
+      "section": "",
+      "path": [
+        "11"
+      ],
+      "label": "11"
+    }
+  ]
+}

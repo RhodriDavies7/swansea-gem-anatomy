@@ -1,0 +1,201 @@
+{
+  "id": "epiglottis-a8898bdca3",
+  "name": "Epiglottis",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Cartilage"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Musculoskeletal",
+    "Respiratory"
+  ],
+  "organs": [
+    "Larynx"
+  ],
+  "tags": [
+    "Cartilage",
+    "Function",
+    "LaryngealStructures",
+    "Larynx",
+    "MidSagittal",
+    "Relations",
+    "Structure"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-45b7d2cbe8",
+      "variants": [
+        {
+          "id": "v-45b7d2cbe8",
+          "answer": "Epiglottis",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-440",
+              "sourceLine": 440
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-333",
+              "sourceLine": 333
+            },
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-147",
+              "sourceLine": 147
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-97222c4352",
+      "variants": [
+        {
+          "id": "v-fe638b2b2d",
+          "answer": "Leaf-shaped elastic cartilage forming part of laryngeal inlet.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-441",
+              "sourceLine": 441
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-334",
+              "sourceLine": 334
+            }
+          ]
+        },
+        {
+          "id": "v-97222c4352",
+          "answer": "Leaf-shaped elastic cartilage forming the anterior part of the laryngeal inlet.",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-148",
+              "sourceLine": 148
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-c3c3f84833",
+      "variants": [
+        {
+          "id": "v-c3c3f84833",
+          "answer": "Helps protect the airway during swallowing by directing the bolus away from the laryngeal inlet.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-442",
+              "sourceLine": 442
+            }
+          ]
+        },
+        {
+          "id": "v-0d2e32a57e",
+          "answer": "Helps protect airway during swallowing by directing bolus away from laryngeal inlet.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-335",
+              "sourceLine": 335
+            }
+          ]
+        },
+        {
+          "id": "v-d5251dca61",
+          "answer": "Helps protect the airway during swallowing.",
+          "sources": [
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-149",
+              "sourceLine": 149
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-9e3a31dddd",
+      "variants": [
+        {
+          "id": "v-9e3a31dddd",
+          "answer": "Attached inferiorly to thyroid cartilage by thyroepiglottic ligament and to hyoid by hyoepiglottic ligament.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-443",
+              "sourceLine": 443
+            }
+          ]
+        },
+        {
+          "id": "v-f57e8ceef3",
+          "answer": "Attached to thyroid cartilage and hyoid by ligaments.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-336",
+              "sourceLine": 336
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "coronal-and-mid-sagittal-head-mb20",
+      "section": "Laryngeal structures",
+      "path": [
+        "I"
+      ],
+      "label": "I"
+    },
+    {
+      "modelId": "half-head-and-neck-model-bs9",
+      "section": "Laryngeal structures",
+      "path": [
+        "I"
+      ],
+      "label": "I"
+    },
+    {
+      "modelId": "larynx-and-tongue-model-gs4",
+      "section": "Larynx",
+      "path": [
+        "23"
+      ],
+      "label": "23"
+    }
+  ]
+}

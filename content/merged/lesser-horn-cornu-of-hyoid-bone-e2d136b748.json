@@ -1,0 +1,94 @@
+{
+  "id": "lesser-horn-cornu-of-hyoid-bone-e2d136b748",
+  "name": "Lesser horn (cornu) of hyoid bone",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Bones"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Musculoskeletal",
+    "Respiratory"
+  ],
+  "organs": [
+    "Larynx"
+  ],
+  "tags": [
+    "Attachments",
+    "BonyLandmark",
+    "CartilagesAndBones"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-ca1ef0e5e2",
+      "variants": [
+        {
+          "id": "v-ca1ef0e5e2",
+          "answer": "Lesser horn (cornu) of hyoid bone",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-14",
+              "sourceLine": 14
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-14",
+              "sourceLine": 14
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6771ade6e8",
+      "question": "Attachments",
+      "preferredVariantId": "v-98eca26a6f",
+      "variants": [
+        {
+          "id": "v-98eca26a6f",
+          "answer": "Gives attachment to the stylohyoid ligament.",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-15",
+              "sourceLine": 15
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-15",
+              "sourceLine": 15
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "larynx-model-gs7",
+      "section": "Hyoid and laryngeal cartilages",
+      "path": [
+        "1",
+        "c"
+      ],
+      "label": "1c"
+    },
+    {
+      "modelId": "larynx-and-airway-model-gs5",
+      "section": "Hyoid and laryngeal cartilages",
+      "path": [
+        "1",
+        "c"
+      ],
+      "label": "1c"
+    }
+  ]
+}

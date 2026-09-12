@@ -1,0 +1,131 @@
+{
+  "id": "interlobular-vein-94015706a3",
+  "name": "Interlobular vein",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Veins"
+  ],
+  "regions": [
+    "Abdomen"
+  ],
+  "systems": [
+    "Cardiovascular",
+    "Urinary"
+  ],
+  "organs": [
+    "Kidney"
+  ],
+  "tags": [
+    "AlsoCalled",
+    "Course",
+    "Formation",
+    "RenalVessels",
+    "Termination",
+    "Vein"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-0ce9f2e5be",
+      "variants": [
+        {
+          "id": "v-0ce9f2e5be",
+          "answer": "Interlobular vein",
+          "sources": [
+            {
+              "modelId": "kidney-model-ls5",
+              "cardId": "kidney-model-ls5-48",
+              "sourceLine": 48
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-bc0bd86b8f",
+      "question": "Formation",
+      "preferredVariantId": "v-55176368d0",
+      "variants": [
+        {
+          "id": "v-55176368d0",
+          "answer": "Receives blood from cortical peritubular capillary networks and stellate veins.",
+          "sources": [
+            {
+              "modelId": "kidney-model-ls5",
+              "cardId": "kidney-model-ls5-49",
+              "sourceLine": 49
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-e17b8f4cd6",
+      "variants": [
+        {
+          "id": "v-e17b8f4cd6",
+          "answer": "Descends through the cortex toward the corticomedullary junction.",
+          "sources": [
+            {
+              "modelId": "kidney-model-ls5",
+              "cardId": "kidney-model-ls5-50",
+              "sourceLine": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-2ee8521886",
+      "question": "Termination",
+      "preferredVariantId": "v-f0d6c8b0a4",
+      "variants": [
+        {
+          "id": "v-f0d6c8b0a4",
+          "answer": "Drains into arcuate veins.",
+          "sources": [
+            {
+              "modelId": "kidney-model-ls5",
+              "cardId": "kidney-model-ls5-51",
+              "sourceLine": 51
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-4365b97418",
+      "question": "Also called",
+      "preferredVariantId": "v-f88ab50a58",
+      "variants": [
+        {
+          "id": "v-f88ab50a58",
+          "answer": "Cortical radiate vein.",
+          "sources": [
+            {
+              "modelId": "kidney-model-ls5",
+              "cardId": "kidney-model-ls5-52",
+              "sourceLine": 52
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "kidney-model-ls5",
+      "section": "Renal vessels",
+      "path": [
+        "17"
+      ],
+      "label": "17"
+    }
+  ]
+}

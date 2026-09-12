@@ -1,0 +1,111 @@
+{
+  "id": "fundus-c5ca36d496",
+  "name": "Fundus",
+  "aliases": [],
+  "scope": "Abdomen",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Abdomen"
+  ],
+  "systems": [
+    "Digestive"
+  ],
+  "organs": [
+    "Stomach"
+  ],
+  "tags": [
+    "Function",
+    "Location",
+    "RegionsAndLandmarks",
+    "Relations",
+    "StomachRegion"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-a8477672c8",
+      "variants": [
+        {
+          "id": "v-a8477672c8",
+          "answer": "Fundus",
+          "sources": [
+            {
+              "modelId": "stomach-model-ns15",
+              "cardId": "stomach-model-ns15-9",
+              "sourceLine": 9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-05313dd5b1",
+      "variants": [
+        {
+          "id": "v-05313dd5b1",
+          "answer": "Dome-shaped part of the stomach superior to the cardiac orifice.",
+          "sources": [
+            {
+              "modelId": "stomach-model-ns15",
+              "cardId": "stomach-model-ns15-10",
+              "sourceLine": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-d276c26ad3",
+      "variants": [
+        {
+          "id": "v-d276c26ad3",
+          "answer": "Lies beneath the left dome of the diaphragm.",
+          "sources": [
+            {
+              "modelId": "stomach-model-ns15",
+              "cardId": "stomach-model-ns15-11",
+              "sourceLine": 11
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-9c4d42fb5a",
+      "variants": [
+        {
+          "id": "v-9c4d42fb5a",
+          "answer": "Acts as a reservoir and accommodates swallowed material and gas.",
+          "sources": [
+            {
+              "modelId": "stomach-model-ns15",
+              "cardId": "stomach-model-ns15-12",
+              "sourceLine": 12
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "stomach-model-ns15",
+      "section": "Regions and external landmarks",
+      "path": [
+        "2"
+      ],
+      "label": "2"
+    }
+  ]
+}

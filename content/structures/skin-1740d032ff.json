@@ -1,0 +1,127 @@
+{
+  "id": "skin-1740d032ff",
+  "name": "Skin",
+  "aliases": [],
+  "scope": "Thorax",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Thorax"
+  ],
+  "systems": [],
+  "organs": [
+    "Breast"
+  ],
+  "tags": [
+    "Clinical",
+    "Function",
+    "Relations",
+    "Skin",
+    "Structure"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-8f57bd6132",
+      "variants": [
+        {
+          "id": "v-8f57bd6132",
+          "answer": "Skin",
+          "sources": [
+            {
+              "modelId": "breast-model-ms7",
+              "cardId": "breast-model-ms7-71",
+              "sourceLine": 71
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-9b522f21ad",
+      "variants": [
+        {
+          "id": "v-9b522f21ad",
+          "answer": "Epidermis and dermis covering the breast, continuous with surrounding thoracic skin.",
+          "sources": [
+            {
+              "modelId": "breast-model-ms7",
+              "cardId": "breast-model-ms7-72",
+              "sourceLine": 72
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-5410579b2d",
+      "variants": [
+        {
+          "id": "v-5410579b2d",
+          "answer": "Provides a protective external barrier and carries sensory innervation.",
+          "sources": [
+            {
+              "modelId": "breast-model-ms7",
+              "cardId": "breast-model-ms7-73",
+              "sourceLine": 73
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-42657dda74",
+      "variants": [
+        {
+          "id": "v-42657dda74",
+          "answer": "Superficial to the glandular and fatty tissue; connected to deeper breast tissue by fibrous septa.",
+          "sources": [
+            {
+              "modelId": "breast-model-ms7",
+              "cardId": "breast-model-ms7-74",
+              "sourceLine": 74
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-b03737e3cd",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-0a8eeacfb3",
+      "variants": [
+        {
+          "id": "v-0a8eeacfb3",
+          "answer": "Skin tethering, dimpling or peau d’orange can occur when breast malignancy affects suspensory ligaments or dermal lymphatics.",
+          "sources": [
+            {
+              "modelId": "breast-model-ms7",
+              "cardId": "breast-model-ms7-75",
+              "sourceLine": 75
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "breast-model-ms7",
+      "section": "",
+      "path": [
+        "12"
+      ],
+      "label": "12"
+    }
+  ]
+}

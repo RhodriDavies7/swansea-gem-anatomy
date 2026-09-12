@@ -1,0 +1,128 @@
+{
+  "id": "angular-artery-d5a3f09b8e",
+  "name": "Angular artery",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Arteries"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Cardiovascular"
+  ],
+  "organs": [],
+  "tags": [
+    "Artery",
+    "Branches",
+    "Course",
+    "HeadNeck",
+    "Origin",
+    "Supply"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-b8ab93b7dd",
+      "variants": [
+        {
+          "id": "v-b8ab93b7dd",
+          "answer": "Angular artery",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-442",
+              "sourceLine": 442
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-849b46cb5d",
+      "variants": [
+        {
+          "id": "v-849b46cb5d",
+          "answer": "Terminal branch of facial artery.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-443",
+              "sourceLine": 443
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-a277ed6fea",
+      "variants": [
+        {
+          "id": "v-a277ed6fea",
+          "answer": "Ascends beside nose toward medial canthus.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-444",
+              "sourceLine": 444
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f578227926",
+      "question": "Branches",
+      "preferredVariantId": "v-006d3b599f",
+      "variants": [
+        {
+          "id": "v-006d3b599f",
+          "answer": "Anastomoses with branches of ophthalmic artery.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-445",
+              "sourceLine": 445
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-222db0fc1c",
+      "question": "Supply",
+      "preferredVariantId": "v-1e38259842",
+      "variants": [
+        {
+          "id": "v-1e38259842",
+          "answer": "Upper lateral nose and medial orbital region.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-446",
+              "sourceLine": 446
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "head-and-neck-model-cs17-2",
+      "section": "Arteries",
+      "path": [
+        "69"
+      ],
+      "label": "69"
+    }
+  ]
+}

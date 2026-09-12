@@ -1,0 +1,146 @@
+{
+  "id": "femoral-nerve-4b246e6fd2",
+  "name": "Femoral nerve",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Nerves"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [],
+  "tags": [
+    "Course",
+    "Lesion",
+    "Motor",
+    "Nerve",
+    "Roots",
+    "Sensory"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-ec0302a5ac",
+      "variants": [
+        {
+          "id": "v-ec0302a5ac",
+          "answer": "Femoral nerve",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-437",
+              "sourceLine": 437
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-4d78ec7d11",
+      "question": "Roots",
+      "preferredVariantId": "v-c5c6f854fc",
+      "variants": [
+        {
+          "id": "v-c5c6f854fc",
+          "answer": "L2–L4, posterior divisions of anterior rami.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-438",
+              "sourceLine": 438
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-08e0cacd89",
+      "variants": [
+        {
+          "id": "v-08e0cacd89",
+          "answer": "Emerges lateral to psoas major; runs between psoas and iliacus, beneath inguinal ligament and lateral to femoral artery; divides in femoral triangle.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-439",
+              "sourceLine": 439
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c8b6915183",
+      "question": "Motor functions",
+      "preferredVariantId": "v-eeb28dc73e",
+      "variants": [
+        {
+          "id": "v-eeb28dc73e",
+          "answer": "Knee extension through quadriceps; hip flexion through iliacus and sartorius; usually supplies pectineus.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-440",
+              "sourceLine": 440
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-a453254382",
+      "question": "Sensory functions",
+      "preferredVariantId": "v-098cd62c94",
+      "variants": [
+        {
+          "id": "v-098cd62c94",
+          "answer": "Anterior thigh through anterior cutaneous branches; medial leg and medial foot through saphenous nerve; articular branches to hip and knee.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-441",
+              "sourceLine": 441
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-bc53d10c57",
+      "question": "Lesion",
+      "preferredVariantId": "v-fbca5cb317",
+      "variants": [
+        {
+          "id": "v-fbca5cb317",
+          "answer": "Proximal lesion causes weak knee extension, reduced/absent patellar reflex (L3–L4, chiefly L4), and sensory loss over anterior thigh and medial leg; hip flexion is weakened but psoas is spared.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-442",
+              "sourceLine": 442
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "lower-limb-model-ns10",
+      "section": "Nerves",
+      "path": [
+        "59"
+      ],
+      "label": "59"
+    }
+  ]
+}

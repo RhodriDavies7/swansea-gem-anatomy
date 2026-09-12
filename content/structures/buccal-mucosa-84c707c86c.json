@@ -1,0 +1,107 @@
+{
+  "id": "buccal-mucosa-84c707c86c",
+  "name": "Buccal mucosa",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [],
+  "organs": [],
+  "tags": [
+    "Coronal",
+    "Function",
+    "Mucosa",
+    "Relations",
+    "Structure"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-8969810273",
+      "variants": [
+        {
+          "id": "v-8969810273",
+          "answer": "Buccal mucosa",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-112",
+              "sourceLine": 112
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-1fff971f10",
+      "variants": [
+        {
+          "id": "v-1fff971f10",
+          "answer": "Non-keratinised stratified squamous mucosa lining the inner cheek.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-113",
+              "sourceLine": 113
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-d42692f0cd",
+      "variants": [
+        {
+          "id": "v-d42692f0cd",
+          "answer": "Protects underlying tissues and provides a moist lining for the oral cavity.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-114",
+              "sourceLine": 114
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-a21f6aefc4",
+      "variants": [
+        {
+          "id": "v-a21f6aefc4",
+          "answer": "Parotid duct opens into buccal mucosa opposite the maxillary second molar.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-115",
+              "sourceLine": 115
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "coronal-and-mid-sagittal-head-mb20",
+      "section": "Coronal head",
+      "path": [
+        "22"
+      ],
+      "label": "22"
+    }
+  ]
+}

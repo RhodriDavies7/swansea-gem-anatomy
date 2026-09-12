@@ -1,0 +1,108 @@
+{
+  "id": "posterior-cerebral-artery-c5d0554a51",
+  "name": "Posterior cerebral artery",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Arteries"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Cardiovascular"
+  ],
+  "organs": [],
+  "tags": [
+    "Artery",
+    "Course",
+    "Origin",
+    "Supply"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-f8081d4f48",
+      "variants": [
+        {
+          "id": "v-f8081d4f48",
+          "answer": "Posterior cerebral artery",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-69",
+              "sourceLine": 69
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-da53046df2",
+      "variants": [
+        {
+          "id": "v-da53046df2",
+          "answer": "Terminal branch of the basilar artery.",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-70",
+              "sourceLine": 70
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-e86d0adfc1",
+      "variants": [
+        {
+          "id": "v-e86d0adfc1",
+          "answer": "Curves around the midbrain toward the occipital and inferomedial temporal regions.",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-71",
+              "sourceLine": 71
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-222db0fc1c",
+      "question": "Supply",
+      "preferredVariantId": "v-cd9177b4d3",
+      "variants": [
+        {
+          "id": "v-cd9177b4d3",
+          "answer": "Occipital lobe, inferomedial temporal lobe and deep structures via perforating branches.",
+          "sources": [
+            {
+              "modelId": "cranial-floor-model-bs1",
+              "cardId": "cranial-floor-model-bs1-72",
+              "sourceLine": 72
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "cranial-floor-model-bs1",
+      "section": "",
+      "path": [
+        "12"
+      ],
+      "label": "12"
+    }
+  ]
+}

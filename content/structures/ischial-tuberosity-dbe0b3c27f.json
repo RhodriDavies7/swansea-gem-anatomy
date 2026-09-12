@@ -1,0 +1,187 @@
+{
+  "id": "ischial-tuberosity-dbe0b3c27f",
+  "name": "Ischial tuberosity",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Bones"
+  ],
+  "regions": [
+    "Lower limb",
+    "Pelvis"
+  ],
+  "systems": [
+    "Musculoskeletal",
+    "Reproductive"
+  ],
+  "organs": [],
+  "tags": [
+    "Attachments",
+    "Bone",
+    "BonyLandmark",
+    "Clinical",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-db3771cbb2",
+      "variants": [
+        {
+          "id": "v-db3771cbb2",
+          "answer": "Ischial tuberosity",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-32",
+              "sourceLine": 32
+            },
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-552",
+              "sourceLine": 552
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-bcf605d6bb",
+      "question": "Bone",
+      "preferredVariantId": "v-5b8c412715",
+      "variants": [
+        {
+          "id": "v-5b8c412715",
+          "answer": "Inferior roughened prominence of the ischium.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-33",
+              "sourceLine": 33
+            }
+          ]
+        },
+        {
+          "id": "v-427c03592e",
+          "answer": "Ischium of hip bone.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-553",
+              "sourceLine": 553
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-6771ade6e8",
+      "question": "Attachments",
+      "preferredVariantId": "v-2a5c2b34d1",
+      "variants": [
+        {
+          "id": "v-063c383a84",
+          "answer": "Hamstrings, adductor magnus and sacrotuberous ligament attach here.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-34",
+              "sourceLine": 34
+            }
+          ]
+        },
+        {
+          "id": "v-2a5c2b34d1",
+          "answer": "Semimembranosus, semitendinosus and long head of biceps femoris; hamstring part of adductor magnus; quadratus femoris, inferior gemellus and sacrotuberous ligament.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-554",
+              "sourceLine": 554
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-b03737e3cd",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-2e68c8cff3",
+      "variants": [
+        {
+          "id": "v-1fa7f74dc9",
+          "answer": "Weight-bearing point when sitting; important landmark for pudendal nerve blocks.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-35",
+              "sourceLine": 35
+            }
+          ]
+        },
+        {
+          "id": "v-2e68c8cff3",
+          "answer": "Site of proximal hamstring avulsion and ischial bursitis.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-556",
+              "sourceLine": 556
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-2e07f5c121",
+      "variants": [
+        {
+          "id": "v-2e07f5c121",
+          "answer": "Supports body weight in sitting; sciatic nerve runs lateral to it, deep to gluteus maximus.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-555",
+              "sourceLine": 555
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "female-pelvis-model-mo8",
+      "section": "",
+      "path": [
+        "6"
+      ],
+      "label": "6"
+    },
+    {
+      "modelId": "lower-limb-model-ns10",
+      "section": "Bones",
+      "path": [
+        "76"
+      ],
+      "label": "76"
+    }
+  ]
+}

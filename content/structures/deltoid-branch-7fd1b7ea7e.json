@@ -1,0 +1,127 @@
+{
+  "id": "deltoid-branch-7fd1b7ea7e",
+  "name": "Deltoid branch",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Arteries"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [
+    "Cardiovascular"
+  ],
+  "organs": [],
+  "tags": [
+    "Artery",
+    "Course",
+    "Origin",
+    "Relations",
+    "Supply"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-c32d190c04",
+      "variants": [
+        {
+          "id": "v-c32d190c04",
+          "answer": "Deltoid branch",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-315",
+              "sourceLine": 315
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-c1aa40e42e",
+      "variants": [
+        {
+          "id": "v-c1aa40e42e",
+          "answer": "Usually a branch of the thoraco-acromial artery.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-316",
+              "sourceLine": 316
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-0b0cac54da",
+      "variants": [
+        {
+          "id": "v-0b0cac54da",
+          "answer": "Runs in deltopectoral groove with cephalic vein.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-317",
+              "sourceLine": 317
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-222db0fc1c",
+      "question": "Supply",
+      "preferredVariantId": "v-eaab28fb7f",
+      "variants": [
+        {
+          "id": "v-eaab28fb7f",
+          "answer": "Deltoid and adjacent pectoral region.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-318",
+              "sourceLine": 318
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-5aa8b62180",
+      "variants": [
+        {
+          "id": "v-5aa8b62180",
+          "answer": "Accompanies cephalic vein in deltopectoral groove.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-319",
+              "sourceLine": 319
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "upper-limb-model-ns15",
+      "section": "Arteries",
+      "path": [
+        "51"
+      ],
+      "label": "51"
+    }
+  ]
+}

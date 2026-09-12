@@ -1,0 +1,112 @@
+{
+  "id": "aortic-valve-e70c184b1f",
+  "name": "Aortic valve",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Cardiovascular",
+    "Respiratory"
+  ],
+  "organs": [
+    "Larynx"
+  ],
+  "tags": [
+    "CardiacVesselsValves",
+    "Function",
+    "Location",
+    "Structure",
+    "Valve"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-53e71355d7",
+      "variants": [
+        {
+          "id": "v-53e71355d7",
+          "answer": "Aortic valve",
+          "sources": [
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-205",
+              "sourceLine": 205
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-f270ae4919",
+      "variants": [
+        {
+          "id": "v-f270ae4919",
+          "answer": "Between left ventricle and ascending aorta.",
+          "sources": [
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-206",
+              "sourceLine": 206
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-6afb2220ac",
+      "variants": [
+        {
+          "id": "v-6afb2220ac",
+          "answer": "Semilunar valve with three cusps.",
+          "sources": [
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-207",
+              "sourceLine": 207
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-7ea8ee37ad",
+      "variants": [
+        {
+          "id": "v-7ea8ee37ad",
+          "answer": "Prevents backflow from aorta into left ventricle during diastole.",
+          "sources": [
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-208",
+              "sourceLine": 208
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+      "section": "Cardiac vessels and valves",
+      "path": [
+        "29"
+      ],
+      "label": "29"
+    }
+  ]
+}

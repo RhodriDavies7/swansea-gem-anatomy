@@ -1,0 +1,281 @@
+{
+  "id": "frontal-bone-1f589989c1",
+  "name": "Frontal bone",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Bones"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Musculoskeletal",
+    "Respiratory"
+  ],
+  "organs": [],
+  "tags": [
+    "Articulations",
+    "Bone",
+    "BonyStructures",
+    "Coronal",
+    "HeadNeck",
+    "Landmarks",
+    "MidSagittal",
+    "NasalCavity",
+    "Orientation",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-702c8eb699",
+      "variants": [
+        {
+          "id": "v-702c8eb699",
+          "answer": "Frontal bone",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-8",
+              "sourceLine": 8
+            },
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-173",
+              "sourceLine": 173
+            },
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-2",
+              "sourceLine": 2
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-8",
+              "sourceLine": 8
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-4",
+              "sourceLine": 4
+            },
+            {
+              "modelId": "nose-and-nasal-cavity-model-fs3",
+              "cardId": "nose-and-nasal-cavity-model-fs3-93",
+              "sourceLine": 93
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-a40bee8d10",
+      "question": "Articulations",
+      "preferredVariantId": "v-74b532bb8b",
+      "variants": [
+        {
+          "id": "v-74b532bb8b",
+          "answer": "Articulates with parietal, sphenoid, ethmoid, nasal, maxillary, lacrimal and zygomatic bones.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-9",
+              "sourceLine": 9
+            },
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-174",
+              "sourceLine": 174
+            },
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-3",
+              "sourceLine": 3
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-9",
+              "sourceLine": 9
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-5",
+              "sourceLine": 5
+            },
+            {
+              "modelId": "nose-and-nasal-cavity-model-fs3",
+              "cardId": "nose-and-nasal-cavity-model-fs3-95",
+              "sourceLine": 95
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-626b6c1d45",
+      "question": "Landmarks",
+      "preferredVariantId": "v-a43b538238",
+      "variants": [
+        {
+          "id": "v-a43b538238",
+          "answer": "Frontal squama, orbital plates, supraorbital margins/notches and frontal sinus region.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-10",
+              "sourceLine": 10
+            },
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-4",
+              "sourceLine": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-74a792c84c",
+      "variants": [
+        {
+          "id": "v-74a792c84c",
+          "answer": "Forms the forehead, roofs of the orbits and part of the anterior cranial fossa.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-11",
+              "sourceLine": 11
+            }
+          ]
+        },
+        {
+          "id": "v-415856b7c1",
+          "answer": "Forms forehead, orbital roofs and anterior cranial fossa.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-175",
+              "sourceLine": 175
+            }
+          ]
+        },
+        {
+          "id": "v-3659ba8cff",
+          "answer": "Forms the forehead, orbital roofs and part of the anterior cranial fossa.",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-5",
+              "sourceLine": 5
+            }
+          ]
+        },
+        {
+          "id": "v-f5fd62d2be",
+          "answer": "Forms forehead, roofs of orbits and part of anterior cranial fossa.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-10",
+              "sourceLine": 10
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-6",
+              "sourceLine": 6
+            }
+          ]
+        },
+        {
+          "id": "v-2fa3e84634",
+          "answer": "Forms the forehead, roof of orbit and part of anterior cranial fossa.",
+          "sources": [
+            {
+              "modelId": "nose-and-nasal-cavity-model-fs3",
+              "cardId": "nose-and-nasal-cavity-model-fs3-94",
+              "sourceLine": 94
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-86e4e38754",
+      "question": "Orientation",
+      "preferredVariantId": "v-3ab9423535",
+      "variants": [
+        {
+          "id": "v-3ab9423535",
+          "answer": "Squamous part is anterior; orbital plates project posteriorly to form orbital roofs.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-12",
+              "sourceLine": 12
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "coronal-and-mid-sagittal-head-mb20",
+      "section": "Coronal head",
+      "path": [
+        "2"
+      ],
+      "label": "2"
+    },
+    {
+      "modelId": "coronal-and-mid-sagittal-head-mb20",
+      "section": "Bony structures",
+      "path": [
+        "B"
+      ],
+      "label": "B"
+    },
+    {
+      "modelId": "deep-face-model-bs8-1",
+      "section": "",
+      "path": [
+        "1"
+      ],
+      "label": "1"
+    },
+    {
+      "modelId": "half-head-and-neck-model-bs9",
+      "section": "Bony structures",
+      "path": [
+        "B"
+      ],
+      "label": "B"
+    },
+    {
+      "modelId": "head-and-neck-model-cs17-2",
+      "section": "Bony structures, foramina and ear structures",
+      "path": [
+        "1"
+      ],
+      "label": "1"
+    },
+    {
+      "modelId": "nose-and-nasal-cavity-model-fs3",
+      "section": "Bones, conchae, meatuses and pharyngeal structures",
+      "path": [
+        "1"
+      ],
+      "label": "1"
+    }
+  ]
+}

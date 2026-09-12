@@ -1,0 +1,157 @@
+{
+  "id": "retina-5fd9d0f76d",
+  "name": "Retina",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [],
+  "organs": [
+    "Eye"
+  ],
+  "tags": [
+    "BloodSupply",
+    "Eye",
+    "EyeLayer",
+    "Function",
+    "Structure"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-1332e2f745",
+      "variants": [
+        {
+          "id": "v-1332e2f745",
+          "answer": "Retina",
+          "sources": [
+            {
+              "modelId": "eyeball-with-part-of-orbit-model-cs2",
+              "cardId": "eyeball-with-part-of-orbit-model-cs2-72",
+              "sourceLine": 72
+            },
+            {
+              "modelId": "eyeball-model-cs7",
+              "cardId": "eyeball-model-cs7-69",
+              "sourceLine": 69
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-186b2b8771",
+      "variants": [
+        {
+          "id": "v-186b2b8771",
+          "answer": "Inner neural layer of the eye containing photoreceptors and retinal neurons.",
+          "sources": [
+            {
+              "modelId": "eyeball-with-part-of-orbit-model-cs2",
+              "cardId": "eyeball-with-part-of-orbit-model-cs2-73",
+              "sourceLine": 73
+            },
+            {
+              "modelId": "eyeball-model-cs7",
+              "cardId": "eyeball-model-cs7-70",
+              "sourceLine": 70
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-87cae3f4f3",
+      "variants": [
+        {
+          "id": "v-87cae3f4f3",
+          "answer": "Converts light into neural signals transmitted via the optic nerve.",
+          "sources": [
+            {
+              "modelId": "eyeball-with-part-of-orbit-model-cs2",
+              "cardId": "eyeball-with-part-of-orbit-model-cs2-74",
+              "sourceLine": 74
+            }
+          ]
+        },
+        {
+          "id": "v-d9b74e95f9",
+          "answer": "Converts light into neural signals transmitted through the optic nerve.",
+          "sources": [
+            {
+              "modelId": "eyeball-model-cs7",
+              "cardId": "eyeball-model-cs7-71",
+              "sourceLine": 71
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-a707f7e176",
+      "question": "Blood supply",
+      "preferredVariantId": "v-4bd5461e19",
+      "variants": [
+        {
+          "id": "v-4bd5461e19",
+          "answer": "Inner retina supplied mainly by central retinal artery; outer retina by choroidal circulation.",
+          "sources": [
+            {
+              "modelId": "eyeball-with-part-of-orbit-model-cs2",
+              "cardId": "eyeball-with-part-of-orbit-model-cs2-75",
+              "sourceLine": 75
+            }
+          ]
+        },
+        {
+          "id": "v-d6ee250f41",
+          "answer": "Inner retina supplied mainly by the central retinal artery; outer retina by choroidal circulation.",
+          "sources": [
+            {
+              "modelId": "eyeball-model-cs7",
+              "cardId": "eyeball-model-cs7-72",
+              "sourceLine": 72
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "eyeball-with-part-of-orbit-model-cs2",
+      "section": "Eye",
+      "path": [
+        "11"
+      ],
+      "label": "11"
+    },
+    {
+      "modelId": "eyeball-model-cs7",
+      "section": "",
+      "path": [
+        "11"
+      ],
+      "label": "11"
+    }
+  ]
+}

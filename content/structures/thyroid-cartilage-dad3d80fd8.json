@@ -1,0 +1,322 @@
+{
+  "id": "thyroid-cartilage-dad3d80fd8",
+  "name": "Thyroid cartilage",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Cartilage"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Musculoskeletal",
+    "Respiratory"
+  ],
+  "organs": [
+    "Larynx"
+  ],
+  "tags": [
+    "Cartilage",
+    "CartilagesAndBones",
+    "Function",
+    "Landmarks",
+    "LaryngealStructures",
+    "Larynx",
+    "LarynxAndAirway",
+    "MidSagittal",
+    "Structure"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-75eb9097b3",
+      "variants": [
+        {
+          "id": "v-75eb9097b3",
+          "answer": "Thyroid cartilage",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-445",
+              "sourceLine": 445
+            },
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-56",
+              "sourceLine": 56
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-339",
+              "sourceLine": 339
+            },
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-18",
+              "sourceLine": 18
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-18",
+              "sourceLine": 18
+            },
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-17",
+              "sourceLine": 17
+            },
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-50",
+              "sourceLine": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-c6a85102b8",
+      "variants": [
+        {
+          "id": "v-c6a85102b8",
+          "answer": "Largest laryngeal cartilage, formed by two laminae meeting anteriorly.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-446",
+              "sourceLine": 446
+            },
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-57",
+              "sourceLine": 57
+            },
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-19",
+              "sourceLine": 19
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-19",
+              "sourceLine": 19
+            },
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-18",
+              "sourceLine": 18
+            },
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-51",
+              "sourceLine": 51
+            }
+          ]
+        },
+        {
+          "id": "v-f403ebbb61",
+          "answer": "Largest laryngeal cartilage formed by two laminae meeting anteriorly.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-340",
+              "sourceLine": 340
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-fc7cb08e75",
+      "variants": [
+        {
+          "id": "v-fc7cb08e75",
+          "answer": "Protects vocal apparatus and provides attachment for vocal folds and laryngeal muscles.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-447",
+              "sourceLine": 447
+            }
+          ]
+        },
+        {
+          "id": "v-35b02ba307",
+          "answer": "Protects the vocal apparatus and provides attachment for laryngeal muscles and ligaments.",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-59",
+              "sourceLine": 59
+            },
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-20",
+              "sourceLine": 20
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-20",
+              "sourceLine": 20
+            },
+            {
+              "modelId": "larynx-and-tongue-model-gs4",
+              "cardId": "larynx-and-tongue-model-gs4-19",
+              "sourceLine": 19
+            }
+          ]
+        },
+        {
+          "id": "v-dfea4e3a82",
+          "answer": "Protects vocal apparatus and provides muscular/ligamentous attachment.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-341",
+              "sourceLine": 341
+            }
+          ]
+        },
+        {
+          "id": "v-f6edae38b0",
+          "answer": "Protects the vocal apparatus and provides attachment for laryngeal structures.",
+          "sources": [
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-52",
+              "sourceLine": 52
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-626b6c1d45",
+      "question": "Landmarks",
+      "preferredVariantId": "v-8054544a3a",
+      "variants": [
+        {
+          "id": "v-49646ebcb1",
+          "answer": "Superior/inferior horns, oblique line and laryngeal prominence.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-448",
+              "sourceLine": 448
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-342",
+              "sourceLine": 342
+            }
+          ]
+        },
+        {
+          "id": "v-8d488e81d5",
+          "answer": "Laryngeal prominence, superior/inferior horns and oblique line.",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-58",
+              "sourceLine": 58
+            }
+          ]
+        },
+        {
+          "id": "v-8054544a3a",
+          "answer": "Laryngeal prominence, superior and inferior horns, superior thyroid notch and oblique line.",
+          "sources": [
+            {
+              "modelId": "larynx-model-gs7",
+              "cardId": "larynx-model-gs7-21",
+              "sourceLine": 21
+            },
+            {
+              "modelId": "larynx-and-airway-model-gs5",
+              "cardId": "larynx-and-airway-model-gs5-21",
+              "sourceLine": 21
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "coronal-and-mid-sagittal-head-mb20",
+      "section": "Laryngeal structures",
+      "path": [
+        "II"
+      ],
+      "label": "II"
+    },
+    {
+      "modelId": "deep-face-model-bs8-1",
+      "section": "",
+      "path": [
+        "10"
+      ],
+      "label": "10"
+    },
+    {
+      "modelId": "half-head-and-neck-model-bs9",
+      "section": "Laryngeal structures",
+      "path": [
+        "II"
+      ],
+      "label": "II"
+    },
+    {
+      "modelId": "larynx-model-gs7",
+      "section": "Hyoid and laryngeal cartilages",
+      "path": [
+        "2"
+      ],
+      "label": "2"
+    },
+    {
+      "modelId": "larynx-and-airway-model-gs5",
+      "section": "Hyoid and laryngeal cartilages",
+      "path": [
+        "2"
+      ],
+      "label": "2"
+    },
+    {
+      "modelId": "larynx-and-tongue-model-gs4",
+      "section": "Larynx",
+      "path": [
+        "2"
+      ],
+      "label": "2"
+    },
+    {
+      "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+      "section": "Larynx and airway",
+      "path": [
+        "2"
+      ],
+      "label": "2"
+    }
+  ]
+}

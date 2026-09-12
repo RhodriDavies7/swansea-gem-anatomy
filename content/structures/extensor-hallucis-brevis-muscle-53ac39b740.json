@@ -1,0 +1,203 @@
+{
+  "id": "extensor-hallucis-brevis-muscle-53ac39b740",
+  "name": "Extensor hallucis brevis muscle",
+  "aliases": [
+    "Extensor hallucis brevis"
+  ],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Origin",
+    "Muscles"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-9e65c599ed",
+      "variants": [
+        {
+          "id": "v-9e65c599ed",
+          "answer": "Extensor hallucis brevis muscle",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-245",
+              "sourceLine": 245
+            }
+          ]
+        },
+        {
+          "id": "v-ec3b4d8838",
+          "answer": "Extensor hallucis brevis",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-103",
+              "sourceLine": 103
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-95587f977a",
+      "variants": [
+        {
+          "id": "v-95587f977a",
+          "answer": "Extends the great toe at the metatarsophalangeal joint.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-246",
+              "sourceLine": 246
+            }
+          ]
+        },
+        {
+          "id": "v-f6badfe1aa",
+          "answer": "Extends the hallux at the metatarsophalangeal joint.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-104",
+              "sourceLine": 104
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-61fe0ce0c6",
+      "variants": [
+        {
+          "id": "v-61fe0ce0c6",
+          "answer": "Deep fibular nerve (L5–S1).",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-247",
+              "sourceLine": 247
+            },
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-105",
+              "sourceLine": 105
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-f0b3a68c00",
+      "variants": [
+        {
+          "id": "v-f0b3a68c00",
+          "answer": "Superolateral calcaneus, continuous with extensor digitorum brevis.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-248",
+              "sourceLine": 248
+            }
+          ]
+        },
+        {
+          "id": "v-e1121a67c4",
+          "answer": "Superolateral calcaneus as medial part of extensor digitorum brevis complex.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-106",
+              "sourceLine": 106
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-3eacf5724d",
+      "variants": [
+        {
+          "id": "v-3eacf5724d",
+          "answer": "Dorsal base of proximal phalanx of great toe.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-249",
+              "sourceLine": 249
+            }
+          ]
+        },
+        {
+          "id": "v-48926e8d66",
+          "answer": "Dorsal base of proximal phalanx of hallux.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-107",
+              "sourceLine": 107
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "lower-limb-model-ns10",
+      "section": "Muscles",
+      "path": [
+        "30"
+      ],
+      "label": "30"
+    },
+    {
+      "modelId": "foot-model-ns9",
+      "section": "Muscles",
+      "path": [
+        "16"
+      ],
+      "label": "16"
+    }
+  ]
+}

@@ -1,0 +1,243 @@
+{
+  "id": "uterus-6097ccae8d",
+  "name": "Uterus",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Organs"
+  ],
+  "regions": [
+    "Pelvis"
+  ],
+  "systems": [
+    "Reproductive"
+  ],
+  "organs": [],
+  "tags": [
+    "BloodSupply",
+    "Function",
+    "Lymphatics",
+    "Organ",
+    "Parts",
+    "Position",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-fb6a8108a1",
+      "variants": [
+        {
+          "id": "v-fb6a8108a1",
+          "answer": "Uterus",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-327",
+              "sourceLine": 327
+            },
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-76",
+              "sourceLine": 76
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-e6e56c10c1",
+      "variants": [
+        {
+          "id": "v-e6e56c10c1",
+          "answer": "Site of implantation and fetal development; myometrium contracts in labour.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-328",
+              "sourceLine": 328
+            }
+          ]
+        },
+        {
+          "id": "v-1f3b3eb07a",
+          "answer": "Site of implantation and development of the embryo/fetus; myometrium contracts during labour.",
+          "sources": [
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-77",
+              "sourceLine": 77
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-e374280917",
+      "question": "Parts",
+      "preferredVariantId": "v-4713f68f46",
+      "variants": [
+        {
+          "id": "v-4713f68f46",
+          "answer": "Fundus, body, isthmus and cervix.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-329",
+              "sourceLine": 329
+            },
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-78",
+              "sourceLine": 78
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-cf1c85adba",
+      "question": "Position",
+      "preferredVariantId": "v-fcbc640a18",
+      "variants": [
+        {
+          "id": "v-a5ba3ee5d6",
+          "answer": "Normally anteverted and anteflexed.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-330",
+              "sourceLine": 330
+            }
+          ]
+        },
+        {
+          "id": "v-fcbc640a18",
+          "answer": "Normally anteverted relative to the vagina and anteflexed at the junction of body and cervix.",
+          "sources": [
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-79",
+              "sourceLine": 79
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-a707f7e176",
+      "question": "Blood supply",
+      "preferredVariantId": "v-a29c03558e",
+      "variants": [
+        {
+          "id": "v-00a66ce06a",
+          "answer": "Mainly uterine artery with ovarian artery anastomoses.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-331",
+              "sourceLine": 331
+            }
+          ]
+        },
+        {
+          "id": "v-a29c03558e",
+          "answer": "Uterine artery from internal iliac artery, with anastomoses to ovarian and vaginal arteries.",
+          "sources": [
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-81",
+              "sourceLine": 81
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-77866b97c8",
+      "variants": [
+        {
+          "id": "v-1072bf33c4",
+          "answer": "Bladder anterior and rectum posterior.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-332",
+              "sourceLine": 332
+            }
+          ]
+        },
+        {
+          "id": "v-77866b97c8",
+          "answer": "Bladder lies anteriorly and rectum posteriorly; peritoneal reflections form vesicouterine and rectouterine pouches.",
+          "sources": [
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-80",
+              "sourceLine": 80
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-81a19046b8",
+      "question": "Lymphatic drainage",
+      "preferredVariantId": "v-2626db8560",
+      "variants": [
+        {
+          "id": "v-2626db8560",
+          "answer": "Fundus can drain to para-aortic nodes and via round ligament to superficial inguinal nodes; body mainly to external iliac nodes; cervix mainly to internal iliac and sacral nodes.",
+          "sources": [
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-82",
+              "sourceLine": 82
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "female-pelvis-model-mo8",
+      "section": "",
+      "path": [
+        "49"
+      ],
+      "label": "49"
+    },
+    {
+      "modelId": "female-reproductive-system-model-ms1",
+      "section": "",
+      "path": [
+        "11"
+      ],
+      "label": "11"
+    }
+  ]
+}

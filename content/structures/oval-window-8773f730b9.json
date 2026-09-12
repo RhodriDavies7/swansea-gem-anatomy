@@ -1,0 +1,153 @@
+{
+  "id": "oval-window-8773f730b9",
+  "name": "Oval window",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [],
+  "organs": [
+    "Ear"
+  ],
+  "tags": [
+    "Function",
+    "InnerEar",
+    "Location",
+    "Opening",
+    "Relations",
+    "VestibularApparatus"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-ffe1699f33",
+      "variants": [
+        {
+          "id": "v-ffe1699f33",
+          "answer": "Oval window",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-205",
+              "sourceLine": 205
+            },
+            {
+              "modelId": "inner-ear-model-ds17",
+              "cardId": "inner-ear-model-ds17-74",
+              "sourceLine": 74
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-644800761b",
+      "variants": [
+        {
+          "id": "v-2606ed36f2",
+          "answer": "Opening in the medial wall of the middle ear leading to the vestibule.",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-206",
+              "sourceLine": 206
+            }
+          ]
+        },
+        {
+          "id": "v-644800761b",
+          "answer": "Opening between middle ear and vestibule, occupied by base of stapes.",
+          "sources": [
+            {
+              "modelId": "inner-ear-model-ds17",
+              "cardId": "inner-ear-model-ds17-75",
+              "sourceLine": 75
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-476e94e3fd",
+      "variants": [
+        {
+          "id": "v-476e94e3fd",
+          "answer": "Occupied by the base of the stapes.",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-207",
+              "sourceLine": 207
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-75f8c2d358",
+      "variants": [
+        {
+          "id": "v-75f8c2d358",
+          "answer": "Receives mechanical vibration from the stapes and transmits it into inner-ear perilymph.",
+          "sources": [
+            {
+              "modelId": "ear-largest-model-ds1",
+              "cardId": "ear-largest-model-ds1-208",
+              "sourceLine": 208
+            }
+          ]
+        },
+        {
+          "id": "v-442b0fc044",
+          "answer": "Transmits stapes vibration into perilymph of inner ear.",
+          "sources": [
+            {
+              "modelId": "inner-ear-model-ds17",
+              "cardId": "inner-ear-model-ds17-76",
+              "sourceLine": 76
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "ear-largest-model-ds1",
+      "section": "D. Inner ear",
+      "path": [
+        "32"
+      ],
+      "label": "32"
+    },
+    {
+      "modelId": "inner-ear-model-ds17",
+      "section": "Vestibular apparatus",
+      "path": [
+        "9"
+      ],
+      "label": "9"
+    }
+  ]
+}

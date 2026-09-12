@@ -1,0 +1,127 @@
+{
+  "id": "triceps-brachii-8703d033f5",
+  "name": "Triceps brachii",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-71773b9415",
+      "variants": [
+        {
+          "id": "v-71773b9415",
+          "answer": "Triceps brachii",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-63",
+              "sourceLine": 63
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-c448152d13",
+      "variants": [
+        {
+          "id": "v-c448152d13",
+          "answer": "Extends the elbow; long head also extends and adducts the arm and helps resist inferior displacement of the humeral head.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-64",
+              "sourceLine": 64
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-b3df909c6a",
+      "variants": [
+        {
+          "id": "v-b3df909c6a",
+          "answer": "Radial nerve (C6–C8).",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-65",
+              "sourceLine": 65
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-677626623c",
+      "variants": [
+        {
+          "id": "v-677626623c",
+          "answer": "Long head: infraglenoid tubercle. Lateral head: posterior humerus superior to radial groove. Medial head: posterior humerus inferior to radial groove.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-66",
+              "sourceLine": 66
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-4716219a2d",
+      "variants": [
+        {
+          "id": "v-4716219a2d",
+          "answer": "Olecranon of ulna and forearm fascia.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-67",
+              "sourceLine": 67
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "upper-limb-model-ns15",
+      "section": "Muscles",
+      "path": [
+        "11"
+      ],
+      "label": "11"
+    }
+  ]
+}

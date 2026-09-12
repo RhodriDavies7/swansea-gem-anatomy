@@ -1,0 +1,92 @@
+{
+  "id": "middle-lobe-of-right-lung-d166ca2f0f",
+  "name": "Middle lobe of right lung",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Respiratory"
+  ],
+  "organs": [
+    "Larynx"
+  ],
+  "tags": [
+    "Function",
+    "LungLobe",
+    "LungLobes",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-5d6b594ee9",
+      "variants": [
+        {
+          "id": "v-5d6b594ee9",
+          "answer": "Middle lobe of right lung",
+          "sources": [
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-106",
+              "sourceLine": 106
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-d3981c7d2d",
+      "variants": [
+        {
+          "id": "v-d3981c7d2d",
+          "answer": "Between horizontal and oblique fissures.",
+          "sources": [
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-107",
+              "sourceLine": 107
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-8671216b10",
+      "variants": [
+        {
+          "id": "v-8671216b10",
+          "answer": "Contains medial and lateral bronchopulmonary segments.",
+          "sources": [
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-108",
+              "sourceLine": 108
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+      "section": "Lung lobes",
+      "path": [
+        "12"
+      ],
+      "label": "12"
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "id": "ureteric-orifice-716e9a0d7f",
+  "name": "Ureteric orifice",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Abdomen"
+  ],
+  "systems": [
+    "Urinary"
+  ],
+  "organs": [],
+  "tags": [
+    "Bladder",
+    "Function",
+    "Location",
+    "Opening",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-c91510baed",
+      "variants": [
+        {
+          "id": "v-c91510baed",
+          "answer": "Ureteric orifice",
+          "sources": [
+            {
+              "modelId": "urinary-system-model-ls3-1",
+              "cardId": "urinary-system-model-ls3-1-112",
+              "sourceLine": 112
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d219c68101",
+      "question": "Location",
+      "preferredVariantId": "v-efcaaf5884",
+      "variants": [
+        {
+          "id": "v-efcaaf5884",
+          "answer": "Paired openings where the ureters enter the posterolateral bladder wall.",
+          "sources": [
+            {
+              "modelId": "urinary-system-model-ls3-1",
+              "cardId": "urinary-system-model-ls3-1-113",
+              "sourceLine": 113
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-1b41fecd27",
+      "variants": [
+        {
+          "id": "v-1b41fecd27",
+          "answer": "Form the two superior corners of the bladder trigone.",
+          "sources": [
+            {
+              "modelId": "urinary-system-model-ls3-1",
+              "cardId": "urinary-system-model-ls3-1-114",
+              "sourceLine": 114
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-80edee591b",
+      "variants": [
+        {
+          "id": "v-80edee591b",
+          "answer": "Permit urine to enter the bladder; oblique intramural course helps resist vesico-ureteric reflux.",
+          "sources": [
+            {
+              "modelId": "urinary-system-model-ls3-1",
+              "cardId": "urinary-system-model-ls3-1-115",
+              "sourceLine": 115
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "urinary-system-model-ls3-1",
+      "section": "Bladder openings and trigone",
+      "path": [
+        "14"
+      ],
+      "label": "14"
+    }
+  ]
+}

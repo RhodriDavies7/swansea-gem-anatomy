@@ -1,0 +1,128 @@
+{
+  "id": "dorsal-interosseus-30592aaa21",
+  "name": "Dorsal interosseus",
+  "aliases": [],
+  "scope": "Lower limb",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Muscles",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-1e2e6a05ea",
+      "variants": [
+        {
+          "id": "v-1e2e6a05ea",
+          "answer": "Dorsal interosseus",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-228",
+              "sourceLine": 228
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-c620a1bf63",
+      "variants": [
+        {
+          "id": "v-c620a1bf63",
+          "answer": "Abducts toes 2–4 from the axis of the 2nd toe; flexes MTP joints and extends IP joints.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-229",
+              "sourceLine": 229
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-88c8052b1c",
+      "variants": [
+        {
+          "id": "v-88c8052b1c",
+          "answer": "Lateral plantar nerve (S2–S3).",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-230",
+              "sourceLine": 230
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-5f98b4c7ed",
+      "variants": [
+        {
+          "id": "v-5f98b4c7ed",
+          "answer": "Adjacent sides of metatarsals 1–5.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-231",
+              "sourceLine": 231
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-05adc51df3",
+      "variants": [
+        {
+          "id": "v-05adc51df3",
+          "answer": "1st inserts medially on 2nd toe; others insert laterally on toes 2–4.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-232",
+              "sourceLine": 232
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "foot-model-ns9",
+      "section": "Muscles",
+      "path": [
+        "33"
+      ],
+      "label": "33"
+    }
+  ]
+}

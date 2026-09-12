@@ -1,0 +1,246 @@
+{
+  "id": "calcaneal-achilles-tendon-888c079a0e",
+  "name": "Calcaneal (Achilles) tendon",
+  "aliases": [
+    "Calcaneal (or Achilles) tendon"
+  ],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Tendons"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Clinical",
+    "Function",
+    "Insertion",
+    "Muscles",
+    "Origin",
+    "Tendon",
+    "Attachments",
+    "Formation",
+    "Relations"
+  ],
+  "imageIds": [
+    "img-e4531587d510"
+  ],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-0edc902fff",
+      "variants": [
+        {
+          "id": "v-0edc902fff",
+          "answer": "Calcaneal (Achilles) tendon",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-124",
+              "sourceLine": 124
+            }
+          ]
+        },
+        {
+          "id": "v-9fc37f93e0",
+          "answer": "Calcaneal (or Achilles) tendon",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-208",
+              "sourceLine": 208
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-f3c8e863a4",
+      "variants": [
+        {
+          "id": "v-f3c8e863a4",
+          "answer": "Formed mainly by gastrocnemius and soleus tendons, with variable plantaris contribution.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-125",
+              "sourceLine": 125
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-2c5c81ce81",
+      "variants": [
+        {
+          "id": "v-2c5c81ce81",
+          "answer": "Posterior calcaneal tuberosity.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-126",
+              "sourceLine": 126
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-f27c668570",
+      "variants": [
+        {
+          "id": "v-f27c668570",
+          "answer": "Transmits triceps surae force for powerful plantarflexion.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-127",
+              "sourceLine": 127
+            }
+          ]
+        },
+        {
+          "id": "v-02e49dc91b",
+          "answer": "Transmits force for plantarflexion and push-off.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-211",
+              "sourceLine": 211
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-b03737e3cd",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-2d9ffb75f6",
+      "variants": [
+        {
+          "id": "v-f551698700",
+          "answer": "Achilles rupture causes marked weakness of plantarflexion and an abnormal Thompson test.",
+          "sources": [
+            {
+              "modelId": "foot-model-ns9",
+              "cardId": "foot-model-ns9-128",
+              "sourceLine": 128
+            }
+          ]
+        },
+        {
+          "id": "v-2d9ffb75f6",
+          "answer": "Rupture impairs push-off; squeezing the calf fails to produce normal plantarflexion (Thompson test). Ankle jerk mainly tests S1 through the tibial nerve.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-213",
+              "sourceLine": 213
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-c13b6a1fb1",
+      "question": "Formed by",
+      "preferredVariantId": "v-e50e60e975",
+      "variants": [
+        {
+          "id": "v-e50e60e975",
+          "answer": "Gastrocnemius and soleus tendons; plantaris usually runs separately alongside it.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-209",
+              "sourceLine": 209
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6771ade6e8",
+      "question": "Attachments",
+      "preferredVariantId": "v-39261c6179",
+      "variants": [
+        {
+          "id": "v-39261c6179",
+          "answer": "Triceps surae proximally; middle part of posterior calcaneal surface distally.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-210",
+              "sourceLine": 210
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-d916a699fe",
+      "variants": [
+        {
+          "id": "v-d916a699fe",
+          "answer": "Superficial posterior ankle; retrocalcaneal bursa separates it from upper posterior calcaneus.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-212",
+              "sourceLine": 212
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "foot-model-ns9",
+      "section": "Muscles",
+      "path": [
+        "19"
+      ],
+      "label": "19"
+    },
+    {
+      "modelId": "lower-limb-model-ns10",
+      "section": "Muscles",
+      "path": [
+        "24",
+        "24d"
+      ],
+      "label": "24d"
+    }
+  ],
+  "redirectIds": [
+    "calcaneal-or-achilles-tendon-c1d297419d"
+  ]
+}

@@ -1,0 +1,241 @@
+{
+  "id": "dorsal-branch-of-ulnar-nerve-9f7123a6fb",
+  "name": "Dorsal branch of ulnar nerve",
+  "aliases": [
+    "Dorsal branch of the ulnar nerve"
+  ],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Nerves"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [],
+  "tags": [
+    "Course",
+    "Lesion",
+    "Motor",
+    "Nerve",
+    "Roots",
+    "Sensory",
+    "ArteriesAndNerves",
+    "NerveBranch",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-9a93b959ef",
+      "variants": [
+        {
+          "id": "v-9a93b959ef",
+          "answer": "Dorsal branch of ulnar nerve",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-484",
+              "sourceLine": 484
+            }
+          ]
+        },
+        {
+          "id": "v-0511487b26",
+          "answer": "Dorsal branch of the ulnar nerve",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-235",
+              "sourceLine": 235
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-4d78ec7d11",
+      "question": "Roots",
+      "preferredVariantId": "v-ba0784539c",
+      "variants": [
+        {
+          "id": "v-ba0784539c",
+          "answer": "C8–T1 fibres from ulnar nerve.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-485",
+              "sourceLine": 485
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-7edbe26ecf",
+      "variants": [
+        {
+          "id": "v-7edbe26ecf",
+          "answer": "Arises in distal forearm, passes dorsally around ulna to dorsomedial hand.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-486",
+              "sourceLine": 486
+            }
+          ]
+        },
+        {
+          "id": "v-b06a419cdc",
+          "answer": "Passes dorsally around the ulna to the dorsomedial hand.",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-237",
+              "sourceLine": 237
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-c8b6915183",
+      "question": "Motor functions",
+      "preferredVariantId": "v-e306efed1d",
+      "variants": [
+        {
+          "id": "v-e306efed1d",
+          "answer": "None; cutaneous branch.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-487",
+              "sourceLine": 487
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-a453254382",
+      "question": "Sensory functions",
+      "preferredVariantId": "v-e580343e7c",
+      "variants": [
+        {
+          "id": "v-e580343e7c",
+          "answer": "Dorsomedial hand and dorsal proximal parts of medial 1½ digits, with variable distribution.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-488",
+              "sourceLine": 488
+            }
+          ]
+        },
+        {
+          "id": "v-c17743b366",
+          "answer": "Supplies dorsomedial hand and dorsal aspects of medial 1½ digits, mainly proximal to the nail beds.",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-238",
+              "sourceLine": 238
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-bc53d10c57",
+      "question": "Lesion",
+      "preferredVariantId": "v-d168a15683",
+      "variants": [
+        {
+          "id": "v-d168a15683",
+          "answer": "Causes sensory disturbance over dorsoulnar hand; spared in lesions confined to Guyon’s canal because branch arises proximal to wrist.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-489",
+              "sourceLine": 489
+            }
+          ]
+        },
+        {
+          "id": "v-d9093a2297",
+          "answer": "Causes sensory loss or paraesthesia over the dorsomedial hand and dorsal medial 1½ digits without intrinsic hand weakness if the branch alone is affected.",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-239",
+              "sourceLine": 239
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-a8c26ccd70",
+      "variants": [
+        {
+          "id": "v-a8c26ccd70",
+          "answer": "Arises from the ulnar nerve in the distal forearm proximal to the wrist.",
+          "sources": [
+            {
+              "modelId": "hand-model-ns13",
+              "cardId": "hand-model-ns13-236",
+              "sourceLine": 236
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "upper-limb-model-ns15",
+      "section": "Nerves",
+      "path": [
+        "76"
+      ],
+      "label": "76"
+    },
+    {
+      "modelId": "hand-model-ns13",
+      "section": "Arteries and nerves",
+      "path": [
+        "6",
+        "b"
+      ],
+      "label": "6b"
+    }
+  ],
+  "redirectIds": [
+    "dorsal-branch-of-the-ulnar-nerve-fdce6ce580"
+  ]
+}

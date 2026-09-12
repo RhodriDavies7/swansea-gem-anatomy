@@ -1,0 +1,108 @@
+{
+  "id": "rectouterine-fold-254ec62006",
+  "name": "Rectouterine fold",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Pelvis"
+  ],
+  "systems": [
+    "Reproductive"
+  ],
+  "organs": [],
+  "tags": [
+    "Function",
+    "PeritonealFold",
+    "Relations",
+    "Structure"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-a22069d8cd",
+      "variants": [
+        {
+          "id": "v-a22069d8cd",
+          "answer": "Rectouterine fold",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-380",
+              "sourceLine": 380
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-fbb0736cb3",
+      "variants": [
+        {
+          "id": "v-fbb0736cb3",
+          "answer": "Peritoneal fold extending posteriorly from cervix/uterus toward sacrum, overlying uterosacral supporting tissues.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-381",
+              "sourceLine": 381
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-2c027d0e3c",
+      "variants": [
+        {
+          "id": "v-2c027d0e3c",
+          "answer": "Forms lateral boundaries of the rectouterine pouch.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-382",
+              "sourceLine": 382
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-657adfd7b2",
+      "variants": [
+        {
+          "id": "v-657adfd7b2",
+          "answer": "Contributes to uterine/cervical support.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-383",
+              "sourceLine": 383
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "female-pelvis-model-mo8",
+      "section": "",
+      "path": [
+        "57"
+      ],
+      "label": "57"
+    }
+  ]
+}

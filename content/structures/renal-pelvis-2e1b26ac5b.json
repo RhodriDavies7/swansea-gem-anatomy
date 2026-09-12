@@ -1,0 +1,190 @@
+{
+  "id": "renal-pelvis-2e1b26ac5b",
+  "name": "Renal pelvis",
+  "aliases": [
+    "Pelvis of the kidney"
+  ],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Abdomen"
+  ],
+  "systems": [
+    "Urinary"
+  ],
+  "organs": [
+    "Kidney"
+  ],
+  "tags": [
+    "CollectingSystem",
+    "Formation",
+    "Function",
+    "KidneySection",
+    "CollectingStructure",
+    "Relations",
+    "Structure"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-c73449031f",
+      "variants": [
+        {
+          "id": "v-c73449031f",
+          "answer": "Renal pelvis",
+          "sources": [
+            {
+              "modelId": "urinary-system-model-ls3-1",
+              "cardId": "urinary-system-model-ls3-1-56",
+              "sourceLine": 56
+            }
+          ]
+        },
+        {
+          "id": "v-26b00d0b0e",
+          "answer": "Pelvis of the kidney",
+          "sources": [
+            {
+              "modelId": "kidney-model-ls5",
+              "cardId": "kidney-model-ls5-69",
+              "sourceLine": 69
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-bc0bd86b8f",
+      "question": "Formation",
+      "preferredVariantId": "v-bbff255ac4",
+      "variants": [
+        {
+          "id": "v-bbff255ac4",
+          "answer": "Funnel-shaped expansion formed by convergence of the major calyces.",
+          "sources": [
+            {
+              "modelId": "urinary-system-model-ls3-1",
+              "cardId": "urinary-system-model-ls3-1-57",
+              "sourceLine": 57
+            }
+          ]
+        },
+        {
+          "id": "v-12965760d4",
+          "answer": "Formed by union of major calyces.",
+          "sources": [
+            {
+              "modelId": "kidney-model-ls5",
+              "cardId": "kidney-model-ls5-71",
+              "sourceLine": 71
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-1b3bda9413",
+      "variants": [
+        {
+          "id": "v-d513f2d31f",
+          "answer": "Collects urine and continues as the ureter.",
+          "sources": [
+            {
+              "modelId": "urinary-system-model-ls3-1",
+              "cardId": "urinary-system-model-ls3-1-58",
+              "sourceLine": 58
+            }
+          ]
+        },
+        {
+          "id": "v-1b3bda9413",
+          "answer": "Collects urine from major calyces and funnels it into the ureter.",
+          "sources": [
+            {
+              "modelId": "kidney-model-ls5",
+              "cardId": "kidney-model-ls5-72",
+              "sourceLine": 72
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-81521c9e55",
+      "variants": [
+        {
+          "id": "v-81521c9e55",
+          "answer": "Funnel-shaped expanded proximal part of the ureter within the renal sinus.",
+          "sources": [
+            {
+              "modelId": "kidney-model-ls5",
+              "cardId": "kidney-model-ls5-70",
+              "sourceLine": 70
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-bc69ee99f7",
+      "variants": [
+        {
+          "id": "v-bc69ee99f7",
+          "answer": "At the renal hilum it lies posterior to the renal artery and vein.",
+          "sources": [
+            {
+              "modelId": "kidney-model-ls5",
+              "cardId": "kidney-model-ls5-73",
+              "sourceLine": 73
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "urinary-system-model-ls3-1",
+      "section": "Coronal section of kidney (8a–g)",
+      "path": [
+        "8",
+        "c"
+      ],
+      "label": "8c"
+    },
+    {
+      "modelId": "kidney-model-ls5",
+      "section": "Collecting system and renal parenchyma",
+      "path": [
+        "4"
+      ],
+      "label": "4"
+    }
+  ],
+  "redirectIds": [
+    "pelvis-of-the-kidney-f8049ec4c2"
+  ]
+}

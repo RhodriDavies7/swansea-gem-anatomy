@@ -1,0 +1,145 @@
+{
+  "id": "lateral-meniscus-26979210b6",
+  "name": "Lateral meniscus",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [],
+  "organs": [],
+  "tags": [
+    "Attachments",
+    "Clinical",
+    "Function",
+    "LigamentsAndMenisci",
+    "Meniscus",
+    "Relations",
+    "Structure"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-3e12d4ca1a",
+      "variants": [
+        {
+          "id": "v-3e12d4ca1a",
+          "answer": "Lateral meniscus",
+          "sources": [
+            {
+              "modelId": "knee-joint-model-ns19",
+              "cardId": "knee-joint-model-ns19-84",
+              "sourceLine": 84
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-c0884801ec",
+      "variants": [
+        {
+          "id": "v-c0884801ec",
+          "answer": "Nearly circular fibrocartilage on lateral tibial plateau and more mobile than medial meniscus.",
+          "sources": [
+            {
+              "modelId": "knee-joint-model-ns19",
+              "cardId": "knee-joint-model-ns19-85",
+              "sourceLine": 85
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6771ade6e8",
+      "question": "Attachments",
+      "preferredVariantId": "v-8a113cccc1",
+      "variants": [
+        {
+          "id": "v-8a113cccc1",
+          "answer": "Attached to tibial plateau and capsule; not firmly attached to fibular collateral ligament.",
+          "sources": [
+            {
+              "modelId": "knee-joint-model-ns19",
+              "cardId": "knee-joint-model-ns19-86",
+              "sourceLine": 86
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-da3b95428d",
+      "variants": [
+        {
+          "id": "v-da3b95428d",
+          "answer": "Improves congruence, distributes load and absorbs shock.",
+          "sources": [
+            {
+              "modelId": "knee-joint-model-ns19",
+              "cardId": "knee-joint-model-ns19-87",
+              "sourceLine": 87
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-e93186a23c",
+      "variants": [
+        {
+          "id": "v-e93186a23c",
+          "answer": "Popliteus tendon separates part of the lateral meniscus from the fibular collateral ligament.",
+          "sources": [
+            {
+              "modelId": "knee-joint-model-ns19",
+              "cardId": "knee-joint-model-ns19-88",
+              "sourceLine": 88
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-b03737e3cd",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-cb3da8e3ce",
+      "variants": [
+        {
+          "id": "v-cb3da8e3ce",
+          "answer": "Less commonly injured than the medial meniscus because of greater mobility.",
+          "sources": [
+            {
+              "modelId": "knee-joint-model-ns19",
+              "cardId": "knee-joint-model-ns19-89",
+              "sourceLine": 89
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "knee-joint-model-ns19",
+      "section": "Ligaments and menisci",
+      "path": [
+        "13"
+      ],
+      "label": "13"
+    }
+  ]
+}

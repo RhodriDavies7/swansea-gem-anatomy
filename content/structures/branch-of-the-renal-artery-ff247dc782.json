@@ -1,0 +1,92 @@
+{
+  "id": "branch-of-the-renal-artery-ff247dc782",
+  "name": "Branch of the renal artery",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Arteries"
+  ],
+  "regions": [
+    "Abdomen"
+  ],
+  "systems": [
+    "Cardiovascular",
+    "Urinary"
+  ],
+  "organs": [],
+  "tags": [
+    "Artery",
+    "KidneySection",
+    "Origin",
+    "Supply"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-77b682e41e",
+      "variants": [
+        {
+          "id": "v-77b682e41e",
+          "answer": "Branch of the renal artery",
+          "sources": [
+            {
+              "modelId": "urinary-system-model-ls3-1",
+              "cardId": "urinary-system-model-ls3-1-64",
+              "sourceLine": 64
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-b89f11a761",
+      "variants": [
+        {
+          "id": "v-b89f11a761",
+          "answer": "Derived from the renal artery after it enters the renal hilum.",
+          "sources": [
+            {
+              "modelId": "urinary-system-model-ls3-1",
+              "cardId": "urinary-system-model-ls3-1-65",
+              "sourceLine": 65
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-222db0fc1c",
+      "question": "Supply",
+      "preferredVariantId": "v-c8d01ab2b7",
+      "variants": [
+        {
+          "id": "v-c8d01ab2b7",
+          "answer": "Supplies renal parenchyma through segmental and subsequent intrarenal arterial branches.",
+          "sources": [
+            {
+              "modelId": "urinary-system-model-ls3-1",
+              "cardId": "urinary-system-model-ls3-1-66",
+              "sourceLine": 66
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "urinary-system-model-ls3-1",
+      "section": "Coronal section of kidney (8a–g)",
+      "path": [
+        "8",
+        "e"
+      ],
+      "label": "8e"
+    }
+  ]
+}

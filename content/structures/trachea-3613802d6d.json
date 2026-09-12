@@ -1,0 +1,213 @@
+{
+  "id": "trachea-3613802d6d",
+  "name": "Trachea",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Other"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Respiratory"
+  ],
+  "organs": [
+    "Larynx"
+  ],
+  "tags": [
+    "Course",
+    "Function",
+    "LaryngealStructures",
+    "MajorOrgans",
+    "MidSagittal",
+    "Relations",
+    "Structure",
+    "Tube"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-f6084597ce",
+      "variants": [
+        {
+          "id": "v-f6084597ce",
+          "answer": "Trachea",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-484",
+              "sourceLine": 484
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-386",
+              "sourceLine": 386
+            },
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-14",
+              "sourceLine": 14
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-ee0fe3172a",
+      "variants": [
+        {
+          "id": "v-ee0fe3172a",
+          "answer": "Conducts air between larynx and bronchi.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-485",
+              "sourceLine": 485
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-387",
+              "sourceLine": 387
+            }
+          ]
+        },
+        {
+          "id": "v-7987c634ed",
+          "answer": "Conducts air between larynx and main bronchi.",
+          "sources": [
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-15",
+              "sourceLine": 15
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-9482c5d5bf",
+      "question": "Structure",
+      "preferredVariantId": "v-5a5e399045",
+      "variants": [
+        {
+          "id": "v-5a5e399045",
+          "answer": "Fibrocartilaginous tube supported by C-shaped hyaline cartilage rings and posterior trachealis muscle.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-486",
+              "sourceLine": 486
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-388",
+              "sourceLine": 388
+            }
+          ]
+        },
+        {
+          "id": "v-aa5bec92ec",
+          "answer": "Supported by C-shaped hyaline cartilage rings with a posterior membranous wall.",
+          "sources": [
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-16",
+              "sourceLine": 16
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-945b945881",
+      "variants": [
+        {
+          "id": "v-945b945881",
+          "answer": "Begins inferior to cricoid cartilage around C6 and descends into thorax.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-487",
+              "sourceLine": 487
+            }
+          ]
+        },
+        {
+          "id": "v-a0f95da4d7",
+          "answer": "Begins below cricoid cartilage around C6 and descends into thorax.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-389",
+              "sourceLine": 389
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-4ee707006b",
+      "variants": [
+        {
+          "id": "v-4ee707006b",
+          "answer": "Begins at C6 and bifurcates at the carina around the sternal angle/T4–T5 level.",
+          "sources": [
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-17",
+              "sourceLine": 17
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "coronal-and-mid-sagittal-head-mb20",
+      "section": "Laryngeal structures",
+      "path": [
+        "X"
+      ],
+      "label": "X"
+    },
+    {
+      "modelId": "half-head-and-neck-model-bs9",
+      "section": "Laryngeal structures",
+      "path": [
+        "X"
+      ],
+      "label": "X"
+    },
+    {
+      "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+      "section": "Major organs and regions (A–G)",
+      "path": [
+        "C"
+      ],
+      "label": "C"
+    }
+  ]
+}

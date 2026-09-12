@@ -1,0 +1,357 @@
+{
+  "id": "mylohyoid-muscle-74df4594e4",
+  "name": "Mylohyoid muscle",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "Coronal",
+    "HeadNeck",
+    "HeadNeckMuscles",
+    "Innervation",
+    "Insertion",
+    "MidSagittal",
+    "MidlineStructures",
+    "Muscle",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-f5cfe3d956",
+      "variants": [
+        {
+          "id": "v-f5cfe3d956",
+          "answer": "Mylohyoid muscle",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-129",
+              "sourceLine": 129
+            },
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-423",
+              "sourceLine": 423
+            },
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-86",
+              "sourceLine": 86
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-314",
+              "sourceLine": 314
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-547",
+              "sourceLine": 547
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-279",
+              "sourceLine": 279
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-dbc8ec7f3f",
+      "variants": [
+        {
+          "id": "v-dbc8ec7f3f",
+          "answer": "Elevates the floor of mouth and hyoid during swallowing; can assist mandibular depression when hyoid is fixed.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-130",
+              "sourceLine": 130
+            }
+          ]
+        },
+        {
+          "id": "v-7b96e733de",
+          "answer": "Elevates floor of mouth and hyoid during swallowing; assists mandibular depression.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-424",
+              "sourceLine": 424
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-315",
+              "sourceLine": 315
+            }
+          ]
+        },
+        {
+          "id": "v-d4621d3709",
+          "answer": "Elevates the floor of mouth and hyoid during swallowing; assists depression of the mandible when the hyoid is fixed.",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-87",
+              "sourceLine": 87
+            }
+          ]
+        },
+        {
+          "id": "v-3d2e96adc0",
+          "answer": "Elevates floor of mouth and hyoid; assists mandibular depression.",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-548",
+              "sourceLine": 548
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-280",
+              "sourceLine": 280
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-f2e1af0796",
+      "variants": [
+        {
+          "id": "v-f2e1af0796",
+          "answer": "Nerve to mylohyoid from inferior alveolar nerve (V3).",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-131",
+              "sourceLine": 131
+            }
+          ]
+        },
+        {
+          "id": "v-a2ff4185e1",
+          "answer": "Nerve to mylohyoid from V3.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-425",
+              "sourceLine": 425
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-316",
+              "sourceLine": 316
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-281",
+              "sourceLine": 281
+            }
+          ]
+        },
+        {
+          "id": "v-acc9451c55",
+          "answer": "Nerve to mylohyoid from the inferior alveolar nerve (V3).",
+          "sources": [
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-88",
+              "sourceLine": 88
+            }
+          ]
+        },
+        {
+          "id": "v-372eaed6d0",
+          "answer": "Nerve to mylohyoid (V3).",
+          "sources": [
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-549",
+              "sourceLine": 549
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-924d4b150c",
+      "variants": [
+        {
+          "id": "v-924d4b150c",
+          "answer": "Mylohyoid line of mandible.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-132",
+              "sourceLine": 132
+            },
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-426",
+              "sourceLine": 426
+            },
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-89",
+              "sourceLine": 89
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-317",
+              "sourceLine": 317
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-550",
+              "sourceLine": 550
+            },
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-282",
+              "sourceLine": 282
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-c54de3422d",
+      "variants": [
+        {
+          "id": "v-c54de3422d",
+          "answer": "Median mylohyoid raphe and body of hyoid.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-133",
+              "sourceLine": 133
+            },
+            {
+              "modelId": "deep-face-model-bs8-1",
+              "cardId": "deep-face-model-bs8-1-90",
+              "sourceLine": 90
+            }
+          ]
+        },
+        {
+          "id": "v-9d395b94e2",
+          "answer": "Median raphe and body of hyoid.",
+          "sources": [
+            {
+              "modelId": "coronal-and-mid-sagittal-head-mb20",
+              "cardId": "coronal-and-mid-sagittal-head-mb20-427",
+              "sourceLine": 427
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-318",
+              "sourceLine": 318
+            },
+            {
+              "modelId": "half-head-and-neck-model-bs9",
+              "cardId": "half-head-and-neck-model-bs9-551",
+              "sourceLine": 551
+            }
+          ]
+        },
+        {
+          "id": "v-4593e31344",
+          "answer": "Median raphe and hyoid.",
+          "sources": [
+            {
+              "modelId": "head-and-neck-model-cs17-2",
+              "cardId": "head-and-neck-model-cs17-2-283",
+              "sourceLine": 283
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "coronal-and-mid-sagittal-head-mb20",
+      "section": "Coronal head",
+      "path": [
+        "25"
+      ],
+      "label": "25"
+    },
+    {
+      "modelId": "coronal-and-mid-sagittal-head-mb20",
+      "section": "Other midline structures",
+      "path": [
+        "p"
+      ],
+      "label": "p"
+    },
+    {
+      "modelId": "deep-face-model-bs8-1",
+      "section": "",
+      "path": [
+        "15"
+      ],
+      "label": "15"
+    },
+    {
+      "modelId": "half-head-and-neck-model-bs9",
+      "section": "Other midline structures",
+      "path": [
+        "p"
+      ],
+      "label": "p"
+    },
+    {
+      "modelId": "half-head-and-neck-model-bs9",
+      "section": "Musculature of the head and neck",
+      "path": [
+        "46"
+      ],
+      "label": "46"
+    },
+    {
+      "modelId": "head-and-neck-model-cs17-2",
+      "section": "Musculature of the head and neck",
+      "path": [
+        "46"
+      ],
+      "label": "46"
+    }
+  ]
+}

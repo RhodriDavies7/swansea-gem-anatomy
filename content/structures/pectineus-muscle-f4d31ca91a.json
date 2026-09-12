@@ -1,0 +1,127 @@
+{
+  "id": "pectineus-muscle-f4d31ca91a",
+  "name": "Pectineus muscle",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-717b0a4cc4",
+      "variants": [
+        {
+          "id": "v-717b0a4cc4",
+          "answer": "Pectineus muscle",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-106",
+              "sourceLine": 106
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-3e4b118ae2",
+      "variants": [
+        {
+          "id": "v-3e4b118ae2",
+          "answer": "Adducts and flexes the hip; may assist medial rotation.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-107",
+              "sourceLine": 107
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-33c6302c63",
+      "variants": [
+        {
+          "id": "v-33c6302c63",
+          "answer": "Usually femoral nerve (L2–L3); variable additional obturator or accessory obturator supply.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-108",
+              "sourceLine": 108
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-b6b6a236a9",
+      "variants": [
+        {
+          "id": "v-b6b6a236a9",
+          "answer": "Pecten pubis on superior pubic ramus.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-109",
+              "sourceLine": 109
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-48b1036141",
+      "variants": [
+        {
+          "id": "v-48b1036141",
+          "answer": "Pectineal line of femur, inferior to lesser trochanter.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-110",
+              "sourceLine": 110
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "lower-limb-model-ns10",
+      "section": "Muscles",
+      "path": [
+        "12"
+      ],
+      "label": "12"
+    }
+  ]
+}

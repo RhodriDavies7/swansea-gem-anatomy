@@ -1,0 +1,146 @@
+{
+  "id": "tendons-of-flexor-digitorum-profundus-9956ef338b",
+  "name": "Tendons of flexor digitorum profundus",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Tendons"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Course",
+    "Formation",
+    "Function",
+    "Insertion",
+    "Relations",
+    "Tendon"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-87143ba089",
+      "variants": [
+        {
+          "id": "v-87143ba089",
+          "answer": "Tendons of flexor digitorum profundus",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-259",
+              "sourceLine": 259
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c13b6a1fb1",
+      "question": "Formed by",
+      "preferredVariantId": "v-e5d3df0aff",
+      "variants": [
+        {
+          "id": "v-e5d3df0aff",
+          "answer": "Four distal tendons of flexor digitorum profundus.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-260",
+              "sourceLine": 260
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-77ea2418cc",
+      "variants": [
+        {
+          "id": "v-77ea2418cc",
+          "answer": "Pass through the carpal tunnel deep to FDS tendons and continue through the split FDS tendons within the digital sheaths.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-261",
+              "sourceLine": 261
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-04e2c40d83",
+      "variants": [
+        {
+          "id": "v-04e2c40d83",
+          "answer": "Palmar bases of distal phalanges of digits 2–5.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-262",
+              "sourceLine": 262
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-ecf3caa42c",
+      "variants": [
+        {
+          "id": "v-ecf3caa42c",
+          "answer": "Transmit force to flex the DIP joints; also assist flexion at more proximal joints.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-263",
+              "sourceLine": 263
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-e4c6b8914c",
+      "variants": [
+        {
+          "id": "v-e4c6b8914c",
+          "answer": "Give origin to the lumbricals in the palm.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-264",
+              "sourceLine": 264
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "upper-limb-model-ns15",
+      "section": "Muscles",
+      "path": [
+        "43"
+      ],
+      "label": "43"
+    }
+  ]
+}

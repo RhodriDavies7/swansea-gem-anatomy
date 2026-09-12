@@ -1,0 +1,127 @@
+{
+  "id": "brachioradialis-5518239c73",
+  "name": "Brachioradialis",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Upper limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-0b459de291",
+      "variants": [
+        {
+          "id": "v-0b459de291",
+          "answer": "Brachioradialis",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-117",
+              "sourceLine": 117
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c3cd636a58",
+      "question": "Actions",
+      "preferredVariantId": "v-a54566c04c",
+      "variants": [
+        {
+          "id": "v-a54566c04c",
+          "answer": "Flexes the elbow most effectively with the forearm in mid-pronation; helps return forearm toward neutral from pronation or supination.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-118",
+              "sourceLine": 118
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-65461dd593",
+      "question": "Innervation",
+      "preferredVariantId": "v-cb37310719",
+      "variants": [
+        {
+          "id": "v-cb37310719",
+          "answer": "Radial nerve (C5–C7, mainly C6).",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-119",
+              "sourceLine": 119
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-d8ffcd660b",
+      "variants": [
+        {
+          "id": "v-d8ffcd660b",
+          "answer": "Proximal two-thirds of lateral supracondylar ridge of humerus.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-120",
+              "sourceLine": 120
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6ffaeff164",
+      "question": "Insertion",
+      "preferredVariantId": "v-14c86aac68",
+      "variants": [
+        {
+          "id": "v-14c86aac68",
+          "answer": "Lateral distal radius just proximal to styloid process.",
+          "sources": [
+            {
+              "modelId": "upper-limb-model-ns15",
+              "cardId": "upper-limb-model-ns15-121",
+              "sourceLine": 121
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "upper-limb-model-ns15",
+      "section": "Muscles",
+      "path": [
+        "20"
+      ],
+      "label": "20"
+    }
+  ]
+}

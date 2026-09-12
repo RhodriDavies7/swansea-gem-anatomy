@@ -1,0 +1,285 @@
+{
+  "id": "rectum-3cc6646f20",
+  "name": "Rectum",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Organs"
+  ],
+  "regions": [
+    "Pelvis"
+  ],
+  "systems": [
+    "Reproductive"
+  ],
+  "organs": [],
+  "tags": [
+    "BloodSupply",
+    "Course",
+    "Function",
+    "Lymphatics",
+    "Organ",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-a079b20c3c",
+      "variants": [
+        {
+          "id": "v-a079b20c3c",
+          "answer": "Rectum",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-320",
+              "sourceLine": 320
+            },
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-127",
+              "sourceLine": 127
+            },
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-188",
+              "sourceLine": 188
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-420d746645",
+      "variants": [
+        {
+          "id": "v-420d746645",
+          "answer": "Stores faeces before defecation.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-321",
+              "sourceLine": 321
+            },
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-128",
+              "sourceLine": 128
+            },
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-189",
+              "sourceLine": 189
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-805b9c1637",
+      "variants": [
+        {
+          "id": "v-ec9dd68545",
+          "answer": "Begins at rectosigmoid junction around S3 and continues to anorectal junction.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-322",
+              "sourceLine": 322
+            }
+          ]
+        },
+        {
+          "id": "v-805b9c1637",
+          "answer": "Begins at the rectosigmoid junction around S3 and follows the sacral curve to the anorectal junction.",
+          "sources": [
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-129",
+              "sourceLine": 129
+            },
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-190",
+              "sourceLine": 190
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "curated-bd70bc83d9",
+      "variants": [
+        {
+          "id": "v-02d5d25475",
+          "answer": "Posterior to uterus and vagina; rectouterine pouch lies anteriorly in its upper part.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-323",
+              "sourceLine": 323
+            }
+          ]
+        },
+        {
+          "id": "v-f6656cfc0c",
+          "answer": "Lies posterior to the uterus and vagina; the rectouterine pouch lies between rectum and uterus.",
+          "sources": [
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-130",
+              "sourceLine": 130
+            }
+          ]
+        },
+        {
+          "id": "v-31630c8100",
+          "answer": "In the male, lies posterior to the bladder, seminal vesicles and prostate.",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-191",
+              "sourceLine": 191
+            }
+          ]
+        },
+        {
+          "id": "curated-bd70bc83d9",
+          "answer": "Female: posterior to the uterus and vagina, with the rectouterine pouch above. Male: posterior to the bladder, seminal vesicles and prostate.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-323",
+              "sourceLine": 323
+            },
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-130",
+              "sourceLine": 130
+            },
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-191",
+              "sourceLine": 191
+            }
+          ],
+          "editorial": true
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-a707f7e176",
+      "question": "Blood supply",
+      "preferredVariantId": "v-3dd3d410c3",
+      "variants": [
+        {
+          "id": "v-3dd3d410c3",
+          "answer": "Superior rectal artery with middle/inferior rectal contributions.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-324",
+              "sourceLine": 324
+            }
+          ]
+        },
+        {
+          "id": "v-b93bcf6ae3",
+          "answer": "Superior rectal artery with contributions from middle and inferior rectal arteries.",
+          "sources": [
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-131",
+              "sourceLine": 131
+            },
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-192",
+              "sourceLine": 192
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    },
+    {
+      "id": "f-81a19046b8",
+      "question": "Lymphatic drainage",
+      "preferredVariantId": "v-a71284862d",
+      "variants": [
+        {
+          "id": "v-a71284862d",
+          "answer": "Upper rectum mainly to pararectal and inferior mesenteric nodes; lower rectum also to internal iliac nodes.",
+          "sources": [
+            {
+              "modelId": "female-reproductive-system-model-ms1",
+              "cardId": "female-reproductive-system-model-ms1-132",
+              "sourceLine": 132
+            }
+          ]
+        },
+        {
+          "id": "v-8b488e6a3f",
+          "answer": "Upper rectum drains mainly toward pararectal and inferior mesenteric nodes; lower rectum also drains to internal iliac nodes.",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-193",
+              "sourceLine": 193
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
+      }
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "female-pelvis-model-mo8",
+      "section": "",
+      "path": [
+        "48"
+      ],
+      "label": "48"
+    },
+    {
+      "modelId": "female-reproductive-system-model-ms1",
+      "section": "",
+      "path": [
+        "18"
+      ],
+      "label": "18"
+    },
+    {
+      "modelId": "male-reproductive-system-model-ms2",
+      "section": "",
+      "path": [
+        "20"
+      ],
+      "label": "20"
+    }
+  ]
+}

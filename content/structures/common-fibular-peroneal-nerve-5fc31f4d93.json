@@ -1,0 +1,146 @@
+{
+  "id": "common-fibular-peroneal-nerve-5fc31f4d93",
+  "name": "Common fibular (peroneal) nerve",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Nerves"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [],
+  "tags": [
+    "Course",
+    "Lesion",
+    "Motor",
+    "Nerve",
+    "Roots",
+    "Sensory"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-80db591c97",
+      "variants": [
+        {
+          "id": "v-80db591c97",
+          "answer": "Common fibular (peroneal) nerve",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-479",
+              "sourceLine": 479
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-4d78ec7d11",
+      "question": "Roots",
+      "preferredVariantId": "v-429cb57dab",
+      "variants": [
+        {
+          "id": "v-429cb57dab",
+          "answer": "L4–S2; posterior divisions through sciatic nerve.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-480",
+              "sourceLine": 480
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-d63a99a155",
+      "variants": [
+        {
+          "id": "v-d63a99a155",
+          "answer": "Follows medial border of biceps femoris tendon along lateral popliteal fossa; winds around fibular neck and divides into superficial and deep fibular nerves.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-481",
+              "sourceLine": 481
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c8b6915183",
+      "question": "Motor functions",
+      "preferredVariantId": "v-13f723c9f4",
+      "variants": [
+        {
+          "id": "v-13f723c9f4",
+          "answer": "Through branches: dorsiflexion, toe extension and eversion. Its sciatic component supplies short head of biceps femoris before the usual terminal division.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-482",
+              "sourceLine": 482
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-a453254382",
+      "question": "Sensory functions",
+      "preferredVariantId": "v-51a4044ee3",
+      "variants": [
+        {
+          "id": "v-51a4044ee3",
+          "answer": "Upper lateral leg through lateral sural cutaneous branch; terminal branches supply anterolateral distal leg and most dorsal foot; contributes variably to sural nerve.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-483",
+              "sourceLine": 483
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-bc53d10c57",
+      "question": "Lesion",
+      "preferredVariantId": "v-0848413d1b",
+      "variants": [
+        {
+          "id": "v-0848413d1b",
+          "answer": "Fibular neck injury causes foot drop, weak eversion and dorsal foot sensory loss; inversion is relatively preserved through tibialis posterior, helping distinguish it from an L5 root lesion.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-484",
+              "sourceLine": 484
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "lower-limb-model-ns10",
+      "section": "Nerves",
+      "path": [
+        "65"
+      ],
+      "label": "65"
+    }
+  ]
+}

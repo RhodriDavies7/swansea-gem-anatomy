@@ -1,0 +1,210 @@
+{
+  "id": "fifth-lumbar-vertebra-c5ac0beff9",
+  "name": "Fifth lumbar vertebra",
+  "aliases": [
+    "5th lumbar vertebra"
+  ],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Bones"
+  ],
+  "regions": [
+    "Lower limb",
+    "Pelvis"
+  ],
+  "systems": [
+    "Musculoskeletal",
+    "Reproductive"
+  ],
+  "organs": [],
+  "tags": [
+    "Articulations",
+    "Attachments",
+    "Bone",
+    "Landmarks",
+    "Orientation",
+    "Clinical",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-50dd134d8c",
+      "variants": [
+        {
+          "id": "v-50dd134d8c",
+          "answer": "Fifth lumbar vertebra",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-502",
+              "sourceLine": 502
+            }
+          ]
+        },
+        {
+          "id": "v-4087d2cae8",
+          "answer": "5th lumbar vertebra",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-56",
+              "sourceLine": 56
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-a40bee8d10",
+      "question": "Articulations",
+      "preferredVariantId": "v-ecedc129b2",
+      "variants": [
+        {
+          "id": "v-ecedc129b2",
+          "answer": "L4 superiorly and sacrum inferiorly through intervertebral discs and paired facet joints.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-503",
+              "sourceLine": 503
+            }
+          ]
+        },
+        {
+          "id": "v-203392aba8",
+          "answer": "Articulates superiorly with L4 and inferiorly with the sacrum.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-57",
+              "sourceLine": 57
+            }
+          ]
+        }
+      ],
+      "editorialReview": {
+        "date": "2026-09-11",
+        "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
+      }
+    },
+    {
+      "id": "f-626b6c1d45",
+      "question": "Landmarks",
+      "preferredVariantId": "v-a8120a0451",
+      "variants": [
+        {
+          "id": "v-a8120a0451",
+          "answer": "Large body, pedicles, laminae, short broad spinous process, transverse processes and superior/inferior articular processes.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-504",
+              "sourceLine": 504
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-2389607e0b",
+      "question": "Muscle attachments",
+      "preferredVariantId": "v-ede7d72df5",
+      "variants": [
+        {
+          "id": "v-ede7d72df5",
+          "answer": "Psoas major attaches to body/transverse process; multifidus to spinous process and mammillary region; intertransversarii and other deep back muscles attach to posterior elements.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-505",
+              "sourceLine": 505
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-86e4e38754",
+      "question": "Orientation",
+      "preferredVariantId": "v-c13dc16161",
+      "variants": [
+        {
+          "id": "v-c13dc16161",
+          "answer": "Body faces anteriorly; spinous process posteriorly; superior facets face mainly medially. L5 has a large body adapted to the lumbosacral junction; it is a midline bone.",
+          "sources": [
+            {
+              "modelId": "lower-limb-model-ns10",
+              "cardId": "lower-limb-model-ns10-506",
+              "sourceLine": 506
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-487d8cdc79",
+      "variants": [
+        {
+          "id": "v-487d8cdc79",
+          "answer": "Forms the lumbosacral junction at L5–S1.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-58",
+              "sourceLine": 58
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-b03737e3cd",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-21d7e1a7de",
+      "variants": [
+        {
+          "id": "v-21d7e1a7de",
+          "answer": "Important level for lumbosacral angle and load transmission into the pelvis.",
+          "sources": [
+            {
+              "modelId": "female-pelvis-model-mo8",
+              "cardId": "female-pelvis-model-mo8-59",
+              "sourceLine": 59
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "lower-limb-model-ns10",
+      "section": "Bones",
+      "path": [
+        "68"
+      ],
+      "label": "68"
+    },
+    {
+      "modelId": "female-pelvis-model-mo8",
+      "section": "",
+      "path": [
+        "10"
+      ],
+      "label": "10"
+    }
+  ],
+  "redirectIds": [
+    "5th-lumbar-vertebra-2de61cb512"
+  ]
+}

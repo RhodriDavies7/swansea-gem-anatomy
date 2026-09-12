@@ -1,0 +1,128 @@
+{
+  "id": "anterior-cruciate-ligament-3b621af612",
+  "name": "Anterior cruciate ligament",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Ligaments"
+  ],
+  "regions": [
+    "Lower limb"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Attachments",
+    "Clinical",
+    "Function",
+    "Ligament",
+    "LigamentsAndMenisci",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-b82b5afc01",
+      "variants": [
+        {
+          "id": "v-b82b5afc01",
+          "answer": "Anterior cruciate ligament",
+          "sources": [
+            {
+              "modelId": "knee-joint-model-ns19",
+              "cardId": "knee-joint-model-ns19-51",
+              "sourceLine": 51
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6771ade6e8",
+      "question": "Attachments",
+      "preferredVariantId": "v-79a1bbc3eb",
+      "variants": [
+        {
+          "id": "v-79a1bbc3eb",
+          "answer": "From anterior intercondylar area of tibia to posteromedial aspect of lateral femoral condyle.",
+          "sources": [
+            {
+              "modelId": "knee-joint-model-ns19",
+              "cardId": "knee-joint-model-ns19-52",
+              "sourceLine": 52
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-5eeaa3d1af",
+      "variants": [
+        {
+          "id": "v-5eeaa3d1af",
+          "answer": "Prevents anterior translation of tibia relative to femur and limits hyperextension/rotation.",
+          "sources": [
+            {
+              "modelId": "knee-joint-model-ns19",
+              "cardId": "knee-joint-model-ns19-53",
+              "sourceLine": 53
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-0ac4e24b01",
+      "variants": [
+        {
+          "id": "v-0ac4e24b01",
+          "answer": "Intracapsular but extrasynovial.",
+          "sources": [
+            {
+              "modelId": "knee-joint-model-ns19",
+              "cardId": "knee-joint-model-ns19-54",
+              "sourceLine": 54
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-b03737e3cd",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-c9524785b9",
+      "variants": [
+        {
+          "id": "v-c9524785b9",
+          "answer": "Rupture may cause a positive Lachman/anterior drawer test and rotational instability.",
+          "sources": [
+            {
+              "modelId": "knee-joint-model-ns19",
+              "cardId": "knee-joint-model-ns19-55",
+              "sourceLine": 55
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "knee-joint-model-ns19",
+      "section": "Ligaments and menisci",
+      "path": [
+        "8"
+      ],
+      "label": "8"
+    }
+  ]
+}

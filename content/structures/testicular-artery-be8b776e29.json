@@ -1,0 +1,128 @@
+{
+  "id": "testicular-artery-be8b776e29",
+  "name": "Testicular artery",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Arteries"
+  ],
+  "regions": [
+    "Pelvis"
+  ],
+  "systems": [
+    "Cardiovascular",
+    "Reproductive"
+  ],
+  "organs": [],
+  "tags": [
+    "Artery",
+    "Course",
+    "Origin",
+    "Relations",
+    "Supply"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9d2c706308",
+      "question": "Identification",
+      "preferredVariantId": "v-2f0794709d",
+      "variants": [
+        {
+          "id": "v-2f0794709d",
+          "answer": "Testicular artery",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-174",
+              "sourceLine": 174
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-44ab85a252",
+      "question": "Origin",
+      "preferredVariantId": "v-319f27bb9e",
+      "variants": [
+        {
+          "id": "v-319f27bb9e",
+          "answer": "Abdominal aorta, typically below the renal arteries.",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-175",
+              "sourceLine": 175
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d82b56cad9",
+      "question": "Course",
+      "preferredVariantId": "v-92d546aff2",
+      "variants": [
+        {
+          "id": "v-92d546aff2",
+          "answer": "Descends retroperitoneally, passes through the deep inguinal ring and inguinal canal within the spermatic cord to the testis.",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-176",
+              "sourceLine": 176
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-222db0fc1c",
+      "question": "Supply",
+      "preferredVariantId": "v-5210008932",
+      "variants": [
+        {
+          "id": "v-5210008932",
+          "answer": "Testis and epididymis.",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-177",
+              "sourceLine": 177
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-eea9716c77",
+      "variants": [
+        {
+          "id": "v-eea9716c77",
+          "answer": "Closely associated with the pampiniform plexus in the spermatic cord.",
+          "sources": [
+            {
+              "modelId": "male-reproductive-system-model-ms2",
+              "cardId": "male-reproductive-system-model-ms2-178",
+              "sourceLine": 178
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "male-reproductive-system-model-ms2",
+      "section": "",
+      "path": [
+        "18"
+      ],
+      "label": "18"
+    }
+  ]
+}
