@@ -5,8 +5,8 @@ function draw(){picture.style.transform=`translate(${x}px,${y}px) scale(${scale}
 function reset(){scale=1;x=y=0;draw();}
 function zoom(factor){scale=Math.min(6,Math.max(1,scale*factor));if(scale===1){x=0;y=0;}draw();}
 function open(img){origin=img;picture.replaceChildren();const copy=document.createElement('img');copy.src=img.currentSrc||img.src;copy.alt=img.alt;copy.draggable=false;picture.append(copy);const marker=img.parentElement.querySelector('.image-marker');if(marker)picture.append(marker.cloneNode(true));reset();dialog.showModal();document.body.classList.add('viewer-open');}
-function eligible(img){return img instanceof HTMLImageElement&&!img.closest('.image-viewer')&&!img.closest('#preview')&&img.naturalWidth>0;}
-function prepare(){document.querySelectorAll('main img').forEach(img=>{if(img.closest('#preview')||img.dataset.zoomReady)return;img.dataset.zoomReady='true';img.tabIndex=0;img.setAttribute('role','button');img.setAttribute('aria-label','Enlarge image: '+(img.alt||'anatomy image'));img.title='Click to enlarge';});}
+function eligible(img){return img instanceof HTMLImageElement&&!img.closest('.image-viewer')&&!img.closest('#preview, .structure-thumbnails')&&img.naturalWidth>0;}
+function prepare(){document.querySelectorAll('main img').forEach(img=>{if(img.closest('#preview, .structure-thumbnails')||img.dataset.zoomReady)return;img.dataset.zoomReady='true';img.tabIndex=0;img.setAttribute('role','button');img.setAttribute('aria-label','Enlarge image: '+(img.alt||'anatomy image'));img.title='Click to enlarge';});}
 new MutationObserver(prepare).observe(document.querySelector('main')||document.body,{childList:true,subtree:true});prepare();
 document.addEventListener('click',event=>{if(eligible(event.target)&&event.target.closest('main')){event.preventDefault();event.stopImmediatePropagation();open(event.target);}},true);
 document.addEventListener('keydown',event=>{if(eligible(event.target)&&['Enter',' '].includes(event.key)){event.preventDefault();event.stopImmediatePropagation();open(event.target);}},true);

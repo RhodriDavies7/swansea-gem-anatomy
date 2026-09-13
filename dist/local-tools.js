@@ -1,0 +1,1 @@
+if(['localhost','127.0.0.1'].includes(location.hostname)){const footer=document.createElement('footer');footer.className='local-tools';footer.innerHTML='<span>Local workspace</span><a class="icon-link" href="./manage-images"><span aria-hidden="true">▧</span> Manage images</a>';document.body.append(footer);}

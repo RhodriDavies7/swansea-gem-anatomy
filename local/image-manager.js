@@ -1,8 +1,10 @@
+import {enhanceFilters} from '/filter-menu.js';
 const $=s=>document.querySelector(s),escape=s=>String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const catalog=await fetch('./data/catalog.json').then(r=>r.json());let selected=null,file=null,marker=null,url=null;
 const models=await fetch('./data/models.json').then(r=>r.json());
-function modelChoices(){const ids=new Set(selected?.occurrences.map(o=>o.modelId)||[]);const choices=models.filter(m=>ids.has(m.id));$('#image-model').innerHTML='<option value="">General image / no specific model</option>'+choices.map(m=>`<option value="${m.id}">${escape(m.name)}</option>`).join('');$('#image-model').disabled=!selected;if(choices.some(m=>m.id===$('#search-model').value))$('#image-model').value=$('#search-model').value;else if(choices.length===1)$('#image-model').value=choices[0].id;}
+function modelChoices(){const ids=new Set(selected?.occurrences.map(o=>o.modelId)||[]);const choices=models.filter(m=>ids.has(m.id));$('#image-model').innerHTML='<option value="">General image / no specific model</option>'+choices.map(m=>`<option value="${m.id}">${escape(m.name)}</option>`).join('');$('#image-model').disabled=!selected;if(choices.some(m=>m.id===$('#search-model').value))$('#image-model').value=$('#search-model').value;else if(choices.length===1)$('#image-model').value=choices[0].id;enhanceFilters(document.querySelector('#image-form'));}
 $('#search-model').innerHTML='<option value="">All models</option>'+models.map(m=>`<option value="${m.id}">${escape(m.name)}</option>`).join('');
+enhanceFilters(document.querySelector('#image-form'));
 function results(){
  const q=$('#structure-search').value.toLowerCase().trim(),modelId=$('#search-model').value;
  const labelQuery=q.replace(/^(?:label\s*|#)/,'').replace(/\s+/g,'');

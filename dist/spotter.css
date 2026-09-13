@@ -41,3 +41,11 @@
  .image-admin .check-label{align-items:flex-start;line-height:1.6;gap:12px}
  .image-admin input[type=checkbox]{flex-shrink:0;margin-top:5px}
 }
+.exam-filters{padding:24px;background:white;border:1px solid #d9e3eb;border-radius:18px;margin:24px 0}
+.exam-filters h2{font-size:1rem;margin:0 0 14px}.exam-filters h2:not(:first-child){margin-top:26px}
+.exam-filters input[type=search]{width:100%;padding:12px;border:1px solid #d9e3eb;border-radius:10px;font-size:16px;margin-bottom:12px}
+.exam-filters p{font-size:.85rem;margin:16px 0}.exam-tags{max-height:150px}.exam-filters button[hidden]{display:none}
+.question-feedback{margin-top:22px;padding:18px;background:#eef5ff;border-radius:12px;line-height:1.6}.question-feedback p{white-space:pre-wrap;margin-bottom:0}
+.spotter-settings .filter-picker{flex:1;min-width:180px}.image-admin .filter-picker button{justify-self:stretch}.image-admin .filter-menu-options button{width:100%}
+@media(max-width:620px){.exam-filters{padding:20px 16px}.spotter-settings .filter-picker{min-width:0}.local-tools{margin:24px 16px;padding:20px 0}}
+.exam-models{max-height:240px}.exam-models .chip{text-align:left;border-radius:12px}.exam-filters .tag-mode-row{max-width:420px}.exam-filters h2+p{margin-top:0}

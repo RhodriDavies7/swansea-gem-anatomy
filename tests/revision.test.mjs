@@ -29,3 +29,9 @@ test('nested labels and repeated section numbers keep correct structure context'
  const ear=models.find(m=>m.name==='Ear (Model DS3)');assert.ok(ear.cards.some(c=>c.path.join('/')==='7/a'&&c.label==='7a'));
  const tongue=models.find(m=>m.name==='Larynx and Tongue (Model GS4)');for(const section of ['Larynx','Tongue']){const card=tongue.cards.find(c=>c.section===section&&c.label==='1'&&!c.tags.includes('Identification'));assert.ok(card);const expected=tongue.cards.find(c=>c.section===section&&c.label==='1'&&c.tags.includes('Identification')).answer;assert.equal(structureFor(card,tongue.cards),expected);}
 });
+
+test('excluded tags remove any matching card without changing identification mode',()=>{
+ const cards=[{tags:['Identification','Nerve']},{tags:['Actions','Muscle']},{tags:['Identification','Bone']}];
+ assert.deepEqual(filterCards(cards,'all',['Nerve','Muscle'],'all','exclude'),[cards[2]]);
+ assert.deepEqual(filterCards(cards,'identification',[],'any','exclude'),[cards[0],cards[2]]);
+});

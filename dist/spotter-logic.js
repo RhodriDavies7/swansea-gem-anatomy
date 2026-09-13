@@ -1,12 +1,12 @@
 import {factVariants} from './data.js';
 const prompts={Actions:'What is the main action of the marked structure?',Innervation:'What is the innervation of the marked structure?',Function:'What is the main function of the marked structure?',Origin:'What is the origin of the marked structure?',Insertion:'Where does the marked structure insert?','Blood supply':'What is the blood supply of the marked structure?','Sensory functions':'What sensory functions does the marked nerve carry?','Motor functions':'What does the marked nerve supply?'};
-export function spotterPool(catalog,region=''){
- return catalog.structures.filter(s=>s.kind!=='model-note'&&(!region||s.regions.includes(region))).flatMap(s=>{
-  const images=s.imageIds.map(id=>catalog.imagesById.get(id)).filter(i=>i?.quizReady&&i.quizSrc&&i.quizStructureId===s.id);
+export function spotterPool(catalog,region='',{tags=[],topics=[],tagEffect='include',topicEffect='include',models=[],modelEffect='include'}={}){
+ return catalog.structures.filter(s=>s.kind!=='model-note'&&(!region||s.regions.includes(region))&&(!tags.length||(tagEffect==='exclude'?!tags.some(t=>s.tags.includes(t)):tags.some(t=>s.tags.includes(t))))).flatMap(s=>{
+  const images=s.imageIds.map(id=>catalog.imagesById.get(id)).filter(i=>i?.quizReady&&i.quizSrc&&i.quizStructureId===s.id&&(!models.length||(modelEffect==='exclude'?!models.includes(i.modelId):models.includes(i.modelId))));
   if(!images.length)return [];
   const questions=[{topic:'Identification',question:'Identify the marked structure.',answer:s.name}];
   for(const f of s.facts)if(prompts[f.question]&&factVariants(f).length===1)questions.push({topic:f.question,question:prompts[f.question],answer:factVariants(f)[0].answer});
-  return [{structureId:s.id,name:s.name,images,questions}];
+  const selected=topics.length?questions.filter(q=>topicEffect==='exclude'?!topics.includes(q.topic):topics.includes(q.topic)):questions;return selected.length?[{structureId:s.id,name:s.name,images,questions:selected}]:[];
  });
 }
 function shuffle(xs,random){const a=[...xs];for(let i=a.length-1;i>0;i--){const j=Math.floor(random()*(i+1));[a[i],a[j]]=[a[j],a[i]];}return a;}

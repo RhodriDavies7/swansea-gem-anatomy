@@ -1,5 +1,5 @@
-export function filterCards(cards, mode, tags, match) {
- return cards.filter(c => (mode !== 'identification' || c.tags.includes('Identification')) && (!tags.length || (match === 'all' ? tags.every(t => c.tags.includes(t)) : tags.some(t => c.tags.includes(t)))));
+export function filterCards(cards, mode, tags, match, effect='include') {
+ return cards.filter(c => (mode !== 'identification' || c.tags.includes('Identification')) && (!tags.length || (effect==='exclude' ? !tags.some(t=>c.tags.includes(t)) : (match === 'all' ? tags.every(t => c.tags.includes(t)) : tags.some(t => c.tags.includes(t))))));
 }
 export function makeRun(cards, random = false, rng = Math.random) {
  const run = [...cards];

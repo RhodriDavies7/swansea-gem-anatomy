@@ -28,3 +28,16 @@
 .author-credit{font-size:.875rem;color:var(--muted);white-space:nowrap}header{gap:16px}@media(max-width:620px){header{flex-wrap:wrap;height:auto;min-height:72px;padding-top:12px;padding-bottom:12px;gap:8px 14px}.author-credit{font-size:.8rem;margin-left:auto}}
 
 .model[hidden]{display:none}
+.tag-mode-row{max-width:340px;margin-bottom:16px}.tag-mode-row[hidden]{display:none}
+.chips .chip{min-height:40px;padding:9px 13px;line-height:1.4;border-radius:100px}
+.tag-search,.exam-filters input[type=search]{border:1px solid var(--line);border-radius:10px;padding:12px;font-size:16px;background:#f8fafc}
+.advanced-options>summary{cursor:pointer;font-size:.95rem;font-weight:600;line-height:1.5;color:var(--ink);list-style:none;display:flex;align-items:center;flex-wrap:wrap;gap:10px}
+.advanced-options>summary::-webkit-details-marker{display:none}
+.advanced-options>summary:before{content:'+';display:grid;place-items:center;width:24px;height:24px;border-radius:6px;background:#edf2f8;color:#526b85;font-size:1.2rem}
+.advanced-options[open]>summary:before{content:'−'}
+.advanced-options>summary span{font-size:.8rem;font-weight:400;color:var(--muted)}
+.advanced-options>section{margin-top:24px}
+.advanced-options>summary:focus-visible{outline:2px solid #2563eb;outline-offset:6px;border-radius:4px}
+/* Draw the toggle geometrically, avoiding font baseline offsets. */
+.advanced-options>summary:before{content:'';flex:0 0 24px;width:24px;height:24px;padding:0;background-color:#edf2f8;background-image:linear-gradient(#526b85,#526b85),linear-gradient(#526b85,#526b85);background-size:12px 2px,2px 12px;background-position:center;background-repeat:no-repeat}
+.advanced-options[open]>summary:before{content:'';background-image:linear-gradient(#526b85,#526b85);background-size:12px 2px}
