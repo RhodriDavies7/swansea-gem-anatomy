@@ -79,3 +79,6 @@
 .filter-trigger.is-selected,.filter-trigger[aria-expanded=true]{background:#fff;border-color:#ccd9e6;color:var(--ink);box-shadow:none}
 .filter-menu-options button[aria-pressed=true]{background:#f4f6f8;color:var(--ink);font-weight:600}
 .knowledge-filters select:has(option:checked:not([value=""])){background-color:#fff;border-color:#ccd9e6;color:var(--ink)}
+
+/* Keep target coordinates relative to the photo, without letterboxing. */
+.structure-figure .marked-image img{width:auto;height:auto;max-width:100%;max-height:330px;object-fit:contain}@media(max-width:600px){.structure-figure .marked-image img{max-height:250px}}

@@ -28,20 +28,6 @@
     "quizStructureId": "gluteus-medius-muscle-285cf72971"
   },
   {
-    "id": "img-3514e3674ed1",
-    "src": "images/structures/eb3bae3eb83badec.jpg",
-    "alt": "Medial rectus muscle — Eyeball with Part of Orbit (Model CS2)",
-    "caption": "",
-    "credit": "Local image",
-    "license": "",
-    "sourceUrl": "",
-    "quizReady": true,
-    "modelId": "eyeball-with-part-of-orbit-model-cs2",
-    "quizSrc": "images/structures/eb3bae3eb83badec.jpg",
-    "quizAlt": "Identify the pinned structure.",
-    "quizStructureId": "medial-rectus-muscle-354cb69b18"
-  },
-  {
     "id": "img-ecd28c697223",
     "src": "images/structures/df881103f826441e.jpg",
     "alt": "Flexor digitorum superficialis — Upper Limb (Model NS15)",
@@ -406,8 +392,764 @@
     "quizStructureId": "cervix-of-the-uterus-807326cb21"
   },
   {
-    "id": "img-df6842250728",
-    "src": "images/structures/25ad1c33ca6182dc.jpg",
+    "id": "img-c4203da24f1e",
+    "src": "images/structures/0b930cb95dfcd26d.jpg",
+    "alt": "Scapula — Deep Shoulder (Model NS17)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "deep-shoulder-model-ns17",
+    "quizSrc": "images/structures/0b930cb95dfcd26d.jpg",
+    "quizAlt": "Identify the structure marked A.",
+    "quizStructureId": "scapula-98b410b873",
+    "quizMarker": {
+      "x": 0.6454545454545455,
+      "y": 0.47642045454545456
+    }
+  },
+  {
+    "id": "img-77bb82d3df1c",
+    "src": "images/structures/0b930cb95dfcd26d.jpg",
+    "alt": "Acromion (of scapula) — Deep Shoulder (Model NS17)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "deep-shoulder-model-ns17",
+    "quizSrc": "images/structures/0b930cb95dfcd26d.jpg",
+    "quizAlt": "Identify the structure marked A.",
+    "quizStructureId": "acromion-of-scapula-0455a0a9bf",
+    "quizMarker": {
+      "x": 0.398989898989899,
+      "y": 0.2703598484848485
+    }
+  },
+  {
+    "id": "img-4494e2ee9af4",
+    "src": "images/structures/0b930cb95dfcd26d.jpg",
+    "alt": "Spine of scapula — Deep Shoulder (Model NS17)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "deep-shoulder-model-ns17",
+    "quizSrc": "images/structures/0b930cb95dfcd26d.jpg",
+    "quizAlt": "Identify the structure marked A.",
+    "quizStructureId": "spine-of-scapula-7780c29880",
+    "quizMarker": {
+      "x": 0.6414141414141414,
+      "y": 0.3521780303030303
+    }
+  },
+  {
+    "id": "img-f28bbac70184",
+    "src": "images/structures/705f4427dfef9d64.jpg",
+    "alt": "Coracoid process (of scapula) — Deep Shoulder (Model NS17)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "deep-shoulder-model-ns17",
+    "quizSrc": "images/structures/705f4427dfef9d64.jpg",
+    "quizAlt": "Identify the structure marked A.",
+    "quizStructureId": "coracoid-process-of-scapula-e83c5a025f",
+    "quizMarker": {
+      "x": 0.5161616161616162,
+      "y": 0.36581439393939397
+    }
+  },
+  {
+    "id": "img-3016b58eca94",
+    "src": "images/structures/50b3d79e76040519.jpg",
+    "alt": "Clavicle — Deep Shoulder (Model NS17)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "deep-shoulder-model-ns17",
+    "quizSrc": "images/structures/50b3d79e76040519.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "clavicle-75d5b7512b",
+    "quizMarker": {
+      "x": 0.5968253968253968,
+      "y": 0.29972098214285714
+    }
+  },
+  {
+    "id": "img-e2ed1addd516",
+    "src": "images/structures/705f4427dfef9d64.jpg",
+    "alt": "Humerus — Deep Shoulder (Model NS17)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "deep-shoulder-model-ns17",
+    "quizSrc": "images/structures/705f4427dfef9d64.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "humerus-dd0363a2b6",
+    "quizMarker": {
+      "x": 0.707936507936508,
+      "y": 0.6044828869047619
+    }
+  },
+  {
+    "id": "img-aea822a4df63",
+    "src": "images/structures/b31c3432762387b7.jpg",
+    "alt": "Glenohumeral ligament (thickening of joint capsule) — Deep Shoulder (Model NS17)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "deep-shoulder-model-ns17",
+    "quizSrc": "images/structures/b31c3432762387b7.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "glenohumeral-ligament-thickening-of-joint-capsule-aba5c8a2be",
+    "quizMarker": {
+      "x": 0.49523809523809526,
+      "y": 0.3997209821428571
+    }
+  },
+  {
+    "id": "img-594a79044f5e",
+    "src": "images/structures/705f4427dfef9d64.jpg",
+    "alt": "Coracohumeral ligament — Deep Shoulder (Model NS17)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "deep-shoulder-model-ns17",
+    "quizSrc": "images/structures/705f4427dfef9d64.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "coracohumeral-ligament-b3a5fb76fa",
+    "quizMarker": {
+      "x": 0.5619047619047619,
+      "y": 0.3437686011904762
+    }
+  },
+  {
+    "id": "img-8085ff6bf11e",
+    "src": "images/structures/705f4427dfef9d64.jpg",
+    "alt": "Coraco-acromial ligament — Deep Shoulder (Model NS17)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "deep-shoulder-model-ns17",
+    "quizSrc": "images/structures/705f4427dfef9d64.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "coraco-acromial-ligament-b0c4d00029",
+    "quizMarker": {
+      "x": 0.5333333333333333,
+      "y": 0.32114955357142855
+    }
+  },
+  {
+    "id": "img-5eb8c642f277",
+    "src": "images/structures/b31c3432762387b7.jpg",
+    "alt": "Conoid part of coracoclavicular ligament — Deep Shoulder (Model NS17)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "deep-shoulder-model-ns17",
+    "quizSrc": "images/structures/b31c3432762387b7.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "conoid-part-of-coracoclavicular-ligament-bbabc48f16",
+    "quizMarker": {
+      "x": 0.47619047619047616,
+      "y": 0.32591145833333335
+    }
+  },
+  {
+    "id": "img-759310b1066c",
+    "src": "images/structures/b31c3432762387b7.jpg",
+    "alt": "Trapezoid part of coracoclavicular ligament — Deep Shoulder (Model NS17)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "deep-shoulder-model-ns17",
+    "quizSrc": "images/structures/b31c3432762387b7.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "trapezoid-part-of-coracoclavicular-ligament-4a40904a57",
+    "quizMarker": {
+      "x": 0.5174603174603175,
+      "y": 0.3044828869047619
+    }
+  },
+  {
+    "id": "img-e0b984ca3a39",
+    "src": "images/structures/705f4427dfef9d64.jpg",
+    "alt": "Subscapularis muscle — Deep Shoulder (Model NS17)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "deep-shoulder-model-ns17",
+    "quizSrc": "images/structures/705f4427dfef9d64.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "subscapularis-muscle-17bbb8c48d",
+    "quizMarker": {
+      "x": 0.546031746031746,
+      "y": 0.43662574404761906
+    }
+  },
+  {
+    "id": "img-019cd5efe4f0",
+    "src": "images/structures/705f4427dfef9d64.jpg",
+    "alt": "Long head of biceps brachii — Deep Shoulder (Model NS17)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "deep-shoulder-model-ns17",
+    "quizSrc": "images/structures/705f4427dfef9d64.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "long-head-of-biceps-brachii-06a2e74bfb",
+    "quizMarker": {
+      "x": 0.6825396825396826,
+      "y": 0.5401971726190476
+    }
+  },
+  {
+    "id": "img-8f790bca2f7d",
+    "src": "images/structures/50b3d79e76040519.jpg",
+    "alt": "Supraspinatus muscle — Deep Shoulder (Model NS17)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "deep-shoulder-model-ns17",
+    "quizSrc": "images/structures/50b3d79e76040519.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "supraspinatus-muscle-d9969a6f97",
+    "quizMarker": {
+      "x": 0.2984126984126984,
+      "y": 0.4544828869047619
+    }
+  },
+  {
+    "id": "img-be903a300eb8",
+    "src": "images/structures/0b930cb95dfcd26d.jpg",
+    "alt": "Infraspinatus muscle — Deep Shoulder (Model NS17)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "deep-shoulder-model-ns17",
+    "quizSrc": "images/structures/0b930cb95dfcd26d.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "infraspinatus-muscle-a97d61f7d7",
+    "quizMarker": {
+      "x": 0.3873015873015873,
+      "y": 0.35448288690476193
+    }
+  },
+  {
+    "id": "img-aa4d151906b7",
+    "src": "images/structures/705f4427dfef9d64.jpg",
+    "alt": "Subacromial bursa — Deep Shoulder (Model NS17)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "deep-shoulder-model-ns17",
+    "quizSrc": "images/structures/705f4427dfef9d64.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "subacromial-bursa-c0ce72df7f",
+    "quizMarker": {
+      "x": 0.6476190476190476,
+      "y": 0.3449590773809524
+    }
+  },
+  {
+    "id": "img-f59ba1282768",
+    "src": "images/structures/705f4427dfef9d64.jpg",
+    "alt": "Subcoracoid bursa — Deep Shoulder (Model NS17)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "deep-shoulder-model-ns17",
+    "quizSrc": "images/structures/705f4427dfef9d64.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "subcoracoid-bursa-81a82c5f13",
+    "quizMarker": {
+      "x": 0.5682539682539682,
+      "y": 0.37472098214285715
+    }
+  },
+  {
+    "id": "img-1f6806f5f08c",
+    "src": "images/structures/b31c3432762387b7.jpg",
+    "alt": "Subcoracoid bursa — Deep Shoulder (Model NS17)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "deep-shoulder-model-ns17",
+    "quizSrc": "images/structures/b31c3432762387b7.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "subcoracoid-bursa-81a82c5f13",
+    "quizMarker": {
+      "x": 0.5333333333333333,
+      "y": 0.4513764880952381
+    }
+  },
+  {
+    "id": "img-f34f6a292cc8",
+    "src": "images/structures/3a5204e0ffdca96e.jpg",
+    "alt": "Superior rectus muscle — Eyeball with Part of Orbit (Model CS2)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "eyeball-with-part-of-orbit-model-cs2",
+    "quizSrc": "images/structures/3a5204e0ffdca96e.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "superior-rectus-muscle-e0f2474a9f",
+    "quizMarker": {
+      "x": 0.49523809523809526,
+      "y": 0.37353050595238096
+    }
+  },
+  {
+    "id": "img-e49f1f5e8cd6",
+    "src": "images/structures/3a5204e0ffdca96e.jpg",
+    "alt": "Lateral rectus muscle — Eyeball with Part of Orbit (Model CS2)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "eyeball-with-part-of-orbit-model-cs2",
+    "quizSrc": "images/structures/3a5204e0ffdca96e.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "lateral-rectus-muscle-acf9b1ece3",
+    "quizMarker": {
+      "x": 0.36507936507936506,
+      "y": 0.5330543154761904
+    }
+  },
+  {
+    "id": "img-0e4f5a61a22a",
+    "src": "images/structures/3a5204e0ffdca96e.jpg",
+    "alt": "Lacrimal sac — Eyeball with Part of Orbit (Model CS2)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "eyeball-with-part-of-orbit-model-cs2",
+    "quizSrc": "images/structures/3a5204e0ffdca96e.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "lacrimal-sac-666b8cc828",
+    "quizMarker": {
+      "x": 0.7142857142857143,
+      "y": 0.49853050595238096
+    }
+  },
+  {
+    "id": "img-2852095fde9b",
+    "src": "images/structures/3a5204e0ffdca96e.jpg",
+    "alt": "Superior part of the lacrimal sac — Eyeball with Part of Orbit (Model CS2)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "eyeball-with-part-of-orbit-model-cs2",
+    "quizSrc": "images/structures/3a5204e0ffdca96e.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "superior-part-of-the-lacrimal-sac-3d3681184e",
+    "quizMarker": {
+      "x": 0.7206349206349206,
+      "y": 0.45851934523809523
+    }
+  },
+  {
+    "id": "img-6d5d7e2a2453",
+    "src": "images/structures/ef3ae9572818ef77.jpg",
+    "alt": "Medial rectus muscle — Eyeball with Part of Orbit (Model CS2)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "eyeball-with-part-of-orbit-model-cs2",
+    "quizSrc": "images/structures/ef3ae9572818ef77.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "medial-rectus-muscle-354cb69b18",
+    "quizMarker": {
+      "x": 0.6349206349206349,
+      "y": 0.49972098214285715
+    }
+  },
+  {
+    "id": "img-c4b2f0fb78c4",
+    "src": "images/structures/ef3ae9572818ef77.jpg",
+    "alt": "Sclera — Eyeball with Part of Orbit (Model CS2)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "eyeball-with-part-of-orbit-model-cs2",
+    "quizSrc": "images/structures/ef3ae9572818ef77.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "sclera-2368501218",
+    "quizMarker": {
+      "x": 0.5238095238095238,
+      "y": 0.4151971726190476
+    }
+  },
+  {
+    "id": "img-e6cfc6dcc0ce",
+    "src": "images/structures/7687631ba5c500d1.jpg",
+    "alt": "Inferior rectus muscle — Eyeball with Part of Orbit (Model CS2)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "eyeball-with-part-of-orbit-model-cs2",
+    "quizSrc": "images/structures/7687631ba5c500d1.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "inferior-rectus-muscle-25e90e8a00",
+    "quizMarker": {
+      "x": 0.4380952380952381,
+      "y": 0.6271019345238096
+    }
+  },
+  {
+    "id": "img-8243f86e7e3b",
+    "src": "images/structures/7687631ba5c500d1.jpg",
+    "alt": "Superior oblique muscle — Eyeball with Part of Orbit (Model CS2)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "eyeball-with-part-of-orbit-model-cs2",
+    "quizSrc": "images/structures/7687631ba5c500d1.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "superior-oblique-muscle-db4707e722",
+    "quizMarker": {
+      "x": 0.6698412698412698,
+      "y": 0.36162574404761905
+    }
+  },
+  {
+    "id": "img-3ea464f5db9f",
+    "src": "images/structures/7687631ba5c500d1.jpg",
+    "alt": "Inferior oblique muscle — Eyeball with Part of Orbit (Model CS2)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "eyeball-with-part-of-orbit-model-cs2",
+    "quizSrc": "images/structures/7687631ba5c500d1.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "inferior-oblique-muscle-ea21fa09e3",
+    "quizMarker": {
+      "x": 0.726984126984127,
+      "y": 0.6235305059523809
+    }
+  },
+  {
+    "id": "img-aaa12179a290",
+    "src": "images/structures/11f46379997b45e6.jpg",
+    "alt": "Cornea — Eyeball with Part of Orbit (Model CS2)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "eyeball-with-part-of-orbit-model-cs2",
+    "quizSrc": "images/structures/11f46379997b45e6.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "cornea-a651fd5ac2",
+    "quizMarker": {
+      "x": 0.6,
+      "y": 0.4401971726190476
+    }
+  },
+  {
+    "id": "img-86373db34ccc",
+    "src": "images/structures/6aa7ca6232b4c126.jpg",
+    "alt": "Iris — Eyeball with Part of Orbit (Model CS2)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "eyeball-with-part-of-orbit-model-cs2",
+    "quizSrc": "images/structures/6aa7ca6232b4c126.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "iris-a728d5db2d",
+    "quizMarker": {
+      "x": 0.5238095238095238,
+      "y": 0.43543526785714287
+    }
+  },
+  {
+    "id": "img-9b2623e7c709",
+    "src": "images/structures/6aa7ca6232b4c126.jpg",
+    "alt": "Ciliary muscle — Eyeball with Part of Orbit (Model CS2)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "eyeball-with-part-of-orbit-model-cs2",
+    "quizSrc": "images/structures/6aa7ca6232b4c126.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "ciliary-muscle-1584f2ae51",
+    "quizMarker": {
+      "x": 0.5333333333333333,
+      "y": 0.3532924107142857
+    }
+  },
+  {
+    "id": "img-c57eda89e5a9",
+    "src": "images/structures/62a4ec5e3dc9dfb1.jpg",
+    "alt": "Lens — Eyeball with Part of Orbit (Model CS2)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "eyeball-with-part-of-orbit-model-cs2",
+    "quizSrc": "images/structures/62a4ec5e3dc9dfb1.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "lens-e306b65a3b",
+    "quizMarker": {
+      "x": 0.38412698412698415,
+      "y": 0.45924479166666665
+    }
+  },
+  {
+    "id": "img-594075fb4b68",
+    "src": "images/structures/07e252dbbf27e9b8.jpg",
+    "alt": "Retina — Eyeball with Part of Orbit (Model CS2)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "eyeball-with-part-of-orbit-model-cs2",
+    "quizSrc": "images/structures/07e252dbbf27e9b8.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "retina-5fd9d0f76d",
+    "quizMarker": {
+      "x": 0.6507936507936508,
+      "y": 0.6080543154761905
+    }
+  },
+  {
+    "id": "img-a382534f0507",
+    "src": "images/structures/07e252dbbf27e9b8.jpg",
+    "alt": "Macula — Eyeball with Part of Orbit (Model CS2)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "eyeball-with-part-of-orbit-model-cs2",
+    "quizSrc": "images/structures/07e252dbbf27e9b8.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "macula-fac6753f54",
+    "quizMarker": {
+      "x": 0.44761904761904764,
+      "y": 0.47114955357142857
+    }
+  },
+  {
+    "id": "img-c03509783e00",
+    "src": "images/structures/07e252dbbf27e9b8.jpg",
+    "alt": "Retinal artery — Eyeball with Part of Orbit (Model CS2)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "eyeball-with-part-of-orbit-model-cs2",
+    "quizSrc": "images/structures/07e252dbbf27e9b8.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "retinal-artery-62aa42cd97",
+    "quizMarker": {
+      "x": 0.4888888888888889,
+      "y": 0.6306733630952381
+    }
+  },
+  {
+    "id": "img-d10ee5d368ec",
+    "src": "images/structures/07e252dbbf27e9b8.jpg",
+    "alt": "Retinal vein — Eyeball with Part of Orbit (Model CS2)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "eyeball-with-part-of-orbit-model-cs2",
+    "quizSrc": "images/structures/07e252dbbf27e9b8.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "retinal-vein-ae39773847",
+    "quizMarker": {
+      "x": 0.4857142857142857,
+      "y": 0.6097098214285714
+    }
+  },
+  {
+    "id": "img-56eee2cde39b",
+    "src": "images/structures/9b31afb3072e1682.jpg",
+    "alt": "Femur — Knee Joint (Model NS19)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "knee-joint-model-ns19",
+    "quizSrc": "images/structures/9b31afb3072e1682.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "femur-28d8588aa4",
+    "quizMarker": {
+      "x": 0.5111111111111111,
+      "y": 0.32114955357142855
+    }
+  },
+  {
+    "id": "img-03d4207b65b3",
+    "src": "images/structures/9b31afb3072e1682.jpg",
+    "alt": "Patella — Knee Joint (Model NS19)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "knee-joint-model-ns19",
+    "quizSrc": "images/structures/9b31afb3072e1682.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "patella-28eb76a5e7",
+    "quizMarker": {
+      "x": 0.5142857142857142,
+      "y": 0.5235305059523809
+    }
+  },
+  {
+    "id": "img-0131fed9aea2",
+    "src": "images/structures/6a7c077daa9efc05.jpg",
+    "alt": "Tibia — Knee Joint (Model NS19)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "knee-joint-model-ns19",
+    "quizSrc": "images/structures/6a7c077daa9efc05.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "tibia-2cd9462aa8",
+    "quizMarker": {
+      "x": 0.3873015873015873,
+      "y": 0.5973400297619048
+    }
+  },
+  {
+    "id": "img-d5fd408afd37",
+    "src": "images/structures/6a7c077daa9efc05.jpg",
+    "alt": "Lateral (fibular) collateral ligament — Knee Joint (Model NS19)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "knee-joint-model-ns19",
+    "quizSrc": "images/structures/6a7c077daa9efc05.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "lateral-fibular-collateral-ligament-938a54650a",
+    "quizMarker": {
+      "x": 0.6095238095238096,
+      "y": 0.5001860119047619
+    }
+  },
+  {
+    "id": "img-d3a767207b9a",
+    "src": "images/structures/6a7c077daa9efc05.jpg",
+    "alt": "Anterior ligament of the head of the fibula — Knee Joint (Model NS19)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "knee-joint-model-ns19",
+    "quizSrc": "images/structures/6a7c077daa9efc05.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "anterior-ligament-of-the-head-of-the-fibula-f5e614ba72",
+    "quizMarker": {
+      "x": 0.5682539682539682,
+      "y": 0.56328125
+    }
+  },
+  {
+    "id": "img-d7dc1af34cea",
+    "src": "images/structures/6a7c077daa9efc05.jpg",
+    "alt": "Lateral meniscus — Knee Joint (Model NS19)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "knee-joint-model-ns19",
+    "quizSrc": "images/structures/6a7c077daa9efc05.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "lateral-meniscus-26979210b6",
+    "quizMarker": {
+      "x": 0.5079365079365079,
+      "y": 0.48351934523809526
+    }
+  },
+  {
+    "id": "img-0ee0bdf43b50",
+    "src": "images/structures/779959cf0ba3b45b.jpg",
+    "alt": "Medial (tibial) collateral ligament — Knee Joint (Model NS19)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "knee-joint-model-ns19",
+    "quizSrc": "images/structures/779959cf0ba3b45b.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "medial-tibial-collateral-ligament-780d79c6e1",
+    "quizMarker": {
+      "x": 0.4888888888888889,
+      "y": 0.6497209821428571
+    }
+  },
+  {
+    "id": "img-0f92874038d9",
+    "src": "images/structures/f8bd9bf02a3423f8.jpg",
     "alt": "Medial meniscus — Knee Joint (Model NS19)",
     "caption": "",
     "credit": "Local image",
@@ -415,8 +1157,1092 @@
     "sourceUrl": "",
     "quizReady": true,
     "modelId": "knee-joint-model-ns19",
-    "quizSrc": "images/structures/25ad1c33ca6182dc.jpg",
-    "quizAlt": "Identify the pinned structure.",
-    "quizStructureId": "medial-meniscus-2962043814"
+    "quizSrc": "images/structures/f8bd9bf02a3423f8.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "medial-meniscus-2962043814",
+    "quizMarker": {
+      "x": 0.5904761904761905,
+      "y": 0.5330543154761904
+    }
+  },
+  {
+    "id": "img-5b6ef29d6e29",
+    "src": "images/structures/f8bd9bf02a3423f8.jpg",
+    "alt": "Posterior cruciate ligament — Knee Joint (Model NS19)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "knee-joint-model-ns19",
+    "quizSrc": "images/structures/f8bd9bf02a3423f8.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "posterior-cruciate-ligament-be20c6e509",
+    "quizMarker": {
+      "x": 0.4666666666666667,
+      "y": 0.5199590773809524
+    }
+  },
+  {
+    "id": "img-0095f6a105ad",
+    "src": "images/structures/f8bd9bf02a3423f8.jpg",
+    "alt": "Posterior meniscofemoral ligament — Knee Joint (Model NS19)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "knee-joint-model-ns19",
+    "quizSrc": "images/structures/f8bd9bf02a3423f8.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "posterior-meniscofemoral-ligament-d8c55b4233",
+    "quizMarker": {
+      "x": 0.4666666666666667,
+      "y": 0.48470982142857144
+    }
+  },
+  {
+    "id": "img-86f7ec2f4299",
+    "src": "images/structures/6a7c077daa9efc05.jpg",
+    "alt": "Interosseous membrane — Knee Joint (Model NS19)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "knee-joint-model-ns19",
+    "quizSrc": "images/structures/6a7c077daa9efc05.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "interosseous-membrane-df44631320",
+    "quizMarker": {
+      "x": 0.4888888888888889,
+      "y": 0.6961495535714286
+    }
+  },
+  {
+    "id": "img-a88dce81c5df",
+    "src": "images/structures/9b31afb3072e1682.jpg",
+    "alt": "Anterior cruciate ligament — Knee Joint (Model NS19)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "knee-joint-model-ns19",
+    "quizSrc": "images/structures/9b31afb3072e1682.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "anterior-cruciate-ligament-3b621af612",
+    "quizMarker": {
+      "x": 0.49206349206349204,
+      "y": 0.4759114583333333
+    }
+  },
+  {
+    "id": "img-a1e1cff7a9a3",
+    "src": "images/structures/9b31afb3072e1682.jpg",
+    "alt": "Patellar ligament (ligamentum patellae / patellar tendon) — Knee Joint (Model NS19)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "knee-joint-model-ns19",
+    "quizSrc": "images/structures/9b31afb3072e1682.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "patellar-ligament-ligamentum-patellae-patellar-tendon-08604e3550",
+    "quizMarker": {
+      "x": 0.5142857142857142,
+      "y": 0.6092447916666667
+    }
+  },
+  {
+    "id": "img-cc3045fb0479",
+    "src": "images/structures/e0d62d4039d5d992.jpg",
+    "alt": "Superior petrosal sinus — Cranial Floor (Model BS1)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "cranial-floor-model-bs1",
+    "quizSrc": "images/structures/e0d62d4039d5d992.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "superior-petrosal-sinus-4789071586",
+    "quizMarker": {
+      "x": 0.6857142857142857,
+      "y": 0.5366257440476191
+    }
+  },
+  {
+    "id": "img-4310b1142467",
+    "src": "images/structures/e0d62d4039d5d992.jpg",
+    "alt": "Inferior petrosal sinus — Cranial Floor (Model BS1)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "cranial-floor-model-bs1",
+    "quizSrc": "images/structures/e0d62d4039d5d992.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "inferior-petrosal-sinus-8c9a171677",
+    "quizMarker": {
+      "x": 0.5841269841269842,
+      "y": 0.544233630952381
+    }
+  },
+  {
+    "id": "img-ade4adf64f64",
+    "src": "images/structures/e0d62d4039d5d992.jpg",
+    "alt": "Cavernous sinus — Cranial Floor (Model BS1)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "cranial-floor-model-bs1",
+    "quizSrc": "images/structures/e0d62d4039d5d992.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "cavernous-sinus-28537d16f9",
+    "quizMarker": {
+      "x": 0.4253968253968254,
+      "y": 0.49780505952380955
+    }
+  },
+  {
+    "id": "img-79279e5b4b2c",
+    "src": "images/structures/e0d62d4039d5d992.jpg",
+    "alt": "Trigeminal nerve (CN V) — Cranial Floor (Model BS1)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "cranial-floor-model-bs1",
+    "quizSrc": "images/structures/e0d62d4039d5d992.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "trigeminal-nerve-cn-v-4edd7269fe",
+    "quizMarker": {
+      "x": 0.45714285714285713,
+      "y": 0.5687686011904762
+    }
+  },
+  {
+    "id": "img-2b9969325952",
+    "src": "images/structures/e0d62d4039d5d992.jpg",
+    "alt": "Trigeminal ganglion — Cranial Floor (Model BS1)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "cranial-floor-model-bs1",
+    "quizSrc": "images/structures/e0d62d4039d5d992.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "trigeminal-ganglion-d912bbf423",
+    "quizMarker": {
+      "x": 0.41904761904761906,
+      "y": 0.5521019345238095
+    }
+  },
+  {
+    "id": "img-cc4955a3fb8e",
+    "src": "images/structures/e0d62d4039d5d992.jpg",
+    "alt": "Ophthalmic branch of trigeminal nerve (CN V1) — Cranial Floor (Model BS1)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "cranial-floor-model-bs1",
+    "quizSrc": "images/structures/e0d62d4039d5d992.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "ophthalmic-branch-of-trigeminal-nerve-cn-v1-b33b92177e",
+    "quizMarker": {
+      "x": 0.4095238095238095,
+      "y": 0.5144717261904762
+    }
+  },
+  {
+    "id": "img-79b295f7b863",
+    "src": "images/structures/e0d62d4039d5d992.jpg",
+    "alt": "Maxillary branch of trigeminal nerve (CN V2) — Cranial Floor (Model BS1)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "cranial-floor-model-bs1",
+    "quizSrc": "images/structures/e0d62d4039d5d992.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "maxillary-branch-of-trigeminal-nerve-cn-v2-43c7d1f013",
+    "quizMarker": {
+      "x": 0.3904761904761905,
+      "y": 0.5287574404761904
+    }
+  },
+  {
+    "id": "img-13278e105487",
+    "src": "images/structures/e0d62d4039d5d992.jpg",
+    "alt": "Mandibular branch of trigeminal nerve (CN V3) — Cranial Floor (Model BS1)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "cranial-floor-model-bs1",
+    "quizSrc": "images/structures/e0d62d4039d5d992.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "mandibular-branch-of-trigeminal-nerve-cn-v3-0b6d2d4fe7",
+    "quizMarker": {
+      "x": 0.38095238095238093,
+      "y": 0.561625744047619
+    }
+  },
+  {
+    "id": "img-8af8f7e1c684",
+    "src": "images/structures/e0d62d4039d5d992.jpg",
+    "alt": "Pituitary gland (hypophysis) — Cranial Floor (Model BS1)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "cranial-floor-model-bs1",
+    "quizSrc": "images/structures/e0d62d4039d5d992.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "pituitary-gland-hypophysis-083652bc58",
+    "quizMarker": {
+      "x": 0.4984126984126984,
+      "y": 0.4906622023809524
+    }
+  },
+  {
+    "id": "img-50af83bb2490",
+    "src": "images/structures/e0d62d4039d5d992.jpg",
+    "alt": "Optic nerve (CN II) — Cranial Floor (Model BS1)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "cranial-floor-model-bs1",
+    "quizSrc": "images/structures/e0d62d4039d5d992.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "optic-nerve-cn-ii-16898537fd",
+    "quizMarker": {
+      "x": 0.5111111111111111,
+      "y": 0.45732886904761905
+    }
+  },
+  {
+    "id": "img-200d4cd78211",
+    "src": "images/structures/e0d62d4039d5d992.jpg",
+    "alt": "Olfactory tract (CN I) — Cranial Floor (Model BS1)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "cranial-floor-model-bs1",
+    "quizSrc": "images/structures/e0d62d4039d5d992.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "olfactory-tract-cn-i-73910a80b1",
+    "quizMarker": {
+      "x": 0.4857142857142857,
+      "y": 0.4151971726190476
+    }
+  },
+  {
+    "id": "img-abf84b54c061",
+    "src": "images/structures/e0d62d4039d5d992.jpg",
+    "alt": "Diploë — Cranial Floor (Model BS1)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "cranial-floor-model-bs1",
+    "quizSrc": "images/structures/e0d62d4039d5d992.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "diplo-c7a42f2980",
+    "quizMarker": {
+      "x": 0.780952380952381,
+      "y": 0.8156622023809523
+    }
+  },
+  {
+    "id": "img-49992751ee38",
+    "src": "images/structures/bf3ea08540bb14c8.jpg",
+    "alt": "Facial nerve (CN VII) — Cranial Floor (Model BS1)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "cranial-floor-model-bs1",
+    "quizSrc": "images/structures/bf3ea08540bb14c8.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "facial-nerve-cn-vii-69c5a43599",
+    "quizMarker": {
+      "x": 0.6634920634920635,
+      "y": 0.46519717261904764
+    }
+  },
+  {
+    "id": "img-f25af16a2666",
+    "src": "images/structures/bf3ea08540bb14c8.jpg",
+    "alt": "Intermediate nerve of the facial nerve — Cranial Floor (Model BS1)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "cranial-floor-model-bs1",
+    "quizSrc": "images/structures/bf3ea08540bb14c8.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "intermediate-nerve-of-the-facial-nerve-74bc429ed4",
+    "quizMarker": {
+      "x": 0.6793650793650794,
+      "y": 0.4699590773809524
+    }
+  },
+  {
+    "id": "img-1575c0fb7a24",
+    "src": "images/structures/bf3ea08540bb14c8.jpg",
+    "alt": "Vestibulocochlear nerve (CN VIII) — Cranial Floor (Model BS1)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "cranial-floor-model-bs1",
+    "quizSrc": "images/structures/bf3ea08540bb14c8.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "vestibulocochlear-nerve-cn-viii-a6f23a24c8",
+    "quizMarker": {
+      "x": 0.6888888888888889,
+      "y": 0.4818638392857143
+    }
+  },
+  {
+    "id": "img-a204a185fe84",
+    "src": "images/structures/bf3ea08540bb14c8.jpg",
+    "alt": "Abducens nerve (CN VI) — Cranial Floor (Model BS1)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "cranial-floor-model-bs1",
+    "quizSrc": "images/structures/bf3ea08540bb14c8.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "abducens-nerve-cn-vi-a2b784816a",
+    "quizMarker": {
+      "x": 0.5587301587301587,
+      "y": 0.4211495535714286
+    }
+  },
+  {
+    "id": "img-2f3dc70b8137",
+    "src": "images/structures/bf3ea08540bb14c8.jpg",
+    "alt": "Olfactory bulb — Cranial Floor (Model BS1)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "cranial-floor-model-bs1",
+    "quizSrc": "images/structures/bf3ea08540bb14c8.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "olfactory-bulb-45717fb078",
+    "quizMarker": {
+      "x": 0.45396825396825397,
+      "y": 0.11043526785714286
+    }
+  },
+  {
+    "id": "img-ab5c6e046321",
+    "src": "images/structures/bf3ea08540bb14c8.jpg",
+    "alt": "Superior cerebellar artery — Cranial Floor (Model BS1)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "cranial-floor-model-bs1",
+    "quizSrc": "images/structures/bf3ea08540bb14c8.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "superior-cerebellar-artery-986c09339b",
+    "quizMarker": {
+      "x": 0.44761904761904764,
+      "y": 0.39304315476190477
+    }
+  },
+  {
+    "id": "img-9f2c65e56dd4",
+    "src": "images/structures/bf3ea08540bb14c8.jpg",
+    "alt": "Labyrinthine artery — Cranial Floor (Model BS1)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "cranial-floor-model-bs1",
+    "quizSrc": "images/structures/bf3ea08540bb14c8.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "labyrinthine-artery-027cb98124",
+    "quizMarker": {
+      "x": 0.3523809523809524,
+      "y": 0.4870907738095238
+    }
+  },
+  {
+    "id": "img-d507e03b3f67",
+    "src": "images/structures/bf3ea08540bb14c8.jpg",
+    "alt": "Anterior inferior cerebellar artery — Cranial Floor (Model BS1)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "cranial-floor-model-bs1",
+    "quizSrc": "images/structures/bf3ea08540bb14c8.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "anterior-inferior-cerebellar-artery-d26d2af36d",
+    "quizMarker": {
+      "x": 0.40634920634920635,
+      "y": 0.51328125
+    }
+  },
+  {
+    "id": "img-1dea2d7b4289",
+    "src": "images/structures/bf3ea08540bb14c8.jpg",
+    "alt": "Vertebral artery — Cranial Floor (Model BS1)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "cranial-floor-model-bs1",
+    "quizSrc": "images/structures/bf3ea08540bb14c8.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "vertebral-artery-1250ac2ca2",
+    "quizMarker": {
+      "x": 0.45714285714285713,
+      "y": 0.5620907738095238
+    }
+  },
+  {
+    "id": "img-631bf813fb6d",
+    "src": "images/structures/bf3ea08540bb14c8.jpg",
+    "alt": "Anterior spinal artery — Cranial Floor (Model BS1)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "cranial-floor-model-bs1",
+    "quizSrc": "images/structures/bf3ea08540bb14c8.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "anterior-spinal-artery-45bcb685be",
+    "quizMarker": {
+      "x": 0.5015873015873016,
+      "y": 0.626376488095238
+    }
+  },
+  {
+    "id": "img-0e3e26973998",
+    "src": "images/structures/bf3ea08540bb14c8.jpg",
+    "alt": "Posterior inferior cerebellar artery — Cranial Floor (Model BS1)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "cranial-floor-model-bs1",
+    "quizSrc": "images/structures/bf3ea08540bb14c8.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "posterior-inferior-cerebellar-artery-af9a066d61",
+    "quizMarker": {
+      "x": 0.5714285714285714,
+      "y": 0.6966145833333334
+    }
+  },
+  {
+    "id": "img-4f0f8064f697",
+    "src": "images/structures/bf3ea08540bb14c8.jpg",
+    "alt": "Intercavernous sinus — Cranial Floor (Model BS1)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "cranial-floor-model-bs1",
+    "quizSrc": "images/structures/bf3ea08540bb14c8.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "intercavernous-sinus-f154cf6978",
+    "quizMarker": {
+      "x": 0.5301587301587302,
+      "y": 0.3620907738095238
+    }
+  },
+  {
+    "id": "img-bfc530dc083b",
+    "src": "images/structures/bf3ea08540bb14c8.jpg",
+    "alt": "Hypoglossal nerve (CN XII) — Cranial Floor (Model BS1)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "cranial-floor-model-bs1",
+    "quizSrc": "images/structures/bf3ea08540bb14c8.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "hypoglossal-nerve-cn-xii-a00408a95d",
+    "quizMarker": {
+      "x": 0.580952380952381,
+      "y": 0.5461495535714286
+    }
+  },
+  {
+    "id": "img-026ce822a9bc",
+    "src": "images/structures/bf3ea08540bb14c8.jpg",
+    "alt": "Glossopharyngeal nerve (CN IX) — Cranial Floor (Model BS1)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "cranial-floor-model-bs1",
+    "quizSrc": "images/structures/bf3ea08540bb14c8.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "glossopharyngeal-nerve-cn-ix-e8f791f8c3",
+    "quizMarker": {
+      "x": 0.6190476190476191,
+      "y": 0.5151971726190476
+    }
+  },
+  {
+    "id": "img-18928d0a0346",
+    "src": "images/structures/bf3ea08540bb14c8.jpg",
+    "alt": "Vagus nerve (CN X) — Cranial Floor (Model BS1)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "cranial-floor-model-bs1",
+    "quizSrc": "images/structures/bf3ea08540bb14c8.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "vagus-nerve-cn-x-050cb0c8d5",
+    "quizMarker": {
+      "x": 0.6349206349206349,
+      "y": 0.5314732142857143
+    }
+  },
+  {
+    "id": "img-7c12621a718c",
+    "src": "images/structures/bf3ea08540bb14c8.jpg",
+    "alt": "Accessory nerve (CN XI) — Cranial Floor (Model BS1)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "cranial-floor-model-bs1",
+    "quizSrc": "images/structures/bf3ea08540bb14c8.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "accessory-nerve-cn-xi-ec8ea5def7",
+    "quizMarker": {
+      "x": 0.3746031746031746,
+      "y": 0.5966145833333333
+    }
+  },
+  {
+    "id": "img-631eb0b834da",
+    "src": "images/structures/bf3ea08540bb14c8.jpg",
+    "alt": "Sigmoid sinus — Cranial Floor (Model BS1)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "cranial-floor-model-bs1",
+    "quizSrc": "images/structures/bf3ea08540bb14c8.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "sigmoid-sinus-c8a6faf53a",
+    "quizMarker": {
+      "x": 0.7682539682539683,
+      "y": 0.5049479166666667
+    }
+  },
+  {
+    "id": "img-6a74a250b94b",
+    "src": "images/structures/bf3ea08540bb14c8.jpg",
+    "alt": "Posterior cerebral artery — Cranial Floor (Model BS1)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "cranial-floor-model-bs1",
+    "quizSrc": "images/structures/bf3ea08540bb14c8.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "posterior-cerebral-artery-c5d0554a51",
+    "quizMarker": {
+      "x": 0.5746031746031746,
+      "y": 0.3501860119047619
+    }
+  },
+  {
+    "id": "img-52a93973b03b",
+    "src": "images/structures/bf3ea08540bb14c8.jpg",
+    "alt": "Posterior communicating artery — Cranial Floor (Model BS1)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "cranial-floor-model-bs1",
+    "quizSrc": "images/structures/bf3ea08540bb14c8.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "posterior-communicating-artery-0a13ddc663",
+    "quizMarker": {
+      "x": 0.5301587301587302,
+      "y": 0.3275669642857143
+    }
+  },
+  {
+    "id": "img-a4fc82d38bb3",
+    "src": "images/structures/13b8e6792613cd80.jpg",
+    "alt": "Renal vein — Kidney (Model LS5)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "kidney-model-ls5",
+    "quizSrc": "images/structures/13b8e6792613cd80.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "renal-vein-f6558332a8",
+    "quizMarker": {
+      "x": 0.30158730158730157,
+      "y": 0.4782924107142857
+    }
+  },
+  {
+    "id": "img-efa9b170aab8",
+    "src": "images/structures/13b8e6792613cd80.jpg",
+    "alt": "Renal artery — Kidney (Model LS5)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "kidney-model-ls5",
+    "quizSrc": "images/structures/13b8e6792613cd80.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "renal-artery-ab81c35e36",
+    "quizMarker": {
+      "x": 0.28888888888888886,
+      "y": 0.4544828869047619
+    }
+  },
+  {
+    "id": "img-bf1ae1d63c90",
+    "src": "images/structures/13b8e6792613cd80.jpg",
+    "alt": "Ureter — Kidney (Model LS5)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "kidney-model-ls5",
+    "quizSrc": "images/structures/13b8e6792613cd80.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "ureter-8f7d779c73",
+    "quizMarker": {
+      "x": 0.30793650793650795,
+      "y": 0.6806733630952381
+    }
+  },
+  {
+    "id": "img-fa2719eef678",
+    "src": "images/structures/13b8e6792613cd80.jpg",
+    "alt": "Renal pelvis — Kidney (Model LS5)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "kidney-model-ls5",
+    "quizSrc": "images/structures/13b8e6792613cd80.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "renal-pelvis-2e1b26ac5b",
+    "quizMarker": {
+      "x": 0.4158730158730159,
+      "y": 0.4771019345238095
+    }
+  },
+  {
+    "id": "img-7892e5712558",
+    "src": "images/structures/13b8e6792613cd80.jpg",
+    "alt": "Minor calyx — Kidney (Model LS5)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "kidney-model-ls5",
+    "quizSrc": "images/structures/13b8e6792613cd80.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "minor-calyx-968e250e2c",
+    "quizMarker": {
+      "x": 0.5238095238095238,
+      "y": 0.3771019345238095
+    }
+  },
+  {
+    "id": "img-bb5d26812bde",
+    "src": "images/structures/13b8e6792613cd80.jpg",
+    "alt": "Renal papilla and papillary ducts — Kidney (Model LS5)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "kidney-model-ls5",
+    "quizSrc": "images/structures/13b8e6792613cd80.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "renal-papilla-and-papillary-ducts-260333b745",
+    "quizMarker": {
+      "x": 0.5079365079365079,
+      "y": 0.5687686011904762
+    }
+  },
+  {
+    "id": "img-6100cd449a6d",
+    "src": "images/structures/13b8e6792613cd80.jpg",
+    "alt": "Renal pyramid — Kidney (Model LS5)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "kidney-model-ls5",
+    "quizSrc": "images/structures/13b8e6792613cd80.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "renal-pyramid-b3af5c7ccb",
+    "quizMarker": {
+      "x": 0.6825396825396826,
+      "y": 0.47472098214285713
+    }
+  },
+  {
+    "id": "img-0a33ed91b3dc",
+    "src": "images/structures/13b8e6792613cd80.jpg",
+    "alt": "Renal medulla — Kidney (Model LS5)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "kidney-model-ls5",
+    "quizSrc": "images/structures/13b8e6792613cd80.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "renal-medulla-3a65dc27da",
+    "quizMarker": {
+      "x": 0.6571428571428571,
+      "y": 0.548530505952381
+    }
+  },
+  {
+    "id": "img-b97969ff938d",
+    "src": "images/structures/13b8e6792613cd80.jpg",
+    "alt": "Renal cortex — Kidney (Model LS5)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "kidney-model-ls5",
+    "quizSrc": "images/structures/13b8e6792613cd80.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "renal-cortex-16543a45f5",
+    "quizMarker": {
+      "x": 0.746031746031746,
+      "y": 0.5640066964285714
+    }
+  },
+  {
+    "id": "img-6b16074e858a",
+    "src": "images/structures/a4594ab962426a09.jpg",
+    "alt": "Pancreas — Pancreas (Model JS11)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "pancreas-model-js11",
+    "quizSrc": "images/structures/a4594ab962426a09.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "pancreas-b33dbd2eb8",
+    "quizMarker": {
+      "x": 0.46984126984126984,
+      "y": 0.4759114583333333
+    }
+  },
+  {
+    "id": "img-6e8cdb3a4489",
+    "src": "images/structures/a4594ab962426a09.jpg",
+    "alt": "Spleen — Pancreas (Model JS11)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "pancreas-model-js11",
+    "quizSrc": "images/structures/a4594ab962426a09.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "spleen-3321107018",
+    "quizMarker": {
+      "x": 0.7555555555555555,
+      "y": 0.37399553571428573
+    }
+  },
+  {
+    "id": "img-cdc2e316311b",
+    "src": "images/structures/a4594ab962426a09.jpg",
+    "alt": "Duodenum — Pancreas (Model JS11)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "pancreas-model-js11",
+    "quizSrc": "images/structures/a4594ab962426a09.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "duodenum-39d05d6ae2",
+    "quizMarker": {
+      "x": 0.24444444444444444,
+      "y": 0.5930431547619047
+    }
+  },
+  {
+    "id": "img-01fcdb50576a",
+    "src": "images/structures/a4594ab962426a09.jpg",
+    "alt": "Superior mesenteric vein — Pancreas (Model JS11)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "pancreas-model-js11",
+    "quizSrc": "images/structures/a4594ab962426a09.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "superior-mesenteric-vein-352f92ffef",
+    "quizMarker": {
+      "x": 0.27936507936507937,
+      "y": 0.5597098214285714
+    }
+  },
+  {
+    "id": "img-190a62b90da2",
+    "src": "images/structures/a4594ab962426a09.jpg",
+    "alt": "Superior mesenteric artery — Pancreas (Model JS11)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "pancreas-model-js11",
+    "quizSrc": "images/structures/a4594ab962426a09.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "superior-mesenteric-artery-c73851a2de",
+    "quizMarker": {
+      "x": 0.3047619047619048,
+      "y": 0.5311383928571428
+    }
+  },
+  {
+    "id": "img-be3155b9c86e",
+    "src": "images/structures/a4594ab962426a09.jpg",
+    "alt": "Inferior pancreaticoduodenal artery — Pancreas (Model JS11)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "pancreas-model-js11",
+    "quizSrc": "images/structures/a4594ab962426a09.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "inferior-pancreaticoduodenal-artery-104867dbcd",
+    "quizMarker": {
+      "x": 0.19365079365079366,
+      "y": 0.49899553571428573
+    }
+  },
+  {
+    "id": "img-e9dbaf238360",
+    "src": "images/structures/a4594ab962426a09.jpg",
+    "alt": "Major pancreatic duct (duct of Wirsung) — Pancreas (Model JS11)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "pancreas-model-js11",
+    "quizSrc": "images/structures/a4594ab962426a09.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "major-pancreatic-duct-duct-of-wirsung-11ce5885ea",
+    "quizMarker": {
+      "x": 0.24126984126984127,
+      "y": 0.46328125
+    }
+  },
+  {
+    "id": "img-db8a237e7a36",
+    "src": "images/structures/a4594ab962426a09.jpg",
+    "alt": "Accessory pancreatic duct (duct of Santorini) — Pancreas (Model JS11)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "pancreas-model-js11",
+    "quizSrc": "images/structures/a4594ab962426a09.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "accessory-pancreatic-duct-duct-of-santorini-a3aab7b74d",
+    "quizMarker": {
+      "x": 0.24126984126984127,
+      "y": 0.43828125
+    }
+  },
+  {
+    "id": "img-9055ab9d6331",
+    "src": "images/structures/596a5d54cdb97477.jpg",
+    "alt": "Common bile duct — Pancreas (Model JS11)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "pancreas-model-js11",
+    "quizSrc": "images/structures/596a5d54cdb97477.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "common-bile-duct-61bd005af8",
+    "quizMarker": {
+      "x": 0.6476190476190476,
+      "y": 0.39853050595238093
+    }
+  },
+  {
+    "id": "img-53265475631f",
+    "src": "images/structures/596a5d54cdb97477.jpg",
+    "alt": "Portal vein — Pancreas (Model JS11)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "pancreas-model-js11",
+    "quizSrc": "images/structures/596a5d54cdb97477.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "portal-vein-3854add8df",
+    "quizMarker": {
+      "x": 0.6222222222222222,
+      "y": 0.3775669642857143
+    }
+  },
+  {
+    "id": "img-19a854fa1a8f",
+    "src": "images/structures/596a5d54cdb97477.jpg",
+    "alt": "Splenic vein — Pancreas (Model JS11)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "pancreas-model-js11",
+    "quizSrc": "images/structures/596a5d54cdb97477.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "splenic-vein-5f7b4540c2",
+    "quizMarker": {
+      "x": 0.4793650793650794,
+      "y": 0.44542410714285713
+    }
+  },
+  {
+    "id": "img-8f529dd9c654",
+    "src": "images/structures/4074751dd3b79e0a.jpg",
+    "alt": "Coeliac trunk — Pancreas (Model JS11)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "pancreas-model-js11",
+    "quizSrc": "images/structures/4074751dd3b79e0a.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "coeliac-trunk-22fe00b57f",
+    "quizMarker": {
+      "x": 0.4634920634920635,
+      "y": 0.4687686011904762
+    }
+  },
+  {
+    "id": "img-f4c1c06f706e",
+    "src": "images/structures/4074751dd3b79e0a.jpg",
+    "alt": "Splenic artery — Pancreas (Model JS11)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "pancreas-model-js11",
+    "quizSrc": "images/structures/4074751dd3b79e0a.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "splenic-artery-f3ff5301a8",
+    "quizMarker": {
+      "x": 0.326984126984127,
+      "y": 0.517578125
+    }
+  },
+  {
+    "id": "img-de474ad4eb06",
+    "src": "images/structures/4074751dd3b79e0a.jpg",
+    "alt": "Gastric artery — Pancreas (Model JS11)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "pancreas-model-js11",
+    "quizSrc": "images/structures/4074751dd3b79e0a.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "gastric-artery-b25dee55e6",
+    "quizMarker": {
+      "x": 0.4444444444444444,
+      "y": 0.4211495535714286
+    }
+  },
+  {
+    "id": "img-33eb9148d87f",
+    "src": "images/structures/a4594ab962426a09.jpg",
+    "alt": "Gastroduodenal artery — Pancreas (Model JS11)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "pancreas-model-js11",
+    "quizSrc": "images/structures/a4594ab962426a09.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "gastroduodenal-artery-b3da2ede85",
+    "quizMarker": {
+      "x": 0.2634920634920635,
+      "y": 0.41162574404761904
+    }
   }
 ]
