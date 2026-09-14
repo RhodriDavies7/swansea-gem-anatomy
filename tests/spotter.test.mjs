@@ -29,3 +29,12 @@ test('excluding question types keeps the structure and model filters select only
  assert.deepEqual(spotterPool(c,'',{models:['one'],modelEffect:'exclude'})[0].images.map(i=>i.modelId),['two']);
  assert.equal(spotterPool(c,'',{models:['unknown']}).length,0);
 });
+
+
+test('nerve prompts explicitly distinguish motor from sensory with their matching answers',()=>{
+ const c=fixture();c.structures[0].facts=[{question:'Motor functions',variants:[{answer:'None; purely sensory.'}]},{question:'Sensory functions',variants:[{answer:'Sensation from the target region.'}]}];
+ const qs=spotterPool(c)[0].questions;
+ const motor=qs.find(q=>q.topic==='Motor functions'),sensory=qs.find(q=>q.topic==='Sensory functions');
+ assert.match(motor.question,/motor supply/i);assert.equal(motor.answer,'None; purely sensory.');
+ assert.match(sensory.question,/sensory/i);assert.equal(sensory.answer,'Sensation from the target region.');
+});
