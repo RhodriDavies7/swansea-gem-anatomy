@@ -33,3 +33,5 @@ for(let i=0;i<models.length;i++)await fs.writeFile(path.join(root,'dist/data',in
 await fs.writeFile(path.join(root,'dist/data/models.json'),JSON.stringify(index,null,2)+'\n');
 await fs.writeFile(path.join(root,'content/review-needed.json'),JSON.stringify(multi,null,2)+'\n');
 console.log(`Built ${structures.length} shared entries, ${models.length} models and ${cardIds.size} cards. ${multi.length} facts need a preferred answer; ${images.length} images registered.`);
+
+try{await fs.copyFile(path.join(root,'content/learning-outcomes.json'),path.join(root,'dist/data/learning-outcomes.json'));}catch(error){if(error.code!=='ENOENT')throw error;}

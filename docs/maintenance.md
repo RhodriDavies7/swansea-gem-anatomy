@@ -203,3 +203,11 @@ The initial library contains 904 searchable structures and five retained model-n
 The existing model photographs remain in model selection. No structure-specific images have been guessed or substituted: the image catalogue starts empty. Add suitable images gradually; search and knowledge revision already work without them.
 
 Image descriptions in the local uploader are optional. Leaving one blank generates accessible text from the structure name and, when selected, the model name. Exam image descriptions remain neutral.
+
+## Learning outcomes
+
+`content/learning-outcomes.json` is the editable source; `npm run build:data` copies it to `dist/data/learning-outcomes.json`. Each session has a stable ID, year, original week code, title, source system label, PDF page numbers, session summary and ordered outcomes. Each outcome stores its original text, source page, `structureIds` for direct library links and `relatedModelIds` for broader suggested models. Existing structure and model IDs are used, so changes to shared anatomy appear automatically.
+
+The initial import contains 477 outcomes across 32 Year 1 and 22 Year 2 sessions. Outcome text was checked against both source PDFs, allowing only whitespace changes. Source categories are preserved even when a title appears under an unexpected system. Source PDFs are in `dist/documents/` and linked at the relevant page.
+
+Direct links were seeded conservatively from names and aliases explicitly mentioned in each outcome, restricted to models associated with that teaching session. These are suggested revision links, not an assertion of complete curriculum coverage or a medically reviewed curriculum mapping. Broader outcomes use related model links; unsupported topics show a coverage gap. To improve a mapping, edit its ID arrays without changing the original outcome text. Tests verify all 54 sessions, 477 outcomes and reference targets. Keep IDs stable when updating future documents.

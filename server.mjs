@@ -6,7 +6,7 @@ import {randomBytes} from 'node:crypto';
 import {registerUpload} from './local/image-api.mjs';
 const project=fileURLToPath(new URL('./',import.meta.url)),root=path.resolve(project,'dist');
 const token=randomBytes(32).toString('hex');let saving=false;
-const mime={'.jpg':'image/jpeg','.jpeg':'image/jpeg','.png':'image/png','.webp':'image/webp','.html':'text/html; charset=utf-8','.css':'text/css; charset=utf-8','.js':'text/javascript; charset=utf-8','.json':'application/json; charset=utf-8','.svg':'image/svg+xml'};
+const mime={'.pdf':'application/pdf','.jpg':'image/jpeg','.jpeg':'image/jpeg','.png':'image/png','.webp':'image/webp','.html':'text/html; charset=utf-8','.css':'text/css; charset=utf-8','.js':'text/javascript; charset=utf-8','.json':'application/json; charset=utf-8','.svg':'image/svg+xml'};
 function send(res,status,body,type='text/plain'){res.writeHead(status,{'Content-Type':type,'Cache-Control':'no-cache','X-Content-Type-Options':'nosniff'});res.end(body);}
 const server=http.createServer(async(req,res)=>{try{
  const host=req.headers.host||'';if(!/^(127\.0\.0\.1|localhost)(:\d+)?$/.test(host)){send(res,403,'Local access only');return;}
