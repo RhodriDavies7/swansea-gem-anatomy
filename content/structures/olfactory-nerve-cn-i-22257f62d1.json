@@ -1,0 +1,88 @@
+{
+  "id": "olfactory-nerve-cn-i-22257f62d1",
+  "name": "Olfactory nerve (CN I)",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Nerves"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "organs": [],
+  "tags": [
+    "CranialNerves",
+    "Function",
+    "Identification",
+    "Lesion",
+    "Nerve"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-c685958b4f",
+      "question": "Identification",
+      "preferredVariantId": "v-22257f62d1",
+      "variants": [
+        {
+          "id": "v-22257f62d1",
+          "answer": "Olfactory nerve (CN I)",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-221"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-1d03a88ace",
+      "question": "Function",
+      "preferredVariantId": "v-582c13770e",
+      "variants": [
+        {
+          "id": "v-582c13770e",
+          "answer": "Carries smell from olfactory epithelium to the olfactory bulb.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-222"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-afc466ac37",
+      "question": "Lesion",
+      "preferredVariantId": "v-6905f1e79a",
+      "variants": [
+        {
+          "id": "v-6905f1e79a",
+          "answer": "Anosmia; may occur with cribriform plate injury.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-223"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Cranial nerves",
+      "path": [
+        "I"
+      ],
+      "label": "I"
+    }
+  ]
+}

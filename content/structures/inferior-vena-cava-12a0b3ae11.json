@@ -1,7 +1,9 @@
 {
   "id": "inferior-vena-cava-12a0b3ae11",
   "name": "Inferior vena cava",
-  "aliases": [],
+  "aliases": [
+    "Inferior vena cava (hepatic relation)"
+  ],
   "scope": "",
   "kind": "structure",
   "types": [
@@ -26,13 +28,20 @@
     "Liver"
   ],
   "tags": [
+    "Abdomen",
     "AuriclesVesselsValves",
     "CardiacVesselsValves",
     "Course",
     "Drainage",
     "Formation",
+    "Heart",
+    "HeartStructure",
+    "Identification",
+    "Liver",
+    "LiverStructure",
     "MajorVesselsAndGlands",
     "Relations",
+    "RightAtrium",
     "Vein",
     "Vessels"
   ],
@@ -71,6 +80,24 @@
               "modelId": "urinary-system-model-ls3-1",
               "cardId": "urinary-system-model-ls3-1-92",
               "sourceLine": 92
+            },
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-441"
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-482"
+            }
+          ]
+        },
+        {
+          "id": "v-888a8db9d7",
+          "answer": "Inferior vena cava (hepatic relation)",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-743"
             }
           ]
         }
@@ -313,6 +340,26 @@
             }
           ],
           "editorial": true
+        },
+        {
+          "id": "v-7d8f6c86b5",
+          "answer": "Returns systemic venous blood from below the diaphragm to the right atrium.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-442"
+            }
+          ]
+        },
+        {
+          "id": "v-85177902c5",
+          "answer": "Returns systemic venous blood from below the diaphragm to right atrium.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-483"
+            }
+          ]
         }
       ],
       "editorialReview": {
@@ -333,6 +380,16 @@
               "modelId": "liver-js5",
               "cardId": "liver-js5-100",
               "sourceLine": 100
+            }
+          ]
+        },
+        {
+          "id": "v-306c8cd8fb",
+          "answer": "Named lobe, vessel or duct related to the liver.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-744"
             }
           ]
         }
@@ -379,6 +436,32 @@
         "11"
       ],
       "label": "11"
+    },
+    {
+      "modelId": "thorax-model-hs21",
+      "section": "Heart / Right atrium",
+      "path": [
+        "38",
+        "6"
+      ],
+      "label": "6"
+    },
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Thorax",
+      "path": [
+        "57",
+        "d"
+      ],
+      "label": "d"
+    },
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Abdomen / Liver",
+      "path": [
+        "h"
+      ],
+      "label": "h"
     }
   ]
 }

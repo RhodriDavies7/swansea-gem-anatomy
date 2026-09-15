@@ -17,8 +17,10 @@
   "tags": [
     "Articulations",
     "Bone",
+    "Bones",
     "BonyStructures",
     "HeadNeck",
+    "Identification",
     "Landmarks",
     "MidSagittal",
     "Relations"
@@ -48,6 +50,10 @@
               "modelId": "head-and-neck-model-cs17-2",
               "cardId": "head-and-neck-model-cs17-2-14",
               "sourceLine": 14
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-25"
             }
           ]
         }
@@ -120,6 +126,10 @@
               "modelId": "head-and-neck-model-cs17-2",
               "cardId": "head-and-neck-model-cs17-2-16",
               "sourceLine": 16
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-27"
             }
           ]
         }
@@ -147,6 +157,16 @@
               "modelId": "half-head-and-neck-model-bs9",
               "cardId": "half-head-and-neck-model-bs9-33",
               "sourceLine": 33
+            }
+          ]
+        },
+        {
+          "id": "v-b44fe4aaef",
+          "answer": "Forms posterior skull and much of posterior cranial fossa.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-26"
             }
           ]
         }
@@ -177,6 +197,14 @@
         "3"
       ],
       "label": "3"
+    },
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Bones",
+      "path": [
+        "V"
+      ],
+      "label": "V"
     }
   ]
 }

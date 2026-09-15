@@ -17,7 +17,8 @@
   "tags": [
     "Brain",
     "CNS",
-    "Function"
+    "Function",
+    "Identification"
   ],
   "imageIds": [],
   "facts": [
@@ -34,6 +35,10 @@
               "modelId": "head-and-neck-model-cs17-2",
               "cardId": "head-and-neck-model-cs17-2-632",
               "sourceLine": 632
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-98"
             }
           ]
         }
@@ -54,6 +59,16 @@
               "sourceLine": 633
             }
           ]
+        },
+        {
+          "id": "v-ee4065a317",
+          "answer": "Auditory processing, memory and language comprehension in the dominant hemisphere.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-99"
+            }
+          ]
         }
       ]
     }
@@ -66,6 +81,14 @@
         "H"
       ],
       "label": "H"
+    },
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Brain",
+      "path": [
+        "6"
+      ],
+      "label": "6"
     }
   ]
 }

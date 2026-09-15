@@ -18,16 +18,20 @@
   "tags": [
     "Articulations",
     "Bone",
+    "Bones",
     "BonyStructures",
     "Coronal",
     "HeadNeck",
+    "Identification",
     "Landmarks",
     "MidSagittal",
     "NasalCavity",
     "Orientation",
     "Relations"
   ],
-  "imageIds": [],
+  "imageIds": [
+    "img-cd36b31da358"
+  ],
   "facts": [
     {
       "id": "f-9d2c706308",
@@ -67,6 +71,10 @@
               "modelId": "nose-and-nasal-cavity-model-fs3",
               "cardId": "nose-and-nasal-cavity-model-fs3-93",
               "sourceLine": 93
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-5"
             }
           ]
         }
@@ -135,6 +143,16 @@
               "sourceLine": 4
             }
           ]
+        },
+        {
+          "id": "v-bde7d91da0",
+          "answer": "Includes supraorbital margins and frontal sinus.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-7"
+            }
+          ]
         }
       ]
     },
@@ -200,6 +218,16 @@
               "modelId": "nose-and-nasal-cavity-model-fs3",
               "cardId": "nose-and-nasal-cavity-model-fs3-94",
               "sourceLine": 94
+            }
+          ]
+        },
+        {
+          "id": "v-0cac8dc2d9",
+          "answer": "Forms the forehead, roof of the orbits and part of the anterior cranial fossa.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-6"
             }
           ]
         }
@@ -276,6 +304,14 @@
         "1"
       ],
       "label": "1"
+    },
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Bones",
+      "path": [
+        "I"
+      ],
+      "label": "I"
     }
   ]
 }

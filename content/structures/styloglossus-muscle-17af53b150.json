@@ -19,13 +19,17 @@
   ],
   "tags": [
     "Action",
+    "Identification",
     "Innervation",
     "Insertion",
     "Muscle",
+    "NoseMouthNeck",
     "Origin",
     "Tongue"
   ],
-  "imageIds": [],
+  "imageIds": [
+    "img-a85737c8f0a7"
+  ],
   "facts": [
     {
       "id": "f-9d2c706308",
@@ -40,6 +44,10 @@
               "modelId": "larynx-and-tongue-model-gs4",
               "cardId": "larynx-and-tongue-model-gs4-234",
               "sourceLine": 234
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-341"
             }
           ]
         }
@@ -58,6 +66,10 @@
               "modelId": "larynx-and-tongue-model-gs4",
               "cardId": "larynx-and-tongue-model-gs4-235",
               "sourceLine": 235
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-342"
             }
           ]
         }
@@ -76,6 +88,10 @@
               "modelId": "larynx-and-tongue-model-gs4",
               "cardId": "larynx-and-tongue-model-gs4-236",
               "sourceLine": 236
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-343"
             }
           ]
         }
@@ -96,6 +112,16 @@
               "sourceLine": 237
             }
           ]
+        },
+        {
+          "id": "v-54c6966ac1",
+          "answer": "Styloid process.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-344"
+            }
+          ]
         }
       ]
     },
@@ -112,6 +138,10 @@
               "modelId": "larynx-and-tongue-model-gs4",
               "cardId": "larynx-and-tongue-model-gs4-238",
               "sourceLine": 238
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-345"
             }
           ]
         }
@@ -126,6 +156,14 @@
         "7"
       ],
       "label": "7"
+    },
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Nose, mouth and neck",
+      "path": [
+        "38"
+      ],
+      "label": "38"
     }
   ]
 }

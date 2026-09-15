@@ -1,0 +1,88 @@
+{
+  "id": "inferior-pharyngeal-constrictor-muscle-53c25239be",
+  "name": "Inferior pharyngeal constrictor muscle",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "Identification",
+    "Innervation",
+    "Muscle",
+    "NoseMouthNeck"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-3b8b9b4025",
+      "question": "Identification",
+      "preferredVariantId": "v-53c25239be",
+      "variants": [
+        {
+          "id": "v-53c25239be",
+          "answer": "Inferior pharyngeal constrictor muscle",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-404"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f49fe5e29e",
+      "question": "Actions",
+      "preferredVariantId": "v-067f7600c9",
+      "variants": [
+        {
+          "id": "v-067f7600c9",
+          "answer": "Constricts lower pharynx during swallowing.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-405"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9164ad3f60",
+      "question": "Innervation",
+      "preferredVariantId": "v-173e522d61",
+      "variants": [
+        {
+          "id": "v-173e522d61",
+          "answer": "Primarily vagus nerve via pharyngeal plexus; cricopharyngeal part receives recurrent laryngeal contributions.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-406"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Nose, mouth and neck",
+      "path": [
+        "48a"
+      ],
+      "label": "48a"
+    }
+  ]
+}

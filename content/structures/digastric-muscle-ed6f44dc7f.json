@@ -19,9 +19,11 @@
     "Coronal",
     "HeadNeck",
     "HeadNeckMuscles",
+    "Identification",
     "Innervation",
     "Insertion",
     "Muscle",
+    "NoseMouthNeck",
     "Origin"
   ],
   "imageIds": [],
@@ -49,6 +51,10 @@
               "modelId": "head-and-neck-model-cs17-2",
               "cardId": "head-and-neck-model-cs17-2-300",
               "sourceLine": 300
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-362"
             }
           ]
         }
@@ -91,6 +97,16 @@
               "sourceLine": 301
             }
           ]
+        },
+        {
+          "id": "v-7d67787566",
+          "answer": "Elevates hyoid and depresses mandible when hyoid is fixed.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-363"
+            }
+          ]
         }
       ],
       "editorialReview": {
@@ -127,6 +143,10 @@
               "modelId": "head-and-neck-model-cs17-2",
               "cardId": "head-and-neck-model-cs17-2-302",
               "sourceLine": 302
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-364"
             }
           ]
         }
@@ -249,6 +269,14 @@
         "49"
       ],
       "label": "49"
+    },
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Nose, mouth and neck",
+      "path": [
+        "41"
+      ],
+      "label": "41"
     }
   ]
 }

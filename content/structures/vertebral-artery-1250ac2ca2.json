@@ -8,7 +8,9 @@
     "Arteries"
   ],
   "regions": [
-    "Head and neck"
+    "Head and neck",
+    "Thorax",
+    "Back"
   ],
   "systems": [
     "Cardiovascular"
@@ -18,8 +20,11 @@
     "Artery",
     "Branches",
     "Course",
+    "Dorsum",
+    "Identification",
     "Origin",
-    "Supply"
+    "Supply",
+    "Vessels"
   ],
   "imageIds": [
     "img-1dea2d7b4289"
@@ -38,6 +43,14 @@
               "modelId": "cranial-floor-model-bs1",
               "cardId": "cranial-floor-model-bs1-100",
               "sourceLine": 100
+            },
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-546"
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-819"
             }
           ]
         }
@@ -58,6 +71,26 @@
               "sourceLine": 101
             }
           ]
+        },
+        {
+          "id": "v-d16cc168ac",
+          "answer": "Usually first branch of the subclavian artery.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-547"
+            }
+          ]
+        },
+        {
+          "id": "v-a9412dea0f",
+          "answer": "Usually first branch of subclavian artery.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-820"
+            }
+          ]
         }
       ]
     },
@@ -74,6 +107,26 @@
               "modelId": "cranial-floor-model-bs1",
               "cardId": "cranial-floor-model-bs1-102",
               "sourceLine": 102
+            }
+          ]
+        },
+        {
+          "id": "v-20b66f7277",
+          "answer": "Ascends through cervical transverse foramina and enters the skull through the foramen magnum.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-548"
+            }
+          ]
+        },
+        {
+          "id": "v-9cf90675aa",
+          "answer": "Ascends through transverse foramina and enters skull via foramen magnum.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-821"
             }
           ]
         }
@@ -112,6 +165,20 @@
               "sourceLine": 104
             }
           ]
+        },
+        {
+          "id": "v-e68558ead1",
+          "answer": "Contributes to posterior cerebral circulation.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-549"
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-822"
+            }
+          ]
         }
       ]
     }
@@ -124,6 +191,22 @@
         "17"
       ],
       "label": "17"
+    },
+    {
+      "modelId": "thorax-model-hs21",
+      "section": "Vessels",
+      "path": [
+        "28"
+      ],
+      "label": "28"
+    },
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Dorsum",
+      "path": [
+        "104"
+      ],
+      "label": "104"
     }
   ]
 }

@@ -18,11 +18,14 @@
     "Brain",
     "CNS",
     "Function",
+    "Identification",
     "MidSagittal",
     "MidlineStructures",
     "Structure"
   ],
-  "imageIds": [],
+  "imageIds": [
+    "img-5605ee28c7e7"
+  ],
   "facts": [
     {
       "id": "f-9d2c706308",
@@ -47,6 +50,10 @@
               "modelId": "head-and-neck-model-cs17-2",
               "cardId": "head-and-neck-model-cs17-2-697",
               "sourceLine": 697
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-127"
             }
           ]
         }
@@ -122,6 +129,16 @@
               "sourceLine": 698
             }
           ]
+        },
+        {
+          "id": "v-32f6336bf9",
+          "answer": "Commissural fibre bundle connecting parts of the temporal lobes and olfactory regions.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-128"
+            }
+          ]
         }
       ],
       "editorialReview": {
@@ -154,6 +171,14 @@
         "7"
       ],
       "label": "7"
+    },
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Brain",
+      "path": [
+        "13"
+      ],
+      "label": "13"
     }
   ]
 }

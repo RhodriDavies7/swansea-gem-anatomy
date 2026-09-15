@@ -1,0 +1,106 @@
+{
+  "id": "dorsal-root-ganglion-e4cb74a21a",
+  "name": "Dorsal root ganglion",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Ganglion"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "regions": [
+    "Thorax"
+  ],
+  "organs": [],
+  "tags": [
+    "Contents",
+    "Ganglion",
+    "Identification",
+    "Lesion",
+    "Location",
+    "Nerves"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-d5922a6991",
+      "question": "Identification",
+      "preferredVariantId": "v-e4cb74a21a",
+      "variants": [
+        {
+          "id": "v-e4cb74a21a",
+          "answer": "Dorsal root ganglion",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-665"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c900093acd",
+      "question": "Location",
+      "preferredVariantId": "v-cd58ec4974",
+      "variants": [
+        {
+          "id": "v-cd58ec4974",
+          "answer": "On the dorsal root of a spinal nerve near the intervertebral foramen.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-666"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-bb80beb862",
+      "question": "Contents",
+      "preferredVariantId": "v-c379ab3d37",
+      "variants": [
+        {
+          "id": "v-c379ab3d37",
+          "answer": "Cell bodies of primary sensory neurons.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-667"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-900fb73389",
+      "question": "Lesion",
+      "preferredVariantId": "v-1257b367c7",
+      "variants": [
+        {
+          "id": "v-1257b367c7",
+          "answer": "Damage can cause sensory loss, paraesthesia or neuropathic pain in the corresponding sensory distribution.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-668"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "thorax-model-hs21",
+      "section": "Nerves",
+      "path": [
+        "48"
+      ],
+      "label": "48"
+    }
+  ]
+}

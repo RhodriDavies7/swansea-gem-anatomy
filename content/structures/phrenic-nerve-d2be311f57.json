@@ -1,0 +1,144 @@
+{
+  "id": "phrenic-nerve-d2be311f57",
+  "name": "Phrenic nerve",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Nerves"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "regions": [
+    "Thorax"
+  ],
+  "organs": [],
+  "tags": [
+    "Course",
+    "Identification",
+    "Lesion",
+    "Motor",
+    "Nerve",
+    "Nerves",
+    "Roots",
+    "Sensory"
+  ],
+  "imageIds": [
+    "img-765a0e4247f5"
+  ],
+  "facts": [
+    {
+      "id": "f-c903ffb909",
+      "question": "Identification",
+      "preferredVariantId": "v-d2be311f57",
+      "variants": [
+        {
+          "id": "v-d2be311f57",
+          "answer": "Phrenic nerve",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-630"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-743cfa0766",
+      "question": "Roots",
+      "preferredVariantId": "v-45c2bae35c",
+      "variants": [
+        {
+          "id": "v-45c2bae35c",
+          "answer": "C3–C5, predominantly C4.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-631"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-62d41c151e",
+      "question": "Course",
+      "preferredVariantId": "v-cbe20bc896",
+      "variants": [
+        {
+          "id": "v-cbe20bc896",
+          "answer": "Descends on anterior scalene and then through the thorax anterior to the lung root to the diaphragm.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-632"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-590ad35d48",
+      "question": "Motor functions",
+      "preferredVariantId": "v-e63adbfb54",
+      "variants": [
+        {
+          "id": "v-e63adbfb54",
+          "answer": "Motor supply to the diaphragm.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-633"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-8b5b659bb3",
+      "question": "Sensory functions",
+      "preferredVariantId": "v-aa773074d9",
+      "variants": [
+        {
+          "id": "v-aa773074d9",
+          "answer": "Sensory supply to fibrous pericardium, mediastinal and central diaphragmatic pleura, and central diaphragmatic peritoneum.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-634"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-e9ee1fb772",
+      "question": "Lesion",
+      "preferredVariantId": "v-a15add661d",
+      "variants": [
+        {
+          "id": "v-a15add661d",
+          "answer": "Causes ipsilateral hemidiaphragm weakness or paralysis; bilateral lesions can severely impair ventilation.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-635"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "thorax-model-hs21",
+      "section": "Nerves",
+      "path": [
+        "43"
+      ],
+      "label": "43"
+    }
+  ]
+}

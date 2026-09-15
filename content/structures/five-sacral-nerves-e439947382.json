@@ -1,0 +1,88 @@
+{
+  "id": "five-sacral-nerves-e439947382",
+  "name": "Five sacral nerves",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "NerveGroup"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "regions": [
+    "Back"
+  ],
+  "organs": [],
+  "tags": [
+    "Function",
+    "Identification",
+    "NerveGroup",
+    "Roots",
+    "SpinalNerves"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-e21a7f72d3",
+      "question": "Identification",
+      "preferredVariantId": "v-e439947382",
+      "variants": [
+        {
+          "id": "v-e439947382",
+          "answer": "Five sacral nerves",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-867"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-52e347d9c5",
+      "question": "Roots",
+      "preferredVariantId": "v-a7bf200305",
+      "variants": [
+        {
+          "id": "v-a7bf200305",
+          "answer": "S1–S5 spinal nerves.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-868"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-caad090f0d",
+      "question": "Function",
+      "preferredVariantId": "v-fe7be8fb37",
+      "variants": [
+        {
+          "id": "v-fe7be8fb37",
+          "answer": "Contribute to sacral plexus and pelvic/perineal innervation.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-869"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Spinal nerves",
+      "path": [
+        "4"
+      ],
+      "label": "4"
+    }
+  ]
+}

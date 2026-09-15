@@ -16,14 +16,16 @@
   "systems": [],
   "organs": [],
   "tags": [
+    "Brain",
     "Function",
     "Gland",
+    "HeadNeck",
+    "Identification",
     "Location",
     "MidSagittal",
     "MidlineStructures",
     "Parts",
-    "Relations",
-    "HeadNeck"
+    "Relations"
   ],
   "imageIds": [
     "img-8af8f7e1c684"
@@ -58,6 +60,10 @@
               "modelId": "head-and-neck-model-cs17-2",
               "cardId": "head-and-neck-model-cs17-2-534",
               "sourceLine": 534
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-197"
             }
           ]
         },
@@ -126,6 +132,16 @@
               "sourceLine": 165
             }
           ]
+        },
+        {
+          "id": "v-5c09171213",
+          "answer": "Within the sella turcica, connected to hypothalamus by the infundibulum.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-198"
+            }
+          ]
         }
       ],
       "editorialReview": {
@@ -173,6 +189,16 @@
               "modelId": "half-head-and-neck-model-bs9",
               "cardId": "half-head-and-neck-model-bs9-167",
               "sourceLine": 167
+            }
+          ]
+        },
+        {
+          "id": "v-cfec694355",
+          "answer": "Major endocrine gland regulating multiple hormonal axes.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-199"
             }
           ]
         }
@@ -314,6 +340,14 @@
         "11"
       ],
       "label": "11"
+    },
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Brain",
+      "path": [
+        "29"
+      ],
+      "label": "29"
     }
   ],
   "redirectIds": [

@@ -1,0 +1,7510 @@
+{
+  "id": "thorax-model-hs21",
+  "name": "Thorax (Model HS21)",
+  "cards": [
+    {
+      "id": "thorax-model-hs21-5",
+      "path": [
+        "1"
+      ],
+      "tags": [
+        "Identification",
+        "Bone",
+        "Bones",
+        "HS21"
+      ],
+      "sourceLine": 5,
+      "section": "Bones and cartilages",
+      "label": "1",
+      "structureId": "fifth-cervical-vertebra-6956a78764",
+      "factId": "f-4ef472b31e",
+      "variantId": "v-6956a78764"
+    },
+    {
+      "id": "thorax-model-hs21-6",
+      "path": [
+        "1"
+      ],
+      "tags": [
+        "Location",
+        "Bone",
+        "Bones",
+        "HS21"
+      ],
+      "sourceLine": 6,
+      "section": "Bones and cartilages",
+      "label": "1",
+      "structureId": "fifth-cervical-vertebra-6956a78764",
+      "factId": "f-c7be8b72fd",
+      "variantId": "v-0fbcbcaf7f"
+    },
+    {
+      "id": "thorax-model-hs21-7",
+      "path": [
+        "1"
+      ],
+      "tags": [
+        "Landmarks",
+        "Bone",
+        "Bones",
+        "HS21"
+      ],
+      "sourceLine": 7,
+      "section": "Bones and cartilages",
+      "label": "1",
+      "structureId": "fifth-cervical-vertebra-6956a78764",
+      "factId": "f-ade4bba92b",
+      "variantId": "v-858f37d608"
+    },
+    {
+      "id": "thorax-model-hs21-10",
+      "path": [
+        "2"
+      ],
+      "tags": [
+        "Identification",
+        "Bone",
+        "Bones",
+        "HS21"
+      ],
+      "sourceLine": 10,
+      "section": "Bones and cartilages",
+      "label": "2",
+      "structureId": "seventh-cervical-vertebra-ab8ae982bf",
+      "factId": "f-6e3141b6de",
+      "variantId": "v-ab8ae982bf"
+    },
+    {
+      "id": "thorax-model-hs21-11",
+      "path": [
+        "2"
+      ],
+      "tags": [
+        "AlsoCalled",
+        "Bone",
+        "Bones",
+        "HS21"
+      ],
+      "sourceLine": 11,
+      "section": "Bones and cartilages",
+      "label": "2",
+      "structureId": "seventh-cervical-vertebra-ab8ae982bf",
+      "factId": "f-3047c3e055",
+      "variantId": "v-d4290e2513"
+    },
+    {
+      "id": "thorax-model-hs21-12",
+      "path": [
+        "2"
+      ],
+      "tags": [
+        "Landmarks",
+        "Bone",
+        "Bones",
+        "HS21"
+      ],
+      "sourceLine": 12,
+      "section": "Bones and cartilages",
+      "label": "2",
+      "structureId": "seventh-cervical-vertebra-ab8ae982bf",
+      "factId": "f-2b62cd9cc2",
+      "variantId": "v-62b06e8d13"
+    },
+    {
+      "id": "thorax-model-hs21-15",
+      "path": [
+        "3"
+      ],
+      "tags": [
+        "Identification",
+        "Bone",
+        "Bones",
+        "HS21"
+      ],
+      "sourceLine": 15,
+      "section": "Bones and cartilages",
+      "label": "3",
+      "structureId": "first-thoracic-vertebra-7c7218b9ac",
+      "factId": "f-306c290acd",
+      "variantId": "v-7c7218b9ac"
+    },
+    {
+      "id": "thorax-model-hs21-16",
+      "path": [
+        "3"
+      ],
+      "tags": [
+        "Location",
+        "Bone",
+        "Bones",
+        "HS21"
+      ],
+      "sourceLine": 16,
+      "section": "Bones and cartilages",
+      "label": "3",
+      "structureId": "first-thoracic-vertebra-7c7218b9ac",
+      "factId": "f-c848ac0440",
+      "variantId": "v-9eff9e21c1"
+    },
+    {
+      "id": "thorax-model-hs21-17",
+      "path": [
+        "3"
+      ],
+      "tags": [
+        "Articulations",
+        "Bone",
+        "Bones",
+        "HS21"
+      ],
+      "sourceLine": 17,
+      "section": "Bones and cartilages",
+      "label": "3",
+      "structureId": "first-thoracic-vertebra-7c7218b9ac",
+      "factId": "f-7edfd7f3d1",
+      "variantId": "v-4d88c932a5"
+    },
+    {
+      "id": "thorax-model-hs21-20",
+      "path": [
+        "4"
+      ],
+      "tags": [
+        "Identification",
+        "Bone",
+        "Bones",
+        "HS21"
+      ],
+      "sourceLine": 20,
+      "section": "Bones and cartilages",
+      "label": "4",
+      "structureId": "twelfth-thoracic-vertebra-0ac8bcc6d0",
+      "factId": "f-ef07eeddb8",
+      "variantId": "v-0ac8bcc6d0"
+    },
+    {
+      "id": "thorax-model-hs21-21",
+      "path": [
+        "4"
+      ],
+      "tags": [
+        "Location",
+        "Bone",
+        "Bones",
+        "HS21"
+      ],
+      "sourceLine": 21,
+      "section": "Bones and cartilages",
+      "label": "4",
+      "structureId": "twelfth-thoracic-vertebra-0ac8bcc6d0",
+      "factId": "f-d9fe136640",
+      "variantId": "v-dc6ce67d71"
+    },
+    {
+      "id": "thorax-model-hs21-22",
+      "path": [
+        "4"
+      ],
+      "tags": [
+        "Articulations",
+        "Bone",
+        "Bones",
+        "HS21"
+      ],
+      "sourceLine": 22,
+      "section": "Bones and cartilages",
+      "label": "4",
+      "structureId": "twelfth-thoracic-vertebra-0ac8bcc6d0",
+      "factId": "f-5bef8c82f7",
+      "variantId": "v-39614f6c8d"
+    },
+    {
+      "id": "thorax-model-hs21-25",
+      "path": [
+        "5"
+      ],
+      "tags": [
+        "Identification",
+        "Bone",
+        "Bones",
+        "HS21"
+      ],
+      "sourceLine": 25,
+      "section": "Bones and cartilages",
+      "label": "5",
+      "structureId": "first-lumbar-vertebra-8c465b36af",
+      "factId": "f-f4e4b60ebe",
+      "variantId": "v-8c465b36af"
+    },
+    {
+      "id": "thorax-model-hs21-26",
+      "path": [
+        "5"
+      ],
+      "tags": [
+        "Location",
+        "Bone",
+        "Bones",
+        "HS21"
+      ],
+      "sourceLine": 26,
+      "section": "Bones and cartilages",
+      "label": "5",
+      "structureId": "first-lumbar-vertebra-8c465b36af",
+      "factId": "f-084b833362",
+      "variantId": "v-5ab56be4c4"
+    },
+    {
+      "id": "thorax-model-hs21-27",
+      "path": [
+        "5"
+      ],
+      "tags": [
+        "Function",
+        "Bone",
+        "Bones",
+        "HS21"
+      ],
+      "sourceLine": 27,
+      "section": "Bones and cartilages",
+      "label": "5",
+      "structureId": "first-lumbar-vertebra-8c465b36af",
+      "factId": "f-35a2d799f8",
+      "variantId": "v-9ac1a45a8e"
+    },
+    {
+      "id": "thorax-model-hs21-30",
+      "path": [
+        "6"
+      ],
+      "tags": [
+        "Identification",
+        "Bone",
+        "Bones",
+        "HS21"
+      ],
+      "sourceLine": 30,
+      "section": "Bones and cartilages",
+      "label": "6",
+      "structureId": "second-lumbar-vertebra-fe08312dd9",
+      "factId": "f-891db6a209",
+      "variantId": "v-fe08312dd9"
+    },
+    {
+      "id": "thorax-model-hs21-31",
+      "path": [
+        "6"
+      ],
+      "tags": [
+        "Location",
+        "Bone",
+        "Bones",
+        "HS21"
+      ],
+      "sourceLine": 31,
+      "section": "Bones and cartilages",
+      "label": "6",
+      "structureId": "second-lumbar-vertebra-fe08312dd9",
+      "factId": "f-cae48471ba",
+      "variantId": "v-e31b1a7bb6"
+    },
+    {
+      "id": "thorax-model-hs21-32",
+      "path": [
+        "6"
+      ],
+      "tags": [
+        "Function",
+        "Bone",
+        "Bones",
+        "HS21"
+      ],
+      "sourceLine": 32,
+      "section": "Bones and cartilages",
+      "label": "6",
+      "structureId": "second-lumbar-vertebra-fe08312dd9",
+      "factId": "f-2cb1b12f89",
+      "variantId": "v-c9944b1e96"
+    },
+    {
+      "id": "thorax-model-hs21-35",
+      "path": [
+        "7"
+      ],
+      "tags": [
+        "Identification",
+        "Bone",
+        "Bones",
+        "HS21"
+      ],
+      "sourceLine": 35,
+      "section": "Bones and cartilages",
+      "label": "7",
+      "structureId": "first-rib-213c86da58",
+      "factId": "f-b20af40e8f",
+      "variantId": "v-213c86da58"
+    },
+    {
+      "id": "thorax-model-hs21-36",
+      "path": [
+        "7"
+      ],
+      "tags": [
+        "Articulations",
+        "Bone",
+        "Bones",
+        "HS21"
+      ],
+      "sourceLine": 36,
+      "section": "Bones and cartilages",
+      "label": "7",
+      "structureId": "first-rib-213c86da58",
+      "factId": "f-9b58399d2b",
+      "variantId": "v-61e5cb72c4"
+    },
+    {
+      "id": "thorax-model-hs21-37",
+      "path": [
+        "7"
+      ],
+      "tags": [
+        "Landmarks",
+        "Bone",
+        "Bones",
+        "HS21"
+      ],
+      "sourceLine": 37,
+      "section": "Bones and cartilages",
+      "label": "7",
+      "structureId": "first-rib-213c86da58",
+      "factId": "f-a1177e82ab",
+      "variantId": "v-af7d3a0dfa"
+    },
+    {
+      "id": "thorax-model-hs21-38",
+      "path": [
+        "7"
+      ],
+      "tags": [
+        "Clinical",
+        "Bone",
+        "Bones",
+        "HS21"
+      ],
+      "sourceLine": 38,
+      "section": "Bones and cartilages",
+      "label": "7",
+      "structureId": "first-rib-213c86da58",
+      "factId": "f-aa4035215a",
+      "variantId": "v-9e1ad14ecf"
+    },
+    {
+      "id": "thorax-model-hs21-41",
+      "path": [
+        "8"
+      ],
+      "tags": [
+        "Identification",
+        "Bone",
+        "Bones",
+        "HS21"
+      ],
+      "sourceLine": 41,
+      "section": "Bones and cartilages",
+      "label": "8",
+      "structureId": "twelfth-rib-c9939122f7",
+      "factId": "f-a869c726bf",
+      "variantId": "v-c9939122f7"
+    },
+    {
+      "id": "thorax-model-hs21-42",
+      "path": [
+        "8"
+      ],
+      "tags": [
+        "Structure",
+        "Bone",
+        "Bones",
+        "HS21"
+      ],
+      "sourceLine": 42,
+      "section": "Bones and cartilages",
+      "label": "8",
+      "structureId": "twelfth-rib-c9939122f7",
+      "factId": "f-f446cc9d8f",
+      "variantId": "v-afa1d5d6fa"
+    },
+    {
+      "id": "thorax-model-hs21-43",
+      "path": [
+        "8"
+      ],
+      "tags": [
+        "Articulations",
+        "Bone",
+        "Bones",
+        "HS21"
+      ],
+      "sourceLine": 43,
+      "section": "Bones and cartilages",
+      "label": "8",
+      "structureId": "twelfth-rib-c9939122f7",
+      "factId": "f-acbd2d692a",
+      "variantId": "v-a76a617ee3"
+    },
+    {
+      "id": "thorax-model-hs21-46",
+      "path": [
+        "9"
+      ],
+      "tags": [
+        "Identification",
+        "Bone",
+        "Bones",
+        "HS21"
+      ],
+      "sourceLine": 46,
+      "section": "Bones and cartilages",
+      "label": "9",
+      "structureId": "sternum-43a7d052ca",
+      "factId": "f-8ff6f5295e",
+      "variantId": "v-43a7d052ca"
+    },
+    {
+      "id": "thorax-model-hs21-47",
+      "path": [
+        "9"
+      ],
+      "tags": [
+        "Parts",
+        "Bone",
+        "Bones",
+        "HS21"
+      ],
+      "sourceLine": 47,
+      "section": "Bones and cartilages",
+      "label": "9",
+      "structureId": "sternum-43a7d052ca",
+      "factId": "f-fb8b11a411",
+      "variantId": "v-974f058698"
+    },
+    {
+      "id": "thorax-model-hs21-48",
+      "path": [
+        "9"
+      ],
+      "tags": [
+        "Function",
+        "Bone",
+        "Bones",
+        "HS21"
+      ],
+      "sourceLine": 48,
+      "section": "Bones and cartilages",
+      "label": "9",
+      "structureId": "sternum-43a7d052ca",
+      "factId": "f-74e8344d7d",
+      "variantId": "v-c18dca1194"
+    },
+    {
+      "id": "thorax-model-hs21-49",
+      "path": [
+        "9"
+      ],
+      "tags": [
+        "Clinical",
+        "Bone",
+        "Bones",
+        "HS21"
+      ],
+      "sourceLine": 49,
+      "section": "Bones and cartilages",
+      "label": "9",
+      "structureId": "sternum-43a7d052ca",
+      "factId": "f-8bff47239a",
+      "variantId": "v-d282be98dc"
+    },
+    {
+      "id": "thorax-model-hs21-52",
+      "path": [
+        "10"
+      ],
+      "tags": [
+        "Identification",
+        "Cartilage",
+        "Bones",
+        "HS21"
+      ],
+      "sourceLine": 52,
+      "section": "Bones and cartilages",
+      "label": "10",
+      "structureId": "costal-cartilage-328251ada5",
+      "factId": "f-a3d07a4046",
+      "variantId": "v-328251ada5"
+    },
+    {
+      "id": "thorax-model-hs21-53",
+      "path": [
+        "10"
+      ],
+      "tags": [
+        "Function",
+        "Cartilage",
+        "Bones",
+        "HS21"
+      ],
+      "sourceLine": 53,
+      "section": "Bones and cartilages",
+      "label": "10",
+      "structureId": "costal-cartilage-328251ada5",
+      "factId": "f-9c69aa0c3e",
+      "variantId": "v-c41b9e6b3b"
+    },
+    {
+      "id": "thorax-model-hs21-54",
+      "path": [
+        "10"
+      ],
+      "tags": [
+        "Structure",
+        "Cartilage",
+        "Bones",
+        "HS21"
+      ],
+      "sourceLine": 54,
+      "section": "Bones and cartilages",
+      "label": "10",
+      "structureId": "costal-cartilage-328251ada5",
+      "factId": "f-4053266e52",
+      "variantId": "v-00005b0d36"
+    },
+    {
+      "id": "thorax-model-hs21-58",
+      "path": [
+        "11"
+      ],
+      "tags": [
+        "Identification",
+        "Muscle",
+        "Muscles",
+        "HS21"
+      ],
+      "sourceLine": 58,
+      "section": "Muscles and tendons",
+      "label": "11",
+      "structureId": "anterior-scalene-muscle-77d90e6488",
+      "factId": "f-9d2c706308",
+      "variantId": "v-88c057c1bd"
+    },
+    {
+      "id": "thorax-model-hs21-59",
+      "path": [
+        "11"
+      ],
+      "tags": [
+        "Action",
+        "Muscle",
+        "Muscles",
+        "HS21"
+      ],
+      "sourceLine": 59,
+      "section": "Muscles and tendons",
+      "label": "11",
+      "structureId": "anterior-scalene-muscle-77d90e6488",
+      "factId": "f-c3cd636a58",
+      "variantId": "v-ace6269d7a"
+    },
+    {
+      "id": "thorax-model-hs21-60",
+      "path": [
+        "11"
+      ],
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "Muscles",
+        "HS21"
+      ],
+      "sourceLine": 60,
+      "section": "Muscles and tendons",
+      "label": "11",
+      "structureId": "anterior-scalene-muscle-77d90e6488",
+      "factId": "f-65461dd593",
+      "variantId": "v-d03f781ff5"
+    },
+    {
+      "id": "thorax-model-hs21-61",
+      "path": [
+        "11"
+      ],
+      "tags": [
+        "Origin",
+        "Muscle",
+        "Muscles",
+        "HS21"
+      ],
+      "sourceLine": 61,
+      "section": "Muscles and tendons",
+      "label": "11",
+      "structureId": "anterior-scalene-muscle-77d90e6488",
+      "factId": "f-44ab85a252",
+      "variantId": "v-03e6020967"
+    },
+    {
+      "id": "thorax-model-hs21-62",
+      "path": [
+        "11"
+      ],
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "Muscles",
+        "HS21"
+      ],
+      "sourceLine": 62,
+      "section": "Muscles and tendons",
+      "label": "11",
+      "structureId": "anterior-scalene-muscle-77d90e6488",
+      "factId": "f-6ffaeff164",
+      "variantId": "v-6b9dbc8a12"
+    },
+    {
+      "id": "thorax-model-hs21-65",
+      "path": [
+        "12"
+      ],
+      "tags": [
+        "Identification",
+        "Muscle",
+        "Muscles",
+        "HS21"
+      ],
+      "sourceLine": 65,
+      "section": "Muscles and tendons",
+      "label": "12",
+      "structureId": "middle-scalene-muscle-8f8e31b54e",
+      "factId": "f-9d2c706308",
+      "variantId": "v-0b49811014"
+    },
+    {
+      "id": "thorax-model-hs21-66",
+      "path": [
+        "12"
+      ],
+      "tags": [
+        "Action",
+        "Muscle",
+        "Muscles",
+        "HS21"
+      ],
+      "sourceLine": 66,
+      "section": "Muscles and tendons",
+      "label": "12",
+      "structureId": "middle-scalene-muscle-8f8e31b54e",
+      "factId": "f-c3cd636a58",
+      "variantId": "v-7ed3a56c2c"
+    },
+    {
+      "id": "thorax-model-hs21-67",
+      "path": [
+        "12"
+      ],
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "Muscles",
+        "HS21"
+      ],
+      "sourceLine": 67,
+      "section": "Muscles and tendons",
+      "label": "12",
+      "structureId": "middle-scalene-muscle-8f8e31b54e",
+      "factId": "f-65461dd593",
+      "variantId": "v-e517ab658c"
+    },
+    {
+      "id": "thorax-model-hs21-68",
+      "path": [
+        "12"
+      ],
+      "tags": [
+        "Origin",
+        "Muscle",
+        "Muscles",
+        "HS21"
+      ],
+      "sourceLine": 68,
+      "section": "Muscles and tendons",
+      "label": "12",
+      "structureId": "middle-scalene-muscle-8f8e31b54e",
+      "factId": "f-44ab85a252",
+      "variantId": "v-7601c9a9c6"
+    },
+    {
+      "id": "thorax-model-hs21-69",
+      "path": [
+        "12"
+      ],
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "Muscles",
+        "HS21"
+      ],
+      "sourceLine": 69,
+      "section": "Muscles and tendons",
+      "label": "12",
+      "structureId": "middle-scalene-muscle-8f8e31b54e",
+      "factId": "f-6ffaeff164",
+      "variantId": "v-9d873d77fd"
+    },
+    {
+      "id": "thorax-model-hs21-72",
+      "path": [
+        "13"
+      ],
+      "tags": [
+        "Identification",
+        "Muscle",
+        "Muscles",
+        "HS21"
+      ],
+      "sourceLine": 72,
+      "section": "Muscles and tendons",
+      "label": "13",
+      "structureId": "posterior-scalene-muscle-2630d89a0a",
+      "factId": "f-9d2c706308",
+      "variantId": "v-66bed211de"
+    },
+    {
+      "id": "thorax-model-hs21-73",
+      "path": [
+        "13"
+      ],
+      "tags": [
+        "Action",
+        "Muscle",
+        "Muscles",
+        "HS21"
+      ],
+      "sourceLine": 73,
+      "section": "Muscles and tendons",
+      "label": "13",
+      "structureId": "posterior-scalene-muscle-2630d89a0a",
+      "factId": "f-c3cd636a58",
+      "variantId": "v-159b7fb439"
+    },
+    {
+      "id": "thorax-model-hs21-74",
+      "path": [
+        "13"
+      ],
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "Muscles",
+        "HS21"
+      ],
+      "sourceLine": 74,
+      "section": "Muscles and tendons",
+      "label": "13",
+      "structureId": "posterior-scalene-muscle-2630d89a0a",
+      "factId": "f-65461dd593",
+      "variantId": "v-8365fb13f2"
+    },
+    {
+      "id": "thorax-model-hs21-75",
+      "path": [
+        "13"
+      ],
+      "tags": [
+        "Origin",
+        "Muscle",
+        "Muscles",
+        "HS21"
+      ],
+      "sourceLine": 75,
+      "section": "Muscles and tendons",
+      "label": "13",
+      "structureId": "posterior-scalene-muscle-2630d89a0a",
+      "factId": "f-44ab85a252",
+      "variantId": "v-575798fe75"
+    },
+    {
+      "id": "thorax-model-hs21-76",
+      "path": [
+        "13"
+      ],
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "Muscles",
+        "HS21"
+      ],
+      "sourceLine": 76,
+      "section": "Muscles and tendons",
+      "label": "13",
+      "structureId": "posterior-scalene-muscle-2630d89a0a",
+      "factId": "f-6ffaeff164",
+      "variantId": "v-a97bc18390"
+    },
+    {
+      "id": "thorax-model-hs21-79",
+      "path": [
+        "14"
+      ],
+      "tags": [
+        "Identification",
+        "Muscle",
+        "Muscles",
+        "HS21"
+      ],
+      "sourceLine": 79,
+      "section": "Muscles and tendons",
+      "label": "14",
+      "structureId": "splenius-capitis-muscle-68d5a39be5",
+      "factId": "f-9d2c706308",
+      "variantId": "v-537acb0de2"
+    },
+    {
+      "id": "thorax-model-hs21-80",
+      "path": [
+        "14"
+      ],
+      "tags": [
+        "Action",
+        "Muscle",
+        "Muscles",
+        "HS21"
+      ],
+      "sourceLine": 80,
+      "section": "Muscles and tendons",
+      "label": "14",
+      "structureId": "splenius-capitis-muscle-68d5a39be5",
+      "factId": "f-c3cd636a58",
+      "variantId": "v-14df50bdc4"
+    },
+    {
+      "id": "thorax-model-hs21-81",
+      "path": [
+        "14"
+      ],
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "Muscles",
+        "HS21"
+      ],
+      "sourceLine": 81,
+      "section": "Muscles and tendons",
+      "label": "14",
+      "structureId": "splenius-capitis-muscle-68d5a39be5",
+      "factId": "f-65461dd593",
+      "variantId": "v-f1f4b97463"
+    },
+    {
+      "id": "thorax-model-hs21-82",
+      "path": [
+        "14"
+      ],
+      "tags": [
+        "Origin",
+        "Muscle",
+        "Muscles",
+        "HS21"
+      ],
+      "sourceLine": 82,
+      "section": "Muscles and tendons",
+      "label": "14",
+      "structureId": "splenius-capitis-muscle-68d5a39be5",
+      "factId": "f-44ab85a252",
+      "variantId": "v-7742af693d"
+    },
+    {
+      "id": "thorax-model-hs21-83",
+      "path": [
+        "14"
+      ],
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "Muscles",
+        "HS21"
+      ],
+      "sourceLine": 83,
+      "section": "Muscles and tendons",
+      "label": "14",
+      "structureId": "splenius-capitis-muscle-68d5a39be5",
+      "factId": "f-6ffaeff164",
+      "variantId": "v-4f810ded64"
+    },
+    {
+      "id": "thorax-model-hs21-86",
+      "path": [
+        "15"
+      ],
+      "tags": [
+        "Identification",
+        "Muscle",
+        "Muscles",
+        "HS21"
+      ],
+      "sourceLine": 86,
+      "section": "Muscles and tendons",
+      "label": "15",
+      "structureId": "splenius-cervicis-muscle-c5410435de",
+      "factId": "f-0a6b91f3d7",
+      "variantId": "v-c5410435de"
+    },
+    {
+      "id": "thorax-model-hs21-87",
+      "path": [
+        "15"
+      ],
+      "tags": [
+        "Action",
+        "Muscle",
+        "Muscles",
+        "HS21"
+      ],
+      "sourceLine": 87,
+      "section": "Muscles and tendons",
+      "label": "15",
+      "structureId": "splenius-cervicis-muscle-c5410435de",
+      "factId": "f-6f2d0b0aef",
+      "variantId": "v-fc36331907"
+    },
+    {
+      "id": "thorax-model-hs21-88",
+      "path": [
+        "15"
+      ],
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "Muscles",
+        "HS21"
+      ],
+      "sourceLine": 88,
+      "section": "Muscles and tendons",
+      "label": "15",
+      "structureId": "splenius-cervicis-muscle-c5410435de",
+      "factId": "f-063c8281c4",
+      "variantId": "v-618592767b"
+    },
+    {
+      "id": "thorax-model-hs21-89",
+      "path": [
+        "15"
+      ],
+      "tags": [
+        "Origin",
+        "Muscle",
+        "Muscles",
+        "HS21"
+      ],
+      "sourceLine": 89,
+      "section": "Muscles and tendons",
+      "label": "15",
+      "structureId": "splenius-cervicis-muscle-c5410435de",
+      "factId": "f-097449b996",
+      "variantId": "v-3777e49015"
+    },
+    {
+      "id": "thorax-model-hs21-90",
+      "path": [
+        "15"
+      ],
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "Muscles",
+        "HS21"
+      ],
+      "sourceLine": 90,
+      "section": "Muscles and tendons",
+      "label": "15",
+      "structureId": "splenius-cervicis-muscle-c5410435de",
+      "factId": "f-07deca58d7",
+      "variantId": "v-72bc41fb39"
+    },
+    {
+      "id": "thorax-model-hs21-93",
+      "path": [
+        "16"
+      ],
+      "tags": [
+        "Identification",
+        "Muscle",
+        "Muscles",
+        "HS21"
+      ],
+      "sourceLine": 93,
+      "section": "Muscles and tendons",
+      "label": "16",
+      "structureId": "long-levator-costarum-muscle-ac29484429",
+      "factId": "f-9851945dbd",
+      "variantId": "v-ac29484429"
+    },
+    {
+      "id": "thorax-model-hs21-94",
+      "path": [
+        "16"
+      ],
+      "tags": [
+        "Action",
+        "Muscle",
+        "Muscles",
+        "HS21"
+      ],
+      "sourceLine": 94,
+      "section": "Muscles and tendons",
+      "label": "16",
+      "structureId": "long-levator-costarum-muscle-ac29484429",
+      "factId": "f-d331e13659",
+      "variantId": "v-570e2625f3"
+    },
+    {
+      "id": "thorax-model-hs21-95",
+      "path": [
+        "16"
+      ],
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "Muscles",
+        "HS21"
+      ],
+      "sourceLine": 95,
+      "section": "Muscles and tendons",
+      "label": "16",
+      "structureId": "long-levator-costarum-muscle-ac29484429",
+      "factId": "f-b58542340b",
+      "variantId": "v-5acf9d39a0"
+    },
+    {
+      "id": "thorax-model-hs21-96",
+      "path": [
+        "16"
+      ],
+      "tags": [
+        "Origin",
+        "Muscle",
+        "Muscles",
+        "HS21"
+      ],
+      "sourceLine": 96,
+      "section": "Muscles and tendons",
+      "label": "16",
+      "structureId": "long-levator-costarum-muscle-ac29484429",
+      "factId": "f-517374a81b",
+      "variantId": "v-7e30a07543"
+    },
+    {
+      "id": "thorax-model-hs21-97",
+      "path": [
+        "16"
+      ],
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "Muscles",
+        "HS21"
+      ],
+      "sourceLine": 97,
+      "section": "Muscles and tendons",
+      "label": "16",
+      "structureId": "long-levator-costarum-muscle-ac29484429",
+      "factId": "f-2cb4fccb19",
+      "variantId": "v-34d723cc6f"
+    },
+    {
+      "id": "thorax-model-hs21-100",
+      "path": [
+        "17"
+      ],
+      "tags": [
+        "Identification",
+        "Muscle",
+        "Muscles",
+        "HS21"
+      ],
+      "sourceLine": 100,
+      "section": "Muscles and tendons",
+      "label": "17",
+      "structureId": "multifidus-muscle-0520f948ac",
+      "factId": "f-9ade104f55",
+      "variantId": "v-0520f948ac"
+    },
+    {
+      "id": "thorax-model-hs21-101",
+      "path": [
+        "17"
+      ],
+      "tags": [
+        "Action",
+        "Muscle",
+        "Muscles",
+        "HS21"
+      ],
+      "sourceLine": 101,
+      "section": "Muscles and tendons",
+      "label": "17",
+      "structureId": "multifidus-muscle-0520f948ac",
+      "factId": "f-e0dcce319d",
+      "variantId": "v-9a3debca01"
+    },
+    {
+      "id": "thorax-model-hs21-102",
+      "path": [
+        "17"
+      ],
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "Muscles",
+        "HS21"
+      ],
+      "sourceLine": 102,
+      "section": "Muscles and tendons",
+      "label": "17",
+      "structureId": "multifidus-muscle-0520f948ac",
+      "factId": "f-7451338bf6",
+      "variantId": "v-bc6d8d489f"
+    },
+    {
+      "id": "thorax-model-hs21-103",
+      "path": [
+        "17"
+      ],
+      "tags": [
+        "Origin",
+        "Muscle",
+        "Muscles",
+        "HS21"
+      ],
+      "sourceLine": 103,
+      "section": "Muscles and tendons",
+      "label": "17",
+      "structureId": "multifidus-muscle-0520f948ac",
+      "factId": "f-764ef62207",
+      "variantId": "v-7c8e52f7a9"
+    },
+    {
+      "id": "thorax-model-hs21-104",
+      "path": [
+        "17"
+      ],
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "Muscles",
+        "HS21"
+      ],
+      "sourceLine": 104,
+      "section": "Muscles and tendons",
+      "label": "17",
+      "structureId": "multifidus-muscle-0520f948ac",
+      "factId": "f-bd3907de5d",
+      "variantId": "v-341d16deb0"
+    },
+    {
+      "id": "thorax-model-hs21-107",
+      "path": [
+        "18"
+      ],
+      "tags": [
+        "Identification",
+        "Muscle",
+        "Muscles",
+        "HS21"
+      ],
+      "sourceLine": 107,
+      "section": "Muscles and tendons",
+      "label": "18",
+      "structureId": "thoracolumbar-fascia-ceed1cb2ed",
+      "factId": "f-93fde3f086",
+      "variantId": "v-ceed1cb2ed"
+    },
+    {
+      "id": "thorax-model-hs21-108",
+      "path": [
+        "18"
+      ],
+      "tags": [
+        "Structure",
+        "Muscle",
+        "Muscles",
+        "HS21"
+      ],
+      "sourceLine": 108,
+      "section": "Muscles and tendons",
+      "label": "18",
+      "structureId": "thoracolumbar-fascia-ceed1cb2ed",
+      "factId": "f-082b44ae5e",
+      "variantId": "v-632a650b7d"
+    },
+    {
+      "id": "thorax-model-hs21-109",
+      "path": [
+        "18"
+      ],
+      "tags": [
+        "Function",
+        "Muscle",
+        "Muscles",
+        "HS21"
+      ],
+      "sourceLine": 109,
+      "section": "Muscles and tendons",
+      "label": "18",
+      "structureId": "thoracolumbar-fascia-ceed1cb2ed",
+      "factId": "f-18f514a564",
+      "variantId": "v-56a94eaacb"
+    },
+    {
+      "id": "thorax-model-hs21-112",
+      "path": [
+        "19"
+      ],
+      "tags": [
+        "Identification",
+        "Muscle",
+        "Muscles",
+        "HS21"
+      ],
+      "sourceLine": 112,
+      "section": "Muscles and tendons",
+      "label": "19",
+      "structureId": "longus-colli-muscle-e956eb44a0",
+      "factId": "f-5cf4c26924",
+      "variantId": "v-e956eb44a0"
+    },
+    {
+      "id": "thorax-model-hs21-113",
+      "path": [
+        "19"
+      ],
+      "tags": [
+        "Action",
+        "Muscle",
+        "Muscles",
+        "HS21"
+      ],
+      "sourceLine": 113,
+      "section": "Muscles and tendons",
+      "label": "19",
+      "structureId": "longus-colli-muscle-e956eb44a0",
+      "factId": "f-1448b7282f",
+      "variantId": "v-69e3a00f0d"
+    },
+    {
+      "id": "thorax-model-hs21-114",
+      "path": [
+        "19"
+      ],
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "Muscles",
+        "HS21"
+      ],
+      "sourceLine": 114,
+      "section": "Muscles and tendons",
+      "label": "19",
+      "structureId": "longus-colli-muscle-e956eb44a0",
+      "factId": "f-380411530d",
+      "variantId": "v-f620c52e46"
+    },
+    {
+      "id": "thorax-model-hs21-115",
+      "path": [
+        "19"
+      ],
+      "tags": [
+        "Origin",
+        "Muscle",
+        "Muscles",
+        "HS21"
+      ],
+      "sourceLine": 115,
+      "section": "Muscles and tendons",
+      "label": "19",
+      "structureId": "longus-colli-muscle-e956eb44a0",
+      "factId": "f-b21e67f9d8",
+      "variantId": "v-b05b95edcb"
+    },
+    {
+      "id": "thorax-model-hs21-116",
+      "path": [
+        "19"
+      ],
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "Muscles",
+        "HS21"
+      ],
+      "sourceLine": 116,
+      "section": "Muscles and tendons",
+      "label": "19",
+      "structureId": "longus-colli-muscle-e956eb44a0",
+      "factId": "f-ca253b26dc",
+      "variantId": "v-267f67bad8"
+    },
+    {
+      "id": "thorax-model-hs21-119",
+      "path": [
+        "20"
+      ],
+      "tags": [
+        "Identification",
+        "Muscle",
+        "Muscles",
+        "HS21"
+      ],
+      "sourceLine": 119,
+      "section": "Muscles and tendons",
+      "label": "20",
+      "structureId": "diaphragm-60575b9d78",
+      "factId": "f-9d2c706308",
+      "variantId": "v-19a78b6680"
+    },
+    {
+      "id": "thorax-model-hs21-120",
+      "path": [
+        "20"
+      ],
+      "tags": [
+        "Action",
+        "Muscle",
+        "Muscles",
+        "HS21"
+      ],
+      "sourceLine": 120,
+      "section": "Muscles and tendons",
+      "label": "20",
+      "structureId": "diaphragm-60575b9d78",
+      "factId": "f-c3cd636a58",
+      "variantId": "v-1f8371e028"
+    },
+    {
+      "id": "thorax-model-hs21-121",
+      "path": [
+        "20"
+      ],
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "Muscles",
+        "HS21"
+      ],
+      "sourceLine": 121,
+      "section": "Muscles and tendons",
+      "label": "20",
+      "structureId": "diaphragm-60575b9d78",
+      "factId": "f-65461dd593",
+      "variantId": "v-c7f37e08b9"
+    },
+    {
+      "id": "thorax-model-hs21-122",
+      "path": [
+        "20"
+      ],
+      "tags": [
+        "Origin",
+        "Muscle",
+        "Muscles",
+        "HS21"
+      ],
+      "sourceLine": 122,
+      "section": "Muscles and tendons",
+      "label": "20",
+      "structureId": "diaphragm-60575b9d78",
+      "factId": "f-44ab85a252",
+      "variantId": "v-18535b62d9"
+    },
+    {
+      "id": "thorax-model-hs21-123",
+      "path": [
+        "20"
+      ],
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "Muscles",
+        "HS21"
+      ],
+      "sourceLine": 123,
+      "section": "Muscles and tendons",
+      "label": "20",
+      "structureId": "diaphragm-60575b9d78",
+      "factId": "f-6ffaeff164",
+      "variantId": "v-8c91433848"
+    },
+    {
+      "id": "thorax-model-hs21-124",
+      "path": [
+        "20"
+      ],
+      "tags": [
+        "Clinical",
+        "Muscle",
+        "Muscles",
+        "HS21"
+      ],
+      "sourceLine": 124,
+      "section": "Muscles and tendons",
+      "label": "20",
+      "structureId": "diaphragm-60575b9d78",
+      "factId": "f-5cec735e15",
+      "variantId": "v-4980795a2d"
+    },
+    {
+      "id": "thorax-model-hs21-127",
+      "path": [
+        "21"
+      ],
+      "tags": [
+        "Identification",
+        "Muscle",
+        "Muscles",
+        "HS21"
+      ],
+      "sourceLine": 127,
+      "section": "Muscles and tendons",
+      "label": "21",
+      "structureId": "diaphragmatic-part-of-the-pericardium-f075e0e330",
+      "factId": "f-8e5539d1f0",
+      "variantId": "v-f075e0e330"
+    },
+    {
+      "id": "thorax-model-hs21-128",
+      "path": [
+        "21"
+      ],
+      "tags": [
+        "Structure",
+        "Muscle",
+        "Muscles",
+        "HS21"
+      ],
+      "sourceLine": 128,
+      "section": "Muscles and tendons",
+      "label": "21",
+      "structureId": "diaphragmatic-part-of-the-pericardium-f075e0e330",
+      "factId": "f-831095a6a0",
+      "variantId": "v-a058584e09"
+    },
+    {
+      "id": "thorax-model-hs21-129",
+      "path": [
+        "21"
+      ],
+      "tags": [
+        "Function",
+        "Muscle",
+        "Muscles",
+        "HS21"
+      ],
+      "sourceLine": 129,
+      "section": "Muscles and tendons",
+      "label": "21",
+      "structureId": "diaphragmatic-part-of-the-pericardium-f075e0e330",
+      "factId": "f-6b6fdc6059",
+      "variantId": "v-9053793edc"
+    },
+    {
+      "id": "thorax-model-hs21-132",
+      "path": [
+        "22"
+      ],
+      "tags": [
+        "Identification",
+        "Muscle",
+        "Muscles",
+        "HS21"
+      ],
+      "sourceLine": 132,
+      "section": "Muscles and tendons",
+      "label": "22",
+      "structureId": "intercostal-muscles-2ed0ac1762",
+      "factId": "f-ec3dfc0d15",
+      "variantId": "v-2ed0ac1762"
+    },
+    {
+      "id": "thorax-model-hs21-133",
+      "path": [
+        "22"
+      ],
+      "tags": [
+        "Action",
+        "Muscle",
+        "Muscles",
+        "HS21"
+      ],
+      "sourceLine": 133,
+      "section": "Muscles and tendons",
+      "label": "22",
+      "structureId": "intercostal-muscles-2ed0ac1762",
+      "factId": "f-ad8d52644d",
+      "variantId": "v-ba946d0398"
+    },
+    {
+      "id": "thorax-model-hs21-134",
+      "path": [
+        "22"
+      ],
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "Muscles",
+        "HS21"
+      ],
+      "sourceLine": 134,
+      "section": "Muscles and tendons",
+      "label": "22",
+      "structureId": "intercostal-muscles-2ed0ac1762",
+      "factId": "f-0647659bcd",
+      "variantId": "v-d50056337c"
+    },
+    {
+      "id": "thorax-model-hs21-135",
+      "path": [
+        "22"
+      ],
+      "tags": [
+        "Layers",
+        "Muscle",
+        "Muscles",
+        "HS21"
+      ],
+      "sourceLine": 135,
+      "section": "Muscles and tendons",
+      "label": "22",
+      "structureId": "intercostal-muscles-2ed0ac1762",
+      "factId": "f-f7513d8642",
+      "variantId": "v-410946137e"
+    },
+    {
+      "id": "thorax-model-hs21-138",
+      "path": [
+        "23"
+      ],
+      "tags": [
+        "Identification",
+        "Muscle",
+        "Muscles",
+        "HS21"
+      ],
+      "sourceLine": 138,
+      "section": "Muscles and tendons",
+      "label": "23",
+      "structureId": "internal-oblique-muscle-4fc60fec8e",
+      "factId": "f-7c899dd500",
+      "variantId": "v-4fc60fec8e"
+    },
+    {
+      "id": "thorax-model-hs21-139",
+      "path": [
+        "23"
+      ],
+      "tags": [
+        "Action",
+        "Muscle",
+        "Muscles",
+        "HS21"
+      ],
+      "sourceLine": 139,
+      "section": "Muscles and tendons",
+      "label": "23",
+      "structureId": "internal-oblique-muscle-4fc60fec8e",
+      "factId": "f-9139fe8fa3",
+      "variantId": "v-6bdc22204c"
+    },
+    {
+      "id": "thorax-model-hs21-140",
+      "path": [
+        "23"
+      ],
+      "tags": [
+        "Innervation",
+        "Muscle",
+        "Muscles",
+        "HS21"
+      ],
+      "sourceLine": 140,
+      "section": "Muscles and tendons",
+      "label": "23",
+      "structureId": "internal-oblique-muscle-4fc60fec8e",
+      "factId": "f-7cc6a9bae8",
+      "variantId": "v-939511b064"
+    },
+    {
+      "id": "thorax-model-hs21-141",
+      "path": [
+        "23"
+      ],
+      "tags": [
+        "Origin",
+        "Muscle",
+        "Muscles",
+        "HS21"
+      ],
+      "sourceLine": 141,
+      "section": "Muscles and tendons",
+      "label": "23",
+      "structureId": "internal-oblique-muscle-4fc60fec8e",
+      "factId": "f-269fa9946c",
+      "variantId": "v-f052534fe1"
+    },
+    {
+      "id": "thorax-model-hs21-142",
+      "path": [
+        "23"
+      ],
+      "tags": [
+        "Insertion",
+        "Muscle",
+        "Muscles",
+        "HS21"
+      ],
+      "sourceLine": 142,
+      "section": "Muscles and tendons",
+      "label": "23",
+      "structureId": "internal-oblique-muscle-4fc60fec8e",
+      "factId": "f-b80b917f52",
+      "variantId": "v-5d421b945f"
+    },
+    {
+      "id": "thorax-model-hs21-146",
+      "path": [
+        "24"
+      ],
+      "tags": [
+        "Identification",
+        "Opening",
+        "Viscera",
+        "HS21"
+      ],
+      "sourceLine": 146,
+      "section": "Viscera",
+      "label": "24",
+      "structureId": "oesophageal-opening-2330da27ae",
+      "factId": "f-837e38fa9f",
+      "variantId": "v-2330da27ae"
+    },
+    {
+      "id": "thorax-model-hs21-147",
+      "path": [
+        "24"
+      ],
+      "tags": [
+        "Location",
+        "Opening",
+        "Viscera",
+        "HS21"
+      ],
+      "sourceLine": 147,
+      "section": "Viscera",
+      "label": "24",
+      "structureId": "oesophageal-opening-2330da27ae",
+      "factId": "f-13b0179447",
+      "variantId": "v-a3081c63a2"
+    },
+    {
+      "id": "thorax-model-hs21-148",
+      "path": [
+        "24"
+      ],
+      "tags": [
+        "Contents",
+        "Opening",
+        "Viscera",
+        "HS21"
+      ],
+      "sourceLine": 148,
+      "section": "Viscera",
+      "label": "24",
+      "structureId": "oesophageal-opening-2330da27ae",
+      "factId": "f-ca6ef1b1e8",
+      "variantId": "v-a3a48aee6a"
+    },
+    {
+      "id": "thorax-model-hs21-149",
+      "path": [
+        "24"
+      ],
+      "tags": [
+        "Clinical",
+        "Opening",
+        "Viscera",
+        "HS21"
+      ],
+      "sourceLine": 149,
+      "section": "Viscera",
+      "label": "24",
+      "structureId": "oesophageal-opening-2330da27ae",
+      "factId": "f-6cf6e2db6a",
+      "variantId": "v-48e6e86e47"
+    },
+    {
+      "id": "thorax-model-hs21-152",
+      "path": [
+        "25"
+      ],
+      "tags": [
+        "Identification",
+        "Tube",
+        "Viscera",
+        "HS21"
+      ],
+      "sourceLine": 152,
+      "section": "Viscera",
+      "label": "25",
+      "structureId": "oesophagus-ad76796645",
+      "factId": "f-9d2c706308",
+      "variantId": "v-10360fdead"
+    },
+    {
+      "id": "thorax-model-hs21-153",
+      "path": [
+        "25"
+      ],
+      "tags": [
+        "Function",
+        "Tube",
+        "Viscera",
+        "HS21"
+      ],
+      "sourceLine": 153,
+      "section": "Viscera",
+      "label": "25",
+      "structureId": "oesophagus-ad76796645",
+      "factId": "f-f1e410ad14",
+      "variantId": "v-ae2767d7f4"
+    },
+    {
+      "id": "thorax-model-hs21-154",
+      "path": [
+        "25"
+      ],
+      "tags": [
+        "Course",
+        "Tube",
+        "Viscera",
+        "HS21"
+      ],
+      "sourceLine": 154,
+      "section": "Viscera",
+      "label": "25",
+      "structureId": "oesophagus-ad76796645",
+      "factId": "f-d82b56cad9",
+      "variantId": "v-032927400a"
+    },
+    {
+      "id": "thorax-model-hs21-157",
+      "path": [
+        "26"
+      ],
+      "tags": [
+        "Identification",
+        "Organ",
+        "Viscera",
+        "HS21"
+      ],
+      "sourceLine": 157,
+      "section": "Viscera",
+      "label": "26",
+      "structureId": "stomach-408f7e8ba7",
+      "factId": "f-655600c76c",
+      "variantId": "v-408f7e8ba7"
+    },
+    {
+      "id": "thorax-model-hs21-158",
+      "path": [
+        "26"
+      ],
+      "tags": [
+        "Function",
+        "Organ",
+        "Viscera",
+        "HS21"
+      ],
+      "sourceLine": 158,
+      "section": "Viscera",
+      "label": "26",
+      "structureId": "stomach-408f7e8ba7",
+      "factId": "f-852511e642",
+      "variantId": "v-7b6fc66e85"
+    },
+    {
+      "id": "thorax-model-hs21-159",
+      "path": [
+        "26"
+      ],
+      "tags": [
+        "Location",
+        "Organ",
+        "Viscera",
+        "HS21"
+      ],
+      "sourceLine": 159,
+      "section": "Viscera",
+      "label": "26",
+      "structureId": "stomach-408f7e8ba7",
+      "factId": "f-f474de5789",
+      "variantId": "v-3c7faa091b"
+    },
+    {
+      "id": "thorax-model-hs21-162",
+      "path": [
+        "27"
+      ],
+      "tags": [
+        "Identification",
+        "Organ",
+        "Viscera",
+        "HS21"
+      ],
+      "sourceLine": 162,
+      "section": "Viscera",
+      "label": "27",
+      "structureId": "liver-f52ceaf6f4",
+      "factId": "f-93f34e387e",
+      "variantId": "v-f52ceaf6f4"
+    },
+    {
+      "id": "thorax-model-hs21-163",
+      "path": [
+        "27"
+      ],
+      "tags": [
+        "Function",
+        "Organ",
+        "Viscera",
+        "HS21"
+      ],
+      "sourceLine": 163,
+      "section": "Viscera",
+      "label": "27",
+      "structureId": "liver-f52ceaf6f4",
+      "factId": "f-dfd77bfaa8",
+      "variantId": "v-dde4f1c7c2"
+    },
+    {
+      "id": "thorax-model-hs21-164",
+      "path": [
+        "27"
+      ],
+      "tags": [
+        "Location",
+        "Organ",
+        "Viscera",
+        "HS21"
+      ],
+      "sourceLine": 164,
+      "section": "Viscera",
+      "label": "27",
+      "structureId": "liver-f52ceaf6f4",
+      "factId": "f-bc351411ff",
+      "variantId": "v-76a4a9409b"
+    },
+    {
+      "id": "thorax-model-hs21-165",
+      "path": [
+        "27"
+      ],
+      "tags": [
+        "BloodSupply",
+        "Organ",
+        "Viscera",
+        "HS21"
+      ],
+      "sourceLine": 165,
+      "section": "Viscera",
+      "label": "27",
+      "structureId": "liver-f52ceaf6f4",
+      "factId": "f-77d6393c68",
+      "variantId": "v-77f5bd9c64"
+    },
+    {
+      "id": "thorax-model-hs21-168",
+      "path": [
+        "28"
+      ],
+      "tags": [
+        "Identification",
+        "Organ",
+        "Viscera",
+        "HS21"
+      ],
+      "sourceLine": 168,
+      "section": "Viscera",
+      "label": "28",
+      "structureId": "large-intestine-b8408c12fe",
+      "factId": "f-2239860c9b",
+      "variantId": "v-b8408c12fe"
+    },
+    {
+      "id": "thorax-model-hs21-169",
+      "path": [
+        "28"
+      ],
+      "tags": [
+        "Function",
+        "Organ",
+        "Viscera",
+        "HS21"
+      ],
+      "sourceLine": 169,
+      "section": "Viscera",
+      "label": "28",
+      "structureId": "large-intestine-b8408c12fe",
+      "factId": "f-52b86d41a9",
+      "variantId": "v-9d0d765642"
+    },
+    {
+      "id": "thorax-model-hs21-170",
+      "path": [
+        "28"
+      ],
+      "tags": [
+        "Parts",
+        "Organ",
+        "Viscera",
+        "HS21"
+      ],
+      "sourceLine": 170,
+      "section": "Viscera",
+      "label": "28",
+      "structureId": "large-intestine-b8408c12fe",
+      "factId": "f-4136e880f6",
+      "variantId": "v-11bf37f592"
+    },
+    {
+      "id": "thorax-model-hs21-173",
+      "path": [
+        "29"
+      ],
+      "tags": [
+        "Identification",
+        "Organ",
+        "Viscera",
+        "HS21"
+      ],
+      "sourceLine": 173,
+      "section": "Viscera",
+      "label": "29",
+      "structureId": "small-intestine-3f1f0ecc9c",
+      "factId": "f-874ca3068f",
+      "variantId": "v-3f1f0ecc9c"
+    },
+    {
+      "id": "thorax-model-hs21-174",
+      "path": [
+        "29"
+      ],
+      "tags": [
+        "Function",
+        "Organ",
+        "Viscera",
+        "HS21"
+      ],
+      "sourceLine": 174,
+      "section": "Viscera",
+      "label": "29",
+      "structureId": "small-intestine-3f1f0ecc9c",
+      "factId": "f-956e66edca",
+      "variantId": "v-7fb4d94a3e"
+    },
+    {
+      "id": "thorax-model-hs21-175",
+      "path": [
+        "29"
+      ],
+      "tags": [
+        "Parts",
+        "Organ",
+        "Viscera",
+        "HS21"
+      ],
+      "sourceLine": 175,
+      "section": "Viscera",
+      "label": "29",
+      "structureId": "small-intestine-3f1f0ecc9c",
+      "factId": "f-21e72cbdc0",
+      "variantId": "v-3270f9a2ee"
+    },
+    {
+      "id": "thorax-model-hs21-179",
+      "path": [
+        "30"
+      ],
+      "tags": [
+        "Identification",
+        "Opening",
+        "Airway",
+        "HS21"
+      ],
+      "sourceLine": 179,
+      "section": "Larynx, bronchial tree and lungs",
+      "label": "30",
+      "structureId": "laryngeal-inlet-0057196acb",
+      "factId": "f-04e9c7ffbb",
+      "variantId": "v-0057196acb"
+    },
+    {
+      "id": "thorax-model-hs21-180",
+      "path": [
+        "30"
+      ],
+      "tags": [
+        "Function",
+        "Opening",
+        "Airway",
+        "HS21"
+      ],
+      "sourceLine": 180,
+      "section": "Larynx, bronchial tree and lungs",
+      "label": "30",
+      "structureId": "laryngeal-inlet-0057196acb",
+      "factId": "f-a8df6c6ef4",
+      "variantId": "v-b9e57b6c14"
+    },
+    {
+      "id": "thorax-model-hs21-181",
+      "path": [
+        "30"
+      ],
+      "tags": [
+        "Landmarks",
+        "Opening",
+        "Airway",
+        "HS21"
+      ],
+      "sourceLine": 181,
+      "section": "Larynx, bronchial tree and lungs",
+      "label": "30",
+      "structureId": "laryngeal-inlet-0057196acb",
+      "factId": "f-b7d9e35a40",
+      "variantId": "v-f9ea82181c"
+    },
+    {
+      "id": "thorax-model-hs21-184",
+      "path": [
+        "31"
+      ],
+      "tags": [
+        "Identification",
+        "Cartilage",
+        "Airway",
+        "HS21"
+      ],
+      "sourceLine": 184,
+      "section": "Larynx, bronchial tree and lungs",
+      "label": "31",
+      "structureId": "thyroid-cartilage-dad3d80fd8",
+      "factId": "f-9d2c706308",
+      "variantId": "v-75eb9097b3"
+    },
+    {
+      "id": "thorax-model-hs21-185",
+      "path": [
+        "31"
+      ],
+      "tags": [
+        "Structure",
+        "Cartilage",
+        "Airway",
+        "HS21"
+      ],
+      "sourceLine": 185,
+      "section": "Larynx, bronchial tree and lungs",
+      "label": "31",
+      "structureId": "thyroid-cartilage-dad3d80fd8",
+      "factId": "f-9482c5d5bf",
+      "variantId": "v-c6a85102b8"
+    },
+    {
+      "id": "thorax-model-hs21-186",
+      "path": [
+        "31"
+      ],
+      "tags": [
+        "Function",
+        "Cartilage",
+        "Airway",
+        "HS21"
+      ],
+      "sourceLine": 186,
+      "section": "Larynx, bronchial tree and lungs",
+      "label": "31",
+      "structureId": "thyroid-cartilage-dad3d80fd8",
+      "factId": "f-f1e410ad14",
+      "variantId": "v-8f1e90fe71"
+    },
+    {
+      "id": "thorax-model-hs21-189",
+      "path": [
+        "32"
+      ],
+      "tags": [
+        "Identification",
+        "Cartilage",
+        "Airway",
+        "HS21"
+      ],
+      "sourceLine": 189,
+      "section": "Larynx, bronchial tree and lungs",
+      "label": "32",
+      "structureId": "cricoid-cartilage-7ceb094a4f",
+      "factId": "f-9d2c706308",
+      "variantId": "v-6d1f000672"
+    },
+    {
+      "id": "thorax-model-hs21-190",
+      "path": [
+        "32"
+      ],
+      "tags": [
+        "Structure",
+        "Cartilage",
+        "Airway",
+        "HS21"
+      ],
+      "sourceLine": 190,
+      "section": "Larynx, bronchial tree and lungs",
+      "label": "32",
+      "structureId": "cricoid-cartilage-7ceb094a4f",
+      "factId": "f-9482c5d5bf",
+      "variantId": "v-45fde73686"
+    },
+    {
+      "id": "thorax-model-hs21-191",
+      "path": [
+        "32"
+      ],
+      "tags": [
+        "Relations",
+        "Cartilage",
+        "Airway",
+        "HS21"
+      ],
+      "sourceLine": 191,
+      "section": "Larynx, bronchial tree and lungs",
+      "label": "32",
+      "structureId": "cricoid-cartilage-7ceb094a4f",
+      "factId": "f-6519fe11ef",
+      "variantId": "v-403b9b22d5"
+    },
+    {
+      "id": "thorax-model-hs21-194",
+      "path": [
+        "33"
+      ],
+      "tags": [
+        "Identification",
+        "Tube",
+        "Airway",
+        "HS21"
+      ],
+      "sourceLine": 194,
+      "section": "Larynx, bronchial tree and lungs",
+      "label": "33",
+      "structureId": "trachea-3613802d6d",
+      "factId": "f-9d2c706308",
+      "variantId": "v-f6084597ce"
+    },
+    {
+      "id": "thorax-model-hs21-195",
+      "path": [
+        "33"
+      ],
+      "tags": [
+        "Function",
+        "Tube",
+        "Airway",
+        "HS21"
+      ],
+      "sourceLine": 195,
+      "section": "Larynx, bronchial tree and lungs",
+      "label": "33",
+      "structureId": "trachea-3613802d6d",
+      "factId": "f-f1e410ad14",
+      "variantId": "v-18f2a365b4"
+    },
+    {
+      "id": "thorax-model-hs21-196",
+      "path": [
+        "33"
+      ],
+      "tags": [
+        "Course",
+        "Tube",
+        "Airway",
+        "HS21"
+      ],
+      "sourceLine": 196,
+      "section": "Larynx, bronchial tree and lungs",
+      "label": "33",
+      "structureId": "trachea-3613802d6d",
+      "factId": "f-d82b56cad9",
+      "variantId": "v-024393d10b"
+    },
+    {
+      "id": "thorax-model-hs21-197",
+      "path": [
+        "33"
+      ],
+      "tags": [
+        "Structure",
+        "Tube",
+        "Airway",
+        "HS21"
+      ],
+      "sourceLine": 197,
+      "section": "Larynx, bronchial tree and lungs",
+      "label": "33",
+      "structureId": "trachea-3613802d6d",
+      "factId": "f-9482c5d5bf",
+      "variantId": "v-0206a990cb"
+    },
+    {
+      "id": "thorax-model-hs21-200",
+      "path": [
+        "34"
+      ],
+      "tags": [
+        "Identification",
+        "Bronchus",
+        "RightBronchialTree",
+        "HS21"
+      ],
+      "sourceLine": 200,
+      "section": "Larynx, bronchial tree and lungs",
+      "label": "34",
+      "structureId": "right-main-bronchus-b4cc13d09b",
+      "factId": "f-9d2c706308",
+      "variantId": "v-c5b686874b"
+    },
+    {
+      "id": "thorax-model-hs21-201",
+      "path": [
+        "34"
+      ],
+      "tags": [
+        "Course",
+        "Bronchus",
+        "RightBronchialTree",
+        "HS21"
+      ],
+      "sourceLine": 201,
+      "section": "Larynx, bronchial tree and lungs",
+      "label": "34",
+      "structureId": "right-main-bronchus-b4cc13d09b",
+      "factId": "f-d82b56cad9",
+      "variantId": "v-0fbfa4ee51"
+    },
+    {
+      "id": "thorax-model-hs21-202",
+      "path": [
+        "34"
+      ],
+      "tags": [
+        "Branches",
+        "Bronchus",
+        "RightBronchialTree",
+        "HS21"
+      ],
+      "sourceLine": 202,
+      "section": "Larynx, bronchial tree and lungs",
+      "label": "34",
+      "structureId": "right-main-bronchus-b4cc13d09b",
+      "factId": "f-f578227926",
+      "variantId": "v-1a0b99c44d"
+    },
+    {
+      "id": "thorax-model-hs21-203",
+      "path": [
+        "34"
+      ],
+      "tags": [
+        "Clinical",
+        "Bronchus",
+        "RightBronchialTree",
+        "HS21"
+      ],
+      "sourceLine": 203,
+      "section": "Larynx, bronchial tree and lungs",
+      "label": "34",
+      "structureId": "right-main-bronchus-b4cc13d09b",
+      "factId": "f-b03737e3cd",
+      "variantId": "v-34587597e7"
+    },
+    {
+      "id": "thorax-model-hs21-207",
+      "path": [
+        "34",
+        "1"
+      ],
+      "tags": [
+        "Identification",
+        "Bronchus",
+        "RightBronchialTree",
+        "HS21",
+        "UpperLobe"
+      ],
+      "sourceLine": 207,
+      "section": "Larynx, bronchial tree and lungs / Right upper lobar bronchus / right upper lobe",
+      "label": "1",
+      "structureId": "apical-segmental-bronchus-right-upper-lobe-5aa5cb01a4",
+      "factId": "f-8c0aa00596",
+      "variantId": "v-c467ae46f0"
+    },
+    {
+      "id": "thorax-model-hs21-208",
+      "path": [
+        "34",
+        "1"
+      ],
+      "tags": [
+        "Supply",
+        "Bronchus",
+        "RightBronchialTree",
+        "HS21",
+        "UpperLobe"
+      ],
+      "sourceLine": 208,
+      "section": "Larynx, bronchial tree and lungs / Right upper lobar bronchus / right upper lobe",
+      "label": "1",
+      "structureId": "apical-segmental-bronchus-right-upper-lobe-5aa5cb01a4",
+      "factId": "f-d6558b01ee",
+      "variantId": "v-f66846e2aa"
+    },
+    {
+      "id": "thorax-model-hs21-211",
+      "path": [
+        "34",
+        "2"
+      ],
+      "tags": [
+        "Identification",
+        "Bronchus",
+        "RightBronchialTree",
+        "HS21",
+        "UpperLobe"
+      ],
+      "sourceLine": 211,
+      "section": "Larynx, bronchial tree and lungs / Right upper lobar bronchus / right upper lobe",
+      "label": "2",
+      "structureId": "posterior-segmental-bronchus-right-upper-lobe-936093678f",
+      "factId": "f-d108bb138a",
+      "variantId": "v-71d284c224"
+    },
+    {
+      "id": "thorax-model-hs21-212",
+      "path": [
+        "34",
+        "2"
+      ],
+      "tags": [
+        "Supply",
+        "Bronchus",
+        "RightBronchialTree",
+        "HS21",
+        "UpperLobe"
+      ],
+      "sourceLine": 212,
+      "section": "Larynx, bronchial tree and lungs / Right upper lobar bronchus / right upper lobe",
+      "label": "2",
+      "structureId": "posterior-segmental-bronchus-right-upper-lobe-936093678f",
+      "factId": "f-3aa7f1051f",
+      "variantId": "v-f66846e2aa"
+    },
+    {
+      "id": "thorax-model-hs21-215",
+      "path": [
+        "34",
+        "3"
+      ],
+      "tags": [
+        "Identification",
+        "Bronchus",
+        "RightBronchialTree",
+        "HS21",
+        "UpperLobe"
+      ],
+      "sourceLine": 215,
+      "section": "Larynx, bronchial tree and lungs / Right upper lobar bronchus / right upper lobe",
+      "label": "3",
+      "structureId": "anterior-segmental-bronchus-right-upper-lobe-9aef9656ef",
+      "factId": "f-9b7a3f3dfd",
+      "variantId": "v-88cd460087"
+    },
+    {
+      "id": "thorax-model-hs21-216",
+      "path": [
+        "34",
+        "3"
+      ],
+      "tags": [
+        "Supply",
+        "Bronchus",
+        "RightBronchialTree",
+        "HS21",
+        "UpperLobe"
+      ],
+      "sourceLine": 216,
+      "section": "Larynx, bronchial tree and lungs / Right upper lobar bronchus / right upper lobe",
+      "label": "3",
+      "structureId": "anterior-segmental-bronchus-right-upper-lobe-9aef9656ef",
+      "factId": "f-e342f585e0",
+      "variantId": "v-f66846e2aa"
+    },
+    {
+      "id": "thorax-model-hs21-220",
+      "path": [
+        "34",
+        "4"
+      ],
+      "tags": [
+        "Identification",
+        "Bronchus",
+        "RightBronchialTree",
+        "HS21",
+        "MiddleLobe"
+      ],
+      "sourceLine": 220,
+      "section": "Larynx, bronchial tree and lungs / Right middle lobar bronchus / right middle lobe",
+      "label": "4",
+      "structureId": "lateral-segmental-bronchus-right-middle-lobe-309d337ad7",
+      "factId": "f-a8b91f727c",
+      "variantId": "v-eba8c44c72"
+    },
+    {
+      "id": "thorax-model-hs21-221",
+      "path": [
+        "34",
+        "4"
+      ],
+      "tags": [
+        "Supply",
+        "Bronchus",
+        "RightBronchialTree",
+        "HS21",
+        "MiddleLobe"
+      ],
+      "sourceLine": 221,
+      "section": "Larynx, bronchial tree and lungs / Right middle lobar bronchus / right middle lobe",
+      "label": "4",
+      "structureId": "lateral-segmental-bronchus-right-middle-lobe-309d337ad7",
+      "factId": "f-1202649a9d",
+      "variantId": "v-63967e3f9f"
+    },
+    {
+      "id": "thorax-model-hs21-224",
+      "path": [
+        "34",
+        "5"
+      ],
+      "tags": [
+        "Identification",
+        "Bronchus",
+        "RightBronchialTree",
+        "HS21",
+        "MiddleLobe"
+      ],
+      "sourceLine": 224,
+      "section": "Larynx, bronchial tree and lungs / Right middle lobar bronchus / right middle lobe",
+      "label": "5",
+      "structureId": "medial-segmental-bronchus-right-middle-lobe-b123001b0a",
+      "factId": "f-b574b98455",
+      "variantId": "v-636a8abadc"
+    },
+    {
+      "id": "thorax-model-hs21-225",
+      "path": [
+        "34",
+        "5"
+      ],
+      "tags": [
+        "Supply",
+        "Bronchus",
+        "RightBronchialTree",
+        "HS21",
+        "MiddleLobe"
+      ],
+      "sourceLine": 225,
+      "section": "Larynx, bronchial tree and lungs / Right middle lobar bronchus / right middle lobe",
+      "label": "5",
+      "structureId": "medial-segmental-bronchus-right-middle-lobe-b123001b0a",
+      "factId": "f-9b1d2de9f7",
+      "variantId": "v-63967e3f9f"
+    },
+    {
+      "id": "thorax-model-hs21-229",
+      "path": [
+        "34",
+        "6"
+      ],
+      "tags": [
+        "Identification",
+        "Bronchus",
+        "RightBronchialTree",
+        "HS21",
+        "LowerLobe"
+      ],
+      "sourceLine": 229,
+      "section": "Larynx, bronchial tree and lungs / Right lower lobar bronchus / right lower lobe",
+      "label": "6",
+      "structureId": "superior-segmental-bronchus-right-lower-lobe-912cabcf56",
+      "factId": "f-e4b58f37b7",
+      "variantId": "v-f9310ed635"
+    },
+    {
+      "id": "thorax-model-hs21-230",
+      "path": [
+        "34",
+        "6"
+      ],
+      "tags": [
+        "Supply",
+        "Bronchus",
+        "RightBronchialTree",
+        "HS21",
+        "LowerLobe"
+      ],
+      "sourceLine": 230,
+      "section": "Larynx, bronchial tree and lungs / Right lower lobar bronchus / right lower lobe",
+      "label": "6",
+      "structureId": "superior-segmental-bronchus-right-lower-lobe-912cabcf56",
+      "factId": "f-5f05de2bb8",
+      "variantId": "v-c5f20316b0"
+    },
+    {
+      "id": "thorax-model-hs21-233",
+      "path": [
+        "34",
+        "7"
+      ],
+      "tags": [
+        "Identification",
+        "Bronchus",
+        "RightBronchialTree",
+        "HS21",
+        "LowerLobe"
+      ],
+      "sourceLine": 233,
+      "section": "Larynx, bronchial tree and lungs / Right lower lobar bronchus / right lower lobe",
+      "label": "7",
+      "structureId": "medial-basal-segmental-bronchus-right-lower-lobe-cea39d4944",
+      "factId": "f-15aa0c86f5",
+      "variantId": "v-d51566833d"
+    },
+    {
+      "id": "thorax-model-hs21-234",
+      "path": [
+        "34",
+        "7"
+      ],
+      "tags": [
+        "Supply",
+        "Bronchus",
+        "RightBronchialTree",
+        "HS21",
+        "LowerLobe"
+      ],
+      "sourceLine": 234,
+      "section": "Larynx, bronchial tree and lungs / Right lower lobar bronchus / right lower lobe",
+      "label": "7",
+      "structureId": "medial-basal-segmental-bronchus-right-lower-lobe-cea39d4944",
+      "factId": "f-fa853cad38",
+      "variantId": "v-c5f20316b0"
+    },
+    {
+      "id": "thorax-model-hs21-237",
+      "path": [
+        "34",
+        "8"
+      ],
+      "tags": [
+        "Identification",
+        "Bronchus",
+        "RightBronchialTree",
+        "HS21",
+        "LowerLobe"
+      ],
+      "sourceLine": 237,
+      "section": "Larynx, bronchial tree and lungs / Right lower lobar bronchus / right lower lobe",
+      "label": "8",
+      "structureId": "anterior-basal-segmental-bronchus-right-lower-lobe-f7ae70fd3d",
+      "factId": "f-83971f54bb",
+      "variantId": "v-a8c3b5e76c"
+    },
+    {
+      "id": "thorax-model-hs21-238",
+      "path": [
+        "34",
+        "8"
+      ],
+      "tags": [
+        "Supply",
+        "Bronchus",
+        "RightBronchialTree",
+        "HS21",
+        "LowerLobe"
+      ],
+      "sourceLine": 238,
+      "section": "Larynx, bronchial tree and lungs / Right lower lobar bronchus / right lower lobe",
+      "label": "8",
+      "structureId": "anterior-basal-segmental-bronchus-right-lower-lobe-f7ae70fd3d",
+      "factId": "f-a0f09ab4db",
+      "variantId": "v-c5f20316b0"
+    },
+    {
+      "id": "thorax-model-hs21-241",
+      "path": [
+        "34",
+        "9"
+      ],
+      "tags": [
+        "Identification",
+        "Bronchus",
+        "RightBronchialTree",
+        "HS21",
+        "LowerLobe"
+      ],
+      "sourceLine": 241,
+      "section": "Larynx, bronchial tree and lungs / Right lower lobar bronchus / right lower lobe",
+      "label": "9",
+      "structureId": "lateral-basal-segmental-bronchus-right-lower-lobe-b93db30f36",
+      "factId": "f-18fc727ccd",
+      "variantId": "v-a05a7e47b6"
+    },
+    {
+      "id": "thorax-model-hs21-242",
+      "path": [
+        "34",
+        "9"
+      ],
+      "tags": [
+        "Supply",
+        "Bronchus",
+        "RightBronchialTree",
+        "HS21",
+        "LowerLobe"
+      ],
+      "sourceLine": 242,
+      "section": "Larynx, bronchial tree and lungs / Right lower lobar bronchus / right lower lobe",
+      "label": "9",
+      "structureId": "lateral-basal-segmental-bronchus-right-lower-lobe-b93db30f36",
+      "factId": "f-91bc39bf70",
+      "variantId": "v-c5f20316b0"
+    },
+    {
+      "id": "thorax-model-hs21-245",
+      "path": [
+        "34",
+        "10"
+      ],
+      "tags": [
+        "Identification",
+        "Bronchus",
+        "RightBronchialTree",
+        "HS21",
+        "LowerLobe"
+      ],
+      "sourceLine": 245,
+      "section": "Larynx, bronchial tree and lungs / Right lower lobar bronchus / right lower lobe",
+      "label": "10",
+      "structureId": "posterior-basal-segmental-bronchus-right-lower-lobe-63b6602034",
+      "factId": "f-aa74094210",
+      "variantId": "v-c080b0e28e"
+    },
+    {
+      "id": "thorax-model-hs21-246",
+      "path": [
+        "34",
+        "10"
+      ],
+      "tags": [
+        "Supply",
+        "Bronchus",
+        "RightBronchialTree",
+        "HS21",
+        "LowerLobe"
+      ],
+      "sourceLine": 246,
+      "section": "Larynx, bronchial tree and lungs / Right lower lobar bronchus / right lower lobe",
+      "label": "10",
+      "structureId": "posterior-basal-segmental-bronchus-right-lower-lobe-63b6602034",
+      "factId": "f-329d80e33f",
+      "variantId": "v-c5f20316b0"
+    },
+    {
+      "id": "thorax-model-hs21-249",
+      "path": [
+        "35"
+      ],
+      "tags": [
+        "Identification",
+        "Bronchus",
+        "LeftBronchialTree",
+        "HS21"
+      ],
+      "sourceLine": 249,
+      "section": "Larynx, bronchial tree and lungs",
+      "label": "35",
+      "structureId": "left-main-bronchus-19aea0f6e6",
+      "factId": "f-9d2c706308",
+      "variantId": "v-26bb69dcb1"
+    },
+    {
+      "id": "thorax-model-hs21-250",
+      "path": [
+        "35"
+      ],
+      "tags": [
+        "Course",
+        "Bronchus",
+        "LeftBronchialTree",
+        "HS21"
+      ],
+      "sourceLine": 250,
+      "section": "Larynx, bronchial tree and lungs",
+      "label": "35",
+      "structureId": "left-main-bronchus-19aea0f6e6",
+      "factId": "f-d82b56cad9",
+      "variantId": "v-ac0fd3efbb"
+    },
+    {
+      "id": "thorax-model-hs21-251",
+      "path": [
+        "35"
+      ],
+      "tags": [
+        "Branches",
+        "Bronchus",
+        "LeftBronchialTree",
+        "HS21"
+      ],
+      "sourceLine": 251,
+      "section": "Larynx, bronchial tree and lungs",
+      "label": "35",
+      "structureId": "left-main-bronchus-19aea0f6e6",
+      "factId": "f-f578227926",
+      "variantId": "v-4fe43fbb1d"
+    },
+    {
+      "id": "thorax-model-hs21-252",
+      "path": [
+        "35"
+      ],
+      "tags": [
+        "Relations",
+        "Bronchus",
+        "LeftBronchialTree",
+        "HS21"
+      ],
+      "sourceLine": 252,
+      "section": "Larynx, bronchial tree and lungs",
+      "label": "35",
+      "structureId": "left-main-bronchus-19aea0f6e6",
+      "factId": "f-6519fe11ef",
+      "variantId": "v-441af46779"
+    },
+    {
+      "id": "thorax-model-hs21-256",
+      "path": [
+        "35",
+        "1"
+      ],
+      "tags": [
+        "Identification",
+        "Bronchus",
+        "LeftBronchialTree",
+        "HS21",
+        "UpperLobe"
+      ],
+      "sourceLine": 256,
+      "section": "Larynx, bronchial tree and lungs / Left upper lobar bronchus / left upper lobe",
+      "label": "1",
+      "structureId": "apicoposterior-segmental-bronchus-left-upper-lobe-1214dcc3a6",
+      "factId": "f-5b06ad821e",
+      "variantId": "v-52bd463fbc"
+    },
+    {
+      "id": "thorax-model-hs21-257",
+      "path": [
+        "35",
+        "1"
+      ],
+      "tags": [
+        "Supply",
+        "Bronchus",
+        "LeftBronchialTree",
+        "HS21",
+        "UpperLobe"
+      ],
+      "sourceLine": 257,
+      "section": "Larynx, bronchial tree and lungs / Left upper lobar bronchus / left upper lobe",
+      "label": "1",
+      "structureId": "apicoposterior-segmental-bronchus-left-upper-lobe-1214dcc3a6",
+      "factId": "f-55253b1fe7",
+      "variantId": "v-90a1fe7b3e"
+    },
+    {
+      "id": "thorax-model-hs21-260",
+      "path": [
+        "35",
+        "3"
+      ],
+      "tags": [
+        "Identification",
+        "Bronchus",
+        "LeftBronchialTree",
+        "HS21",
+        "UpperLobe"
+      ],
+      "sourceLine": 260,
+      "section": "Larynx, bronchial tree and lungs / Left upper lobar bronchus / left upper lobe",
+      "label": "3",
+      "structureId": "anterior-segmental-bronchus-left-upper-lobe-8a89b32a9a",
+      "factId": "f-15213cad79",
+      "variantId": "v-88cd460087"
+    },
+    {
+      "id": "thorax-model-hs21-261",
+      "path": [
+        "35",
+        "3"
+      ],
+      "tags": [
+        "Supply",
+        "Bronchus",
+        "LeftBronchialTree",
+        "HS21",
+        "UpperLobe"
+      ],
+      "sourceLine": 261,
+      "section": "Larynx, bronchial tree and lungs / Left upper lobar bronchus / left upper lobe",
+      "label": "3",
+      "structureId": "anterior-segmental-bronchus-left-upper-lobe-8a89b32a9a",
+      "factId": "f-a75b2b10d3",
+      "variantId": "v-90a1fe7b3e"
+    },
+    {
+      "id": "thorax-model-hs21-264",
+      "path": [
+        "35",
+        "4"
+      ],
+      "tags": [
+        "Identification",
+        "Bronchus",
+        "LeftBronchialTree",
+        "HS21",
+        "UpperLobe"
+      ],
+      "sourceLine": 264,
+      "section": "Larynx, bronchial tree and lungs / Left upper lobar bronchus / left upper lobe",
+      "label": "4",
+      "structureId": "superior-lingular-bronchus-left-upper-lobe-a2e629872e",
+      "factId": "f-23dca2674d",
+      "variantId": "v-fc755830b1"
+    },
+    {
+      "id": "thorax-model-hs21-265",
+      "path": [
+        "35",
+        "4"
+      ],
+      "tags": [
+        "Supply",
+        "Bronchus",
+        "LeftBronchialTree",
+        "HS21",
+        "UpperLobe"
+      ],
+      "sourceLine": 265,
+      "section": "Larynx, bronchial tree and lungs / Left upper lobar bronchus / left upper lobe",
+      "label": "4",
+      "structureId": "superior-lingular-bronchus-left-upper-lobe-a2e629872e",
+      "factId": "f-a9d53dff61",
+      "variantId": "v-90a1fe7b3e"
+    },
+    {
+      "id": "thorax-model-hs21-268",
+      "path": [
+        "35",
+        "5"
+      ],
+      "tags": [
+        "Identification",
+        "Bronchus",
+        "LeftBronchialTree",
+        "HS21",
+        "UpperLobe"
+      ],
+      "sourceLine": 268,
+      "section": "Larynx, bronchial tree and lungs / Left upper lobar bronchus / left upper lobe",
+      "label": "5",
+      "structureId": "inferior-lingular-bronchus-left-upper-lobe-f24f733702",
+      "factId": "f-75d47cbfa3",
+      "variantId": "v-6c4d117bcd"
+    },
+    {
+      "id": "thorax-model-hs21-269",
+      "path": [
+        "35",
+        "5"
+      ],
+      "tags": [
+        "Supply",
+        "Bronchus",
+        "LeftBronchialTree",
+        "HS21",
+        "UpperLobe"
+      ],
+      "sourceLine": 269,
+      "section": "Larynx, bronchial tree and lungs / Left upper lobar bronchus / left upper lobe",
+      "label": "5",
+      "structureId": "inferior-lingular-bronchus-left-upper-lobe-f24f733702",
+      "factId": "f-099776e8c1",
+      "variantId": "v-90a1fe7b3e"
+    },
+    {
+      "id": "thorax-model-hs21-273",
+      "path": [
+        "35",
+        "6"
+      ],
+      "tags": [
+        "Identification",
+        "Bronchus",
+        "LeftBronchialTree",
+        "HS21",
+        "LowerLobe"
+      ],
+      "sourceLine": 273,
+      "section": "Larynx, bronchial tree and lungs / Left lower lobar bronchus / left lower lobe",
+      "label": "6",
+      "structureId": "superior-segmental-bronchus-left-lower-lobe-c893831ab2",
+      "factId": "f-cb2441190d",
+      "variantId": "v-f9310ed635"
+    },
+    {
+      "id": "thorax-model-hs21-274",
+      "path": [
+        "35",
+        "6"
+      ],
+      "tags": [
+        "Supply",
+        "Bronchus",
+        "LeftBronchialTree",
+        "HS21",
+        "LowerLobe"
+      ],
+      "sourceLine": 274,
+      "section": "Larynx, bronchial tree and lungs / Left lower lobar bronchus / left lower lobe",
+      "label": "6",
+      "structureId": "superior-segmental-bronchus-left-lower-lobe-c893831ab2",
+      "factId": "f-bee377010a",
+      "variantId": "v-27507e31c0"
+    },
+    {
+      "id": "thorax-model-hs21-277",
+      "path": [
+        "35",
+        "7"
+      ],
+      "tags": [
+        "Identification",
+        "Bronchus",
+        "LeftBronchialTree",
+        "HS21",
+        "LowerLobe"
+      ],
+      "sourceLine": 277,
+      "section": "Larynx, bronchial tree and lungs / Left lower lobar bronchus / left lower lobe",
+      "label": "7",
+      "structureId": "medial-basal-segmental-bronchus-left-lower-lobe-a659c06afd",
+      "factId": "f-fb8b17ea72",
+      "variantId": "v-d51566833d"
+    },
+    {
+      "id": "thorax-model-hs21-278",
+      "path": [
+        "35",
+        "7"
+      ],
+      "tags": [
+        "Supply",
+        "Bronchus",
+        "LeftBronchialTree",
+        "HS21",
+        "LowerLobe"
+      ],
+      "sourceLine": 278,
+      "section": "Larynx, bronchial tree and lungs / Left lower lobar bronchus / left lower lobe",
+      "label": "7",
+      "structureId": "medial-basal-segmental-bronchus-left-lower-lobe-a659c06afd",
+      "factId": "f-30fc928a0b",
+      "variantId": "v-27507e31c0"
+    },
+    {
+      "id": "thorax-model-hs21-281",
+      "path": [
+        "35",
+        "8"
+      ],
+      "tags": [
+        "Identification",
+        "Bronchus",
+        "LeftBronchialTree",
+        "HS21",
+        "LowerLobe"
+      ],
+      "sourceLine": 281,
+      "section": "Larynx, bronchial tree and lungs / Left lower lobar bronchus / left lower lobe",
+      "label": "8",
+      "structureId": "anterior-basal-segmental-bronchus-left-lower-lobe-a58919526e",
+      "factId": "f-9fe6117ffc",
+      "variantId": "v-a8c3b5e76c"
+    },
+    {
+      "id": "thorax-model-hs21-282",
+      "path": [
+        "35",
+        "8"
+      ],
+      "tags": [
+        "Supply",
+        "Bronchus",
+        "LeftBronchialTree",
+        "HS21",
+        "LowerLobe"
+      ],
+      "sourceLine": 282,
+      "section": "Larynx, bronchial tree and lungs / Left lower lobar bronchus / left lower lobe",
+      "label": "8",
+      "structureId": "anterior-basal-segmental-bronchus-left-lower-lobe-a58919526e",
+      "factId": "f-f5d7808de9",
+      "variantId": "v-27507e31c0"
+    },
+    {
+      "id": "thorax-model-hs21-285",
+      "path": [
+        "35",
+        "9"
+      ],
+      "tags": [
+        "Identification",
+        "Bronchus",
+        "LeftBronchialTree",
+        "HS21",
+        "LowerLobe"
+      ],
+      "sourceLine": 285,
+      "section": "Larynx, bronchial tree and lungs / Left lower lobar bronchus / left lower lobe",
+      "label": "9",
+      "structureId": "lateral-basal-segmental-bronchus-left-lower-lobe-0500400817",
+      "factId": "f-01fe034539",
+      "variantId": "v-a05a7e47b6"
+    },
+    {
+      "id": "thorax-model-hs21-286",
+      "path": [
+        "35",
+        "9"
+      ],
+      "tags": [
+        "Supply",
+        "Bronchus",
+        "LeftBronchialTree",
+        "HS21",
+        "LowerLobe"
+      ],
+      "sourceLine": 286,
+      "section": "Larynx, bronchial tree and lungs / Left lower lobar bronchus / left lower lobe",
+      "label": "9",
+      "structureId": "lateral-basal-segmental-bronchus-left-lower-lobe-0500400817",
+      "factId": "f-ed26488393",
+      "variantId": "v-27507e31c0"
+    },
+    {
+      "id": "thorax-model-hs21-289",
+      "path": [
+        "35",
+        "10"
+      ],
+      "tags": [
+        "Identification",
+        "Bronchus",
+        "LeftBronchialTree",
+        "HS21",
+        "LowerLobe"
+      ],
+      "sourceLine": 289,
+      "section": "Larynx, bronchial tree and lungs / Left lower lobar bronchus / left lower lobe",
+      "label": "10",
+      "structureId": "posterior-basal-segmental-bronchus-left-lower-lobe-0304ce98a0",
+      "factId": "f-4ca47cd2c0",
+      "variantId": "v-c080b0e28e"
+    },
+    {
+      "id": "thorax-model-hs21-290",
+      "path": [
+        "35",
+        "10"
+      ],
+      "tags": [
+        "Supply",
+        "Bronchus",
+        "LeftBronchialTree",
+        "HS21",
+        "LowerLobe"
+      ],
+      "sourceLine": 290,
+      "section": "Larynx, bronchial tree and lungs / Left lower lobar bronchus / left lower lobe",
+      "label": "10",
+      "structureId": "posterior-basal-segmental-bronchus-left-lower-lobe-0304ce98a0",
+      "factId": "f-6b4ed83b60",
+      "variantId": "v-27507e31c0"
+    },
+    {
+      "id": "thorax-model-hs21-293",
+      "path": [
+        "36"
+      ],
+      "tags": [
+        "Identification",
+        "Organ",
+        "RightLung",
+        "HS21"
+      ],
+      "sourceLine": 293,
+      "section": "Larynx, bronchial tree and lungs",
+      "label": "36",
+      "structureId": "right-lung-with-bronchopulmonary-segments-30be3ec3ce",
+      "factId": "f-6f5875412e",
+      "variantId": "v-30be3ec3ce"
+    },
+    {
+      "id": "thorax-model-hs21-294",
+      "path": [
+        "36"
+      ],
+      "tags": [
+        "Parts",
+        "Organ",
+        "RightLung",
+        "HS21"
+      ],
+      "sourceLine": 294,
+      "section": "Larynx, bronchial tree and lungs",
+      "label": "36",
+      "structureId": "right-lung-with-bronchopulmonary-segments-30be3ec3ce",
+      "factId": "f-927dc1e4ed",
+      "variantId": "v-7017f87d7d"
+    },
+    {
+      "id": "thorax-model-hs21-295",
+      "path": [
+        "36"
+      ],
+      "tags": [
+        "Function",
+        "Organ",
+        "RightLung",
+        "HS21"
+      ],
+      "sourceLine": 295,
+      "section": "Larynx, bronchial tree and lungs",
+      "label": "36",
+      "structureId": "right-lung-with-bronchopulmonary-segments-30be3ec3ce",
+      "factId": "f-a4f1581e39",
+      "variantId": "v-4907300f97"
+    },
+    {
+      "id": "thorax-model-hs21-298",
+      "path": [
+        "36",
+        "36a"
+      ],
+      "tags": [
+        "Identification",
+        "LungLobe",
+        "RightLung",
+        "HS21",
+        "UpperLobe"
+      ],
+      "sourceLine": 298,
+      "section": "Larynx, bronchial tree and lungs",
+      "label": "36a",
+      "structureId": "upper-lobe-of-right-lung-d6ac467bed",
+      "factId": "f-9d2c706308",
+      "variantId": "v-a63779da1e"
+    },
+    {
+      "id": "thorax-model-hs21-299",
+      "path": [
+        "36",
+        "36a"
+      ],
+      "tags": [
+        "Parts",
+        "LungLobe",
+        "RightLung",
+        "HS21",
+        "UpperLobe"
+      ],
+      "sourceLine": 299,
+      "section": "Larynx, bronchial tree and lungs",
+      "label": "36a",
+      "structureId": "upper-lobe-of-right-lung-d6ac467bed",
+      "factId": "f-c761e1e85c",
+      "variantId": "v-9db8ba9d8f"
+    },
+    {
+      "id": "thorax-model-hs21-302",
+      "path": [
+        "36",
+        "36a",
+        "1"
+      ],
+      "tags": [
+        "Identification",
+        "BronchopulmonarySegment",
+        "RightLung",
+        "HS21",
+        "UpperLobe"
+      ],
+      "sourceLine": 302,
+      "section": "Larynx, bronchial tree and lungs / right upper lobe",
+      "label": "1",
+      "structureId": "apical-segment-right-upper-lobe-cce6cd2f98",
+      "factId": "f-8917af97bd",
+      "variantId": "v-c878ca62b5"
+    },
+    {
+      "id": "thorax-model-hs21-303",
+      "path": [
+        "36",
+        "36a",
+        "1"
+      ],
+      "tags": [
+        "Definition",
+        "BronchopulmonarySegment",
+        "RightLung",
+        "HS21",
+        "UpperLobe"
+      ],
+      "sourceLine": 303,
+      "section": "Larynx, bronchial tree and lungs / right upper lobe",
+      "label": "1",
+      "structureId": "apical-segment-right-upper-lobe-cce6cd2f98",
+      "factId": "f-5af5bc9547",
+      "variantId": "v-99d62b49cf"
+    },
+    {
+      "id": "thorax-model-hs21-306",
+      "path": [
+        "36",
+        "36a",
+        "2"
+      ],
+      "tags": [
+        "Identification",
+        "BronchopulmonarySegment",
+        "RightLung",
+        "HS21",
+        "UpperLobe"
+      ],
+      "sourceLine": 306,
+      "section": "Larynx, bronchial tree and lungs / right upper lobe",
+      "label": "2",
+      "structureId": "posterior-segment-right-upper-lobe-19a394b7d4",
+      "factId": "f-8ab64b3c5d",
+      "variantId": "v-ff0a912bd0"
+    },
+    {
+      "id": "thorax-model-hs21-307",
+      "path": [
+        "36",
+        "36a",
+        "2"
+      ],
+      "tags": [
+        "Definition",
+        "BronchopulmonarySegment",
+        "RightLung",
+        "HS21",
+        "UpperLobe"
+      ],
+      "sourceLine": 307,
+      "section": "Larynx, bronchial tree and lungs / right upper lobe",
+      "label": "2",
+      "structureId": "posterior-segment-right-upper-lobe-19a394b7d4",
+      "factId": "f-1108e61177",
+      "variantId": "v-99d62b49cf"
+    },
+    {
+      "id": "thorax-model-hs21-310",
+      "path": [
+        "36",
+        "36a",
+        "3"
+      ],
+      "tags": [
+        "Identification",
+        "BronchopulmonarySegment",
+        "RightLung",
+        "HS21",
+        "UpperLobe"
+      ],
+      "sourceLine": 310,
+      "section": "Larynx, bronchial tree and lungs / right upper lobe",
+      "label": "3",
+      "structureId": "anterior-segment-right-upper-lobe-f50f04686b",
+      "factId": "f-b622ee3ff7",
+      "variantId": "v-7a857c9ef2"
+    },
+    {
+      "id": "thorax-model-hs21-311",
+      "path": [
+        "36",
+        "36a",
+        "3"
+      ],
+      "tags": [
+        "Definition",
+        "BronchopulmonarySegment",
+        "RightLung",
+        "HS21",
+        "UpperLobe"
+      ],
+      "sourceLine": 311,
+      "section": "Larynx, bronchial tree and lungs / right upper lobe",
+      "label": "3",
+      "structureId": "anterior-segment-right-upper-lobe-f50f04686b",
+      "factId": "f-f3a674e2cf",
+      "variantId": "v-99d62b49cf"
+    },
+    {
+      "id": "thorax-model-hs21-314",
+      "path": [
+        "36",
+        "36b"
+      ],
+      "tags": [
+        "Identification",
+        "LungLobe",
+        "RightLung",
+        "HS21",
+        "MiddleLobe"
+      ],
+      "sourceLine": 314,
+      "section": "Larynx, bronchial tree and lungs",
+      "label": "36b",
+      "structureId": "middle-lobe-of-right-lung-d166ca2f0f",
+      "factId": "f-9d2c706308",
+      "variantId": "v-0f5176f526"
+    },
+    {
+      "id": "thorax-model-hs21-315",
+      "path": [
+        "36",
+        "36b"
+      ],
+      "tags": [
+        "Parts",
+        "LungLobe",
+        "RightLung",
+        "HS21",
+        "MiddleLobe"
+      ],
+      "sourceLine": 315,
+      "section": "Larynx, bronchial tree and lungs",
+      "label": "36b",
+      "structureId": "middle-lobe-of-right-lung-d166ca2f0f",
+      "factId": "f-fef1787460",
+      "variantId": "v-edbedacc8a"
+    },
+    {
+      "id": "thorax-model-hs21-318",
+      "path": [
+        "36",
+        "36b",
+        "4"
+      ],
+      "tags": [
+        "Identification",
+        "BronchopulmonarySegment",
+        "RightLung",
+        "HS21",
+        "MiddleLobe"
+      ],
+      "sourceLine": 318,
+      "section": "Larynx, bronchial tree and lungs / right middle lobe",
+      "label": "4",
+      "structureId": "lateral-segment-right-middle-lobe-d48a028b60",
+      "factId": "f-e146dd18a2",
+      "variantId": "v-fb5a8a0e4c"
+    },
+    {
+      "id": "thorax-model-hs21-319",
+      "path": [
+        "36",
+        "36b",
+        "4"
+      ],
+      "tags": [
+        "Definition",
+        "BronchopulmonarySegment",
+        "RightLung",
+        "HS21",
+        "MiddleLobe"
+      ],
+      "sourceLine": 319,
+      "section": "Larynx, bronchial tree and lungs / right middle lobe",
+      "label": "4",
+      "structureId": "lateral-segment-right-middle-lobe-d48a028b60",
+      "factId": "f-6b65931060",
+      "variantId": "v-99d62b49cf"
+    },
+    {
+      "id": "thorax-model-hs21-322",
+      "path": [
+        "36",
+        "36b",
+        "5"
+      ],
+      "tags": [
+        "Identification",
+        "BronchopulmonarySegment",
+        "RightLung",
+        "HS21",
+        "MiddleLobe"
+      ],
+      "sourceLine": 322,
+      "section": "Larynx, bronchial tree and lungs / right middle lobe",
+      "label": "5",
+      "structureId": "medial-segment-right-middle-lobe-4d429c9901",
+      "factId": "f-5d0dbcb9dc",
+      "variantId": "v-8222821bd6"
+    },
+    {
+      "id": "thorax-model-hs21-323",
+      "path": [
+        "36",
+        "36b",
+        "5"
+      ],
+      "tags": [
+        "Definition",
+        "BronchopulmonarySegment",
+        "RightLung",
+        "HS21",
+        "MiddleLobe"
+      ],
+      "sourceLine": 323,
+      "section": "Larynx, bronchial tree and lungs / right middle lobe",
+      "label": "5",
+      "structureId": "medial-segment-right-middle-lobe-4d429c9901",
+      "factId": "f-3649807d3f",
+      "variantId": "v-99d62b49cf"
+    },
+    {
+      "id": "thorax-model-hs21-326",
+      "path": [
+        "36",
+        "36c"
+      ],
+      "tags": [
+        "Identification",
+        "LungLobe",
+        "RightLung",
+        "HS21",
+        "LowerLobe"
+      ],
+      "sourceLine": 326,
+      "section": "Larynx, bronchial tree and lungs",
+      "label": "36c",
+      "structureId": "lower-lobe-of-right-lung-8a652dcba0",
+      "factId": "f-9d2c706308",
+      "variantId": "v-f76a26c9a4"
+    },
+    {
+      "id": "thorax-model-hs21-327",
+      "path": [
+        "36",
+        "36c"
+      ],
+      "tags": [
+        "Parts",
+        "LungLobe",
+        "RightLung",
+        "HS21",
+        "LowerLobe"
+      ],
+      "sourceLine": 327,
+      "section": "Larynx, bronchial tree and lungs",
+      "label": "36c",
+      "structureId": "lower-lobe-of-right-lung-8a652dcba0",
+      "factId": "f-28b8e96361",
+      "variantId": "v-90524a4640"
+    },
+    {
+      "id": "thorax-model-hs21-330",
+      "path": [
+        "36",
+        "36c",
+        "6"
+      ],
+      "tags": [
+        "Identification",
+        "BronchopulmonarySegment",
+        "RightLung",
+        "HS21",
+        "LowerLobe"
+      ],
+      "sourceLine": 330,
+      "section": "Larynx, bronchial tree and lungs / right lower lobe",
+      "label": "6",
+      "structureId": "superior-segment-right-lower-lobe-b70c9c93c7",
+      "factId": "f-0656faaa28",
+      "variantId": "v-f306835ed5"
+    },
+    {
+      "id": "thorax-model-hs21-331",
+      "path": [
+        "36",
+        "36c",
+        "6"
+      ],
+      "tags": [
+        "Definition",
+        "BronchopulmonarySegment",
+        "RightLung",
+        "HS21",
+        "LowerLobe"
+      ],
+      "sourceLine": 331,
+      "section": "Larynx, bronchial tree and lungs / right lower lobe",
+      "label": "6",
+      "structureId": "superior-segment-right-lower-lobe-b70c9c93c7",
+      "factId": "f-673890d3ce",
+      "variantId": "v-99d62b49cf"
+    },
+    {
+      "id": "thorax-model-hs21-334",
+      "path": [
+        "36",
+        "36c",
+        "7"
+      ],
+      "tags": [
+        "Identification",
+        "BronchopulmonarySegment",
+        "RightLung",
+        "HS21",
+        "LowerLobe"
+      ],
+      "sourceLine": 334,
+      "section": "Larynx, bronchial tree and lungs / right lower lobe",
+      "label": "7",
+      "structureId": "medial-basal-segment-right-lower-lobe-4821aa1dd3",
+      "factId": "f-c99fc567d4",
+      "variantId": "v-67bd1a1ccc"
+    },
+    {
+      "id": "thorax-model-hs21-335",
+      "path": [
+        "36",
+        "36c",
+        "7"
+      ],
+      "tags": [
+        "Definition",
+        "BronchopulmonarySegment",
+        "RightLung",
+        "HS21",
+        "LowerLobe"
+      ],
+      "sourceLine": 335,
+      "section": "Larynx, bronchial tree and lungs / right lower lobe",
+      "label": "7",
+      "structureId": "medial-basal-segment-right-lower-lobe-4821aa1dd3",
+      "factId": "f-8809336b85",
+      "variantId": "v-99d62b49cf"
+    },
+    {
+      "id": "thorax-model-hs21-338",
+      "path": [
+        "36",
+        "36c",
+        "8"
+      ],
+      "tags": [
+        "Identification",
+        "BronchopulmonarySegment",
+        "RightLung",
+        "HS21",
+        "LowerLobe"
+      ],
+      "sourceLine": 338,
+      "section": "Larynx, bronchial tree and lungs / right lower lobe",
+      "label": "8",
+      "structureId": "anterior-basal-segment-right-lower-lobe-37230067bf",
+      "factId": "f-c27abcafb2",
+      "variantId": "v-9ab72b190d"
+    },
+    {
+      "id": "thorax-model-hs21-339",
+      "path": [
+        "36",
+        "36c",
+        "8"
+      ],
+      "tags": [
+        "Definition",
+        "BronchopulmonarySegment",
+        "RightLung",
+        "HS21",
+        "LowerLobe"
+      ],
+      "sourceLine": 339,
+      "section": "Larynx, bronchial tree and lungs / right lower lobe",
+      "label": "8",
+      "structureId": "anterior-basal-segment-right-lower-lobe-37230067bf",
+      "factId": "f-aa806be62e",
+      "variantId": "v-99d62b49cf"
+    },
+    {
+      "id": "thorax-model-hs21-342",
+      "path": [
+        "36",
+        "36c",
+        "9"
+      ],
+      "tags": [
+        "Identification",
+        "BronchopulmonarySegment",
+        "RightLung",
+        "HS21",
+        "LowerLobe"
+      ],
+      "sourceLine": 342,
+      "section": "Larynx, bronchial tree and lungs / right lower lobe",
+      "label": "9",
+      "structureId": "lateral-basal-segment-right-lower-lobe-7b854bc110",
+      "factId": "f-e6c763507a",
+      "variantId": "v-ab5e4ee095"
+    },
+    {
+      "id": "thorax-model-hs21-343",
+      "path": [
+        "36",
+        "36c",
+        "9"
+      ],
+      "tags": [
+        "Definition",
+        "BronchopulmonarySegment",
+        "RightLung",
+        "HS21",
+        "LowerLobe"
+      ],
+      "sourceLine": 343,
+      "section": "Larynx, bronchial tree and lungs / right lower lobe",
+      "label": "9",
+      "structureId": "lateral-basal-segment-right-lower-lobe-7b854bc110",
+      "factId": "f-90ec8647a4",
+      "variantId": "v-99d62b49cf"
+    },
+    {
+      "id": "thorax-model-hs21-346",
+      "path": [
+        "36",
+        "36c",
+        "10"
+      ],
+      "tags": [
+        "Identification",
+        "BronchopulmonarySegment",
+        "RightLung",
+        "HS21",
+        "LowerLobe"
+      ],
+      "sourceLine": 346,
+      "section": "Larynx, bronchial tree and lungs / right lower lobe",
+      "label": "10",
+      "structureId": "posterior-basal-segment-right-lower-lobe-8edb2c6028",
+      "factId": "f-2a8503f911",
+      "variantId": "v-25580414a3"
+    },
+    {
+      "id": "thorax-model-hs21-347",
+      "path": [
+        "36",
+        "36c",
+        "10"
+      ],
+      "tags": [
+        "Definition",
+        "BronchopulmonarySegment",
+        "RightLung",
+        "HS21",
+        "LowerLobe"
+      ],
+      "sourceLine": 347,
+      "section": "Larynx, bronchial tree and lungs / right lower lobe",
+      "label": "10",
+      "structureId": "posterior-basal-segment-right-lower-lobe-8edb2c6028",
+      "factId": "f-9004cb9764",
+      "variantId": "v-99d62b49cf"
+    },
+    {
+      "id": "thorax-model-hs21-350",
+      "path": [
+        "37"
+      ],
+      "tags": [
+        "Identification",
+        "Organ",
+        "LeftLung",
+        "HS21"
+      ],
+      "sourceLine": 350,
+      "section": "Larynx, bronchial tree and lungs",
+      "label": "37",
+      "structureId": "left-lung-with-bronchopulmonary-segments-56c930935c",
+      "factId": "f-f7b899ad3d",
+      "variantId": "v-56c930935c"
+    },
+    {
+      "id": "thorax-model-hs21-351",
+      "path": [
+        "37"
+      ],
+      "tags": [
+        "Parts",
+        "Organ",
+        "LeftLung",
+        "HS21"
+      ],
+      "sourceLine": 351,
+      "section": "Larynx, bronchial tree and lungs",
+      "label": "37",
+      "structureId": "left-lung-with-bronchopulmonary-segments-56c930935c",
+      "factId": "f-c2d4609943",
+      "variantId": "v-bfc2166e56"
+    },
+    {
+      "id": "thorax-model-hs21-352",
+      "path": [
+        "37"
+      ],
+      "tags": [
+        "Function",
+        "Organ",
+        "LeftLung",
+        "HS21"
+      ],
+      "sourceLine": 352,
+      "section": "Larynx, bronchial tree and lungs",
+      "label": "37",
+      "structureId": "left-lung-with-bronchopulmonary-segments-56c930935c",
+      "factId": "f-4491efc5ab",
+      "variantId": "v-c8ef36e931"
+    },
+    {
+      "id": "thorax-model-hs21-355",
+      "path": [
+        "37",
+        "37a"
+      ],
+      "tags": [
+        "Identification",
+        "LungLobe",
+        "LeftLung",
+        "HS21",
+        "UpperLobe"
+      ],
+      "sourceLine": 355,
+      "section": "Larynx, bronchial tree and lungs",
+      "label": "37a",
+      "structureId": "upper-lobe-of-left-lung-68f0cc3ab7",
+      "factId": "f-9d2c706308",
+      "variantId": "v-7cf91ceb5d"
+    },
+    {
+      "id": "thorax-model-hs21-356",
+      "path": [
+        "37",
+        "37a"
+      ],
+      "tags": [
+        "Parts",
+        "LungLobe",
+        "LeftLung",
+        "HS21",
+        "UpperLobe"
+      ],
+      "sourceLine": 356,
+      "section": "Larynx, bronchial tree and lungs",
+      "label": "37a",
+      "structureId": "upper-lobe-of-left-lung-68f0cc3ab7",
+      "factId": "f-98bec27bd1",
+      "variantId": "v-abea8e198b"
+    },
+    {
+      "id": "thorax-model-hs21-359",
+      "path": [
+        "37",
+        "37a",
+        "1"
+      ],
+      "tags": [
+        "Identification",
+        "BronchopulmonarySegment",
+        "LeftLung",
+        "HS21",
+        "UpperLobe"
+      ],
+      "sourceLine": 359,
+      "section": "Larynx, bronchial tree and lungs / left upper lobe",
+      "label": "1",
+      "structureId": "apicoposterior-segment-left-upper-lobe-d112cf5f82",
+      "factId": "f-97978cf0a8",
+      "variantId": "v-3a71a3a1c8"
+    },
+    {
+      "id": "thorax-model-hs21-360",
+      "path": [
+        "37",
+        "37a",
+        "1"
+      ],
+      "tags": [
+        "Definition",
+        "BronchopulmonarySegment",
+        "LeftLung",
+        "HS21",
+        "UpperLobe"
+      ],
+      "sourceLine": 360,
+      "section": "Larynx, bronchial tree and lungs / left upper lobe",
+      "label": "1",
+      "structureId": "apicoposterior-segment-left-upper-lobe-d112cf5f82",
+      "factId": "f-7580d31639",
+      "variantId": "v-99d62b49cf"
+    },
+    {
+      "id": "thorax-model-hs21-363",
+      "path": [
+        "37",
+        "37a",
+        "2"
+      ],
+      "tags": [
+        "Identification",
+        "BronchopulmonarySegment",
+        "LeftLung",
+        "HS21",
+        "UpperLobe"
+      ],
+      "sourceLine": 363,
+      "section": "Larynx, bronchial tree and lungs / left upper lobe",
+      "label": "2",
+      "structureId": "apicoposterior-segment-left-upper-lobe-d112cf5f82",
+      "factId": "f-97978cf0a8",
+      "variantId": "v-3a71a3a1c8"
+    },
+    {
+      "id": "thorax-model-hs21-364",
+      "path": [
+        "37",
+        "37a",
+        "2"
+      ],
+      "tags": [
+        "Definition",
+        "BronchopulmonarySegment",
+        "LeftLung",
+        "HS21",
+        "UpperLobe"
+      ],
+      "sourceLine": 364,
+      "section": "Larynx, bronchial tree and lungs / left upper lobe",
+      "label": "2",
+      "structureId": "apicoposterior-segment-left-upper-lobe-d112cf5f82",
+      "factId": "f-7580d31639",
+      "variantId": "v-99d62b49cf"
+    },
+    {
+      "id": "thorax-model-hs21-365",
+      "path": [
+        "37",
+        "37a",
+        "2"
+      ],
+      "tags": [
+        "ModelNote",
+        "BronchopulmonarySegment",
+        "LeftLung",
+        "HS21",
+        "UpperLobe"
+      ],
+      "sourceLine": 365,
+      "section": "Larynx, bronchial tree and lungs / left upper lobe",
+      "label": "2",
+      "structureId": "apicoposterior-segment-left-upper-lobe-d112cf5f82",
+      "factId": "f-4ad468125c",
+      "variantId": "v-fcd6b25632"
+    },
+    {
+      "id": "thorax-model-hs21-368",
+      "path": [
+        "37",
+        "37a",
+        "3"
+      ],
+      "tags": [
+        "Identification",
+        "BronchopulmonarySegment",
+        "LeftLung",
+        "HS21",
+        "UpperLobe"
+      ],
+      "sourceLine": 368,
+      "section": "Larynx, bronchial tree and lungs / left upper lobe",
+      "label": "3",
+      "structureId": "anterior-segment-left-upper-lobe-84cc529efa",
+      "factId": "f-2c9d5bea35",
+      "variantId": "v-7a857c9ef2"
+    },
+    {
+      "id": "thorax-model-hs21-369",
+      "path": [
+        "37",
+        "37a",
+        "3"
+      ],
+      "tags": [
+        "Definition",
+        "BronchopulmonarySegment",
+        "LeftLung",
+        "HS21",
+        "UpperLobe"
+      ],
+      "sourceLine": 369,
+      "section": "Larynx, bronchial tree and lungs / left upper lobe",
+      "label": "3",
+      "structureId": "anterior-segment-left-upper-lobe-84cc529efa",
+      "factId": "f-0c3c9db20e",
+      "variantId": "v-99d62b49cf"
+    },
+    {
+      "id": "thorax-model-hs21-372",
+      "path": [
+        "37",
+        "37a",
+        "4"
+      ],
+      "tags": [
+        "Identification",
+        "BronchopulmonarySegment",
+        "LeftLung",
+        "HS21",
+        "UpperLobe"
+      ],
+      "sourceLine": 372,
+      "section": "Larynx, bronchial tree and lungs / left upper lobe",
+      "label": "4",
+      "structureId": "superior-lingular-segment-left-upper-lobe-43c2d11bd1",
+      "factId": "f-10cf56be75",
+      "variantId": "v-7c685e068c"
+    },
+    {
+      "id": "thorax-model-hs21-373",
+      "path": [
+        "37",
+        "37a",
+        "4"
+      ],
+      "tags": [
+        "Definition",
+        "BronchopulmonarySegment",
+        "LeftLung",
+        "HS21",
+        "UpperLobe"
+      ],
+      "sourceLine": 373,
+      "section": "Larynx, bronchial tree and lungs / left upper lobe",
+      "label": "4",
+      "structureId": "superior-lingular-segment-left-upper-lobe-43c2d11bd1",
+      "factId": "f-b5d4b213be",
+      "variantId": "v-99d62b49cf"
+    },
+    {
+      "id": "thorax-model-hs21-376",
+      "path": [
+        "37",
+        "37a",
+        "5"
+      ],
+      "tags": [
+        "Identification",
+        "BronchopulmonarySegment",
+        "LeftLung",
+        "HS21",
+        "UpperLobe"
+      ],
+      "sourceLine": 376,
+      "section": "Larynx, bronchial tree and lungs / left upper lobe",
+      "label": "5",
+      "structureId": "inferior-lingular-segment-left-upper-lobe-30c4ed5aa1",
+      "factId": "f-03321c33c4",
+      "variantId": "v-94d2dcdbd3"
+    },
+    {
+      "id": "thorax-model-hs21-377",
+      "path": [
+        "37",
+        "37a",
+        "5"
+      ],
+      "tags": [
+        "Definition",
+        "BronchopulmonarySegment",
+        "LeftLung",
+        "HS21",
+        "UpperLobe"
+      ],
+      "sourceLine": 377,
+      "section": "Larynx, bronchial tree and lungs / left upper lobe",
+      "label": "5",
+      "structureId": "inferior-lingular-segment-left-upper-lobe-30c4ed5aa1",
+      "factId": "f-71973bc5fc",
+      "variantId": "v-99d62b49cf"
+    },
+    {
+      "id": "thorax-model-hs21-380",
+      "path": [
+        "37",
+        "37b"
+      ],
+      "tags": [
+        "Identification",
+        "LungLobe",
+        "LeftLung",
+        "HS21",
+        "LowerLobe"
+      ],
+      "sourceLine": 380,
+      "section": "Larynx, bronchial tree and lungs",
+      "label": "37b",
+      "structureId": "left-lower-lobe-fda1fdf439",
+      "factId": "f-671f514f58",
+      "variantId": "v-fda1fdf439"
+    },
+    {
+      "id": "thorax-model-hs21-381",
+      "path": [
+        "37",
+        "37b"
+      ],
+      "tags": [
+        "Parts",
+        "LungLobe",
+        "LeftLung",
+        "HS21",
+        "LowerLobe"
+      ],
+      "sourceLine": 381,
+      "section": "Larynx, bronchial tree and lungs",
+      "label": "37b",
+      "structureId": "left-lower-lobe-fda1fdf439",
+      "factId": "f-df26cb1a24",
+      "variantId": "v-7a099fc54c"
+    },
+    {
+      "id": "thorax-model-hs21-384",
+      "path": [
+        "37",
+        "37b",
+        "6"
+      ],
+      "tags": [
+        "Identification",
+        "BronchopulmonarySegment",
+        "LeftLung",
+        "HS21",
+        "LowerLobe"
+      ],
+      "sourceLine": 384,
+      "section": "Larynx, bronchial tree and lungs / left lower lobe",
+      "label": "6",
+      "structureId": "superior-segment-left-lower-lobe-ab63f59835",
+      "factId": "f-f47acece8c",
+      "variantId": "v-f306835ed5"
+    },
+    {
+      "id": "thorax-model-hs21-385",
+      "path": [
+        "37",
+        "37b",
+        "6"
+      ],
+      "tags": [
+        "Definition",
+        "BronchopulmonarySegment",
+        "LeftLung",
+        "HS21",
+        "LowerLobe"
+      ],
+      "sourceLine": 385,
+      "section": "Larynx, bronchial tree and lungs / left lower lobe",
+      "label": "6",
+      "structureId": "superior-segment-left-lower-lobe-ab63f59835",
+      "factId": "f-13ccbf437c",
+      "variantId": "v-99d62b49cf"
+    },
+    {
+      "id": "thorax-model-hs21-388",
+      "path": [
+        "37",
+        "37b",
+        "8"
+      ],
+      "tags": [
+        "Identification",
+        "BronchopulmonarySegment",
+        "LeftLung",
+        "HS21",
+        "LowerLobe"
+      ],
+      "sourceLine": 388,
+      "section": "Larynx, bronchial tree and lungs / left lower lobe",
+      "label": "8",
+      "structureId": "anterior-basal-segment-left-lower-lobe-20737ae576",
+      "factId": "f-2293b3c5a9",
+      "variantId": "v-9ab72b190d"
+    },
+    {
+      "id": "thorax-model-hs21-389",
+      "path": [
+        "37",
+        "37b",
+        "8"
+      ],
+      "tags": [
+        "Definition",
+        "BronchopulmonarySegment",
+        "LeftLung",
+        "HS21",
+        "LowerLobe"
+      ],
+      "sourceLine": 389,
+      "section": "Larynx, bronchial tree and lungs / left lower lobe",
+      "label": "8",
+      "structureId": "anterior-basal-segment-left-lower-lobe-20737ae576",
+      "factId": "f-2dfa440731",
+      "variantId": "v-99d62b49cf"
+    },
+    {
+      "id": "thorax-model-hs21-392",
+      "path": [
+        "37",
+        "37b",
+        "9"
+      ],
+      "tags": [
+        "Identification",
+        "BronchopulmonarySegment",
+        "LeftLung",
+        "HS21",
+        "LowerLobe"
+      ],
+      "sourceLine": 392,
+      "section": "Larynx, bronchial tree and lungs / left lower lobe",
+      "label": "9",
+      "structureId": "lateral-basal-segment-left-lower-lobe-71e98188e4",
+      "factId": "f-7cf107c45a",
+      "variantId": "v-ab5e4ee095"
+    },
+    {
+      "id": "thorax-model-hs21-393",
+      "path": [
+        "37",
+        "37b",
+        "9"
+      ],
+      "tags": [
+        "Definition",
+        "BronchopulmonarySegment",
+        "LeftLung",
+        "HS21",
+        "LowerLobe"
+      ],
+      "sourceLine": 393,
+      "section": "Larynx, bronchial tree and lungs / left lower lobe",
+      "label": "9",
+      "structureId": "lateral-basal-segment-left-lower-lobe-71e98188e4",
+      "factId": "f-b33b178f72",
+      "variantId": "v-99d62b49cf"
+    },
+    {
+      "id": "thorax-model-hs21-396",
+      "path": [
+        "37",
+        "37b",
+        "10"
+      ],
+      "tags": [
+        "Identification",
+        "BronchopulmonarySegment",
+        "LeftLung",
+        "HS21",
+        "LowerLobe"
+      ],
+      "sourceLine": 396,
+      "section": "Larynx, bronchial tree and lungs / left lower lobe",
+      "label": "10",
+      "structureId": "posterior-basal-segment-left-lower-lobe-f8373d82fb",
+      "factId": "f-d3632f5ebf",
+      "variantId": "v-25580414a3"
+    },
+    {
+      "id": "thorax-model-hs21-397",
+      "path": [
+        "37",
+        "37b",
+        "10"
+      ],
+      "tags": [
+        "Definition",
+        "BronchopulmonarySegment",
+        "LeftLung",
+        "HS21",
+        "LowerLobe"
+      ],
+      "sourceLine": 397,
+      "section": "Larynx, bronchial tree and lungs / left lower lobe",
+      "label": "10",
+      "structureId": "posterior-basal-segment-left-lower-lobe-f8373d82fb",
+      "factId": "f-8c031a9aec",
+      "variantId": "v-99d62b49cf"
+    },
+    {
+      "id": "thorax-model-hs21-401",
+      "path": [
+        "38"
+      ],
+      "tags": [
+        "Identification",
+        "Organ",
+        "Heart",
+        "HS21"
+      ],
+      "sourceLine": 401,
+      "section": "Heart",
+      "label": "38",
+      "structureId": "heart-0e4ae2aa03",
+      "factId": "f-9d2c706308",
+      "variantId": "v-2a37335eeb"
+    },
+    {
+      "id": "thorax-model-hs21-402",
+      "path": [
+        "38"
+      ],
+      "tags": [
+        "Function",
+        "Organ",
+        "Heart",
+        "HS21"
+      ],
+      "sourceLine": 402,
+      "section": "Heart",
+      "label": "38",
+      "structureId": "heart-0e4ae2aa03",
+      "factId": "f-f1e410ad14",
+      "variantId": "v-da8c6d575d"
+    },
+    {
+      "id": "thorax-model-hs21-403",
+      "path": [
+        "38"
+      ],
+      "tags": [
+        "Location",
+        "Organ",
+        "Heart",
+        "HS21"
+      ],
+      "sourceLine": 403,
+      "section": "Heart",
+      "label": "38",
+      "structureId": "heart-0e4ae2aa03",
+      "factId": "f-d219c68101",
+      "variantId": "v-a12c6b618c"
+    },
+    {
+      "id": "thorax-model-hs21-404",
+      "path": [
+        "38"
+      ],
+      "tags": [
+        "Parts",
+        "Organ",
+        "Heart",
+        "HS21"
+      ],
+      "sourceLine": 404,
+      "section": "Heart",
+      "label": "38",
+      "structureId": "heart-0e4ae2aa03",
+      "factId": "f-31e0026dbe",
+      "variantId": "v-80c320a889"
+    },
+    {
+      "id": "thorax-model-hs21-408",
+      "path": [
+        "38",
+        "A"
+      ],
+      "tags": [
+        "Identification",
+        "HeartLandmark",
+        "Heart",
+        "HS21"
+      ],
+      "sourceLine": 408,
+      "section": "Heart / Surface grooves",
+      "label": "A",
+      "structureId": "coronary-sulcus-bcb4493fa0",
+      "factId": "f-fef53e1f3e",
+      "variantId": "v-bcb4493fa0"
+    },
+    {
+      "id": "thorax-model-hs21-409",
+      "path": [
+        "38",
+        "A"
+      ],
+      "tags": [
+        "Relations",
+        "HeartLandmark",
+        "Heart",
+        "HS21"
+      ],
+      "sourceLine": 409,
+      "section": "Heart / Surface grooves",
+      "label": "A",
+      "structureId": "coronary-sulcus-bcb4493fa0",
+      "factId": "f-2ee0fc0d06",
+      "variantId": "v-645d421902"
+    },
+    {
+      "id": "thorax-model-hs21-412",
+      "path": [
+        "38",
+        "B"
+      ],
+      "tags": [
+        "Identification",
+        "HeartLandmark",
+        "Heart",
+        "HS21"
+      ],
+      "sourceLine": 412,
+      "section": "Heart / Surface grooves",
+      "label": "B",
+      "structureId": "anterior-interventricular-sulcus-4f82daf90e",
+      "factId": "f-62a1fb1345",
+      "variantId": "v-4f82daf90e"
+    },
+    {
+      "id": "thorax-model-hs21-413",
+      "path": [
+        "38",
+        "B"
+      ],
+      "tags": [
+        "Contents",
+        "HeartLandmark",
+        "Heart",
+        "HS21"
+      ],
+      "sourceLine": 413,
+      "section": "Heart / Surface grooves",
+      "label": "B",
+      "structureId": "anterior-interventricular-sulcus-4f82daf90e",
+      "factId": "f-a1dca6a2b0",
+      "variantId": "v-d8fa4c83fa"
+    },
+    {
+      "id": "thorax-model-hs21-416",
+      "path": [
+        "38",
+        "C"
+      ],
+      "tags": [
+        "Identification",
+        "HeartLandmark",
+        "Heart",
+        "HS21"
+      ],
+      "sourceLine": 416,
+      "section": "Heart / Surface grooves",
+      "label": "C",
+      "structureId": "posterior-interventricular-sulcus-3b5423f23d",
+      "factId": "f-f4b2f756cf",
+      "variantId": "v-3b5423f23d"
+    },
+    {
+      "id": "thorax-model-hs21-417",
+      "path": [
+        "38",
+        "C"
+      ],
+      "tags": [
+        "Contents",
+        "HeartLandmark",
+        "Heart",
+        "HS21"
+      ],
+      "sourceLine": 417,
+      "section": "Heart / Surface grooves",
+      "label": "C",
+      "structureId": "posterior-interventricular-sulcus-3b5423f23d",
+      "factId": "f-fd2d570bec",
+      "variantId": "v-93260595a7"
+    },
+    {
+      "id": "thorax-model-hs21-421",
+      "path": [
+        "38",
+        "1"
+      ],
+      "tags": [
+        "Identification",
+        "HeartStructure",
+        "Heart",
+        "HS21",
+        "RightAtrium"
+      ],
+      "sourceLine": 421,
+      "section": "Heart / Right atrium",
+      "label": "1",
+      "structureId": "fossa-ovalis-4c2e05149f",
+      "factId": "f-b47c22ad23",
+      "variantId": "v-4c2e05149f"
+    },
+    {
+      "id": "thorax-model-hs21-422",
+      "path": [
+        "38",
+        "1"
+      ],
+      "tags": [
+        "Structure",
+        "HeartStructure",
+        "Heart",
+        "HS21",
+        "RightAtrium"
+      ],
+      "sourceLine": 422,
+      "section": "Heart / Right atrium",
+      "label": "1",
+      "structureId": "fossa-ovalis-4c2e05149f",
+      "factId": "f-aac2e7f3b2",
+      "variantId": "v-3e06e5bd6a"
+    },
+    {
+      "id": "thorax-model-hs21-425",
+      "path": [
+        "38",
+        "2"
+      ],
+      "tags": [
+        "Identification",
+        "HeartStructure",
+        "Heart",
+        "HS21",
+        "RightAtrium"
+      ],
+      "sourceLine": 425,
+      "section": "Heart / Right atrium",
+      "label": "2",
+      "structureId": "interatrial-septum-509e8d8dbd",
+      "factId": "f-7ce4d611dc",
+      "variantId": "v-509e8d8dbd"
+    },
+    {
+      "id": "thorax-model-hs21-426",
+      "path": [
+        "38",
+        "2"
+      ],
+      "tags": [
+        "Function",
+        "HeartStructure",
+        "Heart",
+        "HS21",
+        "RightAtrium"
+      ],
+      "sourceLine": 426,
+      "section": "Heart / Right atrium",
+      "label": "2",
+      "structureId": "interatrial-septum-509e8d8dbd",
+      "factId": "f-4c740e567e",
+      "variantId": "v-23b458576c"
+    },
+    {
+      "id": "thorax-model-hs21-429",
+      "path": [
+        "38",
+        "3"
+      ],
+      "tags": [
+        "Identification",
+        "HeartStructure",
+        "Heart",
+        "HS21",
+        "RightAtrium"
+      ],
+      "sourceLine": 429,
+      "section": "Heart / Right atrium",
+      "label": "3",
+      "structureId": "eustachian-valve-0749dcaacf",
+      "factId": "f-519f89af99",
+      "variantId": "v-0749dcaacf"
+    },
+    {
+      "id": "thorax-model-hs21-430",
+      "path": [
+        "38",
+        "3"
+      ],
+      "tags": [
+        "Structure",
+        "HeartStructure",
+        "Heart",
+        "HS21",
+        "RightAtrium"
+      ],
+      "sourceLine": 430,
+      "section": "Heart / Right atrium",
+      "label": "3",
+      "structureId": "eustachian-valve-0749dcaacf",
+      "factId": "f-54e1360b5f",
+      "variantId": "v-6d33346386"
+    },
+    {
+      "id": "thorax-model-hs21-433",
+      "path": [
+        "38",
+        "4"
+      ],
+      "tags": [
+        "Identification",
+        "HeartStructure",
+        "Heart",
+        "HS21",
+        "RightAtrium"
+      ],
+      "sourceLine": 433,
+      "section": "Heart / Right atrium",
+      "label": "4",
+      "structureId": "right-atrioventricular-orifice-7358d047f9",
+      "factId": "f-1ecb24073b",
+      "variantId": "v-7358d047f9"
+    },
+    {
+      "id": "thorax-model-hs21-434",
+      "path": [
+        "38",
+        "4"
+      ],
+      "tags": [
+        "Function",
+        "HeartStructure",
+        "Heart",
+        "HS21",
+        "RightAtrium"
+      ],
+      "sourceLine": 434,
+      "section": "Heart / Right atrium",
+      "label": "4",
+      "structureId": "right-atrioventricular-orifice-7358d047f9",
+      "factId": "f-ae9a2ae80f",
+      "variantId": "v-8918b15ff4"
+    },
+    {
+      "id": "thorax-model-hs21-437",
+      "path": [
+        "38",
+        "5"
+      ],
+      "tags": [
+        "Identification",
+        "HeartStructure",
+        "Heart",
+        "HS21",
+        "RightAtrium"
+      ],
+      "sourceLine": 437,
+      "section": "Heart / Right atrium",
+      "label": "5",
+      "structureId": "superior-vena-cava-d34b0694af",
+      "factId": "f-9d2c706308",
+      "variantId": "v-ad6d9611c3"
+    },
+    {
+      "id": "thorax-model-hs21-438",
+      "path": [
+        "38",
+        "5"
+      ],
+      "tags": [
+        "Drainage",
+        "HeartStructure",
+        "Heart",
+        "HS21",
+        "RightAtrium"
+      ],
+      "sourceLine": 438,
+      "section": "Heart / Right atrium",
+      "label": "5",
+      "structureId": "superior-vena-cava-d34b0694af",
+      "factId": "f-74a64b1943",
+      "variantId": "v-db8cffbcd0"
+    },
+    {
+      "id": "thorax-model-hs21-441",
+      "path": [
+        "38",
+        "6"
+      ],
+      "tags": [
+        "Identification",
+        "HeartStructure",
+        "Heart",
+        "HS21",
+        "RightAtrium"
+      ],
+      "sourceLine": 441,
+      "section": "Heart / Right atrium",
+      "label": "6",
+      "structureId": "inferior-vena-cava-12a0b3ae11",
+      "factId": "f-9d2c706308",
+      "variantId": "v-1e117bb53f"
+    },
+    {
+      "id": "thorax-model-hs21-442",
+      "path": [
+        "38",
+        "6"
+      ],
+      "tags": [
+        "Drainage",
+        "HeartStructure",
+        "Heart",
+        "HS21",
+        "RightAtrium"
+      ],
+      "sourceLine": 442,
+      "section": "Heart / Right atrium",
+      "label": "6",
+      "structureId": "inferior-vena-cava-12a0b3ae11",
+      "factId": "f-74a64b1943",
+      "variantId": "v-7d8f6c86b5"
+    },
+    {
+      "id": "thorax-model-hs21-445",
+      "path": [
+        "38",
+        "7"
+      ],
+      "tags": [
+        "Identification",
+        "HeartStructure",
+        "Heart",
+        "HS21",
+        "RightAtrium"
+      ],
+      "sourceLine": 445,
+      "section": "Heart / Right atrium",
+      "label": "7",
+      "structureId": "thebesian-valve-f30a93d47b",
+      "factId": "f-97f97520fd",
+      "variantId": "v-f30a93d47b"
+    },
+    {
+      "id": "thorax-model-hs21-446",
+      "path": [
+        "38",
+        "7"
+      ],
+      "tags": [
+        "Structure",
+        "HeartStructure",
+        "Heart",
+        "HS21",
+        "RightAtrium"
+      ],
+      "sourceLine": 446,
+      "section": "Heart / Right atrium",
+      "label": "7",
+      "structureId": "thebesian-valve-f30a93d47b",
+      "factId": "f-606013193d",
+      "variantId": "v-60cb5daa27"
+    },
+    {
+      "id": "thorax-model-hs21-450",
+      "path": [
+        "38",
+        "8"
+      ],
+      "tags": [
+        "Identification",
+        "HeartStructure",
+        "Heart",
+        "HS21",
+        "RightVentricle"
+      ],
+      "sourceLine": 450,
+      "section": "Heart / Right ventricle",
+      "label": "8",
+      "structureId": "tricuspid-valve-right-atrioventricular-valve-7bb0f89fae",
+      "factId": "f-9d2c706308",
+      "variantId": "v-a5a4dca411"
+    },
+    {
+      "id": "thorax-model-hs21-451",
+      "path": [
+        "38",
+        "8"
+      ],
+      "tags": [
+        "Function",
+        "HeartStructure",
+        "Heart",
+        "HS21",
+        "RightVentricle"
+      ],
+      "sourceLine": 451,
+      "section": "Heart / Right ventricle",
+      "label": "8",
+      "structureId": "tricuspid-valve-right-atrioventricular-valve-7bb0f89fae",
+      "factId": "f-f1e410ad14",
+      "variantId": "v-fb01f1170b"
+    },
+    {
+      "id": "thorax-model-hs21-452",
+      "path": [
+        "38",
+        "8"
+      ],
+      "tags": [
+        "Structure",
+        "HeartStructure",
+        "Heart",
+        "HS21",
+        "RightVentricle"
+      ],
+      "sourceLine": 452,
+      "section": "Heart / Right ventricle",
+      "label": "8",
+      "structureId": "tricuspid-valve-right-atrioventricular-valve-7bb0f89fae",
+      "factId": "f-9482c5d5bf",
+      "variantId": "v-ab582b5983"
+    },
+    {
+      "id": "thorax-model-hs21-455",
+      "path": [
+        "38",
+        "9"
+      ],
+      "tags": [
+        "Identification",
+        "HeartStructure",
+        "Heart",
+        "HS21",
+        "RightVentricle"
+      ],
+      "sourceLine": 455,
+      "section": "Heart / Right ventricle",
+      "label": "9",
+      "structureId": "papillary-muscles-d7634d4e8a",
+      "factId": "f-9d2c706308",
+      "variantId": "v-3c8415b158"
+    },
+    {
+      "id": "thorax-model-hs21-456",
+      "path": [
+        "38",
+        "9"
+      ],
+      "tags": [
+        "Function",
+        "HeartStructure",
+        "Heart",
+        "HS21",
+        "RightVentricle"
+      ],
+      "sourceLine": 456,
+      "section": "Heart / Right ventricle",
+      "label": "9",
+      "structureId": "papillary-muscles-d7634d4e8a",
+      "factId": "f-f1e410ad14",
+      "variantId": "v-528aa46738"
+    },
+    {
+      "id": "thorax-model-hs21-459",
+      "path": [
+        "38",
+        "10"
+      ],
+      "tags": [
+        "Identification",
+        "HeartStructure",
+        "Heart",
+        "HS21",
+        "RightVentricle"
+      ],
+      "sourceLine": 459,
+      "section": "Heart / Right ventricle",
+      "label": "10",
+      "structureId": "posterior-cusp-of-the-pulmonary-valve-0d02dd7888",
+      "factId": "f-38ecb4fa7d",
+      "variantId": "v-0d02dd7888"
+    },
+    {
+      "id": "thorax-model-hs21-460",
+      "path": [
+        "38",
+        "10"
+      ],
+      "tags": [
+        "Function",
+        "HeartStructure",
+        "Heart",
+        "HS21",
+        "RightVentricle"
+      ],
+      "sourceLine": 460,
+      "section": "Heart / Right ventricle",
+      "label": "10",
+      "structureId": "posterior-cusp-of-the-pulmonary-valve-0d02dd7888",
+      "factId": "f-bd3df3e207",
+      "variantId": "v-e278d14cae"
+    },
+    {
+      "id": "thorax-model-hs21-463",
+      "path": [
+        "38",
+        "11"
+      ],
+      "tags": [
+        "Identification",
+        "HeartStructure",
+        "Heart",
+        "HS21",
+        "RightVentricle"
+      ],
+      "sourceLine": 463,
+      "section": "Heart / Right ventricle",
+      "label": "11",
+      "structureId": "pulmonary-trunk-d29b190d8f",
+      "factId": "f-9d2c706308",
+      "variantId": "v-cd7e10b1cd"
+    },
+    {
+      "id": "thorax-model-hs21-464",
+      "path": [
+        "38",
+        "11"
+      ],
+      "tags": [
+        "Function",
+        "HeartStructure",
+        "Heart",
+        "HS21",
+        "RightVentricle"
+      ],
+      "sourceLine": 464,
+      "section": "Heart / Right ventricle",
+      "label": "11",
+      "structureId": "pulmonary-trunk-d29b190d8f",
+      "factId": "f-964793c54f",
+      "variantId": "v-872019d525"
+    },
+    {
+      "id": "thorax-model-hs21-467",
+      "path": [
+        "38",
+        "12"
+      ],
+      "tags": [
+        "Identification",
+        "HeartStructure",
+        "Heart",
+        "HS21",
+        "RightVentricle"
+      ],
+      "sourceLine": 467,
+      "section": "Heart / Right ventricle",
+      "label": "12",
+      "structureId": "interventricular-septum-7b52b429d5",
+      "factId": "f-9d2c706308",
+      "variantId": "v-0fbabe3dc8"
+    },
+    {
+      "id": "thorax-model-hs21-468",
+      "path": [
+        "38",
+        "12"
+      ],
+      "tags": [
+        "Function",
+        "HeartStructure",
+        "Heart",
+        "HS21",
+        "RightVentricle"
+      ],
+      "sourceLine": 468,
+      "section": "Heart / Right ventricle",
+      "label": "12",
+      "structureId": "interventricular-septum-7b52b429d5",
+      "factId": "f-f1e410ad14",
+      "variantId": "v-bf6623c86c"
+    },
+    {
+      "id": "thorax-model-hs21-469",
+      "path": [
+        "38",
+        "12"
+      ],
+      "tags": [
+        "Structure",
+        "HeartStructure",
+        "Heart",
+        "HS21",
+        "RightVentricle"
+      ],
+      "sourceLine": 469,
+      "section": "Heart / Right ventricle",
+      "label": "12",
+      "structureId": "interventricular-septum-7b52b429d5",
+      "factId": "f-3e6876fb7e",
+      "variantId": "v-ee99e74f79"
+    },
+    {
+      "id": "thorax-model-hs21-473",
+      "path": [
+        "38",
+        "13"
+      ],
+      "tags": [
+        "Identification",
+        "HeartStructure",
+        "Heart",
+        "HS21",
+        "LeftAtrium"
+      ],
+      "sourceLine": 473,
+      "section": "Heart / Left atrium",
+      "label": "13",
+      "structureId": "pulmonary-veins-14d5443218",
+      "factId": "f-9d2c706308",
+      "variantId": "v-27290326f6"
+    },
+    {
+      "id": "thorax-model-hs21-474",
+      "path": [
+        "38",
+        "13"
+      ],
+      "tags": [
+        "Drainage",
+        "HeartStructure",
+        "Heart",
+        "HS21",
+        "LeftAtrium"
+      ],
+      "sourceLine": 474,
+      "section": "Heart / Left atrium",
+      "label": "13",
+      "structureId": "pulmonary-veins-14d5443218",
+      "factId": "f-74a64b1943",
+      "variantId": "v-5234103290"
+    },
+    {
+      "id": "thorax-model-hs21-477",
+      "path": [
+        "38",
+        "14"
+      ],
+      "tags": [
+        "Identification",
+        "HeartStructure",
+        "Heart",
+        "HS21",
+        "LeftAtrium"
+      ],
+      "sourceLine": 477,
+      "section": "Heart / Left atrium",
+      "label": "14",
+      "structureId": "left-atrioventricular-orifice-e7fea8250d",
+      "factId": "f-1a0f5ac374",
+      "variantId": "v-e7fea8250d"
+    },
+    {
+      "id": "thorax-model-hs21-478",
+      "path": [
+        "38",
+        "14"
+      ],
+      "tags": [
+        "Function",
+        "HeartStructure",
+        "Heart",
+        "HS21",
+        "LeftAtrium"
+      ],
+      "sourceLine": 478,
+      "section": "Heart / Left atrium",
+      "label": "14",
+      "structureId": "left-atrioventricular-orifice-e7fea8250d",
+      "factId": "f-3f6d7a6c37",
+      "variantId": "v-64cc13c067"
+    },
+    {
+      "id": "thorax-model-hs21-482",
+      "path": [
+        "38",
+        "15"
+      ],
+      "tags": [
+        "Identification",
+        "HeartStructure",
+        "Heart",
+        "HS21"
+      ],
+      "sourceLine": 482,
+      "section": "Heart / Left ventricle",
+      "label": "15",
+      "structureId": "bicuspid-valve-mitral-left-atrioventricular-valve-27f66fbba4",
+      "factId": "f-9d2c706308",
+      "variantId": "v-a5c2c0abbc"
+    },
+    {
+      "id": "thorax-model-hs21-483",
+      "path": [
+        "38",
+        "15"
+      ],
+      "tags": [
+        "Function",
+        "HeartStructure",
+        "Heart",
+        "HS21"
+      ],
+      "sourceLine": 483,
+      "section": "Heart / Left ventricle",
+      "label": "15",
+      "structureId": "bicuspid-valve-mitral-left-atrioventricular-valve-27f66fbba4",
+      "factId": "f-f1e410ad14",
+      "variantId": "v-8a242b6dca"
+    },
+    {
+      "id": "thorax-model-hs21-484",
+      "path": [
+        "38",
+        "15"
+      ],
+      "tags": [
+        "Structure",
+        "HeartStructure",
+        "Heart",
+        "HS21"
+      ],
+      "sourceLine": 484,
+      "section": "Heart / Left ventricle",
+      "label": "15",
+      "structureId": "bicuspid-valve-mitral-left-atrioventricular-valve-27f66fbba4",
+      "factId": "f-9482c5d5bf",
+      "variantId": "v-34e943d68a"
+    },
+    {
+      "id": "thorax-model-hs21-487",
+      "path": [
+        "38",
+        "16"
+      ],
+      "tags": [
+        "Identification",
+        "HeartStructure",
+        "Heart",
+        "HS21"
+      ],
+      "sourceLine": 487,
+      "section": "Heart / Left ventricle",
+      "label": "16",
+      "structureId": "aortic-valve-e70c184b1f",
+      "factId": "f-9d2c706308",
+      "variantId": "v-53e71355d7"
+    },
+    {
+      "id": "thorax-model-hs21-488",
+      "path": [
+        "38",
+        "16"
+      ],
+      "tags": [
+        "Function",
+        "HeartStructure",
+        "Heart",
+        "HS21"
+      ],
+      "sourceLine": 488,
+      "section": "Heart / Left ventricle",
+      "label": "16",
+      "structureId": "aortic-valve-e70c184b1f",
+      "factId": "f-f1e410ad14",
+      "variantId": "v-6589158884"
+    },
+    {
+      "id": "thorax-model-hs21-489",
+      "path": [
+        "38",
+        "16"
+      ],
+      "tags": [
+        "Structure",
+        "HeartStructure",
+        "Heart",
+        "HS21"
+      ],
+      "sourceLine": 489,
+      "section": "Heart / Left ventricle",
+      "label": "16",
+      "structureId": "aortic-valve-e70c184b1f",
+      "factId": "f-9482c5d5bf",
+      "variantId": "v-6afb2220ac"
+    },
+    {
+      "id": "thorax-model-hs21-492",
+      "path": [
+        "38",
+        "17"
+      ],
+      "tags": [
+        "Identification",
+        "HeartStructure",
+        "Heart",
+        "HS21"
+      ],
+      "sourceLine": 492,
+      "section": "Heart / Left ventricle",
+      "label": "17",
+      "structureId": "aorta-97a15f94fe",
+      "factId": "f-9d2c706308",
+      "variantId": "v-7ed7cca943"
+    },
+    {
+      "id": "thorax-model-hs21-493",
+      "path": [
+        "38",
+        "17"
+      ],
+      "tags": [
+        "Function",
+        "HeartStructure",
+        "Heart",
+        "HS21"
+      ],
+      "sourceLine": 493,
+      "section": "Heart / Left ventricle",
+      "label": "17",
+      "structureId": "aorta-97a15f94fe",
+      "factId": "f-f1e410ad14",
+      "variantId": "v-98f63cdfc3"
+    },
+    {
+      "id": "thorax-model-hs21-496",
+      "path": [
+        "38",
+        "18"
+      ],
+      "tags": [
+        "Identification",
+        "HeartStructure",
+        "Heart",
+        "HS21"
+      ],
+      "sourceLine": 496,
+      "section": "Heart / Left ventricle",
+      "label": "18",
+      "structureId": "right-coronary-artery-658b9c7c3a",
+      "factId": "f-9d2c706308",
+      "variantId": "v-8571ae3da0"
+    },
+    {
+      "id": "thorax-model-hs21-497",
+      "path": [
+        "38",
+        "18"
+      ],
+      "tags": [
+        "Origin",
+        "HeartStructure",
+        "Heart",
+        "HS21"
+      ],
+      "sourceLine": 497,
+      "section": "Heart / Left ventricle",
+      "label": "18",
+      "structureId": "right-coronary-artery-658b9c7c3a",
+      "factId": "f-44ab85a252",
+      "variantId": "v-b2b83be160"
+    },
+    {
+      "id": "thorax-model-hs21-498",
+      "path": [
+        "38",
+        "18"
+      ],
+      "tags": [
+        "Supply",
+        "HeartStructure",
+        "Heart",
+        "HS21"
+      ],
+      "sourceLine": 498,
+      "section": "Heart / Left ventricle",
+      "label": "18",
+      "structureId": "right-coronary-artery-658b9c7c3a",
+      "factId": "f-222db0fc1c",
+      "variantId": "v-cd20871d5e"
+    },
+    {
+      "id": "thorax-model-hs21-501",
+      "path": [
+        "38",
+        "19"
+      ],
+      "tags": [
+        "Identification",
+        "HeartStructure",
+        "Heart",
+        "HS21"
+      ],
+      "sourceLine": 501,
+      "section": "Heart / Left ventricle",
+      "label": "19",
+      "structureId": "left-coronary-artery-91f3c1d61f",
+      "factId": "f-9d2c706308",
+      "variantId": "v-6405bbf57c"
+    },
+    {
+      "id": "thorax-model-hs21-502",
+      "path": [
+        "38",
+        "19"
+      ],
+      "tags": [
+        "Origin",
+        "HeartStructure",
+        "Heart",
+        "HS21"
+      ],
+      "sourceLine": 502,
+      "section": "Heart / Left ventricle",
+      "label": "19",
+      "structureId": "left-coronary-artery-91f3c1d61f",
+      "factId": "f-44ab85a252",
+      "variantId": "v-941a871242"
+    },
+    {
+      "id": "thorax-model-hs21-503",
+      "path": [
+        "38",
+        "19"
+      ],
+      "tags": [
+        "Branches",
+        "HeartStructure",
+        "Heart",
+        "HS21"
+      ],
+      "sourceLine": 503,
+      "section": "Heart / Left ventricle",
+      "label": "19",
+      "structureId": "left-coronary-artery-91f3c1d61f",
+      "factId": "f-f578227926",
+      "variantId": "v-a7e2e638aa"
+    },
+    {
+      "id": "thorax-model-hs21-506",
+      "path": [
+        "38",
+        "20"
+      ],
+      "tags": [
+        "Identification",
+        "HeartStructure",
+        "Heart",
+        "HS21"
+      ],
+      "sourceLine": 506,
+      "section": "Heart / Left ventricle",
+      "label": "20",
+      "structureId": "great-cardiac-vein-e7161795da",
+      "factId": "f-9497c504de",
+      "variantId": "v-e7161795da"
+    },
+    {
+      "id": "thorax-model-hs21-507",
+      "path": [
+        "38",
+        "20"
+      ],
+      "tags": [
+        "Course",
+        "HeartStructure",
+        "Heart",
+        "HS21"
+      ],
+      "sourceLine": 507,
+      "section": "Heart / Left ventricle",
+      "label": "20",
+      "structureId": "great-cardiac-vein-e7161795da",
+      "factId": "f-2c536714d9",
+      "variantId": "v-9b657a3a8f"
+    },
+    {
+      "id": "thorax-model-hs21-508",
+      "path": [
+        "38",
+        "20"
+      ],
+      "tags": [
+        "Drainage",
+        "HeartStructure",
+        "Heart",
+        "HS21"
+      ],
+      "sourceLine": 508,
+      "section": "Heart / Left ventricle",
+      "label": "20",
+      "structureId": "great-cardiac-vein-e7161795da",
+      "factId": "f-b8ab3331a5",
+      "variantId": "v-037b7d9695"
+    },
+    {
+      "id": "thorax-model-hs21-511",
+      "path": [
+        "38",
+        "21"
+      ],
+      "tags": [
+        "Identification",
+        "HeartStructure",
+        "Heart",
+        "HS21"
+      ],
+      "sourceLine": 511,
+      "section": "Heart / Left ventricle",
+      "label": "21",
+      "structureId": "anterior-cardiac-veins-39565244a0",
+      "factId": "f-2d260cf48a",
+      "variantId": "v-39565244a0"
+    },
+    {
+      "id": "thorax-model-hs21-512",
+      "path": [
+        "38",
+        "21"
+      ],
+      "tags": [
+        "Drainage",
+        "HeartStructure",
+        "Heart",
+        "HS21"
+      ],
+      "sourceLine": 512,
+      "section": "Heart / Left ventricle",
+      "label": "21",
+      "structureId": "anterior-cardiac-veins-39565244a0",
+      "factId": "f-a02b05eaaf",
+      "variantId": "v-dcc37d042a"
+    },
+    {
+      "id": "thorax-model-hs21-515",
+      "path": [
+        "38",
+        "22"
+      ],
+      "tags": [
+        "Identification",
+        "HeartStructure",
+        "Heart",
+        "HS21"
+      ],
+      "sourceLine": 515,
+      "section": "Heart / Left ventricle",
+      "label": "22",
+      "structureId": "middle-cardiac-vein-fe333c9a83",
+      "factId": "f-c042211249",
+      "variantId": "v-fe333c9a83"
+    },
+    {
+      "id": "thorax-model-hs21-516",
+      "path": [
+        "38",
+        "22"
+      ],
+      "tags": [
+        "Course",
+        "HeartStructure",
+        "Heart",
+        "HS21"
+      ],
+      "sourceLine": 516,
+      "section": "Heart / Left ventricle",
+      "label": "22",
+      "structureId": "middle-cardiac-vein-fe333c9a83",
+      "factId": "f-31c8a6c5da",
+      "variantId": "v-a97ba6f14b"
+    },
+    {
+      "id": "thorax-model-hs21-517",
+      "path": [
+        "38",
+        "22"
+      ],
+      "tags": [
+        "Drainage",
+        "HeartStructure",
+        "Heart",
+        "HS21"
+      ],
+      "sourceLine": 517,
+      "section": "Heart / Left ventricle",
+      "label": "22",
+      "structureId": "middle-cardiac-vein-fe333c9a83",
+      "factId": "f-cd7d2e8bbf",
+      "variantId": "v-037b7d9695"
+    },
+    {
+      "id": "thorax-model-hs21-520",
+      "path": [
+        "38",
+        "23"
+      ],
+      "tags": [
+        "Identification",
+        "HeartStructure",
+        "Heart",
+        "HS21"
+      ],
+      "sourceLine": 520,
+      "section": "Heart / Left ventricle",
+      "label": "23",
+      "structureId": "brachiocephalic-trunk-df0bc63c0c",
+      "factId": "f-9d2c706308",
+      "variantId": "v-b1be69b87e"
+    },
+    {
+      "id": "thorax-model-hs21-521",
+      "path": [
+        "38",
+        "23"
+      ],
+      "tags": [
+        "Origin",
+        "HeartStructure",
+        "Heart",
+        "HS21"
+      ],
+      "sourceLine": 521,
+      "section": "Heart / Left ventricle",
+      "label": "23",
+      "structureId": "brachiocephalic-trunk-df0bc63c0c",
+      "factId": "f-44ab85a252",
+      "variantId": "v-84dca2004f"
+    },
+    {
+      "id": "thorax-model-hs21-522",
+      "path": [
+        "38",
+        "23"
+      ],
+      "tags": [
+        "Branches",
+        "HeartStructure",
+        "Heart",
+        "HS21"
+      ],
+      "sourceLine": 522,
+      "section": "Heart / Left ventricle",
+      "label": "23",
+      "structureId": "brachiocephalic-trunk-df0bc63c0c",
+      "factId": "f-f578227926",
+      "variantId": "v-530e7b92ba"
+    },
+    {
+      "id": "thorax-model-hs21-526",
+      "path": [
+        "24"
+      ],
+      "tags": [
+        "Identification",
+        "Artery",
+        "Vessels",
+        "HS21"
+      ],
+      "sourceLine": 526,
+      "section": "Vessels",
+      "label": "24",
+      "structureId": "left-common-carotid-artery-1525a01287",
+      "factId": "f-1ba2c61ce0",
+      "variantId": "v-1525a01287"
+    },
+    {
+      "id": "thorax-model-hs21-527",
+      "path": [
+        "24"
+      ],
+      "tags": [
+        "Origin",
+        "Artery",
+        "Vessels",
+        "HS21"
+      ],
+      "sourceLine": 527,
+      "section": "Vessels",
+      "label": "24",
+      "structureId": "left-common-carotid-artery-1525a01287",
+      "factId": "f-eeb632606b",
+      "variantId": "v-9d5bb3832a"
+    },
+    {
+      "id": "thorax-model-hs21-528",
+      "path": [
+        "24"
+      ],
+      "tags": [
+        "Supply",
+        "Artery",
+        "Vessels",
+        "HS21"
+      ],
+      "sourceLine": 528,
+      "section": "Vessels",
+      "label": "24",
+      "structureId": "left-common-carotid-artery-1525a01287",
+      "factId": "f-f655a631a4",
+      "variantId": "v-58d49bf4f2"
+    },
+    {
+      "id": "thorax-model-hs21-531",
+      "path": [
+        "25"
+      ],
+      "tags": [
+        "Identification",
+        "Artery",
+        "Vessels",
+        "HS21"
+      ],
+      "sourceLine": 531,
+      "section": "Vessels",
+      "label": "25",
+      "structureId": "left-subclavian-artery-5e840b6529",
+      "factId": "f-0cea36106f",
+      "variantId": "v-5e840b6529"
+    },
+    {
+      "id": "thorax-model-hs21-532",
+      "path": [
+        "25"
+      ],
+      "tags": [
+        "Origin",
+        "Artery",
+        "Vessels",
+        "HS21"
+      ],
+      "sourceLine": 532,
+      "section": "Vessels",
+      "label": "25",
+      "structureId": "left-subclavian-artery-5e840b6529",
+      "factId": "f-ba6c324f1c",
+      "variantId": "v-76609017e9"
+    },
+    {
+      "id": "thorax-model-hs21-533",
+      "path": [
+        "25"
+      ],
+      "tags": [
+        "Supply",
+        "Artery",
+        "Vessels",
+        "HS21"
+      ],
+      "sourceLine": 533,
+      "section": "Vessels",
+      "label": "25",
+      "structureId": "left-subclavian-artery-5e840b6529",
+      "factId": "f-2f19b65fe9",
+      "variantId": "v-cbf5861312"
+    },
+    {
+      "id": "thorax-model-hs21-536",
+      "path": [
+        "26"
+      ],
+      "tags": [
+        "Identification",
+        "Artery",
+        "Vessels",
+        "HS21"
+      ],
+      "sourceLine": 536,
+      "section": "Vessels",
+      "label": "26",
+      "structureId": "right-common-carotid-artery-7d5163488f",
+      "factId": "f-a0a7d9efda",
+      "variantId": "v-7d5163488f"
+    },
+    {
+      "id": "thorax-model-hs21-537",
+      "path": [
+        "26"
+      ],
+      "tags": [
+        "Origin",
+        "Artery",
+        "Vessels",
+        "HS21"
+      ],
+      "sourceLine": 537,
+      "section": "Vessels",
+      "label": "26",
+      "structureId": "right-common-carotid-artery-7d5163488f",
+      "factId": "f-9293e13dd8",
+      "variantId": "v-8f76516b40"
+    },
+    {
+      "id": "thorax-model-hs21-538",
+      "path": [
+        "26"
+      ],
+      "tags": [
+        "Supply",
+        "Artery",
+        "Vessels",
+        "HS21"
+      ],
+      "sourceLine": 538,
+      "section": "Vessels",
+      "label": "26",
+      "structureId": "right-common-carotid-artery-7d5163488f",
+      "factId": "f-3837097b34",
+      "variantId": "v-b7639b794c"
+    },
+    {
+      "id": "thorax-model-hs21-541",
+      "path": [
+        "27"
+      ],
+      "tags": [
+        "Identification",
+        "Artery",
+        "Vessels",
+        "HS21"
+      ],
+      "sourceLine": 541,
+      "section": "Vessels",
+      "label": "27",
+      "structureId": "right-subclavian-artery-47bb0e8178",
+      "factId": "f-ddd3a3a1b7",
+      "variantId": "v-47bb0e8178"
+    },
+    {
+      "id": "thorax-model-hs21-542",
+      "path": [
+        "27"
+      ],
+      "tags": [
+        "Origin",
+        "Artery",
+        "Vessels",
+        "HS21"
+      ],
+      "sourceLine": 542,
+      "section": "Vessels",
+      "label": "27",
+      "structureId": "right-subclavian-artery-47bb0e8178",
+      "factId": "f-7fbd922599",
+      "variantId": "v-8f76516b40"
+    },
+    {
+      "id": "thorax-model-hs21-543",
+      "path": [
+        "27"
+      ],
+      "tags": [
+        "Supply",
+        "Artery",
+        "Vessels",
+        "HS21"
+      ],
+      "sourceLine": 543,
+      "section": "Vessels",
+      "label": "27",
+      "structureId": "right-subclavian-artery-47bb0e8178",
+      "factId": "f-2c0017dbce",
+      "variantId": "v-58b2594d3a"
+    },
+    {
+      "id": "thorax-model-hs21-546",
+      "path": [
+        "28"
+      ],
+      "tags": [
+        "Identification",
+        "Artery",
+        "Vessels",
+        "HS21"
+      ],
+      "sourceLine": 546,
+      "section": "Vessels",
+      "label": "28",
+      "structureId": "vertebral-artery-1250ac2ca2",
+      "factId": "f-9d2c706308",
+      "variantId": "v-6ab4e34492"
+    },
+    {
+      "id": "thorax-model-hs21-547",
+      "path": [
+        "28"
+      ],
+      "tags": [
+        "Origin",
+        "Artery",
+        "Vessels",
+        "HS21"
+      ],
+      "sourceLine": 547,
+      "section": "Vessels",
+      "label": "28",
+      "structureId": "vertebral-artery-1250ac2ca2",
+      "factId": "f-44ab85a252",
+      "variantId": "v-d16cc168ac"
+    },
+    {
+      "id": "thorax-model-hs21-548",
+      "path": [
+        "28"
+      ],
+      "tags": [
+        "Course",
+        "Artery",
+        "Vessels",
+        "HS21"
+      ],
+      "sourceLine": 548,
+      "section": "Vessels",
+      "label": "28",
+      "structureId": "vertebral-artery-1250ac2ca2",
+      "factId": "f-d82b56cad9",
+      "variantId": "v-20b66f7277"
+    },
+    {
+      "id": "thorax-model-hs21-549",
+      "path": [
+        "28"
+      ],
+      "tags": [
+        "Supply",
+        "Artery",
+        "Vessels",
+        "HS21"
+      ],
+      "sourceLine": 549,
+      "section": "Vessels",
+      "label": "28",
+      "structureId": "vertebral-artery-1250ac2ca2",
+      "factId": "f-222db0fc1c",
+      "variantId": "v-e68558ead1"
+    },
+    {
+      "id": "thorax-model-hs21-552",
+      "path": [
+        "29"
+      ],
+      "tags": [
+        "Identification",
+        "Artery",
+        "Vessels",
+        "HS21"
+      ],
+      "sourceLine": 552,
+      "section": "Vessels",
+      "label": "29",
+      "structureId": "internal-thoracic-artery-892364a412",
+      "factId": "f-105e6f04d6",
+      "variantId": "v-892364a412"
+    },
+    {
+      "id": "thorax-model-hs21-553",
+      "path": [
+        "29"
+      ],
+      "tags": [
+        "Origin",
+        "Artery",
+        "Vessels",
+        "HS21"
+      ],
+      "sourceLine": 553,
+      "section": "Vessels",
+      "label": "29",
+      "structureId": "internal-thoracic-artery-892364a412",
+      "factId": "f-92e8344f22",
+      "variantId": "v-170a534b7c"
+    },
+    {
+      "id": "thorax-model-hs21-554",
+      "path": [
+        "29"
+      ],
+      "tags": [
+        "Course",
+        "Artery",
+        "Vessels",
+        "HS21"
+      ],
+      "sourceLine": 554,
+      "section": "Vessels",
+      "label": "29",
+      "structureId": "internal-thoracic-artery-892364a412",
+      "factId": "f-770e6284c4",
+      "variantId": "v-d253a827e4"
+    },
+    {
+      "id": "thorax-model-hs21-555",
+      "path": [
+        "29"
+      ],
+      "tags": [
+        "Branches",
+        "Artery",
+        "Vessels",
+        "HS21"
+      ],
+      "sourceLine": 555,
+      "section": "Vessels",
+      "label": "29",
+      "structureId": "internal-thoracic-artery-892364a412",
+      "factId": "f-c006fbfe6a",
+      "variantId": "v-2cac97851c"
+    },
+    {
+      "id": "thorax-model-hs21-558",
+      "path": [
+        "30"
+      ],
+      "tags": [
+        "Identification",
+        "Artery",
+        "Vessels",
+        "HS21"
+      ],
+      "sourceLine": 558,
+      "section": "Vessels",
+      "label": "30",
+      "structureId": "thyrocervical-trunk-5ddfb09099",
+      "factId": "f-13ba23eb7d",
+      "variantId": "v-5ddfb09099"
+    },
+    {
+      "id": "thorax-model-hs21-559",
+      "path": [
+        "30"
+      ],
+      "tags": [
+        "Origin",
+        "Artery",
+        "Vessels",
+        "HS21"
+      ],
+      "sourceLine": 559,
+      "section": "Vessels",
+      "label": "30",
+      "structureId": "thyrocervical-trunk-5ddfb09099",
+      "factId": "f-bd429ac1c9",
+      "variantId": "v-e8b02dc758"
+    },
+    {
+      "id": "thorax-model-hs21-560",
+      "path": [
+        "30"
+      ],
+      "tags": [
+        "Branches",
+        "Artery",
+        "Vessels",
+        "HS21"
+      ],
+      "sourceLine": 560,
+      "section": "Vessels",
+      "label": "30",
+      "structureId": "thyrocervical-trunk-5ddfb09099",
+      "factId": "f-9fdbd44dc4",
+      "variantId": "v-8bedd70810"
+    },
+    {
+      "id": "thorax-model-hs21-563",
+      "path": [
+        "31"
+      ],
+      "tags": [
+        "Identification",
+        "Artery",
+        "Vessels",
+        "HS21"
+      ],
+      "sourceLine": 563,
+      "section": "Vessels",
+      "label": "31",
+      "structureId": "intercostal-artery-c860623a6b",
+      "factId": "f-3f6a8001a9",
+      "variantId": "v-c860623a6b"
+    },
+    {
+      "id": "thorax-model-hs21-564",
+      "path": [
+        "31"
+      ],
+      "tags": [
+        "Supply",
+        "Artery",
+        "Vessels",
+        "HS21"
+      ],
+      "sourceLine": 564,
+      "section": "Vessels",
+      "label": "31",
+      "structureId": "intercostal-artery-c860623a6b",
+      "factId": "f-93631ae2dc",
+      "variantId": "v-4fb671509d"
+    },
+    {
+      "id": "thorax-model-hs21-565",
+      "path": [
+        "31"
+      ],
+      "tags": [
+        "Course",
+        "Artery",
+        "Vessels",
+        "HS21"
+      ],
+      "sourceLine": 565,
+      "section": "Vessels",
+      "label": "31",
+      "structureId": "intercostal-artery-c860623a6b",
+      "factId": "f-05e353ac30",
+      "variantId": "v-92228c784e"
+    },
+    {
+      "id": "thorax-model-hs21-568",
+      "path": [
+        "32"
+      ],
+      "tags": [
+        "Identification",
+        "Artery",
+        "Vessels",
+        "HS21"
+      ],
+      "sourceLine": 568,
+      "section": "Vessels",
+      "label": "32",
+      "structureId": "costocervical-trunk-d40465ffb0",
+      "factId": "f-6636563934",
+      "variantId": "v-d40465ffb0"
+    },
+    {
+      "id": "thorax-model-hs21-569",
+      "path": [
+        "32"
+      ],
+      "tags": [
+        "Origin",
+        "Artery",
+        "Vessels",
+        "HS21"
+      ],
+      "sourceLine": 569,
+      "section": "Vessels",
+      "label": "32",
+      "structureId": "costocervical-trunk-d40465ffb0",
+      "factId": "f-ac65069dc0",
+      "variantId": "v-170a534b7c"
+    },
+    {
+      "id": "thorax-model-hs21-570",
+      "path": [
+        "32"
+      ],
+      "tags": [
+        "Branches",
+        "Artery",
+        "Vessels",
+        "HS21"
+      ],
+      "sourceLine": 570,
+      "section": "Vessels",
+      "label": "32",
+      "structureId": "costocervical-trunk-d40465ffb0",
+      "factId": "f-e0cf7fdd30",
+      "variantId": "v-668a7c38f7"
+    },
+    {
+      "id": "thorax-model-hs21-573",
+      "path": [
+        "33"
+      ],
+      "tags": [
+        "Identification",
+        "Artery",
+        "Vessels",
+        "HS21"
+      ],
+      "sourceLine": 573,
+      "section": "Vessels",
+      "label": "33",
+      "structureId": "thoracic-aorta-b69abc59ea",
+      "factId": "f-577f5b5a5e",
+      "variantId": "v-b69abc59ea"
+    },
+    {
+      "id": "thorax-model-hs21-574",
+      "path": [
+        "33"
+      ],
+      "tags": [
+        "Course",
+        "Artery",
+        "Vessels",
+        "HS21"
+      ],
+      "sourceLine": 574,
+      "section": "Vessels",
+      "label": "33",
+      "structureId": "thoracic-aorta-b69abc59ea",
+      "factId": "f-8974a039cf",
+      "variantId": "v-21fb0cc463"
+    },
+    {
+      "id": "thorax-model-hs21-575",
+      "path": [
+        "33"
+      ],
+      "tags": [
+        "Branches",
+        "Artery",
+        "Vessels",
+        "HS21"
+      ],
+      "sourceLine": 575,
+      "section": "Vessels",
+      "label": "33",
+      "structureId": "thoracic-aorta-b69abc59ea",
+      "factId": "f-dd1bf1613d",
+      "variantId": "v-afd4921295"
+    },
+    {
+      "id": "thorax-model-hs21-578",
+      "path": [
+        "34"
+      ],
+      "tags": [
+        "Identification",
+        "Artery",
+        "Vessels",
+        "HS21"
+      ],
+      "sourceLine": 578,
+      "section": "Vessels",
+      "label": "34",
+      "structureId": "intercostal-arteries-f0947cc1d3",
+      "factId": "f-7bd33d4726",
+      "variantId": "v-f0947cc1d3"
+    },
+    {
+      "id": "thorax-model-hs21-579",
+      "path": [
+        "34"
+      ],
+      "tags": [
+        "Supply",
+        "Artery",
+        "Vessels",
+        "HS21"
+      ],
+      "sourceLine": 579,
+      "section": "Vessels",
+      "label": "34",
+      "structureId": "intercostal-arteries-f0947cc1d3",
+      "factId": "f-9781fcbf12",
+      "variantId": "v-2f6029793e"
+    },
+    {
+      "id": "thorax-model-hs21-580",
+      "path": [
+        "34"
+      ],
+      "tags": [
+        "Origin",
+        "Artery",
+        "Vessels",
+        "HS21"
+      ],
+      "sourceLine": 580,
+      "section": "Vessels",
+      "label": "34",
+      "structureId": "intercostal-arteries-f0947cc1d3",
+      "factId": "f-ceb7b8de23",
+      "variantId": "v-14944d8b5a"
+    },
+    {
+      "id": "thorax-model-hs21-583",
+      "path": [
+        "35"
+      ],
+      "tags": [
+        "Identification",
+        "Vein",
+        "Vessels",
+        "HS21"
+      ],
+      "sourceLine": 583,
+      "section": "Vessels",
+      "label": "35",
+      "structureId": "azygos-vein-5d2eb6e192",
+      "factId": "f-1ad6fd7301",
+      "variantId": "v-5d2eb6e192"
+    },
+    {
+      "id": "thorax-model-hs21-584",
+      "path": [
+        "35"
+      ],
+      "tags": [
+        "Course",
+        "Vein",
+        "Vessels",
+        "HS21"
+      ],
+      "sourceLine": 584,
+      "section": "Vessels",
+      "label": "35",
+      "structureId": "azygos-vein-5d2eb6e192",
+      "factId": "f-e8c12685a9",
+      "variantId": "v-2fe5bbb2d4"
+    },
+    {
+      "id": "thorax-model-hs21-585",
+      "path": [
+        "35"
+      ],
+      "tags": [
+        "Termination",
+        "Vein",
+        "Vessels",
+        "HS21"
+      ],
+      "sourceLine": 585,
+      "section": "Vessels",
+      "label": "35",
+      "structureId": "azygos-vein-5d2eb6e192",
+      "factId": "f-f115920f67",
+      "variantId": "v-13024bd2ff"
+    },
+    {
+      "id": "thorax-model-hs21-586",
+      "path": [
+        "35"
+      ],
+      "tags": [
+        "Drainage",
+        "Vein",
+        "Vessels",
+        "HS21"
+      ],
+      "sourceLine": 586,
+      "section": "Vessels",
+      "label": "35",
+      "structureId": "azygos-vein-5d2eb6e192",
+      "factId": "f-2b52c5e1c9",
+      "variantId": "v-dc58f46edc"
+    },
+    {
+      "id": "thorax-model-hs21-589",
+      "path": [
+        "36"
+      ],
+      "tags": [
+        "Identification",
+        "Ligament",
+        "Vessels",
+        "HS21"
+      ],
+      "sourceLine": 589,
+      "section": "Vessels",
+      "label": "36",
+      "structureId": "ligamentum-arteriosum-bf9bf18ecc",
+      "factId": "f-66a431c8cc",
+      "variantId": "v-bf9bf18ecc"
+    },
+    {
+      "id": "thorax-model-hs21-590",
+      "path": [
+        "36"
+      ],
+      "tags": [
+        "Structure",
+        "Ligament",
+        "Vessels",
+        "HS21"
+      ],
+      "sourceLine": 590,
+      "section": "Vessels",
+      "label": "36",
+      "structureId": "ligamentum-arteriosum-bf9bf18ecc",
+      "factId": "f-c2f07c2ba4",
+      "variantId": "v-0a879d586a"
+    },
+    {
+      "id": "thorax-model-hs21-591",
+      "path": [
+        "36"
+      ],
+      "tags": [
+        "Attachments",
+        "Ligament",
+        "Vessels",
+        "HS21"
+      ],
+      "sourceLine": 591,
+      "section": "Vessels",
+      "label": "36",
+      "structureId": "ligamentum-arteriosum-bf9bf18ecc",
+      "factId": "f-fb1284348b",
+      "variantId": "v-4d9e3033d4"
+    },
+    {
+      "id": "thorax-model-hs21-592",
+      "path": [
+        "36"
+      ],
+      "tags": [
+        "Clinical",
+        "Ligament",
+        "Vessels",
+        "HS21"
+      ],
+      "sourceLine": 592,
+      "section": "Vessels",
+      "label": "36",
+      "structureId": "ligamentum-arteriosum-bf9bf18ecc",
+      "factId": "f-b6bc45d79e",
+      "variantId": "v-b4e9be7d6c"
+    },
+    {
+      "id": "thorax-model-hs21-595",
+      "path": [
+        "37"
+      ],
+      "tags": [
+        "Identification",
+        "HeartStructure",
+        "Vessels",
+        "HS21"
+      ],
+      "sourceLine": 595,
+      "section": "Vessels",
+      "label": "37",
+      "structureId": "right-auricle-360da436cf",
+      "factId": "f-9d2c706308",
+      "variantId": "v-29a15acb87"
+    },
+    {
+      "id": "thorax-model-hs21-596",
+      "path": [
+        "37"
+      ],
+      "tags": [
+        "Structure",
+        "HeartStructure",
+        "Vessels",
+        "HS21"
+      ],
+      "sourceLine": 596,
+      "section": "Vessels",
+      "label": "37",
+      "structureId": "right-auricle-360da436cf",
+      "factId": "f-9482c5d5bf",
+      "variantId": "v-17b83771de"
+    },
+    {
+      "id": "thorax-model-hs21-597",
+      "path": [
+        "37"
+      ],
+      "tags": [
+        "Function",
+        "HeartStructure",
+        "Vessels",
+        "HS21"
+      ],
+      "sourceLine": 597,
+      "section": "Vessels",
+      "label": "37",
+      "structureId": "right-auricle-360da436cf",
+      "factId": "f-f1e410ad14",
+      "variantId": "v-7c61104d03"
+    },
+    {
+      "id": "thorax-model-hs21-600",
+      "path": [
+        "38"
+      ],
+      "tags": [
+        "Identification",
+        "HeartStructure",
+        "Vessels",
+        "HS21"
+      ],
+      "sourceLine": 600,
+      "section": "Vessels",
+      "label": "38",
+      "structureId": "left-auricle-6588af8a37",
+      "factId": "f-9d2c706308",
+      "variantId": "v-7ac4f98dae"
+    },
+    {
+      "id": "thorax-model-hs21-601",
+      "path": [
+        "38"
+      ],
+      "tags": [
+        "Structure",
+        "HeartStructure",
+        "Vessels",
+        "HS21"
+      ],
+      "sourceLine": 601,
+      "section": "Vessels",
+      "label": "38",
+      "structureId": "left-auricle-6588af8a37",
+      "factId": "f-9482c5d5bf",
+      "variantId": "v-ca130f4e39"
+    },
+    {
+      "id": "thorax-model-hs21-602",
+      "path": [
+        "38"
+      ],
+      "tags": [
+        "Clinical",
+        "HeartStructure",
+        "Vessels",
+        "HS21"
+      ],
+      "sourceLine": 602,
+      "section": "Vessels",
+      "label": "38",
+      "structureId": "left-auricle-6588af8a37",
+      "factId": "f-b03737e3cd",
+      "variantId": "v-63f8d7c885"
+    },
+    {
+      "id": "thorax-model-hs21-605",
+      "path": [
+        "39"
+      ],
+      "tags": [
+        "Identification",
+        "Pericardium",
+        "Vessels",
+        "HS21"
+      ],
+      "sourceLine": 605,
+      "section": "Vessels",
+      "label": "39",
+      "structureId": "pericardial-fold-2349b4fc4f",
+      "factId": "f-7d6e785bd7",
+      "variantId": "v-2349b4fc4f"
+    },
+    {
+      "id": "thorax-model-hs21-606",
+      "path": [
+        "39"
+      ],
+      "tags": [
+        "Structure",
+        "Pericardium",
+        "Vessels",
+        "HS21"
+      ],
+      "sourceLine": 606,
+      "section": "Vessels",
+      "label": "39",
+      "structureId": "pericardial-fold-2349b4fc4f",
+      "factId": "f-898d9af2ed",
+      "variantId": "v-8c0e4eddc5"
+    },
+    {
+      "id": "thorax-model-hs21-607",
+      "path": [
+        "39"
+      ],
+      "tags": [
+        "Relations",
+        "Pericardium",
+        "Vessels",
+        "HS21"
+      ],
+      "sourceLine": 607,
+      "section": "Vessels",
+      "label": "39",
+      "structureId": "pericardial-fold-2349b4fc4f",
+      "factId": "f-d76215ed91",
+      "variantId": "v-1285ad25d1"
+    },
+    {
+      "id": "thorax-model-hs21-610",
+      "path": [
+        "40"
+      ],
+      "tags": [
+        "Identification",
+        "CardiacSkeleton",
+        "Vessels",
+        "HS21"
+      ],
+      "sourceLine": 610,
+      "section": "Vessels",
+      "label": "40",
+      "structureId": "fibrous-ring-of-the-atrioventricular-and-arterial-orifices-7edcc0e162",
+      "factId": "f-b77b82e8b1",
+      "variantId": "v-7edcc0e162"
+    },
+    {
+      "id": "thorax-model-hs21-611",
+      "path": [
+        "40"
+      ],
+      "tags": [
+        "Function",
+        "CardiacSkeleton",
+        "Vessels",
+        "HS21"
+      ],
+      "sourceLine": 611,
+      "section": "Vessels",
+      "label": "40",
+      "structureId": "fibrous-ring-of-the-atrioventricular-and-arterial-orifices-7edcc0e162",
+      "factId": "f-77171026be",
+      "variantId": "v-a8746c51b4"
+    },
+    {
+      "id": "thorax-model-hs21-612",
+      "path": [
+        "40"
+      ],
+      "tags": [
+        "Structure",
+        "CardiacSkeleton",
+        "Vessels",
+        "HS21"
+      ],
+      "sourceLine": 612,
+      "section": "Vessels",
+      "label": "40",
+      "structureId": "fibrous-ring-of-the-atrioventricular-and-arterial-orifices-7edcc0e162",
+      "factId": "f-2277c77190",
+      "variantId": "v-af07f08b9e"
+    },
+    {
+      "id": "thorax-model-hs21-616",
+      "path": [
+        "41"
+      ],
+      "tags": [
+        "Identification",
+        "CNS",
+        "Nerves",
+        "HS21"
+      ],
+      "sourceLine": 616,
+      "section": "Nerves",
+      "label": "41",
+      "structureId": "spinal-cord-75d309dbb2",
+      "factId": "f-9d2c706308",
+      "variantId": "v-bb2a20969e"
+    },
+    {
+      "id": "thorax-model-hs21-617",
+      "path": [
+        "41"
+      ],
+      "tags": [
+        "Function",
+        "CNS",
+        "Nerves",
+        "HS21"
+      ],
+      "sourceLine": 617,
+      "section": "Nerves",
+      "label": "41",
+      "structureId": "spinal-cord-75d309dbb2",
+      "factId": "f-f1e410ad14",
+      "variantId": "v-03ee7a739a"
+    },
+    {
+      "id": "thorax-model-hs21-618",
+      "path": [
+        "41"
+      ],
+      "tags": [
+        "Location",
+        "CNS",
+        "Nerves",
+        "HS21"
+      ],
+      "sourceLine": 618,
+      "section": "Nerves",
+      "label": "41",
+      "structureId": "spinal-cord-75d309dbb2",
+      "factId": "f-d219c68101",
+      "variantId": "v-11524eedfd"
+    },
+    {
+      "id": "thorax-model-hs21-619",
+      "path": [
+        "41"
+      ],
+      "tags": [
+        "Clinical",
+        "CNS",
+        "Nerves",
+        "HS21"
+      ],
+      "sourceLine": 619,
+      "section": "Nerves",
+      "label": "41",
+      "structureId": "spinal-cord-75d309dbb2",
+      "factId": "f-38ab2e9a3e",
+      "variantId": "v-15f48251c5"
+    },
+    {
+      "id": "thorax-model-hs21-622",
+      "path": [
+        "42"
+      ],
+      "tags": [
+        "Identification",
+        "Nerve",
+        "Nerves",
+        "HS21"
+      ],
+      "sourceLine": 622,
+      "section": "Nerves",
+      "label": "42",
+      "structureId": "vagus-nerve-cn-x-050cb0c8d5",
+      "factId": "f-9d2c706308",
+      "variantId": "v-ebb9e6b567"
+    },
+    {
+      "id": "thorax-model-hs21-623",
+      "path": [
+        "42"
+      ],
+      "tags": [
+        "Roots",
+        "Nerve",
+        "Nerves",
+        "HS21"
+      ],
+      "sourceLine": 623,
+      "section": "Nerves",
+      "label": "42",
+      "structureId": "vagus-nerve-cn-x-050cb0c8d5",
+      "factId": "f-4d78ec7d11",
+      "variantId": "v-6ad782c2d8"
+    },
+    {
+      "id": "thorax-model-hs21-624",
+      "path": [
+        "42"
+      ],
+      "tags": [
+        "Course",
+        "Nerve",
+        "Nerves",
+        "HS21"
+      ],
+      "sourceLine": 624,
+      "section": "Nerves",
+      "label": "42",
+      "structureId": "vagus-nerve-cn-x-050cb0c8d5",
+      "factId": "f-d82b56cad9",
+      "variantId": "v-b5753a7521"
+    },
+    {
+      "id": "thorax-model-hs21-625",
+      "path": [
+        "42"
+      ],
+      "tags": [
+        "Motor",
+        "Nerve",
+        "Nerves",
+        "HS21"
+      ],
+      "sourceLine": 625,
+      "section": "Nerves",
+      "label": "42",
+      "structureId": "vagus-nerve-cn-x-050cb0c8d5",
+      "factId": "f-c8b6915183",
+      "variantId": "v-0364b39e75"
+    },
+    {
+      "id": "thorax-model-hs21-626",
+      "path": [
+        "42"
+      ],
+      "tags": [
+        "Sensory",
+        "Nerve",
+        "Nerves",
+        "HS21"
+      ],
+      "sourceLine": 626,
+      "section": "Nerves",
+      "label": "42",
+      "structureId": "vagus-nerve-cn-x-050cb0c8d5",
+      "factId": "f-a453254382",
+      "variantId": "v-871c2e4d2a"
+    },
+    {
+      "id": "thorax-model-hs21-627",
+      "path": [
+        "42"
+      ],
+      "tags": [
+        "Lesion",
+        "Nerve",
+        "Nerves",
+        "HS21"
+      ],
+      "sourceLine": 627,
+      "section": "Nerves",
+      "label": "42",
+      "structureId": "vagus-nerve-cn-x-050cb0c8d5",
+      "factId": "f-bc53d10c57",
+      "variantId": "v-68d74af138"
+    },
+    {
+      "id": "thorax-model-hs21-630",
+      "path": [
+        "43"
+      ],
+      "tags": [
+        "Identification",
+        "Nerve",
+        "Nerves",
+        "HS21"
+      ],
+      "sourceLine": 630,
+      "section": "Nerves",
+      "label": "43",
+      "structureId": "phrenic-nerve-d2be311f57",
+      "factId": "f-c903ffb909",
+      "variantId": "v-d2be311f57"
+    },
+    {
+      "id": "thorax-model-hs21-631",
+      "path": [
+        "43"
+      ],
+      "tags": [
+        "Roots",
+        "Nerve",
+        "Nerves",
+        "HS21"
+      ],
+      "sourceLine": 631,
+      "section": "Nerves",
+      "label": "43",
+      "structureId": "phrenic-nerve-d2be311f57",
+      "factId": "f-743cfa0766",
+      "variantId": "v-45c2bae35c"
+    },
+    {
+      "id": "thorax-model-hs21-632",
+      "path": [
+        "43"
+      ],
+      "tags": [
+        "Course",
+        "Nerve",
+        "Nerves",
+        "HS21"
+      ],
+      "sourceLine": 632,
+      "section": "Nerves",
+      "label": "43",
+      "structureId": "phrenic-nerve-d2be311f57",
+      "factId": "f-62d41c151e",
+      "variantId": "v-cbe20bc896"
+    },
+    {
+      "id": "thorax-model-hs21-633",
+      "path": [
+        "43"
+      ],
+      "tags": [
+        "Motor",
+        "Nerve",
+        "Nerves",
+        "HS21"
+      ],
+      "sourceLine": 633,
+      "section": "Nerves",
+      "label": "43",
+      "structureId": "phrenic-nerve-d2be311f57",
+      "factId": "f-590ad35d48",
+      "variantId": "v-e63adbfb54"
+    },
+    {
+      "id": "thorax-model-hs21-634",
+      "path": [
+        "43"
+      ],
+      "tags": [
+        "Sensory",
+        "Nerve",
+        "Nerves",
+        "HS21"
+      ],
+      "sourceLine": 634,
+      "section": "Nerves",
+      "label": "43",
+      "structureId": "phrenic-nerve-d2be311f57",
+      "factId": "f-8b5b659bb3",
+      "variantId": "v-aa773074d9"
+    },
+    {
+      "id": "thorax-model-hs21-635",
+      "path": [
+        "43"
+      ],
+      "tags": [
+        "Lesion",
+        "Nerve",
+        "Nerves",
+        "HS21"
+      ],
+      "sourceLine": 635,
+      "section": "Nerves",
+      "label": "43",
+      "structureId": "phrenic-nerve-d2be311f57",
+      "factId": "f-e9ee1fb772",
+      "variantId": "v-a15add661d"
+    },
+    {
+      "id": "thorax-model-hs21-638",
+      "path": [
+        "44"
+      ],
+      "tags": [
+        "Identification",
+        "NervePlexus",
+        "Nerves",
+        "HS21"
+      ],
+      "sourceLine": 638,
+      "section": "Nerves",
+      "label": "44",
+      "structureId": "brachial-plexus-1137ef664a",
+      "factId": "f-9d2c706308",
+      "variantId": "v-dfa8677c1b"
+    },
+    {
+      "id": "thorax-model-hs21-639",
+      "path": [
+        "44"
+      ],
+      "tags": [
+        "Roots",
+        "NervePlexus",
+        "Nerves",
+        "HS21"
+      ],
+      "sourceLine": 639,
+      "section": "Nerves",
+      "label": "44",
+      "structureId": "brachial-plexus-1137ef664a",
+      "factId": "f-4d78ec7d11",
+      "variantId": "v-149bf94b8d"
+    },
+    {
+      "id": "thorax-model-hs21-640",
+      "path": [
+        "44"
+      ],
+      "tags": [
+        "Function",
+        "NervePlexus",
+        "Nerves",
+        "HS21"
+      ],
+      "sourceLine": 640,
+      "section": "Nerves",
+      "label": "44",
+      "structureId": "brachial-plexus-1137ef664a",
+      "factId": "f-80da40e016",
+      "variantId": "v-c256605d1d"
+    },
+    {
+      "id": "thorax-model-hs21-641",
+      "path": [
+        "44"
+      ],
+      "tags": [
+        "Lesion",
+        "NervePlexus",
+        "Nerves",
+        "HS21"
+      ],
+      "sourceLine": 641,
+      "section": "Nerves",
+      "label": "44",
+      "structureId": "brachial-plexus-1137ef664a",
+      "factId": "f-bc53d10c57",
+      "variantId": "v-88b3b3ac7d"
+    },
+    {
+      "id": "thorax-model-hs21-644",
+      "path": [
+        "45"
+      ],
+      "tags": [
+        "Identification",
+        "Nerve",
+        "Nerves",
+        "HS21"
+      ],
+      "sourceLine": 644,
+      "section": "Nerves",
+      "label": "45",
+      "structureId": "intercostal-nerve-eb45df5538",
+      "factId": "f-82d24c96ab",
+      "variantId": "v-eb45df5538"
+    },
+    {
+      "id": "thorax-model-hs21-645",
+      "path": [
+        "45"
+      ],
+      "tags": [
+        "Roots",
+        "Nerve",
+        "Nerves",
+        "HS21"
+      ],
+      "sourceLine": 645,
+      "section": "Nerves",
+      "label": "45",
+      "structureId": "intercostal-nerve-eb45df5538",
+      "factId": "f-500fc6cc3b",
+      "variantId": "v-0a68a71b9e"
+    },
+    {
+      "id": "thorax-model-hs21-646",
+      "path": [
+        "45"
+      ],
+      "tags": [
+        "Course",
+        "Nerve",
+        "Nerves",
+        "HS21"
+      ],
+      "sourceLine": 646,
+      "section": "Nerves",
+      "label": "45",
+      "structureId": "intercostal-nerve-eb45df5538",
+      "factId": "f-1d16cec549",
+      "variantId": "v-0fe259aaf0"
+    },
+    {
+      "id": "thorax-model-hs21-647",
+      "path": [
+        "45"
+      ],
+      "tags": [
+        "Motor",
+        "Nerve",
+        "Nerves",
+        "HS21"
+      ],
+      "sourceLine": 647,
+      "section": "Nerves",
+      "label": "45",
+      "structureId": "intercostal-nerve-eb45df5538",
+      "factId": "f-7653497a4b",
+      "variantId": "v-19be4e025d"
+    },
+    {
+      "id": "thorax-model-hs21-648",
+      "path": [
+        "45"
+      ],
+      "tags": [
+        "Sensory",
+        "Nerve",
+        "Nerves",
+        "HS21"
+      ],
+      "sourceLine": 648,
+      "section": "Nerves",
+      "label": "45",
+      "structureId": "intercostal-nerve-eb45df5538",
+      "factId": "f-0aefe5bedb",
+      "variantId": "v-18530f5b25"
+    },
+    {
+      "id": "thorax-model-hs21-649",
+      "path": [
+        "45"
+      ],
+      "tags": [
+        "Lesion",
+        "Nerve",
+        "Nerves",
+        "HS21"
+      ],
+      "sourceLine": 649,
+      "section": "Nerves",
+      "label": "45",
+      "structureId": "intercostal-nerve-eb45df5538",
+      "factId": "f-34704f6c14",
+      "variantId": "v-4625b89140"
+    },
+    {
+      "id": "thorax-model-hs21-652",
+      "path": [
+        "46"
+      ],
+      "tags": [
+        "Identification",
+        "Nerve",
+        "Nerves",
+        "HS21"
+      ],
+      "sourceLine": 652,
+      "section": "Nerves",
+      "label": "46",
+      "structureId": "sympathetic-trunk-61d4c3e20e",
+      "factId": "f-0d449ceb96",
+      "variantId": "v-61d4c3e20e"
+    },
+    {
+      "id": "thorax-model-hs21-653",
+      "path": [
+        "46"
+      ],
+      "tags": [
+        "Roots",
+        "Nerve",
+        "Nerves",
+        "HS21"
+      ],
+      "sourceLine": 653,
+      "section": "Nerves",
+      "label": "46",
+      "structureId": "sympathetic-trunk-61d4c3e20e",
+      "factId": "f-137b79aa22",
+      "variantId": "v-d1fc633856"
+    },
+    {
+      "id": "thorax-model-hs21-654",
+      "path": [
+        "46"
+      ],
+      "tags": [
+        "Course",
+        "Nerve",
+        "Nerves",
+        "HS21"
+      ],
+      "sourceLine": 654,
+      "section": "Nerves",
+      "label": "46",
+      "structureId": "sympathetic-trunk-61d4c3e20e",
+      "factId": "f-a01f1c4aed",
+      "variantId": "v-4c449ffaf5"
+    },
+    {
+      "id": "thorax-model-hs21-655",
+      "path": [
+        "46"
+      ],
+      "tags": [
+        "Autonomic",
+        "Nerve",
+        "Nerves",
+        "HS21"
+      ],
+      "sourceLine": 655,
+      "section": "Nerves",
+      "label": "46",
+      "structureId": "sympathetic-trunk-61d4c3e20e",
+      "factId": "f-e9b704e6c8",
+      "variantId": "v-c122f43ce4"
+    },
+    {
+      "id": "thorax-model-hs21-656",
+      "path": [
+        "46"
+      ],
+      "tags": [
+        "Lesion",
+        "Nerve",
+        "Nerves",
+        "HS21"
+      ],
+      "sourceLine": 656,
+      "section": "Nerves",
+      "label": "46",
+      "structureId": "sympathetic-trunk-61d4c3e20e",
+      "factId": "f-b6bddf9057",
+      "variantId": "v-58ee36d918"
+    },
+    {
+      "id": "thorax-model-hs21-659",
+      "path": [
+        "47"
+      ],
+      "tags": [
+        "Identification",
+        "NervePlexus",
+        "Nerves",
+        "HS21"
+      ],
+      "sourceLine": 659,
+      "section": "Nerves",
+      "label": "47",
+      "structureId": "cardiac-plexus-66361206d4",
+      "factId": "f-4062f27a8b",
+      "variantId": "v-66361206d4"
+    },
+    {
+      "id": "thorax-model-hs21-660",
+      "path": [
+        "47"
+      ],
+      "tags": [
+        "Formation",
+        "NervePlexus",
+        "Nerves",
+        "HS21"
+      ],
+      "sourceLine": 660,
+      "section": "Nerves",
+      "label": "47",
+      "structureId": "cardiac-plexus-66361206d4",
+      "factId": "f-102703d9d4",
+      "variantId": "v-835cc564f0"
+    },
+    {
+      "id": "thorax-model-hs21-661",
+      "path": [
+        "47"
+      ],
+      "tags": [
+        "Function",
+        "NervePlexus",
+        "Nerves",
+        "HS21"
+      ],
+      "sourceLine": 661,
+      "section": "Nerves",
+      "label": "47",
+      "structureId": "cardiac-plexus-66361206d4",
+      "factId": "f-dce6d816be",
+      "variantId": "v-e8c48ca741"
+    },
+    {
+      "id": "thorax-model-hs21-662",
+      "path": [
+        "47"
+      ],
+      "tags": [
+        "Clinical",
+        "NervePlexus",
+        "Nerves",
+        "HS21"
+      ],
+      "sourceLine": 662,
+      "section": "Nerves",
+      "label": "47",
+      "structureId": "cardiac-plexus-66361206d4",
+      "factId": "f-dbbcfe8e5b",
+      "variantId": "v-d53985b606"
+    },
+    {
+      "id": "thorax-model-hs21-665",
+      "path": [
+        "48"
+      ],
+      "tags": [
+        "Identification",
+        "Ganglion",
+        "Nerves",
+        "HS21"
+      ],
+      "sourceLine": 665,
+      "section": "Nerves",
+      "label": "48",
+      "structureId": "dorsal-root-ganglion-e4cb74a21a",
+      "factId": "f-d5922a6991",
+      "variantId": "v-e4cb74a21a"
+    },
+    {
+      "id": "thorax-model-hs21-666",
+      "path": [
+        "48"
+      ],
+      "tags": [
+        "Location",
+        "Ganglion",
+        "Nerves",
+        "HS21"
+      ],
+      "sourceLine": 666,
+      "section": "Nerves",
+      "label": "48",
+      "structureId": "dorsal-root-ganglion-e4cb74a21a",
+      "factId": "f-c900093acd",
+      "variantId": "v-cd58ec4974"
+    },
+    {
+      "id": "thorax-model-hs21-667",
+      "path": [
+        "48"
+      ],
+      "tags": [
+        "Contents",
+        "Ganglion",
+        "Nerves",
+        "HS21"
+      ],
+      "sourceLine": 667,
+      "section": "Nerves",
+      "label": "48",
+      "structureId": "dorsal-root-ganglion-e4cb74a21a",
+      "factId": "f-bb80beb862",
+      "variantId": "v-c379ab3d37"
+    },
+    {
+      "id": "thorax-model-hs21-668",
+      "path": [
+        "48"
+      ],
+      "tags": [
+        "Lesion",
+        "Ganglion",
+        "Nerves",
+        "HS21"
+      ],
+      "sourceLine": 668,
+      "section": "Nerves",
+      "label": "48",
+      "structureId": "dorsal-root-ganglion-e4cb74a21a",
+      "factId": "f-900fb73389",
+      "variantId": "v-1257b367c7"
+    },
+    {
+      "id": "thorax-model-hs21-671",
+      "path": [
+        "49"
+      ],
+      "tags": [
+        "Identification",
+        "Nerve",
+        "Nerves",
+        "HS21"
+      ],
+      "sourceLine": 671,
+      "section": "Nerves",
+      "label": "49",
+      "structureId": "recurrent-laryngeal-nerve-3aeb7402c7",
+      "factId": "f-9d2c706308",
+      "variantId": "v-7a7cdb1921"
+    },
+    {
+      "id": "thorax-model-hs21-672",
+      "path": [
+        "49"
+      ],
+      "tags": [
+        "Roots",
+        "Nerve",
+        "Nerves",
+        "HS21"
+      ],
+      "sourceLine": 672,
+      "section": "Nerves",
+      "label": "49",
+      "structureId": "recurrent-laryngeal-nerve-3aeb7402c7",
+      "factId": "f-4d78ec7d11",
+      "variantId": "v-572d550859"
+    },
+    {
+      "id": "thorax-model-hs21-673",
+      "path": [
+        "49"
+      ],
+      "tags": [
+        "Course",
+        "Nerve",
+        "Nerves",
+        "HS21"
+      ],
+      "sourceLine": 673,
+      "section": "Nerves",
+      "label": "49",
+      "structureId": "recurrent-laryngeal-nerve-3aeb7402c7",
+      "factId": "f-d82b56cad9",
+      "variantId": "v-07b0e4e842"
+    },
+    {
+      "id": "thorax-model-hs21-674",
+      "path": [
+        "49"
+      ],
+      "tags": [
+        "Motor",
+        "Nerve",
+        "Nerves",
+        "HS21"
+      ],
+      "sourceLine": 674,
+      "section": "Nerves",
+      "label": "49",
+      "structureId": "recurrent-laryngeal-nerve-3aeb7402c7",
+      "factId": "f-c8b6915183",
+      "variantId": "v-41319b2804"
+    },
+    {
+      "id": "thorax-model-hs21-675",
+      "path": [
+        "49"
+      ],
+      "tags": [
+        "Sensory",
+        "Nerve",
+        "Nerves",
+        "HS21"
+      ],
+      "sourceLine": 675,
+      "section": "Nerves",
+      "label": "49",
+      "structureId": "recurrent-laryngeal-nerve-3aeb7402c7",
+      "factId": "f-a453254382",
+      "variantId": "v-644a539a9f"
+    },
+    {
+      "id": "thorax-model-hs21-676",
+      "path": [
+        "49"
+      ],
+      "tags": [
+        "Lesion",
+        "Nerve",
+        "Nerves",
+        "HS21"
+      ],
+      "sourceLine": 676,
+      "section": "Nerves",
+      "label": "49",
+      "structureId": "recurrent-laryngeal-nerve-3aeb7402c7",
+      "factId": "f-bc53d10c57",
+      "variantId": "v-7c72e48d3b"
+    },
+    {
+      "id": "thorax-model-hs21-680",
+      "path": [
+        "50"
+      ],
+      "tags": [
+        "Identification",
+        "Gland",
+        "Glands",
+        "HS21"
+      ],
+      "sourceLine": 680,
+      "section": "Glands",
+      "label": "50",
+      "structureId": "thyroid-gland-914f76f53f",
+      "factId": "f-9d2c706308",
+      "variantId": "v-46ae9fe9b7"
+    },
+    {
+      "id": "thorax-model-hs21-681",
+      "path": [
+        "50"
+      ],
+      "tags": [
+        "Location",
+        "Gland",
+        "Glands",
+        "HS21"
+      ],
+      "sourceLine": 681,
+      "section": "Glands",
+      "label": "50",
+      "structureId": "thyroid-gland-914f76f53f",
+      "factId": "f-d219c68101",
+      "variantId": "v-fa3ccf201d"
+    },
+    {
+      "id": "thorax-model-hs21-682",
+      "path": [
+        "50"
+      ],
+      "tags": [
+        "Function",
+        "Gland",
+        "Glands",
+        "HS21"
+      ],
+      "sourceLine": 682,
+      "section": "Glands",
+      "label": "50",
+      "structureId": "thyroid-gland-914f76f53f",
+      "factId": "f-f1e410ad14",
+      "variantId": "v-1abff86662"
+    },
+    {
+      "id": "thorax-model-hs21-683",
+      "path": [
+        "50"
+      ],
+      "tags": [
+        "BloodSupply",
+        "Gland",
+        "Glands",
+        "HS21"
+      ],
+      "sourceLine": 683,
+      "section": "Glands",
+      "label": "50",
+      "structureId": "thyroid-gland-914f76f53f",
+      "factId": "f-a707f7e176",
+      "variantId": "v-7339c3cc3d"
+    },
+    {
+      "id": "thorax-model-hs21-686",
+      "path": [
+        "51"
+      ],
+      "tags": [
+        "Identification",
+        "Gland",
+        "Glands",
+        "HS21"
+      ],
+      "sourceLine": 686,
+      "section": "Glands",
+      "label": "51",
+      "structureId": "thymus-e3229a6a93",
+      "factId": "f-95a5c542da",
+      "variantId": "v-e3229a6a93"
+    },
+    {
+      "id": "thorax-model-hs21-687",
+      "path": [
+        "51"
+      ],
+      "tags": [
+        "Location",
+        "Gland",
+        "Glands",
+        "HS21"
+      ],
+      "sourceLine": 687,
+      "section": "Glands",
+      "label": "51",
+      "structureId": "thymus-e3229a6a93",
+      "factId": "f-c99399c789",
+      "variantId": "v-39ac2ac3a4"
+    },
+    {
+      "id": "thorax-model-hs21-688",
+      "path": [
+        "51"
+      ],
+      "tags": [
+        "Function",
+        "Gland",
+        "Glands",
+        "HS21"
+      ],
+      "sourceLine": 688,
+      "section": "Glands",
+      "label": "51",
+      "structureId": "thymus-e3229a6a93",
+      "factId": "f-f4ead616a0",
+      "variantId": "v-6092533ffc"
+    },
+    {
+      "id": "thorax-model-hs21-689",
+      "path": [
+        "51"
+      ],
+      "tags": [
+        "Embryology",
+        "Gland",
+        "Glands",
+        "HS21"
+      ],
+      "sourceLine": 689,
+      "section": "Glands",
+      "label": "51",
+      "structureId": "thymus-e3229a6a93",
+      "factId": "f-8a524c862e",
+      "variantId": "v-5763927df5"
+    }
+  ]
+}

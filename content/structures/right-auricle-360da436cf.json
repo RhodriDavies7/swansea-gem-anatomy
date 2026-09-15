@@ -1,7 +1,9 @@
 {
   "id": "right-auricle-360da436cf",
   "name": "Right auricle",
-  "aliases": [],
+  "aliases": [
+    "Right atrial appendage"
+  ],
   "scope": "",
   "kind": "structure",
   "types": [
@@ -22,10 +24,16 @@
     "Auricle",
     "AuriclesVesselsValves",
     "Function",
+    "Heart",
     "HeartChambers",
-    "Structure"
+    "HeartStructure",
+    "Identification",
+    "Structure",
+    "Vessels"
   ],
-  "imageIds": [],
+  "imageIds": [
+    "img-6bf9ffd115fc"
+  ],
   "facts": [
     {
       "id": "f-9d2c706308",
@@ -45,6 +53,20 @@
               "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
               "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-140",
               "sourceLine": 140
+            }
+          ]
+        },
+        {
+          "id": "v-29a15acb87",
+          "answer": "Right atrial appendage",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-595"
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-470"
             }
           ]
         }
@@ -74,6 +96,16 @@
               "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
               "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-141",
               "sourceLine": 141
+            }
+          ]
+        },
+        {
+          "id": "v-17b83771de",
+          "answer": "Muscular pouch-like extension of the right atrium containing pectinate muscles.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-596"
             }
           ]
         }
@@ -109,6 +141,26 @@
               "sourceLine": 142
             }
           ]
+        },
+        {
+          "id": "v-7c61104d03",
+          "answer": "Increases atrial capacity.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-597"
+            }
+          ]
+        },
+        {
+          "id": "v-31520a1ab5",
+          "answer": "Muscular appendage increasing right atrial capacity.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-471"
+            }
+          ]
         }
       ],
       "editorialReview": {
@@ -133,6 +185,23 @@
         "18"
       ],
       "label": "18"
+    },
+    {
+      "modelId": "thorax-model-hs21",
+      "section": "Vessels",
+      "path": [
+        "37"
+      ],
+      "label": "37"
+    },
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Thorax",
+      "path": [
+        "57",
+        "a"
+      ],
+      "label": "a"
     }
   ]
 }

@@ -17,11 +17,15 @@
   "tags": [
     "Clinical",
     "Function",
+    "Identification",
     "Location",
     "LymphoidTissue",
-    "NasalCavity"
+    "NasalCavity",
+    "NoseMouthNeck"
   ],
-  "imageIds": [],
+  "imageIds": [
+    "img-6b66281e6437"
+  ],
   "facts": [
     {
       "id": "f-9d2c706308",
@@ -36,6 +40,10 @@
               "modelId": "nose-and-nasal-cavity-model-fs3",
               "cardId": "nose-and-nasal-cavity-model-fs3-201",
               "sourceLine": 201
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-331"
             }
           ]
         }
@@ -56,6 +64,16 @@
               "sourceLine": 202
             }
           ]
+        },
+        {
+          "id": "v-51a3c285d2",
+          "answer": "Roof/posterior wall of nasopharynx.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-332"
+            }
+          ]
         }
       ]
     },
@@ -72,6 +90,10 @@
               "modelId": "nose-and-nasal-cavity-model-fs3",
               "cardId": "nose-and-nasal-cavity-model-fs3-203",
               "sourceLine": 203
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-333"
             }
           ]
         }
@@ -104,6 +126,14 @@
         "22"
       ],
       "label": "22"
+    },
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Nose, mouth and neck",
+      "path": [
+        "37"
+      ],
+      "label": "37"
     }
   ]
 }

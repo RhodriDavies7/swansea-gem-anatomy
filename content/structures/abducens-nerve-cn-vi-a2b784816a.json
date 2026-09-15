@@ -17,6 +17,9 @@
   "tags": [
     "Brain",
     "Course",
+    "CranialNerves",
+    "Function",
+    "Identification",
     "Lesion",
     "Motor",
     "Nerve",
@@ -45,6 +48,10 @@
               "modelId": "head-and-neck-model-cs17-2",
               "cardId": "head-and-neck-model-cs17-2-773",
               "sourceLine": 773
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-246"
             }
           ]
         }
@@ -175,6 +182,16 @@
               "sourceLine": 778
             }
           ]
+        },
+        {
+          "id": "v-8c7ce121b0",
+          "answer": "Failure of abduction with horizontal diplopia and medial deviation of the affected eye.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-248"
+            }
+          ]
         }
       ],
       "editorialReview": {
@@ -199,6 +216,23 @@
           ]
         }
       ]
+    },
+    {
+      "id": "f-9c0245e78d",
+      "question": "Function",
+      "preferredVariantId": "v-c03fd9ca61",
+      "variants": [
+        {
+          "id": "v-c03fd9ca61",
+          "answer": "Motor to lateral rectus muscle.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-247"
+            }
+          ]
+        }
+      ]
     }
   ],
   "occurrences": [
@@ -217,6 +251,14 @@
         "20"
       ],
       "label": "20"
+    },
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Cranial nerves",
+      "path": [
+        "VI"
+      ],
+      "label": "VI"
     }
   ]
 }

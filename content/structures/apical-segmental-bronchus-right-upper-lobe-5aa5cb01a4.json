@@ -1,0 +1,79 @@
+{
+  "id": "apical-segmental-bronchus-right-upper-lobe-5aa5cb01a4",
+  "name": "Apical segmental bronchus (right upper lobe)",
+  "aliases": [
+    "Apical segmental bronchus"
+  ],
+  "scope": "right upper lobe",
+  "kind": "structure",
+  "types": [
+    "Bronchus"
+  ],
+  "systems": [
+    "Respiratory"
+  ],
+  "regions": [
+    "Thorax"
+  ],
+  "organs": [],
+  "tags": [
+    "Bronchus",
+    "Identification",
+    "RightBronchialTree",
+    "Supply",
+    "UpperLobe"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-8c0aa00596",
+      "question": "Identification",
+      "preferredVariantId": "v-5aa5cb01a4",
+      "variants": [
+        {
+          "id": "v-c467ae46f0",
+          "answer": "Apical segmental bronchus",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-207"
+            }
+          ]
+        },
+        {
+          "id": "v-5aa5cb01a4",
+          "answer": "Apical segmental bronchus (right upper lobe)",
+          "sources": []
+        }
+      ]
+    },
+    {
+      "id": "f-d6558b01ee",
+      "question": "Supply",
+      "preferredVariantId": "v-f66846e2aa",
+      "variants": [
+        {
+          "id": "v-f66846e2aa",
+          "answer": "Supplies the corresponding bronchopulmonary segment of the right upper lobe.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-208"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "thorax-model-hs21",
+      "section": "Larynx, bronchial tree and lungs / Right upper lobar bronchus / right upper lobe",
+      "path": [
+        "34",
+        "1"
+      ],
+      "label": "1"
+    }
+  ]
+}

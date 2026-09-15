@@ -8,7 +8,8 @@
     "Organs"
   ],
   "regions": [
-    "Head and neck"
+    "Head and neck",
+    "Thorax"
   ],
   "systems": [
     "Respiratory"
@@ -18,10 +19,13 @@
   ],
   "tags": [
     "Function",
+    "Heart",
+    "Identification",
     "Location",
     "MajorOrgans",
     "Organ",
-    "Parts"
+    "Parts",
+    "Thorax"
   ],
   "imageIds": [],
   "facts": [
@@ -38,6 +42,14 @@
               "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
               "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-31",
               "sourceLine": 31
+            },
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-401"
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-449"
             }
           ]
         }
@@ -56,6 +68,14 @@
               "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
               "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-32",
               "sourceLine": 32
+            },
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-402"
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-450"
             }
           ]
         }
@@ -74,6 +94,14 @@
               "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
               "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-33",
               "sourceLine": 33
+            },
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-403"
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-451"
             }
           ]
         }
@@ -96,6 +124,23 @@
           ]
         }
       ]
+    },
+    {
+      "id": "f-31e0026dbe",
+      "question": "Chambers",
+      "preferredVariantId": "v-80c320a889",
+      "variants": [
+        {
+          "id": "v-80c320a889",
+          "answer": "Right and left atria; right and left ventricles.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-404"
+            }
+          ]
+        }
+      ]
     }
   ],
   "occurrences": [
@@ -106,6 +151,22 @@
         "F"
       ],
       "label": "F"
+    },
+    {
+      "modelId": "thorax-model-hs21",
+      "section": "Heart",
+      "path": [
+        "38"
+      ],
+      "label": "38"
+    },
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Thorax",
+      "path": [
+        "57"
+      ],
+      "label": "57"
     }
   ]
 }

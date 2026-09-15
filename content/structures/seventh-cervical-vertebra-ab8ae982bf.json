@@ -1,0 +1,108 @@
+{
+  "id": "seventh-cervical-vertebra-ab8ae982bf",
+  "name": "Seventh cervical vertebra",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Bones"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "regions": [
+    "Thorax",
+    "Back"
+  ],
+  "organs": [],
+  "tags": [
+    "AlsoCalled",
+    "Bone",
+    "Bones",
+    "Dorsum",
+    "Identification",
+    "Landmarks"
+  ],
+  "imageIds": [
+    "img-03bb2cfd02e6"
+  ],
+  "facts": [
+    {
+      "id": "f-6e3141b6de",
+      "question": "Identification",
+      "preferredVariantId": "v-ab8ae982bf",
+      "variants": [
+        {
+          "id": "v-ab8ae982bf",
+          "answer": "Seventh cervical vertebra",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-10"
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-753"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-3047c3e055",
+      "question": "Also called",
+      "preferredVariantId": "v-d4290e2513",
+      "variants": [
+        {
+          "id": "v-d4290e2513",
+          "answer": "Vertebra prominens.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-11"
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-754"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-2b62cd9cc2",
+      "question": "Key features",
+      "preferredVariantId": "v-62b06e8d13",
+      "variants": [
+        {
+          "id": "v-62b06e8d13",
+          "answer": "Long prominent spinous process and transition between cervical and thoracic vertebral morphology.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-12"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "thorax-model-hs21",
+      "section": "Bones and cartilages",
+      "path": [
+        "2"
+      ],
+      "label": "2"
+    },
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Dorsum",
+      "path": [
+        "93"
+      ],
+      "label": "93"
+    }
+  ]
+}

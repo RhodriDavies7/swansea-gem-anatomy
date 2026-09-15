@@ -1,0 +1,88 @@
+{
+  "id": "quadratus-lumborum-muscle-8a63c99a5c",
+  "name": "Quadratus lumborum muscle",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "regions": [
+    "Abdomen"
+  ],
+  "organs": [],
+  "tags": [
+    "Abdomen",
+    "Action",
+    "Identification",
+    "Innervation",
+    "Muscle"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-364570fb8e",
+      "question": "Identification",
+      "preferredVariantId": "v-8a63c99a5c",
+      "variants": [
+        {
+          "id": "v-8a63c99a5c",
+          "answer": "Quadratus lumborum muscle",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-681"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-79afb1b6d2",
+      "question": "Actions",
+      "preferredVariantId": "v-d3da606ae8",
+      "variants": [
+        {
+          "id": "v-d3da606ae8",
+          "answer": "Ipsilateral lateral flexion, bilateral lumbar extension and fixation of 12th rib during inspiration.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-682"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-3b2d8132ff",
+      "question": "Innervation",
+      "preferredVariantId": "v-5e3e8aa480",
+      "variants": [
+        {
+          "id": "v-5e3e8aa480",
+          "answer": "Anterior rami T12–L4.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-683"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Abdomen",
+      "path": [
+        "87"
+      ],
+      "label": "87"
+    }
+  ]
+}

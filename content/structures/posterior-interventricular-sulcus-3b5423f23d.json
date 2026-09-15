@@ -1,0 +1,71 @@
+{
+  "id": "posterior-interventricular-sulcus-3b5423f23d",
+  "name": "Posterior interventricular sulcus",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "HeartLandmark"
+  ],
+  "systems": [
+    "Cardiovascular"
+  ],
+  "regions": [
+    "Thorax"
+  ],
+  "organs": [],
+  "tags": [
+    "Contents",
+    "Heart",
+    "HeartLandmark",
+    "Identification"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-f4b2f756cf",
+      "question": "Identification",
+      "preferredVariantId": "v-3b5423f23d",
+      "variants": [
+        {
+          "id": "v-3b5423f23d",
+          "answer": "Posterior interventricular sulcus",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-416"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-fd2d570bec",
+      "question": "Contents",
+      "preferredVariantId": "v-93260595a7",
+      "variants": [
+        {
+          "id": "v-93260595a7",
+          "answer": "Contains the posterior interventricular artery and middle cardiac vein.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-417"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "thorax-model-hs21",
+      "section": "Heart / Surface grooves",
+      "path": [
+        "38",
+        "C"
+      ],
+      "label": "C"
+    }
+  ]
+}

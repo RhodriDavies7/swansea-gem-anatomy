@@ -18,11 +18,14 @@
     "Brain",
     "CNS",
     "Function",
+    "Identification",
     "MidSagittal",
     "MidlineStructures",
     "Structure"
   ],
-  "imageIds": [],
+  "imageIds": [
+    "img-d0c60c263f51"
+  ],
   "facts": [
     {
       "id": "f-9d2c706308",
@@ -47,6 +50,10 @@
               "modelId": "head-and-neck-model-cs17-2",
               "cardId": "head-and-neck-model-cs17-2-705",
               "sourceLine": 705
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-131"
             }
           ]
         }
@@ -81,6 +88,16 @@
               "modelId": "head-and-neck-model-cs17-2",
               "cardId": "head-and-neck-model-cs17-2-706",
               "sourceLine": 706
+            }
+          ]
+        },
+        {
+          "id": "v-81c8386fa1",
+          "answer": "Midline connection between the thalami when present.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-132"
             }
           ]
         }
@@ -148,6 +165,14 @@
         "9"
       ],
       "label": "9"
+    },
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Brain",
+      "path": [
+        "14"
+      ],
+      "label": "14"
     }
   ]
 }

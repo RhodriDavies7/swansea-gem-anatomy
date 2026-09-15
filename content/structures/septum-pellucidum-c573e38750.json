@@ -15,13 +15,18 @@
   ],
   "organs": [],
   "tags": [
+    "Brain",
     "CNS",
+    "Identification",
+    "Location",
     "MidSagittal",
     "MidlineStructures",
     "Relations",
     "Structure"
   ],
-  "imageIds": [],
+  "imageIds": [
+    "img-0cf428e3ab77"
+  ],
   "facts": [
     {
       "id": "f-9d2c706308",
@@ -41,6 +46,10 @@
               "modelId": "half-head-and-neck-model-bs9",
               "cardId": "half-head-and-neck-model-bs9-149",
               "sourceLine": 149
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-111"
             }
           ]
         }
@@ -101,6 +110,23 @@
         "date": "2026-09-11",
         "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
       }
+    },
+    {
+      "id": "f-2000716c3c",
+      "question": "Location",
+      "preferredVariantId": "v-783ef290e8",
+      "variants": [
+        {
+          "id": "v-783ef290e8",
+          "answer": "Thin membrane between the lateral ventricles, inferior to corpus callosum.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-112"
+            }
+          ]
+        }
+      ]
     }
   ],
   "occurrences": [
@@ -119,6 +145,14 @@
         "8"
       ],
       "label": "8"
+    },
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Brain",
+      "path": [
+        "9"
+      ],
+      "label": "9"
     }
   ]
 }

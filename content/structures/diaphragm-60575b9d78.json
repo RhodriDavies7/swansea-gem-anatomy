@@ -8,7 +8,8 @@
     "Muscles"
   ],
   "regions": [
-    "Head and neck"
+    "Head and neck",
+    "Thorax"
   ],
   "systems": [
     "Musculoskeletal",
@@ -19,13 +20,19 @@
   ],
   "tags": [
     "Action",
+    "Clinical",
+    "Identification",
     "Innervation",
     "Insertion",
     "MajorOrgans",
     "Muscle",
-    "Origin"
+    "Muscles",
+    "Origin",
+    "Thorax"
   ],
-  "imageIds": [],
+  "imageIds": [
+    "img-48eceebe9652"
+  ],
   "facts": [
     {
       "id": "f-9d2c706308",
@@ -40,6 +47,14 @@
               "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
               "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-37",
               "sourceLine": 37
+            },
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-119"
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-518"
             }
           ]
         }
@@ -58,6 +73,20 @@
               "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
               "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-38",
               "sourceLine": 38
+            },
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-120"
+            }
+          ]
+        },
+        {
+          "id": "v-211e60b86f",
+          "answer": "Primary muscle of inspiration.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-519"
             }
           ]
         }
@@ -76,6 +105,20 @@
               "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
               "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-39",
               "sourceLine": 39
+            },
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-121"
+            }
+          ]
+        },
+        {
+          "id": "v-3ac810641b",
+          "answer": "Phrenic nerves (C3–C5).",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-520"
             }
           ]
         }
@@ -96,6 +139,16 @@
               "sourceLine": 40
             }
           ]
+        },
+        {
+          "id": "v-18535b62d9",
+          "answer": "Xiphoid process, lower six ribs/costal cartilages and upper lumbar vertebrae via the crura.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-122"
+            }
+          ]
         }
       ]
     },
@@ -112,6 +165,31 @@
               "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
               "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-41",
               "sourceLine": 41
+            },
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-123"
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-521"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-5cec735e15",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-4980795a2d",
+      "variants": [
+        {
+          "id": "v-4980795a2d",
+          "answer": "Phrenic nerve injury can cause ipsilateral hemidiaphragm paralysis.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-124"
             }
           ]
         }
@@ -126,6 +204,22 @@
         "G"
       ],
       "label": "G"
+    },
+    {
+      "modelId": "thorax-model-hs21",
+      "section": "Muscles and tendons",
+      "path": [
+        "20"
+      ],
+      "label": "20"
+    },
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Thorax",
+      "path": [
+        "58"
+      ],
+      "label": "58"
     }
   ]
 }

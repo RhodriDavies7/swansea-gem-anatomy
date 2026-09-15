@@ -1,0 +1,79 @@
+{
+  "id": "anterior-segmental-bronchus-left-upper-lobe-8a89b32a9a",
+  "name": "Anterior segmental bronchus (left upper lobe)",
+  "aliases": [
+    "Anterior segmental bronchus"
+  ],
+  "scope": "left upper lobe",
+  "kind": "structure",
+  "types": [
+    "Bronchus"
+  ],
+  "systems": [
+    "Respiratory"
+  ],
+  "regions": [
+    "Thorax"
+  ],
+  "organs": [],
+  "tags": [
+    "Bronchus",
+    "Identification",
+    "LeftBronchialTree",
+    "Supply",
+    "UpperLobe"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-15213cad79",
+      "question": "Identification",
+      "preferredVariantId": "v-8a89b32a9a",
+      "variants": [
+        {
+          "id": "v-88cd460087",
+          "answer": "Anterior segmental bronchus",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-260"
+            }
+          ]
+        },
+        {
+          "id": "v-8a89b32a9a",
+          "answer": "Anterior segmental bronchus (left upper lobe)",
+          "sources": []
+        }
+      ]
+    },
+    {
+      "id": "f-a75b2b10d3",
+      "question": "Supply",
+      "preferredVariantId": "v-90a1fe7b3e",
+      "variants": [
+        {
+          "id": "v-90a1fe7b3e",
+          "answer": "Supplies the corresponding bronchopulmonary segment of the left upper lobe.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-261"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "thorax-model-hs21",
+      "section": "Larynx, bronchial tree and lungs / Left upper lobar bronchus / left upper lobe",
+      "path": [
+        "35",
+        "3"
+      ],
+      "label": "3"
+    }
+  ]
+}

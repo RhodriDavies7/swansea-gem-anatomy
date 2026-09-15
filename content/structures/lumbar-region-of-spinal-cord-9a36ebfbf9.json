@@ -1,0 +1,72 @@
+{
+  "id": "lumbar-region-of-spinal-cord-9a36ebfbf9",
+  "name": "Lumbar region of spinal cord",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "CNS"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "regions": [
+    "Back"
+  ],
+  "organs": [],
+  "tags": [
+    "CNS",
+    "Dorsum",
+    "Identification",
+    "Relations",
+    "SpinalCord"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-3d51085a5e",
+      "question": "Identification",
+      "preferredVariantId": "v-9a36ebfbf9",
+      "variants": [
+        {
+          "id": "v-9a36ebfbf9",
+          "answer": "Lumbar region of spinal cord",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-799"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-56b13b3986",
+      "question": "Relations",
+      "preferredVariantId": "v-5740d9e3b5",
+      "variants": [
+        {
+          "id": "v-5740d9e3b5",
+          "answer": "Named region or terminal structure of the spinal cord.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-800"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Dorsum / SpinalCord",
+      "path": [
+        "101",
+        "c"
+      ],
+      "label": "c"
+    }
+  ]
+}

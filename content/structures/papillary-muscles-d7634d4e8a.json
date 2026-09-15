@@ -20,9 +20,13 @@
     "Action",
     "Clinical",
     "Function",
+    "Heart",
+    "HeartStructure",
+    "Identification",
     "InternalCoronary",
     "Muscle",
-    "Relations"
+    "Relations",
+    "RightVentricle"
   ],
   "imageIds": [
     "img-b705c4a4760a"
@@ -41,6 +45,10 @@
               "modelId": "heart-model-hs5",
               "cardId": "heart-model-hs5-117",
               "sourceLine": 117
+            },
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-455"
             }
           ]
         }
@@ -77,6 +85,16 @@
               "modelId": "heart-model-hs5",
               "cardId": "heart-model-hs5-119",
               "sourceLine": 119
+            }
+          ]
+        },
+        {
+          "id": "v-528aa46738",
+          "answer": "Contract during systole to tension chordae tendineae and prevent atrioventricular valve prolapse.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-456"
             }
           ]
         }
@@ -127,6 +145,15 @@
         "2"
       ],
       "label": "2"
+    },
+    {
+      "modelId": "thorax-model-hs21",
+      "section": "Heart / Right ventricle",
+      "path": [
+        "38",
+        "9"
+      ],
+      "label": "9"
     }
   ]
 }

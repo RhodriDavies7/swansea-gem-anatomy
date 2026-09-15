@@ -1,0 +1,144 @@
+{
+  "id": "intercostal-nerve-eb45df5538",
+  "name": "Intercostal nerve",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Nerves"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "regions": [
+    "Thorax"
+  ],
+  "organs": [],
+  "tags": [
+    "Course",
+    "Identification",
+    "Lesion",
+    "Motor",
+    "Nerve",
+    "Nerves",
+    "Roots",
+    "Sensory"
+  ],
+  "imageIds": [
+    "img-c5bb6910560a"
+  ],
+  "facts": [
+    {
+      "id": "f-82d24c96ab",
+      "question": "Identification",
+      "preferredVariantId": "v-eb45df5538",
+      "variants": [
+        {
+          "id": "v-eb45df5538",
+          "answer": "Intercostal nerve",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-644"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-500fc6cc3b",
+      "question": "Roots",
+      "preferredVariantId": "v-0a68a71b9e",
+      "variants": [
+        {
+          "id": "v-0a68a71b9e",
+          "answer": "Anterior ramus of a thoracic spinal nerve, typically T1–T11.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-645"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-1d16cec549",
+      "question": "Course",
+      "preferredVariantId": "v-0fe259aaf0",
+      "variants": [
+        {
+          "id": "v-0fe259aaf0",
+          "answer": "Runs in the costal groove between internal and innermost intercostal muscles.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-646"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-7653497a4b",
+      "question": "Motor functions",
+      "preferredVariantId": "v-19be4e025d",
+      "variants": [
+        {
+          "id": "v-19be4e025d",
+          "answer": "Supplies intercostal muscles and, at lower levels, abdominal wall muscles.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-647"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-0aefe5bedb",
+      "question": "Sensory functions",
+      "preferredVariantId": "v-18530f5b25",
+      "variants": [
+        {
+          "id": "v-18530f5b25",
+          "answer": "Supplies segmental skin of the thoracic or abdominal wall and parietal pleura or peritoneum.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-648"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-34704f6c14",
+      "question": "Lesion",
+      "preferredVariantId": "v-4625b89140",
+      "variants": [
+        {
+          "id": "v-4625b89140",
+          "answer": "May cause segmental sensory loss and weakness of intercostal musculature in the affected dermatome/myotome.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-649"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "thorax-model-hs21",
+      "section": "Nerves",
+      "path": [
+        "45"
+      ],
+      "label": "45"
+    }
+  ]
+}

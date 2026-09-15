@@ -17,11 +17,13 @@
   "tags": [
     "Clinical",
     "Function",
+    "Identification",
     "Location",
     "LymphoidTissue",
     "MidSagittal",
     "MidlineStructures",
     "NasalCavity",
+    "NoseMouthNeck",
     "Relations"
   ],
   "imageIds": [],
@@ -54,6 +56,10 @@
               "modelId": "nose-and-nasal-cavity-model-fs3",
               "cardId": "nose-and-nasal-cavity-model-fs3-207",
               "sourceLine": 207
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-336"
             }
           ]
         }
@@ -82,6 +88,10 @@
               "modelId": "nose-and-nasal-cavity-model-fs3",
               "cardId": "nose-and-nasal-cavity-model-fs3-208",
               "sourceLine": 208
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-337"
             }
           ]
         },
@@ -142,6 +152,16 @@
               "modelId": "nose-and-nasal-cavity-model-fs3",
               "cardId": "nose-and-nasal-cavity-model-fs3-209",
               "sourceLine": 209
+            }
+          ]
+        },
+        {
+          "id": "v-85e4985ecb",
+          "answer": "Part of Waldeyer's ring.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-338"
             }
           ]
         }
@@ -246,6 +266,14 @@
         "23"
       ],
       "label": "23"
+    },
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Nose, mouth and neck",
+      "path": [
+        "37a"
+      ],
+      "label": "37a"
     }
   ]
 }

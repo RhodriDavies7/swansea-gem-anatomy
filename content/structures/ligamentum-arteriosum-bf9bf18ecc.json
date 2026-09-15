@@ -1,0 +1,108 @@
+{
+  "id": "ligamentum-arteriosum-bf9bf18ecc",
+  "name": "Ligamentum arteriosum",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Ligament"
+  ],
+  "systems": [
+    "Cardiovascular"
+  ],
+  "regions": [
+    "Thorax"
+  ],
+  "organs": [],
+  "tags": [
+    "Attachments",
+    "Clinical",
+    "Identification",
+    "Ligament",
+    "Structure",
+    "Vessels"
+  ],
+  "imageIds": [
+    "img-838fae4d6788"
+  ],
+  "facts": [
+    {
+      "id": "f-66a431c8cc",
+      "question": "Identification",
+      "preferredVariantId": "v-bf9bf18ecc",
+      "variants": [
+        {
+          "id": "v-bf9bf18ecc",
+          "answer": "Ligamentum arteriosum",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-589"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c2f07c2ba4",
+      "question": "Structure",
+      "preferredVariantId": "v-0a879d586a",
+      "variants": [
+        {
+          "id": "v-0a879d586a",
+          "answer": "Fibrous remnant of the fetal ductus arteriosus.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-590"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-fb1284348b",
+      "question": "Attachments",
+      "preferredVariantId": "v-4d9e3033d4",
+      "variants": [
+        {
+          "id": "v-4d9e3033d4",
+          "answer": "Connects the pulmonary trunk/left pulmonary artery region to the aortic arch.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-591"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-b6bc45d79e",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-b4e9be7d6c",
+      "variants": [
+        {
+          "id": "v-b4e9be7d6c",
+          "answer": "Left recurrent laryngeal nerve loops beneath the aortic arch near this structure.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-592"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "thorax-model-hs21",
+      "section": "Vessels",
+      "path": [
+        "36"
+      ],
+      "label": "36"
+    }
+  ]
+}

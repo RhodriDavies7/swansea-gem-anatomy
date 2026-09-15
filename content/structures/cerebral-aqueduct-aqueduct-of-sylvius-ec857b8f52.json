@@ -17,13 +17,16 @@
   ],
   "organs": [],
   "tags": [
+    "Brain",
+    "Canal",
     "Clinical",
     "Connections",
+    "Function",
+    "Identification",
     "Location",
     "MidSagittal",
     "MidlineStructures",
-    "Ventricle",
-    "Brain"
+    "Ventricle"
   ],
   "imageIds": [],
   "facts": [
@@ -56,6 +59,10 @@
               "modelId": "head-and-neck-model-cs17-2",
               "cardId": "head-and-neck-model-cs17-2-714",
               "sourceLine": 714
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-154"
             }
           ]
         }
@@ -139,6 +146,10 @@
               "modelId": "half-head-and-neck-model-bs9",
               "cardId": "half-head-and-neck-model-bs9-218",
               "sourceLine": 218
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-156"
             }
           ]
         },
@@ -158,6 +169,23 @@
         "date": "2026-09-11",
         "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
       }
+    },
+    {
+      "id": "f-52ab488bce",
+      "question": "Function",
+      "preferredVariantId": "v-ed4169ad86",
+      "variants": [
+        {
+          "id": "v-ed4169ad86",
+          "answer": "Connects the third and fourth ventricles.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-155"
+            }
+          ]
+        }
+      ]
     }
   ],
   "occurrences": [
@@ -184,6 +212,14 @@
         "11"
       ],
       "label": "11"
+    },
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Brain",
+      "path": [
+        "19"
+      ],
+      "label": "19"
     }
   ],
   "redirectIds": [

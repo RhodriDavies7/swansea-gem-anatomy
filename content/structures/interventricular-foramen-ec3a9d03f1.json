@@ -1,7 +1,9 @@
 {
   "id": "interventricular-foramen-ec3a9d03f1",
   "name": "Interventricular foramen",
-  "aliases": [],
+  "aliases": [
+    "Foramen of Monro (interventricular foramen)"
+  ],
   "scope": "",
   "kind": "structure",
   "types": [
@@ -14,13 +16,19 @@
   "organs": [],
   "tags": [
     "AlsoCalled",
+    "Brain",
     "Clinical",
     "Connections",
+    "Function",
+    "Identification",
     "MidSagittal",
     "MidlineStructures",
+    "Opening",
     "Ventricle"
   ],
-  "imageIds": [],
+  "imageIds": [
+    "img-48ef57a23094"
+  ],
   "facts": [
     {
       "id": "f-9d2c706308",
@@ -40,6 +48,16 @@
               "modelId": "half-head-and-neck-model-bs9",
               "cardId": "half-head-and-neck-model-bs9-221",
               "sourceLine": 221
+            }
+          ]
+        },
+        {
+          "id": "v-4c1f330146",
+          "answer": "Foramen of Monro (interventricular foramen)",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-123"
             }
           ]
         }
@@ -133,6 +151,23 @@
         "date": "2026-09-11",
         "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
       }
+    },
+    {
+      "id": "f-7443b35b81",
+      "question": "Function",
+      "preferredVariantId": "v-23e8b02b07",
+      "variants": [
+        {
+          "id": "v-23e8b02b07",
+          "answer": "Connects each lateral ventricle with the third ventricle.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-124"
+            }
+          ]
+        }
+      ]
     }
   ],
   "occurrences": [
@@ -151,6 +186,14 @@
         "21"
       ],
       "label": "21"
+    },
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Brain",
+      "path": [
+        "12"
+      ],
+      "label": "12"
     }
   ]
 }

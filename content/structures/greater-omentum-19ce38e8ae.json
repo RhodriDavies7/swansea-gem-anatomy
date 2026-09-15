@@ -1,0 +1,88 @@
+{
+  "id": "greater-omentum-19ce38e8ae",
+  "name": "Greater omentum",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Peritoneum"
+  ],
+  "systems": [
+    "Digestive"
+  ],
+  "regions": [
+    "Abdomen"
+  ],
+  "organs": [],
+  "tags": [
+    "Abdomen",
+    "Function",
+    "Identification",
+    "Peritoneum",
+    "Structure"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-2d96487f35",
+      "question": "Identification",
+      "preferredVariantId": "v-19ce38e8ae",
+      "variants": [
+        {
+          "id": "v-19ce38e8ae",
+          "answer": "Greater omentum",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-631"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-1f63111d34",
+      "question": "Structure",
+      "preferredVariantId": "v-712ee5f92d",
+      "variants": [
+        {
+          "id": "v-712ee5f92d",
+          "answer": "Large peritoneal fold hanging from greater curvature of stomach.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-632"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-a9b86fda38",
+      "question": "Function",
+      "preferredVariantId": "v-efb0fb561e",
+      "variants": [
+        {
+          "id": "v-efb0fb561e",
+          "answer": "Stores fat and can limit spread of intraperitoneal inflammation.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-633"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Abdomen",
+      "path": [
+        "76a"
+      ],
+      "label": "76a"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": "filum-terminale-5e810f31b2",
+  "name": "Filum terminale",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "CNS"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "regions": [
+    "Back"
+  ],
+  "organs": [],
+  "tags": [
+    "CNS",
+    "Dorsum",
+    "Identification",
+    "Relations",
+    "SpinalCord"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-1a6ac6575a",
+      "question": "Identification",
+      "preferredVariantId": "v-5e810f31b2",
+      "variants": [
+        {
+          "id": "v-5e810f31b2",
+          "answer": "Filum terminale",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-807"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-fade68933a",
+      "question": "Relations",
+      "preferredVariantId": "v-5740d9e3b5",
+      "variants": [
+        {
+          "id": "v-5740d9e3b5",
+          "answer": "Named region or terminal structure of the spinal cord.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-808"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Dorsum / SpinalCord",
+      "path": [
+        "101",
+        "e"
+      ],
+      "label": "e"
+    }
+  ]
+}

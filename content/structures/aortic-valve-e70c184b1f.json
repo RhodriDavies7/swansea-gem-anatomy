@@ -8,7 +8,8 @@
     "Other"
   ],
   "regions": [
-    "Head and neck"
+    "Head and neck",
+    "Thorax"
   ],
   "systems": [
     "Cardiovascular",
@@ -20,6 +21,9 @@
   "tags": [
     "CardiacVesselsValves",
     "Function",
+    "Heart",
+    "HeartStructure",
+    "Identification",
     "Location",
     "Structure",
     "Valve"
@@ -39,6 +43,14 @@
               "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
               "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-205",
               "sourceLine": 205
+            },
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-487"
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-510"
             }
           ]
         }
@@ -75,6 +87,10 @@
               "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
               "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-207",
               "sourceLine": 207
+            },
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-489"
             }
           ]
         }
@@ -95,6 +111,26 @@
               "sourceLine": 208
             }
           ]
+        },
+        {
+          "id": "v-6589158884",
+          "answer": "Prevents backflow from aorta to left ventricle during diastole.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-488"
+            }
+          ]
+        },
+        {
+          "id": "v-a3715f5b25",
+          "answer": "Prevents diastolic backflow from aorta to left ventricle.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-511"
+            }
+          ]
         }
       ]
     }
@@ -107,6 +143,24 @@
         "29"
       ],
       "label": "29"
+    },
+    {
+      "modelId": "thorax-model-hs21",
+      "section": "Heart / Left ventricle",
+      "path": [
+        "38",
+        "16"
+      ],
+      "label": "16"
+    },
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Thorax",
+      "path": [
+        "57",
+        "l"
+      ],
+      "label": "l"
     }
   ]
 }

@@ -1,0 +1,947 @@
+[
+  {
+    "label": "1",
+    "section": "Bones and cartilages",
+    "sourceName": "Fifth cervical vertebra",
+    "structureId": "fifth-cervical-vertebra-6956a78764",
+    "existing": false
+  },
+  {
+    "label": "2",
+    "section": "Bones and cartilages",
+    "sourceName": "Seventh cervical vertebra",
+    "structureId": "seventh-cervical-vertebra-ab8ae982bf",
+    "existing": false
+  },
+  {
+    "label": "3",
+    "section": "Bones and cartilages",
+    "sourceName": "First thoracic vertebra",
+    "structureId": "first-thoracic-vertebra-7c7218b9ac",
+    "existing": false
+  },
+  {
+    "label": "4",
+    "section": "Bones and cartilages",
+    "sourceName": "Twelfth thoracic vertebra",
+    "structureId": "twelfth-thoracic-vertebra-0ac8bcc6d0",
+    "existing": false
+  },
+  {
+    "label": "5",
+    "section": "Bones and cartilages",
+    "sourceName": "First lumbar vertebra",
+    "structureId": "first-lumbar-vertebra-8c465b36af",
+    "existing": false
+  },
+  {
+    "label": "6",
+    "section": "Bones and cartilages",
+    "sourceName": "Second lumbar vertebra",
+    "structureId": "second-lumbar-vertebra-fe08312dd9",
+    "existing": false
+  },
+  {
+    "label": "7",
+    "section": "Bones and cartilages",
+    "sourceName": "First rib",
+    "structureId": "first-rib-213c86da58",
+    "existing": false
+  },
+  {
+    "label": "8",
+    "section": "Bones and cartilages",
+    "sourceName": "Twelfth rib",
+    "structureId": "twelfth-rib-c9939122f7",
+    "existing": false
+  },
+  {
+    "label": "9",
+    "section": "Bones and cartilages",
+    "sourceName": "Sternum",
+    "structureId": "sternum-43a7d052ca",
+    "existing": false
+  },
+  {
+    "label": "10",
+    "section": "Bones and cartilages",
+    "sourceName": "Costal cartilage",
+    "structureId": "costal-cartilage-328251ada5",
+    "existing": false
+  },
+  {
+    "label": "11",
+    "section": "Muscles and tendons",
+    "sourceName": "Scalenus anterior muscle",
+    "structureId": "anterior-scalene-muscle-77d90e6488",
+    "existing": true
+  },
+  {
+    "label": "12",
+    "section": "Muscles and tendons",
+    "sourceName": "Scalenus medius muscle",
+    "structureId": "middle-scalene-muscle-8f8e31b54e",
+    "existing": true
+  },
+  {
+    "label": "13",
+    "section": "Muscles and tendons",
+    "sourceName": "Scalenus posterior muscle",
+    "structureId": "posterior-scalene-muscle-2630d89a0a",
+    "existing": true
+  },
+  {
+    "label": "14",
+    "section": "Muscles and tendons",
+    "sourceName": "Splenius capitis muscle",
+    "structureId": "splenius-capitis-muscle-68d5a39be5",
+    "existing": true
+  },
+  {
+    "label": "15",
+    "section": "Muscles and tendons",
+    "sourceName": "Splenius cervicis muscle",
+    "structureId": "splenius-cervicis-muscle-c5410435de",
+    "existing": false
+  },
+  {
+    "label": "16",
+    "section": "Muscles and tendons",
+    "sourceName": "Long levator costarum muscle",
+    "structureId": "long-levator-costarum-muscle-ac29484429",
+    "existing": false
+  },
+  {
+    "label": "17",
+    "section": "Muscles and tendons",
+    "sourceName": "Multifidus muscle",
+    "structureId": "multifidus-muscle-0520f948ac",
+    "existing": false
+  },
+  {
+    "label": "18",
+    "section": "Muscles and tendons",
+    "sourceName": "Thoracolumbar fascia",
+    "structureId": "thoracolumbar-fascia-ceed1cb2ed",
+    "existing": false
+  },
+  {
+    "label": "19",
+    "section": "Muscles and tendons",
+    "sourceName": "Longus colli muscle",
+    "structureId": "longus-colli-muscle-e956eb44a0",
+    "existing": false
+  },
+  {
+    "label": "20",
+    "section": "Muscles and tendons",
+    "sourceName": "Diaphragm",
+    "structureId": "diaphragm-60575b9d78",
+    "existing": true
+  },
+  {
+    "label": "21",
+    "section": "Muscles and tendons",
+    "sourceName": "Diaphragmatic part of the pericardium",
+    "structureId": "diaphragmatic-part-of-the-pericardium-f075e0e330",
+    "existing": false
+  },
+  {
+    "label": "22",
+    "section": "Muscles and tendons",
+    "sourceName": "Intercostal muscles",
+    "structureId": "intercostal-muscles-2ed0ac1762",
+    "existing": false
+  },
+  {
+    "label": "23",
+    "section": "Muscles and tendons",
+    "sourceName": "Internal oblique muscle",
+    "structureId": "internal-oblique-muscle-4fc60fec8e",
+    "existing": false
+  },
+  {
+    "label": "24",
+    "section": "Viscera",
+    "sourceName": "Oesophageal opening",
+    "structureId": "oesophageal-opening-2330da27ae",
+    "existing": false
+  },
+  {
+    "label": "25",
+    "section": "Viscera",
+    "sourceName": "Oesophagus",
+    "structureId": "oesophagus-ad76796645",
+    "existing": true
+  },
+  {
+    "label": "26",
+    "section": "Viscera",
+    "sourceName": "Stomach",
+    "structureId": "stomach-408f7e8ba7",
+    "existing": false
+  },
+  {
+    "label": "27",
+    "section": "Viscera",
+    "sourceName": "Liver",
+    "structureId": "liver-f52ceaf6f4",
+    "existing": false
+  },
+  {
+    "label": "28",
+    "section": "Viscera",
+    "sourceName": "Large intestine",
+    "structureId": "large-intestine-b8408c12fe",
+    "existing": false
+  },
+  {
+    "label": "29",
+    "section": "Viscera",
+    "sourceName": "Small intestine",
+    "structureId": "small-intestine-3f1f0ecc9c",
+    "existing": false
+  },
+  {
+    "label": "30",
+    "section": "Larynx, bronchial tree and lungs",
+    "sourceName": "Laryngeal inlet",
+    "structureId": "laryngeal-inlet-0057196acb",
+    "existing": false
+  },
+  {
+    "label": "31",
+    "section": "Larynx, bronchial tree and lungs",
+    "sourceName": "Thyroid cartilage",
+    "structureId": "thyroid-cartilage-dad3d80fd8",
+    "existing": true
+  },
+  {
+    "label": "32",
+    "section": "Larynx, bronchial tree and lungs",
+    "sourceName": "Cricoid cartilage",
+    "structureId": "cricoid-cartilage-7ceb094a4f",
+    "existing": true
+  },
+  {
+    "label": "33",
+    "section": "Larynx, bronchial tree and lungs",
+    "sourceName": "Trachea",
+    "structureId": "trachea-3613802d6d",
+    "existing": true
+  },
+  {
+    "label": "34",
+    "section": "Larynx, bronchial tree and lungs",
+    "sourceName": "Right main bronchus",
+    "structureId": "right-main-bronchus-b4cc13d09b",
+    "existing": true
+  },
+  {
+    "label": "34 / 1",
+    "section": "Larynx, bronchial tree and lungs / Right upper lobar bronchus",
+    "sourceName": "Apical segmental bronchus",
+    "structureId": "apical-segmental-bronchus-right-upper-lobe-5aa5cb01a4",
+    "existing": false
+  },
+  {
+    "label": "34 / 2",
+    "section": "Larynx, bronchial tree and lungs / Right upper lobar bronchus",
+    "sourceName": "Posterior segmental bronchus",
+    "structureId": "posterior-segmental-bronchus-right-upper-lobe-936093678f",
+    "existing": false
+  },
+  {
+    "label": "34 / 3",
+    "section": "Larynx, bronchial tree and lungs / Right upper lobar bronchus",
+    "sourceName": "Anterior segmental bronchus",
+    "structureId": "anterior-segmental-bronchus-right-upper-lobe-9aef9656ef",
+    "existing": false
+  },
+  {
+    "label": "34 / 4",
+    "section": "Larynx, bronchial tree and lungs / Right middle lobar bronchus",
+    "sourceName": "Lateral segmental bronchus",
+    "structureId": "lateral-segmental-bronchus-right-middle-lobe-309d337ad7",
+    "existing": false
+  },
+  {
+    "label": "34 / 5",
+    "section": "Larynx, bronchial tree and lungs / Right middle lobar bronchus",
+    "sourceName": "Medial segmental bronchus",
+    "structureId": "medial-segmental-bronchus-right-middle-lobe-b123001b0a",
+    "existing": false
+  },
+  {
+    "label": "34 / 6",
+    "section": "Larynx, bronchial tree and lungs / Right lower lobar bronchus",
+    "sourceName": "Superior segmental bronchus",
+    "structureId": "superior-segmental-bronchus-right-lower-lobe-912cabcf56",
+    "existing": false
+  },
+  {
+    "label": "34 / 7",
+    "section": "Larynx, bronchial tree and lungs / Right lower lobar bronchus",
+    "sourceName": "Medial basal segmental bronchus",
+    "structureId": "medial-basal-segmental-bronchus-right-lower-lobe-cea39d4944",
+    "existing": false
+  },
+  {
+    "label": "34 / 8",
+    "section": "Larynx, bronchial tree and lungs / Right lower lobar bronchus",
+    "sourceName": "Anterior basal segmental bronchus",
+    "structureId": "anterior-basal-segmental-bronchus-right-lower-lobe-f7ae70fd3d",
+    "existing": false
+  },
+  {
+    "label": "34 / 9",
+    "section": "Larynx, bronchial tree and lungs / Right lower lobar bronchus",
+    "sourceName": "Lateral basal segmental bronchus",
+    "structureId": "lateral-basal-segmental-bronchus-right-lower-lobe-b93db30f36",
+    "existing": false
+  },
+  {
+    "label": "34 / 10",
+    "section": "Larynx, bronchial tree and lungs / Right lower lobar bronchus",
+    "sourceName": "Posterior basal segmental bronchus",
+    "structureId": "posterior-basal-segmental-bronchus-right-lower-lobe-63b6602034",
+    "existing": false
+  },
+  {
+    "label": "35",
+    "section": "Larynx, bronchial tree and lungs",
+    "sourceName": "Left main bronchus",
+    "structureId": "left-main-bronchus-19aea0f6e6",
+    "existing": true
+  },
+  {
+    "label": "35 / 1",
+    "section": "Larynx, bronchial tree and lungs / Left upper lobar bronchus",
+    "sourceName": "Apicoposterior segmental bronchus",
+    "structureId": "apicoposterior-segmental-bronchus-left-upper-lobe-1214dcc3a6",
+    "existing": false
+  },
+  {
+    "label": "35 / 3",
+    "section": "Larynx, bronchial tree and lungs / Left upper lobar bronchus",
+    "sourceName": "Anterior segmental bronchus",
+    "structureId": "anterior-segmental-bronchus-left-upper-lobe-8a89b32a9a",
+    "existing": false
+  },
+  {
+    "label": "35 / 4",
+    "section": "Larynx, bronchial tree and lungs / Left upper lobar bronchus",
+    "sourceName": "Superior lingular bronchus",
+    "structureId": "superior-lingular-bronchus-left-upper-lobe-a2e629872e",
+    "existing": false
+  },
+  {
+    "label": "35 / 5",
+    "section": "Larynx, bronchial tree and lungs / Left upper lobar bronchus",
+    "sourceName": "Inferior lingular bronchus",
+    "structureId": "inferior-lingular-bronchus-left-upper-lobe-f24f733702",
+    "existing": false
+  },
+  {
+    "label": "35 / 6",
+    "section": "Larynx, bronchial tree and lungs / Left lower lobar bronchus",
+    "sourceName": "Superior segmental bronchus",
+    "structureId": "superior-segmental-bronchus-left-lower-lobe-c893831ab2",
+    "existing": false
+  },
+  {
+    "label": "35 / 7",
+    "section": "Larynx, bronchial tree and lungs / Left lower lobar bronchus",
+    "sourceName": "Medial basal segmental bronchus",
+    "structureId": "medial-basal-segmental-bronchus-left-lower-lobe-a659c06afd",
+    "existing": false
+  },
+  {
+    "label": "35 / 8",
+    "section": "Larynx, bronchial tree and lungs / Left lower lobar bronchus",
+    "sourceName": "Anterior basal segmental bronchus",
+    "structureId": "anterior-basal-segmental-bronchus-left-lower-lobe-a58919526e",
+    "existing": false
+  },
+  {
+    "label": "35 / 9",
+    "section": "Larynx, bronchial tree and lungs / Left lower lobar bronchus",
+    "sourceName": "Lateral basal segmental bronchus",
+    "structureId": "lateral-basal-segmental-bronchus-left-lower-lobe-0500400817",
+    "existing": false
+  },
+  {
+    "label": "35 / 10",
+    "section": "Larynx, bronchial tree and lungs / Left lower lobar bronchus",
+    "sourceName": "Posterior basal segmental bronchus",
+    "structureId": "posterior-basal-segmental-bronchus-left-lower-lobe-0304ce98a0",
+    "existing": false
+  },
+  {
+    "label": "36",
+    "section": "Larynx, bronchial tree and lungs",
+    "sourceName": "Right lung with bronchopulmonary segments",
+    "structureId": "right-lung-with-bronchopulmonary-segments-30be3ec3ce",
+    "existing": false
+  },
+  {
+    "label": "36 / 36a",
+    "section": "Larynx, bronchial tree and lungs",
+    "sourceName": "Right upper lobe",
+    "structureId": "upper-lobe-of-right-lung-d6ac467bed",
+    "existing": true
+  },
+  {
+    "label": "36 / 36a / 1",
+    "section": "Larynx, bronchial tree and lungs",
+    "sourceName": "Apical segment",
+    "structureId": "apical-segment-right-upper-lobe-cce6cd2f98",
+    "existing": false
+  },
+  {
+    "label": "36 / 36a / 2",
+    "section": "Larynx, bronchial tree and lungs",
+    "sourceName": "Posterior segment",
+    "structureId": "posterior-segment-right-upper-lobe-19a394b7d4",
+    "existing": false
+  },
+  {
+    "label": "36 / 36a / 3",
+    "section": "Larynx, bronchial tree and lungs",
+    "sourceName": "Anterior segment",
+    "structureId": "anterior-segment-right-upper-lobe-f50f04686b",
+    "existing": false
+  },
+  {
+    "label": "36 / 36b",
+    "section": "Larynx, bronchial tree and lungs",
+    "sourceName": "Right middle lobe",
+    "structureId": "middle-lobe-of-right-lung-d166ca2f0f",
+    "existing": true
+  },
+  {
+    "label": "36 / 36b / 4",
+    "section": "Larynx, bronchial tree and lungs",
+    "sourceName": "Lateral segment",
+    "structureId": "lateral-segment-right-middle-lobe-d48a028b60",
+    "existing": false
+  },
+  {
+    "label": "36 / 36b / 5",
+    "section": "Larynx, bronchial tree and lungs",
+    "sourceName": "Medial segment",
+    "structureId": "medial-segment-right-middle-lobe-4d429c9901",
+    "existing": false
+  },
+  {
+    "label": "36 / 36c",
+    "section": "Larynx, bronchial tree and lungs",
+    "sourceName": "Right lower lobe",
+    "structureId": "lower-lobe-of-right-lung-8a652dcba0",
+    "existing": true
+  },
+  {
+    "label": "36 / 36c / 6",
+    "section": "Larynx, bronchial tree and lungs",
+    "sourceName": "Superior segment",
+    "structureId": "superior-segment-right-lower-lobe-b70c9c93c7",
+    "existing": false
+  },
+  {
+    "label": "36 / 36c / 7",
+    "section": "Larynx, bronchial tree and lungs",
+    "sourceName": "Medial basal segment",
+    "structureId": "medial-basal-segment-right-lower-lobe-4821aa1dd3",
+    "existing": false
+  },
+  {
+    "label": "36 / 36c / 8",
+    "section": "Larynx, bronchial tree and lungs",
+    "sourceName": "Anterior basal segment",
+    "structureId": "anterior-basal-segment-right-lower-lobe-37230067bf",
+    "existing": false
+  },
+  {
+    "label": "36 / 36c / 9",
+    "section": "Larynx, bronchial tree and lungs",
+    "sourceName": "Lateral basal segment",
+    "structureId": "lateral-basal-segment-right-lower-lobe-7b854bc110",
+    "existing": false
+  },
+  {
+    "label": "36 / 36c / 10",
+    "section": "Larynx, bronchial tree and lungs",
+    "sourceName": "Posterior basal segment",
+    "structureId": "posterior-basal-segment-right-lower-lobe-8edb2c6028",
+    "existing": false
+  },
+  {
+    "label": "37",
+    "section": "Larynx, bronchial tree and lungs",
+    "sourceName": "Left lung with bronchopulmonary segments",
+    "structureId": "left-lung-with-bronchopulmonary-segments-56c930935c",
+    "existing": false
+  },
+  {
+    "label": "37 / 37a",
+    "section": "Larynx, bronchial tree and lungs",
+    "sourceName": "Left upper lobe",
+    "structureId": "upper-lobe-of-left-lung-68f0cc3ab7",
+    "existing": true
+  },
+  {
+    "label": "37 / 37a / 1",
+    "section": "Larynx, bronchial tree and lungs",
+    "sourceName": "Apicoposterior segment",
+    "structureId": "apicoposterior-segment-left-upper-lobe-d112cf5f82",
+    "existing": false
+  },
+  {
+    "label": "37 / 37a / 2",
+    "section": "Larynx, bronchial tree and lungs",
+    "sourceName": "Apicoposterior segment",
+    "structureId": "apicoposterior-segment-left-upper-lobe-d112cf5f82",
+    "existing": false
+  },
+  {
+    "label": "37 / 37a / 3",
+    "section": "Larynx, bronchial tree and lungs",
+    "sourceName": "Anterior segment",
+    "structureId": "anterior-segment-left-upper-lobe-84cc529efa",
+    "existing": false
+  },
+  {
+    "label": "37 / 37a / 4",
+    "section": "Larynx, bronchial tree and lungs",
+    "sourceName": "Superior lingular segment",
+    "structureId": "superior-lingular-segment-left-upper-lobe-43c2d11bd1",
+    "existing": false
+  },
+  {
+    "label": "37 / 37a / 5",
+    "section": "Larynx, bronchial tree and lungs",
+    "sourceName": "Inferior lingular segment",
+    "structureId": "inferior-lingular-segment-left-upper-lobe-30c4ed5aa1",
+    "existing": false
+  },
+  {
+    "label": "37 / 37b",
+    "section": "Larynx, bronchial tree and lungs",
+    "sourceName": "Left lower lobe",
+    "structureId": "left-lower-lobe-fda1fdf439",
+    "existing": false
+  },
+  {
+    "label": "37 / 37b / 6",
+    "section": "Larynx, bronchial tree and lungs",
+    "sourceName": "Superior segment",
+    "structureId": "superior-segment-left-lower-lobe-ab63f59835",
+    "existing": false
+  },
+  {
+    "label": "37 / 37b / 8",
+    "section": "Larynx, bronchial tree and lungs",
+    "sourceName": "Anterior basal segment",
+    "structureId": "anterior-basal-segment-left-lower-lobe-20737ae576",
+    "existing": false
+  },
+  {
+    "label": "37 / 37b / 9",
+    "section": "Larynx, bronchial tree and lungs",
+    "sourceName": "Lateral basal segment",
+    "structureId": "lateral-basal-segment-left-lower-lobe-71e98188e4",
+    "existing": false
+  },
+  {
+    "label": "37 / 37b / 10",
+    "section": "Larynx, bronchial tree and lungs",
+    "sourceName": "Posterior basal segment",
+    "structureId": "posterior-basal-segment-left-lower-lobe-f8373d82fb",
+    "existing": false
+  },
+  {
+    "label": "38",
+    "section": "Heart",
+    "sourceName": "Heart",
+    "structureId": "heart-0e4ae2aa03",
+    "existing": true
+  },
+  {
+    "label": "38 / A",
+    "section": "Heart / Surface grooves",
+    "sourceName": "Coronary sulcus",
+    "structureId": "coronary-sulcus-bcb4493fa0",
+    "existing": false
+  },
+  {
+    "label": "38 / B",
+    "section": "Heart / Surface grooves",
+    "sourceName": "Anterior interventricular sulcus",
+    "structureId": "anterior-interventricular-sulcus-4f82daf90e",
+    "existing": false
+  },
+  {
+    "label": "38 / C",
+    "section": "Heart / Surface grooves",
+    "sourceName": "Posterior interventricular sulcus",
+    "structureId": "posterior-interventricular-sulcus-3b5423f23d",
+    "existing": false
+  },
+  {
+    "label": "38 / 1",
+    "section": "Heart / Right atrium",
+    "sourceName": "Fossa ovalis",
+    "structureId": "fossa-ovalis-4c2e05149f",
+    "existing": false
+  },
+  {
+    "label": "38 / 2",
+    "section": "Heart / Right atrium",
+    "sourceName": "Interatrial septum",
+    "structureId": "interatrial-septum-509e8d8dbd",
+    "existing": false
+  },
+  {
+    "label": "38 / 3",
+    "section": "Heart / Right atrium",
+    "sourceName": "Eustachian valve",
+    "structureId": "eustachian-valve-0749dcaacf",
+    "existing": false
+  },
+  {
+    "label": "38 / 4",
+    "section": "Heart / Right atrium",
+    "sourceName": "Right atrioventricular orifice",
+    "structureId": "right-atrioventricular-orifice-7358d047f9",
+    "existing": false
+  },
+  {
+    "label": "38 / 5",
+    "section": "Heart / Right atrium",
+    "sourceName": "Superior vena cava",
+    "structureId": "superior-vena-cava-d34b0694af",
+    "existing": true
+  },
+  {
+    "label": "38 / 6",
+    "section": "Heart / Right atrium",
+    "sourceName": "Inferior vena cava",
+    "structureId": "inferior-vena-cava-12a0b3ae11",
+    "existing": true
+  },
+  {
+    "label": "38 / 7",
+    "section": "Heart / Right atrium",
+    "sourceName": "Thebesian valve",
+    "structureId": "thebesian-valve-f30a93d47b",
+    "existing": false
+  },
+  {
+    "label": "38 / 8",
+    "section": "Heart / Right ventricle",
+    "sourceName": "Tricuspid valve",
+    "structureId": "tricuspid-valve-right-atrioventricular-valve-7bb0f89fae",
+    "existing": true
+  },
+  {
+    "label": "38 / 9",
+    "section": "Heart / Right ventricle",
+    "sourceName": "Papillary muscles",
+    "structureId": "papillary-muscles-d7634d4e8a",
+    "existing": true
+  },
+  {
+    "label": "38 / 10",
+    "section": "Heart / Right ventricle",
+    "sourceName": "Posterior cusp of the pulmonary valve",
+    "structureId": "posterior-cusp-of-the-pulmonary-valve-0d02dd7888",
+    "existing": false
+  },
+  {
+    "label": "38 / 11",
+    "section": "Heart / Right ventricle",
+    "sourceName": "Pulmonary trunk",
+    "structureId": "pulmonary-trunk-d29b190d8f",
+    "existing": true
+  },
+  {
+    "label": "38 / 12",
+    "section": "Heart / Right ventricle",
+    "sourceName": "Interventricular septum",
+    "structureId": "interventricular-septum-7b52b429d5",
+    "existing": true
+  },
+  {
+    "label": "38 / 13",
+    "section": "Heart / Left atrium",
+    "sourceName": "Pulmonary veins",
+    "structureId": "pulmonary-veins-14d5443218",
+    "existing": true
+  },
+  {
+    "label": "38 / 14",
+    "section": "Heart / Left atrium",
+    "sourceName": "Left atrioventricular orifice",
+    "structureId": "left-atrioventricular-orifice-e7fea8250d",
+    "existing": false
+  },
+  {
+    "label": "38 / 15",
+    "section": "Heart / Left ventricle",
+    "sourceName": "Mitral valve",
+    "structureId": "bicuspid-valve-mitral-left-atrioventricular-valve-27f66fbba4",
+    "existing": true
+  },
+  {
+    "label": "38 / 16",
+    "section": "Heart / Left ventricle",
+    "sourceName": "Aortic valve",
+    "structureId": "aortic-valve-e70c184b1f",
+    "existing": true
+  },
+  {
+    "label": "38 / 17",
+    "section": "Heart / Left ventricle",
+    "sourceName": "Aorta",
+    "structureId": "aorta-97a15f94fe",
+    "existing": true
+  },
+  {
+    "label": "38 / 18",
+    "section": "Heart / Left ventricle",
+    "sourceName": "Right coronary artery",
+    "structureId": "right-coronary-artery-658b9c7c3a",
+    "existing": true
+  },
+  {
+    "label": "38 / 19",
+    "section": "Heart / Left ventricle",
+    "sourceName": "Left coronary artery",
+    "structureId": "left-coronary-artery-91f3c1d61f",
+    "existing": true
+  },
+  {
+    "label": "38 / 20",
+    "section": "Heart / Left ventricle",
+    "sourceName": "Great cardiac vein",
+    "structureId": "great-cardiac-vein-e7161795da",
+    "existing": false
+  },
+  {
+    "label": "38 / 21",
+    "section": "Heart / Left ventricle",
+    "sourceName": "Anterior cardiac veins",
+    "structureId": "anterior-cardiac-veins-39565244a0",
+    "existing": false
+  },
+  {
+    "label": "38 / 22",
+    "section": "Heart / Left ventricle",
+    "sourceName": "Middle cardiac vein",
+    "structureId": "middle-cardiac-vein-fe333c9a83",
+    "existing": false
+  },
+  {
+    "label": "38 / 23",
+    "section": "Heart / Left ventricle",
+    "sourceName": "Brachiocephalic trunk",
+    "structureId": "brachiocephalic-trunk-df0bc63c0c",
+    "existing": true
+  },
+  {
+    "label": "24",
+    "section": "Vessels",
+    "sourceName": "Left common carotid artery",
+    "structureId": "left-common-carotid-artery-1525a01287",
+    "existing": false
+  },
+  {
+    "label": "25",
+    "section": "Vessels",
+    "sourceName": "Left subclavian artery",
+    "structureId": "left-subclavian-artery-5e840b6529",
+    "existing": false
+  },
+  {
+    "label": "26",
+    "section": "Vessels",
+    "sourceName": "Right common carotid artery",
+    "structureId": "right-common-carotid-artery-7d5163488f",
+    "existing": false
+  },
+  {
+    "label": "27",
+    "section": "Vessels",
+    "sourceName": "Right subclavian artery",
+    "structureId": "right-subclavian-artery-47bb0e8178",
+    "existing": false
+  },
+  {
+    "label": "28",
+    "section": "Vessels",
+    "sourceName": "Vertebral artery",
+    "structureId": "vertebral-artery-1250ac2ca2",
+    "existing": true
+  },
+  {
+    "label": "29",
+    "section": "Vessels",
+    "sourceName": "Internal thoracic artery",
+    "structureId": "internal-thoracic-artery-892364a412",
+    "existing": false
+  },
+  {
+    "label": "30",
+    "section": "Vessels",
+    "sourceName": "Thyrocervical trunk",
+    "structureId": "thyrocervical-trunk-5ddfb09099",
+    "existing": false
+  },
+  {
+    "label": "31",
+    "section": "Vessels",
+    "sourceName": "Intercostal artery",
+    "structureId": "intercostal-artery-c860623a6b",
+    "existing": false
+  },
+  {
+    "label": "32",
+    "section": "Vessels",
+    "sourceName": "Costocervical trunk",
+    "structureId": "costocervical-trunk-d40465ffb0",
+    "existing": false
+  },
+  {
+    "label": "33",
+    "section": "Vessels",
+    "sourceName": "Thoracic aorta",
+    "structureId": "thoracic-aorta-b69abc59ea",
+    "existing": false
+  },
+  {
+    "label": "34",
+    "section": "Vessels",
+    "sourceName": "Intercostal arteries",
+    "structureId": "intercostal-arteries-f0947cc1d3",
+    "existing": false
+  },
+  {
+    "label": "35",
+    "section": "Vessels",
+    "sourceName": "Azygos vein",
+    "structureId": "azygos-vein-5d2eb6e192",
+    "existing": false
+  },
+  {
+    "label": "36",
+    "section": "Vessels",
+    "sourceName": "Ligamentum arteriosum",
+    "structureId": "ligamentum-arteriosum-bf9bf18ecc",
+    "existing": false
+  },
+  {
+    "label": "37",
+    "section": "Vessels",
+    "sourceName": "Right atrial appendage",
+    "structureId": "right-auricle-360da436cf",
+    "existing": true
+  },
+  {
+    "label": "38",
+    "section": "Vessels",
+    "sourceName": "Left atrial appendage",
+    "structureId": "left-auricle-6588af8a37",
+    "existing": true
+  },
+  {
+    "label": "39",
+    "section": "Vessels",
+    "sourceName": "Pericardial fold",
+    "structureId": "pericardial-fold-2349b4fc4f",
+    "existing": false
+  },
+  {
+    "label": "40",
+    "section": "Vessels",
+    "sourceName": "Fibrous ring of the atrioventricular and arterial orifices",
+    "structureId": "fibrous-ring-of-the-atrioventricular-and-arterial-orifices-7edcc0e162",
+    "existing": false
+  },
+  {
+    "label": "41",
+    "section": "Nerves",
+    "sourceName": "Spinal cord",
+    "structureId": "spinal-cord-75d309dbb2",
+    "existing": true
+  },
+  {
+    "label": "42",
+    "section": "Nerves",
+    "sourceName": "Vagus nerve",
+    "structureId": "vagus-nerve-cn-x-050cb0c8d5",
+    "existing": true
+  },
+  {
+    "label": "43",
+    "section": "Nerves",
+    "sourceName": "Phrenic nerve",
+    "structureId": "phrenic-nerve-d2be311f57",
+    "existing": false
+  },
+  {
+    "label": "44",
+    "section": "Nerves",
+    "sourceName": "Brachial plexus",
+    "structureId": "brachial-plexus-1137ef664a",
+    "existing": true
+  },
+  {
+    "label": "45",
+    "section": "Nerves",
+    "sourceName": "Intercostal nerve",
+    "structureId": "intercostal-nerve-eb45df5538",
+    "existing": false
+  },
+  {
+    "label": "46",
+    "section": "Nerves",
+    "sourceName": "Sympathetic trunk",
+    "structureId": "sympathetic-trunk-61d4c3e20e",
+    "existing": false
+  },
+  {
+    "label": "47",
+    "section": "Nerves",
+    "sourceName": "Cardiac plexus",
+    "structureId": "cardiac-plexus-66361206d4",
+    "existing": false
+  },
+  {
+    "label": "48",
+    "section": "Nerves",
+    "sourceName": "Dorsal root ganglion",
+    "structureId": "dorsal-root-ganglion-e4cb74a21a",
+    "existing": false
+  },
+  {
+    "label": "49",
+    "section": "Nerves",
+    "sourceName": "Recurrent laryngeal nerve",
+    "structureId": "recurrent-laryngeal-nerve-3aeb7402c7",
+    "existing": true
+  },
+  {
+    "label": "50",
+    "section": "Glands",
+    "sourceName": "Thyroid gland",
+    "structureId": "thyroid-gland-914f76f53f",
+    "existing": true
+  },
+  {
+    "label": "51",
+    "section": "Glands",
+    "sourceName": "Thymus",
+    "structureId": "thymus-e3229a6a93",
+    "existing": false
+  }
+]

@@ -1,0 +1,88 @@
+{
+  "id": "fibrous-ring-of-the-atrioventricular-and-arterial-orifices-7edcc0e162",
+  "name": "Fibrous ring of the atrioventricular and arterial orifices",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "CardiacSkeleton"
+  ],
+  "systems": [
+    "Cardiovascular"
+  ],
+  "regions": [
+    "Thorax"
+  ],
+  "organs": [],
+  "tags": [
+    "CardiacSkeleton",
+    "Function",
+    "Identification",
+    "Structure",
+    "Vessels"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-b77b82e8b1",
+      "question": "Identification",
+      "preferredVariantId": "v-7edcc0e162",
+      "variants": [
+        {
+          "id": "v-7edcc0e162",
+          "answer": "Fibrous ring of the atrioventricular and arterial orifices",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-610"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-77171026be",
+      "question": "Function",
+      "preferredVariantId": "v-a8746c51b4",
+      "variants": [
+        {
+          "id": "v-a8746c51b4",
+          "answer": "Provides structural support for valves and electrically insulates atria from ventricles except through the conduction system.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-611"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-2277c77190",
+      "question": "Structure",
+      "preferredVariantId": "v-af07f08b9e",
+      "variants": [
+        {
+          "id": "v-af07f08b9e",
+          "answer": "Dense connective tissue forming part of the fibrous skeleton of the heart.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-612"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "thorax-model-hs21",
+      "section": "Vessels",
+      "path": [
+        "40"
+      ],
+      "label": "40"
+    }
+  ]
+}

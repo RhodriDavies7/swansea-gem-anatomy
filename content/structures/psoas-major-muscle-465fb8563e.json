@@ -9,7 +9,8 @@
   ],
   "regions": [
     "Lower limb",
-    "Pelvis"
+    "Pelvis",
+    "Abdomen"
   ],
   "systems": [
     "Musculoskeletal",
@@ -17,7 +18,9 @@
   ],
   "organs": [],
   "tags": [
+    "Abdomen",
     "Action",
+    "Identification",
     "Innervation",
     "Insertion",
     "Muscle",
@@ -43,6 +46,10 @@
               "modelId": "lower-limb-model-ns10",
               "cardId": "lower-limb-model-ns10-3",
               "sourceLine": 3
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-686"
             }
           ]
         }
@@ -72,6 +79,16 @@
               "modelId": "lower-limb-model-ns10",
               "cardId": "lower-limb-model-ns10-4",
               "sourceLine": 4
+            }
+          ]
+        },
+        {
+          "id": "v-a71d14693c",
+          "answer": "Powerful hip flexor; assists trunk flexion/lateral flexion.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-687"
             }
           ]
         }
@@ -105,6 +122,16 @@
               "modelId": "lower-limb-model-ns10",
               "cardId": "lower-limb-model-ns10-5",
               "sourceLine": 5
+            }
+          ]
+        },
+        {
+          "id": "v-08c2df42bc",
+          "answer": "Anterior rami L1–L3.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-688"
             }
           ]
         }
@@ -197,6 +224,14 @@
         "1"
       ],
       "label": "1"
+    },
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Abdomen",
+      "path": [
+        "88"
+      ],
+      "label": "88"
     }
   ]
 }

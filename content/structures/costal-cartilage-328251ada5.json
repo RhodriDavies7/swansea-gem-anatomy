@@ -1,0 +1,88 @@
+{
+  "id": "costal-cartilage-328251ada5",
+  "name": "Costal cartilage",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Cartilage"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "regions": [
+    "Thorax"
+  ],
+  "organs": [],
+  "tags": [
+    "Bones",
+    "Cartilage",
+    "Function",
+    "Identification",
+    "Structure"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-a3d07a4046",
+      "question": "Identification",
+      "preferredVariantId": "v-328251ada5",
+      "variants": [
+        {
+          "id": "v-328251ada5",
+          "answer": "Costal cartilage",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-52"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9c69aa0c3e",
+      "question": "Function",
+      "preferredVariantId": "v-c41b9e6b3b",
+      "variants": [
+        {
+          "id": "v-c41b9e6b3b",
+          "answer": "Connects ribs to the sternum or adjacent costal cartilage and provides flexibility to the thoracic cage.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-53"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-4053266e52",
+      "question": "Structure",
+      "preferredVariantId": "v-00005b0d36",
+      "variants": [
+        {
+          "id": "v-00005b0d36",
+          "answer": "Hyaline cartilage forming the anterior continuation of ribs.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-54"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "thorax-model-hs21",
+      "section": "Bones and cartilages",
+      "path": [
+        "10"
+      ],
+      "label": "10"
+    }
+  ]
+}

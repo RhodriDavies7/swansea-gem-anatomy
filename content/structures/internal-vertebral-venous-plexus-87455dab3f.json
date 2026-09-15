@@ -1,0 +1,88 @@
+{
+  "id": "internal-vertebral-venous-plexus-87455dab3f",
+  "name": "Internal vertebral venous plexus",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "VenousPlexus"
+  ],
+  "systems": [
+    "Digestive"
+  ],
+  "regions": [
+    "Back"
+  ],
+  "organs": [],
+  "tags": [
+    "Clinical",
+    "Dorsum",
+    "Identification",
+    "Location",
+    "VenousPlexus"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-734ad2d731",
+      "question": "Identification",
+      "preferredVariantId": "v-87455dab3f",
+      "variants": [
+        {
+          "id": "v-87455dab3f",
+          "answer": "Internal vertebral venous plexus",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-841"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-90079fcaa8",
+      "question": "Location",
+      "preferredVariantId": "v-4719cafde3",
+      "variants": [
+        {
+          "id": "v-4719cafde3",
+          "answer": "Valveless venous plexus within vertebral canal.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-842"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-fa1c4eb8e5",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-127672d632",
+      "variants": [
+        {
+          "id": "v-127672d632",
+          "answer": "Provides a route for spread of infection or metastases between pelvis, thorax and vertebral column.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-843"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Dorsum",
+      "path": [
+        "108"
+      ],
+      "label": "108"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "id": "oesophageal-opening-2330da27ae",
+  "name": "Oesophageal opening",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Opening"
+  ],
+  "systems": [
+    "Digestive"
+  ],
+  "regions": [
+    "Thorax"
+  ],
+  "organs": [],
+  "tags": [
+    "Clinical",
+    "Contents",
+    "Identification",
+    "Location",
+    "Opening",
+    "Viscera"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-837e38fa9f",
+      "question": "Identification",
+      "preferredVariantId": "v-2330da27ae",
+      "variants": [
+        {
+          "id": "v-2330da27ae",
+          "answer": "Oesophageal opening",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-146"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-13b0179447",
+      "question": "Location",
+      "preferredVariantId": "v-a3081c63a2",
+      "variants": [
+        {
+          "id": "v-a3081c63a2",
+          "answer": "Diaphragmatic hiatus at approximately T10.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-147"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-ca6ef1b1e8",
+      "question": "Contents",
+      "preferredVariantId": "v-a3a48aee6a",
+      "variants": [
+        {
+          "id": "v-a3a48aee6a",
+          "answer": "Transmits oesophagus and vagal trunks.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-148"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6cf6e2db6a",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-48e6e86e47",
+      "variants": [
+        {
+          "id": "v-48e6e86e47",
+          "answer": "Site associated with hiatus hernia.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-149"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "thorax-model-hs21",
+      "section": "Viscera",
+      "path": [
+        "24"
+      ],
+      "label": "24"
+    }
+  ]
+}

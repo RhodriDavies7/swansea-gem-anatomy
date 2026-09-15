@@ -1,0 +1,126 @@
+{
+  "id": "internal-oblique-muscle-4fc60fec8e",
+  "name": "Internal oblique muscle",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "regions": [
+    "Thorax"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "Identification",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Muscles",
+    "Origin"
+  ],
+  "imageIds": [
+    "img-06cb88543e30"
+  ],
+  "facts": [
+    {
+      "id": "f-7c899dd500",
+      "question": "Identification",
+      "preferredVariantId": "v-4fc60fec8e",
+      "variants": [
+        {
+          "id": "v-4fc60fec8e",
+          "answer": "Internal oblique muscle",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-138"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9139fe8fa3",
+      "question": "Actions",
+      "preferredVariantId": "v-6bdc22204c",
+      "variants": [
+        {
+          "id": "v-6bdc22204c",
+          "answer": "Compresses abdominal contents; flexes trunk and produces ipsilateral trunk rotation.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-139"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-7cc6a9bae8",
+      "question": "Innervation",
+      "preferredVariantId": "v-939511b064",
+      "variants": [
+        {
+          "id": "v-939511b064",
+          "answer": "Anterior rami T6–T12 and L1.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-140"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-269fa9946c",
+      "question": "Origin",
+      "preferredVariantId": "v-f052534fe1",
+      "variants": [
+        {
+          "id": "v-f052534fe1",
+          "answer": "Thoracolumbar fascia, iliac crest and lateral inguinal ligament.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-141"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-b80b917f52",
+      "question": "Insertion",
+      "preferredVariantId": "v-5d421b945f",
+      "variants": [
+        {
+          "id": "v-5d421b945f",
+          "answer": "Lower ribs, linea alba and pubis via conjoint tendon.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-142"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "thorax-model-hs21",
+      "section": "Muscles and tendons",
+      "path": [
+        "23"
+      ],
+      "label": "23"
+    }
+  ]
+}

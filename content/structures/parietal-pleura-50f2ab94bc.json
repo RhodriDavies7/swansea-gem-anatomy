@@ -1,0 +1,88 @@
+{
+  "id": "parietal-pleura-50f2ab94bc",
+  "name": "Parietal pleura",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Pleura"
+  ],
+  "systems": [
+    "Respiratory"
+  ],
+  "regions": [
+    "Thorax"
+  ],
+  "organs": [],
+  "tags": [
+    "Function",
+    "Identification",
+    "Innervation",
+    "Pleura",
+    "Thorax"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-ffb7d4c1ec",
+      "question": "Identification",
+      "preferredVariantId": "v-50f2ab94bc",
+      "variants": [
+        {
+          "id": "v-50f2ab94bc",
+          "answer": "Parietal pleura",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-524"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-b166cc24b1",
+      "question": "Function",
+      "preferredVariantId": "v-ede65820b8",
+      "variants": [
+        {
+          "id": "v-ede65820b8",
+          "answer": "Serous membrane lining the thoracic wall, mediastinum and diaphragm.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-525"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-2ce4e0c903",
+      "question": "Innervation",
+      "preferredVariantId": "v-d8a9e08f92",
+      "variants": [
+        {
+          "id": "v-d8a9e08f92",
+          "answer": "Costal/peripheral diaphragmatic pleura via intercostal nerves; mediastinal/central diaphragmatic pleura via phrenic nerve.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-526"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Thorax",
+      "path": [
+        "58a"
+      ],
+      "label": "58a"
+    }
+  ]
+}

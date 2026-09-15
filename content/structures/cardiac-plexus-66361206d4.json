@@ -1,0 +1,108 @@
+{
+  "id": "cardiac-plexus-66361206d4",
+  "name": "Cardiac plexus",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "NervePlexus"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "regions": [
+    "Thorax"
+  ],
+  "organs": [],
+  "tags": [
+    "Clinical",
+    "Formation",
+    "Function",
+    "Identification",
+    "NervePlexus",
+    "Nerves"
+  ],
+  "imageIds": [
+    "img-67d25e87fdbf"
+  ],
+  "facts": [
+    {
+      "id": "f-4062f27a8b",
+      "question": "Identification",
+      "preferredVariantId": "v-66361206d4",
+      "variants": [
+        {
+          "id": "v-66361206d4",
+          "answer": "Cardiac plexus",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-659"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-102703d9d4",
+      "question": "Formation",
+      "preferredVariantId": "v-835cc564f0",
+      "variants": [
+        {
+          "id": "v-835cc564f0",
+          "answer": "Autonomic plexus formed by sympathetic cardiac nerves and parasympathetic vagal branches.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-660"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-dce6d816be",
+      "question": "Function",
+      "preferredVariantId": "v-e8c48ca741",
+      "variants": [
+        {
+          "id": "v-e8c48ca741",
+          "answer": "Modulates heart rate, conduction and contractility.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-661"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-dbbcfe8e5b",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-d53985b606",
+      "variants": [
+        {
+          "id": "v-d53985b606",
+          "answer": "Visceral afferent pain fibres from the heart travel largely with sympathetic pathways to upper thoracic spinal levels.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-662"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "thorax-model-hs21",
+      "section": "Nerves",
+      "path": [
+        "47"
+      ],
+      "label": "47"
+    }
+  ]
+}

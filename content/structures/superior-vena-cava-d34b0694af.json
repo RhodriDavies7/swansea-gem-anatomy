@@ -25,9 +25,15 @@
     "Course",
     "Drainage",
     "Formation",
+    "Heart",
+    "HeartStructure",
+    "Identification",
+    "RightAtrium",
     "Vein"
   ],
-  "imageIds": [],
+  "imageIds": [
+    "img-c723c0c05409"
+  ],
   "facts": [
     {
       "id": "f-9d2c706308",
@@ -47,6 +53,14 @@
               "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
               "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-164",
               "sourceLine": 164
+            },
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-437"
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-478"
             }
           ]
         }
@@ -144,6 +158,26 @@
               "sourceLine": 167
             }
           ]
+        },
+        {
+          "id": "v-db8cffbcd0",
+          "answer": "Returns systemic venous blood from above the diaphragm to the right atrium.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-438"
+            }
+          ]
+        },
+        {
+          "id": "v-22c7285f1f",
+          "answer": "Returns systemic venous blood from above the diaphragm to right atrium.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-479"
+            }
+          ]
         }
       ],
       "editorialReview": {
@@ -168,6 +202,24 @@
         "22"
       ],
       "label": "22"
+    },
+    {
+      "modelId": "thorax-model-hs21",
+      "section": "Heart / Right atrium",
+      "path": [
+        "38",
+        "5"
+      ],
+      "label": "5"
+    },
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Thorax",
+      "path": [
+        "57",
+        "c"
+      ],
+      "label": "c"
     }
   ]
 }

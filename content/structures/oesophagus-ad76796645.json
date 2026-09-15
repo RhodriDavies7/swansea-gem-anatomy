@@ -8,7 +8,8 @@
     "Other"
   ],
   "regions": [
-    "Head and neck"
+    "Head and neck",
+    "Thorax"
   ],
   "systems": [
     "Respiratory"
@@ -19,9 +20,12 @@
   "tags": [
     "Course",
     "Function",
+    "Identification",
     "MajorOrgans",
     "Relations",
-    "Tube"
+    "Thorax",
+    "Tube",
+    "Viscera"
   ],
   "imageIds": [],
   "facts": [
@@ -38,6 +42,14 @@
               "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
               "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-20",
               "sourceLine": 20
+            },
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-152"
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-444"
             }
           ]
         }
@@ -58,6 +70,26 @@
               "sourceLine": 21
             }
           ]
+        },
+        {
+          "id": "v-ae2767d7f4",
+          "answer": "Transports swallowed material from pharynx to stomach by peristalsis.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-153"
+            }
+          ]
+        },
+        {
+          "id": "v-38b6efaf28",
+          "answer": "Transports swallowed material to stomach by peristalsis.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-445"
+            }
+          ]
         }
       ]
     },
@@ -74,6 +106,26 @@
               "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
               "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-22",
               "sourceLine": 22
+            }
+          ]
+        },
+        {
+          "id": "v-032927400a",
+          "answer": "Descends through superior and posterior mediastinum and passes through diaphragm at T10.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-154"
+            }
+          ]
+        },
+        {
+          "id": "v-8596967ff4",
+          "answer": "Descends through posterior mediastinum and passes through diaphragm at T10.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-446"
             }
           ]
         }
@@ -106,6 +158,22 @@
         "D"
       ],
       "label": "D"
+    },
+    {
+      "modelId": "thorax-model-hs21",
+      "section": "Viscera",
+      "path": [
+        "25"
+      ],
+      "label": "25"
+    },
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Thorax",
+      "path": [
+        "56"
+      ],
+      "label": "56"
     }
   ]
 }

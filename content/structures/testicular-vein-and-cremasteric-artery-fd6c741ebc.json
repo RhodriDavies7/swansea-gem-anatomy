@@ -1,0 +1,70 @@
+{
+  "id": "testicular-vein-and-cremasteric-artery-fd6c741ebc",
+  "name": "Testicular vein and cremasteric artery",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "VesselGroup"
+  ],
+  "systems": [
+    "Digestive"
+  ],
+  "regions": [
+    "Abdomen"
+  ],
+  "organs": [],
+  "tags": [
+    "Abdomen",
+    "Function",
+    "Identification",
+    "VesselGroup"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-54f6f2ecf3",
+      "question": "Identification",
+      "preferredVariantId": "v-fd6c741ebc",
+      "variants": [
+        {
+          "id": "v-fd6c741ebc",
+          "answer": "Testicular vein and cremasteric artery",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-668"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-0f64afb672",
+      "question": "Function",
+      "preferredVariantId": "v-8772de46e2",
+      "variants": [
+        {
+          "id": "v-8772de46e2",
+          "answer": "Testicular vein drains gonadal blood; cremasteric artery supplies coverings of spermatic cord/testis.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-669"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Abdomen",
+      "path": [
+        "84"
+      ],
+      "label": "84"
+    }
+  ]
+}

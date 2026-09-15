@@ -8,7 +8,8 @@
     "Other"
   ],
   "regions": [
-    "Head and neck"
+    "Head and neck",
+    "Thorax"
   ],
   "systems": [
     "Respiratory"
@@ -17,16 +18,21 @@
     "Larynx"
   ],
   "tags": [
+    "Airway",
     "Course",
     "Function",
+    "Identification",
     "LaryngealStructures",
     "MajorOrgans",
     "MidSagittal",
+    "NoseMouthNeck",
     "Relations",
     "Structure",
     "Tube"
   ],
-  "imageIds": [],
+  "imageIds": [
+    "img-0480b1d7b3c5"
+  ],
   "facts": [
     {
       "id": "f-9d2c706308",
@@ -51,6 +57,14 @@
               "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
               "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-14",
               "sourceLine": 14
+            },
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-194"
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-409"
             }
           ]
         }
@@ -85,6 +99,20 @@
               "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
               "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-15",
               "sourceLine": 15
+            }
+          ]
+        },
+        {
+          "id": "v-18f2a365b4",
+          "answer": "Conducts air from larynx to main bronchi.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-195"
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-410"
             }
           ]
         }
@@ -123,6 +151,16 @@
               "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
               "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-16",
               "sourceLine": 16
+            }
+          ]
+        },
+        {
+          "id": "v-0206a990cb",
+          "answer": "Supported by C-shaped hyaline cartilage rings.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-197"
             }
           ]
         }
@@ -180,6 +218,26 @@
               "sourceLine": 17
             }
           ]
+        },
+        {
+          "id": "v-024393d10b",
+          "answer": "Begins at C6 and bifurcates at the carina around T4–T5.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-196"
+            }
+          ]
+        },
+        {
+          "id": "v-bd2cb0a7ff",
+          "answer": "Begins at C6 and bifurcates near T4–T5.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-411"
+            }
+          ]
         }
       ]
     }
@@ -208,6 +266,22 @@
         "C"
       ],
       "label": "C"
+    },
+    {
+      "modelId": "thorax-model-hs21",
+      "section": "Larynx, bronchial tree and lungs",
+      "path": [
+        "33"
+      ],
+      "label": "33"
+    },
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Nose, mouth and neck",
+      "path": [
+        "49"
+      ],
+      "label": "49"
     }
   ]
 }

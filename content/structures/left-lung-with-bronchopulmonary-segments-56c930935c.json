@@ -1,0 +1,138 @@
+{
+  "id": "left-lung-with-bronchopulmonary-segments-56c930935c",
+  "name": "Left lung with bronchopulmonary segments",
+  "aliases": [
+    "Left lung"
+  ],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Organs"
+  ],
+  "systems": [
+    "Respiratory"
+  ],
+  "regions": [
+    "Thorax"
+  ],
+  "organs": [],
+  "tags": [
+    "Function",
+    "Identification",
+    "LeftLung",
+    "Organ",
+    "Parts",
+    "Thorax"
+  ],
+  "imageIds": [
+    "img-3d3cd77b4930"
+  ],
+  "facts": [
+    {
+      "id": "f-f7b899ad3d",
+      "question": "Identification",
+      "preferredVariantId": "v-56c930935c",
+      "variants": [
+        {
+          "id": "v-56c930935c",
+          "answer": "Left lung with bronchopulmonary segments",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-350"
+            }
+          ]
+        },
+        {
+          "id": "v-e290929e11",
+          "answer": "Left lung",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-430"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c2d4609943",
+      "question": "Lobes",
+      "preferredVariantId": "v-bfc2166e56",
+      "variants": [
+        {
+          "id": "v-bfc2166e56",
+          "answer": "Upper and lower lobes; the lingula forms part of the upper lobe.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-351"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-4491efc5ab",
+      "question": "Function",
+      "preferredVariantId": "v-c8ef36e931",
+      "variants": [
+        {
+          "id": "v-c8ef36e931",
+          "answer": "Gas exchange; organised into bronchopulmonary segments.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-352"
+            }
+          ]
+        },
+        {
+          "id": "v-d63024503c",
+          "answer": "Gas exchange.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-432"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-89bf8333d0",
+      "question": "Parts",
+      "preferredVariantId": "v-05084afcd8",
+      "variants": [
+        {
+          "id": "v-05084afcd8",
+          "answer": "Upper and lower lobes with lingula on upper lobe.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-431"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "thorax-model-hs21",
+      "section": "Larynx, bronchial tree and lungs",
+      "path": [
+        "37"
+      ],
+      "label": "37"
+    },
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Thorax",
+      "path": [
+        "53"
+      ],
+      "label": "53"
+    }
+  ]
+}

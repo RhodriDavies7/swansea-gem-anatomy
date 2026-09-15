@@ -1,0 +1,126 @@
+{
+  "id": "multifidus-muscle-0520f948ac",
+  "name": "Multifidus muscle",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "regions": [
+    "Thorax"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "Identification",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Muscles",
+    "Origin"
+  ],
+  "imageIds": [
+    "img-d7b4c7c70785"
+  ],
+  "facts": [
+    {
+      "id": "f-9ade104f55",
+      "question": "Identification",
+      "preferredVariantId": "v-0520f948ac",
+      "variants": [
+        {
+          "id": "v-0520f948ac",
+          "answer": "Multifidus muscle",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-100"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-e0dcce319d",
+      "question": "Actions",
+      "preferredVariantId": "v-9a3debca01",
+      "variants": [
+        {
+          "id": "v-9a3debca01",
+          "answer": "Stabilises vertebrae; assists spinal extension and contralateral rotation.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-101"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-7451338bf6",
+      "question": "Innervation",
+      "preferredVariantId": "v-bc6d8d489f",
+      "variants": [
+        {
+          "id": "v-bc6d8d489f",
+          "answer": "Posterior rami of spinal nerves.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-102"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-764ef62207",
+      "question": "Origin",
+      "preferredVariantId": "v-7c8e52f7a9",
+      "variants": [
+        {
+          "id": "v-7c8e52f7a9",
+          "answer": "Sacrum, transverse processes and articular processes depending on level.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-103"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-bd3907de5d",
+      "question": "Insertion",
+      "preferredVariantId": "v-341d16deb0",
+      "variants": [
+        {
+          "id": "v-341d16deb0",
+          "answer": "Spinous processes 2–4 vertebral levels above.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-104"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "thorax-model-hs21",
+      "section": "Muscles and tendons",
+      "path": [
+        "17"
+      ],
+      "label": "17"
+    }
+  ]
+}

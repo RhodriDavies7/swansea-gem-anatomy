@@ -1,0 +1,90 @@
+{
+  "id": "fifth-cervical-vertebra-6956a78764",
+  "name": "Fifth cervical vertebra",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Bones"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "regions": [
+    "Thorax"
+  ],
+  "organs": [],
+  "tags": [
+    "Bone",
+    "Bones",
+    "Identification",
+    "Landmarks",
+    "Location"
+  ],
+  "imageIds": [
+    "img-1924722768f1"
+  ],
+  "facts": [
+    {
+      "id": "f-4ef472b31e",
+      "question": "Identification",
+      "preferredVariantId": "v-6956a78764",
+      "variants": [
+        {
+          "id": "v-6956a78764",
+          "answer": "Fifth cervical vertebra",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c7be8b72fd",
+      "question": "Region",
+      "preferredVariantId": "v-0fbcbcaf7f",
+      "variants": [
+        {
+          "id": "v-0fbcbcaf7f",
+          "answer": "Typical cervical vertebra within the lower cervical spine.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-ade4bba92b",
+      "question": "Key features",
+      "preferredVariantId": "v-858f37d608",
+      "variants": [
+        {
+          "id": "v-858f37d608",
+          "answer": "Small body, large triangular vertebral foramen, transverse foramina and usually bifid spinous process.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-7"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "thorax-model-hs21",
+      "section": "Bones and cartilages",
+      "path": [
+        "1"
+      ],
+      "label": "1"
+    }
+  ]
+}

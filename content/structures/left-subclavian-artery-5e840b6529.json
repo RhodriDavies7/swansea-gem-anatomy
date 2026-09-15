@@ -1,0 +1,90 @@
+{
+  "id": "left-subclavian-artery-5e840b6529",
+  "name": "Left subclavian artery",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Arteries"
+  ],
+  "systems": [
+    "Cardiovascular"
+  ],
+  "regions": [
+    "Thorax"
+  ],
+  "organs": [],
+  "tags": [
+    "Artery",
+    "Identification",
+    "Origin",
+    "Supply",
+    "Vessels"
+  ],
+  "imageIds": [
+    "img-8321b18e69c5"
+  ],
+  "facts": [
+    {
+      "id": "f-0cea36106f",
+      "question": "Identification",
+      "preferredVariantId": "v-5e840b6529",
+      "variants": [
+        {
+          "id": "v-5e840b6529",
+          "answer": "Left subclavian artery",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-531"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-ba6c324f1c",
+      "question": "Origin",
+      "preferredVariantId": "v-76609017e9",
+      "variants": [
+        {
+          "id": "v-76609017e9",
+          "answer": "Third major branch of the aortic arch.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-532"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-2f19b65fe9",
+      "question": "Supply",
+      "preferredVariantId": "v-cbf5861312",
+      "variants": [
+        {
+          "id": "v-cbf5861312",
+          "answer": "Supplies the left upper limb and contributes to head, neck and thoracic supply.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-533"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "thorax-model-hs21",
+      "section": "Vessels",
+      "path": [
+        "25"
+      ],
+      "label": "25"
+    }
+  ]
+}

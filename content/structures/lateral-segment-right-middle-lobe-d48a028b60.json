@@ -1,0 +1,80 @@
+{
+  "id": "lateral-segment-right-middle-lobe-d48a028b60",
+  "name": "Lateral segment (right middle lobe)",
+  "aliases": [
+    "Lateral segment"
+  ],
+  "scope": "right middle lobe",
+  "kind": "structure",
+  "types": [
+    "BronchopulmonarySegment"
+  ],
+  "systems": [
+    "Respiratory"
+  ],
+  "regions": [
+    "Thorax"
+  ],
+  "organs": [],
+  "tags": [
+    "BronchopulmonarySegment",
+    "Definition",
+    "Identification",
+    "MiddleLobe",
+    "RightLung"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-e146dd18a2",
+      "question": "Identification",
+      "preferredVariantId": "v-d48a028b60",
+      "variants": [
+        {
+          "id": "v-fb5a8a0e4c",
+          "answer": "Lateral segment",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-318"
+            }
+          ]
+        },
+        {
+          "id": "v-d48a028b60",
+          "answer": "Lateral segment (right middle lobe)",
+          "sources": []
+        }
+      ]
+    },
+    {
+      "id": "f-6b65931060",
+      "question": "Definition",
+      "preferredVariantId": "v-99d62b49cf",
+      "variants": [
+        {
+          "id": "v-99d62b49cf",
+          "answer": "An anatomically discrete lung unit supplied by a segmental bronchus and pulmonary arterial branch.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-319"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "thorax-model-hs21",
+      "section": "Larynx, bronchial tree and lungs / right middle lobe",
+      "path": [
+        "36",
+        "36b",
+        "4"
+      ],
+      "label": "4"
+    }
+  ]
+}

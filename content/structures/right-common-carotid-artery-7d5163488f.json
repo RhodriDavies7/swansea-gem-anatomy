@@ -1,0 +1,90 @@
+{
+  "id": "right-common-carotid-artery-7d5163488f",
+  "name": "Right common carotid artery",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Arteries"
+  ],
+  "systems": [
+    "Cardiovascular"
+  ],
+  "regions": [
+    "Thorax"
+  ],
+  "organs": [],
+  "tags": [
+    "Artery",
+    "Identification",
+    "Origin",
+    "Supply",
+    "Vessels"
+  ],
+  "imageIds": [
+    "img-6b77c4ae7b4b"
+  ],
+  "facts": [
+    {
+      "id": "f-a0a7d9efda",
+      "question": "Identification",
+      "preferredVariantId": "v-7d5163488f",
+      "variants": [
+        {
+          "id": "v-7d5163488f",
+          "answer": "Right common carotid artery",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-536"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9293e13dd8",
+      "question": "Origin",
+      "preferredVariantId": "v-8f76516b40",
+      "variants": [
+        {
+          "id": "v-8f76516b40",
+          "answer": "Branch of the brachiocephalic trunk.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-537"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-3837097b34",
+      "question": "Supply",
+      "preferredVariantId": "v-b7639b794c",
+      "variants": [
+        {
+          "id": "v-b7639b794c",
+          "answer": "Supplies the right head and neck via internal and external carotid arteries.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-538"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "thorax-model-hs21",
+      "section": "Vessels",
+      "path": [
+        "26"
+      ],
+      "label": "26"
+    }
+  ]
+}

@@ -8,7 +8,8 @@
     "Cartilage"
   ],
   "regions": [
-    "Head and neck"
+    "Head and neck",
+    "Thorax"
   ],
   "systems": [
     "Musculoskeletal",
@@ -18,10 +19,12 @@
     "Larynx"
   ],
   "tags": [
+    "Airway",
     "Cartilage",
     "CartilagesAndBones",
     "Clinical",
     "Function",
+    "Identification",
     "LaryngealStructures",
     "Larynx",
     "LarynxAndAirway",
@@ -29,7 +32,9 @@
     "Relations",
     "Structure"
   ],
-  "imageIds": [],
+  "imageIds": [
+    "img-a323a190e5e5"
+  ],
   "facts": [
     {
       "id": "f-9d2c706308",
@@ -69,6 +74,10 @@
               "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
               "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-55",
               "sourceLine": 55
+            },
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-189"
             }
           ]
         }
@@ -124,6 +133,10 @@
               "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
               "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-56",
               "sourceLine": 56
+            },
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-190"
             }
           ]
         },
@@ -258,6 +271,10 @@
               "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
               "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-58",
               "sourceLine": 58
+            },
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-191"
             }
           ]
         },
@@ -355,6 +372,14 @@
         "3"
       ],
       "label": "3"
+    },
+    {
+      "modelId": "thorax-model-hs21",
+      "section": "Larynx, bronchial tree and lungs",
+      "path": [
+        "32"
+      ],
+      "label": "32"
     }
   ]
 }

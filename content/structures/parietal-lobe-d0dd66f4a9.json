@@ -17,7 +17,8 @@
   "tags": [
     "Brain",
     "CNS",
-    "Function"
+    "Function",
+    "Identification"
   ],
   "imageIds": [],
   "facts": [
@@ -34,6 +35,10 @@
               "modelId": "head-and-neck-model-cs17-2",
               "cardId": "head-and-neck-model-cs17-2-624",
               "sourceLine": 624
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-90"
             }
           ]
         }
@@ -52,6 +57,10 @@
               "modelId": "head-and-neck-model-cs17-2",
               "cardId": "head-and-neck-model-cs17-2-625",
               "sourceLine": 625
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-91"
             }
           ]
         }
@@ -66,6 +75,14 @@
         "F"
       ],
       "label": "F"
+    },
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Brain",
+      "path": [
+        "4"
+      ],
+      "label": "4"
     }
   ]
 }

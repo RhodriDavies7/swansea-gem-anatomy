@@ -1,0 +1,90 @@
+{
+  "id": "second-lumbar-vertebra-fe08312dd9",
+  "name": "Second lumbar vertebra",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Bones"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "regions": [
+    "Thorax"
+  ],
+  "organs": [],
+  "tags": [
+    "Bone",
+    "Bones",
+    "Function",
+    "Identification",
+    "Location"
+  ],
+  "imageIds": [
+    "img-9919e1031685"
+  ],
+  "facts": [
+    {
+      "id": "f-891db6a209",
+      "question": "Identification",
+      "preferredVariantId": "v-fe08312dd9",
+      "variants": [
+        {
+          "id": "v-fe08312dd9",
+          "answer": "Second lumbar vertebra",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-30"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-cae48471ba",
+      "question": "Region",
+      "preferredVariantId": "v-e31b1a7bb6",
+      "variants": [
+        {
+          "id": "v-e31b1a7bb6",
+          "answer": "Lumbar vertebra between L1 and L3.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-31"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-2cb1b12f89",
+      "question": "Function",
+      "preferredVariantId": "v-c9944b1e96",
+      "variants": [
+        {
+          "id": "v-c9944b1e96",
+          "answer": "Supports axial load and contributes to flexion and extension of the lumbar spine.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-32"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "thorax-model-hs21",
+      "section": "Bones and cartilages",
+      "path": [
+        "6"
+      ],
+      "label": "6"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "aortic-bifurcation-26a5ccb017",
+  "name": "Aortic bifurcation",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Landmark"
+  ],
+  "systems": [
+    "Digestive"
+  ],
+  "regions": [
+    "Abdomen"
+  ],
+  "organs": [],
+  "tags": [
+    "Abdomen",
+    "Identification",
+    "Landmark",
+    "Location"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-ccda7a596b",
+      "question": "Identification",
+      "preferredVariantId": "v-26a5ccb017",
+      "variants": [
+        {
+          "id": "v-26a5ccb017",
+          "answer": "Aortic bifurcation",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-672"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-0a2ad7ae56",
+      "question": "Location",
+      "preferredVariantId": "v-b25d1cccca",
+      "variants": [
+        {
+          "id": "v-b25d1cccca",
+          "answer": "Abdominal aorta divides into common iliac arteries around L4.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-673"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Abdomen",
+      "path": [
+        "85"
+      ],
+      "label": "85"
+    }
+  ]
+}

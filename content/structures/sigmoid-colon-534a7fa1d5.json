@@ -1,0 +1,70 @@
+{
+  "id": "sigmoid-colon-534a7fa1d5",
+  "name": "Sigmoid colon",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Organs"
+  ],
+  "systems": [
+    "Digestive"
+  ],
+  "regions": [
+    "Abdomen"
+  ],
+  "organs": [],
+  "tags": [
+    "Abdomen",
+    "Course",
+    "Identification",
+    "Organ"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-4abc7b91bb",
+      "question": "Identification",
+      "preferredVariantId": "v-534a7fa1d5",
+      "variants": [
+        {
+          "id": "v-534a7fa1d5",
+          "answer": "Sigmoid colon",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-594"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-3b34433653",
+      "question": "Course",
+      "preferredVariantId": "v-586de150e2",
+      "variants": [
+        {
+          "id": "v-586de150e2",
+          "answer": "S-shaped intraperitoneal segment connecting descending colon to rectum.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-595"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Abdomen",
+      "path": [
+        "68"
+      ],
+      "label": "68"
+    }
+  ]
+}

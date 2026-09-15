@@ -20,6 +20,10 @@
     "AuriclesVesselsValves",
     "Clinical",
     "Drainage",
+    "Heart",
+    "HeartStructure",
+    "Identification",
+    "LeftAtrium",
     "Structure",
     "Vein"
   ],
@@ -38,6 +42,14 @@
               "modelId": "heart-model-hs5",
               "cardId": "heart-model-hs5-84",
               "sourceLine": 84
+            },
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-473"
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-486"
             }
           ]
         }
@@ -56,6 +68,26 @@
               "modelId": "heart-model-hs5",
               "cardId": "heart-model-hs5-85",
               "sourceLine": 85
+            }
+          ]
+        },
+        {
+          "id": "v-5234103290",
+          "answer": "Return oxygenated blood from the lungs to the left atrium.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-474"
+            }
+          ]
+        },
+        {
+          "id": "v-46ec4a69f1",
+          "answer": "Return oxygenated blood from lungs to left atrium.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-487"
             }
           ]
         }
@@ -106,6 +138,24 @@
         "g"
       ],
       "label": "g"
+    },
+    {
+      "modelId": "thorax-model-hs21",
+      "section": "Heart / Left atrium",
+      "path": [
+        "38",
+        "13"
+      ],
+      "label": "13"
+    },
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Thorax",
+      "path": [
+        "57",
+        "e"
+      ],
+      "label": "e"
     }
   ]
 }

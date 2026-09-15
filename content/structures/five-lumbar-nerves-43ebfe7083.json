@@ -1,0 +1,88 @@
+{
+  "id": "five-lumbar-nerves-43ebfe7083",
+  "name": "Five lumbar nerves",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "NerveGroup"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "regions": [
+    "Back"
+  ],
+  "organs": [],
+  "tags": [
+    "Function",
+    "Identification",
+    "NerveGroup",
+    "Roots",
+    "SpinalNerves"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-ad68b3e937",
+      "question": "Identification",
+      "preferredVariantId": "v-43ebfe7083",
+      "variants": [
+        {
+          "id": "v-43ebfe7083",
+          "answer": "Five lumbar nerves",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-862"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-0262bcbcb2",
+      "question": "Roots",
+      "preferredVariantId": "v-09978a734b",
+      "variants": [
+        {
+          "id": "v-09978a734b",
+          "answer": "L1–L5 spinal nerves.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-863"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-104efb1d1a",
+      "question": "Function",
+      "preferredVariantId": "v-9a5439c10c",
+      "variants": [
+        {
+          "id": "v-9a5439c10c",
+          "answer": "Contribute to lumbar and lumbosacral plexuses for abdominal wall and lower limb innervation.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-864"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Spinal nerves",
+      "path": [
+        "3"
+      ],
+      "label": "3"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "ascending-colon-7144e8381d",
+  "name": "Ascending colon",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Organs"
+  ],
+  "systems": [
+    "Digestive"
+  ],
+  "regions": [
+    "Abdomen"
+  ],
+  "organs": [],
+  "tags": [
+    "Abdomen",
+    "Course",
+    "Identification",
+    "Organ"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9aa17e915a",
+      "question": "Identification",
+      "preferredVariantId": "v-7144e8381d",
+      "variants": [
+        {
+          "id": "v-7144e8381d",
+          "answer": "Ascending colon",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-582"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-a7804bd6e9",
+      "question": "Course",
+      "preferredVariantId": "v-f75b2e6380",
+      "variants": [
+        {
+          "id": "v-f75b2e6380",
+          "answer": "Ascends from caecum to hepatic flexure.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-583"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Abdomen",
+      "path": [
+        "65"
+      ],
+      "label": "65"
+    }
+  ]
+}

@@ -8,7 +8,8 @@
     "Other"
   ],
   "regions": [
-    "Head and neck"
+    "Head and neck",
+    "Thorax"
   ],
   "systems": [
     "Cardiovascular",
@@ -20,6 +21,8 @@
   "tags": [
     "CardiacVesselsValves",
     "Function",
+    "Heart",
+    "Identification",
     "Location",
     "Structure",
     "Valve"
@@ -39,6 +42,10 @@
               "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
               "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-188",
               "sourceLine": 188
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-506"
             }
           ]
         }
@@ -95,6 +102,16 @@
               "sourceLine": 191
             }
           ]
+        },
+        {
+          "id": "v-56a4af79e1",
+          "answer": "Prevents diastolic backflow from pulmonary trunk to right ventricle.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-507"
+            }
+          ]
         }
       ]
     }
@@ -107,6 +124,15 @@
         "26"
       ],
       "label": "26"
+    },
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Thorax",
+      "path": [
+        "57",
+        "k"
+      ],
+      "label": "k"
     }
   ]
 }

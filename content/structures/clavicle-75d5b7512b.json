@@ -8,7 +8,8 @@
     "Bones"
   ],
   "regions": [
-    "Upper limb"
+    "Upper limb",
+    "Head and neck"
   ],
   "systems": [
     "Musculoskeletal"
@@ -18,6 +19,9 @@
     "Articulations",
     "Attachments",
     "Bone",
+    "Bones",
+    "Function",
+    "Identification",
     "Landmarks",
     "Orientation"
   ],
@@ -43,6 +47,10 @@
               "modelId": "upper-limb-model-ns15",
               "cardId": "upper-limb-model-ns15-546",
               "sourceLine": 546
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-45"
             }
           ]
         }
@@ -72,6 +80,16 @@
               "modelId": "upper-limb-model-ns15",
               "cardId": "upper-limb-model-ns15-547",
               "sourceLine": 547
+            }
+          ]
+        },
+        {
+          "id": "v-a8919a56ba",
+          "answer": "Articulates with sternum medially and acromion laterally.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-47"
             }
           ]
         }
@@ -169,6 +187,23 @@
         "date": "2026-09-11",
         "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
       }
+    },
+    {
+      "id": "f-1a247b9649",
+      "question": "Function",
+      "preferredVariantId": "v-e9a011c37b",
+      "variants": [
+        {
+          "id": "v-e9a011c37b",
+          "answer": "Acts as a strut holding the upper limb away from the trunk and transmits forces to the axial skeleton.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-46"
+            }
+          ]
+        }
+      ]
     }
   ],
   "occurrences": [
@@ -187,6 +222,14 @@
         "85"
       ],
       "label": "85"
+    },
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Bones",
+      "path": [
+        "IX"
+      ],
+      "label": "IX"
     }
   ]
 }

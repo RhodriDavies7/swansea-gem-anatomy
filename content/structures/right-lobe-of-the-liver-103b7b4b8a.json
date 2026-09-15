@@ -1,7 +1,9 @@
 {
   "id": "right-lobe-of-the-liver-103b7b4b8a",
   "name": "Right lobe of the liver",
-  "aliases": [],
+  "aliases": [
+    "Right lobe of liver"
+  ],
   "scope": "",
   "kind": "structure",
   "types": [
@@ -17,8 +19,12 @@
     "Liver"
   ],
   "tags": [
+    "Abdomen",
     "Function",
+    "Identification",
+    "Liver",
     "LiverLobe",
+    "LiverStructure",
     "LobesAndLandmarks",
     "Location",
     "Relations"
@@ -38,6 +44,16 @@
               "modelId": "liver-js5",
               "cardId": "liver-js5-3",
               "sourceLine": 3
+            }
+          ]
+        },
+        {
+          "id": "v-45879443ab",
+          "answer": "Right lobe of liver",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-715"
             }
           ]
         }
@@ -76,6 +92,16 @@
               "sourceLine": 5
             }
           ]
+        },
+        {
+          "id": "v-306c8cd8fb",
+          "answer": "Named lobe, vessel or duct related to the liver.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-716"
+            }
+          ]
         }
       ]
     },
@@ -106,6 +132,14 @@
         "1"
       ],
       "label": "1"
+    },
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Abdomen / Liver",
+      "path": [
+        "a"
+      ],
+      "label": "a"
     }
   ]
 }

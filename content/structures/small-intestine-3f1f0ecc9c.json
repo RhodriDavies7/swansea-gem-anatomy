@@ -1,0 +1,90 @@
+{
+  "id": "small-intestine-3f1f0ecc9c",
+  "name": "Small intestine",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Organs"
+  ],
+  "systems": [
+    "Digestive"
+  ],
+  "regions": [
+    "Thorax"
+  ],
+  "organs": [],
+  "tags": [
+    "Function",
+    "Identification",
+    "Organ",
+    "Parts",
+    "Viscera"
+  ],
+  "imageIds": [
+    "img-ce3eb96bbd0d"
+  ],
+  "facts": [
+    {
+      "id": "f-874ca3068f",
+      "question": "Identification",
+      "preferredVariantId": "v-3f1f0ecc9c",
+      "variants": [
+        {
+          "id": "v-3f1f0ecc9c",
+          "answer": "Small intestine",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-173"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-956e66edca",
+      "question": "Function",
+      "preferredVariantId": "v-7fb4d94a3e",
+      "variants": [
+        {
+          "id": "v-7fb4d94a3e",
+          "answer": "Principal site of digestion and nutrient absorption.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-174"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-21e72cbdc0",
+      "question": "Parts",
+      "preferredVariantId": "v-3270f9a2ee",
+      "variants": [
+        {
+          "id": "v-3270f9a2ee",
+          "answer": "Duodenum, jejunum and ileum.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-175"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "thorax-model-hs21",
+      "section": "Viscera",
+      "path": [
+        "29"
+      ],
+      "label": "29"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "id": "internal-thoracic-artery-892364a412",
+  "name": "Internal thoracic artery",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Arteries"
+  ],
+  "systems": [
+    "Cardiovascular"
+  ],
+  "regions": [
+    "Thorax"
+  ],
+  "organs": [],
+  "tags": [
+    "Artery",
+    "Branches",
+    "Course",
+    "Identification",
+    "Origin",
+    "Vessels"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-105e6f04d6",
+      "question": "Identification",
+      "preferredVariantId": "v-892364a412",
+      "variants": [
+        {
+          "id": "v-892364a412",
+          "answer": "Internal thoracic artery",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-552"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-92e8344f22",
+      "question": "Origin",
+      "preferredVariantId": "v-170a534b7c",
+      "variants": [
+        {
+          "id": "v-170a534b7c",
+          "answer": "Branch of the subclavian artery.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-553"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-770e6284c4",
+      "question": "Course",
+      "preferredVariantId": "v-d253a827e4",
+      "variants": [
+        {
+          "id": "v-d253a827e4",
+          "answer": "Descends along the inner anterior thoracic wall.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-554"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c006fbfe6a",
+      "question": "Branches",
+      "preferredVariantId": "v-2cac97851c",
+      "variants": [
+        {
+          "id": "v-2cac97851c",
+          "answer": "Includes anterior intercostal branches and terminal musculophrenic and superior epigastric arteries.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-555"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "thorax-model-hs21",
+      "section": "Vessels",
+      "path": [
+        "29"
+      ],
+      "label": "29"
+    }
+  ]
+}

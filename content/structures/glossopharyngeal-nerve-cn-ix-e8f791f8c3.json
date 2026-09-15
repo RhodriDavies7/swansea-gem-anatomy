@@ -20,6 +20,9 @@
   "tags": [
     "Brain",
     "Course",
+    "CranialNerves",
+    "Function",
+    "Identification",
     "Lesion",
     "Motor",
     "Nerve",
@@ -55,6 +58,10 @@
               "modelId": "larynx-and-tongue-model-gs4",
               "cardId": "larynx-and-tongue-model-gs4-262",
               "sourceLine": 262
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-261"
             }
           ]
         }
@@ -291,12 +298,39 @@
               "sourceLine": 267
             }
           ]
+        },
+        {
+          "id": "v-0bcb96afe0",
+          "answer": "Loss of posterior tongue taste/sensation, impaired afferent gag reflex and dysphagia.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-263"
+            }
+          ]
         }
       ],
       "editorialReview": {
         "date": "2026-09-11",
         "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
       }
+    },
+    {
+      "id": "f-5e55ebedd0",
+      "question": "Function",
+      "preferredVariantId": "v-8ce562d178",
+      "variants": [
+        {
+          "id": "v-8ce562d178",
+          "answer": "Taste and sensation posterior third of tongue; motor to stylopharyngeus; afferent gag reflex; parasympathetic to parotid.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-262"
+            }
+          ]
+        }
+      ]
     }
   ],
   "occurrences": [
@@ -323,6 +357,14 @@
         "11"
       ],
       "label": "11"
+    },
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Cranial nerves",
+      "path": [
+        "IX"
+      ],
+      "label": "IX"
     }
   ]
 }

@@ -8,16 +8,19 @@
     "Organs"
   ],
   "regions": [
-    "Pelvis"
+    "Pelvis",
+    "Abdomen"
   ],
   "systems": [
     "Reproductive"
   ],
   "organs": [],
   "tags": [
+    "Abdomen",
     "BloodSupply",
     "Course",
     "Function",
+    "Identification",
     "Lymphatics",
     "Organ",
     "Relations"
@@ -47,6 +50,10 @@
               "modelId": "male-reproductive-system-model-ms2",
               "cardId": "male-reproductive-system-model-ms2-188",
               "sourceLine": 188
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-598"
             }
           ]
         }
@@ -75,6 +82,10 @@
               "modelId": "male-reproductive-system-model-ms2",
               "cardId": "male-reproductive-system-model-ms2-189",
               "sourceLine": 189
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-599"
             }
           ]
         }
@@ -280,6 +291,14 @@
         "20"
       ],
       "label": "20"
+    },
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Abdomen",
+      "path": [
+        "69"
+      ],
+      "label": "69"
     }
   ]
 }

@@ -1,0 +1,70 @@
+{
+  "id": "jejunum-07b3f95a27",
+  "name": "Jejunum",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Organs"
+  ],
+  "systems": [
+    "Digestive"
+  ],
+  "regions": [
+    "Abdomen"
+  ],
+  "organs": [],
+  "tags": [
+    "Abdomen",
+    "Function",
+    "Identification",
+    "Organ"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-89d0c018ac",
+      "question": "Identification",
+      "preferredVariantId": "v-07b3f95a27",
+      "variants": [
+        {
+          "id": "v-07b3f95a27",
+          "answer": "Jejunum",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-566"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6c435f01f3",
+      "question": "Function",
+      "preferredVariantId": "v-2f5534edc2",
+      "variants": [
+        {
+          "id": "v-2f5534edc2",
+          "answer": "Major site of nutrient absorption.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-567"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Abdomen",
+      "path": [
+        "61"
+      ],
+      "label": "61"
+    }
+  ]
+}

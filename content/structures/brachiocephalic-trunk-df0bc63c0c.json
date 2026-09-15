@@ -8,7 +8,8 @@
     "Arteries"
   ],
   "regions": [
-    "Head and neck"
+    "Head and neck",
+    "Thorax"
   ],
   "systems": [
     "Cardiovascular",
@@ -21,11 +22,16 @@
     "Artery",
     "Branches",
     "Course",
+    "Heart",
+    "HeartStructure",
+    "Identification",
     "MajorVessels",
     "Origin",
     "Supply"
   ],
-  "imageIds": [],
+  "imageIds": [
+    "img-2149c0731d9a"
+  ],
   "facts": [
     {
       "id": "f-9d2c706308",
@@ -40,6 +46,10 @@
               "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
               "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-226",
               "sourceLine": 226
+            },
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-520"
             }
           ]
         }
@@ -58,6 +68,10 @@
               "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
               "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-227",
               "sourceLine": 227
+            },
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-521"
             }
           ]
         }
@@ -94,6 +108,10 @@
               "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
               "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-229",
               "sourceLine": 229
+            },
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-522"
             }
           ]
         }
@@ -126,6 +144,15 @@
         "32"
       ],
       "label": "32"
+    },
+    {
+      "modelId": "thorax-model-hs21",
+      "section": "Heart / Left ventricle",
+      "path": [
+        "38",
+        "23"
+      ],
+      "label": "23"
     }
   ]
 }

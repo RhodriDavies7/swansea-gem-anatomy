@@ -1,7 +1,9 @@
 {
   "id": "tectum-of-midbrain-dfc32fe306",
   "name": "Tectum of midbrain",
-  "aliases": [],
+  "aliases": [
+    "Tectum of the midbrain"
+  ],
   "scope": "",
   "kind": "structure",
   "types": [
@@ -15,8 +17,10 @@
   ],
   "organs": [],
   "tags": [
+    "Brain",
     "CNS",
     "Function",
+    "Identification",
     "MidSagittal",
     "MidlineStructures",
     "Structure"
@@ -43,6 +47,16 @@
               "sourceLine": 176
             }
           ]
+        },
+        {
+          "id": "v-04942560ca",
+          "answer": "Tectum of the midbrain",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-144"
+            }
+          ]
         }
       ]
     },
@@ -64,6 +78,10 @@
               "modelId": "half-head-and-neck-model-bs9",
               "cardId": "half-head-and-neck-model-bs9-177",
               "sourceLine": 177
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-145"
             }
           ]
         }
@@ -95,6 +113,16 @@
               "sourceLine": 178
             }
           ]
+        },
+        {
+          "id": "v-7e3d8db982",
+          "answer": "Coordinates visual and auditory reflexes.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-146"
+            }
+          ]
         }
       ],
       "editorialReview": {
@@ -119,6 +147,14 @@
         "13"
       ],
       "label": "13"
+    },
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Brain",
+      "path": [
+        "17"
+      ],
+      "label": "17"
     }
   ]
 }

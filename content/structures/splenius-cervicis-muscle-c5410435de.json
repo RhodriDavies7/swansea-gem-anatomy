@@ -1,0 +1,126 @@
+{
+  "id": "splenius-cervicis-muscle-c5410435de",
+  "name": "Splenius cervicis muscle",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "regions": [
+    "Thorax"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "Identification",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Muscles",
+    "Origin"
+  ],
+  "imageIds": [
+    "img-caa17c40807e"
+  ],
+  "facts": [
+    {
+      "id": "f-0a6b91f3d7",
+      "question": "Identification",
+      "preferredVariantId": "v-c5410435de",
+      "variants": [
+        {
+          "id": "v-c5410435de",
+          "answer": "Splenius cervicis muscle",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-86"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6f2d0b0aef",
+      "question": "Actions",
+      "preferredVariantId": "v-fc36331907",
+      "variants": [
+        {
+          "id": "v-fc36331907",
+          "answer": "Extends the neck bilaterally; ipsilateral rotation and lateral flexion unilaterally.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-87"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-063c8281c4",
+      "question": "Innervation",
+      "preferredVariantId": "v-618592767b",
+      "variants": [
+        {
+          "id": "v-618592767b",
+          "answer": "Posterior rami of lower cervical spinal nerves.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-88"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-097449b996",
+      "question": "Origin",
+      "preferredVariantId": "v-3777e49015",
+      "variants": [
+        {
+          "id": "v-3777e49015",
+          "answer": "Spinous processes of upper thoracic vertebrae.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-89"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-07deca58d7",
+      "question": "Insertion",
+      "preferredVariantId": "v-72bc41fb39",
+      "variants": [
+        {
+          "id": "v-72bc41fb39",
+          "answer": "Transverse processes of upper cervical vertebrae.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-90"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "thorax-model-hs21",
+      "section": "Muscles and tendons",
+      "path": [
+        "15"
+      ],
+      "label": "15"
+    }
+  ]
+}

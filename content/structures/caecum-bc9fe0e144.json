@@ -1,0 +1,70 @@
+{
+  "id": "caecum-bc9fe0e144",
+  "name": "Caecum",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Organs"
+  ],
+  "systems": [
+    "Digestive"
+  ],
+  "regions": [
+    "Abdomen"
+  ],
+  "organs": [],
+  "tags": [
+    "Abdomen",
+    "Identification",
+    "Location",
+    "Organ"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-684aac1b49",
+      "question": "Identification",
+      "preferredVariantId": "v-bc9fe0e144",
+      "variants": [
+        {
+          "id": "v-bc9fe0e144",
+          "answer": "Caecum",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-578"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-76cf6b47a5",
+      "question": "Location",
+      "preferredVariantId": "v-6f9996e513",
+      "variants": [
+        {
+          "id": "v-6f9996e513",
+          "answer": "Blind-ending first part of large intestine in right iliac fossa.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-579"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Abdomen",
+      "path": [
+        "64"
+      ],
+      "label": "64"
+    }
+  ]
+}

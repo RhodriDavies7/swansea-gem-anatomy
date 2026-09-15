@@ -1,0 +1,114 @@
+{
+  "id": "first-lumbar-vertebra-8c465b36af",
+  "name": "First lumbar vertebra",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Bones"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "regions": [
+    "Thorax",
+    "Back"
+  ],
+  "organs": [],
+  "tags": [
+    "Bone",
+    "Bones",
+    "Dorsum",
+    "Function",
+    "Identification",
+    "Location"
+  ],
+  "imageIds": [
+    "img-03f930cf1b98"
+  ],
+  "facts": [
+    {
+      "id": "f-f4e4b60ebe",
+      "question": "Identification",
+      "preferredVariantId": "v-8c465b36af",
+      "variants": [
+        {
+          "id": "v-8c465b36af",
+          "answer": "First lumbar vertebra",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-25"
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-765"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-084b833362",
+      "question": "Region",
+      "preferredVariantId": "v-5ab56be4c4",
+      "variants": [
+        {
+          "id": "v-5ab56be4c4",
+          "answer": "Upper lumbar vertebra below T12.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-26"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-35a2d799f8",
+      "question": "Function",
+      "preferredVariantId": "v-9ac1a45a8e",
+      "variants": [
+        {
+          "id": "v-9ac1a45a8e",
+          "answer": "Supports substantial axial load and contributes to lumbar mobility.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-27"
+            }
+          ]
+        },
+        {
+          "id": "v-d293840dc2",
+          "answer": "Supports axial load in upper lumbar spine.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-766"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "thorax-model-hs21",
+      "section": "Bones and cartilages",
+      "path": [
+        "5"
+      ],
+      "label": "5"
+    },
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Dorsum",
+      "path": [
+        "96"
+      ],
+      "label": "96"
+    }
+  ]
+}

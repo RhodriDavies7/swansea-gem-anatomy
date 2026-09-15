@@ -1,14 +1,17 @@
 {
   "id": "upper-lobe-of-left-lung-68f0cc3ab7",
   "name": "Upper lobe of left lung",
-  "aliases": [],
+  "aliases": [
+    "Left upper lobe"
+  ],
   "scope": "",
   "kind": "structure",
   "types": [
     "Other"
   ],
   "regions": [
-    "Head and neck"
+    "Head and neck",
+    "Thorax"
   ],
   "systems": [
     "Respiratory"
@@ -18,11 +21,17 @@
   ],
   "tags": [
     "Function",
+    "Identification",
+    "LeftLung",
     "LungLobe",
     "LungLobes",
-    "Relations"
+    "Parts",
+    "Relations",
+    "UpperLobe"
   ],
-  "imageIds": [],
+  "imageIds": [
+    "img-1f91ac7d91ba"
+  ],
   "facts": [
     {
       "id": "f-9d2c706308",
@@ -37,6 +46,16 @@
               "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
               "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-116",
               "sourceLine": 116
+            }
+          ]
+        },
+        {
+          "id": "v-7cf91ceb5d",
+          "answer": "Left upper lobe",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-355"
             }
           ]
         }
@@ -77,6 +96,23 @@
           ]
         }
       ]
+    },
+    {
+      "id": "f-98bec27bd1",
+      "question": "Segments",
+      "preferredVariantId": "v-abea8e198b",
+      "variants": [
+        {
+          "id": "v-abea8e198b",
+          "answer": "Apicoposterior, anterior, superior lingular and inferior lingular segments on this model key.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-356"
+            }
+          ]
+        }
+      ]
     }
   ],
   "occurrences": [
@@ -87,6 +123,15 @@
         "14"
       ],
       "label": "14"
+    },
+    {
+      "modelId": "thorax-model-hs21",
+      "section": "Larynx, bronchial tree and lungs",
+      "path": [
+        "37",
+        "37a"
+      ],
+      "label": "37a"
     }
   ]
 }

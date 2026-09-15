@@ -12,7 +12,8 @@
   ],
   "regions": [
     "Lower limb",
-    "Pelvis"
+    "Pelvis",
+    "Head and neck"
   ],
   "systems": [
     "Musculoskeletal",
@@ -21,11 +22,13 @@
   "organs": [],
   "tags": [
     "Articulations",
+    "Attachments",
     "Bone",
     "Bones",
+    "Identification",
     "Landmarks",
-    "Attachments",
-    "Orientation"
+    "Orientation",
+    "Relations"
   ],
   "imageIds": [],
   "facts": [
@@ -74,6 +77,10 @@
               "modelId": "male-reproductive-system-model-ms2",
               "cardId": "male-reproductive-system-model-ms2-2",
               "sourceLine": 2
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-65"
             }
           ]
         }
@@ -140,6 +147,16 @@
               "modelId": "male-reproductive-system-model-ms2",
               "cardId": "male-reproductive-system-model-ms2-3",
               "sourceLine": 3
+            }
+          ]
+        },
+        {
+          "id": "v-2fd2d5ec0b",
+          "answer": "Articulates with opposite pubis at the pubic symphysis.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-67"
             }
           ]
         }
@@ -302,6 +319,23 @@
         "date": "2026-09-11",
         "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
       }
+    },
+    {
+      "id": "f-65d36f78ad",
+      "question": "Relations",
+      "preferredVariantId": "v-48f645aae6",
+      "variants": [
+        {
+          "id": "v-48f645aae6",
+          "answer": "Anterior part of the hip bone contributing to acetabulum and obturator foramen.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-66"
+            }
+          ]
+        }
+      ]
     }
   ],
   "occurrences": [
@@ -345,6 +379,14 @@
         "1"
       ],
       "label": "1"
+    },
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Bones",
+      "path": [
+        "XIII"
+      ],
+      "label": "XIII"
     }
   ],
   "redirectIds": [

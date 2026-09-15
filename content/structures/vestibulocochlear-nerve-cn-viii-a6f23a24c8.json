@@ -19,6 +19,9 @@
   "tags": [
     "Brain",
     "Course",
+    "CranialNerves",
+    "Function",
+    "Identification",
     "InnerEar",
     "Lesion",
     "Motor",
@@ -58,6 +61,10 @@
               "modelId": "head-and-neck-model-cs17-2",
               "cardId": "head-and-neck-model-cs17-2-789",
               "sourceLine": 789
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-256"
             }
           ]
         }
@@ -267,6 +274,16 @@
               "sourceLine": 794
             }
           ]
+        },
+        {
+          "id": "v-2bac1370a7",
+          "answer": "Sensorineural hearing loss, tinnitus, vertigo or imbalance depending on division affected.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-258"
+            }
+          ]
         }
       ],
       "editorialReview": {
@@ -287,6 +304,23 @@
               "modelId": "head-and-neck-model-cs17-2",
               "cardId": "head-and-neck-model-cs17-2-792",
               "sourceLine": 792
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6bfa87a4f4",
+      "question": "Function",
+      "preferredVariantId": "v-227ea5c4a3",
+      "variants": [
+        {
+          "id": "v-227ea5c4a3",
+          "answer": "Carries hearing and balance information.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-257"
             }
           ]
         }
@@ -325,6 +359,14 @@
         "22"
       ],
       "label": "22"
+    },
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Cranial nerves",
+      "path": [
+        "VIII"
+      ],
+      "label": "VIII"
     }
   ]
 }

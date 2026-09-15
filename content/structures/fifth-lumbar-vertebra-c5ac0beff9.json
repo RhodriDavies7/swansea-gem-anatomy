@@ -11,7 +11,8 @@
   ],
   "regions": [
     "Lower limb",
-    "Pelvis"
+    "Pelvis",
+    "Back"
   ],
   "systems": [
     "Musculoskeletal",
@@ -22,9 +23,11 @@
     "Articulations",
     "Attachments",
     "Bone",
+    "Clinical",
+    "Dorsum",
+    "Identification",
     "Landmarks",
     "Orientation",
-    "Clinical",
     "Relations"
   ],
   "imageIds": [],
@@ -42,6 +45,10 @@
               "modelId": "lower-limb-model-ns10",
               "cardId": "lower-limb-model-ns10-502",
               "sourceLine": 502
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-769"
             }
           ]
         },
@@ -164,6 +171,16 @@
               "sourceLine": 58
             }
           ]
+        },
+        {
+          "id": "v-c367200b84",
+          "answer": "Lowest lumbar vertebra articulating with sacrum.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-770"
+            }
+          ]
         }
       ]
     },
@@ -202,6 +219,14 @@
         "10"
       ],
       "label": "10"
+    },
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Dorsum",
+      "path": [
+        "97"
+      ],
+      "label": "97"
     }
   ],
   "redirectIds": [

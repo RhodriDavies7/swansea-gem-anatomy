@@ -17,16 +17,20 @@
   "tags": [
     "Coronal",
     "Function",
+    "Identification",
     "Location",
     "MidSagittal",
     "MidlineStructures",
     "NasalCavity",
     "NasalConcha",
+    "NoseMouthNeck",
     "Relations",
     "SinusesAndOpenings",
     "Structure"
   ],
-  "imageIds": [],
+  "imageIds": [
+    "img-8403b0479b65"
+  ],
   "facts": [
     {
       "id": "f-9d2c706308",
@@ -66,6 +70,10 @@
               "modelId": "nose-and-nasal-cavity-model-fs3",
               "cardId": "nose-and-nasal-cavity-model-fs3-147",
               "sourceLine": 147
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-303"
             }
           ]
         }
@@ -277,6 +285,16 @@
             }
           ],
           "editorial": true
+        },
+        {
+          "id": "v-23d02b99b6",
+          "answer": "Increases surface area and helps direct airflow and sinus drainage.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-304"
+            }
+          ]
         }
       ],
       "editorialReview": {
@@ -366,6 +384,14 @@
         "12"
       ],
       "label": "12"
+    },
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Nose, mouth and neck",
+      "path": [
+        "31b"
+      ],
+      "label": "31b"
     }
   ]
 }

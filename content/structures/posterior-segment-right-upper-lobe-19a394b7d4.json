@@ -1,0 +1,82 @@
+{
+  "id": "posterior-segment-right-upper-lobe-19a394b7d4",
+  "name": "Posterior segment (right upper lobe)",
+  "aliases": [
+    "Posterior segment"
+  ],
+  "scope": "right upper lobe",
+  "kind": "structure",
+  "types": [
+    "BronchopulmonarySegment"
+  ],
+  "systems": [
+    "Respiratory"
+  ],
+  "regions": [
+    "Thorax"
+  ],
+  "organs": [],
+  "tags": [
+    "BronchopulmonarySegment",
+    "Definition",
+    "Identification",
+    "RightLung",
+    "UpperLobe"
+  ],
+  "imageIds": [
+    "img-f3f1d6a30e56"
+  ],
+  "facts": [
+    {
+      "id": "f-8ab64b3c5d",
+      "question": "Identification",
+      "preferredVariantId": "v-19a394b7d4",
+      "variants": [
+        {
+          "id": "v-ff0a912bd0",
+          "answer": "Posterior segment",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-306"
+            }
+          ]
+        },
+        {
+          "id": "v-19a394b7d4",
+          "answer": "Posterior segment (right upper lobe)",
+          "sources": []
+        }
+      ]
+    },
+    {
+      "id": "f-1108e61177",
+      "question": "Definition",
+      "preferredVariantId": "v-99d62b49cf",
+      "variants": [
+        {
+          "id": "v-99d62b49cf",
+          "answer": "An anatomically discrete lung unit supplied by a segmental bronchus and pulmonary arterial branch.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-307"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "thorax-model-hs21",
+      "section": "Larynx, bronchial tree and lungs / right upper lobe",
+      "path": [
+        "36",
+        "36a",
+        "2"
+      ],
+      "label": "2"
+    }
+  ]
+}

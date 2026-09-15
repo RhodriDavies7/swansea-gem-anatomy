@@ -1,0 +1,88 @@
+{
+  "id": "psoas-minor-muscle-65dc94360d",
+  "name": "Psoas minor muscle",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "regions": [
+    "Abdomen"
+  ],
+  "organs": [],
+  "tags": [
+    "Abdomen",
+    "Action",
+    "Identification",
+    "Innervation",
+    "Muscle"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-d353b37931",
+      "question": "Identification",
+      "preferredVariantId": "v-65dc94360d",
+      "variants": [
+        {
+          "id": "v-65dc94360d",
+          "answer": "Psoas minor muscle",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-691"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-eda4340ba6",
+      "question": "Actions",
+      "preferredVariantId": "v-3af8eae7bc",
+      "variants": [
+        {
+          "id": "v-3af8eae7bc",
+          "answer": "Weak trunk flexor when present.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-692"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-ec7c759cdc",
+      "question": "Innervation",
+      "preferredVariantId": "v-9440af66d8",
+      "variants": [
+        {
+          "id": "v-9440af66d8",
+          "answer": "Anterior ramus L1.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-693"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Abdomen",
+      "path": [
+        "89"
+      ],
+      "label": "89"
+    }
+  ]
+}

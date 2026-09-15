@@ -1,0 +1,70 @@
+{
+  "id": "adrenal-glands-4afbf7cc7b",
+  "name": "Adrenal glands",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Glands"
+  ],
+  "systems": [
+    "Digestive"
+  ],
+  "regions": [
+    "Abdomen"
+  ],
+  "organs": [],
+  "tags": [
+    "Abdomen",
+    "Function",
+    "Gland",
+    "Identification"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-1e9e772e63",
+      "question": "Identification",
+      "preferredVariantId": "v-4afbf7cc7b",
+      "variants": [
+        {
+          "id": "v-4afbf7cc7b",
+          "answer": "Adrenal glands",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-648"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-3394d3492f",
+      "question": "Function",
+      "preferredVariantId": "v-1a98edc355",
+      "variants": [
+        {
+          "id": "v-1a98edc355",
+          "answer": "Cortex produces steroid hormones; medulla produces catecholamines.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-649"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Abdomen",
+      "path": [
+        "79"
+      ],
+      "label": "79"
+    }
+  ]
+}

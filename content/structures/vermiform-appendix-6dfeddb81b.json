@@ -1,0 +1,89 @@
+{
+  "id": "vermiform-appendix-6dfeddb81b",
+  "name": "Vermiform appendix",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "OrganPart"
+  ],
+  "systems": [
+    "Digestive"
+  ],
+  "regions": [
+    "Abdomen"
+  ],
+  "organs": [],
+  "tags": [
+    "Abdomen",
+    "Caecum",
+    "Clinical",
+    "Identification",
+    "Location",
+    "OrganPart"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-cd543f1469",
+      "question": "Identification",
+      "preferredVariantId": "v-6dfeddb81b",
+      "variants": [
+        {
+          "id": "v-6dfeddb81b",
+          "answer": "Vermiform appendix",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-706"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-31c556fd44",
+      "question": "Location",
+      "preferredVariantId": "v-74652bd681",
+      "variants": [
+        {
+          "id": "v-74652bd681",
+          "answer": "Blind-ending tube arising from caecum.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-707"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-1c3ca94060",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-a22a4b8da6",
+      "variants": [
+        {
+          "id": "v-a22a4b8da6",
+          "answer": "Inflammation causes appendicitis.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-708"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Abdomen / Caecum",
+      "path": [
+        "a"
+      ],
+      "label": "a"
+    }
+  ]
+}

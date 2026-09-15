@@ -1,0 +1,72 @@
+{
+  "id": "left-atrioventricular-orifice-e7fea8250d",
+  "name": "Left atrioventricular orifice",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "HeartStructure"
+  ],
+  "systems": [
+    "Cardiovascular"
+  ],
+  "regions": [
+    "Thorax"
+  ],
+  "organs": [],
+  "tags": [
+    "Function",
+    "Heart",
+    "HeartStructure",
+    "Identification",
+    "LeftAtrium"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-1a0f5ac374",
+      "question": "Identification",
+      "preferredVariantId": "v-e7fea8250d",
+      "variants": [
+        {
+          "id": "v-e7fea8250d",
+          "answer": "Left atrioventricular orifice",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-477"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-3f6d7a6c37",
+      "question": "Function",
+      "preferredVariantId": "v-64cc13c067",
+      "variants": [
+        {
+          "id": "v-64cc13c067",
+          "answer": "Allows blood flow from left atrium to left ventricle through the mitral valve.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-478"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "thorax-model-hs21",
+      "section": "Heart / Left atrium",
+      "path": [
+        "38",
+        "14"
+      ],
+      "label": "14"
+    }
+  ]
+}

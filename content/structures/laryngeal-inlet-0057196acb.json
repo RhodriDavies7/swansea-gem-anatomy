@@ -1,0 +1,88 @@
+{
+  "id": "laryngeal-inlet-0057196acb",
+  "name": "Laryngeal inlet",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Opening"
+  ],
+  "systems": [
+    "Respiratory"
+  ],
+  "regions": [
+    "Thorax"
+  ],
+  "organs": [],
+  "tags": [
+    "Airway",
+    "Function",
+    "Identification",
+    "Landmarks",
+    "Opening"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-04e9c7ffbb",
+      "question": "Identification",
+      "preferredVariantId": "v-0057196acb",
+      "variants": [
+        {
+          "id": "v-0057196acb",
+          "answer": "Laryngeal inlet",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-179"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-a8df6c6ef4",
+      "question": "Function",
+      "preferredVariantId": "v-b9e57b6c14",
+      "variants": [
+        {
+          "id": "v-b9e57b6c14",
+          "answer": "Entry from the laryngopharynx into the laryngeal cavity.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-180"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-b7d9e35a40",
+      "question": "Boundaries",
+      "preferredVariantId": "v-f9ea82181c",
+      "variants": [
+        {
+          "id": "v-f9ea82181c",
+          "answer": "Epiglottis anteriorly, aryepiglottic folds laterally and interarytenoid region posteriorly.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-181"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "thorax-model-hs21",
+      "section": "Larynx, bronchial tree and lungs",
+      "path": [
+        "30"
+      ],
+      "label": "30"
+    }
+  ]
+}

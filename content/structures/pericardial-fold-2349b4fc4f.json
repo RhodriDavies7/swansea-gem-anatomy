@@ -1,0 +1,88 @@
+{
+  "id": "pericardial-fold-2349b4fc4f",
+  "name": "Pericardial fold",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Pericardium"
+  ],
+  "systems": [
+    "Cardiovascular"
+  ],
+  "regions": [
+    "Thorax"
+  ],
+  "organs": [],
+  "tags": [
+    "Identification",
+    "Pericardium",
+    "Relations",
+    "Structure",
+    "Vessels"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-7d6e785bd7",
+      "question": "Identification",
+      "preferredVariantId": "v-2349b4fc4f",
+      "variants": [
+        {
+          "id": "v-2349b4fc4f",
+          "answer": "Pericardial fold",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-605"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-898d9af2ed",
+      "question": "Structure",
+      "preferredVariantId": "v-8c0e4eddc5",
+      "variants": [
+        {
+          "id": "v-8c0e4eddc5",
+          "answer": "Reflection or fold of serous pericardium around roots of the great vessels.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-606"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d76215ed91",
+      "question": "Relations",
+      "preferredVariantId": "v-1285ad25d1",
+      "variants": [
+        {
+          "id": "v-1285ad25d1",
+          "answer": "Contributes to the boundaries of the pericardial sinuses.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-607"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "thorax-model-hs21",
+      "section": "Vessels",
+      "path": [
+        "39"
+      ],
+      "label": "39"
+    }
+  ]
+}

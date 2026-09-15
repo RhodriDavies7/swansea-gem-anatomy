@@ -1,0 +1,136 @@
+{
+  "id": "liver-f52ceaf6f4",
+  "name": "Liver",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Organs"
+  ],
+  "systems": [
+    "Digestive"
+  ],
+  "regions": [
+    "Thorax",
+    "Abdomen"
+  ],
+  "organs": [],
+  "tags": [
+    "Abdomen",
+    "BloodSupply",
+    "Function",
+    "Identification",
+    "Location",
+    "Organ",
+    "Viscera"
+  ],
+  "imageIds": [
+    "img-da5cc556c787"
+  ],
+  "facts": [
+    {
+      "id": "f-93f34e387e",
+      "question": "Identification",
+      "preferredVariantId": "v-f52ceaf6f4",
+      "variants": [
+        {
+          "id": "v-f52ceaf6f4",
+          "answer": "Liver",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-162"
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-602"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-dfd77bfaa8",
+      "question": "Function",
+      "preferredVariantId": "v-dde4f1c7c2",
+      "variants": [
+        {
+          "id": "v-dde4f1c7c2",
+          "answer": "Performs metabolic, synthetic, detoxification and biliary functions.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-163"
+            }
+          ]
+        },
+        {
+          "id": "v-56f398c28c",
+          "answer": "Metabolic, synthetic, detoxification and biliary functions.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-603"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-bc351411ff",
+      "question": "Location",
+      "preferredVariantId": "v-76a4a9409b",
+      "variants": [
+        {
+          "id": "v-76a4a9409b",
+          "answer": "Predominantly right upper abdomen beneath the diaphragm.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-164"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-77d6393c68",
+      "question": "Blood supply",
+      "preferredVariantId": "v-77f5bd9c64",
+      "variants": [
+        {
+          "id": "v-77f5bd9c64",
+          "answer": "Dual inflow from hepatic artery and portal vein.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-165"
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-604"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "thorax-model-hs21",
+      "section": "Viscera",
+      "path": [
+        "27"
+      ],
+      "label": "27"
+    },
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Abdomen",
+      "path": [
+        "70"
+      ],
+      "label": "70"
+    }
+  ]
+}

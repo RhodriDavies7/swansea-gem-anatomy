@@ -8,7 +8,8 @@
     "Other"
   ],
   "regions": [
-    "Head and neck"
+    "Head and neck",
+    "Thorax"
   ],
   "systems": [
     "Respiratory"
@@ -22,7 +23,9 @@
     "Bronchus",
     "Clinical",
     "Course",
-    "LarynxAndAirway"
+    "Identification",
+    "LarynxAndAirway",
+    "RightBronchialTree"
   ],
   "imageIds": [],
   "facts": [
@@ -44,6 +47,10 @@
               "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
               "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-71",
               "sourceLine": 71
+            },
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-200"
             }
           ]
         }
@@ -73,6 +80,10 @@
               "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
               "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-72",
               "sourceLine": 72
+            },
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-201"
             }
           ]
         }
@@ -106,6 +117,10 @@
               "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
               "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-73",
               "sourceLine": 73
+            },
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-202"
             }
           ]
         },
@@ -158,6 +173,16 @@
               "sourceLine": 74
             }
           ]
+        },
+        {
+          "id": "v-34587597e7",
+          "answer": "Aspirated foreign bodies more commonly enter the right bronchial tree.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-203"
+            }
+          ]
         }
       ],
       "editorialReview": {
@@ -182,6 +207,14 @@
         "6"
       ],
       "label": "6"
+    },
+    {
+      "modelId": "thorax-model-hs21",
+      "section": "Larynx, bronchial tree and lungs",
+      "path": [
+        "34"
+      ],
+      "label": "34"
     }
   ]
 }

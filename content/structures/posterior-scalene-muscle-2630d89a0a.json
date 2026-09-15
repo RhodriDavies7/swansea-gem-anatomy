@@ -10,7 +10,8 @@
     "Muscles"
   ],
   "regions": [
-    "Head and neck"
+    "Head and neck",
+    "Thorax"
   ],
   "systems": [
     "Musculoskeletal"
@@ -19,13 +20,17 @@
   "tags": [
     "Action",
     "HeadNeck",
+    "HeadNeckMuscles",
+    "Identification",
     "Innervation",
     "Insertion",
     "Muscle",
-    "Origin",
-    "HeadNeckMuscles"
+    "Muscles",
+    "Origin"
   ],
-  "imageIds": [],
+  "imageIds": [
+    "img-0d73d872ee6a"
+  ],
   "facts": [
     {
       "id": "f-9d2c706308",
@@ -51,6 +56,10 @@
               "modelId": "half-head-and-neck-model-bs9",
               "cardId": "half-head-and-neck-model-bs9-610",
               "sourceLine": 610
+            },
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-72"
             }
           ]
         }
@@ -80,6 +89,16 @@
               "sourceLine": 611
             }
           ]
+        },
+        {
+          "id": "v-159b7fb439",
+          "answer": "Laterally flexes the neck and assists elevation of the second rib.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-73"
+            }
+          ]
         }
       ]
     },
@@ -107,6 +126,16 @@
               "modelId": "half-head-and-neck-model-bs9",
               "cardId": "half-head-and-neck-model-bs9-612",
               "sourceLine": 612
+            }
+          ]
+        },
+        {
+          "id": "v-8365fb13f2",
+          "answer": "Anterior rami of lower cervical spinal nerves.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-74"
             }
           ]
         }
@@ -142,6 +171,16 @@
               "sourceLine": 613
             }
           ]
+        },
+        {
+          "id": "v-575798fe75",
+          "answer": "Posterior tubercles of lower cervical transverse processes.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-75"
+            }
+          ]
         }
       ],
       "editorialReview": {
@@ -175,6 +214,16 @@
               "sourceLine": 614
             }
           ]
+        },
+        {
+          "id": "v-a97bc18390",
+          "answer": "Outer surface of second rib.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-76"
+            }
+          ]
         }
       ],
       "editorialReview": {
@@ -199,6 +248,14 @@
         "55"
       ],
       "label": "55"
+    },
+    {
+      "modelId": "thorax-model-hs21",
+      "section": "Muscles and tendons",
+      "path": [
+        "13"
+      ],
+      "label": "13"
     }
   ],
   "redirectIds": [

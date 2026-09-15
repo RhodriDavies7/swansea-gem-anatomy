@@ -1,0 +1,122 @@
+{
+  "id": "twelfth-thoracic-vertebra-0ac8bcc6d0",
+  "name": "Twelfth thoracic vertebra",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Bones"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "regions": [
+    "Thorax",
+    "Back"
+  ],
+  "organs": [],
+  "tags": [
+    "Articulations",
+    "Bone",
+    "Bones",
+    "Dorsum",
+    "Identification",
+    "Location",
+    "Relations"
+  ],
+  "imageIds": [
+    "img-1afbad564fe1"
+  ],
+  "facts": [
+    {
+      "id": "f-ef07eeddb8",
+      "question": "Identification",
+      "preferredVariantId": "v-0ac8bcc6d0",
+      "variants": [
+        {
+          "id": "v-0ac8bcc6d0",
+          "answer": "Twelfth thoracic vertebra",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-20"
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-761"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d9fe136640",
+      "question": "Region",
+      "preferredVariantId": "v-dc6ce67d71",
+      "variants": [
+        {
+          "id": "v-dc6ce67d71",
+          "answer": "Lowest thoracic vertebra at the thoracolumbar junction.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-21"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-5bef8c82f7",
+      "question": "Articulations",
+      "preferredVariantId": "v-39614f6c8d",
+      "variants": [
+        {
+          "id": "v-39614f6c8d",
+          "answer": "Articulates with the twelfth rib and first lumbar vertebra.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-66f672d97d",
+      "question": "Relations",
+      "preferredVariantId": "v-2c701cdd9f",
+      "variants": [
+        {
+          "id": "v-2c701cdd9f",
+          "answer": "Lowest thoracic vertebra at thoracolumbar junction.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-762"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "thorax-model-hs21",
+      "section": "Bones and cartilages",
+      "path": [
+        "4"
+      ],
+      "label": "4"
+    },
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Dorsum",
+      "path": [
+        "95"
+      ],
+      "label": "95"
+    }
+  ]
+}

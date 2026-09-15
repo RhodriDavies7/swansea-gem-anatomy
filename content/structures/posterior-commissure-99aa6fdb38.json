@@ -18,6 +18,7 @@
     "Brain",
     "CNS",
     "Function",
+    "Identification",
     "MidSagittal",
     "MidlineStructures",
     "Structure"
@@ -47,6 +48,10 @@
               "modelId": "head-and-neck-model-cs17-2",
               "cardId": "head-and-neck-model-cs17-2-701",
               "sourceLine": 701
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-135"
             }
           ]
         }
@@ -106,6 +111,16 @@
               "sourceLine": 702
             }
           ]
+        },
+        {
+          "id": "v-5fec93e5d6",
+          "answer": "Contains fibres involved in pupillary light reflex pathways and interconnections around the dorsal midbrain.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-136"
+            }
+          ]
         }
       ],
       "editorialReview": {
@@ -138,6 +153,14 @@
         "8"
       ],
       "label": "8"
+    },
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Brain",
+      "path": [
+        "15"
+      ],
+      "label": "15"
     }
   ]
 }

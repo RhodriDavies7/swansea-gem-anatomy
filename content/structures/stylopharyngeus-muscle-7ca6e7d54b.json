@@ -19,10 +19,12 @@
   ],
   "tags": [
     "Action",
+    "Identification",
     "Innervation",
     "Insertion",
     "Muscle",
     "Muscles",
+    "NoseMouthNeck",
     "Origin"
   ],
   "imageIds": [],
@@ -45,6 +47,10 @@
               "modelId": "larynx-and-airway-model-gs5",
               "cardId": "larynx-and-airway-model-gs5-179",
               "sourceLine": 179
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-348"
             }
           ]
         }
@@ -70,6 +76,16 @@
               "sourceLine": 180
             }
           ]
+        },
+        {
+          "id": "v-c347769430",
+          "answer": "Elevates pharynx and larynx during swallowing.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-349"
+            }
+          ]
         }
       ]
     },
@@ -91,6 +107,10 @@
               "modelId": "larynx-and-airway-model-gs5",
               "cardId": "larynx-and-airway-model-gs5-181",
               "sourceLine": 181
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-350"
             }
           ]
         }
@@ -114,6 +134,10 @@
               "modelId": "larynx-and-airway-model-gs5",
               "cardId": "larynx-and-airway-model-gs5-182",
               "sourceLine": 182
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-351"
             }
           ]
         }
@@ -139,6 +163,16 @@
               "sourceLine": 183
             }
           ]
+        },
+        {
+          "id": "v-2025724340",
+          "answer": "Pharyngeal wall and thyroid cartilage.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-352"
+            }
+          ]
         }
       ]
     }
@@ -159,6 +193,14 @@
         "37"
       ],
       "label": "37"
+    },
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Nose, mouth and neck",
+      "path": [
+        "39"
+      ],
+      "label": "39"
     }
   ]
 }

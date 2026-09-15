@@ -17,8 +17,10 @@
   "tags": [
     "Articulations",
     "Bone",
+    "Bones",
     "BonyStructures",
     "HeadNeck",
+    "Identification",
     "MidSagittal",
     "Relations"
   ],
@@ -47,6 +49,10 @@
               "modelId": "head-and-neck-model-cs17-2",
               "cardId": "head-and-neck-model-cs17-2-9",
               "sourceLine": 9
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-15"
             }
           ]
         }
@@ -77,6 +83,16 @@
               "sourceLine": 10
             }
           ]
+        },
+        {
+          "id": "v-be3c986000",
+          "answer": "Articulates with frontal, occipital, temporal, sphenoid and opposite parietal bones.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-17"
+            }
+          ]
         }
       ]
     },
@@ -103,6 +119,10 @@
               "modelId": "head-and-neck-model-cs17-2",
               "cardId": "head-and-neck-model-cs17-2-11",
               "sourceLine": 11
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-16"
             }
           ]
         }
@@ -133,6 +153,14 @@
         "2"
       ],
       "label": "2"
+    },
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Bones",
+      "path": [
+        "III"
+      ],
+      "label": "III"
     }
   ]
 }

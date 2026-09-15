@@ -1,0 +1,72 @@
+{
+  "id": "thebesian-valve-f30a93d47b",
+  "name": "Thebesian valve",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "HeartStructure"
+  ],
+  "systems": [
+    "Cardiovascular"
+  ],
+  "regions": [
+    "Thorax"
+  ],
+  "organs": [],
+  "tags": [
+    "Heart",
+    "HeartStructure",
+    "Identification",
+    "RightAtrium",
+    "Structure"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-97f97520fd",
+      "question": "Identification",
+      "preferredVariantId": "v-f30a93d47b",
+      "variants": [
+        {
+          "id": "v-f30a93d47b",
+          "answer": "Thebesian valve",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-445"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-606013193d",
+      "question": "Structure",
+      "preferredVariantId": "v-60cb5daa27",
+      "variants": [
+        {
+          "id": "v-60cb5daa27",
+          "answer": "Valve at the opening of the coronary sinus into the right atrium.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-446"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "thorax-model-hs21",
+      "section": "Heart / Right atrium",
+      "path": [
+        "38",
+        "7"
+      ],
+      "label": "7"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": "left-lower-lobe-fda1fdf439",
+  "name": "Left lower lobe",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "LungLobe"
+  ],
+  "systems": [
+    "Respiratory"
+  ],
+  "regions": [
+    "Thorax"
+  ],
+  "organs": [],
+  "tags": [
+    "Identification",
+    "LeftLung",
+    "LowerLobe",
+    "LungLobe",
+    "Parts"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-671f514f58",
+      "question": "Identification",
+      "preferredVariantId": "v-fda1fdf439",
+      "variants": [
+        {
+          "id": "v-fda1fdf439",
+          "answer": "Left lower lobe",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-380"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-df26cb1a24",
+      "question": "Segments",
+      "preferredVariantId": "v-7a099fc54c",
+      "variants": [
+        {
+          "id": "v-7a099fc54c",
+          "answer": "Superior, anterior basal, lateral basal and posterior basal segments are labelled on this model key.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-381"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "thorax-model-hs21",
+      "section": "Larynx, bronchial tree and lungs",
+      "path": [
+        "37",
+        "37b"
+      ],
+      "label": "37b"
+    }
+  ]
+}

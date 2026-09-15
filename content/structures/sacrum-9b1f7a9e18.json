@@ -9,7 +9,8 @@
   ],
   "regions": [
     "Lower limb",
-    "Pelvis"
+    "Pelvis",
+    "Back"
   ],
   "systems": [
     "Musculoskeletal",
@@ -20,6 +21,9 @@
     "Articulations",
     "Attachments",
     "Bone",
+    "Dorsum",
+    "Function",
+    "Identification",
     "Landmarks",
     "Orientation",
     "Relations"
@@ -49,6 +53,10 @@
               "modelId": "male-reproductive-system-model-ms2",
               "cardId": "male-reproductive-system-model-ms2-8",
               "sourceLine": 8
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-773"
             }
           ]
         }
@@ -225,6 +233,23 @@
         "date": "2026-09-11",
         "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
       }
+    },
+    {
+      "id": "f-9381ed65fe",
+      "question": "Function",
+      "preferredVariantId": "v-90bb1fb708",
+      "variants": [
+        {
+          "id": "v-90bb1fb708",
+          "answer": "Transfers body weight from vertebral column to pelvic girdle.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-774"
+            }
+          ]
+        }
+      ]
     }
   ],
   "occurrences": [
@@ -251,6 +276,14 @@
         "2"
       ],
       "label": "2"
+    },
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Dorsum",
+      "path": [
+        "98"
+      ],
+      "label": "98"
     }
   ]
 }

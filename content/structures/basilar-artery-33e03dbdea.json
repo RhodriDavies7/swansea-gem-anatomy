@@ -8,7 +8,8 @@
     "Arteries"
   ],
   "regions": [
-    "Head and neck"
+    "Head and neck",
+    "Back"
   ],
   "systems": [
     "Cardiovascular"
@@ -18,6 +19,9 @@
     "Artery",
     "Branches",
     "Course",
+    "Dorsum",
+    "Formation",
+    "Identification",
     "Origin",
     "Supply"
   ],
@@ -38,6 +42,10 @@
               "modelId": "cranial-floor-model-bs1",
               "cardId": "cranial-floor-model-bs1-75",
               "sourceLine": 75
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-825"
             }
           ]
         }
@@ -76,6 +84,16 @@
               "sourceLine": 77
             }
           ]
+        },
+        {
+          "id": "v-4797a1519d",
+          "answer": "Ascends along ventral pons.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-827"
+            }
+          ]
         }
       ]
     },
@@ -112,6 +130,33 @@
               "sourceLine": 79
             }
           ]
+        },
+        {
+          "id": "v-e1c001a8c3",
+          "answer": "Supplies brainstem and cerebellar/posterior cerebral circulation through branches.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-828"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-0527ad439c",
+      "question": "Formation",
+      "preferredVariantId": "v-e9f0b913e4",
+      "variants": [
+        {
+          "id": "v-e9f0b913e4",
+          "answer": "Formed by union of the vertebral arteries.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-826"
+            }
+          ]
         }
       ]
     }
@@ -124,6 +169,14 @@
         "13"
       ],
       "label": "13"
+    },
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Dorsum",
+      "path": [
+        "105"
+      ],
+      "label": "105"
     }
   ]
 }

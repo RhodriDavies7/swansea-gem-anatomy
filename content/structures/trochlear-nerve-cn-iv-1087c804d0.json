@@ -17,6 +17,9 @@
   "tags": [
     "Brain",
     "Course",
+    "CranialNerves",
+    "Function",
+    "Identification",
     "Lesion",
     "ModelNote",
     "Motor",
@@ -44,6 +47,10 @@
               "modelId": "head-and-neck-model-cs17-2",
               "cardId": "head-and-neck-model-cs17-2-757",
               "sourceLine": 757
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-236"
             }
           ]
         }
@@ -174,6 +181,16 @@
               "sourceLine": 762
             }
           ]
+        },
+        {
+          "id": "v-c96b12e2b5",
+          "answer": "Vertical diplopia, worse looking down and in; patient may tilt head away from lesion.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-238"
+            }
+          ]
         }
       ],
       "editorialReview": {
@@ -216,6 +233,23 @@
           ]
         }
       ]
+    },
+    {
+      "id": "f-cea374da0e",
+      "question": "Function",
+      "preferredVariantId": "v-ac333053e3",
+      "variants": [
+        {
+          "id": "v-ac333053e3",
+          "answer": "Motor to superior oblique muscle.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-237"
+            }
+          ]
+        }
+      ]
     }
   ],
   "occurrences": [
@@ -234,6 +268,14 @@
         "18"
       ],
       "label": "18"
+    },
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Cranial nerves",
+      "path": [
+        "IV"
+      ],
+      "label": "IV"
     }
   ]
 }

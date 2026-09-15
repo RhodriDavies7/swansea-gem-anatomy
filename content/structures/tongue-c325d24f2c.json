@@ -14,12 +14,16 @@
   "organs": [],
   "tags": [
     "Function",
+    "Identification",
     "Innervation",
     "MidSagittal",
     "MidlineStructures",
+    "NoseMouthNeck",
     "Organ"
   ],
-  "imageIds": [],
+  "imageIds": [
+    "img-61d9518816d6"
+  ],
   "facts": [
     {
       "id": "f-9d2c706308",
@@ -39,6 +43,10 @@
               "modelId": "half-head-and-neck-model-bs9",
               "cardId": "half-head-and-neck-model-bs9-285",
               "sourceLine": 285
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-316"
             }
           ]
         }
@@ -62,6 +70,16 @@
               "modelId": "half-head-and-neck-model-bs9",
               "cardId": "half-head-and-neck-model-bs9-286",
               "sourceLine": 286
+            }
+          ]
+        },
+        {
+          "id": "v-ce3cdfe051",
+          "answer": "Manipulates food, assists swallowing and speech, and contains taste receptors.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-317"
             }
           ]
         }
@@ -93,6 +111,16 @@
               "sourceLine": 287
             }
           ]
+        },
+        {
+          "id": "v-e4cee9dd85",
+          "answer": "Motor mainly CN XII; sensory/taste supplied by CN V, VII, IX and X depending on region.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-318"
+            }
+          ]
         }
       ],
       "editorialReview": {
@@ -117,6 +145,14 @@
         "k"
       ],
       "label": "k"
+    },
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Nose, mouth and neck",
+      "path": [
+        "34"
+      ],
+      "label": "34"
     }
   ]
 }

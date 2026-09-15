@@ -1,7 +1,9 @@
 {
   "id": "left-auricle-6588af8a37",
   "name": "Left auricle",
-  "aliases": [],
+  "aliases": [
+    "Left atrial appendage"
+  ],
   "scope": "",
   "kind": "structure",
   "types": [
@@ -23,11 +25,16 @@
     "AuriclesVesselsValves",
     "Clinical",
     "Function",
+    "Heart",
     "HeartChambers",
-    "Structure"
+    "HeartStructure",
+    "Identification",
+    "Structure",
+    "Vessels"
   ],
   "imageIds": [
-    "img-dd4d17ecf4f4"
+    "img-dd4d17ecf4f4",
+    "img-6db85ee476dc"
   ],
   "facts": [
     {
@@ -48,6 +55,20 @@
               "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
               "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-145",
               "sourceLine": 145
+            }
+          ]
+        },
+        {
+          "id": "v-7ac4f98dae",
+          "answer": "Left atrial appendage",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-600"
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-474"
             }
           ]
         }
@@ -77,6 +98,16 @@
               "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
               "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-146",
               "sourceLine": 146
+            }
+          ]
+        },
+        {
+          "id": "v-ca130f4e39",
+          "answer": "Muscular appendage of the left atrium.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-601"
             }
           ]
         }
@@ -145,6 +176,20 @@
               "sourceLine": 148
             }
           ]
+        },
+        {
+          "id": "v-63f8d7c885",
+          "answer": "Common site of thrombus formation in atrial fibrillation.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-602"
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-475"
+            }
+          ]
         }
       ],
       "editorialReview": {
@@ -169,6 +214,23 @@
         "19"
       ],
       "label": "19"
+    },
+    {
+      "modelId": "thorax-model-hs21",
+      "section": "Vessels",
+      "path": [
+        "38"
+      ],
+      "label": "38"
+    },
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Thorax",
+      "path": [
+        "57",
+        "b"
+      ],
+      "label": "b"
     }
   ]
 }

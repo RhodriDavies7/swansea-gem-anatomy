@@ -1,7 +1,9 @@
 {
   "id": "dura-mater-e539e1e7dc",
   "name": "Dura mater",
-  "aliases": [],
+  "aliases": [
+    "Dura mater of the brain"
+  ],
   "scope": "",
   "kind": "structure",
   "types": [
@@ -19,6 +21,7 @@
     "Dura",
     "Function",
     "HeadNeck",
+    "Identification",
     "Structure"
   ],
   "imageIds": [],
@@ -41,6 +44,16 @@
               "modelId": "head-and-neck-model-cs17-2",
               "cardId": "head-and-neck-model-cs17-2-650",
               "sourceLine": 650
+            }
+          ]
+        },
+        {
+          "id": "v-4db65b7c12",
+          "answer": "Dura mater of the brain",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-76"
             }
           ]
         }
@@ -70,6 +83,16 @@
               "modelId": "head-and-neck-model-cs17-2",
               "cardId": "head-and-neck-model-cs17-2-651",
               "sourceLine": 651
+            }
+          ]
+        },
+        {
+          "id": "v-a8f3dcbae8",
+          "answer": "Tough outer meningeal layer with periosteal and meningeal layers.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-77"
             }
           ]
         }
@@ -105,6 +128,16 @@
               "sourceLine": 652
             }
           ]
+        },
+        {
+          "id": "v-b29f670c6d",
+          "answer": "Protects brain and forms dural folds and venous sinuses.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-78"
+            }
+          ]
         }
       ],
       "editorialReview": {
@@ -129,6 +162,14 @@
         "L"
       ],
       "label": "L"
+    },
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Brain",
+      "path": [
+        "1"
+      ],
+      "label": "1"
     }
   ]
 }

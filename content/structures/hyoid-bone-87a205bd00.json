@@ -26,10 +26,12 @@
     "BonyStructures",
     "CartilagesAndBones",
     "Function",
+    "Identification",
     "Landmarks",
     "Larynx",
     "LarynxAndAirway",
     "MidSagittal",
+    "NoseMouthNeck",
     "Relations"
   ],
   "imageIds": [],
@@ -77,6 +79,10 @@
               "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
               "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-45",
               "sourceLine": 45
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-396"
             }
           ]
         },
@@ -290,6 +296,16 @@
               "sourceLine": 47
             }
           ]
+        },
+        {
+          "id": "v-1ec17dbb50",
+          "answer": "Supports tongue and larynx and provides muscle attachment.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-397"
+            }
+          ]
         }
       ],
       "editorialReview": {
@@ -362,6 +378,14 @@
         "8"
       ],
       "label": "8"
+    },
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Nose, mouth and neck",
+      "path": [
+        "47"
+      ],
+      "label": "47"
     }
   ],
   "redirectIds": [

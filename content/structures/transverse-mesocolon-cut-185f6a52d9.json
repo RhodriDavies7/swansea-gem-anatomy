@@ -1,0 +1,70 @@
+{
+  "id": "transverse-mesocolon-cut-185f6a52d9",
+  "name": "Transverse mesocolon (cut)",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Mesentery"
+  ],
+  "systems": [
+    "Digestive"
+  ],
+  "regions": [
+    "Abdomen"
+  ],
+  "organs": [],
+  "tags": [
+    "Abdomen",
+    "Function",
+    "Identification",
+    "Mesentery"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-7d8d5fb2fb",
+      "question": "Identification",
+      "preferredVariantId": "v-185f6a52d9",
+      "variants": [
+        {
+          "id": "v-185f6a52d9",
+          "answer": "Transverse mesocolon (cut)",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-627"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-125ca2d830",
+      "question": "Function",
+      "preferredVariantId": "v-132cfbd9f9",
+      "variants": [
+        {
+          "id": "v-132cfbd9f9",
+          "answer": "Suspends transverse colon and conveys its vessels, lymphatics and nerves.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-628"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Abdomen",
+      "path": [
+        "76"
+      ],
+      "label": "76"
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "id": "sternum-43a7d052ca",
+  "name": "Sternum",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Bones"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "regions": [
+    "Thorax",
+    "Head and neck"
+  ],
+  "organs": [],
+  "tags": [
+    "Bone",
+    "Bones",
+    "Clinical",
+    "Function",
+    "Identification",
+    "Parts"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-8ff6f5295e",
+      "question": "Identification",
+      "preferredVariantId": "v-43a7d052ca",
+      "variants": [
+        {
+          "id": "v-43a7d052ca",
+          "answer": "Sternum",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-46"
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-50"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-fb8b11a411",
+      "question": "Parts",
+      "preferredVariantId": "v-974f058698",
+      "variants": [
+        {
+          "id": "v-974f058698",
+          "answer": "Manubrium, body and xiphoid process.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-47"
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-51"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-74e8344d7d",
+      "question": "Function",
+      "preferredVariantId": "v-c18dca1194",
+      "variants": [
+        {
+          "id": "v-c18dca1194",
+          "answer": "Protects mediastinal structures and provides anterior attachment for ribs and clavicles.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-48"
+            }
+          ]
+        },
+        {
+          "id": "v-912f0f3bb6",
+          "answer": "Protects mediastinal structures and anchors ribs/clavicles.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-52"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-8bff47239a",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-d282be98dc",
+      "variants": [
+        {
+          "id": "v-d282be98dc",
+          "answer": "Sternal angle is an important surface landmark at approximately T4–T5.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-49"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "thorax-model-hs21",
+      "section": "Bones and cartilages",
+      "path": [
+        "9"
+      ],
+      "label": "9"
+    },
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Bones",
+      "path": [
+        "X"
+      ],
+      "label": "X"
+    }
+  ]
+}

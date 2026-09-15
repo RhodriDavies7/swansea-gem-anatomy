@@ -1,0 +1,80 @@
+{
+  "id": "superior-segment-right-lower-lobe-b70c9c93c7",
+  "name": "Superior segment (right lower lobe)",
+  "aliases": [
+    "Superior segment"
+  ],
+  "scope": "right lower lobe",
+  "kind": "structure",
+  "types": [
+    "BronchopulmonarySegment"
+  ],
+  "systems": [
+    "Respiratory"
+  ],
+  "regions": [
+    "Thorax"
+  ],
+  "organs": [],
+  "tags": [
+    "BronchopulmonarySegment",
+    "Definition",
+    "Identification",
+    "LowerLobe",
+    "RightLung"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-0656faaa28",
+      "question": "Identification",
+      "preferredVariantId": "v-b70c9c93c7",
+      "variants": [
+        {
+          "id": "v-f306835ed5",
+          "answer": "Superior segment",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-330"
+            }
+          ]
+        },
+        {
+          "id": "v-b70c9c93c7",
+          "answer": "Superior segment (right lower lobe)",
+          "sources": []
+        }
+      ]
+    },
+    {
+      "id": "f-673890d3ce",
+      "question": "Definition",
+      "preferredVariantId": "v-99d62b49cf",
+      "variants": [
+        {
+          "id": "v-99d62b49cf",
+          "answer": "An anatomically discrete lung unit supplied by a segmental bronchus and pulmonary arterial branch.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-331"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "thorax-model-hs21",
+      "section": "Larynx, bronchial tree and lungs / right lower lobe",
+      "path": [
+        "36",
+        "36c",
+        "6"
+      ],
+      "label": "6"
+    }
+  ]
+}

@@ -18,6 +18,9 @@
     "BloodVesselsAndNerves",
     "Brain",
     "Course",
+    "CranialNerves",
+    "Function",
+    "Identification",
     "Lesion",
     "Motor",
     "Nerve",
@@ -51,6 +54,10 @@
               "modelId": "head-and-neck-model-cs17-2",
               "cardId": "head-and-neck-model-cs17-2-805",
               "sourceLine": 805
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-271"
             }
           ]
         }
@@ -209,6 +216,16 @@
               "sourceLine": 810
             }
           ]
+        },
+        {
+          "id": "v-53d78ef70d",
+          "answer": "Weak shoulder shrug and difficulty turning the head to the opposite side.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-273"
+            }
+          ]
         }
       ],
       "editorialReview": {
@@ -234,6 +251,23 @@
               "modelId": "head-and-neck-model-cs17-2",
               "cardId": "head-and-neck-model-cs17-2-809",
               "sourceLine": 809
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f870304a3a",
+      "question": "Function",
+      "preferredVariantId": "v-d0a9ab9b75",
+      "variants": [
+        {
+          "id": "v-d0a9ab9b75",
+          "answer": "Motor to sternocleidomastoid and trapezius.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-272"
             }
           ]
         }
@@ -264,6 +298,14 @@
         "24"
       ],
       "label": "24"
+    },
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Cranial nerves",
+      "path": [
+        "XI"
+      ],
+      "label": "XI"
     }
   ]
 }

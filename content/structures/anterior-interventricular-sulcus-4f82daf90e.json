@@ -1,0 +1,71 @@
+{
+  "id": "anterior-interventricular-sulcus-4f82daf90e",
+  "name": "Anterior interventricular sulcus",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "HeartLandmark"
+  ],
+  "systems": [
+    "Cardiovascular"
+  ],
+  "regions": [
+    "Thorax"
+  ],
+  "organs": [],
+  "tags": [
+    "Contents",
+    "Heart",
+    "HeartLandmark",
+    "Identification"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-62a1fb1345",
+      "question": "Identification",
+      "preferredVariantId": "v-4f82daf90e",
+      "variants": [
+        {
+          "id": "v-4f82daf90e",
+          "answer": "Anterior interventricular sulcus",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-412"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-a1dca6a2b0",
+      "question": "Contents",
+      "preferredVariantId": "v-d8fa4c83fa",
+      "variants": [
+        {
+          "id": "v-d8fa4c83fa",
+          "answer": "Contains the anterior interventricular artery and great cardiac vein.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-413"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "thorax-model-hs21",
+      "section": "Heart / Surface grooves",
+      "path": [
+        "38",
+        "B"
+      ],
+      "label": "B"
+    }
+  ]
+}

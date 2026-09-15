@@ -1,0 +1,71 @@
+{
+  "id": "pulmonary-artery-0f60efda66",
+  "name": "Pulmonary artery",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Arteries"
+  ],
+  "systems": [
+    "Respiratory"
+  ],
+  "regions": [
+    "Thorax"
+  ],
+  "organs": [],
+  "tags": [
+    "Artery",
+    "Function",
+    "Heart",
+    "Identification"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-0c7d0888fa",
+      "question": "Identification",
+      "preferredVariantId": "v-0f60efda66",
+      "variants": [
+        {
+          "id": "v-0f60efda66",
+          "answer": "Pulmonary artery",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-490"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-02725cf271",
+      "question": "Function",
+      "preferredVariantId": "v-c19443b90c",
+      "variants": [
+        {
+          "id": "v-c19443b90c",
+          "answer": "Carries deoxygenated blood from right ventricle toward lungs.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-491"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Thorax",
+      "path": [
+        "57",
+        "f"
+      ],
+      "label": "f"
+    }
+  ]
+}

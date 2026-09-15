@@ -20,14 +20,19 @@
   "tags": [
     "Articulations",
     "Bone",
+    "Bones",
     "BonyStructures",
+    "Function",
     "HeadNeck",
+    "Identification",
     "Landmarks",
     "MidSagittal",
     "Relations",
     "Tongue"
   ],
-  "imageIds": [],
+  "imageIds": [
+    "img-27d8bf996cb9"
+  ],
   "facts": [
     {
       "id": "f-9d2c706308",
@@ -62,6 +67,10 @@
               "modelId": "larynx-and-tongue-model-gs4",
               "cardId": "larynx-and-tongue-model-gs4-312",
               "sourceLine": 312
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-40"
             }
           ]
         }
@@ -118,6 +127,16 @@
               "modelId": "larynx-and-tongue-model-gs4",
               "cardId": "larynx-and-tongue-model-gs4-313",
               "sourceLine": 313
+            }
+          ]
+        },
+        {
+          "id": "v-6e66ab8e8b",
+          "answer": "Articulates with temporal bone at the temporomandibular joint.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-42"
             }
           ]
         }
@@ -229,6 +248,23 @@
         "date": "2026-09-11",
         "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
       }
+    },
+    {
+      "id": "f-2523fb6a3d",
+      "question": "Function",
+      "preferredVariantId": "v-b9a8c2d11e",
+      "variants": [
+        {
+          "id": "v-b9a8c2d11e",
+          "answer": "Forms the lower jaw and supports mandibular teeth.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-41"
+            }
+          ]
+        }
+      ]
     }
   ],
   "occurrences": [
@@ -271,6 +307,14 @@
         "18"
       ],
       "label": "18"
+    },
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Bones",
+      "path": [
+        "VIII"
+      ],
+      "label": "VIII"
     }
   ]
 }

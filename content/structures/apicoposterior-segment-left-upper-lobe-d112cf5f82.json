@@ -1,0 +1,118 @@
+{
+  "id": "apicoposterior-segment-left-upper-lobe-d112cf5f82",
+  "name": "Apicoposterior segment (left upper lobe)",
+  "aliases": [
+    "Apicoposterior segment"
+  ],
+  "scope": "left upper lobe",
+  "kind": "structure",
+  "types": [
+    "BronchopulmonarySegment"
+  ],
+  "systems": [
+    "Respiratory"
+  ],
+  "regions": [
+    "Thorax"
+  ],
+  "organs": [],
+  "tags": [
+    "BronchopulmonarySegment",
+    "Definition",
+    "Identification",
+    "LeftLung",
+    "ModelNote",
+    "UpperLobe"
+  ],
+  "imageIds": [
+    "img-b3545aa4819f"
+  ],
+  "facts": [
+    {
+      "id": "f-97978cf0a8",
+      "question": "Identification",
+      "preferredVariantId": "v-d112cf5f82",
+      "variants": [
+        {
+          "id": "v-3a71a3a1c8",
+          "answer": "Apicoposterior segment",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-359"
+            },
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-363"
+            }
+          ]
+        },
+        {
+          "id": "v-d112cf5f82",
+          "answer": "Apicoposterior segment (left upper lobe)",
+          "sources": []
+        }
+      ]
+    },
+    {
+      "id": "f-7580d31639",
+      "question": "Definition",
+      "preferredVariantId": "v-99d62b49cf",
+      "variants": [
+        {
+          "id": "v-99d62b49cf",
+          "answer": "An anatomically discrete lung unit supplied by a segmental bronchus and pulmonary arterial branch.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-360"
+            },
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-364"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-4ad468125c",
+      "question": "Model note",
+      "preferredVariantId": "v-fcd6b25632",
+      "variants": [
+        {
+          "id": "v-fcd6b25632",
+          "answer": "The guide also labels number 2 as 'Apicoposterior segment'; this duplicate is preserved.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-365"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "thorax-model-hs21",
+      "section": "Larynx, bronchial tree and lungs / left upper lobe",
+      "path": [
+        "37",
+        "37a",
+        "1"
+      ],
+      "label": "1"
+    },
+    {
+      "modelId": "thorax-model-hs21",
+      "section": "Larynx, bronchial tree and lungs / left upper lobe",
+      "path": [
+        "37",
+        "37a",
+        "2"
+      ],
+      "label": "2"
+    }
+  ]
+}

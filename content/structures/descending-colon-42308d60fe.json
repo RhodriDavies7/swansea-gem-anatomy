@@ -1,0 +1,70 @@
+{
+  "id": "descending-colon-42308d60fe",
+  "name": "Descending colon",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Organs"
+  ],
+  "systems": [
+    "Digestive"
+  ],
+  "regions": [
+    "Abdomen"
+  ],
+  "organs": [],
+  "tags": [
+    "Abdomen",
+    "Course",
+    "Identification",
+    "Organ"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-afbd3d8432",
+      "question": "Identification",
+      "preferredVariantId": "v-42308d60fe",
+      "variants": [
+        {
+          "id": "v-42308d60fe",
+          "answer": "Descending colon",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-590"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-8626e5abc9",
+      "question": "Course",
+      "preferredVariantId": "v-947bf44b9e",
+      "variants": [
+        {
+          "id": "v-947bf44b9e",
+          "answer": "Descends from splenic flexure toward sigmoid colon.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-591"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Abdomen",
+      "path": [
+        "67"
+      ],
+      "label": "67"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "middle-cerebellar-peduncle-a65246f62d",
+  "name": "Middle cerebellar peduncle",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "CNS"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "organs": [],
+  "tags": [
+    "Brain",
+    "CNS",
+    "Function",
+    "Identification"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-f7469dd719",
+      "question": "Identification",
+      "preferredVariantId": "v-a65246f62d",
+      "variants": [
+        {
+          "id": "v-a65246f62d",
+          "answer": "Middle cerebellar peduncle",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-175"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-7328e55570",
+      "question": "Function",
+      "preferredVariantId": "v-0c1a894b49",
+      "variants": [
+        {
+          "id": "v-0c1a894b49",
+          "answer": "Major afferent pathway carrying pontocerebellar fibres into the cerebellum.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-176"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Brain",
+      "path": [
+        "24"
+      ],
+      "label": "24"
+    }
+  ]
+}

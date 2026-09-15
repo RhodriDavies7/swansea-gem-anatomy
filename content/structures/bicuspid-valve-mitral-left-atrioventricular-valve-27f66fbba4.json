@@ -2,7 +2,8 @@
   "id": "bicuspid-valve-mitral-left-atrioventricular-valve-27f66fbba4",
   "name": "Bicuspid valve (mitral / left atrioventricular valve)",
   "aliases": [
-    "Bicuspid (mitral) valve"
+    "Bicuspid (mitral) valve",
+    "Mitral valve"
   ],
   "scope": "",
   "kind": "structure",
@@ -22,13 +23,16 @@
     "Heart"
   ],
   "tags": [
+    "AuriclesVesselsValves",
     "CardiacVesselsValves",
+    "Clinical",
     "Function",
+    "Heart",
+    "HeartStructure",
+    "Identification",
     "Location",
     "Structure",
-    "Valve",
-    "AuriclesVesselsValves",
-    "Clinical"
+    "Valve"
   ],
   "imageIds": [
     "img-2cc522fc1432"
@@ -58,6 +62,20 @@
               "modelId": "heart-model-hs5",
               "cardId": "heart-model-hs5-90",
               "sourceLine": 90
+            }
+          ]
+        },
+        {
+          "id": "v-a5c2c0abbc",
+          "answer": "Mitral valve",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-482"
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-502"
             }
           ]
         }
@@ -110,6 +128,16 @@
               "sourceLine": 92
             }
           ]
+        },
+        {
+          "id": "v-34e943d68a",
+          "answer": "Has anterior and posterior cusps.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-484"
+            }
+          ]
         }
       ]
     },
@@ -137,6 +165,26 @@
               "modelId": "heart-model-hs5",
               "cardId": "heart-model-hs5-93",
               "sourceLine": 93
+            }
+          ]
+        },
+        {
+          "id": "v-8a242b6dca",
+          "answer": "Prevents backflow from left ventricle to left atrium during systole.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-483"
+            }
+          ]
+        },
+        {
+          "id": "v-91ae8b078b",
+          "answer": "Prevents systolic backflow from left ventricle to left atrium.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-503"
             }
           ]
         }
@@ -181,6 +229,24 @@
         "h"
       ],
       "label": "h"
+    },
+    {
+      "modelId": "thorax-model-hs21",
+      "section": "Heart / Left ventricle",
+      "path": [
+        "38",
+        "15"
+      ],
+      "label": "15"
+    },
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Thorax",
+      "path": [
+        "57",
+        "i"
+      ],
+      "label": "i"
     }
   ],
   "redirectIds": [

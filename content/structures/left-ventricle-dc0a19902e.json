@@ -24,8 +24,10 @@
     "Connections",
     "Contents",
     "Function",
+    "Heart",
     "HeartChamber",
     "HeartChambers",
+    "Identification",
     "Landmarks",
     "Relations"
   ],
@@ -49,6 +51,10 @@
               "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
               "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-157",
               "sourceLine": 157
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-466"
             }
           ]
         }
@@ -78,6 +84,16 @@
               "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
               "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-158",
               "sourceLine": 158
+            }
+          ]
+        },
+        {
+          "id": "v-c82b290966",
+          "answer": "Pumps oxygenated blood into the aorta.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-467"
             }
           ]
         }
@@ -206,6 +222,15 @@
         "21"
       ],
       "label": "21"
+    },
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Thorax",
+      "path": [
+        "57",
+        "IV"
+      ],
+      "label": "IV"
     }
   ]
 }

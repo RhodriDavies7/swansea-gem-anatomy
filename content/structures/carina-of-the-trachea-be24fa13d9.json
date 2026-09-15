@@ -1,14 +1,17 @@
 {
   "id": "carina-of-the-trachea-be24fa13d9",
   "name": "Carina of the trachea",
-  "aliases": [],
+  "aliases": [
+    "Tracheal bifurcation (carina)"
+  ],
   "scope": "",
   "kind": "structure",
   "types": [
     "Other"
   ],
   "regions": [
-    "Head and neck"
+    "Head and neck",
+    "Thorax"
   ],
   "systems": [
     "Respiratory"
@@ -19,8 +22,10 @@
   "tags": [
     "AirwayLandmark",
     "Clinical",
+    "Identification",
     "LarynxAndAirway",
-    "Location"
+    "Location",
+    "Thorax"
   ],
   "imageIds": [],
   "facts": [
@@ -37,6 +42,16 @@
               "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
               "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-83",
               "sourceLine": 83
+            }
+          ]
+        },
+        {
+          "id": "v-9d5f5b900c",
+          "answer": "Tracheal bifurcation (carina)",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-435"
             }
           ]
         }
@@ -57,6 +72,16 @@
               "sourceLine": 84
             }
           ]
+        },
+        {
+          "id": "v-3a5de88381",
+          "answer": "Division of trachea into main bronchi near T4–T5.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-436"
+            }
+          ]
         }
       ]
     },
@@ -73,6 +98,10 @@
               "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
               "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-85",
               "sourceLine": 85
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-437"
             }
           ]
         }
@@ -87,6 +116,14 @@
         "8"
       ],
       "label": "8"
+    },
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Thorax",
+      "path": [
+        "54"
+      ],
+      "label": "54"
     }
   ]
 }

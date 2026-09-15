@@ -1,23 +1,29 @@
 {
   "id": "seminal-vesicles-ddb47c3811",
   "name": "Seminal vesicles",
-  "aliases": [],
+  "aliases": [
+    "Seminal vesicle"
+  ],
   "scope": "",
   "kind": "structure",
   "types": [
     "Organs"
   ],
   "regions": [
-    "Pelvis"
+    "Pelvis",
+    "Abdomen"
   ],
   "systems": [
     "Reproductive"
   ],
   "organs": [],
   "tags": [
+    "Abdomen",
     "BloodSupply",
     "Duct",
     "Function",
+    "Gland",
+    "Identification",
     "Innervation",
     "Location",
     "Organ"
@@ -39,6 +45,16 @@
               "sourceLine": 80
             }
           ]
+        },
+        {
+          "id": "v-c3dfbebf27",
+          "answer": "Seminal vesicle",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-664"
+            }
+          ]
         }
       ]
     },
@@ -55,6 +71,16 @@
               "modelId": "male-reproductive-system-model-ms2",
               "cardId": "male-reproductive-system-model-ms2-81",
               "sourceLine": 81
+            }
+          ]
+        },
+        {
+          "id": "v-860a1973ca",
+          "answer": "Produces fructose-rich alkaline seminal fluid contributing substantially to semen volume.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-665"
             }
           ]
         }
@@ -141,6 +167,14 @@
         "7"
       ],
       "label": "7"
+    },
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Abdomen",
+      "path": [
+        "83"
+      ],
+      "label": "83"
     }
   ]
 }

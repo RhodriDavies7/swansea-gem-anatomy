@@ -15,13 +15,17 @@
   ],
   "organs": [],
   "tags": [
+    "Brain",
     "CNS",
     "Function",
+    "Identification",
     "Location",
     "MidSagittal",
     "MidlineStructures"
   ],
-  "imageIds": [],
+  "imageIds": [
+    "img-5e159b612e44"
+  ],
   "facts": [
     {
       "id": "f-9d2c706308",
@@ -41,6 +45,10 @@
               "modelId": "half-head-and-neck-model-bs9",
               "cardId": "half-head-and-neck-model-bs9-171",
               "sourceLine": 171
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-193"
             }
           ]
         }
@@ -89,6 +97,16 @@
               "sourceLine": 173
             }
           ]
+        },
+        {
+          "id": "v-a06a713ce8",
+          "answer": "Part of limbic circuitry involved in memory.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-194"
+            }
+          ]
         }
       ]
     }
@@ -109,6 +127,14 @@
         "12"
       ],
       "label": "12"
+    },
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Brain",
+      "path": [
+        "28"
+      ],
+      "label": "28"
     }
   ]
 }

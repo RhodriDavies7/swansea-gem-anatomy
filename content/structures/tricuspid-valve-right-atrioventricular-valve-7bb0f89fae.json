@@ -1,7 +1,9 @@
 {
   "id": "tricuspid-valve-right-atrioventricular-valve-7bb0f89fae",
   "name": "Tricuspid valve (right atrioventricular valve)",
-  "aliases": [],
+  "aliases": [
+    "Tricuspid valve"
+  ],
   "scope": "",
   "kind": "structure",
   "types": [
@@ -24,7 +26,11 @@
     "CardiacVesselsValves",
     "Clinical",
     "Function",
+    "Heart",
+    "HeartStructure",
+    "Identification",
     "Location",
+    "RightVentricle",
     "Structure",
     "Valve"
   ],
@@ -48,6 +54,20 @@
               "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
               "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-182",
               "sourceLine": 182
+            }
+          ]
+        },
+        {
+          "id": "v-a5a4dca411",
+          "answer": "Tricuspid valve",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-450"
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-498"
             }
           ]
         }
@@ -102,6 +122,16 @@
               "sourceLine": 184
             }
           ]
+        },
+        {
+          "id": "v-ab582b5983",
+          "answer": "Usually has anterior, posterior and septal cusps.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-452"
+            }
+          ]
         }
       ],
       "editorialReview": {
@@ -133,6 +163,26 @@
               "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
               "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-185",
               "sourceLine": 185
+            }
+          ]
+        },
+        {
+          "id": "v-fb01f1170b",
+          "answer": "Prevents backflow from right ventricle to right atrium during systole.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-451"
+            }
+          ]
+        },
+        {
+          "id": "v-2fd233a83d",
+          "answer": "Prevents systolic backflow from right ventricle to right atrium.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-499"
             }
           ]
         }
@@ -177,6 +227,24 @@
         "25"
       ],
       "label": "25"
+    },
+    {
+      "modelId": "thorax-model-hs21",
+      "section": "Heart / Right ventricle",
+      "path": [
+        "38",
+        "8"
+      ],
+      "label": "8"
+    },
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Thorax",
+      "path": [
+        "57",
+        "h"
+      ],
+      "label": "h"
     }
   ]
 }

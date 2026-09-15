@@ -1,0 +1,90 @@
+{
+  "id": "right-subclavian-artery-47bb0e8178",
+  "name": "Right subclavian artery",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Arteries"
+  ],
+  "systems": [
+    "Cardiovascular"
+  ],
+  "regions": [
+    "Thorax"
+  ],
+  "organs": [],
+  "tags": [
+    "Artery",
+    "Identification",
+    "Origin",
+    "Supply",
+    "Vessels"
+  ],
+  "imageIds": [
+    "img-83f973fcac77"
+  ],
+  "facts": [
+    {
+      "id": "f-ddd3a3a1b7",
+      "question": "Identification",
+      "preferredVariantId": "v-47bb0e8178",
+      "variants": [
+        {
+          "id": "v-47bb0e8178",
+          "answer": "Right subclavian artery",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-541"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-7fbd922599",
+      "question": "Origin",
+      "preferredVariantId": "v-8f76516b40",
+      "variants": [
+        {
+          "id": "v-8f76516b40",
+          "answer": "Branch of the brachiocephalic trunk.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-542"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-2c0017dbce",
+      "question": "Supply",
+      "preferredVariantId": "v-58b2594d3a",
+      "variants": [
+        {
+          "id": "v-58b2594d3a",
+          "answer": "Supplies the right upper limb and contributes to head, neck and thoracic supply.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-543"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "thorax-model-hs21",
+      "section": "Vessels",
+      "path": [
+        "27"
+      ],
+      "label": "27"
+    }
+  ]
+}

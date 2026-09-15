@@ -1,0 +1,122 @@
+{
+  "id": "first-thoracic-vertebra-7c7218b9ac",
+  "name": "First thoracic vertebra",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Bones"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "regions": [
+    "Thorax",
+    "Back"
+  ],
+  "organs": [],
+  "tags": [
+    "Articulations",
+    "Bone",
+    "Bones",
+    "Dorsum",
+    "Identification",
+    "Location",
+    "Relations"
+  ],
+  "imageIds": [
+    "img-38881e62e38b"
+  ],
+  "facts": [
+    {
+      "id": "f-306c290acd",
+      "question": "Identification",
+      "preferredVariantId": "v-7c7218b9ac",
+      "variants": [
+        {
+          "id": "v-7c7218b9ac",
+          "answer": "First thoracic vertebra",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-15"
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-757"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c848ac0440",
+      "question": "Region",
+      "preferredVariantId": "v-9eff9e21c1",
+      "variants": [
+        {
+          "id": "v-9eff9e21c1",
+          "answer": "Transitional vertebra at the cervicothoracic junction.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-16"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-7edfd7f3d1",
+      "question": "Articulations",
+      "preferredVariantId": "v-4d88c932a5",
+      "variants": [
+        {
+          "id": "v-4d88c932a5",
+          "answer": "Articulates with the first rib and part of the second rib.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-17"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-08a9f2c8cd",
+      "question": "Relations",
+      "preferredVariantId": "v-895d6395a7",
+      "variants": [
+        {
+          "id": "v-895d6395a7",
+          "answer": "Transitional vertebra at cervicothoracic junction.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-758"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "thorax-model-hs21",
+      "section": "Bones and cartilages",
+      "path": [
+        "3"
+      ],
+      "label": "3"
+    },
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Dorsum",
+      "path": [
+        "94"
+      ],
+      "label": "94"
+    }
+  ]
+}

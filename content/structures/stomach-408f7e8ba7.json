@@ -1,0 +1,114 @@
+{
+  "id": "stomach-408f7e8ba7",
+  "name": "Stomach",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Organs"
+  ],
+  "systems": [
+    "Digestive"
+  ],
+  "regions": [
+    "Thorax",
+    "Abdomen"
+  ],
+  "organs": [],
+  "tags": [
+    "Abdomen",
+    "Function",
+    "Identification",
+    "Location",
+    "Organ",
+    "Viscera"
+  ],
+  "imageIds": [
+    "img-d93f50674b48"
+  ],
+  "facts": [
+    {
+      "id": "f-655600c76c",
+      "question": "Identification",
+      "preferredVariantId": "v-408f7e8ba7",
+      "variants": [
+        {
+          "id": "v-408f7e8ba7",
+          "answer": "Stomach",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-157"
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-534"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-852511e642",
+      "question": "Function",
+      "preferredVariantId": "v-7b6fc66e85",
+      "variants": [
+        {
+          "id": "v-7b6fc66e85",
+          "answer": "Reservoir and mixing chamber for food; begins protein digestion and regulates delivery to duodenum.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-158"
+            }
+          ]
+        },
+        {
+          "id": "v-05ee2d9d36",
+          "answer": "Stores, mixes and chemically processes food before controlled emptying into duodenum.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-535"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f474de5789",
+      "question": "Location",
+      "preferredVariantId": "v-3c7faa091b",
+      "variants": [
+        {
+          "id": "v-3c7faa091b",
+          "answer": "Primarily left upper abdomen beneath the diaphragm.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-159"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "thorax-model-hs21",
+      "section": "Viscera",
+      "path": [
+        "26"
+      ],
+      "label": "26"
+    },
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Abdomen",
+      "path": [
+        "59"
+      ],
+      "label": "59"
+    }
+  ]
+}

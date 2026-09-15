@@ -17,7 +17,11 @@
     "Liver"
   ],
   "tags": [
+    "Abdomen",
+    "Identification",
+    "Liver",
     "LiverLobe",
+    "LiverStructure",
     "LobesAndLandmarks",
     "Location",
     "Relations"
@@ -37,6 +41,10 @@
               "modelId": "liver-js5",
               "cardId": "liver-js5-21",
               "sourceLine": 21
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-727"
             }
           ]
         }
@@ -75,6 +83,16 @@
               "sourceLine": 23
             }
           ]
+        },
+        {
+          "id": "v-306c8cd8fb",
+          "answer": "Named lobe, vessel or duct related to the liver.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-728"
+            }
+          ]
         }
       ]
     },
@@ -105,6 +123,14 @@
         "4"
       ],
       "label": "4"
+    },
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Abdomen / Liver",
+      "path": [
+        "d"
+      ],
+      "label": "d"
     }
   ]
 }

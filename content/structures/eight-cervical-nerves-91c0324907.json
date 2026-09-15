@@ -1,0 +1,88 @@
+{
+  "id": "eight-cervical-nerves-91c0324907",
+  "name": "Eight cervical nerves",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "NerveGroup"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "regions": [
+    "Back"
+  ],
+  "organs": [],
+  "tags": [
+    "Function",
+    "Identification",
+    "NerveGroup",
+    "Roots",
+    "SpinalNerves"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-5bd4e39cb0",
+      "question": "Identification",
+      "preferredVariantId": "v-91c0324907",
+      "variants": [
+        {
+          "id": "v-91c0324907",
+          "answer": "Eight cervical nerves",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-852"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-94205c668c",
+      "question": "Roots",
+      "preferredVariantId": "v-50a97c68c4",
+      "variants": [
+        {
+          "id": "v-50a97c68c4",
+          "answer": "C1–C8 spinal nerves.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-853"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-46ca6df573",
+      "question": "Function",
+      "preferredVariantId": "v-1b9272e0aa",
+      "variants": [
+        {
+          "id": "v-1b9272e0aa",
+          "answer": "Provide segmental motor, sensory and autonomic fibres to neck, upper limb and associated structures.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-854"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Spinal nerves",
+      "path": [
+        "1"
+      ],
+      "label": "1"
+    }
+  ]
+}

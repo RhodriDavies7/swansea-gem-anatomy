@@ -1,0 +1,88 @@
+{
+  "id": "ribs-with-costal-cartilage-5a8c659a25",
+  "name": "Ribs with costal cartilage",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Bones"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "organs": [],
+  "tags": [
+    "Bone",
+    "Bones",
+    "Function",
+    "Identification",
+    "Structure"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-2849ba5fd4",
+      "question": "Identification",
+      "preferredVariantId": "v-5a8c659a25",
+      "variants": [
+        {
+          "id": "v-5a8c659a25",
+          "answer": "Ribs with costal cartilage",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-55"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-30f0887b4e",
+      "question": "Function",
+      "preferredVariantId": "v-1f6597a3e6",
+      "variants": [
+        {
+          "id": "v-1f6597a3e6",
+          "answer": "Form the thoracic cage, protect thoracic organs and participate in respiration.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-56"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f14e160ed6",
+      "question": "Structure",
+      "preferredVariantId": "v-cff0af1dde",
+      "variants": [
+        {
+          "id": "v-cff0af1dde",
+          "answer": "Bony ribs continue anteriorly as flexible costal cartilages.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-57"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Bones",
+      "path": [
+        "XI"
+      ],
+      "label": "XI"
+    }
+  ]
+}

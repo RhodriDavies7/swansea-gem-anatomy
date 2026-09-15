@@ -22,7 +22,10 @@
     "Brain",
     "Coronal",
     "Course",
+    "CranialNerves",
     "Eye",
+    "Function",
+    "Identification",
     "Lesion",
     "MidSagittal",
     "MidlineStructures",
@@ -72,6 +75,10 @@
               "modelId": "head-and-neck-model-cs17-2",
               "cardId": "head-and-neck-model-cs17-2-742",
               "sourceLine": 742
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-226"
             }
           ]
         },
@@ -88,6 +95,10 @@
               "modelId": "head-and-neck-model-cs17-2",
               "cardId": "head-and-neck-model-cs17-2-575",
               "sourceLine": 575
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-291"
             }
           ]
         }
@@ -208,6 +219,16 @@
             }
           ],
           "editorial": true
+        },
+        {
+          "id": "v-07308dabd4",
+          "answer": "Axons of retinal ganglion cells forming cranial nerve II.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-292"
+            }
+          ]
         }
       ],
       "editorialReview": {
@@ -289,6 +310,16 @@
               "sourceLine": 744
             }
           ]
+        },
+        {
+          "id": "v-19f759f2c7",
+          "answer": "Passes from retina through optic canal to the optic chiasm.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-293"
+            }
+          ]
         }
       ],
       "editorialReview": {
@@ -362,6 +393,16 @@
               "modelId": "head-and-neck-model-cs17-2",
               "cardId": "head-and-neck-model-cs17-2-578",
               "sourceLine": 578
+            }
+          ]
+        },
+        {
+          "id": "v-55472c2b92",
+          "answer": "Carries visual afferent information and forms the afferent limb of the pupillary light reflex.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-294"
             }
           ]
         }
@@ -492,12 +533,49 @@
             }
           ],
           "editorial": true
+        },
+        {
+          "id": "v-03b4e1f09f",
+          "answer": "Monocular visual loss and an afferent pupillary defect on the affected side.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-228"
+            }
+          ]
+        },
+        {
+          "id": "v-523a2f50c9",
+          "answer": "Causes ipsilateral monocular visual loss and a relative afferent pupillary defect.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-295"
+            }
+          ]
         }
       ],
       "editorialReview": {
         "date": "2026-09-11",
         "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
       }
+    },
+    {
+      "id": "f-7b84dbd633",
+      "question": "Function",
+      "preferredVariantId": "v-6086edfbf8",
+      "variants": [
+        {
+          "id": "v-6086edfbf8",
+          "answer": "Carries visual information from retina to the brain.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-227"
+            }
+          ]
+        }
+      ]
     }
   ],
   "occurrences": [
@@ -564,6 +642,22 @@
         "3"
       ],
       "label": "3"
+    },
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Cranial nerves",
+      "path": [
+        "II"
+      ],
+      "label": "II"
+    },
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Eye",
+      "path": [
+        "17c"
+      ],
+      "label": "17c"
     }
   ],
   "redirectIds": [

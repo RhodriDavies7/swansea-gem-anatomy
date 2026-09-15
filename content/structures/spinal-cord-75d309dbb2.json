@@ -8,7 +8,9 @@
     "Other"
   ],
   "regions": [
-    "Head and neck"
+    "Head and neck",
+    "Thorax",
+    "Back"
   ],
   "systems": [
     "Nervous"
@@ -16,10 +18,14 @@
   "organs": [],
   "tags": [
     "CNS",
+    "Clinical",
+    "Dorsum",
     "Function",
+    "Identification",
     "Location",
     "MidSagittal",
-    "MidlineStructures"
+    "MidlineStructures",
+    "Nerves"
   ],
   "imageIds": [],
   "facts": [
@@ -41,6 +47,14 @@
               "modelId": "half-head-and-neck-model-bs9",
               "cardId": "half-head-and-neck-model-bs9-227",
               "sourceLine": 227
+            },
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-616"
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-787"
             }
           ]
         }
@@ -66,6 +80,16 @@
               "sourceLine": 228
             }
           ]
+        },
+        {
+          "id": "v-11524eedfd",
+          "answer": "Within the vertebral canal.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-618"
+            }
+          ]
         }
       ]
     },
@@ -89,6 +113,43 @@
               "sourceLine": 229
             }
           ]
+        },
+        {
+          "id": "v-03ee7a739a",
+          "answer": "Conducts ascending sensory and descending motor pathways and integrates spinal reflexes.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-617"
+            }
+          ]
+        },
+        {
+          "id": "v-3f3684fc85",
+          "answer": "Conducts sensory and motor pathways and integrates spinal reflexes.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-788"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-38ab2e9a3e",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-15f48251c5",
+      "variants": [
+        {
+          "id": "v-15f48251c5",
+          "answer": "Thoracic cord injury can produce motor, sensory and autonomic deficits below the lesion.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-619"
+            }
+          ]
         }
       ]
     }
@@ -109,6 +170,22 @@
         "22"
       ],
       "label": "22"
+    },
+    {
+      "modelId": "thorax-model-hs21",
+      "section": "Nerves",
+      "path": [
+        "41"
+      ],
+      "label": "41"
+    },
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Dorsum",
+      "path": [
+        "101"
+      ],
+      "label": "101"
     }
   ]
 }

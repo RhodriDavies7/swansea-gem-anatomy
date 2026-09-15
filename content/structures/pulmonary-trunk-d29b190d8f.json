@@ -24,10 +24,17 @@
     "AuriclesVesselsValves",
     "CardiacVesselsValves",
     "Course",
+    "Function",
+    "Heart",
+    "HeartStructure",
+    "Identification",
     "Origin",
+    "RightVentricle",
     "Supply"
   ],
-  "imageIds": [],
+  "imageIds": [
+    "img-12397b4ac60e"
+  ],
   "facts": [
     {
       "id": "f-9d2c706308",
@@ -47,6 +54,10 @@
               "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
               "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-176",
               "sourceLine": 176
+            },
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-463"
             }
           ]
         }
@@ -130,6 +141,23 @@
           ]
         }
       ]
+    },
+    {
+      "id": "f-964793c54f",
+      "question": "Function",
+      "preferredVariantId": "v-872019d525",
+      "variants": [
+        {
+          "id": "v-872019d525",
+          "answer": "Carries deoxygenated blood from right ventricle to the pulmonary arteries.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-464"
+            }
+          ]
+        }
+      ]
     }
   ],
   "occurrences": [
@@ -148,6 +176,15 @@
         "24"
       ],
       "label": "24"
+    },
+    {
+      "modelId": "thorax-model-hs21",
+      "section": "Heart / Right ventricle",
+      "path": [
+        "38",
+        "11"
+      ],
+      "label": "11"
     }
   ]
 }

@@ -18,6 +18,8 @@
     "Course",
     "Formation",
     "HeadNeck",
+    "Identification",
+    "NoseMouthNeck",
     "Termination",
     "Vein"
   ],
@@ -36,6 +38,10 @@
               "modelId": "head-and-neck-model-cs17-2",
               "cardId": "head-and-neck-model-cs17-2-479",
               "sourceLine": 479
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-414"
             }
           ]
         }
@@ -74,6 +80,16 @@
               "sourceLine": 481
             }
           ]
+        },
+        {
+          "id": "v-83fd9e0fdf",
+          "answer": "Continuation of axillary vein across first rib.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-415"
+            }
+          ]
         }
       ]
     },
@@ -90,6 +106,10 @@
               "modelId": "head-and-neck-model-cs17-2",
               "cardId": "head-and-neck-model-cs17-2-482",
               "sourceLine": 482
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-416"
             }
           ]
         }
@@ -104,6 +124,14 @@
         "74"
       ],
       "label": "74"
+    },
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Nose, mouth and neck",
+      "path": [
+        "50"
+      ],
+      "label": "50"
     }
   ]
 }

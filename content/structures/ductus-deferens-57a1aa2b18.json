@@ -8,15 +8,18 @@
     "Other"
   ],
   "regions": [
-    "Pelvis"
+    "Pelvis",
+    "Abdomen"
   ],
   "systems": [
     "Reproductive"
   ],
   "organs": [],
   "tags": [
+    "Abdomen",
     "Course",
     "Function",
+    "Identification",
     "Innervation",
     "Relations",
     "Termination",
@@ -37,6 +40,10 @@
               "modelId": "male-reproductive-system-model-ms2",
               "cardId": "male-reproductive-system-model-ms2-88",
               "sourceLine": 88
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-660"
             }
           ]
         }
@@ -55,6 +62,16 @@
               "modelId": "male-reproductive-system-model-ms2",
               "cardId": "male-reproductive-system-model-ms2-89",
               "sourceLine": 89
+            }
+          ]
+        },
+        {
+          "id": "v-967b0cc475",
+          "answer": "Transports sperm from epididymis toward ejaculatory duct.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-661"
             }
           ]
         }
@@ -141,6 +158,14 @@
         "8"
       ],
       "label": "8"
+    },
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Abdomen",
+      "path": [
+        "82"
+      ],
+      "label": "82"
     }
   ]
 }

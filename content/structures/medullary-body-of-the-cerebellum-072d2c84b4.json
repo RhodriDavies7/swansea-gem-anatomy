@@ -1,0 +1,70 @@
+{
+  "id": "medullary-body-of-the-cerebellum-072d2c84b4",
+  "name": "Medullary body of the cerebellum",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "CNS"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "organs": [],
+  "tags": [
+    "Brain",
+    "CNS",
+    "Identification",
+    "Structure"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-ab120b9a3d",
+      "question": "Identification",
+      "preferredVariantId": "v-072d2c84b4",
+      "variants": [
+        {
+          "id": "v-072d2c84b4",
+          "answer": "Medullary body of the cerebellum",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-179"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-a9fb10b851",
+      "question": "Structure",
+      "preferredVariantId": "v-ed4a5e34b1",
+      "variants": [
+        {
+          "id": "v-ed4a5e34b1",
+          "answer": "Central white matter of the cerebellum, branching into the arbor vitae.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-180"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Brain",
+      "path": [
+        "25"
+      ],
+      "label": "25"
+    }
+  ]
+}

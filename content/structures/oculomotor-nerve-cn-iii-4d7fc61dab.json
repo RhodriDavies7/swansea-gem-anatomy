@@ -17,13 +17,18 @@
   "tags": [
     "Brain",
     "Course",
+    "CranialNerves",
+    "Function",
+    "Identification",
     "Lesion",
     "Motor",
     "Nerve",
     "Roots",
     "Sensory"
   ],
-  "imageIds": [],
+  "imageIds": [
+    "img-3b609693d6e1"
+  ],
   "facts": [
     {
       "id": "f-9d2c706308",
@@ -43,6 +48,10 @@
               "modelId": "head-and-neck-model-cs17-2",
               "cardId": "head-and-neck-model-cs17-2-749",
               "sourceLine": 749
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-231"
             }
           ]
         }
@@ -173,6 +182,16 @@
               "sourceLine": 754
             }
           ]
+        },
+        {
+          "id": "v-0e6f25e027",
+          "answer": "Ptosis, 'down and out' eye, diplopia and a dilated poorly reactive pupil if parasympathetic fibres are involved.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-233"
+            }
+          ]
         }
       ],
       "editorialReview": {
@@ -197,6 +216,23 @@
           ]
         }
       ]
+    },
+    {
+      "id": "f-dfe4defa66",
+      "question": "Function",
+      "preferredVariantId": "v-4fdcca965b",
+      "variants": [
+        {
+          "id": "v-4fdcca965b",
+          "answer": "Motor to most extraocular muscles and levator palpebrae; parasympathetic to pupil constrictor/ciliary muscle.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-232"
+            }
+          ]
+        }
+      ]
     }
   ],
   "occurrences": [
@@ -215,6 +251,14 @@
         "17"
       ],
       "label": "17"
+    },
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Cranial nerves",
+      "path": [
+        "III"
+      ],
+      "label": "III"
     }
   ]
 }

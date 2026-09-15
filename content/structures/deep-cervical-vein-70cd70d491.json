@@ -1,0 +1,88 @@
+{
+  "id": "deep-cervical-vein-70cd70d491",
+  "name": "Deep cervical vein",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Veins"
+  ],
+  "systems": [
+    "Digestive"
+  ],
+  "regions": [
+    "Back"
+  ],
+  "organs": [],
+  "tags": [
+    "Dorsum",
+    "Drainage",
+    "Identification",
+    "Termination",
+    "Vein"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-c37cae284d",
+      "question": "Identification",
+      "preferredVariantId": "v-70cd70d491",
+      "variants": [
+        {
+          "id": "v-70cd70d491",
+          "answer": "Deep cervical vein",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-846"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-242341f7e3",
+      "question": "Drainage",
+      "preferredVariantId": "v-3027a4ca22",
+      "variants": [
+        {
+          "id": "v-3027a4ca22",
+          "answer": "Drains deep posterior neck structures.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-847"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-022919f21f",
+      "question": "Termination",
+      "preferredVariantId": "v-29210bf3c9",
+      "variants": [
+        {
+          "id": "v-29210bf3c9",
+          "answer": "Usually drains into vertebral or brachiocephalic venous system.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-848"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Dorsum",
+      "path": [
+        "109"
+      ],
+      "label": "109"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "id": "intercostal-artery-and-vein-ba61f57670",
+  "name": "Intercostal artery and vein",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "VesselGroup"
+  ],
+  "systems": [
+    "Digestive"
+  ],
+  "regions": [
+    "Back"
+  ],
+  "organs": [],
+  "tags": [
+    "Course",
+    "Dorsum",
+    "Function",
+    "Identification",
+    "VesselGroup"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-1b3ec34c22",
+      "question": "Identification",
+      "preferredVariantId": "v-ba61f57670",
+      "variants": [
+        {
+          "id": "v-ba61f57670",
+          "answer": "Intercostal artery and vein",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-836"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c5b16b426d",
+      "question": "Course",
+      "preferredVariantId": "v-c7b1b4b3df",
+      "variants": [
+        {
+          "id": "v-c7b1b4b3df",
+          "answer": "Run in the costal groove with the intercostal nerve.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-837"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-5947be2aa3",
+      "question": "Function",
+      "preferredVariantId": "v-818b066e67",
+      "variants": [
+        {
+          "id": "v-818b066e67",
+          "answer": "Supply and drain the intercostal spaces/thoracic wall.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-838"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Dorsum",
+      "path": [
+        "107"
+      ],
+      "label": "107"
+    }
+  ]
+}

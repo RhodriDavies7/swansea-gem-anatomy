@@ -1,0 +1,1332 @@
+[
+  {
+    "label": "I",
+    "section": "Bones",
+    "sourceName": "Frontal bone",
+    "structureId": "frontal-bone-1f589989c1",
+    "existing": true
+  },
+  {
+    "label": "II",
+    "section": "Bones",
+    "sourceName": "Sphenoid bone",
+    "structureId": "sphenoid-bone-1c1ed77cc7",
+    "existing": true
+  },
+  {
+    "label": "III",
+    "section": "Bones",
+    "sourceName": "Parietal bone",
+    "structureId": "parietal-bone-980519da15",
+    "existing": true
+  },
+  {
+    "label": "IV",
+    "section": "Bones",
+    "sourceName": "Temporal bone",
+    "structureId": "temporal-bone-d16c45cccc",
+    "existing": true
+  },
+  {
+    "label": "V",
+    "section": "Bones",
+    "sourceName": "Occipital bone",
+    "structureId": "occipital-bone-2ac070753b",
+    "existing": true
+  },
+  {
+    "label": "VI",
+    "section": "Bones",
+    "sourceName": "Maxilla",
+    "structureId": "maxilla-8ba086319d",
+    "existing": true
+  },
+  {
+    "label": "VII",
+    "section": "Bones",
+    "sourceName": "Hard palate",
+    "structureId": "hard-palate-8f81b6b8ed",
+    "existing": true
+  },
+  {
+    "label": "VIII",
+    "section": "Bones",
+    "sourceName": "Mandible",
+    "structureId": "mandible-326bf8478a",
+    "existing": true
+  },
+  {
+    "label": "IX",
+    "section": "Bones",
+    "sourceName": "Clavicle",
+    "structureId": "clavicle-75d5b7512b",
+    "existing": true
+  },
+  {
+    "label": "X",
+    "section": "Bones",
+    "sourceName": "Sternum",
+    "structureId": "sternum-43a7d052ca",
+    "existing": true
+  },
+  {
+    "label": "XI",
+    "section": "Bones",
+    "sourceName": "Ribs with costal cartilage",
+    "structureId": "ribs-with-costal-cartilage-5a8c659a25",
+    "existing": false
+  },
+  {
+    "label": "XII",
+    "section": "Bones",
+    "sourceName": "Ilium",
+    "structureId": "ilium-49060b72e9",
+    "existing": true
+  },
+  {
+    "label": "XIII",
+    "section": "Bones",
+    "sourceName": "Pubic bone",
+    "structureId": "pubis-55135df83f",
+    "existing": true
+  },
+  {
+    "label": "XIV",
+    "section": "Bones",
+    "sourceName": "Fifth lumbar vertebra with promontory",
+    "structureId": "fifth-lumbar-vertebra-with-promontory-ad4953014c",
+    "existing": false
+  },
+  {
+    "label": "1",
+    "section": "Brain",
+    "sourceName": "Dura mater of the brain",
+    "structureId": "dura-mater-e539e1e7dc",
+    "existing": true
+  },
+  {
+    "label": "2",
+    "section": "Brain",
+    "sourceName": "Tentorium cerebelli",
+    "structureId": "tentorium-cerebelli-93fd57e947",
+    "existing": true
+  },
+  {
+    "label": "3",
+    "section": "Brain",
+    "sourceName": "Frontal lobe",
+    "structureId": "frontal-lobe-c2db3cf0a3",
+    "existing": true
+  },
+  {
+    "label": "4",
+    "section": "Brain",
+    "sourceName": "Parietal lobe",
+    "structureId": "parietal-lobe-d0dd66f4a9",
+    "existing": true
+  },
+  {
+    "label": "5",
+    "section": "Brain",
+    "sourceName": "Occipital lobe",
+    "structureId": "occipital-lobe-fd8c0271a3",
+    "existing": true
+  },
+  {
+    "label": "6",
+    "section": "Brain",
+    "sourceName": "Temporal lobe",
+    "structureId": "temporal-lobe-075bb550bf",
+    "existing": true
+  },
+  {
+    "label": "7",
+    "section": "Brain",
+    "sourceName": "Cerebellum",
+    "structureId": "cerebellum-d2881c36c4",
+    "existing": true
+  },
+  {
+    "label": "8",
+    "section": "Brain",
+    "sourceName": "Corpus callosum",
+    "structureId": "corpus-callosum-275f34c874",
+    "existing": true
+  },
+  {
+    "label": "9",
+    "section": "Brain",
+    "sourceName": "Septum pellucidum",
+    "structureId": "septum-pellucidum-c573e38750",
+    "existing": true
+  },
+  {
+    "label": "10",
+    "section": "Brain",
+    "sourceName": "Fornix",
+    "structureId": "fornix-0bc39a021d",
+    "existing": true
+  },
+  {
+    "label": "11",
+    "section": "Brain",
+    "sourceName": "Thalamus",
+    "structureId": "thalamus-fcb7a9e611",
+    "existing": true
+  },
+  {
+    "label": "12",
+    "section": "Brain",
+    "sourceName": "Foramen of Monro (interventricular foramen)",
+    "structureId": "interventricular-foramen-ec3a9d03f1",
+    "existing": true
+  },
+  {
+    "label": "13",
+    "section": "Brain",
+    "sourceName": "Anterior commissure",
+    "structureId": "anterior-commissure-743b14b86b",
+    "existing": true
+  },
+  {
+    "label": "14",
+    "section": "Brain",
+    "sourceName": "Interthalamic adhesion",
+    "structureId": "interthalamic-adhesion-b4af702e12",
+    "existing": true
+  },
+  {
+    "label": "15",
+    "section": "Brain",
+    "sourceName": "Posterior commissure",
+    "structureId": "posterior-commissure-99aa6fdb38",
+    "existing": true
+  },
+  {
+    "label": "16",
+    "section": "Brain",
+    "sourceName": "Pineal gland",
+    "structureId": "pineal-body-pineal-gland-5aa736b2b0",
+    "existing": true
+  },
+  {
+    "label": "17",
+    "section": "Brain",
+    "sourceName": "Tectum of the midbrain",
+    "structureId": "tectum-of-midbrain-dfc32fe306",
+    "existing": true
+  },
+  {
+    "label": "18",
+    "section": "Brain",
+    "sourceName": "Fourth ventricle",
+    "structureId": "fourth-ventricle-17b994a379",
+    "existing": true
+  },
+  {
+    "label": "19",
+    "section": "Brain",
+    "sourceName": "Cerebral aqueduct",
+    "structureId": "cerebral-aqueduct-aqueduct-of-sylvius-ec857b8f52",
+    "existing": true
+  },
+  {
+    "label": "20",
+    "section": "Brain",
+    "sourceName": "Superior medullary velum",
+    "structureId": "superior-anterior-medullary-velum-38da4588fd",
+    "existing": true
+  },
+  {
+    "label": "21",
+    "section": "Brain",
+    "sourceName": "Medulla oblongata",
+    "structureId": "medulla-oblongata-8141805587",
+    "existing": true
+  },
+  {
+    "label": "22",
+    "section": "Brain",
+    "sourceName": "Pons",
+    "structureId": "pons-6282133503",
+    "existing": true
+  },
+  {
+    "label": "23",
+    "section": "Brain",
+    "sourceName": "Cerebral peduncle",
+    "structureId": "cerebral-peduncle-c723b41c76",
+    "existing": false
+  },
+  {
+    "label": "24",
+    "section": "Brain",
+    "sourceName": "Middle cerebellar peduncle",
+    "structureId": "middle-cerebellar-peduncle-a65246f62d",
+    "existing": false
+  },
+  {
+    "label": "25",
+    "section": "Brain",
+    "sourceName": "Medullary body of the cerebellum",
+    "structureId": "medullary-body-of-the-cerebellum-072d2c84b4",
+    "existing": false
+  },
+  {
+    "label": "26",
+    "section": "Brain",
+    "sourceName": "Medullary pyramid",
+    "structureId": "medullary-pyramid-a2cf0aa771",
+    "existing": false
+  },
+  {
+    "label": "27",
+    "section": "Brain",
+    "sourceName": "Olive",
+    "structureId": "olive-8f62f4336f",
+    "existing": false
+  },
+  {
+    "label": "28",
+    "section": "Brain",
+    "sourceName": "Mammillary body",
+    "structureId": "mammillary-body-eac83fb7a5",
+    "existing": true
+  },
+  {
+    "label": "29",
+    "section": "Brain",
+    "sourceName": "Pituitary gland",
+    "structureId": "pituitary-gland-hypophysis-083652bc58",
+    "existing": true
+  },
+  {
+    "label": "30",
+    "section": "Brain",
+    "sourceName": "Optic chiasm",
+    "structureId": "optic-chiasm-2b250b62e2",
+    "existing": false
+  },
+  {
+    "label": "a",
+    "section": "Brain / Corpus callosum parts",
+    "sourceName": "Rostrum of corpus callosum",
+    "structureId": "rostrum-of-corpus-callosum-9b9307a14e",
+    "existing": false
+  },
+  {
+    "label": "b",
+    "section": "Brain / Corpus callosum parts",
+    "sourceName": "Genu of corpus callosum",
+    "structureId": "genu-of-corpus-callosum-86cff4eeeb",
+    "existing": false
+  },
+  {
+    "label": "c",
+    "section": "Brain / Corpus callosum parts",
+    "sourceName": "Splenium of corpus callosum",
+    "structureId": "splenium-of-corpus-callosum-44c71d91ff",
+    "existing": false
+  },
+  {
+    "label": "I",
+    "section": "Cranial nerves",
+    "sourceName": "Olfactory nerve (CN I)",
+    "structureId": "olfactory-nerve-cn-i-22257f62d1",
+    "existing": false
+  },
+  {
+    "label": "II",
+    "section": "Cranial nerves",
+    "sourceName": "Optic nerve (CN II)",
+    "structureId": "optic-nerve-cn-ii-16898537fd",
+    "existing": true
+  },
+  {
+    "label": "III",
+    "section": "Cranial nerves",
+    "sourceName": "Oculomotor nerve (CN III)",
+    "structureId": "oculomotor-nerve-cn-iii-4d7fc61dab",
+    "existing": true
+  },
+  {
+    "label": "IV",
+    "section": "Cranial nerves",
+    "sourceName": "Trochlear nerve (CN IV)",
+    "structureId": "trochlear-nerve-cn-iv-1087c804d0",
+    "existing": true
+  },
+  {
+    "label": "V",
+    "section": "Cranial nerves",
+    "sourceName": "Trigeminal nerve (CN V)",
+    "structureId": "trigeminal-nerve-cn-v-4edd7269fe",
+    "existing": true
+  },
+  {
+    "label": "VI",
+    "section": "Cranial nerves",
+    "sourceName": "Abducens nerve (CN VI)",
+    "structureId": "abducens-nerve-cn-vi-a2b784816a",
+    "existing": true
+  },
+  {
+    "label": "VII",
+    "section": "Cranial nerves",
+    "sourceName": "Facial nerve (CN VII)",
+    "structureId": "facial-nerve-cn-vii-69c5a43599",
+    "existing": true
+  },
+  {
+    "label": "VIII",
+    "section": "Cranial nerves",
+    "sourceName": "Vestibulocochlear nerve (CN VIII)",
+    "structureId": "vestibulocochlear-nerve-cn-viii-a6f23a24c8",
+    "existing": true
+  },
+  {
+    "label": "IX",
+    "section": "Cranial nerves",
+    "sourceName": "Glossopharyngeal nerve (CN IX)",
+    "structureId": "glossopharyngeal-nerve-cn-ix-e8f791f8c3",
+    "existing": true
+  },
+  {
+    "label": "X",
+    "section": "Cranial nerves",
+    "sourceName": "Vagus nerve (CN X)",
+    "structureId": "vagus-nerve-cn-x-050cb0c8d5",
+    "existing": true
+  },
+  {
+    "label": "XI",
+    "section": "Cranial nerves",
+    "sourceName": "Accessory nerve (CN XI)",
+    "structureId": "accessory-nerve-cn-xi-ec8ea5def7",
+    "existing": true
+  },
+  {
+    "label": "XII",
+    "section": "Cranial nerves",
+    "sourceName": "Hypoglossal nerve (CN XII)",
+    "structureId": "hypoglossal-nerve-cn-xii-a00408a95d",
+    "existing": true
+  },
+  {
+    "label": "17a",
+    "section": "Eye",
+    "sourceName": "Eyeball",
+    "structureId": "eyeball-423825aa78",
+    "existing": false
+  },
+  {
+    "label": "17b",
+    "section": "Eye",
+    "sourceName": "Rectus muscle of the eye",
+    "structureId": "rectus-muscle-of-the-eye-d7459edc41",
+    "existing": false
+  },
+  {
+    "label": "17c",
+    "section": "Eye",
+    "sourceName": "Optic nerve",
+    "structureId": "optic-nerve-cn-ii-16898537fd",
+    "existing": true
+  },
+  {
+    "label": "31a",
+    "section": "Nose, mouth and neck",
+    "sourceName": "Superior nasal concha",
+    "structureId": "superior-nasal-concha-91a646650b",
+    "existing": true
+  },
+  {
+    "label": "31b",
+    "section": "Nose, mouth and neck",
+    "sourceName": "Middle nasal concha",
+    "structureId": "middle-nasal-concha-0dcb2af9b7",
+    "existing": true
+  },
+  {
+    "label": "32",
+    "section": "Nose, mouth and neck",
+    "sourceName": "Inferior nasal concha",
+    "structureId": "inferior-nasal-concha-2dc67c9d54",
+    "existing": true
+  },
+  {
+    "label": "33",
+    "section": "Nose, mouth and neck",
+    "sourceName": "Nasal septum",
+    "structureId": "nasal-septum-7e809a925a",
+    "existing": true
+  },
+  {
+    "label": "34",
+    "section": "Nose, mouth and neck",
+    "sourceName": "Tongue",
+    "structureId": "tongue-c325d24f2c",
+    "existing": true
+  },
+  {
+    "label": "35",
+    "section": "Nose, mouth and neck",
+    "sourceName": "Sublingual gland",
+    "structureId": "sublingual-gland-63b18862b9",
+    "existing": true
+  },
+  {
+    "label": "36",
+    "section": "Nose, mouth and neck",
+    "sourceName": "Submandibular gland",
+    "structureId": "submandibular-gland-9bc465a6b4",
+    "existing": true
+  },
+  {
+    "label": "37",
+    "section": "Nose, mouth and neck",
+    "sourceName": "Pharyngeal tonsil",
+    "structureId": "pharyngeal-tonsil-b9644b58ad",
+    "existing": true
+  },
+  {
+    "label": "37a",
+    "section": "Nose, mouth and neck",
+    "sourceName": "Palatine tonsil",
+    "structureId": "palatine-tonsil-42977202dc",
+    "existing": true
+  },
+  {
+    "label": "38",
+    "section": "Nose, mouth and neck",
+    "sourceName": "Styloglossus muscle",
+    "structureId": "styloglossus-muscle-17af53b150",
+    "existing": true
+  },
+  {
+    "label": "39",
+    "section": "Nose, mouth and neck",
+    "sourceName": "Stylopharyngeus muscle",
+    "structureId": "stylopharyngeus-muscle-7ca6e7d54b",
+    "existing": true
+  },
+  {
+    "label": "40",
+    "section": "Nose, mouth and neck",
+    "sourceName": "Stylohyoid muscle",
+    "structureId": "stylohyoid-muscle-666d117329",
+    "existing": true
+  },
+  {
+    "label": "41",
+    "section": "Nose, mouth and neck",
+    "sourceName": "Digastric muscle",
+    "structureId": "digastric-muscle-ed6f44dc7f",
+    "existing": true
+  },
+  {
+    "label": "42",
+    "section": "Nose, mouth and neck",
+    "sourceName": "Scalenus anterior muscle",
+    "structureId": "anterior-scalene-muscle-77d90e6488",
+    "existing": true
+  },
+  {
+    "label": "43",
+    "section": "Nose, mouth and neck",
+    "sourceName": "Internal jugular vein",
+    "structureId": "internal-jugular-vein-c610d89b53",
+    "existing": true
+  },
+  {
+    "label": "44",
+    "section": "Nose, mouth and neck",
+    "sourceName": "Common carotid artery",
+    "structureId": "common-carotid-artery-5f385006d4",
+    "existing": true
+  },
+  {
+    "label": "45",
+    "section": "Nose, mouth and neck",
+    "sourceName": "Thyroid gland",
+    "structureId": "thyroid-gland-914f76f53f",
+    "existing": true
+  },
+  {
+    "label": "46",
+    "section": "Nose, mouth and neck",
+    "sourceName": "Parotid gland",
+    "structureId": "parotid-gland-60e3a579f9",
+    "existing": true
+  },
+  {
+    "label": "47",
+    "section": "Nose, mouth and neck",
+    "sourceName": "Hyoid bone",
+    "structureId": "hyoid-bone-87a205bd00",
+    "existing": true
+  },
+  {
+    "label": "48",
+    "section": "Nose, mouth and neck",
+    "sourceName": "Thyroid cartilage",
+    "structureId": "thyroid-cartilage-dad3d80fd8",
+    "existing": true
+  },
+  {
+    "label": "48a",
+    "section": "Nose, mouth and neck",
+    "sourceName": "Inferior pharyngeal constrictor muscle",
+    "structureId": "inferior-pharyngeal-constrictor-muscle-53c25239be",
+    "existing": false
+  },
+  {
+    "label": "49",
+    "section": "Nose, mouth and neck",
+    "sourceName": "Trachea",
+    "structureId": "trachea-3613802d6d",
+    "existing": true
+  },
+  {
+    "label": "50",
+    "section": "Nose, mouth and neck",
+    "sourceName": "Subclavian vein",
+    "structureId": "subclavian-vein-51f6a17953",
+    "existing": true
+  },
+  {
+    "label": "51",
+    "section": "Nose, mouth and neck",
+    "sourceName": "Subclavian artery",
+    "structureId": "subclavian-artery-fc0e48cae5",
+    "existing": true
+  },
+  {
+    "label": "52",
+    "section": "Thorax",
+    "sourceName": "Right lung",
+    "structureId": "right-lung-with-bronchopulmonary-segments-30be3ec3ce",
+    "existing": true
+  },
+  {
+    "label": "53",
+    "section": "Thorax",
+    "sourceName": "Left lung",
+    "structureId": "left-lung-with-bronchopulmonary-segments-56c930935c",
+    "existing": true
+  },
+  {
+    "label": "54",
+    "section": "Thorax",
+    "sourceName": "Tracheal bifurcation (carina)",
+    "structureId": "carina-of-the-trachea-be24fa13d9",
+    "existing": true
+  },
+  {
+    "label": "55",
+    "section": "Thorax",
+    "sourceName": "Bronchi",
+    "structureId": "bronchi-38c2fba5c9",
+    "existing": false
+  },
+  {
+    "label": "56",
+    "section": "Thorax",
+    "sourceName": "Oesophagus",
+    "structureId": "oesophagus-ad76796645",
+    "existing": true
+  },
+  {
+    "label": "57",
+    "section": "Thorax",
+    "sourceName": "Heart",
+    "structureId": "heart-0e4ae2aa03",
+    "existing": true
+  },
+  {
+    "label": "I",
+    "section": "Thorax",
+    "sourceName": "Right atrium",
+    "structureId": "right-atrium-23132c28da",
+    "existing": true
+  },
+  {
+    "label": "II",
+    "section": "Thorax",
+    "sourceName": "Left atrium",
+    "structureId": "left-atrium-3a1bbd3c1c",
+    "existing": true
+  },
+  {
+    "label": "III",
+    "section": "Thorax",
+    "sourceName": "Right ventricle",
+    "structureId": "right-ventricle-eb83f05a3e",
+    "existing": true
+  },
+  {
+    "label": "IV",
+    "section": "Thorax",
+    "sourceName": "Left ventricle",
+    "structureId": "left-ventricle-dc0a19902e",
+    "existing": true
+  },
+  {
+    "label": "a",
+    "section": "Thorax",
+    "sourceName": "Right atrial appendage",
+    "structureId": "right-auricle-360da436cf",
+    "existing": true
+  },
+  {
+    "label": "b",
+    "section": "Thorax",
+    "sourceName": "Left atrial appendage",
+    "structureId": "left-auricle-6588af8a37",
+    "existing": true
+  },
+  {
+    "label": "c",
+    "section": "Thorax",
+    "sourceName": "Superior vena cava",
+    "structureId": "superior-vena-cava-d34b0694af",
+    "existing": true
+  },
+  {
+    "label": "d",
+    "section": "Thorax",
+    "sourceName": "Inferior vena cava",
+    "structureId": "inferior-vena-cava-12a0b3ae11",
+    "existing": true
+  },
+  {
+    "label": "e",
+    "section": "Thorax",
+    "sourceName": "Pulmonary veins",
+    "structureId": "pulmonary-veins-14d5443218",
+    "existing": true
+  },
+  {
+    "label": "f",
+    "section": "Thorax",
+    "sourceName": "Pulmonary artery",
+    "structureId": "pulmonary-artery-0f60efda66",
+    "existing": false
+  },
+  {
+    "label": "g",
+    "section": "Thorax",
+    "sourceName": "Aorta",
+    "structureId": "aorta-97a15f94fe",
+    "existing": true
+  },
+  {
+    "label": "h",
+    "section": "Thorax",
+    "sourceName": "Tricuspid valve",
+    "structureId": "tricuspid-valve-right-atrioventricular-valve-7bb0f89fae",
+    "existing": true
+  },
+  {
+    "label": "i",
+    "section": "Thorax",
+    "sourceName": "Mitral valve",
+    "structureId": "bicuspid-valve-mitral-left-atrioventricular-valve-27f66fbba4",
+    "existing": true
+  },
+  {
+    "label": "k",
+    "section": "Thorax",
+    "sourceName": "Pulmonary valve",
+    "structureId": "pulmonary-valve-4f9810ae3e",
+    "existing": true
+  },
+  {
+    "label": "l",
+    "section": "Thorax",
+    "sourceName": "Aortic valve",
+    "structureId": "aortic-valve-e70c184b1f",
+    "existing": true
+  },
+  {
+    "label": "m",
+    "section": "Thorax",
+    "sourceName": "Coronary arteries and veins",
+    "structureId": "coronary-arteries-and-veins-5981889af1",
+    "existing": false
+  },
+  {
+    "label": "58",
+    "section": "Thorax",
+    "sourceName": "Diaphragm",
+    "structureId": "diaphragm-60575b9d78",
+    "existing": true
+  },
+  {
+    "label": "58a",
+    "section": "Thorax",
+    "sourceName": "Parietal pleura",
+    "structureId": "parietal-pleura-50f2ab94bc",
+    "existing": false
+  },
+  {
+    "label": "58b",
+    "section": "Thorax",
+    "sourceName": "Reflection of the diaphragmatic pleura",
+    "structureId": "reflection-of-the-diaphragmatic-pleura-84f12e86df",
+    "existing": false
+  },
+  {
+    "label": "59",
+    "section": "Abdomen",
+    "sourceName": "Stomach",
+    "structureId": "stomach-408f7e8ba7",
+    "existing": true
+  },
+  {
+    "label": "a",
+    "section": "Abdomen / Stomach",
+    "sourceName": "Cardia of stomach",
+    "structureId": "cardia-of-stomach-e32c5d3360",
+    "existing": false
+  },
+  {
+    "label": "b",
+    "section": "Abdomen / Stomach",
+    "sourceName": "Pylorus",
+    "structureId": "pylorus-526cba587c",
+    "existing": true
+  },
+  {
+    "label": "c",
+    "section": "Abdomen / Stomach",
+    "sourceName": "Lesser curvature",
+    "structureId": "lesser-curvature-ea659e5ab5",
+    "existing": true
+  },
+  {
+    "label": "d",
+    "section": "Abdomen / Stomach",
+    "sourceName": "Greater curvature",
+    "structureId": "greater-curvature-4b100e2aba",
+    "existing": true
+  },
+  {
+    "label": "e",
+    "section": "Abdomen / Stomach",
+    "sourceName": "Fundus of stomach",
+    "structureId": "fundus-c5ca36d496",
+    "existing": true
+  },
+  {
+    "label": "f",
+    "section": "Abdomen / Stomach",
+    "sourceName": "Gastric canal",
+    "structureId": "gastric-canal-fa2c9cc0bf",
+    "existing": false
+  },
+  {
+    "label": "60",
+    "section": "Abdomen",
+    "sourceName": "Duodenum",
+    "structureId": "duodenum-39d05d6ae2",
+    "existing": true
+  },
+  {
+    "label": "61",
+    "section": "Abdomen",
+    "sourceName": "Jejunum",
+    "structureId": "jejunum-07b3f95a27",
+    "existing": false
+  },
+  {
+    "label": "62",
+    "section": "Abdomen",
+    "sourceName": "Ileum",
+    "structureId": "ileum-4ada308364",
+    "existing": false
+  },
+  {
+    "label": "63",
+    "section": "Abdomen",
+    "sourceName": "Large intestine",
+    "structureId": "large-intestine-b8408c12fe",
+    "existing": true
+  },
+  {
+    "label": "64",
+    "section": "Abdomen",
+    "sourceName": "Caecum",
+    "structureId": "caecum-bc9fe0e144",
+    "existing": false
+  },
+  {
+    "label": "65",
+    "section": "Abdomen",
+    "sourceName": "Ascending colon",
+    "structureId": "ascending-colon-7144e8381d",
+    "existing": false
+  },
+  {
+    "label": "66",
+    "section": "Abdomen",
+    "sourceName": "Transverse colon",
+    "structureId": "transverse-colon-d6b54aa22b",
+    "existing": false
+  },
+  {
+    "label": "67",
+    "section": "Abdomen",
+    "sourceName": "Descending colon",
+    "structureId": "descending-colon-42308d60fe",
+    "existing": false
+  },
+  {
+    "label": "68",
+    "section": "Abdomen",
+    "sourceName": "Sigmoid colon",
+    "structureId": "sigmoid-colon-534a7fa1d5",
+    "existing": false
+  },
+  {
+    "label": "69",
+    "section": "Abdomen",
+    "sourceName": "Rectum",
+    "structureId": "rectum-3cc6646f20",
+    "existing": true
+  },
+  {
+    "label": "70",
+    "section": "Abdomen",
+    "sourceName": "Liver",
+    "structureId": "liver-f52ceaf6f4",
+    "existing": true
+  },
+  {
+    "label": "71",
+    "section": "Abdomen",
+    "sourceName": "Gallbladder",
+    "structureId": "gallbladder-2ce4d8ab94",
+    "existing": true
+  },
+  {
+    "label": "72",
+    "section": "Abdomen",
+    "sourceName": "Cystic duct",
+    "structureId": "cystic-duct-0fa8a6e8f8",
+    "existing": false
+  },
+  {
+    "label": "73",
+    "section": "Abdomen",
+    "sourceName": "Common bile duct",
+    "structureId": "common-bile-duct-61bd005af8",
+    "existing": true
+  },
+  {
+    "label": "74",
+    "section": "Abdomen",
+    "sourceName": "Pancreas",
+    "structureId": "pancreas-b33dbd2eb8",
+    "existing": true
+  },
+  {
+    "label": "75",
+    "section": "Abdomen",
+    "sourceName": "Spleen",
+    "structureId": "spleen-3321107018",
+    "existing": true
+  },
+  {
+    "label": "76",
+    "section": "Abdomen",
+    "sourceName": "Transverse mesocolon (cut)",
+    "structureId": "transverse-mesocolon-cut-185f6a52d9",
+    "existing": false
+  },
+  {
+    "label": "76a",
+    "section": "Abdomen",
+    "sourceName": "Greater omentum",
+    "structureId": "greater-omentum-19ce38e8ae",
+    "existing": false
+  },
+  {
+    "label": "76b",
+    "section": "Abdomen",
+    "sourceName": "Lesser sac (omental bursa)",
+    "structureId": "lesser-sac-omental-bursa-5bd184d79e",
+    "existing": false
+  },
+  {
+    "label": "77",
+    "section": "Abdomen",
+    "sourceName": "Right kidney",
+    "structureId": "right-kidney-63f688a0df",
+    "existing": false
+  },
+  {
+    "label": "78",
+    "section": "Abdomen",
+    "sourceName": "Left kidney",
+    "structureId": "left-kidney-b9da1ce31b",
+    "existing": false
+  },
+  {
+    "label": "79",
+    "section": "Abdomen",
+    "sourceName": "Adrenal glands",
+    "structureId": "adrenal-glands-4afbf7cc7b",
+    "existing": false
+  },
+  {
+    "label": "80",
+    "section": "Abdomen",
+    "sourceName": "Ureter",
+    "structureId": "ureter-8f7d779c73",
+    "existing": true
+  },
+  {
+    "label": "81",
+    "section": "Abdomen",
+    "sourceName": "Urinary bladder",
+    "structureId": "urinary-bladder-f54829f90e",
+    "existing": true
+  },
+  {
+    "label": "82",
+    "section": "Abdomen",
+    "sourceName": "Ductus deferens",
+    "structureId": "ductus-deferens-57a1aa2b18",
+    "existing": true
+  },
+  {
+    "label": "83",
+    "section": "Abdomen",
+    "sourceName": "Seminal vesicle",
+    "structureId": "seminal-vesicles-ddb47c3811",
+    "existing": true
+  },
+  {
+    "label": "84",
+    "section": "Abdomen",
+    "sourceName": "Testicular vein and cremasteric artery",
+    "structureId": "testicular-vein-and-cremasteric-artery-fd6c741ebc",
+    "existing": false
+  },
+  {
+    "label": "85",
+    "section": "Abdomen",
+    "sourceName": "Aortic bifurcation",
+    "structureId": "aortic-bifurcation-26a5ccb017",
+    "existing": false
+  },
+  {
+    "label": "86",
+    "section": "Abdomen",
+    "sourceName": "Transversus abdominis muscle",
+    "structureId": "transversus-abdominis-muscle-9a74d34689",
+    "existing": false
+  },
+  {
+    "label": "87",
+    "section": "Abdomen",
+    "sourceName": "Quadratus lumborum muscle",
+    "structureId": "quadratus-lumborum-muscle-8a63c99a5c",
+    "existing": false
+  },
+  {
+    "label": "88",
+    "section": "Abdomen",
+    "sourceName": "Psoas major muscle",
+    "structureId": "psoas-major-muscle-465fb8563e",
+    "existing": true
+  },
+  {
+    "label": "89",
+    "section": "Abdomen",
+    "sourceName": "Psoas minor muscle",
+    "structureId": "psoas-minor-muscle-65dc94360d",
+    "existing": false
+  },
+  {
+    "label": "90",
+    "section": "Abdomen",
+    "sourceName": "Iliacus muscle",
+    "structureId": "iliacus-muscle-4ca9f703c2",
+    "existing": true
+  },
+  {
+    "label": "91",
+    "section": "Abdomen",
+    "sourceName": "Levator ani muscle",
+    "structureId": "levator-ani-muscle-group-633277e5ac",
+    "existing": true
+  },
+  {
+    "label": "a",
+    "section": "Abdomen / Caecum",
+    "sourceName": "Vermiform appendix",
+    "structureId": "vermiform-appendix-6dfeddb81b",
+    "existing": false
+  },
+  {
+    "label": "b",
+    "section": "Abdomen / Caecum",
+    "sourceName": "Ileocecal valve",
+    "structureId": "ileocecal-valve-f4b08db344",
+    "existing": false
+  },
+  {
+    "label": "a",
+    "section": "Abdomen / Liver",
+    "sourceName": "Right lobe of liver",
+    "structureId": "right-lobe-of-the-liver-103b7b4b8a",
+    "existing": true
+  },
+  {
+    "label": "b",
+    "section": "Abdomen / Liver",
+    "sourceName": "Left lobe of liver",
+    "structureId": "left-lobe-of-the-liver-2febf6fa13",
+    "existing": true
+  },
+  {
+    "label": "c",
+    "section": "Abdomen / Liver",
+    "sourceName": "Quadrate lobe",
+    "structureId": "quadrate-lobe-477dd9bf91",
+    "existing": true
+  },
+  {
+    "label": "d",
+    "section": "Abdomen / Liver",
+    "sourceName": "Caudate lobe",
+    "structureId": "caudate-lobe-acc1d8a812",
+    "existing": true
+  },
+  {
+    "label": "e",
+    "section": "Abdomen / Liver",
+    "sourceName": "Portal vein",
+    "structureId": "portal-vein-3854add8df",
+    "existing": true
+  },
+  {
+    "label": "f",
+    "section": "Abdomen / Liver",
+    "sourceName": "Hepatic artery",
+    "structureId": "hepatic-artery-fea6002cb1",
+    "existing": true
+  },
+  {
+    "label": "g",
+    "section": "Abdomen / Liver",
+    "sourceName": "Common hepatic duct",
+    "structureId": "common-hepatic-duct-a2351f1a26",
+    "existing": true
+  },
+  {
+    "label": "h",
+    "section": "Abdomen / Liver",
+    "sourceName": "Inferior vena cava (hepatic relation)",
+    "structureId": "inferior-vena-cava-12a0b3ae11",
+    "existing": true
+  },
+  {
+    "label": "92",
+    "section": "Dorsum",
+    "sourceName": "First cervical vertebra",
+    "structureId": "atlas-c989d0da60",
+    "existing": true
+  },
+  {
+    "label": "93",
+    "section": "Dorsum",
+    "sourceName": "Seventh cervical vertebra",
+    "structureId": "seventh-cervical-vertebra-ab8ae982bf",
+    "existing": true
+  },
+  {
+    "label": "94",
+    "section": "Dorsum",
+    "sourceName": "First thoracic vertebra",
+    "structureId": "first-thoracic-vertebra-7c7218b9ac",
+    "existing": true
+  },
+  {
+    "label": "95",
+    "section": "Dorsum",
+    "sourceName": "Twelfth thoracic vertebra",
+    "structureId": "twelfth-thoracic-vertebra-0ac8bcc6d0",
+    "existing": true
+  },
+  {
+    "label": "96",
+    "section": "Dorsum",
+    "sourceName": "First lumbar vertebra",
+    "structureId": "first-lumbar-vertebra-8c465b36af",
+    "existing": true
+  },
+  {
+    "label": "97",
+    "section": "Dorsum",
+    "sourceName": "Fifth lumbar vertebra",
+    "structureId": "fifth-lumbar-vertebra-c5ac0beff9",
+    "existing": true
+  },
+  {
+    "label": "98",
+    "section": "Dorsum",
+    "sourceName": "Sacrum",
+    "structureId": "sacrum-9b1f7a9e18",
+    "existing": true
+  },
+  {
+    "label": "99",
+    "section": "Dorsum",
+    "sourceName": "External intercostal muscles",
+    "structureId": "external-intercostal-muscles-889c478787",
+    "existing": false
+  },
+  {
+    "label": "100",
+    "section": "Dorsum",
+    "sourceName": "Costal pleura",
+    "structureId": "costal-pleura-6d2bda4cdc",
+    "existing": false
+  },
+  {
+    "label": "101",
+    "section": "Dorsum",
+    "sourceName": "Spinal cord",
+    "structureId": "spinal-cord-75d309dbb2",
+    "existing": true
+  },
+  {
+    "label": "a",
+    "section": "Dorsum / SpinalCord",
+    "sourceName": "Cervical region of spinal cord",
+    "structureId": "cervical-region-of-spinal-cord-80d6219653",
+    "existing": false
+  },
+  {
+    "label": "b",
+    "section": "Dorsum / SpinalCord",
+    "sourceName": "Thoracic region of spinal cord",
+    "structureId": "thoracic-region-of-spinal-cord-6573edf723",
+    "existing": false
+  },
+  {
+    "label": "c",
+    "section": "Dorsum / SpinalCord",
+    "sourceName": "Lumbar region of spinal cord",
+    "structureId": "lumbar-region-of-spinal-cord-9a36ebfbf9",
+    "existing": false
+  },
+  {
+    "label": "d",
+    "section": "Dorsum / SpinalCord",
+    "sourceName": "Sacral region / conus medullaris",
+    "structureId": "sacral-region-conus-medullaris-f47aa77792",
+    "existing": false
+  },
+  {
+    "label": "e",
+    "section": "Dorsum / SpinalCord",
+    "sourceName": "Filum terminale",
+    "structureId": "filum-terminale-5e810f31b2",
+    "existing": false
+  },
+  {
+    "label": "102",
+    "section": "Dorsum",
+    "sourceName": "Spinal dura mater",
+    "structureId": "spinal-dura-mater-20607eaa33",
+    "existing": false
+  },
+  {
+    "label": "103",
+    "section": "Dorsum",
+    "sourceName": "Spinal arachnoid mater",
+    "structureId": "spinal-arachnoid-mater-7bce59f017",
+    "existing": false
+  },
+  {
+    "label": "104",
+    "section": "Dorsum",
+    "sourceName": "Vertebral artery",
+    "structureId": "vertebral-artery-1250ac2ca2",
+    "existing": true
+  },
+  {
+    "label": "105",
+    "section": "Dorsum",
+    "sourceName": "Basilar artery",
+    "structureId": "basilar-artery-33e03dbdea",
+    "existing": true
+  },
+  {
+    "label": "106",
+    "section": "Dorsum",
+    "sourceName": "Internal carotid artery",
+    "structureId": "internal-carotid-artery-131acb2203",
+    "existing": true
+  },
+  {
+    "label": "107",
+    "section": "Dorsum",
+    "sourceName": "Intercostal artery and vein",
+    "structureId": "intercostal-artery-and-vein-ba61f57670",
+    "existing": false
+  },
+  {
+    "label": "108",
+    "section": "Dorsum",
+    "sourceName": "Internal vertebral venous plexus",
+    "structureId": "internal-vertebral-venous-plexus-87455dab3f",
+    "existing": false
+  },
+  {
+    "label": "109",
+    "section": "Dorsum",
+    "sourceName": "Deep cervical vein",
+    "structureId": "deep-cervical-vein-70cd70d491",
+    "existing": false
+  },
+  {
+    "label": "1",
+    "section": "Spinal nerves",
+    "sourceName": "Eight cervical nerves",
+    "structureId": "eight-cervical-nerves-91c0324907",
+    "existing": false
+  },
+  {
+    "label": "2",
+    "section": "Spinal nerves",
+    "sourceName": "Twelve thoracic nerves",
+    "structureId": "twelve-thoracic-nerves-d35399286e",
+    "existing": false
+  },
+  {
+    "label": "3",
+    "section": "Spinal nerves",
+    "sourceName": "Five lumbar nerves",
+    "structureId": "five-lumbar-nerves-43ebfe7083",
+    "existing": false
+  },
+  {
+    "label": "4",
+    "section": "Spinal nerves",
+    "sourceName": "Five sacral nerves",
+    "structureId": "five-sacral-nerves-e439947382",
+    "existing": false
+  },
+  {
+    "label": "5",
+    "section": "Spinal nerves",
+    "sourceName": "Coccygeal nerves",
+    "structureId": "coccygeal-nerves-3ee336de2d",
+    "existing": false
+  }
+]

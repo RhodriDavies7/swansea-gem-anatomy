@@ -25,6 +25,9 @@
     "CardiacVesselsValves",
     "Clinical",
     "Course",
+    "Heart",
+    "HeartStructure",
+    "Identification",
     "InternalCoronary",
     "Origin",
     "Supply"
@@ -49,6 +52,10 @@
               "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
               "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-211",
               "sourceLine": 211
+            },
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-496"
             }
           ]
         }
@@ -67,6 +74,10 @@
               "modelId": "heart-model-hs5",
               "cardId": "heart-model-hs5-132",
               "sourceLine": 132
+            },
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-497"
             }
           ]
         },
@@ -179,6 +190,16 @@
               "sourceLine": 215
             }
           ]
+        },
+        {
+          "id": "v-cd20871d5e",
+          "answer": "Usually supplies right atrium, most of right ventricle and variable parts of the conduction system.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-498"
+            }
+          ]
         }
       ],
       "editorialReview": {
@@ -221,6 +242,15 @@
         "30"
       ],
       "label": "30"
+    },
+    {
+      "modelId": "thorax-model-hs21",
+      "section": "Heart / Left ventricle",
+      "path": [
+        "38",
+        "18"
+      ],
+      "label": "18"
     }
   ]
 }

@@ -1,0 +1,72 @@
+{
+  "id": "cervical-region-of-spinal-cord-80d6219653",
+  "name": "Cervical region of spinal cord",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "CNS"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "regions": [
+    "Back"
+  ],
+  "organs": [],
+  "tags": [
+    "CNS",
+    "Dorsum",
+    "Identification",
+    "Relations",
+    "SpinalCord"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-f506ebb1ad",
+      "question": "Identification",
+      "preferredVariantId": "v-80d6219653",
+      "variants": [
+        {
+          "id": "v-80d6219653",
+          "answer": "Cervical region of spinal cord",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-791"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-88222cd2c0",
+      "question": "Relations",
+      "preferredVariantId": "v-5740d9e3b5",
+      "variants": [
+        {
+          "id": "v-5740d9e3b5",
+          "answer": "Named region or terminal structure of the spinal cord.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-792"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Dorsum / SpinalCord",
+      "path": [
+        "101",
+        "a"
+      ],
+      "label": "a"
+    }
+  ]
+}

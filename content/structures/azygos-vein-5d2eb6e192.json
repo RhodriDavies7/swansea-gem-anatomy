@@ -1,0 +1,108 @@
+{
+  "id": "azygos-vein-5d2eb6e192",
+  "name": "Azygos vein",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Veins"
+  ],
+  "systems": [
+    "Cardiovascular"
+  ],
+  "regions": [
+    "Thorax"
+  ],
+  "organs": [],
+  "tags": [
+    "Course",
+    "Drainage",
+    "Identification",
+    "Termination",
+    "Vein",
+    "Vessels"
+  ],
+  "imageIds": [
+    "img-f01b3721d0db"
+  ],
+  "facts": [
+    {
+      "id": "f-1ad6fd7301",
+      "question": "Identification",
+      "preferredVariantId": "v-5d2eb6e192",
+      "variants": [
+        {
+          "id": "v-5d2eb6e192",
+          "answer": "Azygos vein",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-583"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-e8c12685a9",
+      "question": "Course",
+      "preferredVariantId": "v-2fe5bbb2d4",
+      "variants": [
+        {
+          "id": "v-2fe5bbb2d4",
+          "answer": "Ascends on the right side of the vertebral column and arches over the right lung root.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-584"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f115920f67",
+      "question": "Termination",
+      "preferredVariantId": "v-13024bd2ff",
+      "variants": [
+        {
+          "id": "v-13024bd2ff",
+          "answer": "Drains into the superior vena cava.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-585"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-2b52c5e1c9",
+      "question": "Drainage",
+      "preferredVariantId": "v-dc58f46edc",
+      "variants": [
+        {
+          "id": "v-dc58f46edc",
+          "answer": "Major venous drainage pathway for posterior thoracic wall.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-586"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "thorax-model-hs21",
+      "section": "Vessels",
+      "path": [
+        "35"
+      ],
+      "label": "35"
+    }
+  ]
+}

@@ -8,7 +8,8 @@
     "Nerves"
   ],
   "regions": [
-    "Upper limb"
+    "Upper limb",
+    "Thorax"
   ],
   "systems": [
     "Nervous"
@@ -16,13 +17,19 @@
   "organs": [],
   "tags": [
     "Course",
+    "Function",
+    "Identification",
     "Lesion",
     "Motor",
     "Nerve",
+    "NervePlexus",
+    "Nerves",
     "Roots",
     "Sensory"
   ],
-  "imageIds": [],
+  "imageIds": [
+    "img-3691ded7196b"
+  ],
   "facts": [
     {
       "id": "f-9d2c706308",
@@ -37,6 +44,10 @@
               "modelId": "upper-limb-model-ns15",
               "cardId": "upper-limb-model-ns15-421",
               "sourceLine": 421
+            },
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-638"
             }
           ]
         }
@@ -55,6 +66,16 @@
               "modelId": "upper-limb-model-ns15",
               "cardId": "upper-limb-model-ns15-422",
               "sourceLine": 422
+            }
+          ]
+        },
+        {
+          "id": "v-149bf94b8d",
+          "answer": "Anterior rami of C5–T1.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-639"
             }
           ]
         }
@@ -129,6 +150,33 @@
               "sourceLine": 426
             }
           ]
+        },
+        {
+          "id": "v-88b3b3ac7d",
+          "answer": "Deficits depend on the level involved; upper trunk lesions classically cause Erb-type weakness, while lower trunk lesions affect intrinsic hand function and medial forearm/hand sensation.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-641"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-80da40e016",
+      "question": "Function",
+      "preferredVariantId": "v-c256605d1d",
+      "variants": [
+        {
+          "id": "v-c256605d1d",
+          "answer": "Provides motor and sensory innervation to the upper limb.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-640"
+            }
+          ]
         }
       ]
     }
@@ -141,6 +189,14 @@
         "67"
       ],
       "label": "67"
+    },
+    {
+      "modelId": "thorax-model-hs21",
+      "section": "Nerves",
+      "path": [
+        "44"
+      ],
+      "label": "44"
     }
   ]
 }

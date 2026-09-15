@@ -1,0 +1,72 @@
+{
+  "id": "interatrial-septum-509e8d8dbd",
+  "name": "Interatrial septum",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "HeartStructure"
+  ],
+  "systems": [
+    "Cardiovascular"
+  ],
+  "regions": [
+    "Thorax"
+  ],
+  "organs": [],
+  "tags": [
+    "Function",
+    "Heart",
+    "HeartStructure",
+    "Identification",
+    "RightAtrium"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-7ce4d611dc",
+      "question": "Identification",
+      "preferredVariantId": "v-509e8d8dbd",
+      "variants": [
+        {
+          "id": "v-509e8d8dbd",
+          "answer": "Interatrial septum",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-425"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-4c740e567e",
+      "question": "Function",
+      "preferredVariantId": "v-23b458576c",
+      "variants": [
+        {
+          "id": "v-23b458576c",
+          "answer": "Separates the right and left atria.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-426"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "thorax-model-hs21",
+      "section": "Heart / Right atrium",
+      "path": [
+        "38",
+        "2"
+      ],
+      "label": "2"
+    }
+  ]
+}

@@ -211,3 +211,15 @@ Image descriptions in the local uploader are optional. Leaving one blank generat
 The initial import contains 477 outcomes across 32 Year 1 and 22 Year 2 sessions. Outcome text was checked against both source PDFs, allowing only whitespace changes. Source categories are preserved even when a title appears under an unexpected system. Source PDFs are in `dist/documents/` and linked at the relevant page.
 
 Direct links were seeded conservatively from names and aliases explicitly mentioned in each outcome, restricted to models associated with that teaching session. These are suggested revision links, not an assertion of complete curriculum coverage or a medically reviewed curriculum mapping. Broader outcomes use related model links; unsupported topics show a coverage gap. To improve a mapping, edit its ID arrays without changing the original outcome text. Tests verify all 54 sessions, 477 outcomes and reference targets. Keep IDs stable when updating future documents.
+
+## Thorax HS21
+
+Added from the supplied Markdown guide, with 400 cards and 135 identification labels. The original pasted Markdown is retained in `source-guides/Thorax (Model HS21).original.md`; its `.txt` companion normalises only bullet/flashcard/tag syntax for source-fidelity checks. All question wording, answers, tags and line positions are preserved. Nested labels retain full paths, with leaf numbers searchable in the local image manager and library. Left/right lung segments have distinct scoped records; the duplicated left apicoposterior labels point to one shared structure.
+
+37 existing structures were reused, including reviewed valve, auricle and lung-lobe synonyms. Existing preferred answers remain authoritative; new source wording is retained as a variant. 97 structures were added. `docs/hs21-structure-mapping.json` records the mapping. The supplied overview photograph is used for model selection, not as an unmarked spotter image.
+
+## Male torso with head AS23/1
+
+Added 483 cards and 190 identification labels using tag `AS23_1` and the existing filename convention `Male torso with head (Model AS23_1)`. Reuses 128 shared structures and adds 60 records. Original and normalised source guides are retained; the mapping is in `docs/as23-1-structure-mapping.json`. Existing preferred answers remain selected and the new original answers remain traceable variants.
+
+Roman numerals are preserved separately for bones and cranial nerves. Lettered supplements use explicit caecum/liver tags and the corpus-callosum heading for context, rather than inheriting the unrelated final numbered item in the pasted indentation. Combined or underspecified labels remain combined/unspecified records rather than being guessed as a particular component. The supplied overview photo is used for model selection.

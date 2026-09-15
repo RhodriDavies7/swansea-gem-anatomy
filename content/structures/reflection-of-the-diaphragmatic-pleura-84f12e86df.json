@@ -1,0 +1,70 @@
+{
+  "id": "reflection-of-the-diaphragmatic-pleura-84f12e86df",
+  "name": "Reflection of the diaphragmatic pleura",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Pleura"
+  ],
+  "systems": [
+    "Respiratory"
+  ],
+  "regions": [
+    "Thorax"
+  ],
+  "organs": [],
+  "tags": [
+    "Identification",
+    "Pleura",
+    "Relations",
+    "Thorax"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-7543ad2163",
+      "question": "Identification",
+      "preferredVariantId": "v-84f12e86df",
+      "variants": [
+        {
+          "id": "v-84f12e86df",
+          "answer": "Reflection of the diaphragmatic pleura",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-529"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-0c425958ec",
+      "question": "Relations",
+      "preferredVariantId": "v-8ad6253d10",
+      "variants": [
+        {
+          "id": "v-8ad6253d10",
+          "answer": "Pleural reflection where parietal pleura changes direction at the diaphragm/chest wall boundary.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-530"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Thorax",
+      "path": [
+        "58b"
+      ],
+      "label": "58b"
+    }
+  ]
+}

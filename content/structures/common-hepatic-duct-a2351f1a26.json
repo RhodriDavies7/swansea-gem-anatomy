@@ -17,11 +17,16 @@
     "Liver"
   ],
   "tags": [
+    "Abdomen",
     "BiliaryTree",
     "Course",
     "Duct",
     "Formation",
     "Function",
+    "Identification",
+    "Liver",
+    "LiverStructure",
+    "Relations",
     "Termination"
   ],
   "imageIds": [],
@@ -39,6 +44,10 @@
               "modelId": "liver-js5",
               "cardId": "liver-js5-60",
               "sourceLine": 60
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-739"
             }
           ]
         }
@@ -115,6 +124,23 @@
           ]
         }
       ]
+    },
+    {
+      "id": "f-de54c60a08",
+      "question": "Relations",
+      "preferredVariantId": "v-306c8cd8fb",
+      "variants": [
+        {
+          "id": "v-306c8cd8fb",
+          "answer": "Named lobe, vessel or duct related to the liver.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-740"
+            }
+          ]
+        }
+      ]
     }
   ],
   "occurrences": [
@@ -125,6 +151,14 @@
         "10"
       ],
       "label": "10"
+    },
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Abdomen / Liver",
+      "path": [
+        "g"
+      ],
+      "label": "g"
     }
   ]
 }

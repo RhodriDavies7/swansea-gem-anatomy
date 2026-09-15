@@ -1,0 +1,72 @@
+{
+  "id": "genu-of-corpus-callosum-86cff4eeeb",
+  "name": "Genu of corpus callosum",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "CNS"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "organs": [],
+  "tags": [
+    "Brain",
+    "CNS",
+    "Identification",
+    "Relations"
+  ],
+  "imageIds": [
+    "img-115729601120"
+  ],
+  "facts": [
+    {
+      "id": "f-081aecc8cc",
+      "question": "Identification",
+      "preferredVariantId": "v-86cff4eeeb",
+      "variants": [
+        {
+          "id": "v-86cff4eeeb",
+          "answer": "Genu of corpus callosum",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-212"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-b78f3d1555",
+      "question": "Relations",
+      "preferredVariantId": "v-4a1f6c2f9d",
+      "variants": [
+        {
+          "id": "v-4a1f6c2f9d",
+          "answer": "Named part of the corpus callosum connecting the cerebral hemispheres.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-213"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Brain / Corpus callosum parts",
+      "path": [
+        "b"
+      ],
+      "label": "b"
+    }
+  ]
+}

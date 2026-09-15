@@ -1,0 +1,79 @@
+{
+  "id": "medial-segmental-bronchus-right-middle-lobe-b123001b0a",
+  "name": "Medial segmental bronchus (right middle lobe)",
+  "aliases": [
+    "Medial segmental bronchus"
+  ],
+  "scope": "right middle lobe",
+  "kind": "structure",
+  "types": [
+    "Bronchus"
+  ],
+  "systems": [
+    "Respiratory"
+  ],
+  "regions": [
+    "Thorax"
+  ],
+  "organs": [],
+  "tags": [
+    "Bronchus",
+    "Identification",
+    "MiddleLobe",
+    "RightBronchialTree",
+    "Supply"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-b574b98455",
+      "question": "Identification",
+      "preferredVariantId": "v-b123001b0a",
+      "variants": [
+        {
+          "id": "v-636a8abadc",
+          "answer": "Medial segmental bronchus",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-224"
+            }
+          ]
+        },
+        {
+          "id": "v-b123001b0a",
+          "answer": "Medial segmental bronchus (right middle lobe)",
+          "sources": []
+        }
+      ]
+    },
+    {
+      "id": "f-9b1d2de9f7",
+      "question": "Supply",
+      "preferredVariantId": "v-63967e3f9f",
+      "variants": [
+        {
+          "id": "v-63967e3f9f",
+          "answer": "Supplies the corresponding bronchopulmonary segment of the right middle lobe.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-225"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "thorax-model-hs21",
+      "section": "Larynx, bronchial tree and lungs / Right middle lobar bronchus / right middle lobe",
+      "path": [
+        "34",
+        "5"
+      ],
+      "label": "5"
+    }
+  ]
+}

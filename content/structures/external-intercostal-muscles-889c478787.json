@@ -1,0 +1,88 @@
+{
+  "id": "external-intercostal-muscles-889c478787",
+  "name": "External intercostal muscles",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "regions": [
+    "Back"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "Dorsum",
+    "Identification",
+    "Innervation",
+    "Muscle"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-380b4137f6",
+      "question": "Identification",
+      "preferredVariantId": "v-889c478787",
+      "variants": [
+        {
+          "id": "v-889c478787",
+          "answer": "External intercostal muscles",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-777"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-5ff316753d",
+      "question": "Actions",
+      "preferredVariantId": "v-78fb37ecca",
+      "variants": [
+        {
+          "id": "v-78fb37ecca",
+          "answer": "Elevate ribs during inspiration and stabilise intercostal spaces.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-778"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-8bc6104005",
+      "question": "Innervation",
+      "preferredVariantId": "v-579d8dc6f0",
+      "variants": [
+        {
+          "id": "v-579d8dc6f0",
+          "answer": "Intercostal nerves.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-779"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Dorsum",
+      "path": [
+        "99"
+      ],
+      "label": "99"
+    }
+  ]
+}

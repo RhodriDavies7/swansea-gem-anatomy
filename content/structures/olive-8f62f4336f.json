@@ -1,0 +1,88 @@
+{
+  "id": "olive-8f62f4336f",
+  "name": "Olive",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "CNS"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "organs": [],
+  "tags": [
+    "Brain",
+    "CNS",
+    "Function",
+    "Identification",
+    "Structure"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-2032e7d1bf",
+      "question": "Identification",
+      "preferredVariantId": "v-8f62f4336f",
+      "variants": [
+        {
+          "id": "v-8f62f4336f",
+          "answer": "Olive",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-188"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-07326c4a65",
+      "question": "Structure",
+      "preferredVariantId": "v-1107a78f65",
+      "variants": [
+        {
+          "id": "v-1107a78f65",
+          "answer": "Surface prominence overlying the inferior olivary nucleus.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-189"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-ce0f301c59",
+      "question": "Function",
+      "preferredVariantId": "v-af0fa088c0",
+      "variants": [
+        {
+          "id": "v-af0fa088c0",
+          "answer": "Inferior olivary complex contributes to motor learning and cerebellar coordination.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-190"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Brain",
+      "path": [
+        "27"
+      ],
+      "label": "27"
+    }
+  ]
+}

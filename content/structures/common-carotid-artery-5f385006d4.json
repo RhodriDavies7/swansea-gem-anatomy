@@ -20,6 +20,8 @@
     "Branches",
     "Course",
     "HeadNeck",
+    "Identification",
+    "NoseMouthNeck",
     "Origin",
     "Supply"
   ],
@@ -48,6 +50,10 @@
               "modelId": "head-and-neck-model-cs17-2",
               "cardId": "head-and-neck-model-cs17-2-386",
               "sourceLine": 386
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-380"
             }
           ]
         }
@@ -126,6 +132,16 @@
               "modelId": "head-and-neck-model-cs17-2",
               "cardId": "head-and-neck-model-cs17-2-388",
               "sourceLine": 388
+            }
+          ]
+        },
+        {
+          "id": "v-7570947687",
+          "answer": "Ascends in the carotid sheath and bifurcates into internal and external carotid arteries.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-381"
             }
           ]
         }
@@ -232,6 +248,16 @@
               "sourceLine": 390
             }
           ]
+        },
+        {
+          "id": "v-056e9961d2",
+          "answer": "Major arterial supply pathway to head and neck.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-382"
+            }
+          ]
         }
       ],
       "editorialReview": {
@@ -264,6 +290,14 @@
         "61"
       ],
       "label": "61"
+    },
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Nose, mouth and neck",
+      "path": [
+        "44"
+      ],
+      "label": "44"
     }
   ]
 }

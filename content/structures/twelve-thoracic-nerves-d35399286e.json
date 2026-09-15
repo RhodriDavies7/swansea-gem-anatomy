@@ -1,0 +1,88 @@
+{
+  "id": "twelve-thoracic-nerves-d35399286e",
+  "name": "Twelve thoracic nerves",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "NerveGroup"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "regions": [
+    "Back"
+  ],
+  "organs": [],
+  "tags": [
+    "Function",
+    "Identification",
+    "NerveGroup",
+    "Roots",
+    "SpinalNerves"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-0d2fb4c78c",
+      "question": "Identification",
+      "preferredVariantId": "v-d35399286e",
+      "variants": [
+        {
+          "id": "v-d35399286e",
+          "answer": "Twelve thoracic nerves",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-857"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-488f1b7806",
+      "question": "Roots",
+      "preferredVariantId": "v-8876b18ad9",
+      "variants": [
+        {
+          "id": "v-8876b18ad9",
+          "answer": "T1–T12 spinal nerves.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-858"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-b9369fa443",
+      "question": "Function",
+      "preferredVariantId": "v-e4ab3c2999",
+      "variants": [
+        {
+          "id": "v-e4ab3c2999",
+          "answer": "Supply thoracic wall and contribute to abdominal wall innervation.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-859"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Spinal nerves",
+      "path": [
+        "2"
+      ],
+      "label": "2"
+    }
+  ]
+}

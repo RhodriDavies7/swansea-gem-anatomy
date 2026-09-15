@@ -1,0 +1,72 @@
+{
+  "id": "posterior-cusp-of-the-pulmonary-valve-0d02dd7888",
+  "name": "Posterior cusp of the pulmonary valve",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "HeartStructure"
+  ],
+  "systems": [
+    "Cardiovascular"
+  ],
+  "regions": [
+    "Thorax"
+  ],
+  "organs": [],
+  "tags": [
+    "Function",
+    "Heart",
+    "HeartStructure",
+    "Identification",
+    "RightVentricle"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-38ecb4fa7d",
+      "question": "Identification",
+      "preferredVariantId": "v-0d02dd7888",
+      "variants": [
+        {
+          "id": "v-0d02dd7888",
+          "answer": "Posterior cusp of the pulmonary valve",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-459"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-bd3df3e207",
+      "question": "Function",
+      "preferredVariantId": "v-e278d14cae",
+      "variants": [
+        {
+          "id": "v-e278d14cae",
+          "answer": "Helps prevent backflow from pulmonary trunk to right ventricle.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-460"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "thorax-model-hs21",
+      "section": "Heart / Right ventricle",
+      "path": [
+        "38",
+        "10"
+      ],
+      "label": "10"
+    }
+  ]
+}

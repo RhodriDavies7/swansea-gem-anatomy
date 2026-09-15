@@ -10,7 +10,8 @@
     "Muscles"
   ],
   "regions": [
-    "Head and neck"
+    "Head and neck",
+    "Thorax"
   ],
   "systems": [
     "Musculoskeletal"
@@ -19,13 +20,18 @@
   "tags": [
     "Action",
     "HeadNeck",
+    "HeadNeckMuscles",
+    "Identification",
     "Innervation",
     "Insertion",
     "Muscle",
-    "Origin",
-    "HeadNeckMuscles"
+    "Muscles",
+    "NoseMouthNeck",
+    "Origin"
   ],
-  "imageIds": [],
+  "imageIds": [
+    "img-d03f9254f31a"
+  ],
   "facts": [
     {
       "id": "f-9d2c706308",
@@ -51,6 +57,14 @@
               "modelId": "half-head-and-neck-model-bs9",
               "cardId": "half-head-and-neck-model-bs9-624",
               "sourceLine": 624
+            },
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-58"
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-367"
             }
           ]
         }
@@ -80,6 +94,26 @@
               "sourceLine": 625
             }
           ]
+        },
+        {
+          "id": "v-ace6269d7a",
+          "answer": "Flexes and laterally flexes the neck; elevates the first rib during forced inspiration.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-59"
+            }
+          ]
+        },
+        {
+          "id": "v-5e9fc9a056",
+          "answer": "Flexes/laterally flexes neck and elevates first rib during forced inspiration.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-368"
+            }
+          ]
         }
       ]
     },
@@ -101,6 +135,26 @@
               "modelId": "half-head-and-neck-model-bs9",
               "cardId": "half-head-and-neck-model-bs9-626",
               "sourceLine": 626
+            }
+          ]
+        },
+        {
+          "id": "v-d03f781ff5",
+          "answer": "Anterior rami of cervical spinal nerves, mainly C4–C6.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-60"
+            }
+          ]
+        },
+        {
+          "id": "v-346b74d891",
+          "answer": "Anterior rami of cervical spinal nerves.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-369"
             }
           ]
         }
@@ -130,6 +184,20 @@
               "modelId": "half-head-and-neck-model-bs9",
               "cardId": "half-head-and-neck-model-bs9-627",
               "sourceLine": 627
+            },
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-61"
+            }
+          ]
+        },
+        {
+          "id": "v-67c99c52f8",
+          "answer": "Anterior tubercles C3–C6.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-370"
             }
           ]
         }
@@ -159,6 +227,26 @@
               "sourceLine": 628
             }
           ]
+        },
+        {
+          "id": "v-6b9dbc8a12",
+          "answer": "Scalene tubercle on first rib.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-62"
+            }
+          ]
+        },
+        {
+          "id": "v-fb5229b929",
+          "answer": "First rib.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-371"
+            }
+          ]
         }
       ]
     }
@@ -179,6 +267,22 @@
         "57"
       ],
       "label": "57"
+    },
+    {
+      "modelId": "thorax-model-hs21",
+      "section": "Muscles and tendons",
+      "path": [
+        "11"
+      ],
+      "label": "11"
+    },
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Nose, mouth and neck",
+      "path": [
+        "42"
+      ],
+      "label": "42"
     }
   ],
   "redirectIds": [

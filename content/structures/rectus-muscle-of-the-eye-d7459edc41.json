@@ -1,0 +1,88 @@
+{
+  "id": "rectus-muscle-of-the-eye-d7459edc41",
+  "name": "Rectus muscle of the eye",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "Eye",
+    "Identification",
+    "Innervation",
+    "Muscle"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-28d2249c4c",
+      "question": "Identification",
+      "preferredVariantId": "v-d7459edc41",
+      "variants": [
+        {
+          "id": "v-d7459edc41",
+          "answer": "Rectus muscle of the eye",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-286"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-110543a7a5",
+      "question": "Actions",
+      "preferredVariantId": "v-fa6c0e177d",
+      "variants": [
+        {
+          "id": "v-fa6c0e177d",
+          "answer": "Moves the eyeball; exact action depends on which rectus muscle is represented.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-287"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-4e594ce845",
+      "question": "Innervation",
+      "preferredVariantId": "v-49407ac1e3",
+      "variants": [
+        {
+          "id": "v-49407ac1e3",
+          "answer": "Extraocular rectus muscles are supplied by CN III except lateral rectus by CN VI.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-288"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Eye",
+      "path": [
+        "17b"
+      ],
+      "label": "17b"
+    }
+  ]
+}

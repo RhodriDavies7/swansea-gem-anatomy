@@ -1,0 +1,71 @@
+{
+  "id": "coronary-arteries-and-veins-5981889af1",
+  "name": "Coronary arteries and veins",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "VesselGroup"
+  ],
+  "systems": [
+    "Respiratory"
+  ],
+  "regions": [
+    "Thorax"
+  ],
+  "organs": [],
+  "tags": [
+    "Function",
+    "Heart",
+    "Identification",
+    "VesselGroup"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-f88eff574a",
+      "question": "Identification",
+      "preferredVariantId": "v-5981889af1",
+      "variants": [
+        {
+          "id": "v-5981889af1",
+          "answer": "Coronary arteries and veins",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-514"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-626f0e7e32",
+      "question": "Function",
+      "preferredVariantId": "v-375cbc9f33",
+      "variants": [
+        {
+          "id": "v-375cbc9f33",
+          "answer": "Coronary arteries supply myocardium; cardiac veins drain it mainly to coronary sinus.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-515"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Thorax",
+      "path": [
+        "57",
+        "m"
+      ],
+      "label": "m"
+    }
+  ]
+}

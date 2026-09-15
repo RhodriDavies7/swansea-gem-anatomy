@@ -18,11 +18,14 @@
     "Brain",
     "CNS",
     "Function",
+    "Identification",
     "Location",
     "MidSagittal",
     "NervousStructures"
   ],
-  "imageIds": [],
+  "imageIds": [
+    "img-981e9fd25bf4"
+  ],
   "facts": [
     {
       "id": "f-9d2c706308",
@@ -47,6 +50,10 @@
               "modelId": "head-and-neck-model-cs17-2",
               "cardId": "head-and-neck-model-cs17-2-615",
               "sourceLine": 615
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-163"
             }
           ]
         }
@@ -111,6 +118,16 @@
               "sourceLine": 617
             }
           ]
+        },
+        {
+          "id": "v-a8e94a24c9",
+          "answer": "Contains vital autonomic centres and ascending/descending pathways; gives rise to several cranial nerves.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-164"
+            }
+          ]
         }
       ],
       "editorialReview": {
@@ -143,6 +160,14 @@
         "D"
       ],
       "label": "D"
+    },
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Brain",
+      "path": [
+        "21"
+      ],
+      "label": "21"
     }
   ]
 }

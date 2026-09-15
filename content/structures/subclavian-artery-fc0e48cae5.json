@@ -19,6 +19,8 @@
     "Branches",
     "Course",
     "HeadNeck",
+    "Identification",
+    "NoseMouthNeck",
     "Origin",
     "Supply"
   ],
@@ -37,6 +39,10 @@
               "modelId": "head-and-neck-model-cs17-2",
               "cardId": "head-and-neck-model-cs17-2-470",
               "sourceLine": 470
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-419"
             }
           ]
         }
@@ -75,6 +81,16 @@
               "sourceLine": 472
             }
           ]
+        },
+        {
+          "id": "v-9af28ff999",
+          "answer": "Passes over first rib posterior to anterior scalene.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-421"
+            }
+          ]
         }
       ]
     },
@@ -111,6 +127,16 @@
               "sourceLine": 474
             }
           ]
+        },
+        {
+          "id": "v-7bae6f6f37",
+          "answer": "Major arterial supply to upper limb; also gives branches to neck and thorax.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-420"
+            }
+          ]
         }
       ]
     }
@@ -123,6 +149,14 @@
         "73"
       ],
       "label": "73"
+    },
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Nose, mouth and neck",
+      "path": [
+        "51"
+      ],
+      "label": "51"
     }
   ]
 }

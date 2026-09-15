@@ -1,0 +1,108 @@
+{
+  "id": "first-rib-213c86da58",
+  "name": "First rib",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Bones"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "regions": [
+    "Thorax"
+  ],
+  "organs": [],
+  "tags": [
+    "Articulations",
+    "Bone",
+    "Bones",
+    "Clinical",
+    "Identification",
+    "Landmarks"
+  ],
+  "imageIds": [
+    "img-902d03bc6ca9"
+  ],
+  "facts": [
+    {
+      "id": "f-b20af40e8f",
+      "question": "Identification",
+      "preferredVariantId": "v-213c86da58",
+      "variants": [
+        {
+          "id": "v-213c86da58",
+          "answer": "First rib",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-35"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9b58399d2b",
+      "question": "Articulations",
+      "preferredVariantId": "v-61e5cb72c4",
+      "variants": [
+        {
+          "id": "v-61e5cb72c4",
+          "answer": "Articulates with T1 vertebra and manubrium via first costal cartilage.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-36"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-a1177e82ab",
+      "question": "Landmarks",
+      "preferredVariantId": "v-af7d3a0dfa",
+      "variants": [
+        {
+          "id": "v-af7d3a0dfa",
+          "answer": "Grooves for subclavian vein and artery separated by scalene tubercle.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-37"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-aa4035215a",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-9e1ad14ecf",
+      "variants": [
+        {
+          "id": "v-9e1ad14ecf",
+          "answer": "Important landmark for thoracic outlet relationships.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-38"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "thorax-model-hs21",
+      "section": "Bones and cartilages",
+      "path": [
+        "7"
+      ],
+      "label": "7"
+    }
+  ]
+}

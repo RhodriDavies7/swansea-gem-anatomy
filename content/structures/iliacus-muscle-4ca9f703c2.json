@@ -9,7 +9,8 @@
   ],
   "regions": [
     "Lower limb",
-    "Pelvis"
+    "Pelvis",
+    "Abdomen"
   ],
   "systems": [
     "Musculoskeletal",
@@ -17,7 +18,9 @@
   ],
   "organs": [],
   "tags": [
+    "Abdomen",
     "Action",
+    "Identification",
     "Innervation",
     "Insertion",
     "Muscle",
@@ -43,6 +46,10 @@
               "modelId": "lower-limb-model-ns10",
               "cardId": "lower-limb-model-ns10-9",
               "sourceLine": 9
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-696"
             }
           ]
         }
@@ -74,6 +81,16 @@
               "sourceLine": 10
             }
           ]
+        },
+        {
+          "id": "v-5ac35e6f62",
+          "answer": "Flexes the hip with psoas major as iliopsoas.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-697"
+            }
+          ]
         }
       ],
       "editorialReview": {
@@ -99,6 +116,10 @@
               "modelId": "lower-limb-model-ns10",
               "cardId": "lower-limb-model-ns10-11",
               "sourceLine": 11
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-698"
             }
           ]
         }
@@ -187,6 +208,14 @@
         "2"
       ],
       "label": "2"
+    },
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Abdomen",
+      "path": [
+        "90"
+      ],
+      "label": "90"
     }
   ]
 }

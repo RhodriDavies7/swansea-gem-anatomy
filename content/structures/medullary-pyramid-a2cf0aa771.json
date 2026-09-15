@@ -1,0 +1,88 @@
+{
+  "id": "medullary-pyramid-a2cf0aa771",
+  "name": "Medullary pyramid",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "CNS"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "organs": [],
+  "tags": [
+    "Brain",
+    "CNS",
+    "Clinical",
+    "Contents",
+    "Identification"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-3bc7fc60c8",
+      "question": "Identification",
+      "preferredVariantId": "v-a2cf0aa771",
+      "variants": [
+        {
+          "id": "v-a2cf0aa771",
+          "answer": "Medullary pyramid",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-183"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9c505a856e",
+      "question": "Contents",
+      "preferredVariantId": "v-2cb14b818c",
+      "variants": [
+        {
+          "id": "v-2cb14b818c",
+          "answer": "Contains corticospinal fibres on the ventral medulla.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-184"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-ed313797ae",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-07ae4c09b2",
+      "variants": [
+        {
+          "id": "v-07ae4c09b2",
+          "answer": "Most corticospinal fibres decussate caudally at the pyramidal decussation.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-185"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Brain",
+      "path": [
+        "26"
+      ],
+      "label": "26"
+    }
+  ]
+}

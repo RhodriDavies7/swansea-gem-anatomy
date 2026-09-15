@@ -1,0 +1,70 @@
+{
+  "id": "transverse-colon-d6b54aa22b",
+  "name": "Transverse colon",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Organs"
+  ],
+  "systems": [
+    "Digestive"
+  ],
+  "regions": [
+    "Abdomen"
+  ],
+  "organs": [],
+  "tags": [
+    "Abdomen",
+    "Course",
+    "Identification",
+    "Organ"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-d9a714c557",
+      "question": "Identification",
+      "preferredVariantId": "v-d6b54aa22b",
+      "variants": [
+        {
+          "id": "v-d6b54aa22b",
+          "answer": "Transverse colon",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-586"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-1aaf422005",
+      "question": "Course",
+      "preferredVariantId": "v-a569e932de",
+      "variants": [
+        {
+          "id": "v-a569e932de",
+          "answer": "Runs from hepatic to splenic flexure.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-587"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Abdomen",
+      "path": [
+        "66"
+      ],
+      "label": "66"
+    }
+  ]
+}

@@ -2,7 +2,8 @@
   "id": "pineal-body-pineal-gland-5aa736b2b0",
   "name": "Pineal body (pineal gland)",
   "aliases": [
-    "Pineal body or gland"
+    "Pineal body or gland",
+    "Pineal gland"
   ],
   "scope": "",
   "kind": "structure",
@@ -15,8 +16,10 @@
   "systems": [],
   "organs": [],
   "tags": [
+    "Brain",
     "Function",
     "Gland",
+    "Identification",
     "Location",
     "MidSagittal",
     "MidlineStructures"
@@ -47,6 +50,16 @@
               "modelId": "half-head-and-neck-model-bs9",
               "cardId": "half-head-and-neck-model-bs9-159",
               "sourceLine": 159
+            }
+          ]
+        },
+        {
+          "id": "v-31173d88c3",
+          "answer": "Pineal gland",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-139"
             }
           ]
         }
@@ -82,6 +95,16 @@
               "sourceLine": 160
             }
           ]
+        },
+        {
+          "id": "v-d61fbc4e9b",
+          "answer": "Posterior roof of the third ventricle.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-141"
+            }
+          ]
         }
       ],
       "editorialReview": {
@@ -107,6 +130,10 @@
               "modelId": "half-head-and-neck-model-bs9",
               "cardId": "half-head-and-neck-model-bs9-161",
               "sourceLine": 161
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-140"
             }
           ]
         }
@@ -129,6 +156,14 @@
         "10"
       ],
       "label": "10"
+    },
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Brain",
+      "path": [
+        "16"
+      ],
+      "label": "16"
     }
   ],
   "redirectIds": [

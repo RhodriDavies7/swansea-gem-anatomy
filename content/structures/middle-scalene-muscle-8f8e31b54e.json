@@ -10,7 +10,8 @@
     "Muscles"
   ],
   "regions": [
-    "Head and neck"
+    "Head and neck",
+    "Thorax"
   ],
   "systems": [
     "Musculoskeletal"
@@ -19,13 +20,17 @@
   "tags": [
     "Action",
     "HeadNeck",
+    "HeadNeckMuscles",
+    "Identification",
     "Innervation",
     "Insertion",
     "Muscle",
-    "Origin",
-    "HeadNeckMuscles"
+    "Muscles",
+    "Origin"
   ],
-  "imageIds": [],
+  "imageIds": [
+    "img-cb36b950ef88"
+  ],
   "facts": [
     {
       "id": "f-9d2c706308",
@@ -51,6 +56,10 @@
               "modelId": "half-head-and-neck-model-bs9",
               "cardId": "half-head-and-neck-model-bs9-617",
               "sourceLine": 617
+            },
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-65"
             }
           ]
         }
@@ -80,6 +89,16 @@
               "sourceLine": 618
             }
           ]
+        },
+        {
+          "id": "v-7ed3a56c2c",
+          "answer": "Laterally flexes the neck and elevates the first rib during forced inspiration.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-66"
+            }
+          ]
         }
       ]
     },
@@ -107,6 +126,16 @@
               "modelId": "half-head-and-neck-model-bs9",
               "cardId": "half-head-and-neck-model-bs9-619",
               "sourceLine": 619
+            }
+          ]
+        },
+        {
+          "id": "v-e517ab658c",
+          "answer": "Anterior rami of cervical spinal nerves, mainly C3–C8.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-67"
             }
           ]
         }
@@ -142,6 +171,16 @@
               "sourceLine": 620
             }
           ]
+        },
+        {
+          "id": "v-7601c9a9c6",
+          "answer": "Posterior tubercles of cervical transverse processes.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-68"
+            }
+          ]
         }
       ],
       "editorialReview": {
@@ -175,6 +214,16 @@
               "sourceLine": 621
             }
           ]
+        },
+        {
+          "id": "v-9d873d77fd",
+          "answer": "Superior surface of first rib posterior to subclavian artery groove.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-69"
+            }
+          ]
         }
       ],
       "editorialReview": {
@@ -199,6 +248,14 @@
         "56"
       ],
       "label": "56"
+    },
+    {
+      "modelId": "thorax-model-hs21",
+      "section": "Muscles and tendons",
+      "path": [
+        "12"
+      ],
+      "label": "12"
     }
   ],
   "redirectIds": [

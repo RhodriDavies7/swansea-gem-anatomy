@@ -1,0 +1,88 @@
+{
+  "id": "coccygeal-nerves-3ee336de2d",
+  "name": "Coccygeal nerves",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "NerveGroup"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "regions": [
+    "Back"
+  ],
+  "organs": [],
+  "tags": [
+    "Function",
+    "Identification",
+    "NerveGroup",
+    "Roots",
+    "SpinalNerves"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-07c586d0c2",
+      "question": "Identification",
+      "preferredVariantId": "v-3ee336de2d",
+      "variants": [
+        {
+          "id": "v-3ee336de2d",
+          "answer": "Coccygeal nerves",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-872"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-172fb49baa",
+      "question": "Roots",
+      "preferredVariantId": "v-a3eb5664b2",
+      "variants": [
+        {
+          "id": "v-a3eb5664b2",
+          "answer": "Usually Co1, with model guide noting variation in coccygeal nerve count.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-873"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-2c7379b7f2",
+      "question": "Function",
+      "preferredVariantId": "v-56d8298b49",
+      "variants": [
+        {
+          "id": "v-56d8298b49",
+          "answer": "Small contribution to coccygeal plexus and skin over coccyx.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-874"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Spinal nerves",
+      "path": [
+        "5"
+      ],
+      "label": "5"
+    }
+  ]
+}

@@ -17,10 +17,12 @@
     "Liver"
   ],
   "tags": [
+    "Abdomen",
     "BiliaryTree",
     "Clinical",
     "Drainage",
     "Function",
+    "Identification",
     "Location",
     "Organ",
     "Parts"
@@ -40,6 +42,10 @@
               "modelId": "liver-js5",
               "cardId": "liver-js5-52",
               "sourceLine": 52
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-607"
             }
           ]
         }
@@ -58,6 +64,16 @@
               "modelId": "liver-js5",
               "cardId": "liver-js5-53",
               "sourceLine": 53
+            }
+          ]
+        },
+        {
+          "id": "v-fbe8a12dbd",
+          "answer": "Stores and concentrates bile.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-608"
             }
           ]
         }
@@ -144,6 +160,14 @@
         "9"
       ],
       "label": "9"
+    },
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Abdomen",
+      "path": [
+        "71"
+      ],
+      "label": "71"
     }
   ]
 }

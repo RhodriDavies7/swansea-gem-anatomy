@@ -1,0 +1,126 @@
+{
+  "id": "sympathetic-trunk-61d4c3e20e",
+  "name": "Sympathetic trunk",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Nerves"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "regions": [
+    "Thorax"
+  ],
+  "organs": [],
+  "tags": [
+    "Autonomic",
+    "Course",
+    "Identification",
+    "Lesion",
+    "Nerve",
+    "Nerves",
+    "Roots"
+  ],
+  "imageIds": [
+    "img-d15f5976594c"
+  ],
+  "facts": [
+    {
+      "id": "f-0d449ceb96",
+      "question": "Identification",
+      "preferredVariantId": "v-61d4c3e20e",
+      "variants": [
+        {
+          "id": "v-61d4c3e20e",
+          "answer": "Sympathetic trunk",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-652"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-137b79aa22",
+      "question": "Roots",
+      "preferredVariantId": "v-d1fc633856",
+      "variants": [
+        {
+          "id": "v-d1fc633856",
+          "answer": "Paravertebral sympathetic chain linked to thoracolumbar sympathetic outflow.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-653"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-a01f1c4aed",
+      "question": "Course",
+      "preferredVariantId": "v-4c449ffaf5",
+      "variants": [
+        {
+          "id": "v-4c449ffaf5",
+          "answer": "Runs longitudinally on each side of the vertebral column.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-654"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-e9b704e6c8",
+      "question": "Autonomic functions",
+      "preferredVariantId": "v-c122f43ce4",
+      "variants": [
+        {
+          "id": "v-c122f43ce4",
+          "answer": "Distributes sympathetic fibres to thoracic viscera, body wall and limbs.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-655"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-b6bddf9057",
+      "question": "Lesion",
+      "preferredVariantId": "v-58ee36d918",
+      "variants": [
+        {
+          "id": "v-58ee36d918",
+          "answer": "Effects depend on level; upper thoracic disruption can impair sympathetic supply to the head and contribute to Horner syndrome.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-656"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "thorax-model-hs21",
+      "section": "Nerves",
+      "path": [
+        "46"
+      ],
+      "label": "46"
+    }
+  ]
+}

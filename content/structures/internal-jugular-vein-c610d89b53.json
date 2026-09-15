@@ -18,6 +18,8 @@
     "Course",
     "Formation",
     "HeadNeck",
+    "Identification",
+    "NoseMouthNeck",
     "Termination",
     "Vein"
   ],
@@ -36,6 +38,10 @@
               "modelId": "head-and-neck-model-cs17-2",
               "cardId": "head-and-neck-model-cs17-2-485",
               "sourceLine": 485
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-374"
             }
           ]
         }
@@ -56,6 +62,16 @@
               "sourceLine": 486
             }
           ]
+        },
+        {
+          "id": "v-b364561bbe",
+          "answer": "Continuation of sigmoid sinus at the jugular foramen.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-375"
+            }
+          ]
         }
       ]
     },
@@ -72,6 +88,10 @@
               "modelId": "head-and-neck-model-cs17-2",
               "cardId": "head-and-neck-model-cs17-2-487",
               "sourceLine": 487
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-376"
             }
           ]
         }
@@ -90,6 +110,10 @@
               "modelId": "head-and-neck-model-cs17-2",
               "cardId": "head-and-neck-model-cs17-2-488",
               "sourceLine": 488
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-377"
             }
           ]
         }
@@ -104,6 +128,14 @@
         "75"
       ],
       "label": "75"
+    },
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Nose, mouth and neck",
+      "path": [
+        "43"
+      ],
+      "label": "43"
     }
   ]
 }

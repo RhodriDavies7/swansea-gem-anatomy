@@ -24,8 +24,10 @@
     "Connections",
     "Contents",
     "Function",
+    "Heart",
     "HeartChamber",
     "HeartChambers",
+    "Identification",
     "Landmarks"
   ],
   "imageIds": [
@@ -50,6 +52,10 @@
               "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
               "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-134",
               "sourceLine": 134
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-458"
             }
           ]
         }
@@ -79,6 +85,16 @@
               "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
               "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-135",
               "sourceLine": 135
+            }
+          ]
+        },
+        {
+          "id": "v-a56a7eb546",
+          "answer": "Receives oxygenated pulmonary venous blood and sends it to left ventricle.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-459"
             }
           ]
         }
@@ -189,6 +205,15 @@
         "17"
       ],
       "label": "17"
+    },
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Thorax",
+      "path": [
+        "57",
+        "II"
+      ],
+      "label": "II"
     }
   ]
 }

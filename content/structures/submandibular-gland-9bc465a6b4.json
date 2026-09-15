@@ -21,11 +21,15 @@
     "Function",
     "Gland",
     "HeadNeck",
+    "Identification",
     "Innervation",
     "Location",
+    "NoseMouthNeck",
     "Tongue"
   ],
-  "imageIds": [],
+  "imageIds": [
+    "img-66146653366e"
+  ],
   "facts": [
     {
       "id": "f-9d2c706308",
@@ -50,6 +54,10 @@
               "modelId": "larynx-and-tongue-model-gs4",
               "cardId": "larynx-and-tongue-model-gs4-293",
               "sourceLine": 293
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-326"
             }
           ]
         }
@@ -84,6 +92,10 @@
               "modelId": "larynx-and-tongue-model-gs4",
               "cardId": "larynx-and-tongue-model-gs4-295",
               "sourceLine": 295
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-327"
             }
           ]
         }
@@ -174,6 +186,16 @@
               "sourceLine": 296
             }
           ]
+        },
+        {
+          "id": "v-8bcd21bbf7",
+          "answer": "Submandibular duct opens beside the lingual frenulum.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-328"
+            }
+          ]
         }
       ],
       "editorialReview": {
@@ -244,6 +266,14 @@
         "15"
       ],
       "label": "15"
+    },
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Nose, mouth and neck",
+      "path": [
+        "36"
+      ],
+      "label": "36"
     }
   ]
 }

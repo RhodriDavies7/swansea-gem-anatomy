@@ -17,8 +17,10 @@
     "Pancreas"
   ],
   "tags": [
+    "Abdomen",
     "BloodSupply",
     "Function",
+    "Identification",
     "MajorOrgans",
     "Organ",
     "Parts",
@@ -41,6 +43,10 @@
               "modelId": "pancreas-model-js11",
               "cardId": "pancreas-model-js11-18",
               "sourceLine": 18
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-562"
             }
           ]
         }
@@ -77,6 +83,16 @@
               "modelId": "pancreas-model-js11",
               "cardId": "pancreas-model-js11-20",
               "sourceLine": 20
+            }
+          ]
+        },
+        {
+          "id": "v-34484f229b",
+          "answer": "Receives gastric chyme, bile and pancreatic secretions; major site of early small-intestinal digestion.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-563"
             }
           ]
         }
@@ -127,6 +143,14 @@
         "C"
       ],
       "label": "C"
+    },
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Abdomen",
+      "path": [
+        "60"
+      ],
+      "label": "60"
     }
   ]
 }

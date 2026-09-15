@@ -21,6 +21,9 @@
     "Branches",
     "Clinical",
     "Course",
+    "Heart",
+    "HeartStructure",
+    "Identification",
     "InternalCoronary",
     "Origin",
     "Supply"
@@ -40,6 +43,10 @@
               "modelId": "heart-model-hs5",
               "cardId": "heart-model-hs5-139",
               "sourceLine": 139
+            },
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-501"
             }
           ]
         }
@@ -58,6 +65,10 @@
               "modelId": "heart-model-hs5",
               "cardId": "heart-model-hs5-140",
               "sourceLine": 140
+            },
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-502"
             }
           ]
         }
@@ -94,6 +105,16 @@
               "modelId": "heart-model-hs5",
               "cardId": "heart-model-hs5-142",
               "sourceLine": 142
+            }
+          ]
+        },
+        {
+          "id": "v-a7e2e638aa",
+          "answer": "Typically divides into anterior interventricular and circumflex arteries.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-503"
             }
           ]
         }
@@ -144,6 +165,15 @@
         "5"
       ],
       "label": "5"
+    },
+    {
+      "modelId": "thorax-model-hs21",
+      "section": "Heart / Left ventricle",
+      "path": [
+        "38",
+        "19"
+      ],
+      "label": "19"
     }
   ]
 }

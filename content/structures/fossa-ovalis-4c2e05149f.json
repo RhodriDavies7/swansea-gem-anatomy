@@ -1,0 +1,72 @@
+{
+  "id": "fossa-ovalis-4c2e05149f",
+  "name": "Fossa ovalis",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "HeartStructure"
+  ],
+  "systems": [
+    "Cardiovascular"
+  ],
+  "regions": [
+    "Thorax"
+  ],
+  "organs": [],
+  "tags": [
+    "Heart",
+    "HeartStructure",
+    "Identification",
+    "RightAtrium",
+    "Structure"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-b47c22ad23",
+      "question": "Identification",
+      "preferredVariantId": "v-4c2e05149f",
+      "variants": [
+        {
+          "id": "v-4c2e05149f",
+          "answer": "Fossa ovalis",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-421"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-aac2e7f3b2",
+      "question": "Structure",
+      "preferredVariantId": "v-3e06e5bd6a",
+      "variants": [
+        {
+          "id": "v-3e06e5bd6a",
+          "answer": "Depression in the interatrial septum representing the remnant of the fetal foramen ovale.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-422"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "thorax-model-hs21",
+      "section": "Heart / Right atrium",
+      "path": [
+        "38",
+        "1"
+      ],
+      "label": "1"
+    }
+  ]
+}

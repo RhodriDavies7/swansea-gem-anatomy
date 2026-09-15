@@ -1,0 +1,72 @@
+{
+  "id": "eustachian-valve-0749dcaacf",
+  "name": "Eustachian valve",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "HeartStructure"
+  ],
+  "systems": [
+    "Cardiovascular"
+  ],
+  "regions": [
+    "Thorax"
+  ],
+  "organs": [],
+  "tags": [
+    "Heart",
+    "HeartStructure",
+    "Identification",
+    "RightAtrium",
+    "Structure"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-519f89af99",
+      "question": "Identification",
+      "preferredVariantId": "v-0749dcaacf",
+      "variants": [
+        {
+          "id": "v-0749dcaacf",
+          "answer": "Eustachian valve",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-429"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-54e1360b5f",
+      "question": "Structure",
+      "preferredVariantId": "v-6d33346386",
+      "variants": [
+        {
+          "id": "v-6d33346386",
+          "answer": "Remnant valve of the inferior vena cava at its opening into the right atrium.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-430"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "thorax-model-hs21",
+      "section": "Heart / Right atrium",
+      "path": [
+        "38",
+        "3"
+      ],
+      "label": "3"
+    }
+  ]
+}

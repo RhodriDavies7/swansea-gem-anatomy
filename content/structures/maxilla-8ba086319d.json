@@ -18,14 +18,18 @@
   "tags": [
     "Articulations",
     "Bone",
+    "Bones",
     "BonyStructures",
     "HeadNeck",
+    "Identification",
     "Landmarks",
     "MidSagittal",
     "NasalCavity",
     "Relations"
   ],
-  "imageIds": [],
+  "imageIds": [
+    "img-73ab43872b43"
+  ],
   "facts": [
     {
       "id": "f-9d2c706308",
@@ -60,6 +64,10 @@
               "modelId": "nose-and-nasal-cavity-model-fs3",
               "cardId": "nose-and-nasal-cavity-model-fs3-118",
               "sourceLine": 118
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-30"
             }
           ]
         }
@@ -138,6 +146,16 @@
               "sourceLine": 119
             }
           ]
+        },
+        {
+          "id": "v-0b4cfdccd1",
+          "answer": "Alveolar process, infraorbital foramen and maxillary sinus.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-32"
+            }
+          ]
         }
       ]
     },
@@ -192,6 +210,10 @@
               "modelId": "nose-and-nasal-cavity-model-fs3",
               "cardId": "nose-and-nasal-cavity-model-fs3-120",
               "sourceLine": 120
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-31"
             }
           ]
         }
@@ -242,6 +264,14 @@
         "6"
       ],
       "label": "6"
+    },
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Bones",
+      "path": [
+        "VI"
+      ],
+      "label": "VI"
     }
   ]
 }

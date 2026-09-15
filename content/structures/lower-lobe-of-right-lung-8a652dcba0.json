@@ -1,14 +1,17 @@
 {
   "id": "lower-lobe-of-right-lung-8a652dcba0",
   "name": "Lower lobe of right lung",
-  "aliases": [],
+  "aliases": [
+    "Right lower lobe"
+  ],
   "scope": "",
   "kind": "structure",
   "types": [
     "Other"
   ],
   "regions": [
-    "Head and neck"
+    "Head and neck",
+    "Thorax"
   ],
   "systems": [
     "Respiratory"
@@ -18,12 +21,18 @@
   ],
   "tags": [
     "Function",
+    "Identification",
+    "LowerLobe",
     "LungLobe",
     "LungLobes",
     "ModelNote",
-    "Relations"
+    "Parts",
+    "Relations",
+    "RightLung"
   ],
-  "imageIds": [],
+  "imageIds": [
+    "img-6e3e35f53f5b"
+  ],
   "facts": [
     {
       "id": "f-9d2c706308",
@@ -43,6 +52,16 @@
               "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
               "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-121",
               "sourceLine": 121
+            }
+          ]
+        },
+        {
+          "id": "v-f76a26c9a4",
+          "answer": "Right lower lobe",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-326"
             }
           ]
         }
@@ -131,6 +150,23 @@
           ]
         }
       ]
+    },
+    {
+      "id": "f-28b8e96361",
+      "question": "Segments",
+      "preferredVariantId": "v-90524a4640",
+      "variants": [
+        {
+          "id": "v-90524a4640",
+          "answer": "Superior, medial basal, anterior basal, lateral basal and posterior basal segments.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-327"
+            }
+          ]
+        }
+      ]
     }
   ],
   "occurrences": [
@@ -149,6 +185,15 @@
         "15"
       ],
       "label": "15"
+    },
+    {
+      "modelId": "thorax-model-hs21",
+      "section": "Larynx, bronchial tree and lungs",
+      "path": [
+        "36",
+        "36c"
+      ],
+      "label": "36c"
     }
   ]
 }

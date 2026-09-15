@@ -18,10 +18,13 @@
     "Brain",
     "CNS",
     "Function",
+    "Identification",
     "Location",
     "NervousStructures"
   ],
-  "imageIds": [],
+  "imageIds": [
+    "img-f27698462d42"
+  ],
   "facts": [
     {
       "id": "f-9d2c706308",
@@ -41,6 +44,10 @@
               "modelId": "head-and-neck-model-cs17-2",
               "cardId": "head-and-neck-model-cs17-2-682",
               "sourceLine": 682
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-119"
             }
           ]
         }
@@ -105,6 +112,16 @@
               "sourceLine": 684
             }
           ]
+        },
+        {
+          "id": "v-2828aa6c0a",
+          "answer": "Major relay for sensory and motor information to the cerebral cortex; involved in arousal and attention.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-120"
+            }
+          ]
         }
       ],
       "editorialReview": {
@@ -129,6 +146,14 @@
         "4"
       ],
       "label": "4"
+    },
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Brain",
+      "path": [
+        "11"
+      ],
+      "label": "11"
     }
   ]
 }

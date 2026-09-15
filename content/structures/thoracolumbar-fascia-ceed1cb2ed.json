@@ -1,0 +1,90 @@
+{
+  "id": "thoracolumbar-fascia-ceed1cb2ed",
+  "name": "Thoracolumbar fascia",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "regions": [
+    "Thorax"
+  ],
+  "organs": [],
+  "tags": [
+    "Function",
+    "Identification",
+    "Muscle",
+    "Muscles",
+    "Structure"
+  ],
+  "imageIds": [
+    "img-971baf7b1d11"
+  ],
+  "facts": [
+    {
+      "id": "f-93fde3f086",
+      "question": "Identification",
+      "preferredVariantId": "v-ceed1cb2ed",
+      "variants": [
+        {
+          "id": "v-ceed1cb2ed",
+          "answer": "Thoracolumbar fascia",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-107"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-082b44ae5e",
+      "question": "Structure",
+      "preferredVariantId": "v-632a650b7d",
+      "variants": [
+        {
+          "id": "v-632a650b7d",
+          "answer": "Multilayered deep fascia of the posterior trunk.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-108"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-18f514a564",
+      "question": "Function",
+      "preferredVariantId": "v-56a94eaacb",
+      "variants": [
+        {
+          "id": "v-56a94eaacb",
+          "answer": "Encloses deep back muscles and provides attachment for abdominal and back muscles.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-109"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "thorax-model-hs21",
+      "section": "Muscles and tendons",
+      "path": [
+        "18"
+      ],
+      "label": "18"
+    }
+  ]
+}

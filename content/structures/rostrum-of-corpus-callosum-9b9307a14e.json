@@ -1,0 +1,72 @@
+{
+  "id": "rostrum-of-corpus-callosum-9b9307a14e",
+  "name": "Rostrum of corpus callosum",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "CNS"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "organs": [],
+  "tags": [
+    "Brain",
+    "CNS",
+    "Identification",
+    "Relations"
+  ],
+  "imageIds": [
+    "img-a56d8f8a993b"
+  ],
+  "facts": [
+    {
+      "id": "f-d1ffad4413",
+      "question": "Identification",
+      "preferredVariantId": "v-9b9307a14e",
+      "variants": [
+        {
+          "id": "v-9b9307a14e",
+          "answer": "Rostrum of corpus callosum",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-208"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-3bca553dbf",
+      "question": "Relations",
+      "preferredVariantId": "v-4a1f6c2f9d",
+      "variants": [
+        {
+          "id": "v-4a1f6c2f9d",
+          "answer": "Named part of the corpus callosum connecting the cerebral hemispheres.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-209"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Brain / Corpus callosum parts",
+      "path": [
+        "a"
+      ],
+      "label": "a"
+    }
+  ]
+}

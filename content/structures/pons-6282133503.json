@@ -18,6 +18,7 @@
     "Brain",
     "CNS",
     "Function",
+    "Identification",
     "Location",
     "MidSagittal",
     "MidlineStructures",
@@ -58,6 +59,10 @@
               "modelId": "head-and-neck-model-cs17-2",
               "cardId": "head-and-neck-model-cs17-2-606",
               "sourceLine": 606
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-167"
             }
           ]
         }
@@ -164,6 +169,16 @@
               "sourceLine": 608
             }
           ]
+        },
+        {
+          "id": "v-5c3c9ff471",
+          "answer": "Relays information between cerebrum and cerebellum and contains cranial nerve nuclei and respiratory control centres.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-168"
+            }
+          ]
         }
       ],
       "editorialReview": {
@@ -212,6 +227,14 @@
         "B"
       ],
       "label": "B"
+    },
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Brain",
+      "path": [
+        "22"
+      ],
+      "label": "22"
     }
   ]
 }

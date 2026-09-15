@@ -19,6 +19,9 @@
   "tags": [
     "Brain",
     "Course",
+    "CranialNerves",
+    "Function",
+    "Identification",
     "Lesion",
     "Motor",
     "Nerve",
@@ -47,6 +50,10 @@
               "modelId": "head-and-neck-model-cs17-2",
               "cardId": "head-and-neck-model-cs17-2-765",
               "sourceLine": 765
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-241"
             }
           ]
         },
@@ -291,12 +298,39 @@
               "sourceLine": 770
             }
           ]
+        },
+        {
+          "id": "v-0512725d44",
+          "answer": "Ipsilateral facial sensory loss and weakness of mastication; jaw may deviate toward the lesion.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-243"
+            }
+          ]
         }
       ],
       "editorialReview": {
         "date": "2026-09-11",
         "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
       }
+    },
+    {
+      "id": "f-66517ef850",
+      "question": "Function",
+      "preferredVariantId": "v-d5d0d3d1fe",
+      "variants": [
+        {
+          "id": "v-d5d0d3d1fe",
+          "answer": "Main sensory nerve of face; motor supply to muscles of mastication via V3.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-242"
+            }
+          ]
+        }
+      ]
     }
   ],
   "occurrences": [
@@ -323,6 +357,14 @@
         "24"
       ],
       "label": "24"
+    },
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Cranial nerves",
+      "path": [
+        "V"
+      ],
+      "label": "V"
     }
   ],
   "redirectIds": [

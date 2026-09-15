@@ -1,0 +1,71 @@
+{
+  "id": "ileocecal-valve-f4b08db344",
+  "name": "Ileocecal valve",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Valve"
+  ],
+  "systems": [
+    "Digestive"
+  ],
+  "regions": [
+    "Abdomen"
+  ],
+  "organs": [],
+  "tags": [
+    "Abdomen",
+    "Caecum",
+    "Function",
+    "Identification",
+    "Valve"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-bec4bddfd9",
+      "question": "Identification",
+      "preferredVariantId": "v-f4b08db344",
+      "variants": [
+        {
+          "id": "v-f4b08db344",
+          "answer": "Ileocecal valve",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-711"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9e26e7a547",
+      "question": "Function",
+      "preferredVariantId": "v-69b3d0dea2",
+      "variants": [
+        {
+          "id": "v-69b3d0dea2",
+          "answer": "Regulates flow from ileum into caecum and limits reflux.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-712"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Abdomen / Caecum",
+      "path": [
+        "b"
+      ],
+      "label": "b"
+    }
+  ]
+}

@@ -19,10 +19,15 @@
     "Pancreas"
   ],
   "tags": [
+    "Abdomen",
     "Clinical",
     "Course",
     "Drainage",
     "Formation",
+    "Identification",
+    "Liver",
+    "LiverStructure",
+    "Relations",
     "Vein",
     "Veins",
     "Vessels"
@@ -49,6 +54,10 @@
               "modelId": "pancreas-model-js11",
               "cardId": "pancreas-model-js11-53",
               "sourceLine": 53
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-731"
             }
           ]
         }
@@ -192,6 +201,23 @@
         "date": "2026-09-11",
         "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
       }
+    },
+    {
+      "id": "f-179a007de0",
+      "question": "Relations",
+      "preferredVariantId": "v-306c8cd8fb",
+      "variants": [
+        {
+          "id": "v-306c8cd8fb",
+          "answer": "Named lobe, vessel or duct related to the liver.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-732"
+            }
+          ]
+        }
+      ]
     }
   ],
   "occurrences": [
@@ -210,6 +236,14 @@
         "5"
       ],
       "label": "5"
+    },
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Abdomen / Liver",
+      "path": [
+        "e"
+      ],
+      "label": "e"
     }
   ]
 }

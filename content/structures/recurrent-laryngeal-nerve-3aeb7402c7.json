@@ -8,7 +8,8 @@
     "Nerves"
   ],
   "regions": [
-    "Head and neck"
+    "Head and neck",
+    "Thorax"
   ],
   "systems": [
     "Nervous",
@@ -21,13 +22,17 @@
     "ArteriesAndNerves",
     "Clinical",
     "Course",
+    "Identification",
     "Lesion",
     "Motor",
     "Nerve",
+    "Nerves",
     "Roots",
     "Sensory"
   ],
-  "imageIds": [],
+  "imageIds": [
+    "img-08e011043d3a"
+  ],
   "facts": [
     {
       "id": "f-9d2c706308",
@@ -47,6 +52,10 @@
               "modelId": "larynx-and-airway-model-gs5",
               "cardId": "larynx-and-airway-model-gs5-216",
               "sourceLine": 216
+            },
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-671"
             }
           ]
         }
@@ -70,6 +79,10 @@
               "modelId": "larynx-and-airway-model-gs5",
               "cardId": "larynx-and-airway-model-gs5-217",
               "sourceLine": 217
+            },
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-672"
             }
           ]
         }
@@ -95,6 +108,16 @@
               "sourceLine": 218
             }
           ]
+        },
+        {
+          "id": "v-07b0e4e842",
+          "answer": "Right loops under the subclavian artery; left loops under the aortic arch near the ligamentum arteriosum; both ascend in the tracheo-oesophageal groove.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-673"
+            }
+          ]
         }
       ]
     },
@@ -116,6 +139,10 @@
               "modelId": "larynx-and-airway-model-gs5",
               "cardId": "larynx-and-airway-model-gs5-219",
               "sourceLine": 219
+            },
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-674"
             }
           ]
         }
@@ -139,6 +166,10 @@
               "modelId": "larynx-and-airway-model-gs5",
               "cardId": "larynx-and-airway-model-gs5-220",
               "sourceLine": 220
+            },
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-675"
             }
           ]
         }
@@ -162,6 +193,16 @@
               "modelId": "larynx-and-airway-model-gs5",
               "cardId": "larynx-and-airway-model-gs5-221",
               "sourceLine": 221
+            }
+          ]
+        },
+        {
+          "id": "v-7c72e48d3b",
+          "answer": "Unilateral injury causes hoarseness from ipsilateral vocal-fold paralysis; bilateral injury can cause severe airway obstruction.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-676"
             }
           ]
         }
@@ -207,6 +248,14 @@
         "27"
       ],
       "label": "27"
+    },
+    {
+      "modelId": "thorax-model-hs21",
+      "section": "Nerves",
+      "path": [
+        "49"
+      ],
+      "label": "49"
     }
   ]
 }

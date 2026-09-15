@@ -1,0 +1,108 @@
+{
+  "id": "intercostal-muscles-2ed0ac1762",
+  "name": "Intercostal muscles",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "regions": [
+    "Thorax"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "Identification",
+    "Innervation",
+    "Layers",
+    "Muscle",
+    "Muscles"
+  ],
+  "imageIds": [
+    "img-b2c4e4af943f"
+  ],
+  "facts": [
+    {
+      "id": "f-ec3dfc0d15",
+      "question": "Identification",
+      "preferredVariantId": "v-2ed0ac1762",
+      "variants": [
+        {
+          "id": "v-2ed0ac1762",
+          "answer": "Intercostal muscles",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-132"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-ad8d52644d",
+      "question": "Actions",
+      "preferredVariantId": "v-ba946d0398",
+      "variants": [
+        {
+          "id": "v-ba946d0398",
+          "answer": "Stabilise intercostal spaces and assist movements of the ribs during respiration.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-133"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-0647659bcd",
+      "question": "Innervation",
+      "preferredVariantId": "v-d50056337c",
+      "variants": [
+        {
+          "id": "v-d50056337c",
+          "answer": "Intercostal nerves, the anterior rami of T1–T11.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-134"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f7513d8642",
+      "question": "Layers",
+      "preferredVariantId": "v-410946137e",
+      "variants": [
+        {
+          "id": "v-410946137e",
+          "answer": "External, internal and innermost intercostal muscles.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-135"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "thorax-model-hs21",
+      "section": "Muscles and tendons",
+      "path": [
+        "22"
+      ],
+      "label": "22"
+    }
+  ]
+}

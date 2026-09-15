@@ -22,6 +22,9 @@
   "tags": [
     "Brain",
     "Course",
+    "CranialNerves",
+    "Function",
+    "Identification",
     "Lesion",
     "Motor",
     "Nerve",
@@ -56,6 +59,10 @@
               "modelId": "larynx-and-tongue-model-gs4",
               "cardId": "larynx-and-tongue-model-gs4-270",
               "sourceLine": 270
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-276"
             }
           ]
         },
@@ -283,6 +290,16 @@
               "sourceLine": 275
             }
           ]
+        },
+        {
+          "id": "v-87c3f102fd",
+          "answer": "LMN lesion causes ipsilateral tongue weakness, atrophy and deviation toward the lesion on protrusion.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-278"
+            }
+          ]
         }
       ],
       "editorialReview": {
@@ -308,6 +325,23 @@
               "modelId": "larynx-and-tongue-model-gs4",
               "cardId": "larynx-and-tongue-model-gs4-274",
               "sourceLine": 274
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-97cfe84b06",
+      "question": "Function",
+      "preferredVariantId": "v-ef7ffffda7",
+      "variants": [
+        {
+          "id": "v-ef7ffffda7",
+          "answer": "Motor to intrinsic and most extrinsic tongue muscles.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-277"
             }
           ]
         }
@@ -346,6 +380,14 @@
         "37"
       ],
       "label": "37"
+    },
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Cranial nerves",
+      "path": [
+        "XII"
+      ],
+      "label": "XII"
     }
   ],
   "redirectIds": [

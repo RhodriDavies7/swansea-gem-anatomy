@@ -1,0 +1,89 @@
+{
+  "id": "great-cardiac-vein-e7161795da",
+  "name": "Great cardiac vein",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "HeartStructure"
+  ],
+  "systems": [
+    "Cardiovascular"
+  ],
+  "regions": [
+    "Thorax"
+  ],
+  "organs": [],
+  "tags": [
+    "Course",
+    "Drainage",
+    "Heart",
+    "HeartStructure",
+    "Identification"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9497c504de",
+      "question": "Identification",
+      "preferredVariantId": "v-e7161795da",
+      "variants": [
+        {
+          "id": "v-e7161795da",
+          "answer": "Great cardiac vein",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-506"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-2c536714d9",
+      "question": "Course",
+      "preferredVariantId": "v-9b657a3a8f",
+      "variants": [
+        {
+          "id": "v-9b657a3a8f",
+          "answer": "Runs with the anterior interventricular artery then in the coronary sulcus.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-507"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-b8ab3331a5",
+      "question": "Drainage",
+      "preferredVariantId": "v-037b7d9695",
+      "variants": [
+        {
+          "id": "v-037b7d9695",
+          "answer": "Drains into the coronary sinus.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-508"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "thorax-model-hs21",
+      "section": "Heart / Left ventricle",
+      "path": [
+        "38",
+        "20"
+      ],
+      "label": "20"
+    }
+  ]
+}

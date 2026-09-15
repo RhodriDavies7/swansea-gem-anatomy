@@ -8,7 +8,8 @@
     "Muscles"
   ],
   "regions": [
-    "Head and neck"
+    "Head and neck",
+    "Thorax"
   ],
   "systems": [
     "Musculoskeletal"
@@ -18,12 +19,16 @@
     "Action",
     "HeadNeck",
     "HeadNeckMuscles",
+    "Identification",
     "Innervation",
     "Insertion",
     "Muscle",
+    "Muscles",
     "Origin"
   ],
-  "imageIds": [],
+  "imageIds": [
+    "img-119e3beb75a1"
+  ],
   "facts": [
     {
       "id": "f-9d2c706308",
@@ -43,6 +48,10 @@
               "modelId": "head-and-neck-model-cs17-2",
               "cardId": "head-and-neck-model-cs17-2-349",
               "sourceLine": 349
+            },
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-79"
             }
           ]
         }
@@ -72,6 +81,16 @@
               "modelId": "head-and-neck-model-cs17-2",
               "cardId": "head-and-neck-model-cs17-2-350",
               "sourceLine": 350
+            }
+          ]
+        },
+        {
+          "id": "v-14df50bdc4",
+          "answer": "Bilateral extension of head/neck; unilateral ipsilateral rotation and lateral flexion.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-80"
             }
           ]
         }
@@ -105,6 +124,10 @@
               "modelId": "head-and-neck-model-cs17-2",
               "cardId": "head-and-neck-model-cs17-2-351",
               "sourceLine": 351
+            },
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-81"
             }
           ]
         }
@@ -140,6 +163,16 @@
               "sourceLine": 352
             }
           ]
+        },
+        {
+          "id": "v-7742af693d",
+          "answer": "Lower ligamentum nuchae and upper thoracic spinous processes.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-82"
+            }
+          ]
         }
       ],
       "editorialReview": {
@@ -165,6 +198,10 @@
               "modelId": "head-and-neck-model-cs17-2",
               "cardId": "head-and-neck-model-cs17-2-353",
               "sourceLine": 353
+            },
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-83"
             }
           ]
         }
@@ -187,6 +224,14 @@
         "56"
       ],
       "label": "56"
+    },
+    {
+      "modelId": "thorax-model-hs21",
+      "section": "Muscles and tendons",
+      "path": [
+        "14"
+      ],
+      "label": "14"
     }
   ]
 }

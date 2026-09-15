@@ -16,14 +16,19 @@
   ],
   "organs": [],
   "tags": [
+    "Bone",
+    "Bones",
     "BonyLandmark",
     "BonyStructures",
     "Function",
+    "Identification",
     "NasalCavity",
     "Relations",
     "Structure"
   ],
-  "imageIds": [],
+  "imageIds": [
+    "img-816bf2b3a923"
+  ],
   "facts": [
     {
       "id": "f-9d2c706308",
@@ -43,6 +48,10 @@
               "modelId": "nose-and-nasal-cavity-model-fs3",
               "cardId": "nose-and-nasal-cavity-model-fs3-184",
               "sourceLine": 184
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-35"
             }
           ]
         }
@@ -72,6 +81,16 @@
               "modelId": "nose-and-nasal-cavity-model-fs3",
               "cardId": "nose-and-nasal-cavity-model-fs3-185",
               "sourceLine": 185
+            }
+          ]
+        },
+        {
+          "id": "v-2bb15e2822",
+          "answer": "Formed mainly by palatine processes of maxillae and horizontal plates of palatine bones.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-36"
             }
           ]
         }
@@ -105,6 +124,10 @@
               "modelId": "nose-and-nasal-cavity-model-fs3",
               "cardId": "nose-and-nasal-cavity-model-fs3-186",
               "sourceLine": 186
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-37"
             }
           ]
         }
@@ -149,6 +172,14 @@
         "19"
       ],
       "label": "19"
+    },
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Bones",
+      "path": [
+        "VII"
+      ],
+      "label": "VII"
     }
   ]
 }

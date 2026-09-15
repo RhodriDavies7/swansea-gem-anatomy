@@ -17,8 +17,10 @@
     "Pancreas"
   ],
   "tags": [
+    "Abdomen",
     "BloodSupply",
     "Function",
+    "Identification",
     "Location",
     "MajorOrgans",
     "Organ",
@@ -42,6 +44,10 @@
               "modelId": "pancreas-model-js11",
               "cardId": "pancreas-model-js11-3",
               "sourceLine": 3
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-619"
             }
           ]
         }
@@ -98,6 +104,16 @@
               "sourceLine": 6
             }
           ]
+        },
+        {
+          "id": "v-ea96f3449a",
+          "answer": "Exocrine digestive enzyme/bicarbonate secretion and endocrine hormone production.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-620"
+            }
+          ]
         }
       ]
     },
@@ -146,6 +162,14 @@
         "A"
       ],
       "label": "A"
+    },
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Abdomen",
+      "path": [
+        "74"
+      ],
+      "label": "74"
     }
   ]
 }

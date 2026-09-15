@@ -24,8 +24,10 @@
     "Connections",
     "Contents",
     "Function",
+    "Heart",
     "HeartChamber",
     "HeartChambers",
+    "Identification",
     "Landmarks"
   ],
   "imageIds": [],
@@ -48,6 +50,10 @@
               "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
               "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-128",
               "sourceLine": 128
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-454"
             }
           ]
         }
@@ -71,6 +77,16 @@
               "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
               "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-129",
               "sourceLine": 129
+            }
+          ]
+        },
+        {
+          "id": "v-d069b19b92",
+          "answer": "Receives systemic venous blood and sends it to right ventricle.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-455"
             }
           ]
         }
@@ -177,6 +193,15 @@
         "16"
       ],
       "label": "16"
+    },
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Thorax",
+      "path": [
+        "57",
+        "I"
+      ],
+      "label": "I"
     }
   ]
 }

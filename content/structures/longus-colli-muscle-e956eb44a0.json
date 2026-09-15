@@ -1,0 +1,126 @@
+{
+  "id": "longus-colli-muscle-e956eb44a0",
+  "name": "Longus colli muscle",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "regions": [
+    "Thorax"
+  ],
+  "organs": [],
+  "tags": [
+    "Action",
+    "Identification",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Muscles",
+    "Origin"
+  ],
+  "imageIds": [
+    "img-ce3976729e65"
+  ],
+  "facts": [
+    {
+      "id": "f-5cf4c26924",
+      "question": "Identification",
+      "preferredVariantId": "v-e956eb44a0",
+      "variants": [
+        {
+          "id": "v-e956eb44a0",
+          "answer": "Longus colli muscle",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-112"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-1448b7282f",
+      "question": "Actions",
+      "preferredVariantId": "v-69e3a00f0d",
+      "variants": [
+        {
+          "id": "v-69e3a00f0d",
+          "answer": "Flexes the cervical spine and assists slight rotation.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-113"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-380411530d",
+      "question": "Innervation",
+      "preferredVariantId": "v-f620c52e46",
+      "variants": [
+        {
+          "id": "v-f620c52e46",
+          "answer": "Anterior rami of cervical spinal nerves, mainly C2–C6.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-114"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-b21e67f9d8",
+      "question": "Origin",
+      "preferredVariantId": "v-b05b95edcb",
+      "variants": [
+        {
+          "id": "v-b05b95edcb",
+          "answer": "Bodies and transverse processes of upper thoracic/lower cervical vertebrae.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-115"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-ca253b26dc",
+      "question": "Insertion",
+      "preferredVariantId": "v-267f67bad8",
+      "variants": [
+        {
+          "id": "v-267f67bad8",
+          "answer": "Bodies and transverse processes of upper cervical vertebrae.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-116"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "thorax-model-hs21",
+      "section": "Muscles and tendons",
+      "path": [
+        "19"
+      ],
+      "label": "19"
+    }
+  ]
+}

@@ -24,6 +24,9 @@
     "AuriclesVesselsValves",
     "Function",
     "GreatVessels",
+    "Heart",
+    "HeartStructure",
+    "Identification",
     "Origin",
     "Parts"
   ],
@@ -47,6 +50,14 @@
               "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
               "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-94",
               "sourceLine": 94
+            },
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-492"
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-494"
             }
           ]
         }
@@ -126,6 +137,20 @@
               "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
               "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-97",
               "sourceLine": 97
+            },
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-493"
+            }
+          ]
+        },
+        {
+          "id": "v-87ca8184e1",
+          "answer": "Main systemic artery carrying oxygenated blood from left ventricle.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-495"
             }
           ]
         }
@@ -148,6 +173,24 @@
         "10"
       ],
       "label": "10"
+    },
+    {
+      "modelId": "thorax-model-hs21",
+      "section": "Heart / Left ventricle",
+      "path": [
+        "38",
+        "17"
+      ],
+      "label": "17"
+    },
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Thorax",
+      "path": [
+        "57",
+        "g"
+      ],
+      "label": "g"
     }
   ]
 }

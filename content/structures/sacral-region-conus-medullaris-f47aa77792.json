@@ -1,0 +1,72 @@
+{
+  "id": "sacral-region-conus-medullaris-f47aa77792",
+  "name": "Sacral region / conus medullaris",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "CNS"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "regions": [
+    "Back"
+  ],
+  "organs": [],
+  "tags": [
+    "CNS",
+    "Dorsum",
+    "Identification",
+    "Relations",
+    "SpinalCord"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-6157bdccb4",
+      "question": "Identification",
+      "preferredVariantId": "v-f47aa77792",
+      "variants": [
+        {
+          "id": "v-f47aa77792",
+          "answer": "Sacral region / conus medullaris",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-803"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c373ca3321",
+      "question": "Relations",
+      "preferredVariantId": "v-5740d9e3b5",
+      "variants": [
+        {
+          "id": "v-5740d9e3b5",
+          "answer": "Named region or terminal structure of the spinal cord.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-804"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Dorsum / SpinalCord",
+      "path": [
+        "101",
+        "d"
+      ],
+      "label": "d"
+    }
+  ]
+}

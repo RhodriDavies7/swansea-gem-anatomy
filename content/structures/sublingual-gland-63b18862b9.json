@@ -19,15 +19,19 @@
     "Larynx"
   ],
   "tags": [
+    "Coronal",
     "Drainage",
     "Function",
     "Gland",
+    "Identification",
     "Innervation",
     "Location",
-    "Tongue",
-    "Coronal"
+    "NoseMouthNeck",
+    "Tongue"
   ],
-  "imageIds": [],
+  "imageIds": [
+    "img-99187fa2b3b0"
+  ],
   "facts": [
     {
       "id": "f-9d2c706308",
@@ -47,6 +51,10 @@
               "modelId": "larynx-and-tongue-model-gs4",
               "cardId": "larynx-and-tongue-model-gs4-300",
               "sourceLine": 300
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-321"
             }
           ]
         },
@@ -90,6 +98,10 @@
               "modelId": "coronal-and-mid-sagittal-head-mb20",
               "cardId": "coronal-and-mid-sagittal-head-mb20-136",
               "sourceLine": 136
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-322"
             }
           ]
         }
@@ -170,6 +182,16 @@
               "sourceLine": 303
             }
           ]
+        },
+        {
+          "id": "v-0459abf3d6",
+          "answer": "Multiple ducts open along the sublingual fold.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-323"
+            }
+          ]
         }
       ],
       "editorialReview": {
@@ -240,6 +262,14 @@
         "26"
       ],
       "label": "26"
+    },
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Nose, mouth and neck",
+      "path": [
+        "35"
+      ],
+      "label": "35"
     }
   ],
   "redirectIds": [

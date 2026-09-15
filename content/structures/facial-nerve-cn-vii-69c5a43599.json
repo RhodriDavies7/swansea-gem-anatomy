@@ -17,14 +17,17 @@
   ],
   "organs": [],
   "tags": [
+    "BloodVesselsAndNerves",
     "Brain",
     "Course",
+    "CranialNerves",
+    "Function",
+    "Identification",
     "Lesion",
     "Motor",
     "Nerve",
     "Roots",
-    "Sensory",
-    "BloodVesselsAndNerves"
+    "Sensory"
   ],
   "imageIds": [
     "img-49992751ee38"
@@ -48,6 +51,10 @@
               "modelId": "head-and-neck-model-cs17-2",
               "cardId": "head-and-neck-model-cs17-2-781",
               "sourceLine": 781
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-251"
             }
           ]
         },
@@ -280,12 +287,39 @@
               "sourceLine": 786
             }
           ]
+        },
+        {
+          "id": "v-530f1b6b9f",
+          "answer": "LMN lesion causes ipsilateral facial weakness including forehead; additional taste/lacrimal/salivary deficits depend on lesion level.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-253"
+            }
+          ]
         }
       ],
       "editorialReview": {
         "date": "2026-09-11",
         "basis": "Compared source answers; retained concise core facts, functional detail and relevant clinical distinctions."
       }
+    },
+    {
+      "id": "f-391c6d86be",
+      "question": "Function",
+      "preferredVariantId": "v-cc0cd0eff8",
+      "variants": [
+        {
+          "id": "v-cc0cd0eff8",
+          "answer": "Motor to facial expression; taste anterior two-thirds of tongue; parasympathetic to lacrimal, submandibular and sublingual glands.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-252"
+            }
+          ]
+        }
+      ]
     }
   ],
   "occurrences": [
@@ -312,6 +346,14 @@
         "66"
       ],
       "label": "66"
+    },
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Cranial nerves",
+      "path": [
+        "VII"
+      ],
+      "label": "VII"
     }
   ],
   "redirectIds": [

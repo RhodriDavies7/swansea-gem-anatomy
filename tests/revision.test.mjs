@@ -7,8 +7,8 @@ const rawCatalog=JSON.parse(await readFile(new URL('../dist/data/catalog.json',i
 const catalog={...rawCatalog,byId:new Map(rawCatalog.structures.map(s=>[s.id,s]))};
 const manifest=JSON.parse(await readFile(new URL('../dist/data/models.json',import.meta.url)));
 const models=await Promise.all(manifest.map(m=>readFile(new URL('../dist/data/'+m.file,import.meta.url)).then(JSON.parse).then(m=>hydrateModel(m,catalog,{original:true}))));
-test('all 34 guides retain every card, answer, tag and source order',async()=>{
- assert.equal(models.length,34);assert.equal(models.reduce((n,m)=>n+m.cards.length,0),6353);
+test('all 36 guides retain every card, answer, tag and source order',async()=>{
+ assert.equal(models.length,36);assert.equal(models.reduce((n,m)=>n+m.cards.length,0),7236);
  for(const [i,m] of models.entries()){
  const lines=(await readFile(new URL('../source-guides/'+m.name+'.txt',import.meta.url),'utf8')).split(/\r?\n/);
  assert.equal(m.cards.length,lines.filter(l=>l.includes('→')).length);assert.equal(m.cards.length,manifest[i].count);
@@ -34,4 +34,25 @@ test('excluded tags remove any matching card without changing identification mod
  const cards=[{tags:['Identification','Nerve']},{tags:['Actions','Muscle']},{tags:['Identification','Bone']}];
  assert.deepEqual(filterCards(cards,'all',['Nerve','Muscle'],'all','exclude'),[cards[2]]);
  assert.deepEqual(filterCards(cards,'identification',[],'any','exclude'),[cards[0],cards[2]]);
+});
+
+test('HS21 preserves pasted cards and separates nested left/right targets while reusing shared synonyms',async()=>{
+ const m=models.find(m=>m.id==='thorax-model-hs21');const raw=(await readFile(new URL('../source-guides/Thorax (Model HS21).original.md',import.meta.url),'utf8')).split(/\r?\n/);
+ assert.equal(m.cards.length,400);assert.equal(m.cards.filter(c=>c.tags.includes('Identification')).length,135);
+ for(const c of m.cards){const line=raw[c.sourceLine-1].trim().replace(/^- /,'');const [q,tail]=line.split(' >> ');assert.equal(c.question,q);assert.equal(c.answer,tail.split(' ##')[0]);assert.deepEqual(c.tags,[...tail.matchAll(/##([^\s#]+)/g)].map(x=>x[1]));}
+ const ids=m.cards.filter(c=>c.tags.includes('Identification'));
+ assert.equal(ids.find(c=>c.answer==='Mitral valve').structureId,'bicuspid-valve-mitral-left-atrioventricular-valve-27f66fbba4');
+ const anterior=ids.filter(c=>c.answer==='Anterior segment');assert.equal(anterior.length,2);assert.notEqual(anterior[0].structureId,anterior[1].structureId);
+ const api=ids.filter(c=>c.answer==='Apicoposterior segment');assert.equal(api.length,2);assert.equal(api[0].structureId,api[1].structureId);
+ const repeated=ids.filter(c=>c.label==='24');assert.equal(repeated.length,2);assert.notEqual(repeated[0].structureId,repeated[1].structureId);
+});
+
+test('AS23/1 preserves source text, Roman labels and tagged supplement context',async()=>{
+ const m=models.find(m=>m.id==='male-torso-with-head-model-as23-1');const raw=(await readFile(new URL('../source-guides/Male torso with head (Model AS23_1).original.md',import.meta.url),'utf8')).split(/\r?\n/);
+ assert.equal(m.cards.length,483);assert.equal(m.cards.filter(c=>c.tags.includes('Identification')).length,190);
+ for(const c of m.cards){const [q,tail]=raw[c.sourceLine-1].trim().replace(/^- /,'').split(' >> ');assert.equal(c.question,q);assert.equal(c.answer,tail.split(' ##')[0]);assert.deepEqual(c.tags,[...tail.matchAll(/##([^\s#]+)/g)].map(x=>x[1]));}
+ const ids=m.cards.filter(c=>c.tags.includes('Identification'));
+ const bone=ids.find(c=>c.answer==='Frontal bone'),nerve=ids.find(c=>c.answer==='Olfactory nerve (CN I)');assert.equal(bone.label,'I');assert.equal(nerve.label,'I');assert.notEqual(bone.section,nerve.section);
+ const optic=ids.filter(c=>/^Optic nerve/.test(c.answer));assert.equal(optic.length,2);assert.equal(optic[0].structureId,optic[1].structureId);
+ const appendix=ids.find(c=>c.answer==='Vermiform appendix'),liver=ids.find(c=>c.answer==='Right lobe of liver');assert.equal(appendix.label,'a');assert.equal(liver.label,'a');assert.notEqual(appendix.section,liver.section);assert.ok(!appendix.path.includes('91'));
 });

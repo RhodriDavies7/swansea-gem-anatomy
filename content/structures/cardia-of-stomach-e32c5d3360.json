@@ -1,0 +1,72 @@
+{
+  "id": "cardia-of-stomach-e32c5d3360",
+  "name": "Cardia of stomach",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "StomachPart"
+  ],
+  "systems": [
+    "Digestive"
+  ],
+  "regions": [
+    "Abdomen"
+  ],
+  "organs": [],
+  "tags": [
+    "Abdomen",
+    "Identification",
+    "Relations",
+    "Stomach",
+    "StomachPart"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-7ac5141a36",
+      "question": "Identification",
+      "preferredVariantId": "v-e32c5d3360",
+      "variants": [
+        {
+          "id": "v-e32c5d3360",
+          "answer": "Cardia of stomach",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-538"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-bd33f39766",
+      "question": "Relations",
+      "preferredVariantId": "v-6544404bd3",
+      "variants": [
+        {
+          "id": "v-6544404bd3",
+          "answer": "Named anatomical region or landmark of the stomach.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-539"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Abdomen / Stomach",
+      "path": [
+        "59",
+        "a"
+      ],
+      "label": "a"
+    }
+  ]
+}

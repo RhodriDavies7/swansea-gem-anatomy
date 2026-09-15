@@ -18,6 +18,7 @@
     "Brain",
     "CNS",
     "Function",
+    "Identification",
     "MidSagittal",
     "MidlineStructures",
     "Relations"
@@ -47,6 +48,10 @@
               "modelId": "head-and-neck-model-cs17-2",
               "cardId": "head-and-neck-model-cs17-2-611",
               "sourceLine": 611
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-102"
             }
           ]
         }
@@ -75,6 +80,10 @@
               "modelId": "head-and-neck-model-cs17-2",
               "cardId": "head-and-neck-model-cs17-2-612",
               "sourceLine": 612
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-103"
             }
           ]
         }
@@ -138,6 +147,14 @@
         "C"
       ],
       "label": "C"
+    },
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Brain",
+      "path": [
+        "7"
+      ],
+      "label": "7"
     }
   ]
 }

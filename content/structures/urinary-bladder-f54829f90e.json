@@ -17,8 +17,10 @@
   ],
   "organs": [],
   "tags": [
+    "Abdomen",
     "BloodSupply",
     "Function",
+    "Identification",
     "Innervation",
     "Location",
     "Organ",
@@ -56,6 +58,10 @@
               "modelId": "urinary-system-model-ls3-1",
               "cardId": "urinary-system-model-ls3-1-16",
               "sourceLine": 16
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-656"
             }
           ]
         }
@@ -89,6 +95,10 @@
               "modelId": "urinary-system-model-ls3-1",
               "cardId": "urinary-system-model-ls3-1-18",
               "sourceLine": 18
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-657"
             }
           ]
         }
@@ -331,6 +341,14 @@
         "3"
       ],
       "label": "3"
+    },
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Abdomen",
+      "path": [
+        "81"
+      ],
+      "label": "81"
     }
   ]
 }

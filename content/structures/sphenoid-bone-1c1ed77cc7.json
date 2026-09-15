@@ -18,14 +18,18 @@
   "tags": [
     "Articulations",
     "Bone",
+    "Bones",
     "BonyStructures",
     "HeadNeck",
+    "Identification",
     "Landmarks",
     "MidSagittal",
     "NasalCavity",
     "Relations"
   ],
-  "imageIds": [],
+  "imageIds": [
+    "img-31aa962b4ce5"
+  ],
   "facts": [
     {
       "id": "f-9d2c706308",
@@ -60,6 +64,10 @@
               "modelId": "nose-and-nasal-cavity-model-fs3",
               "cardId": "nose-and-nasal-cavity-model-fs3-128",
               "sourceLine": 128
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-10"
             }
           ]
         }
@@ -148,6 +156,16 @@
               "modelId": "nose-and-nasal-cavity-model-fs3",
               "cardId": "nose-and-nasal-cavity-model-fs3-129",
               "sourceLine": 129
+            }
+          ]
+        },
+        {
+          "id": "v-5b03b55da5",
+          "answer": "Body, greater and lesser wings, pterygoid processes and sella turcica.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-12"
             }
           ]
         }
@@ -248,6 +266,16 @@
             }
           ],
           "editorial": true
+        },
+        {
+          "id": "v-954527d51d",
+          "answer": "Central skull-base bone contributing to the cranial fossae and orbits.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-11"
+            }
+          ]
         }
       ],
       "editorialReview": {
@@ -296,6 +324,14 @@
         "8"
       ],
       "label": "8"
+    },
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Bones",
+      "path": [
+        "II"
+      ],
+      "label": "II"
     }
   ]
 }

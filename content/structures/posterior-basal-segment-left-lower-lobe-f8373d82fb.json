@@ -1,0 +1,80 @@
+{
+  "id": "posterior-basal-segment-left-lower-lobe-f8373d82fb",
+  "name": "Posterior basal segment (left lower lobe)",
+  "aliases": [
+    "Posterior basal segment"
+  ],
+  "scope": "left lower lobe",
+  "kind": "structure",
+  "types": [
+    "BronchopulmonarySegment"
+  ],
+  "systems": [
+    "Respiratory"
+  ],
+  "regions": [
+    "Thorax"
+  ],
+  "organs": [],
+  "tags": [
+    "BronchopulmonarySegment",
+    "Definition",
+    "Identification",
+    "LeftLung",
+    "LowerLobe"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-d3632f5ebf",
+      "question": "Identification",
+      "preferredVariantId": "v-f8373d82fb",
+      "variants": [
+        {
+          "id": "v-25580414a3",
+          "answer": "Posterior basal segment",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-396"
+            }
+          ]
+        },
+        {
+          "id": "v-f8373d82fb",
+          "answer": "Posterior basal segment (left lower lobe)",
+          "sources": []
+        }
+      ]
+    },
+    {
+      "id": "f-8c031a9aec",
+      "question": "Definition",
+      "preferredVariantId": "v-99d62b49cf",
+      "variants": [
+        {
+          "id": "v-99d62b49cf",
+          "answer": "An anatomically discrete lung unit supplied by a segmental bronchus and pulmonary arterial branch.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-397"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "thorax-model-hs21",
+      "section": "Larynx, bronchial tree and lungs / left lower lobe",
+      "path": [
+        "37",
+        "37b",
+        "10"
+      ],
+      "label": "10"
+    }
+  ]
+}

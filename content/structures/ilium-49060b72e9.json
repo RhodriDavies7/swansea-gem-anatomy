@@ -11,7 +11,8 @@
   ],
   "regions": [
     "Lower limb",
-    "Pelvis"
+    "Pelvis",
+    "Head and neck"
   ],
   "systems": [
     "Musculoskeletal",
@@ -20,11 +21,13 @@
   "organs": [],
   "tags": [
     "Articulations",
+    "Attachments",
     "Bone",
     "Bones",
     "Function",
+    "Identification",
     "Landmarks",
-    "Attachments"
+    "Relations"
   ],
   "imageIds": [],
   "facts": [
@@ -41,6 +44,10 @@
               "modelId": "hip-joint-model-ns20",
               "cardId": "hip-joint-model-ns20-7",
               "sourceLine": 7
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-60"
             }
           ]
         },
@@ -114,6 +121,16 @@
               "sourceLine": 16
             }
           ]
+        },
+        {
+          "id": "v-d5b95a0ad7",
+          "answer": "Iliac crest, ASIS, AIIS and iliac fossa.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-62"
+            }
+          ]
         }
       ]
     },
@@ -152,6 +169,23 @@
           ]
         }
       ]
+    },
+    {
+      "id": "f-83538f199b",
+      "question": "Relations",
+      "preferredVariantId": "v-48fecc31be",
+      "variants": [
+        {
+          "id": "v-48fecc31be",
+          "answer": "Largest part of the hip bone, contributing to acetabulum and pelvic wall.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-61"
+            }
+          ]
+        }
+      ]
     }
   ],
   "occurrences": [
@@ -171,6 +205,14 @@
         "3"
       ],
       "label": "3"
+    },
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Bones",
+      "path": [
+        "XII"
+      ],
+      "label": "XII"
     }
   ],
   "redirectIds": [

@@ -8,7 +8,8 @@
     "Other"
   ],
   "regions": [
-    "Head and neck"
+    "Head and neck",
+    "Thorax"
   ],
   "systems": [
     "Respiratory"
@@ -21,7 +22,9 @@
     "Bronchi",
     "Bronchus",
     "Course",
+    "Identification",
     "LarynxAndAirway",
+    "LeftBronchialTree",
     "Relations"
   ],
   "imageIds": [],
@@ -44,6 +47,10 @@
               "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
               "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-77",
               "sourceLine": 77
+            },
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-249"
             }
           ]
         }
@@ -73,6 +80,10 @@
               "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
               "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-78",
               "sourceLine": 78
+            },
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-250"
             }
           ]
         }
@@ -106,6 +117,10 @@
               "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
               "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-79",
               "sourceLine": 79
+            },
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-251"
             }
           ]
         }
@@ -139,6 +154,10 @@
               "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
               "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-80",
               "sourceLine": 80
+            },
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-252"
             }
           ]
         }
@@ -165,6 +184,14 @@
         "7"
       ],
       "label": "7"
+    },
+    {
+      "modelId": "thorax-model-hs21",
+      "section": "Larynx, bronchial tree and lungs",
+      "path": [
+        "35"
+      ],
+      "label": "35"
     }
   ]
 }

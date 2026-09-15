@@ -1,0 +1,79 @@
+{
+  "id": "posterior-segmental-bronchus-right-upper-lobe-936093678f",
+  "name": "Posterior segmental bronchus (right upper lobe)",
+  "aliases": [
+    "Posterior segmental bronchus"
+  ],
+  "scope": "right upper lobe",
+  "kind": "structure",
+  "types": [
+    "Bronchus"
+  ],
+  "systems": [
+    "Respiratory"
+  ],
+  "regions": [
+    "Thorax"
+  ],
+  "organs": [],
+  "tags": [
+    "Bronchus",
+    "Identification",
+    "RightBronchialTree",
+    "Supply",
+    "UpperLobe"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-d108bb138a",
+      "question": "Identification",
+      "preferredVariantId": "v-936093678f",
+      "variants": [
+        {
+          "id": "v-71d284c224",
+          "answer": "Posterior segmental bronchus",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-211"
+            }
+          ]
+        },
+        {
+          "id": "v-936093678f",
+          "answer": "Posterior segmental bronchus (right upper lobe)",
+          "sources": []
+        }
+      ]
+    },
+    {
+      "id": "f-3aa7f1051f",
+      "question": "Supply",
+      "preferredVariantId": "v-f66846e2aa",
+      "variants": [
+        {
+          "id": "v-f66846e2aa",
+          "answer": "Supplies the corresponding bronchopulmonary segment of the right upper lobe.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-212"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "thorax-model-hs21",
+      "section": "Larynx, bronchial tree and lungs / Right upper lobar bronchus / right upper lobe",
+      "path": [
+        "34",
+        "2"
+      ],
+      "label": "2"
+    }
+  ]
+}

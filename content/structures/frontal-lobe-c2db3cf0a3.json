@@ -17,7 +17,8 @@
   "tags": [
     "Brain",
     "CNS",
-    "Function"
+    "Function",
+    "Identification"
   ],
   "imageIds": [],
   "facts": [
@@ -34,6 +35,10 @@
               "modelId": "head-and-neck-model-cs17-2",
               "cardId": "head-and-neck-model-cs17-2-620",
               "sourceLine": 620
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-86"
             }
           ]
         }
@@ -54,6 +59,16 @@
               "sourceLine": 621
             }
           ]
+        },
+        {
+          "id": "v-18996526be",
+          "answer": "Executive function, voluntary motor planning, behaviour and language production in the dominant hemisphere.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-87"
+            }
+          ]
         }
       ]
     }
@@ -66,6 +81,14 @@
         "E"
       ],
       "label": "E"
+    },
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Brain",
+      "path": [
+        "3"
+      ],
+      "label": "3"
     }
   ]
 }

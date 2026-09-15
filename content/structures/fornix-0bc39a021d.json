@@ -18,9 +18,12 @@
     "Brain",
     "CNS",
     "Function",
+    "Identification",
     "Structure"
   ],
-  "imageIds": [],
+  "imageIds": [
+    "img-13080f1ba7e3"
+  ],
   "facts": [
     {
       "id": "f-9d2c706308",
@@ -35,6 +38,10 @@
               "modelId": "head-and-neck-model-cs17-2",
               "cardId": "head-and-neck-model-cs17-2-692",
               "sourceLine": 692
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-115"
             }
           ]
         }
@@ -73,6 +80,16 @@
               "sourceLine": 694
             }
           ]
+        },
+        {
+          "id": "v-33c808b1ae",
+          "answer": "Major output tract of the hippocampal formation, especially to mammillary bodies.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-116"
+            }
+          ]
         }
       ]
     }
@@ -85,6 +102,14 @@
         "6"
       ],
       "label": "6"
+    },
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Brain",
+      "path": [
+        "10"
+      ],
+      "label": "10"
     }
   ]
 }

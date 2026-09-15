@@ -1,0 +1,79 @@
+{
+  "id": "inferior-lingular-bronchus-left-upper-lobe-f24f733702",
+  "name": "Inferior lingular bronchus (left upper lobe)",
+  "aliases": [
+    "Inferior lingular bronchus"
+  ],
+  "scope": "left upper lobe",
+  "kind": "structure",
+  "types": [
+    "Bronchus"
+  ],
+  "systems": [
+    "Respiratory"
+  ],
+  "regions": [
+    "Thorax"
+  ],
+  "organs": [],
+  "tags": [
+    "Bronchus",
+    "Identification",
+    "LeftBronchialTree",
+    "Supply",
+    "UpperLobe"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-75d47cbfa3",
+      "question": "Identification",
+      "preferredVariantId": "v-f24f733702",
+      "variants": [
+        {
+          "id": "v-6c4d117bcd",
+          "answer": "Inferior lingular bronchus",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-268"
+            }
+          ]
+        },
+        {
+          "id": "v-f24f733702",
+          "answer": "Inferior lingular bronchus (left upper lobe)",
+          "sources": []
+        }
+      ]
+    },
+    {
+      "id": "f-099776e8c1",
+      "question": "Supply",
+      "preferredVariantId": "v-90a1fe7b3e",
+      "variants": [
+        {
+          "id": "v-90a1fe7b3e",
+          "answer": "Supplies the corresponding bronchopulmonary segment of the left upper lobe.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-269"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "thorax-model-hs21",
+      "section": "Larynx, bronchial tree and lungs / Left upper lobar bronchus / left upper lobe",
+      "path": [
+        "35",
+        "5"
+      ],
+      "label": "5"
+    }
+  ]
+}

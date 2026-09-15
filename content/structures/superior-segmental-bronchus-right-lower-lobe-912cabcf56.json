@@ -1,0 +1,79 @@
+{
+  "id": "superior-segmental-bronchus-right-lower-lobe-912cabcf56",
+  "name": "Superior segmental bronchus (right lower lobe)",
+  "aliases": [
+    "Superior segmental bronchus"
+  ],
+  "scope": "right lower lobe",
+  "kind": "structure",
+  "types": [
+    "Bronchus"
+  ],
+  "systems": [
+    "Respiratory"
+  ],
+  "regions": [
+    "Thorax"
+  ],
+  "organs": [],
+  "tags": [
+    "Bronchus",
+    "Identification",
+    "LowerLobe",
+    "RightBronchialTree",
+    "Supply"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-e4b58f37b7",
+      "question": "Identification",
+      "preferredVariantId": "v-912cabcf56",
+      "variants": [
+        {
+          "id": "v-f9310ed635",
+          "answer": "Superior segmental bronchus",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-229"
+            }
+          ]
+        },
+        {
+          "id": "v-912cabcf56",
+          "answer": "Superior segmental bronchus (right lower lobe)",
+          "sources": []
+        }
+      ]
+    },
+    {
+      "id": "f-5f05de2bb8",
+      "question": "Supply",
+      "preferredVariantId": "v-c5f20316b0",
+      "variants": [
+        {
+          "id": "v-c5f20316b0",
+          "answer": "Supplies the corresponding bronchopulmonary segment of the right lower lobe.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-230"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "thorax-model-hs21",
+      "section": "Larynx, bronchial tree and lungs / Right lower lobar bronchus / right lower lobe",
+      "path": [
+        "34",
+        "6"
+      ],
+      "label": "6"
+    }
+  ]
+}

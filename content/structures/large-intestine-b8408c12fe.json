@@ -1,0 +1,114 @@
+{
+  "id": "large-intestine-b8408c12fe",
+  "name": "Large intestine",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Organs"
+  ],
+  "systems": [
+    "Digestive"
+  ],
+  "regions": [
+    "Thorax",
+    "Abdomen"
+  ],
+  "organs": [],
+  "tags": [
+    "Abdomen",
+    "Function",
+    "Identification",
+    "Organ",
+    "Parts",
+    "Viscera"
+  ],
+  "imageIds": [
+    "img-04ea76bc1492"
+  ],
+  "facts": [
+    {
+      "id": "f-2239860c9b",
+      "question": "Identification",
+      "preferredVariantId": "v-b8408c12fe",
+      "variants": [
+        {
+          "id": "v-b8408c12fe",
+          "answer": "Large intestine",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-168"
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-574"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-52b86d41a9",
+      "question": "Function",
+      "preferredVariantId": "v-9d0d765642",
+      "variants": [
+        {
+          "id": "v-9d0d765642",
+          "answer": "Absorbs water/electrolytes and forms/stores faeces.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-169"
+            }
+          ]
+        },
+        {
+          "id": "v-867cb46fd8",
+          "answer": "Absorbs water/electrolytes and forms faeces.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-575"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-4136e880f6",
+      "question": "Parts",
+      "preferredVariantId": "v-11bf37f592",
+      "variants": [
+        {
+          "id": "v-11bf37f592",
+          "answer": "Caecum, colon, rectum and anal canal.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-170"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "thorax-model-hs21",
+      "section": "Viscera",
+      "path": [
+        "28"
+      ],
+      "label": "28"
+    },
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Abdomen",
+      "path": [
+        "63"
+      ],
+      "label": "63"
+    }
+  ]
+}

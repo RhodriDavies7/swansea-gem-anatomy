@@ -1,0 +1,88 @@
+{
+  "id": "fifth-lumbar-vertebra-with-promontory-ad4953014c",
+  "name": "Fifth lumbar vertebra with promontory",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Bones"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "organs": [],
+  "tags": [
+    "Bone",
+    "Bones",
+    "Function",
+    "Identification",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-20643c7870",
+      "question": "Identification",
+      "preferredVariantId": "v-ad4953014c",
+      "variants": [
+        {
+          "id": "v-ad4953014c",
+          "answer": "Fifth lumbar vertebra with promontory",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-70"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6c962397a0",
+      "question": "Relations",
+      "preferredVariantId": "v-a05b7f4e50",
+      "variants": [
+        {
+          "id": "v-a05b7f4e50",
+          "answer": "Lowest lumbar vertebra at the lumbosacral junction.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-71"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-0b1b25bcde",
+      "question": "Function",
+      "preferredVariantId": "v-e4bac02511",
+      "variants": [
+        {
+          "id": "v-e4bac02511",
+          "answer": "Transmits substantial axial load to the sacrum.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-72"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Bones",
+      "path": [
+        "XIV"
+      ],
+      "label": "XIV"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": "diaphragmatic-part-of-the-pericardium-f075e0e330",
+  "name": "Diaphragmatic part of the pericardium",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "regions": [
+    "Thorax"
+  ],
+  "organs": [],
+  "tags": [
+    "Function",
+    "Identification",
+    "Muscle",
+    "Muscles",
+    "Structure"
+  ],
+  "imageIds": [
+    "img-f82a5d98e3f2"
+  ],
+  "facts": [
+    {
+      "id": "f-8e5539d1f0",
+      "question": "Identification",
+      "preferredVariantId": "v-f075e0e330",
+      "variants": [
+        {
+          "id": "v-f075e0e330",
+          "answer": "Diaphragmatic part of the pericardium",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-127"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-831095a6a0",
+      "question": "Structure",
+      "preferredVariantId": "v-a058584e09",
+      "variants": [
+        {
+          "id": "v-a058584e09",
+          "answer": "Inferior fibrous pericardium fused to the central tendon of the diaphragm.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-128"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6b6fdc6059",
+      "question": "Function",
+      "preferredVariantId": "v-9053793edc",
+      "variants": [
+        {
+          "id": "v-9053793edc",
+          "answer": "Anchors the heart within the mediastinum while allowing coordinated movement with respiration.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-129"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "thorax-model-hs21",
+      "section": "Muscles and tendons",
+      "path": [
+        "21"
+      ],
+      "label": "21"
+    }
+  ]
+}

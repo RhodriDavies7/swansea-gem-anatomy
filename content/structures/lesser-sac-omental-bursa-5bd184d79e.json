@@ -1,0 +1,70 @@
+{
+  "id": "lesser-sac-omental-bursa-5bd184d79e",
+  "name": "Lesser sac (omental bursa)",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Space"
+  ],
+  "systems": [
+    "Digestive"
+  ],
+  "regions": [
+    "Abdomen"
+  ],
+  "organs": [],
+  "tags": [
+    "Abdomen",
+    "Identification",
+    "Location",
+    "Space"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-4c0e54c520",
+      "question": "Identification",
+      "preferredVariantId": "v-5bd184d79e",
+      "variants": [
+        {
+          "id": "v-5bd184d79e",
+          "answer": "Lesser sac (omental bursa)",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-636"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-b4601da29e",
+      "question": "Location",
+      "preferredVariantId": "v-a2421c79a9",
+      "variants": [
+        {
+          "id": "v-a2421c79a9",
+          "answer": "Peritoneal recess posterior to stomach and lesser omentum.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-637"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Abdomen",
+      "path": [
+        "76b"
+      ],
+      "label": "76b"
+    }
+  ]
+}

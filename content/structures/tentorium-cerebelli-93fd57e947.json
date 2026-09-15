@@ -14,10 +14,13 @@
   "organs": [],
   "tags": [
     "Attachments",
+    "Brain",
     "Dura",
     "Function",
+    "Identification",
     "MidSagittal",
     "MidlineStructures",
+    "Relations",
     "Structure"
   ],
   "imageIds": [],
@@ -40,6 +43,10 @@
               "modelId": "half-head-and-neck-model-bs9",
               "cardId": "half-head-and-neck-model-bs9-117",
               "sourceLine": 117
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-81"
             }
           ]
         }
@@ -63,6 +70,10 @@
               "modelId": "half-head-and-neck-model-bs9",
               "cardId": "half-head-and-neck-model-bs9-118",
               "sourceLine": 118
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-82"
             }
           ]
         }
@@ -123,6 +134,23 @@
           ]
         }
       ]
+    },
+    {
+      "id": "f-49e7409c24",
+      "question": "Relations",
+      "preferredVariantId": "v-848532e2a3",
+      "variants": [
+        {
+          "id": "v-848532e2a3",
+          "answer": "Its free edge forms the tentorial notch around the midbrain.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-83"
+            }
+          ]
+        }
+      ]
     }
   ],
   "occurrences": [
@@ -137,6 +165,14 @@
     {
       "modelId": "half-head-and-neck-model-bs9",
       "section": "Other midline structures",
+      "path": [
+        "2"
+      ],
+      "label": "2"
+    },
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Brain",
       "path": [
         "2"
       ],

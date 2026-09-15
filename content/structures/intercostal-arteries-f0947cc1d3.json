@@ -1,0 +1,90 @@
+{
+  "id": "intercostal-arteries-f0947cc1d3",
+  "name": "Intercostal arteries",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Arteries"
+  ],
+  "systems": [
+    "Cardiovascular"
+  ],
+  "regions": [
+    "Thorax"
+  ],
+  "organs": [],
+  "tags": [
+    "Artery",
+    "Identification",
+    "Origin",
+    "Supply",
+    "Vessels"
+  ],
+  "imageIds": [
+    "img-e0e440b6135a"
+  ],
+  "facts": [
+    {
+      "id": "f-7bd33d4726",
+      "question": "Identification",
+      "preferredVariantId": "v-f0947cc1d3",
+      "variants": [
+        {
+          "id": "v-f0947cc1d3",
+          "answer": "Intercostal arteries",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-578"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9781fcbf12",
+      "question": "Supply",
+      "preferredVariantId": "v-2f6029793e",
+      "variants": [
+        {
+          "id": "v-2f6029793e",
+          "answer": "Supply the thoracic wall and intercostal spaces.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-579"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-ceb7b8de23",
+      "question": "Origin",
+      "preferredVariantId": "v-14944d8b5a",
+      "variants": [
+        {
+          "id": "v-14944d8b5a",
+          "answer": "Posterior intercostal arteries mainly arise from the thoracic aorta; upper spaces also receive branches from the supreme intercostal artery.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-580"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "thorax-model-hs21",
+      "section": "Vessels",
+      "path": [
+        "34"
+      ],
+      "label": "34"
+    }
+  ]
+}

@@ -1,7 +1,9 @@
 {
   "id": "fundus-c5ca36d496",
   "name": "Fundus",
-  "aliases": [],
+  "aliases": [
+    "Fundus of stomach"
+  ],
   "scope": "Abdomen",
   "kind": "structure",
   "types": [
@@ -17,10 +19,14 @@
     "Stomach"
   ],
   "tags": [
+    "Abdomen",
     "Function",
+    "Identification",
     "Location",
     "RegionsAndLandmarks",
     "Relations",
+    "Stomach",
+    "StomachPart",
     "StomachRegion"
   ],
   "imageIds": [],
@@ -38,6 +44,16 @@
               "modelId": "stomach-model-ns15",
               "cardId": "stomach-model-ns15-9",
               "sourceLine": 9
+            }
+          ]
+        },
+        {
+          "id": "v-873b3d1954",
+          "answer": "Fundus of stomach",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-554"
             }
           ]
         }
@@ -76,6 +92,16 @@
               "sourceLine": 11
             }
           ]
+        },
+        {
+          "id": "v-6544404bd3",
+          "answer": "Named anatomical region or landmark of the stomach.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-555"
+            }
+          ]
         }
       ]
     },
@@ -106,6 +132,15 @@
         "2"
       ],
       "label": "2"
+    },
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Abdomen / Stomach",
+      "path": [
+        "59",
+        "e"
+      ],
+      "label": "e"
     }
   ]
 }

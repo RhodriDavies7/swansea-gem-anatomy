@@ -24,8 +24,10 @@
     "Connections",
     "Contents",
     "Function",
+    "Heart",
     "HeartChamber",
     "HeartChambers",
+    "Identification",
     "Landmarks",
     "Relations"
   ],
@@ -49,6 +51,10 @@
               "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
               "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-151",
               "sourceLine": 151
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-462"
             }
           ]
         }
@@ -78,6 +84,16 @@
               "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
               "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-152",
               "sourceLine": 152
+            }
+          ]
+        },
+        {
+          "id": "v-e0b07c9e18",
+          "answer": "Pumps deoxygenated blood into pulmonary trunk.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-463"
             }
           ]
         }
@@ -206,6 +222,15 @@
         "20"
       ],
       "label": "20"
+    },
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Thorax",
+      "path": [
+        "57",
+        "III"
+      ],
+      "label": "III"
     }
   ]
 }

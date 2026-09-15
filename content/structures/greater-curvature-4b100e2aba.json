@@ -17,11 +17,16 @@
     "Stomach"
   ],
   "tags": [
+    "Abdomen",
     "Attachments",
     "BloodSupply",
+    "Identification",
     "Location",
     "RegionsAndLandmarks",
-    "StomachLandmark"
+    "Relations",
+    "Stomach",
+    "StomachLandmark",
+    "StomachPart"
   ],
   "imageIds": [],
   "facts": [
@@ -38,6 +43,10 @@
               "modelId": "stomach-model-ns15",
               "cardId": "stomach-model-ns15-21",
               "sourceLine": 21
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-550"
             }
           ]
         }
@@ -96,6 +105,23 @@
           ]
         }
       ]
+    },
+    {
+      "id": "f-adaf31635c",
+      "question": "Relations",
+      "preferredVariantId": "v-6544404bd3",
+      "variants": [
+        {
+          "id": "v-6544404bd3",
+          "answer": "Named anatomical region or landmark of the stomach.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-551"
+            }
+          ]
+        }
+      ]
     }
   ],
   "occurrences": [
@@ -106,6 +132,15 @@
         "4"
       ],
       "label": "4"
+    },
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Abdomen / Stomach",
+      "path": [
+        "59",
+        "d"
+      ],
+      "label": "d"
     }
   ]
 }

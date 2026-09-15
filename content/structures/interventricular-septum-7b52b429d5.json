@@ -20,9 +20,14 @@
     "CardiacStructure",
     "Clinical",
     "Function",
+    "Heart",
+    "HeartStructure",
+    "Identification",
     "MajorLandmarks",
     "Parts",
-    "Relations"
+    "Relations",
+    "RightVentricle",
+    "Structure"
   ],
   "imageIds": [],
   "facts": [
@@ -39,6 +44,10 @@
               "modelId": "heart-model-hs5",
               "cardId": "heart-model-hs5-9",
               "sourceLine": 9
+            },
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-467"
             }
           ]
         }
@@ -57,6 +66,16 @@
               "modelId": "heart-model-hs5",
               "cardId": "heart-model-hs5-10",
               "sourceLine": 10
+            }
+          ]
+        },
+        {
+          "id": "v-bf6623c86c",
+          "answer": "Separates the right and left ventricles.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-468"
             }
           ]
         }
@@ -115,6 +134,23 @@
           ]
         }
       ]
+    },
+    {
+      "id": "f-3e6876fb7e",
+      "question": "Structure",
+      "preferredVariantId": "v-ee99e74f79",
+      "variants": [
+        {
+          "id": "v-ee99e74f79",
+          "answer": "Has muscular and membranous components.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-469"
+            }
+          ]
+        }
+      ]
     }
   ],
   "occurrences": [
@@ -125,6 +161,15 @@
         "B"
       ],
       "label": "B"
+    },
+    {
+      "modelId": "thorax-model-hs21",
+      "section": "Heart / Right ventricle",
+      "path": [
+        "38",
+        "12"
+      ],
+      "label": "12"
     }
   ]
 }

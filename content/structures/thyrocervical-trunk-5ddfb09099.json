@@ -1,0 +1,88 @@
+{
+  "id": "thyrocervical-trunk-5ddfb09099",
+  "name": "Thyrocervical trunk",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Arteries"
+  ],
+  "systems": [
+    "Cardiovascular"
+  ],
+  "regions": [
+    "Thorax"
+  ],
+  "organs": [],
+  "tags": [
+    "Artery",
+    "Branches",
+    "Identification",
+    "Origin",
+    "Vessels"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-13ba23eb7d",
+      "question": "Identification",
+      "preferredVariantId": "v-5ddfb09099",
+      "variants": [
+        {
+          "id": "v-5ddfb09099",
+          "answer": "Thyrocervical trunk",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-558"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-bd429ac1c9",
+      "question": "Origin",
+      "preferredVariantId": "v-e8b02dc758",
+      "variants": [
+        {
+          "id": "v-e8b02dc758",
+          "answer": "Branch of the first part of the subclavian artery.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-559"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9fdbd44dc4",
+      "question": "Branches",
+      "preferredVariantId": "v-8bedd70810",
+      "variants": [
+        {
+          "id": "v-8bedd70810",
+          "answer": "Commonly gives inferior thyroid, transverse cervical and suprascapular arteries.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-560"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "thorax-model-hs21",
+      "section": "Vessels",
+      "path": [
+        "30"
+      ],
+      "label": "30"
+    }
+  ]
+}

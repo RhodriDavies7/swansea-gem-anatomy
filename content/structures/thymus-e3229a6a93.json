@@ -1,0 +1,108 @@
+{
+  "id": "thymus-e3229a6a93",
+  "name": "Thymus",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Glands"
+  ],
+  "systems": [
+    "Endocrine"
+  ],
+  "regions": [
+    "Thorax"
+  ],
+  "organs": [],
+  "tags": [
+    "Embryology",
+    "Function",
+    "Gland",
+    "Glands",
+    "Identification",
+    "Location"
+  ],
+  "imageIds": [
+    "img-7b5c8424e9e2"
+  ],
+  "facts": [
+    {
+      "id": "f-95a5c542da",
+      "question": "Identification",
+      "preferredVariantId": "v-e3229a6a93",
+      "variants": [
+        {
+          "id": "v-e3229a6a93",
+          "answer": "Thymus",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-686"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c99399c789",
+      "question": "Location",
+      "preferredVariantId": "v-39ac2ac3a4",
+      "variants": [
+        {
+          "id": "v-39ac2ac3a4",
+          "answer": "Anterior superior mediastinum, especially prominent in children.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-687"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f4ead616a0",
+      "question": "Function",
+      "preferredVariantId": "v-6092533ffc",
+      "variants": [
+        {
+          "id": "v-6092533ffc",
+          "answer": "Site of T-lymphocyte maturation.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-688"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-8a524c862e",
+      "question": "Development",
+      "preferredVariantId": "v-5763927df5",
+      "variants": [
+        {
+          "id": "v-5763927df5",
+          "answer": "Relatively large in childhood and undergoes fatty involution after puberty.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-689"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "thorax-model-hs21",
+      "section": "Glands",
+      "path": [
+        "51"
+      ],
+      "label": "51"
+    }
+  ]
+}

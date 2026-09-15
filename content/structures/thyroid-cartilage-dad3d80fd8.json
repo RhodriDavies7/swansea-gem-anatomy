@@ -8,7 +8,8 @@
     "Cartilage"
   ],
   "regions": [
-    "Head and neck"
+    "Head and neck",
+    "Thorax"
   ],
   "systems": [
     "Musculoskeletal",
@@ -18,17 +19,22 @@
     "Larynx"
   ],
   "tags": [
+    "Airway",
     "Cartilage",
     "CartilagesAndBones",
     "Function",
+    "Identification",
     "Landmarks",
     "LaryngealStructures",
     "Larynx",
     "LarynxAndAirway",
     "MidSagittal",
+    "NoseMouthNeck",
     "Structure"
   ],
-  "imageIds": [],
+  "imageIds": [
+    "img-13f6beb473d7"
+  ],
   "facts": [
     {
       "id": "f-9d2c706308",
@@ -73,6 +79,14 @@
               "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
               "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-50",
               "sourceLine": 50
+            },
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-184"
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-400"
             }
           ]
         }
@@ -116,6 +130,10 @@
               "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
               "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-51",
               "sourceLine": 51
+            },
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-185"
             }
           ]
         },
@@ -197,6 +215,26 @@
               "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
               "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-52",
               "sourceLine": 52
+            }
+          ]
+        },
+        {
+          "id": "v-8f1e90fe71",
+          "answer": "Protects the vocal apparatus and provides muscular and ligamentous attachment.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-186"
+            }
+          ]
+        },
+        {
+          "id": "v-1bfd753e56",
+          "answer": "Protects the vocal apparatus and provides attachment for laryngeal muscles/ligaments.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-401"
             }
           ]
         }
@@ -317,6 +355,22 @@
         "2"
       ],
       "label": "2"
+    },
+    {
+      "modelId": "thorax-model-hs21",
+      "section": "Larynx, bronchial tree and lungs",
+      "path": [
+        "31"
+      ],
+      "label": "31"
+    },
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Nose, mouth and neck",
+      "path": [
+        "48"
+      ],
+      "label": "48"
     }
   ]
 }

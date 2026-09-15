@@ -1,0 +1,70 @@
+{
+  "id": "cerebral-peduncle-c723b41c76",
+  "name": "Cerebral peduncle",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "CNS"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "organs": [],
+  "tags": [
+    "Brain",
+    "CNS",
+    "Contents",
+    "Identification"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-a49cd03d02",
+      "question": "Identification",
+      "preferredVariantId": "v-c723b41c76",
+      "variants": [
+        {
+          "id": "v-c723b41c76",
+          "answer": "Cerebral peduncle",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-171"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-55870b968e",
+      "question": "Contents",
+      "preferredVariantId": "v-a062d55c39",
+      "variants": [
+        {
+          "id": "v-a062d55c39",
+          "answer": "Contains major descending motor fibres in the ventral midbrain.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-172"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Brain",
+      "path": [
+        "23"
+      ],
+      "label": "23"
+    }
+  ]
+}

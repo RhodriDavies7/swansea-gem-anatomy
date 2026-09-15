@@ -1,0 +1,72 @@
+{
+  "id": "right-atrioventricular-orifice-7358d047f9",
+  "name": "Right atrioventricular orifice",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "HeartStructure"
+  ],
+  "systems": [
+    "Cardiovascular"
+  ],
+  "regions": [
+    "Thorax"
+  ],
+  "organs": [],
+  "tags": [
+    "Function",
+    "Heart",
+    "HeartStructure",
+    "Identification",
+    "RightAtrium"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-1ecb24073b",
+      "question": "Identification",
+      "preferredVariantId": "v-7358d047f9",
+      "variants": [
+        {
+          "id": "v-7358d047f9",
+          "answer": "Right atrioventricular orifice",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-433"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-ae9a2ae80f",
+      "question": "Function",
+      "preferredVariantId": "v-8918b15ff4",
+      "variants": [
+        {
+          "id": "v-8918b15ff4",
+          "answer": "Allows blood flow from right atrium to right ventricle through the tricuspid valve.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-434"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "thorax-model-hs21",
+      "section": "Heart / Right atrium",
+      "path": [
+        "38",
+        "4"
+      ],
+      "label": "4"
+    }
+  ]
+}

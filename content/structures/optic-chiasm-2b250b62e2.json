@@ -1,0 +1,90 @@
+{
+  "id": "optic-chiasm-2b250b62e2",
+  "name": "Optic chiasm",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "CNS"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "organs": [],
+  "tags": [
+    "Brain",
+    "CNS",
+    "Clinical",
+    "Identification",
+    "Structure"
+  ],
+  "imageIds": [
+    "img-c8a9f0e852d9"
+  ],
+  "facts": [
+    {
+      "id": "f-465886a5f1",
+      "question": "Identification",
+      "preferredVariantId": "v-2b250b62e2",
+      "variants": [
+        {
+          "id": "v-2b250b62e2",
+          "answer": "Optic chiasm",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-202"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d6c9921291",
+      "question": "Structure",
+      "preferredVariantId": "v-687a3f066d",
+      "variants": [
+        {
+          "id": "v-687a3f066d",
+          "answer": "Site where nasal retinal fibres cross between optic nerves and optic tracts.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-203"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-8786da54bd",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-337fdb365c",
+      "variants": [
+        {
+          "id": "v-337fdb365c",
+          "answer": "Compression can cause bitemporal hemianopia.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-204"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Brain",
+      "path": [
+        "30"
+      ],
+      "label": "30"
+    }
+  ]
+}

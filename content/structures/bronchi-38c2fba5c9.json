@@ -1,0 +1,70 @@
+{
+  "id": "bronchi-38c2fba5c9",
+  "name": "Bronchi",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Tube"
+  ],
+  "systems": [
+    "Respiratory"
+  ],
+  "regions": [
+    "Thorax"
+  ],
+  "organs": [],
+  "tags": [
+    "Function",
+    "Identification",
+    "Thorax",
+    "Tube"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-fe96c53515",
+      "question": "Identification",
+      "preferredVariantId": "v-38c2fba5c9",
+      "variants": [
+        {
+          "id": "v-38c2fba5c9",
+          "answer": "Bronchi",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-440"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-88d554302c",
+      "question": "Function",
+      "preferredVariantId": "v-17c04cea20",
+      "variants": [
+        {
+          "id": "v-17c04cea20",
+          "answer": "Conduct air from trachea into progressively smaller airways.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-441"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Thorax",
+      "path": [
+        "55"
+      ],
+      "label": "55"
+    }
+  ]
+}

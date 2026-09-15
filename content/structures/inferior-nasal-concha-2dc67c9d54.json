@@ -19,15 +19,19 @@
     "Bone",
     "Coronal",
     "Function",
+    "Identification",
     "Location",
     "MidSagittal",
     "MidlineStructures",
     "NasalCavity",
     "NasalConcha",
+    "NoseMouthNeck",
     "Relations",
     "Structure"
   ],
-  "imageIds": [],
+  "imageIds": [
+    "img-c15d347c980f"
+  ],
   "facts": [
     {
       "id": "f-9d2c706308",
@@ -67,6 +71,10 @@
               "modelId": "nose-and-nasal-cavity-model-fs3",
               "cardId": "nose-and-nasal-cavity-model-fs3-152",
               "sourceLine": 152
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-307"
             }
           ]
         }
@@ -233,6 +241,10 @@
               "modelId": "nose-and-nasal-cavity-model-fs3",
               "cardId": "nose-and-nasal-cavity-model-fs3-154",
               "sourceLine": 154
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-308"
             }
           ]
         },
@@ -346,6 +358,14 @@
         "13"
       ],
       "label": "13"
+    },
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Nose, mouth and neck",
+      "path": [
+        "32"
+      ],
+      "label": "32"
     }
   ]
 }

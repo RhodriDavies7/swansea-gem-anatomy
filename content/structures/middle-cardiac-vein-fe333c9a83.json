@@ -1,0 +1,89 @@
+{
+  "id": "middle-cardiac-vein-fe333c9a83",
+  "name": "Middle cardiac vein",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "HeartStructure"
+  ],
+  "systems": [
+    "Cardiovascular"
+  ],
+  "regions": [
+    "Thorax"
+  ],
+  "organs": [],
+  "tags": [
+    "Course",
+    "Drainage",
+    "Heart",
+    "HeartStructure",
+    "Identification"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-c042211249",
+      "question": "Identification",
+      "preferredVariantId": "v-fe333c9a83",
+      "variants": [
+        {
+          "id": "v-fe333c9a83",
+          "answer": "Middle cardiac vein",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-515"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-31c8a6c5da",
+      "question": "Course",
+      "preferredVariantId": "v-a97ba6f14b",
+      "variants": [
+        {
+          "id": "v-a97ba6f14b",
+          "answer": "Runs in the posterior interventricular sulcus.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-516"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-cd7d2e8bbf",
+      "question": "Drainage",
+      "preferredVariantId": "v-037b7d9695",
+      "variants": [
+        {
+          "id": "v-037b7d9695",
+          "answer": "Drains into the coronary sinus.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-517"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "thorax-model-hs21",
+      "section": "Heart / Left ventricle",
+      "path": [
+        "38",
+        "22"
+      ],
+      "label": "22"
+    }
+  ]
+}

@@ -8,7 +8,8 @@
     "Arteries"
   ],
   "regions": [
-    "Head and neck"
+    "Head and neck",
+    "Back"
   ],
   "systems": [
     "Cardiovascular"
@@ -21,7 +22,9 @@
     "BloodVesselsAndNerves",
     "Branches",
     "Course",
+    "Dorsum",
     "HeadNeck",
+    "Identification",
     "Origin",
     "Relations",
     "Supply",
@@ -67,6 +70,10 @@
               "modelId": "head-and-neck-model-cs17-2",
               "cardId": "head-and-neck-model-cs17-2-400",
               "sourceLine": 400
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-831"
             }
           ]
         }
@@ -228,6 +235,16 @@
             }
           ],
           "editorial": true
+        },
+        {
+          "id": "v-23af9bd2c9",
+          "answer": "Ascends in neck without branches, enters skull via carotid canal and contributes to anterior cerebral circulation.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-832"
+            }
+          ]
         }
       ],
       "editorialReview": {
@@ -330,6 +347,16 @@
               "modelId": "head-and-neck-model-cs17-2",
               "cardId": "head-and-neck-model-cs17-2-404",
               "sourceLine": 404
+            }
+          ]
+        },
+        {
+          "id": "v-4de2fcfb70",
+          "answer": "Major supply to anterior brain and orbit.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-833"
             }
           ]
         }
@@ -455,6 +482,14 @@
         "63"
       ],
       "label": "63"
+    },
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Dorsum",
+      "path": [
+        "106"
+      ],
+      "label": "106"
     }
   ]
 }

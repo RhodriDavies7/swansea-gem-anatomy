@@ -18,12 +18,16 @@
     "Action",
     "HeadNeck",
     "HeadNeckMuscles",
+    "Identification",
     "Innervation",
     "Insertion",
     "Muscle",
+    "NoseMouthNeck",
     "Origin"
   ],
-  "imageIds": [],
+  "imageIds": [
+    "img-bc0ff8bff2f2"
+  ],
   "facts": [
     {
       "id": "f-9d2c706308",
@@ -43,6 +47,10 @@
               "modelId": "head-and-neck-model-cs17-2",
               "cardId": "head-and-neck-model-cs17-2-307",
               "sourceLine": 307
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-355"
             }
           ]
         }
@@ -61,6 +69,10 @@
               "modelId": "half-head-and-neck-model-bs9",
               "cardId": "half-head-and-neck-model-bs9-541",
               "sourceLine": 541
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-356"
             }
           ]
         },
@@ -99,6 +111,10 @@
               "modelId": "head-and-neck-model-cs17-2",
               "cardId": "head-and-neck-model-cs17-2-309",
               "sourceLine": 309
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-357"
             }
           ]
         }
@@ -122,6 +138,10 @@
               "modelId": "head-and-neck-model-cs17-2",
               "cardId": "head-and-neck-model-cs17-2-310",
               "sourceLine": 310
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-358"
             }
           ]
         }
@@ -140,6 +160,10 @@
               "modelId": "half-head-and-neck-model-bs9",
               "cardId": "half-head-and-neck-model-bs9-544",
               "sourceLine": 544
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-359"
             }
           ]
         },
@@ -177,6 +201,14 @@
         "50"
       ],
       "label": "50"
+    },
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Nose, mouth and neck",
+      "path": [
+        "40"
+      ],
+      "label": "40"
     }
   ]
 }

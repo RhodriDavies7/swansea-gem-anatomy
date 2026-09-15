@@ -1,24 +1,30 @@
 {
   "id": "atlas-c989d0da60",
   "name": "Atlas",
-  "aliases": [],
+  "aliases": [
+    "First cervical vertebra"
+  ],
   "scope": "",
   "kind": "structure",
   "types": [
     "Bones"
   ],
   "regions": [
-    "Head and neck"
+    "Head and neck",
+    "Back"
   ],
   "systems": [
     "Musculoskeletal"
   ],
   "organs": [],
   "tags": [
+    "AlsoCalled",
     "Articulations",
     "Bone",
     "BonyStructures",
+    "Dorsum",
     "Function",
+    "Identification",
     "Landmarks",
     "MidSagittal"
   ],
@@ -42,6 +48,16 @@
               "modelId": "half-head-and-neck-model-bs9",
               "cardId": "half-head-and-neck-model-bs9-60",
               "sourceLine": 60
+            }
+          ]
+        },
+        {
+          "id": "v-a223debb07",
+          "answer": "First cervical vertebra",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-748"
             }
           ]
         }
@@ -123,6 +139,33 @@
               "sourceLine": 63
             }
           ]
+        },
+        {
+          "id": "v-051893d3fe",
+          "answer": "Supports skull and permits nodding movement at atlanto-occipital joints.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-750"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-8d43d7bb52",
+      "question": "Also called",
+      "preferredVariantId": "v-4d8dc62958",
+      "variants": [
+        {
+          "id": "v-4d8dc62958",
+          "answer": "Atlas (C1).",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-749"
+            }
+          ]
         }
       ]
     }
@@ -143,6 +186,14 @@
         "L"
       ],
       "label": "L"
+    },
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Dorsum",
+      "path": [
+        "92"
+      ],
+      "label": "92"
     }
   ]
 }

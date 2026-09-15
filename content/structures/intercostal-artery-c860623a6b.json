@@ -1,0 +1,88 @@
+{
+  "id": "intercostal-artery-c860623a6b",
+  "name": "Intercostal artery",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Arteries"
+  ],
+  "systems": [
+    "Cardiovascular"
+  ],
+  "regions": [
+    "Thorax"
+  ],
+  "organs": [],
+  "tags": [
+    "Artery",
+    "Course",
+    "Identification",
+    "Supply",
+    "Vessels"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-3f6a8001a9",
+      "question": "Identification",
+      "preferredVariantId": "v-c860623a6b",
+      "variants": [
+        {
+          "id": "v-c860623a6b",
+          "answer": "Intercostal artery",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-563"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-93631ae2dc",
+      "question": "Supply",
+      "preferredVariantId": "v-4fb671509d",
+      "variants": [
+        {
+          "id": "v-4fb671509d",
+          "answer": "Supplies an intercostal space and thoracic wall structures.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-564"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-05e353ac30",
+      "question": "Course",
+      "preferredVariantId": "v-92228c784e",
+      "variants": [
+        {
+          "id": "v-92228c784e",
+          "answer": "Runs in the costal groove with the intercostal vein and nerve.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-565"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "thorax-model-hs21",
+      "section": "Vessels",
+      "path": [
+        "31"
+      ],
+      "label": "31"
+    }
+  ]
+}

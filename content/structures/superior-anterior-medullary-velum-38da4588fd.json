@@ -1,7 +1,9 @@
 {
   "id": "superior-anterior-medullary-velum-38da4588fd",
   "name": "Superior (anterior) medullary velum",
-  "aliases": [],
+  "aliases": [
+    "Superior medullary velum"
+  ],
   "scope": "",
   "kind": "structure",
   "types": [
@@ -15,7 +17,10 @@
   ],
   "organs": [],
   "tags": [
+    "Brain",
     "CNS",
+    "Identification",
+    "Location",
     "MidSagittal",
     "MidlineStructures",
     "Relations",
@@ -41,6 +46,16 @@
               "modelId": "half-head-and-neck-model-bs9",
               "cardId": "half-head-and-neck-model-bs9-181",
               "sourceLine": 181
+            }
+          ]
+        },
+        {
+          "id": "v-62a56c0346",
+          "answer": "Superior medullary velum",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-159"
             }
           ]
         }
@@ -91,6 +106,23 @@
           ]
         }
       ]
+    },
+    {
+      "id": "f-17c2d5819f",
+      "question": "Location",
+      "preferredVariantId": "v-120df73e7b",
+      "variants": [
+        {
+          "id": "v-120df73e7b",
+          "answer": "Thin sheet forming part of the roof of the fourth ventricle between superior cerebellar peduncles.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-160"
+            }
+          ]
+        }
+      ]
     }
   ],
   "occurrences": [
@@ -109,6 +141,14 @@
         "14"
       ],
       "label": "14"
+    },
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Brain",
+      "path": [
+        "20"
+      ],
+      "label": "20"
     }
   ]
 }

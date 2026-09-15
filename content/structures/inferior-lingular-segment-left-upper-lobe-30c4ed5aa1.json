@@ -1,0 +1,82 @@
+{
+  "id": "inferior-lingular-segment-left-upper-lobe-30c4ed5aa1",
+  "name": "Inferior lingular segment (left upper lobe)",
+  "aliases": [
+    "Inferior lingular segment"
+  ],
+  "scope": "left upper lobe",
+  "kind": "structure",
+  "types": [
+    "BronchopulmonarySegment"
+  ],
+  "systems": [
+    "Respiratory"
+  ],
+  "regions": [
+    "Thorax"
+  ],
+  "organs": [],
+  "tags": [
+    "BronchopulmonarySegment",
+    "Definition",
+    "Identification",
+    "LeftLung",
+    "UpperLobe"
+  ],
+  "imageIds": [
+    "img-0bd4f65e9ba0"
+  ],
+  "facts": [
+    {
+      "id": "f-03321c33c4",
+      "question": "Identification",
+      "preferredVariantId": "v-30c4ed5aa1",
+      "variants": [
+        {
+          "id": "v-94d2dcdbd3",
+          "answer": "Inferior lingular segment",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-376"
+            }
+          ]
+        },
+        {
+          "id": "v-30c4ed5aa1",
+          "answer": "Inferior lingular segment (left upper lobe)",
+          "sources": []
+        }
+      ]
+    },
+    {
+      "id": "f-71973bc5fc",
+      "question": "Definition",
+      "preferredVariantId": "v-99d62b49cf",
+      "variants": [
+        {
+          "id": "v-99d62b49cf",
+          "answer": "An anatomically discrete lung unit supplied by a segmental bronchus and pulmonary arterial branch.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-377"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "thorax-model-hs21",
+      "section": "Larynx, bronchial tree and lungs / left upper lobe",
+      "path": [
+        "37",
+        "37a",
+        "5"
+      ],
+      "label": "5"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "ileum-4ada308364",
+  "name": "Ileum",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Organs"
+  ],
+  "systems": [
+    "Digestive"
+  ],
+  "regions": [
+    "Abdomen"
+  ],
+  "organs": [],
+  "tags": [
+    "Abdomen",
+    "Function",
+    "Identification",
+    "Organ"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-f11567866f",
+      "question": "Identification",
+      "preferredVariantId": "v-4ada308364",
+      "variants": [
+        {
+          "id": "v-4ada308364",
+          "answer": "Ileum",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-570"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-dd53ce5d97",
+      "question": "Function",
+      "preferredVariantId": "v-914d8187f2",
+      "variants": [
+        {
+          "id": "v-914d8187f2",
+          "answer": "Absorbs bile salts, vitamin B12 and remaining nutrients.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-571"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Abdomen",
+      "path": [
+        "62"
+      ],
+      "label": "62"
+    }
+  ]
+}

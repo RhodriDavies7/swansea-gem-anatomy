@@ -17,8 +17,10 @@
     "Pancreas"
   ],
   "tags": [
+    "Abdomen",
     "BloodSupply",
     "Function",
+    "Identification",
     "Location",
     "MajorOrgans",
     "Organ",
@@ -41,6 +43,10 @@
               "modelId": "pancreas-model-js11",
               "cardId": "pancreas-model-js11-11",
               "sourceLine": 11
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-623"
             }
           ]
         }
@@ -77,6 +83,16 @@
               "modelId": "pancreas-model-js11",
               "cardId": "pancreas-model-js11-13",
               "sourceLine": 13
+            }
+          ]
+        },
+        {
+          "id": "v-bab56c7502",
+          "answer": "Filters blood, removes aged erythrocytes and contributes to immune function.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-624"
             }
           ]
         }
@@ -127,6 +143,14 @@
         "B"
       ],
       "label": "B"
+    },
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Abdomen",
+      "path": [
+        "75"
+      ],
+      "label": "75"
     }
   ]
 }

@@ -1,0 +1,90 @@
+{
+  "id": "twelfth-rib-c9939122f7",
+  "name": "Twelfth rib",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Bones"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "regions": [
+    "Thorax"
+  ],
+  "organs": [],
+  "tags": [
+    "Articulations",
+    "Bone",
+    "Bones",
+    "Identification",
+    "Structure"
+  ],
+  "imageIds": [
+    "img-1175114b3793"
+  ],
+  "facts": [
+    {
+      "id": "f-a869c726bf",
+      "question": "Identification",
+      "preferredVariantId": "v-c9939122f7",
+      "variants": [
+        {
+          "id": "v-c9939122f7",
+          "answer": "Twelfth rib",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-41"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f446cc9d8f",
+      "question": "Structure",
+      "preferredVariantId": "v-afa1d5d6fa",
+      "variants": [
+        {
+          "id": "v-afa1d5d6fa",
+          "answer": "Short floating rib with no anterior attachment to the sternum.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-42"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-acbd2d692a",
+      "question": "Articulations",
+      "preferredVariantId": "v-a76a617ee3",
+      "variants": [
+        {
+          "id": "v-a76a617ee3",
+          "answer": "Articulates with T12 vertebra.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-43"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "thorax-model-hs21",
+      "section": "Bones and cartilages",
+      "path": [
+        "8"
+      ],
+      "label": "8"
+    }
+  ]
+}

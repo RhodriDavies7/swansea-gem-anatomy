@@ -1,0 +1,70 @@
+{
+  "id": "eyeball-423825aa78",
+  "name": "Eyeball",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Organs"
+  ],
+  "systems": [
+    "Digestive"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "organs": [],
+  "tags": [
+    "Eye",
+    "Function",
+    "Identification",
+    "Organ"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-d0a215bb7f",
+      "question": "Identification",
+      "preferredVariantId": "v-423825aa78",
+      "variants": [
+        {
+          "id": "v-423825aa78",
+          "answer": "Eyeball",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-282"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-185db8cab9",
+      "question": "Function",
+      "preferredVariantId": "v-bafb611d50",
+      "variants": [
+        {
+          "id": "v-bafb611d50",
+          "answer": "Houses the optical and neural structures responsible for vision.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-283"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Eye",
+      "path": [
+        "17a"
+      ],
+      "label": "17a"
+    }
+  ]
+}

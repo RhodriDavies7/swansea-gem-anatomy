@@ -1,0 +1,88 @@
+{
+  "id": "transversus-abdominis-muscle-9a74d34689",
+  "name": "Transversus abdominis muscle",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "regions": [
+    "Abdomen"
+  ],
+  "organs": [],
+  "tags": [
+    "Abdomen",
+    "Action",
+    "Identification",
+    "Innervation",
+    "Muscle"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-d690f2e96d",
+      "question": "Identification",
+      "preferredVariantId": "v-9a74d34689",
+      "variants": [
+        {
+          "id": "v-9a74d34689",
+          "answer": "Transversus abdominis muscle",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-676"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-7139ff8e67",
+      "question": "Actions",
+      "preferredVariantId": "v-e9c8aaaf5b",
+      "variants": [
+        {
+          "id": "v-e9c8aaaf5b",
+          "answer": "Compresses abdominal contents and supports abdominal wall/core.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-677"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-dd0554cd40",
+      "question": "Innervation",
+      "preferredVariantId": "v-e3abaf712d",
+      "variants": [
+        {
+          "id": "v-e3abaf712d",
+          "answer": "Thoracoabdominal nerves and L1 branches.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-678"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Abdomen",
+      "path": [
+        "86"
+      ],
+      "label": "86"
+    }
+  ]
+}

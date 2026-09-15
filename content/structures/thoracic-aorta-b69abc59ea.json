@@ -1,0 +1,90 @@
+{
+  "id": "thoracic-aorta-b69abc59ea",
+  "name": "Thoracic aorta",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Arteries"
+  ],
+  "systems": [
+    "Cardiovascular"
+  ],
+  "regions": [
+    "Thorax"
+  ],
+  "organs": [],
+  "tags": [
+    "Artery",
+    "Branches",
+    "Course",
+    "Identification",
+    "Vessels"
+  ],
+  "imageIds": [
+    "img-1c54e61288ec"
+  ],
+  "facts": [
+    {
+      "id": "f-577f5b5a5e",
+      "question": "Identification",
+      "preferredVariantId": "v-b69abc59ea",
+      "variants": [
+        {
+          "id": "v-b69abc59ea",
+          "answer": "Thoracic aorta",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-573"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-8974a039cf",
+      "question": "Course",
+      "preferredVariantId": "v-21fb0cc463",
+      "variants": [
+        {
+          "id": "v-21fb0cc463",
+          "answer": "Descends through the posterior mediastinum and continues through the aortic hiatus at T12.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-574"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-dd1bf1613d",
+      "question": "Branches",
+      "preferredVariantId": "v-afd4921295",
+      "variants": [
+        {
+          "id": "v-afd4921295",
+          "answer": "Gives posterior intercostal and visceral thoracic branches.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-575"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "thorax-model-hs21",
+      "section": "Vessels",
+      "path": [
+        "33"
+      ],
+      "label": "33"
+    }
+  ]
+}

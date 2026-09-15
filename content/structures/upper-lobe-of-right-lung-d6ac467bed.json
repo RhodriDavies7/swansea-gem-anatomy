@@ -1,14 +1,17 @@
 {
   "id": "upper-lobe-of-right-lung-d6ac467bed",
   "name": "Upper lobe of right lung",
-  "aliases": [],
+  "aliases": [
+    "Right upper lobe"
+  ],
   "scope": "",
   "kind": "structure",
   "types": [
     "Other"
   ],
   "regions": [
-    "Head and neck"
+    "Head and neck",
+    "Thorax"
   ],
   "systems": [
     "Respiratory"
@@ -18,11 +21,17 @@
   ],
   "tags": [
     "Function",
+    "Identification",
     "LungLobe",
     "LungLobes",
-    "Relations"
+    "Parts",
+    "Relations",
+    "RightLung",
+    "UpperLobe"
   ],
-  "imageIds": [],
+  "imageIds": [
+    "img-ac091a5e4d4c"
+  ],
   "facts": [
     {
       "id": "f-9d2c706308",
@@ -37,6 +46,16 @@
               "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
               "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-101",
               "sourceLine": 101
+            }
+          ]
+        },
+        {
+          "id": "v-a63779da1e",
+          "answer": "Right upper lobe",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-298"
             }
           ]
         }
@@ -77,6 +96,23 @@
           ]
         }
       ]
+    },
+    {
+      "id": "f-c761e1e85c",
+      "question": "Segments",
+      "preferredVariantId": "v-9db8ba9d8f",
+      "variants": [
+        {
+          "id": "v-9db8ba9d8f",
+          "answer": "Apical, posterior and anterior bronchopulmonary segments.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-299"
+            }
+          ]
+        }
+      ]
     }
   ],
   "occurrences": [
@@ -87,6 +123,15 @@
         "11"
       ],
       "label": "11"
+    },
+    {
+      "modelId": "thorax-model-hs21",
+      "section": "Larynx, bronchial tree and lungs",
+      "path": [
+        "36",
+        "36a"
+      ],
+      "label": "36a"
     }
   ]
 }

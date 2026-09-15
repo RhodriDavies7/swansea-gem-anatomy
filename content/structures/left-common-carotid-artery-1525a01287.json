@@ -1,0 +1,88 @@
+{
+  "id": "left-common-carotid-artery-1525a01287",
+  "name": "Left common carotid artery",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Arteries"
+  ],
+  "systems": [
+    "Cardiovascular"
+  ],
+  "regions": [
+    "Thorax"
+  ],
+  "organs": [],
+  "tags": [
+    "Artery",
+    "Identification",
+    "Origin",
+    "Supply",
+    "Vessels"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-1ba2c61ce0",
+      "question": "Identification",
+      "preferredVariantId": "v-1525a01287",
+      "variants": [
+        {
+          "id": "v-1525a01287",
+          "answer": "Left common carotid artery",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-526"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-eeb632606b",
+      "question": "Origin",
+      "preferredVariantId": "v-9d5bb3832a",
+      "variants": [
+        {
+          "id": "v-9d5bb3832a",
+          "answer": "Direct branch of the aortic arch.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-527"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f655a631a4",
+      "question": "Supply",
+      "preferredVariantId": "v-58d49bf4f2",
+      "variants": [
+        {
+          "id": "v-58d49bf4f2",
+          "answer": "Supplies the left head and neck via internal and external carotid arteries.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-528"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "thorax-model-hs21",
+      "section": "Vessels",
+      "path": [
+        "24"
+      ],
+      "label": "24"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "cystic-duct-0fa8a6e8f8",
+  "name": "Cystic duct",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Duct"
+  ],
+  "systems": [
+    "Digestive"
+  ],
+  "regions": [
+    "Abdomen"
+  ],
+  "organs": [],
+  "tags": [
+    "Abdomen",
+    "Duct",
+    "Function",
+    "Identification"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-c5d9ce8c88",
+      "question": "Identification",
+      "preferredVariantId": "v-0fa8a6e8f8",
+      "variants": [
+        {
+          "id": "v-0fa8a6e8f8",
+          "answer": "Cystic duct",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-611"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-b2e22f41ef",
+      "question": "Function",
+      "preferredVariantId": "v-ae4054276f",
+      "variants": [
+        {
+          "id": "v-ae4054276f",
+          "answer": "Connects gallbladder with common hepatic duct/common bile duct pathway.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-612"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Abdomen",
+      "path": [
+        "72"
+      ],
+      "label": "72"
+    }
+  ]
+}

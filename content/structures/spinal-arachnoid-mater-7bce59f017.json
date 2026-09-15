@@ -1,0 +1,70 @@
+{
+  "id": "spinal-arachnoid-mater-7bce59f017",
+  "name": "Spinal arachnoid mater",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Meninges"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "regions": [
+    "Back"
+  ],
+  "organs": [],
+  "tags": [
+    "Dorsum",
+    "Identification",
+    "Meninges",
+    "Structure"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-6aa046e050",
+      "question": "Identification",
+      "preferredVariantId": "v-7bce59f017",
+      "variants": [
+        {
+          "id": "v-7bce59f017",
+          "answer": "Spinal arachnoid mater",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-815"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9cbc800ca5",
+      "question": "Structure",
+      "preferredVariantId": "v-5b121cea9a",
+      "variants": [
+        {
+          "id": "v-5b121cea9a",
+          "answer": "Middle meningeal layer; subarachnoid space beneath contains CSF.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-816"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Dorsum",
+      "path": [
+        "103"
+      ],
+      "label": "103"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "right-kidney-63f688a0df",
+  "name": "Right kidney",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Organs"
+  ],
+  "systems": [
+    "Digestive"
+  ],
+  "regions": [
+    "Abdomen"
+  ],
+  "organs": [],
+  "tags": [
+    "Abdomen",
+    "Function",
+    "Identification",
+    "Organ"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-304f1555a9",
+      "question": "Identification",
+      "preferredVariantId": "v-63f688a0df",
+      "variants": [
+        {
+          "id": "v-63f688a0df",
+          "answer": "Right kidney",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-640"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-e075aac2ae",
+      "question": "Function",
+      "preferredVariantId": "v-98dabb4805",
+      "variants": [
+        {
+          "id": "v-98dabb4805",
+          "answer": "Filters blood and regulates fluid, electrolyte and acid-base balance.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-641"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Abdomen",
+      "path": [
+        "77"
+      ],
+      "label": "77"
+    }
+  ]
+}

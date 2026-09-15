@@ -1,0 +1,138 @@
+{
+  "id": "right-lung-with-bronchopulmonary-segments-30be3ec3ce",
+  "name": "Right lung with bronchopulmonary segments",
+  "aliases": [
+    "Right lung"
+  ],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Organs"
+  ],
+  "systems": [
+    "Respiratory"
+  ],
+  "regions": [
+    "Thorax"
+  ],
+  "organs": [],
+  "tags": [
+    "Function",
+    "Identification",
+    "Organ",
+    "Parts",
+    "RightLung",
+    "Thorax"
+  ],
+  "imageIds": [
+    "img-4ac39812c191"
+  ],
+  "facts": [
+    {
+      "id": "f-6f5875412e",
+      "question": "Identification",
+      "preferredVariantId": "v-30be3ec3ce",
+      "variants": [
+        {
+          "id": "v-30be3ec3ce",
+          "answer": "Right lung with bronchopulmonary segments",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-293"
+            }
+          ]
+        },
+        {
+          "id": "v-7847810121",
+          "answer": "Right lung",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-425"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-927dc1e4ed",
+      "question": "Lobes",
+      "preferredVariantId": "v-7017f87d7d",
+      "variants": [
+        {
+          "id": "v-7017f87d7d",
+          "answer": "Upper, middle and lower lobes.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-294"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-a4f1581e39",
+      "question": "Function",
+      "preferredVariantId": "v-4907300f97",
+      "variants": [
+        {
+          "id": "v-4907300f97",
+          "answer": "Gas exchange; organised into functionally discrete bronchopulmonary segments.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-295"
+            }
+          ]
+        },
+        {
+          "id": "v-d63024503c",
+          "answer": "Gas exchange.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-427"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f0a6c203d4",
+      "question": "Parts",
+      "preferredVariantId": "v-7017f87d7d",
+      "variants": [
+        {
+          "id": "v-7017f87d7d",
+          "answer": "Upper, middle and lower lobes.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-426"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "thorax-model-hs21",
+      "section": "Larynx, bronchial tree and lungs",
+      "path": [
+        "36"
+      ],
+      "label": "36"
+    },
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Thorax",
+      "path": [
+        "52"
+      ],
+      "label": "52"
+    }
+  ]
+}

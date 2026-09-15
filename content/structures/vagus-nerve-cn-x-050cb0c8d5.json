@@ -10,7 +10,8 @@
     "Nerves"
   ],
   "regions": [
-    "Head and neck"
+    "Head and neck",
+    "Thorax"
   ],
   "systems": [
     "Nervous"
@@ -19,16 +20,21 @@
   "tags": [
     "Brain",
     "Course",
+    "CranialNerves",
+    "Function",
+    "Identification",
     "Lesion",
+    "ModelNote",
     "Motor",
     "Nerve",
+    "Nerves",
     "Parasympathetic",
     "Roots",
-    "Sensory",
-    "ModelNote"
+    "Sensory"
   ],
   "imageIds": [
-    "img-18928d0a0346"
+    "img-18928d0a0346",
+    "img-b48c895064f4"
   ],
   "facts": [
     {
@@ -49,6 +55,10 @@
               "modelId": "head-and-neck-model-cs17-2",
               "cardId": "head-and-neck-model-cs17-2-813",
               "sourceLine": 813
+            },
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-266"
             }
           ]
         },
@@ -60,6 +70,10 @@
               "modelId": "deep-face-model-bs8-1",
               "cardId": "deep-face-model-bs8-1-232",
               "sourceLine": 232
+            },
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-622"
             }
           ]
         }
@@ -98,6 +112,16 @@
               "modelId": "head-and-neck-model-cs17-2",
               "cardId": "head-and-neck-model-cs17-2-814",
               "sourceLine": 814
+            }
+          ]
+        },
+        {
+          "id": "v-6ad782c2d8",
+          "answer": "Cranial nerve X arising from the medulla.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-623"
             }
           ]
         }
@@ -142,6 +166,16 @@
               "modelId": "deep-face-model-bs8-1",
               "cardId": "deep-face-model-bs8-1-234",
               "sourceLine": 234
+            }
+          ]
+        },
+        {
+          "id": "v-b5753a7521",
+          "answer": "Descends through the neck and thorax, contributing to cardiac, pulmonary and oesophageal plexuses.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-624"
             }
           ]
         }
@@ -205,6 +239,16 @@
               "sourceLine": 235
             }
           ]
+        },
+        {
+          "id": "v-0364b39e75",
+          "answer": "Branchial motor supply to pharynx and larynx via its branches.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-625"
+            }
+          ]
         }
       ],
       "editorialReview": {
@@ -241,6 +285,16 @@
               "modelId": "head-and-neck-model-cs17-2",
               "cardId": "head-and-neck-model-cs17-2-817",
               "sourceLine": 817
+            }
+          ]
+        },
+        {
+          "id": "v-871c2e4d2a",
+          "answer": "Visceral afferent supply from thoracic and abdominal viscera.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-626"
             }
           ]
         }
@@ -314,6 +368,26 @@
               "sourceLine": 818
             }
           ]
+        },
+        {
+          "id": "v-68d74af138",
+          "answer": "May cause dysphagia, hoarseness, palatal weakness and autonomic dysfunction depending on lesion level.",
+          "sources": [
+            {
+              "modelId": "thorax-model-hs21",
+              "cardId": "thorax-model-hs21-627"
+            }
+          ]
+        },
+        {
+          "id": "v-da32a36c4a",
+          "answer": "Dysphagia, hoarseness and ipsilateral palatal weakness; uvula deviates away from a unilateral lesion.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-268"
+            }
+          ]
         }
       ],
       "editorialReview": {
@@ -334,6 +408,23 @@
               "modelId": "deep-face-model-bs8-1",
               "cardId": "deep-face-model-bs8-1-238",
               "sourceLine": 238
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-92b4b25379",
+      "question": "Function",
+      "preferredVariantId": "v-255fb67cd9",
+      "variants": [
+        {
+          "id": "v-255fb67cd9",
+          "answer": "Motor to palate/pharynx/larynx and parasympathetic supply to thoracoabdominal viscera.",
+          "sources": [
+            {
+              "modelId": "male-torso-with-head-model-as23-1",
+              "cardId": "male-torso-with-head-model-as23-1-267"
             }
           ]
         }
@@ -364,6 +455,22 @@
         "36"
       ],
       "label": "36"
+    },
+    {
+      "modelId": "thorax-model-hs21",
+      "section": "Nerves",
+      "path": [
+        "42"
+      ],
+      "label": "42"
+    },
+    {
+      "modelId": "male-torso-with-head-model-as23-1",
+      "section": "Cranial nerves",
+      "path": [
+        "X"
+      ],
+      "label": "X"
     }
   ],
   "redirectIds": [
