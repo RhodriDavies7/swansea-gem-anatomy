@@ -26,6 +26,9 @@ for(const s of structures){for(const o of s.occurrences)if(!modelIds.has(o.model
 for(const image of images)if(image.modelId&&(!modelIds.has(image.modelId)||!structures.some(s=>s.imageIds.includes(image.id)&&s.occurrences.some(o=>o.modelId===image.modelId))))fail('Image model must contain its linked structure: '+image.id);
 for(const image of images)if(image.quizReady&&(!byId.has(image.quizStructureId)||!byId.get(image.quizStructureId).imageIds.includes(image.id)))fail('Quiz image must name its linked target structure: '+image.id);
 const multi=structures.flatMap(s=>s.facts.filter(f=>f.variants.length>1&&!f.preferredVariantId).map(f=>({structureId:s.id,name:s.name,question:f.question,variants:f.variants.length})));
+// Optional editorial metadata; original card tags remain untouched.
+let studyLevels={};try{studyLevels=await read('content/study-levels.json');}catch(error){if(error.code!=='ENOENT')throw error;}
+for(const s of structures){const entry=studyLevels[s.id];s.difficulty=entry?.difficulty||'Medium';if(!['Easy','Medium','Hard'].includes(s.difficulty))fail('Invalid difficulty '+s.id);s.yearLinks=entry?.outcomes||[];s.years=[...new Set(s.yearLinks.map(o=>'Year '+o.year))];s.studyTags=[s.difficulty,...(s.years.length?s.years:['Year not mapped'])];s.tags=[...new Set([...s.tags,...s.studyTags])];}
 // Validate every input before writing publishable files.
 await fs.mkdir(path.join(root,'dist/data'),{recursive:true});
 await fs.writeFile(path.join(root,'dist/data/catalog.json'),JSON.stringify({schemaVersion:1,structures,images})+'\n');

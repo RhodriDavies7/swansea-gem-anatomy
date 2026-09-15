@@ -223,3 +223,9 @@ Added from the supplied Markdown guide, with 400 cards and 135 identification la
 Added 483 cards and 190 identification labels using tag `AS23_1` and the existing filename convention `Male torso with head (Model AS23_1)`. Reuses 128 shared structures and adds 60 records. Original and normalised source guides are retained; the mapping is in `docs/as23-1-structure-mapping.json`. Existing preferred answers remain selected and the new original answers remain traceable variants.
 
 Roman numerals are preserved separately for bones and cranial nerves. Lettered supplements use explicit caecum/liver tags and the corpus-callosum heading for context, rather than inheriting the unrelated final numbered item in the pasted indentation. Combined or underspecified labels remain combined/unspecified records rather than being guessed as a particular component. The supplied overview photo is used for model selection.
+
+## Difficulty and year filters
+
+`content/study-levels.json` holds editable difficulty (`Easy`, `Medium`, `Hard`) and direct outcome references for each structure. These are structure-level editorial suggestions, not measured question difficulty or official exam tiers. Initial defaults use Easy for major organs/lobes, Hard for fine landmarks and bronchopulmonary segments, and Medium otherwise. Review individual entries to refine this baseline. New structures default to Medium until assigned.
+
+Year membership comes only from explicit learning-outcome links and may include both years. Unmapped structures remain available under All and Year not mapped; absence of a link does not mean material is outside the syllabus. Keep outcome references aligned with `content/learning-outcomes.json`. Rebuild after edits. Generated study tags appear in model revision's Advanced options; library and spotter offer separate year/difficulty dropdowns. Original source tags are preserved. Image answer reveals scroll into view, respecting reduced-motion preferences.

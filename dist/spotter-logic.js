@@ -1,7 +1,7 @@
 import {factVariants} from './data.js';
 const prompts={Actions:'What is the main action of the marked structure?',Innervation:'What is the innervation of the marked structure?',Function:'What is the main function of the marked structure?',Origin:'What is the origin of the marked structure?',Insertion:'Where does the marked structure insert?','Blood supply':'What is the blood supply of the marked structure?','Sensory functions':'What is the sensory supply or function of the marked nerve?','Motor functions':'What is the motor supply of the marked nerve?'};
-export function spotterPool(catalog,region='',{tags=[],topics=[],tagEffect='include',topicEffect='include',models=[],modelEffect='include'}={}){
- return catalog.structures.filter(s=>s.kind!=='model-note'&&(!region||s.regions.includes(region))&&(!tags.length||(tagEffect==='exclude'?!tags.some(t=>s.tags.includes(t)):tags.some(t=>s.tags.includes(t))))).flatMap(s=>{
+export function spotterPool(catalog,region='',{difficulty='',year='',tags=[],topics=[],tagEffect='include',topicEffect='include',models=[],modelEffect='include'}={}){
+ return catalog.structures.filter(s=>s.kind!=='model-note'&&(!difficulty||s.difficulty===difficulty)&&(!year||(s.years?.length?s.years:['Year not mapped']).includes(year))&&(!region||s.regions.includes(region))&&(!tags.length||(tagEffect==='exclude'?!tags.some(t=>s.tags.includes(t)):tags.some(t=>s.tags.includes(t))))).flatMap(s=>{
   const images=s.imageIds.map(id=>catalog.imagesById.get(id)).filter(i=>i?.quizReady&&i.quizSrc&&i.quizStructureId===s.id&&(!models.length||(modelEffect==='exclude'?!models.includes(i.modelId):models.includes(i.modelId))));
   if(!images.length)return [];
   const questions=[{topic:'Identification',question:'Identify the marked structure.',answer:s.name}];
