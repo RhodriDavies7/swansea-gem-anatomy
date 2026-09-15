@@ -17,7 +17,7 @@ export function filterStructures(structures,filters){
  const label=q.replace(/^label\s*/,'').replace(/\s+/g,'');const isLabel=/^\d+[a-z]?$/.test(label);
  return structures.filter(s=>{
   const occurrences=(s.occurrences||[]).filter(o=>!filters.modelId||o.modelId===filters.modelId);
-  if((filters.difficulty&&s.difficulty!==filters.difficulty)||(filters.year&&!(s.years?.length?s.years:['Year not mapped']).includes(filters.year)))return false;
+  if((Array.isArray(filters.difficulty)?!filters.difficulty.includes(s.difficulty):filters.difficulty&&s.difficulty!==filters.difficulty)||(filters.year&&!(s.years?.length?s.years:['Year not mapped']).includes(filters.year)))return false;
   if(s.kind==='model-note'||(filters.modelId&&!occurrences.length))return false;
   if(!['types','regions','systems','organs','tags'].every(k=>!filters[k]||s[k].includes(filters[k]))||(filters.images&&!s.imageIds.length))return false;
   if(isLabel)return occurrences.some(o=>String(o.label).toLowerCase().replace(/\s+/g,'')===label);

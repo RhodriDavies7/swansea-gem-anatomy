@@ -41,3 +41,15 @@
 /* Draw the toggle geometrically, avoiding font baseline offsets. */
 .advanced-options>summary:before{content:'';flex:0 0 24px;width:24px;height:24px;padding:0;background-color:#edf2f8;background-image:linear-gradient(#526b85,#526b85),linear-gradient(#526b85,#526b85);background-size:12px 2px,2px 12px;background-position:center;background-repeat:no-repeat}
 .advanced-options[open]>summary:before{content:'';background-image:linear-gradient(#526b85,#526b85);background-size:12px 2px}
+
+/* Native checkboxes styled as equal-width selectable pills. */
+.difficulty-choices{border:0;padding:0;margin:0;min-width:0;flex:1 1 240px}
+.difficulty-choices legend{font-size:.85rem;font-weight:600;margin-bottom:8px}
+.difficulty-choices>div{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px}
+.difficulty-choices label{position:relative;display:flex!important;align-items:center;justify-content:center;min-width:0!important;min-height:44px;padding:8px 10px;border:1px solid var(--line,#cbd7e5);border-radius:999px;background:white;color:var(--muted,#627082);cursor:pointer;font-size:.875rem;font-weight:600;transition:background .15s,border-color .15s,color .15s}
+.difficulty-choices input{position:absolute;width:1px!important;height:1px;padding:0;margin:-1px;overflow:hidden;clip-path:inset(50%);white-space:nowrap}
+.difficulty-choices label:has(input:checked){background:#e8f0ff;border-color:#9ebded;color:#2457ac}
+.difficulty-choices label:hover{border-color:#7b9dc9}
+.difficulty-choices label:has(input:focus-visible){outline:2px solid #245cd3;outline-offset:3px}
+.difficulty-choices small{display:block;margin-top:6px;color:var(--muted);font-size:.75rem}
+@media(prefers-reduced-motion:reduce){.difficulty-choices label{transition:none}}

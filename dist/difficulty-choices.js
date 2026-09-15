@@ -1,0 +1,2 @@
+export const difficultyLevels=['Easy','Medium','Hard'];
+export function difficultyChoices(selected){return `<fieldset class="difficulty-choices"><legend>Difficulty</legend><div>${difficultyLevels.map(level=>`<label><input type="checkbox" data-difficulty="${level}" ${selected.includes(level)?'checked':''}><span>${level}</span></label>`).join('')}</div><small>Select one or more levels.</small></fieldset>`;}

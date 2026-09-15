@@ -11,3 +11,13 @@ test('difficulty and evidenced year tags filter the same structures across revis
  assert.ok(spotterPool(c,'',opts).every(s=>results.some(r=>r.id===s.structureId)));
  const m=await read('content/models/thorax-model-hs21.json');const original=hydrateModel(m,c,{original:true});assert.deepEqual(original.cards[0].tags,m.cards[0].tags);assert.ok(hydrateModel(m,c).cards[0].tags.includes(c.byId.get(m.cards[0].structureId).difficulty));
 });
+
+test('difficulty selections combine levels and empty selection includes nothing',async()=>{
+ const c=indexCatalog(await read('dist/data/catalog.json'));
+ for(const levels of [['Easy','Medium'],['Medium'],[],['Easy','Medium','Hard']]){
+ const actual=filterStructures(c.structures,{difficulty:levels});
+ assert.deepEqual(actual.map(s=>s.id).sort(),c.structures.filter(s=>s.kind!=='model-note'&&levels.includes(s.difficulty)).map(s=>s.id).sort());
+ const pool=spotterPool(c,'',{difficulty:levels});
+ assert.deepEqual(pool.map(s=>s.structureId).sort(),spotterPool(c).filter(s=>levels.includes(c.byId.get(s.structureId).difficulty)).map(s=>s.structureId).sort());
+ }
+});
