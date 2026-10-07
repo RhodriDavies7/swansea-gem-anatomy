@@ -1,0 +1,146 @@
+{
+  "id": "mastoid-air-cells-b7ad5e020a",
+  "name": "Mastoid air cells",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Ear structures"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Sensory"
+  ],
+  "organs": [
+    "Ear"
+  ],
+  "tags": [
+    "BS5_5",
+    "Clinicalrelevance",
+    "Identification",
+    "Location"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9c83ad75fd",
+      "question": "Identification",
+      "preferredVariantId": "v-b7ad5e020a",
+      "variants": [
+        {
+          "id": "v-b7ad5e020a",
+          "answer": "Mastoid air cells",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-495",
+              "sourceLine": 668
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-543",
+              "sourceLine": 742
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-618",
+              "sourceLine": 843
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-e881d548ee",
+      "question": "Location",
+      "preferredVariantId": "v-dbfc032dcc",
+      "variants": [
+        {
+          "id": "v-dbfc032dcc",
+          "answer": "Air-filled spaces in mastoid temporal bone, communicating with middle ear through the mastoid antrum.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-d919c0f3ae",
+              "sourceLine": 669
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-28e376a56f",
+              "sourceLine": 743
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-255eda02b4",
+              "sourceLine": 844
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK560877/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    },
+    {
+      "id": "f-3b1af58fff",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-8683061538",
+      "variants": [
+        {
+          "id": "v-8683061538",
+          "answer": "Middle-ear infection can spread here, causing mastoiditis.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-08ba9f6da7",
+              "sourceLine": 670
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-66988ff3c6",
+              "sourceLine": 744
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-8ecefa267a",
+              "sourceLine": 845
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK560877/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 9",
+      "path": [
+        "21"
+      ],
+      "label": "21"
+    },
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 10",
+      "path": [
+        "14"
+      ],
+      "label": "14"
+    },
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 11",
+      "path": [
+        "12"
+      ],
+      "label": "12"
+    }
+  ]
+}

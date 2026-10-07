@@ -1,0 +1,99 @@
+{
+  "id": "basilar-part-of-occipital-bone-4014f6a795",
+  "name": "Basilar part of occipital bone",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Bones"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "BS5_5",
+    "Bone",
+    "Identification",
+    "Location",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-d60edc59a9",
+      "question": "Identification",
+      "preferredVariantId": "v-4014f6a795",
+      "variants": [
+        {
+          "id": "v-4014f6a795",
+          "answer": "Basilar part of occipital bone",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-626",
+              "sourceLine": 853
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-69f080e0c8",
+      "question": "Location",
+      "preferredVariantId": "v-ed0a5d9a30",
+      "variants": [
+        {
+          "id": "v-ed0a5d9a30",
+          "answer": "Anterior to foramen magnum; joins the sphenoid to form part of the clivus.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-3c74650e74",
+              "sourceLine": 854
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK541093/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    },
+    {
+      "id": "f-9d177d4000",
+      "question": "Relations",
+      "preferredVariantId": "v-414d76d01f",
+      "variants": [
+        {
+          "id": "v-414d76d01f",
+          "answer": "Clivus slopes behind the sella and lies anterior to the brainstem.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-9dc4bbb4f2",
+              "sourceLine": 855
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK541093/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 11",
+      "path": [
+        "15"
+      ],
+      "label": "15"
+    }
+  ]
+}

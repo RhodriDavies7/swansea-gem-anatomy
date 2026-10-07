@@ -53,3 +53,10 @@
 .difficulty-choices label:has(input:focus-visible){outline:2px solid #245cd3;outline-offset:3px}
 .difficulty-choices small{display:block;margin-top:6px;color:var(--muted);font-size:.75rem}
 @media(prefers-reduced-motion:reduce){.difficulty-choices label{transition:none}}
+
+.section-controls{margin-bottom:20px;padding:22px}.section-controls>label{display:block;max-width:440px}.section-controls p,.section-controls li{font-size:.85rem;line-height:1.6}.section-controls details{margin-top:16px}.section-controls li{margin:10px 0}
+/* Marked photos in model revision use the image bounds as the pin coordinates. */
+.session .marked-image{position:relative;display:table;margin:12px auto;max-width:100%;line-height:0}
+.session .marked-image img{display:block;max-width:100%;max-height:420px;width:auto;height:auto;margin:auto}
+.image-model-note{line-height:1.6;color:var(--muted);margin:20px 0}
+@media(max-width:550px){.session .marked-image img{max-height:330px}}

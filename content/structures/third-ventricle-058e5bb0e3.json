@@ -15,6 +15,7 @@
   "tags": [
     "Connections",
     "Function",
+    "Identification",
     "Location",
     "MidSagittal",
     "MidlineStructures",
@@ -40,6 +41,11 @@
               "modelId": "half-head-and-neck-model-bs9",
               "cardId": "half-head-and-neck-model-bs9-203",
               "sourceLine": 203
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-193",
+              "sourceLine": 292
             }
           ]
         }
@@ -58,6 +64,11 @@
               "modelId": "coronal-and-mid-sagittal-head-mb20",
               "cardId": "coronal-and-mid-sagittal-head-mb20-333",
               "sourceLine": 333
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-194",
+              "sourceLine": 293
             }
           ]
         },
@@ -96,6 +107,11 @@
               "modelId": "half-head-and-neck-model-bs9",
               "cardId": "half-head-and-neck-model-bs9-205",
               "sourceLine": 205
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-195",
+              "sourceLine": 294
             }
           ]
         }
@@ -114,6 +130,11 @@
               "modelId": "coronal-and-mid-sagittal-head-mb20",
               "cardId": "coronal-and-mid-sagittal-head-mb20-335",
               "sourceLine": 335
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-196",
+              "sourceLine": 295
             }
           ]
         },
@@ -151,6 +172,14 @@
         "18"
       ],
       "label": "18"
+    },
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 5",
+      "path": [
+        "21"
+      ],
+      "label": "21"
     }
   ]
 }

@@ -1,0 +1,103 @@
+{
+  "id": "red-nucleus-7201efd8a5",
+  "name": "Red nucleus",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Brain structures"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [
+    "Brain"
+  ],
+  "tags": [
+    "BS5_5",
+    "Brain",
+    "Function",
+    "Identification",
+    "Location"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-f8db3011e4",
+      "question": "Identification",
+      "preferredVariantId": "v-7201efd8a5",
+      "variants": [
+        {
+          "id": "v-7201efd8a5",
+          "answer": "Red nucleus",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-238",
+              "sourceLine": 351
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6d394d3b45",
+      "question": "Location",
+      "preferredVariantId": "v-0629204cee",
+      "variants": [
+        {
+          "id": "v-0629204cee",
+          "answer": "Midbrain tegmentum, at the level of the superior colliculus.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-1da967f052",
+              "sourceLine": 352
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK551628/",
+            "https://www.ncbi.nlm.nih.gov/books/NBK551509/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    },
+    {
+      "id": "f-d92b6bcd14",
+      "question": "Function",
+      "preferredVariantId": "v-2ffcac85ac",
+      "variants": [
+        {
+          "id": "v-2ffcac85ac",
+          "answer": "Motor coordination; receives cerebellar input and gives rise to the rubrospinal tract.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-a12b2ea771",
+              "sourceLine": 353
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK551628/",
+            "https://www.ncbi.nlm.nih.gov/books/NBK551509/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 6",
+      "path": [
+        "11"
+      ],
+      "label": "11"
+    }
+  ]
+}

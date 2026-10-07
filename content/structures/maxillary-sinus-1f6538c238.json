@@ -16,8 +16,10 @@
   "organs": [],
   "tags": [
     "Clinical",
+    "Clinicalrelevance",
     "Coronal",
     "Drainage",
+    "Identification",
     "Location",
     "ParanasalSinus",
     "Relations",
@@ -44,6 +46,16 @@
               "modelId": "nose-and-nasal-cavity-model-fs3",
               "cardId": "nose-and-nasal-cavity-model-fs3-56",
               "sourceLine": 56
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-509",
+              "sourceLine": 694
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-595",
+              "sourceLine": 804
             }
           ]
         }
@@ -62,6 +74,16 @@
               "modelId": "coronal-and-mid-sagittal-head-mb20",
               "cardId": "coronal-and-mid-sagittal-head-mb20-74",
               "sourceLine": 74
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-510",
+              "sourceLine": 695
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-596",
+              "sourceLine": 805
             }
           ]
         }
@@ -80,6 +102,16 @@
               "modelId": "coronal-and-mid-sagittal-head-mb20",
               "cardId": "coronal-and-mid-sagittal-head-mb20-75",
               "sourceLine": 75
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-511",
+              "sourceLine": 696
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-597",
+              "sourceLine": 806
             }
           ]
         },
@@ -113,6 +145,16 @@
               "modelId": "coronal-and-mid-sagittal-head-mb20",
               "cardId": "coronal-and-mid-sagittal-head-mb20-76",
               "sourceLine": 76
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-512",
+              "sourceLine": 697
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-598",
+              "sourceLine": 807
             }
           ]
         }
@@ -131,6 +173,16 @@
               "modelId": "coronal-and-mid-sagittal-head-mb20",
               "cardId": "coronal-and-mid-sagittal-head-mb20-77",
               "sourceLine": 77
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-513",
+              "sourceLine": 698
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-599",
+              "sourceLine": 808
             }
           ]
         },
@@ -164,6 +216,16 @@
               "modelId": "nose-and-nasal-cavity-model-fs3",
               "cardId": "nose-and-nasal-cavity-model-fs3-57",
               "sourceLine": 57
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-514",
+              "sourceLine": 699
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-600",
+              "sourceLine": 809
             }
           ]
         }
@@ -186,6 +248,22 @@
         "k"
       ],
       "label": "k"
+    },
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 10",
+      "path": [
+        "4"
+      ],
+      "label": "4"
+    },
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 11",
+      "path": [
+        "3"
+      ],
+      "label": "3"
     }
   ]
 }

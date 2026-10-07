@@ -1,0 +1,101 @@
+{
+  "id": "bony-nasal-septum-907eda8ac4",
+  "name": "Bony nasal septum",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Bones"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Respiratory"
+  ],
+  "organs": [],
+  "tags": [
+    "BS5_5",
+    "Bone",
+    "Function",
+    "Identification",
+    "Structure"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-8dafeb179e",
+      "question": "Identification",
+      "preferredVariantId": "v-907eda8ac4",
+      "variants": [
+        {
+          "id": "v-907eda8ac4",
+          "answer": "Bony nasal septum",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-601",
+              "sourceLine": 810
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-e7b3428644",
+      "question": "Structure",
+      "preferredVariantId": "v-0daf3c7c7e",
+      "variants": [
+        {
+          "id": "v-0daf3c7c7e",
+          "answer": "Mainly perpendicular plate of ethmoid superiorly and vomer posteroinferiorly; supported by maxillary and palatine crests.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-83c5f56962",
+              "sourceLine": 811
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK544232/",
+            "https://www.ncbi.nlm.nih.gov/books/NBK544328/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    },
+    {
+      "id": "f-c0835e46b1",
+      "question": "Function",
+      "preferredVariantId": "v-5e1bca9625",
+      "variants": [
+        {
+          "id": "v-5e1bca9625",
+          "answer": "Separates the nasal cavities; septal cartilage completes the anterior septum.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-ccac732a68",
+              "sourceLine": 812
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK544232/",
+            "https://www.ncbi.nlm.nih.gov/books/NBK544328/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 11",
+      "path": [
+        "4"
+      ],
+      "label": "4"
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "id": "column-of-fornix-785d012083",
+  "name": "Column of fornix",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "White matter tracts"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [
+    "Brain"
+  ],
+  "tags": [
+    "BS5_5",
+    "Brain",
+    "Course",
+    "Function",
+    "Identification"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-ae7e6ba1c1",
+      "question": "Identification",
+      "preferredVariantId": "v-785d012083",
+      "variants": [
+        {
+          "id": "v-785d012083",
+          "answer": "Column of fornix",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-192",
+              "sourceLine": 289
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-23353fa4dc",
+      "question": "Course",
+      "preferredVariantId": "v-18db0f0032",
+      "variants": [
+        {
+          "id": "v-18db0f0032",
+          "answer": "Descends from the fornix body; postcommissural fibres pass toward the mammillary body.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-74e5d15393",
+              "sourceLine": 290
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK575732/",
+            "https://www.ncbi.nlm.nih.gov/books/NBK537192/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    },
+    {
+      "id": "f-b3ec081624",
+      "question": "Function",
+      "preferredVariantId": "v-316312463e",
+      "variants": [
+        {
+          "id": "v-316312463e",
+          "answer": "Carries hippocampal output in memory circuits; damage can impair memory.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-56662ba35f",
+              "sourceLine": 291
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK575732/",
+            "https://www.ncbi.nlm.nih.gov/books/NBK537192/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 5",
+      "path": [
+        "20"
+      ],
+      "label": "20"
+    }
+  ]
+}

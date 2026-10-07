@@ -1,0 +1,186 @@
+{
+  "id": "medial-pterygoid-muscle-dae91d062f",
+  "name": "Medial pterygoid muscle",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Actions",
+    "BS5_5",
+    "Identification",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9e0f051f5b",
+      "question": "Identification",
+      "preferredVariantId": "v-dae91d062f",
+      "variants": [
+        {
+          "id": "v-dae91d062f",
+          "answer": "Medial pterygoid muscle",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-521",
+              "sourceLine": 708
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-602",
+              "sourceLine": 813
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-af2bc998b9",
+      "question": "Origin",
+      "preferredVariantId": "v-855a83e554",
+      "variants": [
+        {
+          "id": "v-855a83e554",
+          "answer": "Deep head: medial surface of lateral pterygoid plate. Superficial head: maxillary tuberosity and adjacent palatine bone.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-27134f7c2b",
+              "sourceLine": 709
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-a9be72e5cb",
+              "sourceLine": 814
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK546588/",
+            "https://www.ncbi.nlm.nih.gov/books/NBK547712/",
+            "https://www.ncbi.nlm.nih.gov/books/NBK541027/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    },
+    {
+      "id": "f-7e91426cae",
+      "question": "Insertion",
+      "preferredVariantId": "v-b68129adc9",
+      "variants": [
+        {
+          "id": "v-b68129adc9",
+          "answer": "Medial surface of mandibular angle and lower ramus.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-c393f1af73",
+              "sourceLine": 710
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-85ba55bc0c",
+              "sourceLine": 815
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK546588/",
+            "https://www.ncbi.nlm.nih.gov/books/NBK547712/",
+            "https://www.ncbi.nlm.nih.gov/books/NBK541027/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    },
+    {
+      "id": "f-2d11185e0e",
+      "question": "Actions",
+      "preferredVariantId": "v-73daba279d",
+      "variants": [
+        {
+          "id": "v-73daba279d",
+          "answer": "Elevates and assists protrusion of the mandible; unilateral contraction moves it toward the opposite side.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-76dbf331e6",
+              "sourceLine": 711
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-04d2ab02a5",
+              "sourceLine": 816
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK546588/",
+            "https://www.ncbi.nlm.nih.gov/books/NBK547712/",
+            "https://www.ncbi.nlm.nih.gov/books/NBK541027/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    },
+    {
+      "id": "f-69a3baea4b",
+      "question": "Innervation",
+      "preferredVariantId": "v-99e5f08b93",
+      "variants": [
+        {
+          "id": "v-99e5f08b93",
+          "answer": "Nerve to medial pterygoid from mandibular division of trigeminal nerve (V3).",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-bda6d73ea0",
+              "sourceLine": 712
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-158d50547c",
+              "sourceLine": 817
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK546588/",
+            "https://www.ncbi.nlm.nih.gov/books/NBK547712/",
+            "https://www.ncbi.nlm.nih.gov/books/NBK541027/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 10",
+      "path": [
+        "7"
+      ],
+      "label": "7"
+    },
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 11",
+      "path": [
+        "5"
+      ],
+      "label": "5"
+    }
+  ]
+}

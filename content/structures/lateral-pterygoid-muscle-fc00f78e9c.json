@@ -1,0 +1,182 @@
+{
+  "id": "lateral-pterygoid-muscle-fc00f78e9c",
+  "name": "Lateral pterygoid muscle",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Actions",
+    "BS5_5",
+    "Identification",
+    "Innervation",
+    "Insertion",
+    "Muscle",
+    "Origin"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-2de9c4d294",
+      "question": "Identification",
+      "preferredVariantId": "v-fc00f78e9c",
+      "variants": [
+        {
+          "id": "v-fc00f78e9c",
+          "answer": "Lateral pterygoid muscle",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-522",
+              "sourceLine": 713
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-609",
+              "sourceLine": 826
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-26f1fe3c93",
+      "question": "Origin",
+      "preferredVariantId": "v-068df07780",
+      "variants": [
+        {
+          "id": "v-068df07780",
+          "answer": "Superior head: infratemporal surface of greater sphenoid wing. Inferior head: lateral surface of lateral pterygoid plate.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-69a8ff893b",
+              "sourceLine": 714
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-3dd4301192",
+              "sourceLine": 827
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK549799/",
+            "https://www.ncbi.nlm.nih.gov/books/NBK538486/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    },
+    {
+      "id": "f-9a97da400c",
+      "question": "Insertion",
+      "preferredVariantId": "v-66b4da0765",
+      "variants": [
+        {
+          "id": "v-66b4da0765",
+          "answer": "Pterygoid fovea on mandibular neck; superior fibres also attach to TMJ capsule/disc.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-09008a4124",
+              "sourceLine": 715
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-440e967959",
+              "sourceLine": 828
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK549799/",
+            "https://www.ncbi.nlm.nih.gov/books/NBK538486/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    },
+    {
+      "id": "f-5b47974e42",
+      "question": "Actions",
+      "preferredVariantId": "v-84ca2b37ac",
+      "variants": [
+        {
+          "id": "v-84ca2b37ac",
+          "answer": "Protrudes and assists depression of the mandible; unilateral contraction moves it toward the opposite side.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-aaa3633c20",
+              "sourceLine": 716
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-5721998ff0",
+              "sourceLine": 829
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK549799/",
+            "https://www.ncbi.nlm.nih.gov/books/NBK538486/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    },
+    {
+      "id": "f-096ed053e8",
+      "question": "Innervation",
+      "preferredVariantId": "v-66caef882c",
+      "variants": [
+        {
+          "id": "v-66caef882c",
+          "answer": "Nerve to lateral pterygoid from mandibular division of trigeminal nerve (V3).",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-01f68c613a",
+              "sourceLine": 717
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-a07d383412",
+              "sourceLine": 830
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK549799/",
+            "https://www.ncbi.nlm.nih.gov/books/NBK538486/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 10",
+      "path": [
+        "8"
+      ],
+      "label": "8"
+    },
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 11",
+      "path": [
+        "8"
+      ],
+      "label": "8"
+    }
+  ]
+}

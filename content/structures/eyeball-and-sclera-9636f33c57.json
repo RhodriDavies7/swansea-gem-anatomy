@@ -1,0 +1,100 @@
+{
+  "id": "eyeball-and-sclera-9636f33c57",
+  "name": "Eyeball and sclera",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Eye structures"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Sensory"
+  ],
+  "organs": [
+    "Eye"
+  ],
+  "tags": [
+    "BS5_5",
+    "Function",
+    "Identification",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-76afe6093c",
+      "question": "Identification",
+      "preferredVariantId": "v-9636f33c57",
+      "variants": [
+        {
+          "id": "v-9636f33c57",
+          "answer": "Eyeball and sclera",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-286",
+              "sourceLine": 413
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-74dc399832",
+      "question": "Function",
+      "preferredVariantId": "v-e69c158b91",
+      "variants": [
+        {
+          "id": "v-e69c158b91",
+          "answer": "Eyeball: forms images and converts light into neural signals. Sclera: tough fibrous coat supporting globe shape and extraocular muscle attachment.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-24ece8e3a3",
+              "sourceLine": 414
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK553189/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    },
+    {
+      "id": "f-f5d74fef37",
+      "question": "Relations",
+      "preferredVariantId": "v-e908ad7911",
+      "variants": [
+        {
+          "id": "v-e908ad7911",
+          "answer": "Sclera is continuous with the cornea anteriorly and the optic nerve's dural sheath posteriorly.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-37aa88141e",
+              "sourceLine": 415
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK553189/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 7",
+      "path": [
+        "3"
+      ],
+      "label": "3"
+    }
+  ]
+}

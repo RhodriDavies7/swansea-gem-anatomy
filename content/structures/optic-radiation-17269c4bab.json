@@ -1,0 +1,103 @@
+{
+  "id": "optic-radiation-17269c4bab",
+  "name": "Optic radiation",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "White matter tracts"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [
+    "Brain"
+  ],
+  "tags": [
+    "BS5_5",
+    "Brain",
+    "Course",
+    "Identification",
+    "Lesion"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-7ff28a9a00",
+      "question": "Identification",
+      "preferredVariantId": "v-17269c4bab",
+      "variants": [
+        {
+          "id": "v-17269c4bab",
+          "answer": "Optic radiation",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-186",
+              "sourceLine": 274
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9d3a5b8159",
+      "question": "Course",
+      "preferredVariantId": "v-142e5b28c1",
+      "variants": [
+        {
+          "id": "v-142e5b28c1",
+          "answer": "From lateral geniculate nucleus to primary visual cortex around the calcarine sulcus.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-7c71a0b894",
+              "sourceLine": 275
+            }
+          ],
+          "references": [
+            "https://pubmed.ncbi.nlm.nih.gov/17219837/",
+            "https://www.ncbi.nlm.nih.gov/books/NBK558929/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    },
+    {
+      "id": "f-7b837fec20",
+      "question": "Lesion",
+      "preferredVariantId": "v-02b5f14c98",
+      "variants": [
+        {
+          "id": "v-02b5f14c98",
+          "answer": "Temporal fibres (Meyer's loop): contralateral superior quadrantanopia. Parietal fibres: contralateral inferior quadrantanopia.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-d7a27002e0",
+              "sourceLine": 276
+            }
+          ],
+          "references": [
+            "https://pubmed.ncbi.nlm.nih.gov/17219837/",
+            "https://www.ncbi.nlm.nih.gov/books/NBK558929/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 5",
+      "path": [
+        "15"
+      ],
+      "label": "15"
+    }
+  ]
+}

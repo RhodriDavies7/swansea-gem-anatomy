@@ -47,6 +47,11 @@
             {
               "modelId": "male-torso-with-head-model-as23-1",
               "cardId": "male-torso-with-head-model-as23-1-81"
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-244",
+              "sourceLine": 359
             }
           ]
         }
@@ -74,6 +79,11 @@
             {
               "modelId": "male-torso-with-head-model-as23-1",
               "cardId": "male-torso-with-head-model-as23-1-82"
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-245",
+              "sourceLine": 360
             }
           ]
         }
@@ -92,6 +102,11 @@
               "modelId": "coronal-and-mid-sagittal-head-mb20",
               "cardId": "coronal-and-mid-sagittal-head-mb20-266",
               "sourceLine": 266
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-246",
+              "sourceLine": 361
             }
           ]
         },
@@ -130,6 +145,11 @@
               "modelId": "half-head-and-neck-model-bs9",
               "cardId": "half-head-and-neck-model-bs9-120",
               "sourceLine": 120
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-247",
+              "sourceLine": 362
             }
           ]
         }
@@ -147,6 +167,11 @@
             {
               "modelId": "male-torso-with-head-model-as23-1",
               "cardId": "male-torso-with-head-model-as23-1-83"
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-248",
+              "sourceLine": 363
             }
           ]
         }
@@ -177,6 +202,14 @@
         "2"
       ],
       "label": "2"
+    },
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 6",
+      "path": [
+        "13"
+      ],
+      "label": "13"
     }
   ]
 }

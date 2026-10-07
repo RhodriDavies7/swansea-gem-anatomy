@@ -1,0 +1,103 @@
+{
+  "id": "tail-of-caudate-nucleus-9627aa01ff",
+  "name": "Tail of caudate nucleus",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Basal ganglia"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [
+    "Brain"
+  ],
+  "tags": [
+    "BS5_5",
+    "Brain",
+    "Function",
+    "Identification",
+    "Location"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-c2d4cdcd69",
+      "question": "Identification",
+      "preferredVariantId": "v-9627aa01ff",
+      "variants": [
+        {
+          "id": "v-9627aa01ff",
+          "answer": "Tail of caudate nucleus",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-184",
+              "sourceLine": 268
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-0b81ec35c0",
+      "question": "Location",
+      "preferredVariantId": "v-740db7600e",
+      "variants": [
+        {
+          "id": "v-740db7600e",
+          "answer": "Curves into the temporal lobe along the roof of the inferior horn of the lateral ventricle, approaching the amygdala.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-884e6f1285",
+              "sourceLine": 269
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK557755/",
+            "https://www.ncbi.nlm.nih.gov/books/NBK532932/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    },
+    {
+      "id": "f-22feed431e",
+      "question": "Function",
+      "preferredVariantId": "v-7f627c0600",
+      "variants": [
+        {
+          "id": "v-7f627c0600",
+          "answer": "Part of the caudate component of the striatum; participates in basal ganglia circuits.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-cd07ec7867",
+              "sourceLine": 270
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK557755/",
+            "https://www.ncbi.nlm.nih.gov/books/NBK532932/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 5",
+      "path": [
+        "13"
+      ],
+      "label": "13"
+    }
+  ]
+}

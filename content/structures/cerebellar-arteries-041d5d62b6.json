@@ -1,0 +1,104 @@
+{
+  "id": "cerebellar-arteries-041d5d62b6",
+  "name": "Cerebellar arteries",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Arteries"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Cardiovascular"
+  ],
+  "organs": [
+    "Brain"
+  ],
+  "tags": [
+    "Artery",
+    "BS5_5",
+    "Brain",
+    "Identification",
+    "Origin",
+    "Supply"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-d03e4b61cf",
+      "question": "Identification",
+      "preferredVariantId": "v-041d5d62b6",
+      "variants": [
+        {
+          "id": "v-041d5d62b6",
+          "answer": "Cerebellar arteries",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-395",
+              "sourceLine": 544
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c702d08295",
+      "question": "Origin",
+      "preferredVariantId": "v-cae502cc67",
+      "variants": [
+        {
+          "id": "v-cae502cc67",
+          "answer": "SCA and AICA arise from the basilar artery; PICA usually arises from the vertebral artery.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-9c22cff686",
+              "sourceLine": 545
+            }
+          ],
+          "references": [
+            "https://pubmed.ncbi.nlm.nih.gov/2535662/",
+            "https://www.ncbi.nlm.nih.gov/books/NBK538167/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    },
+    {
+      "id": "f-dc1a12d648",
+      "question": "Supply",
+      "preferredVariantId": "v-72a4d6c8d6",
+      "variants": [
+        {
+          "id": "v-72a4d6c8d6",
+          "answer": "SCA: superior cerebellum. AICA: anteroinferior cerebellum. PICA: posteroinferior cerebellum; territories vary.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-114909955c",
+              "sourceLine": 546
+            }
+          ],
+          "references": [
+            "https://pubmed.ncbi.nlm.nih.gov/2535662/",
+            "https://www.ncbi.nlm.nih.gov/books/NBK538167/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 8",
+      "path": [
+        "12"
+      ],
+      "label": "12"
+    }
+  ]
+}

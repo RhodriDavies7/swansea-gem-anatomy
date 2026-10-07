@@ -16,8 +16,10 @@
   "organs": [],
   "tags": [
     "Action",
+    "Actions",
     "Coronal",
     "HeadNeck",
+    "Identification",
     "Innervation",
     "Insertion",
     "Muscle",
@@ -43,6 +45,16 @@
               "modelId": "head-and-neck-model-cs17-2",
               "cardId": "head-and-neck-model-cs17-2-237",
               "sourceLine": 237
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-303",
+              "sourceLine": 432
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-382",
+              "sourceLine": 527
             }
           ]
         }
@@ -61,6 +73,16 @@
               "modelId": "coronal-and-mid-sagittal-head-mb20",
               "cardId": "coronal-and-mid-sagittal-head-mb20-85",
               "sourceLine": 85
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-304",
+              "sourceLine": 433
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-383",
+              "sourceLine": 528
             }
           ]
         },
@@ -94,6 +116,16 @@
               "modelId": "coronal-and-mid-sagittal-head-mb20",
               "cardId": "coronal-and-mid-sagittal-head-mb20-86",
               "sourceLine": 86
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-305",
+              "sourceLine": 434
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-384",
+              "sourceLine": 529
             }
           ]
         },
@@ -127,6 +159,16 @@
               "modelId": "coronal-and-mid-sagittal-head-mb20",
               "cardId": "coronal-and-mid-sagittal-head-mb20-87",
               "sourceLine": 87
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-306",
+              "sourceLine": 435
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-385",
+              "sourceLine": 530
             }
           ]
         },
@@ -160,6 +202,16 @@
               "modelId": "coronal-and-mid-sagittal-head-mb20",
               "cardId": "coronal-and-mid-sagittal-head-mb20-88",
               "sourceLine": 88
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-307",
+              "sourceLine": 436
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-386",
+              "sourceLine": 531
             }
           ]
         },
@@ -197,6 +249,22 @@
         "40"
       ],
       "label": "40"
+    },
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 7",
+      "path": [
+        "7"
+      ],
+      "label": "7"
+    },
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 8",
+      "path": [
+        "6"
+      ],
+      "label": "6"
     }
   ]
 }

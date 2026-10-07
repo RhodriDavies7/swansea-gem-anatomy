@@ -16,8 +16,10 @@
   "organs": [],
   "tags": [
     "Clinical",
+    "Clinicalrelevance",
     "Contents",
     "Drainage",
+    "Identification",
     "Location",
     "VenousSinus"
   ],
@@ -38,6 +40,16 @@
               "modelId": "cranial-floor-model-bs1",
               "cardId": "cranial-floor-model-bs1-26",
               "sourceLine": 26
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-403",
+              "sourceLine": 560
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-480",
+              "sourceLine": 651
             }
           ]
         }
@@ -56,6 +68,16 @@
               "modelId": "cranial-floor-model-bs1",
               "cardId": "cranial-floor-model-bs1-27",
               "sourceLine": 27
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-404",
+              "sourceLine": 561
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-481",
+              "sourceLine": 652
             }
           ]
         }
@@ -74,6 +96,16 @@
               "modelId": "cranial-floor-model-bs1",
               "cardId": "cranial-floor-model-bs1-28",
               "sourceLine": 28
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-405",
+              "sourceLine": 562
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-482",
+              "sourceLine": 653
             }
           ]
         }
@@ -92,6 +124,16 @@
               "modelId": "cranial-floor-model-bs1",
               "cardId": "cranial-floor-model-bs1-29",
               "sourceLine": 29
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-406",
+              "sourceLine": 563
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-483",
+              "sourceLine": 654
             }
           ]
         }
@@ -110,6 +152,16 @@
               "modelId": "cranial-floor-model-bs1",
               "cardId": "cranial-floor-model-bs1-30",
               "sourceLine": 30
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-407",
+              "sourceLine": 564
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-484",
+              "sourceLine": 655
             }
           ]
         }
@@ -124,6 +176,22 @@
         "5"
       ],
       "label": "5"
+    },
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 8",
+      "path": [
+        "17"
+      ],
+      "label": "17"
+    },
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 9",
+      "path": [
+        "17"
+      ],
+      "label": "17"
     }
   ]
 }

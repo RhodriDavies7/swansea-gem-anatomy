@@ -22,9 +22,11 @@
     "Identification",
     "Lesion",
     "Motor",
+    "Motorfunctions",
     "Nerve",
     "Roots",
-    "Sensory"
+    "Sensory",
+    "Sensoryfunctions"
   ],
   "imageIds": [
     "img-3b609693d6e1"
@@ -52,6 +54,11 @@
             {
               "modelId": "male-torso-with-head-model-as23-1",
               "cardId": "male-torso-with-head-model-as23-1-231"
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-349",
+              "sourceLine": 486
             }
           ]
         }
@@ -70,6 +77,11 @@
               "modelId": "cranial-floor-model-bs1",
               "cardId": "cranial-floor-model-bs1-158",
               "sourceLine": 158
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-350",
+              "sourceLine": 487
             }
           ]
         },
@@ -103,6 +115,11 @@
               "modelId": "cranial-floor-model-bs1",
               "cardId": "cranial-floor-model-bs1-159",
               "sourceLine": 159
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-351",
+              "sourceLine": 488
             }
           ]
         },
@@ -136,6 +153,11 @@
               "modelId": "cranial-floor-model-bs1",
               "cardId": "cranial-floor-model-bs1-160",
               "sourceLine": 160
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-352",
+              "sourceLine": 489
             }
           ]
         },
@@ -169,6 +191,11 @@
               "modelId": "cranial-floor-model-bs1",
               "cardId": "cranial-floor-model-bs1-161",
               "sourceLine": 161
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-353",
+              "sourceLine": 490
             }
           ]
         },
@@ -212,6 +239,11 @@
               "modelId": "head-and-neck-model-cs17-2",
               "cardId": "head-and-neck-model-cs17-2-753",
               "sourceLine": 753
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-354",
+              "sourceLine": 491
             }
           ]
         }
@@ -229,6 +261,11 @@
             {
               "modelId": "male-torso-with-head-model-as23-1",
               "cardId": "male-torso-with-head-model-as23-1-232"
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-355",
+              "sourceLine": 492
             }
           ]
         }
@@ -259,6 +296,14 @@
         "III"
       ],
       "label": "III"
+    },
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 7",
+      "path": [
+        "20"
+      ],
+      "label": "20"
     }
   ]
 }

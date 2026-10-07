@@ -17,6 +17,7 @@
   "tags": [
     "Course",
     "Drainage",
+    "Identification",
     "Relations",
     "VenousSinus"
   ],
@@ -37,6 +38,16 @@
               "modelId": "cranial-floor-model-bs1",
               "cardId": "cranial-floor-model-bs1-8",
               "sourceLine": 8
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-462",
+              "sourceLine": 633
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-544",
+              "sourceLine": 745
             }
           ]
         }
@@ -55,6 +66,16 @@
               "modelId": "cranial-floor-model-bs1",
               "cardId": "cranial-floor-model-bs1-9",
               "sourceLine": 9
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-463",
+              "sourceLine": 634
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-545",
+              "sourceLine": 746
             }
           ]
         }
@@ -73,6 +94,16 @@
               "modelId": "cranial-floor-model-bs1",
               "cardId": "cranial-floor-model-bs1-10",
               "sourceLine": 10
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-464",
+              "sourceLine": 635
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-546",
+              "sourceLine": 747
             }
           ]
         }
@@ -91,6 +122,16 @@
               "modelId": "cranial-floor-model-bs1",
               "cardId": "cranial-floor-model-bs1-11",
               "sourceLine": 11
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-465",
+              "sourceLine": 636
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-547",
+              "sourceLine": 748
             }
           ]
         }
@@ -105,6 +146,22 @@
         "2"
       ],
       "label": "2"
+    },
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 9",
+      "path": [
+        "13"
+      ],
+      "label": "13"
+    },
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 10",
+      "path": [
+        "15"
+      ],
+      "label": "15"
     }
   ]
 }

@@ -4,7 +4,7 @@ import {fileURLToPath} from 'node:url';
 const root=fileURLToPath(new URL('../',import.meta.url));
 const read=async p=>JSON.parse(await fs.readFile(path.join(root,p),'utf8'));
 const fail=m=>{throw new Error(m);};
-const index=await read('content/models.json');const files=(await fs.readdir(path.join(root,'content/structures'))).filter(f=>f.endsWith('.json')).sort();
+const index=(await read('content/models.json')).sort((a,b)=>a.name.localeCompare(b.name,'en',{numeric:true,sensitivity:'base'}));const files=(await fs.readdir(path.join(root,'content/structures'))).filter(f=>f.endsWith('.json')).sort();
 const structures=await Promise.all(files.map(f=>read('content/structures/'+f)));const byId=new Map();
 const images=await read('content/images.json'),imageIds=new Set();
 const localImage=async p=>{if(typeof p!=='string'||!/^images\/[a-zA-Z0-9_./-]+\.(?:png|jpe?g|webp)$/i.test(p)||p.split('/').includes('..'))fail('Image paths must be local images/... JPG, PNG or WebP: '+p);await fs.access(path.join(root,'dist',p));};
@@ -20,7 +20,7 @@ for(const s of structures)for(const id of s.redirectIds||[]){if(byId.has(id)||re
 const models=[],modelIds=new Set(),cardIds=new Set();
 for(const meta of index){if(modelIds.has(meta.id)||!meta.id)fail('Duplicate model ID');modelIds.add(meta.id);if(!/^[a-z0-9-]+\.json$/.test(meta.file))fail('Invalid model filename');const m=await read('content/models/'+meta.file);if(m.id!==meta.id)fail('Model ID mismatch');
  for(const c of m.cards){if(cardIds.has(c.id))fail('Duplicate card ID '+c.id);cardIds.add(c.id);const s=byId.get(c.structureId),f=s?.facts.find(f=>f.id===c.factId);if(!f?.variants.some(v=>v.id===c.variantId))fail('Broken card reference '+c.id);if('answer' in c||'question' in c)fail('Model cards must reference shared facts: '+c.id);}
- meta.count=m.cards.length;meta.identificationCount=m.cards.filter(c=>c.tags.includes('Identification')).length;meta.tags=[...new Set(m.cards.flatMap(c=>c.tags))].sort();await localImage(meta.image);models.push(m);
+ meta.count=m.cards.length;meta.identificationCount=m.cards.filter(c=>c.tags.includes('Identification')).length;meta.tags=[...new Set(m.cards.flatMap(c=>c.tags))].sort();await localImage(meta.image);delete m.sourcePdf;models.push(m);
 }
 for(const s of structures){for(const o of s.occurrences)if(!modelIds.has(o.modelId))fail('Invalid source model '+s.id);for(const f of s.facts)for(const v of f.variants)for(const source of v.sources||[])if(!modelIds.has(source.modelId)||!cardIds.has(source.cardId))fail('Invalid fact source '+s.id);}
 for(const image of images)if(image.modelId&&(!modelIds.has(image.modelId)||!structures.some(s=>s.imageIds.includes(image.id)&&s.occurrences.some(o=>o.modelId===image.modelId))))fail('Image model must contain its linked structure: '+image.id);

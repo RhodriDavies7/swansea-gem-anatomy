@@ -1,0 +1,126 @@
+{
+  "id": "posterior-crus-of-fornix-and-choroid-plexus-0b1470506d",
+  "name": "Posterior crus of fornix and choroid plexus",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Brain structures"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [
+    "Brain"
+  ],
+  "tags": [
+    "BS5_5",
+    "Brain",
+    "Function",
+    "Identification",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-abf7b0a8ce",
+      "question": "Identification",
+      "preferredVariantId": "v-0b1470506d",
+      "variants": [
+        {
+          "id": "v-0b1470506d",
+          "answer": "Posterior crus of fornix and choroid plexus",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-153",
+              "sourceLine": 224
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-200",
+              "sourceLine": 299
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-5226ff72f6",
+      "question": "Function",
+      "preferredVariantId": "v-076aa515d4",
+      "variants": [
+        {
+          "id": "v-076aa515d4",
+          "answer": "Fornix crus: carries hippocampal output toward the fornix body. Choroid plexus: produces CSF.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-37ff53aad0",
+              "sourceLine": 225
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-d8537ae147",
+              "sourceLine": 300
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK575732/",
+            "https://www.ncbi.nlm.nih.gov/books/NBK538156/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    },
+    {
+      "id": "f-21dd57ca13",
+      "question": "Relations",
+      "preferredVariantId": "v-17398432b4",
+      "variants": [
+        {
+          "id": "v-17398432b4",
+          "answer": "The paired crura continue from the hippocampal fimbriae and converge to form the body of the fornix.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-ac0ba0e200",
+              "sourceLine": 226
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-059af4a951",
+              "sourceLine": 301
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK575732/",
+            "https://www.ncbi.nlm.nih.gov/books/NBK538156/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 4",
+      "path": [
+        "24"
+      ],
+      "label": "24"
+    },
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 5",
+      "path": [
+        "23"
+      ],
+      "label": "23"
+    }
+  ]
+}

@@ -17,6 +17,7 @@
   "tags": [
     "BonyStructures",
     "Drainage",
+    "Identification",
     "Location",
     "MidSagittal",
     "ParanasalSinus",
@@ -48,6 +49,21 @@
               "modelId": "nose-and-nasal-cavity-model-fs3",
               "cardId": "nose-and-nasal-cavity-model-fs3-3",
               "sourceLine": 3
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-111",
+              "sourceLine": 156
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-155",
+              "sourceLine": 228
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-211",
+              "sourceLine": 314
             }
           ]
         }
@@ -66,6 +82,21 @@
               "modelId": "coronal-and-mid-sagittal-head-mb20",
               "cardId": "coronal-and-mid-sagittal-head-mb20-226",
               "sourceLine": 226
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-112",
+              "sourceLine": 157
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-156",
+              "sourceLine": 229
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-212",
+              "sourceLine": 315
             }
           ]
         },
@@ -110,6 +141,21 @@
               "modelId": "coronal-and-mid-sagittal-head-mb20",
               "cardId": "coronal-and-mid-sagittal-head-mb20-227",
               "sourceLine": 227
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-113",
+              "sourceLine": 158
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-157",
+              "sourceLine": 230
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-213",
+              "sourceLine": 316
             }
           ]
         },
@@ -159,6 +205,21 @@
               "modelId": "half-head-and-neck-model-bs9",
               "cardId": "half-head-and-neck-model-bs9-75",
               "sourceLine": 75
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-114",
+              "sourceLine": 159
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-158",
+              "sourceLine": 231
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-214",
+              "sourceLine": 317
             }
           ]
         },
@@ -204,6 +265,30 @@
         "a"
       ],
       "label": "a"
+    },
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 4",
+      "path": [
+        "1"
+      ],
+      "label": "1"
+    },
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 5",
+      "path": [
+        "1"
+      ],
+      "label": "1"
+    },
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 6",
+      "path": [
+        "1"
+      ],
+      "label": "1"
     }
   ]
 }

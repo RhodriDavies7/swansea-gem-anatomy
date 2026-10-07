@@ -1,0 +1,172 @@
+{
+  "id": "vermis-of-cerebellum-59d4e25a2c",
+  "name": "Vermis of cerebellum",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Brain structures"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [
+    "Brain"
+  ],
+  "tags": [
+    "BS5_5",
+    "Brain",
+    "Function",
+    "Identification",
+    "Location"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-258e6a324f",
+      "question": "Identification",
+      "preferredVariantId": "v-59d4e25a2c",
+      "variants": [
+        {
+          "id": "v-59d4e25a2c",
+          "answer": "Vermis of cerebellum",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-267",
+              "sourceLine": 392
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-361",
+              "sourceLine": 500
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-420",
+              "sourceLine": 577
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-497",
+              "sourceLine": 674
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d53c1c6b4b",
+      "question": "Location",
+      "preferredVariantId": "v-86c77834ca",
+      "variants": [
+        {
+          "id": "v-86c77834ca",
+          "answer": "Midline cerebellar region joining the hemispheres.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-d404f7a7b0",
+              "sourceLine": 393
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-32e33b9272",
+              "sourceLine": 501
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-d85fd778ba",
+              "sourceLine": 578
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-38d45e0606",
+              "sourceLine": 675
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK538167/",
+            "https://www.ncbi.nlm.nih.gov/books/NBK392/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    },
+    {
+      "id": "f-651e156429",
+      "question": "Function",
+      "preferredVariantId": "v-bf908cbc0f",
+      "variants": [
+        {
+          "id": "v-bf908cbc0f",
+          "answer": "Coordinates axial movement and posture; lesions typically cause truncal and gait ataxia.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-2d5628c4cb",
+              "sourceLine": 394
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-c06127bc7a",
+              "sourceLine": 502
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-7f78080b13",
+              "sourceLine": 579
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-492e2bcf38",
+              "sourceLine": 676
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK538167/",
+            "https://www.ncbi.nlm.nih.gov/books/NBK392/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 6",
+      "path": [
+        "22"
+      ],
+      "label": "22"
+    },
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 7",
+      "path": [
+        "23"
+      ],
+      "label": "23"
+    },
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 8",
+      "path": [
+        "21"
+      ],
+      "label": "21"
+    },
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 9",
+      "path": [
+        "23"
+      ],
+      "label": "23"
+    }
+  ]
+}

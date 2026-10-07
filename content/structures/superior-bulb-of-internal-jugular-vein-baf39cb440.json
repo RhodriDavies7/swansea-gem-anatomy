@@ -1,0 +1,101 @@
+{
+  "id": "superior-bulb-of-internal-jugular-vein-baf39cb440",
+  "name": "Superior bulb of internal jugular vein",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Veins"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Cardiovascular"
+  ],
+  "organs": [],
+  "tags": [
+    "BS5_5",
+    "Clinicalrelevance",
+    "Identification",
+    "Location",
+    "Vein"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-ea9de4b290",
+      "question": "Identification",
+      "preferredVariantId": "v-baf39cb440",
+      "variants": [
+        {
+          "id": "v-baf39cb440",
+          "answer": "Superior bulb of internal jugular vein",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-627",
+              "sourceLine": 856
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-0bbde0ffd5",
+      "question": "Location",
+      "preferredVariantId": "v-056953512e",
+      "variants": [
+        {
+          "id": "v-056953512e",
+          "answer": "Dilated upper internal jugular vein in the jugular fossa, immediately below the jugular foramen.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-4ffdc143e4",
+              "sourceLine": 857
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK538507/",
+            "https://pubmed.ncbi.nlm.nih.gov/2703373/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    },
+    {
+      "id": "f-9ac2e34088",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-16389f9a89",
+      "variants": [
+        {
+          "id": "v-16389f9a89",
+          "answer": "A high or dehiscent jugular bulb may lie close to the middle ear and cause pulsatile tinnitus.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-c5971bff12",
+              "sourceLine": 858
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK538507/",
+            "https://pubmed.ncbi.nlm.nih.gov/2703373/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 11",
+      "path": [
+        "16"
+      ],
+      "label": "16"
+    }
+  ]
+}

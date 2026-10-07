@@ -1,0 +1,103 @@
+{
+  "id": "head-of-caudate-nucleus-ec72317cb4",
+  "name": "Head of caudate nucleus",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Basal ganglia"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [
+    "Brain"
+  ],
+  "tags": [
+    "BS5_5",
+    "Brain",
+    "Function",
+    "Identification",
+    "Location"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-55fa62858a",
+      "question": "Identification",
+      "preferredVariantId": "v-ec72317cb4",
+      "variants": [
+        {
+          "id": "v-ec72317cb4",
+          "answer": "Head of caudate nucleus",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-174",
+              "sourceLine": 250
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-98c6bb0c1b",
+      "question": "Location",
+      "preferredVariantId": "v-8159c91119",
+      "variants": [
+        {
+          "id": "v-8159c91119",
+          "answer": "Bulges into the anterior horn of the lateral ventricle.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-12cbe494e2",
+              "sourceLine": 251
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK557755/",
+            "https://www.ncbi.nlm.nih.gov/books/NBK532932/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    },
+    {
+      "id": "f-e42778bbf7",
+      "question": "Function",
+      "preferredVariantId": "v-bb8e13da06",
+      "variants": [
+        {
+          "id": "v-bb8e13da06",
+          "answer": "Part of the striatum, involved in motor, cognitive and behavioural circuits.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-e8048b97ef",
+              "sourceLine": 252
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK557755/",
+            "https://www.ncbi.nlm.nih.gov/books/NBK532932/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 5",
+      "path": [
+        "7"
+      ],
+      "label": "7"
+    }
+  ]
+}

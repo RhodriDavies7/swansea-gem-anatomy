@@ -20,7 +20,9 @@
     "Function",
     "Identification"
   ],
-  "imageIds": [],
+  "imageIds": [
+    "img-de4f0cdf2dd7"
+  ],
   "facts": [
     {
       "id": "f-9d2c706308",
@@ -39,6 +41,31 @@
             {
               "modelId": "male-torso-with-head-model-as23-1",
               "cardId": "male-torso-with-head-model-as23-1-86"
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-20",
+              "sourceLine": 22
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-56",
+              "sourceLine": 72
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-88",
+              "sourceLine": 118
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-127",
+              "sourceLine": 172
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-171",
+              "sourceLine": 244
             }
           ]
         }
@@ -57,6 +84,31 @@
               "modelId": "head-and-neck-model-cs17-2",
               "cardId": "head-and-neck-model-cs17-2-621",
               "sourceLine": 621
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-21",
+              "sourceLine": 23
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-57",
+              "sourceLine": 73
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-89",
+              "sourceLine": 119
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-128",
+              "sourceLine": 173
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-172",
+              "sourceLine": 245
             }
           ]
         },
@@ -89,6 +141,46 @@
         "3"
       ],
       "label": "3"
+    },
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 1",
+      "path": [
+        "6"
+      ],
+      "label": "6"
+    },
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 2",
+      "path": [
+        "6"
+      ],
+      "label": "6"
+    },
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 3",
+      "path": [
+        "5"
+      ],
+      "label": "5"
+    },
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 4",
+      "path": [
+        "5"
+      ],
+      "label": "5"
+    },
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 5",
+      "path": [
+        "5"
+      ],
+      "label": "5"
     }
   ]
 }

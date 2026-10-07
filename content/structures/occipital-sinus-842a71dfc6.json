@@ -16,6 +16,7 @@
   "organs": [],
   "tags": [
     "Drainage",
+    "Identification",
     "Location",
     "VenousSinus"
   ],
@@ -34,6 +35,16 @@
               "modelId": "cranial-floor-model-bs1",
               "cardId": "cranial-floor-model-bs1-39",
               "sourceLine": 39
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-466",
+              "sourceLine": 637
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-549",
+              "sourceLine": 752
             }
           ]
         }
@@ -52,6 +63,16 @@
               "modelId": "cranial-floor-model-bs1",
               "cardId": "cranial-floor-model-bs1-40",
               "sourceLine": 40
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-467",
+              "sourceLine": 638
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-550",
+              "sourceLine": 753
             }
           ]
         }
@@ -70,6 +91,16 @@
               "modelId": "cranial-floor-model-bs1",
               "cardId": "cranial-floor-model-bs1-41",
               "sourceLine": 41
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-468",
+              "sourceLine": 639
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-551",
+              "sourceLine": 754
             }
           ]
         }
@@ -84,6 +115,22 @@
         "7"
       ],
       "label": "7"
+    },
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 9",
+      "path": [
+        "14"
+      ],
+      "label": "14"
+    },
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 10",
+      "path": [
+        "17"
+      ],
+      "label": "17"
     }
   ]
 }

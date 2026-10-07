@@ -1,0 +1,124 @@
+{
+  "id": "globus-pallidus-020d34a54c",
+  "name": "Globus pallidus",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Basal ganglia"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [
+    "Brain"
+  ],
+  "tags": [
+    "BS5_5",
+    "Brain",
+    "Function",
+    "Identification",
+    "Location"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-a1145d239e",
+      "question": "Identification",
+      "preferredVariantId": "v-020d34a54c",
+      "variants": [
+        {
+          "id": "v-020d34a54c",
+          "answer": "Globus pallidus",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-147",
+              "sourceLine": 212
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-190",
+              "sourceLine": 283
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-ef49c81d6e",
+      "question": "Location",
+      "preferredVariantId": "v-740c7a9c74",
+      "variants": [
+        {
+          "id": "v-740c7a9c74",
+          "answer": "Medial to putamen; together they form the lentiform nucleus.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-c88d63cb83",
+              "sourceLine": 213
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-c4d3850c7b",
+              "sourceLine": 284
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK557755/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    },
+    {
+      "id": "f-ecb510a702",
+      "question": "Function",
+      "preferredVariantId": "v-5bc5f353b7",
+      "variants": [
+        {
+          "id": "v-5bc5f353b7",
+          "answer": "Internal segment is a major inhibitory basal ganglia output to the thalamus; external segment participates in the indirect pathway.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-ecc04023c8",
+              "sourceLine": 214
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-02e5ff8d40",
+              "sourceLine": 285
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK557755/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 4",
+      "path": [
+        "20"
+      ],
+      "label": "20"
+    },
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 5",
+      "path": [
+        "18"
+      ],
+      "label": "18"
+    }
+  ]
+}

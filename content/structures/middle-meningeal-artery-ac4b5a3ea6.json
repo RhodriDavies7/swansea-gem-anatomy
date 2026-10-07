@@ -17,11 +17,15 @@
   "tags": [
     "Artery",
     "Clinical",
+    "Clinicalrelevance",
     "Course",
+    "Identification",
     "Origin",
     "Supply"
   ],
-  "imageIds": [],
+  "imageIds": [
+    "img-ff277529fc66"
+  ],
   "facts": [
     {
       "id": "f-9d2c706308",
@@ -36,6 +40,21 @@
               "modelId": "cranial-floor-model-bs1",
               "cardId": "cranial-floor-model-bs1-120",
               "sourceLine": 120
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-22",
+              "sourceLine": 24
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-58",
+              "sourceLine": 74
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-562",
+              "sourceLine": 765
             }
           ]
         }
@@ -54,6 +73,21 @@
               "modelId": "cranial-floor-model-bs1",
               "cardId": "cranial-floor-model-bs1-121",
               "sourceLine": 121
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-23",
+              "sourceLine": 25
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-59",
+              "sourceLine": 75
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-563",
+              "sourceLine": 766
             }
           ]
         }
@@ -72,6 +106,21 @@
               "modelId": "cranial-floor-model-bs1",
               "cardId": "cranial-floor-model-bs1-122",
               "sourceLine": 122
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-24",
+              "sourceLine": 26
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-60",
+              "sourceLine": 76
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-564",
+              "sourceLine": 767
             }
           ]
         }
@@ -90,6 +139,21 @@
               "modelId": "cranial-floor-model-bs1",
               "cardId": "cranial-floor-model-bs1-123",
               "sourceLine": 123
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-25",
+              "sourceLine": 27
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-61",
+              "sourceLine": 77
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-565",
+              "sourceLine": 768
             }
           ]
         }
@@ -108,6 +172,21 @@
               "modelId": "cranial-floor-model-bs1",
               "cardId": "cranial-floor-model-bs1-124",
               "sourceLine": 124
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-26",
+              "sourceLine": 28
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-62",
+              "sourceLine": 78
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-566",
+              "sourceLine": 769
             }
           ]
         }
@@ -118,6 +197,30 @@
     {
       "modelId": "cranial-floor-model-bs1",
       "section": "",
+      "path": [
+        "20"
+      ],
+      "label": "20"
+    },
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 1",
+      "path": [
+        "7"
+      ],
+      "label": "7"
+    },
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 2",
+      "path": [
+        "7"
+      ],
+      "label": "7"
+    },
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 10",
       "path": [
         "20"
       ],

@@ -1,0 +1,122 @@
+{
+  "id": "coronoid-process-of-mandible-68c6cb88a5",
+  "name": "Coronoid process of mandible",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Bones"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Attachments",
+    "BS5_5",
+    "Bone",
+    "Identification",
+    "Location"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-61893b4e36",
+      "question": "Identification",
+      "preferredVariantId": "v-68c6cb88a5",
+      "variants": [
+        {
+          "id": "v-68c6cb88a5",
+          "answer": "Coronoid process of mandible",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-520",
+              "sourceLine": 705
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-608",
+              "sourceLine": 823
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6e48f9e889",
+      "question": "Location",
+      "preferredVariantId": "v-6eca47e35c",
+      "variants": [
+        {
+          "id": "v-6eca47e35c",
+          "answer": "Anterior superior projection of the mandibular ramus.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-0bd99f32ad",
+              "sourceLine": 706
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-f8e0e585b6",
+              "sourceLine": 824
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK541027/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    },
+    {
+      "id": "f-a8e0cf592f",
+      "question": "Attachments",
+      "preferredVariantId": "v-e801786d4a",
+      "variants": [
+        {
+          "id": "v-e801786d4a",
+          "answer": "Insertion of temporalis muscle; involved in elevation of the mandible.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-322bff35ad",
+              "sourceLine": 707
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-24033c60e3",
+              "sourceLine": 825
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK541027/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 10",
+      "path": [
+        "6"
+      ],
+      "label": "6"
+    },
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 11",
+      "path": [
+        "7"
+      ],
+      "label": "7"
+    }
+  ]
+}

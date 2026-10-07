@@ -1,0 +1,128 @@
+{
+  "id": "insula-3ddb3634ed",
+  "name": "Insula",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Brain structures"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [
+    "Brain"
+  ],
+  "tags": [
+    "BS5_5",
+    "Brain",
+    "Function",
+    "Identification",
+    "Location"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-7118cefa1b",
+      "question": "Identification",
+      "preferredVariantId": "v-3ddb3634ed",
+      "variants": [
+        {
+          "id": "v-3ddb3634ed",
+          "answer": "Insula",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-145",
+              "sourceLine": 206
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-175",
+              "sourceLine": 253
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f732293b3a",
+      "question": "Location",
+      "preferredVariantId": "v-f006ec3a2a",
+      "variants": [
+        {
+          "id": "v-f006ec3a2a",
+          "answer": "Cortex deep within the lateral sulcus, covered by frontal, parietal and temporal opercula.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-dee7cf3142",
+              "sourceLine": 207
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-69ef442b9b",
+              "sourceLine": 254
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK570606/",
+            "https://pubmed.ncbi.nlm.nih.gov/25950427/",
+            "https://pubmed.ncbi.nlm.nih.gov/10193618/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    },
+    {
+      "id": "f-37963d81de",
+      "question": "Function",
+      "preferredVariantId": "v-402267c05b",
+      "variants": [
+        {
+          "id": "v-402267c05b",
+          "answer": "Processes taste and internal bodily sensations, with roles in autonomic and emotional integration.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-231f799b62",
+              "sourceLine": 208
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-f64fd7f5a5",
+              "sourceLine": 255
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK570606/",
+            "https://pubmed.ncbi.nlm.nih.gov/25950427/",
+            "https://pubmed.ncbi.nlm.nih.gov/10193618/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 4",
+      "path": [
+        "17"
+      ],
+      "label": "17"
+    },
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 5",
+      "path": [
+        "8"
+      ],
+      "label": "8"
+    }
+  ]
+}

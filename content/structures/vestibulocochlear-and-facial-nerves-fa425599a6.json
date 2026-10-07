@@ -1,0 +1,105 @@
+{
+  "id": "vestibulocochlear-and-facial-nerves-fa425599a6",
+  "name": "Vestibulocochlear and facial nerves",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Nerves"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [
+    "Ear"
+  ],
+  "tags": [
+    "BS5_5",
+    "Course",
+    "Function",
+    "Identification",
+    "Nerve"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-5e4cb34bd1",
+      "question": "Identification",
+      "preferredVariantId": "v-fa425599a6",
+      "variants": [
+        {
+          "id": "v-fa425599a6",
+          "answer": "Vestibulocochlear and facial nerves",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-454",
+              "sourceLine": 623
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-cc0c9f569e",
+      "question": "Course",
+      "preferredVariantId": "v-4fb9631ec4",
+      "variants": [
+        {
+          "id": "v-4fb9631ec4",
+          "answer": "CN VII and VIII enter the internal acoustic meatus; CN VII continues in the facial canal and exits at the stylomastoid foramen.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-1edf12289c",
+              "sourceLine": 624
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK385/",
+            "https://pubmed.ncbi.nlm.nih.gov/2286163/",
+            "https://www.ncbi.nlm.nih.gov/books/NBK482338/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    },
+    {
+      "id": "f-77227cc695",
+      "question": "Function",
+      "preferredVariantId": "v-f4cf73ce92",
+      "variants": [
+        {
+          "id": "v-f4cf73ce92",
+          "answer": "CN VIII: hearing and balance. CN VII: facial expression, anterior two-thirds tongue taste, and parasympathetic supply to lacrimal/submandibular/sublingual glands.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-5fad1042ba",
+              "sourceLine": 625
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK385/",
+            "https://pubmed.ncbi.nlm.nih.gov/2286163/",
+            "https://www.ncbi.nlm.nih.gov/books/NBK482338/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 9",
+      "path": [
+        "10"
+      ],
+      "label": "10"
+    }
+  ]
+}

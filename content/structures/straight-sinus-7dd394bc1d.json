@@ -1,0 +1,147 @@
+{
+  "id": "straight-sinus-7dd394bc1d",
+  "name": "Straight sinus",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Venous sinuses"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Cardiovascular"
+  ],
+  "organs": [
+    "Brain"
+  ],
+  "tags": [
+    "BS5_5",
+    "Brain",
+    "Drainage",
+    "Identification",
+    "Location"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-bad5ff863f",
+      "question": "Identification",
+      "preferredVariantId": "v-7dd394bc1d",
+      "variants": [
+        {
+          "id": "v-7dd394bc1d",
+          "answer": "Straight sinus",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-205",
+              "sourceLine": 306
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-249",
+              "sourceLine": 364
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-325",
+              "sourceLine": 458
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-799c0b2bb1",
+      "question": "Location",
+      "preferredVariantId": "v-9a07329b37",
+      "variants": [
+        {
+          "id": "v-9a07329b37",
+          "answer": "Junction of falx cerebri and tentorium cerebelli.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-276bc23477",
+              "sourceLine": 307
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-409236ceeb",
+              "sourceLine": 365
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-59b08d3a82",
+              "sourceLine": 459
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK482257/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    },
+    {
+      "id": "f-32aceaf4a3",
+      "question": "Drainage",
+      "preferredVariantId": "v-d0d5aef4a3",
+      "variants": [
+        {
+          "id": "v-d0d5aef4a3",
+          "answer": "Receives inferior sagittal sinus and great cerebral vein; drains toward the confluence of sinuses.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-852cb737d8",
+              "sourceLine": 308
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-8c6cf77a85",
+              "sourceLine": 366
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-c215eaa88b",
+              "sourceLine": 460
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK482257/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 5",
+      "path": [
+        "25"
+      ],
+      "label": "25"
+    },
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 6",
+      "path": [
+        "14"
+      ],
+      "label": "14"
+    },
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 7",
+      "path": [
+        "13"
+      ],
+      "label": "13"
+    }
+  ]
+}

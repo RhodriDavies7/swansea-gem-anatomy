@@ -1,0 +1,100 @@
+{
+  "id": "sigmoid-sinus-and-internal-jugular-vein-junction-91abc2b7da",
+  "name": "Sigmoid sinus and internal jugular vein junction",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Venous sinuses"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Cardiovascular"
+  ],
+  "organs": [],
+  "tags": [
+    "BS5_5",
+    "Drainage",
+    "Identification",
+    "Location"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-59b2ae547f",
+      "question": "Identification",
+      "preferredVariantId": "v-91abc2b7da",
+      "variants": [
+        {
+          "id": "v-91abc2b7da",
+          "answer": "Sigmoid sinus and internal jugular vein junction",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-617",
+              "sourceLine": 840
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9cd41573c0",
+      "question": "Location",
+      "preferredVariantId": "v-1ecbce6aef",
+      "variants": [
+        {
+          "id": "v-1ecbce6aef",
+          "answer": "At the jugular foramen, where sigmoid sinus continues as internal jugular vein.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-ed43a7ed59",
+              "sourceLine": 841
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK538507/",
+            "https://www.ncbi.nlm.nih.gov/books/NBK546605/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    },
+    {
+      "id": "f-05a9fd2d9c",
+      "question": "Drainage",
+      "preferredVariantId": "v-00d3d960a7",
+      "variants": [
+        {
+          "id": "v-00d3d960a7",
+          "answer": "Carries intracranial venous blood from transverse/sigmoid sinuses into the neck.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-75db0c98b2",
+              "sourceLine": 842
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK538507/",
+            "https://www.ncbi.nlm.nih.gov/books/NBK546605/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 11",
+      "path": [
+        "11"
+      ],
+      "label": "11"
+    }
+  ]
+}

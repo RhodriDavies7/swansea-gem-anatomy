@@ -1,0 +1,101 @@
+{
+  "id": "sphenoid-sinus-and-internal-carotid-artery-928a8281d8",
+  "name": "Sphenoid sinus and internal carotid artery",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Anatomical structures"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Respiratory",
+    "Cardiovascular"
+  ],
+  "organs": [],
+  "tags": [
+    "BS5_5",
+    "Clinicalrelevance",
+    "Identification",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-1c22035f8e",
+      "question": "Identification",
+      "preferredVariantId": "v-928a8281d8",
+      "variants": [
+        {
+          "id": "v-928a8281d8",
+          "answer": "Sphenoid sinus and internal carotid artery",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-387",
+              "sourceLine": 532
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6224657055",
+      "question": "Relations",
+      "preferredVariantId": "v-96d57b96f7",
+      "variants": [
+        {
+          "id": "v-96d57b96f7",
+          "answer": "Sphenoid sinus lies below the sella; the cavernous internal carotid artery lies close to its lateral wall.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-daa08aaf31",
+              "sourceLine": 533
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK499826/",
+            "https://www.ncbi.nlm.nih.gov/books/NBK459244/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    },
+    {
+      "id": "f-00effdcb70",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-7655361e49",
+      "variants": [
+        {
+          "id": "v-7655361e49",
+          "answer": "The sinus provides a transsphenoidal route to the pituitary; carotid proximity creates a risk of major haemorrhage.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-44106b366e",
+              "sourceLine": 534
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK499826/",
+            "https://www.ncbi.nlm.nih.gov/books/NBK459244/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 8",
+      "path": [
+        "7"
+      ],
+      "label": "7"
+    }
+  ]
+}

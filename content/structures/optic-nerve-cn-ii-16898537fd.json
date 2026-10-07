@@ -31,7 +31,8 @@
     "MidlineStructures",
     "Nerve",
     "Roots",
-    "Sensory"
+    "Sensory",
+    "Sensoryfunctions"
   ],
   "imageIds": [
     "img-50af83bb2490"
@@ -99,6 +100,16 @@
             {
               "modelId": "male-torso-with-head-model-as23-1",
               "cardId": "male-torso-with-head-model-as23-1-291"
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-255",
+              "sourceLine": 374
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-292",
+              "sourceLine": 421
             }
           ]
         }
@@ -216,6 +227,16 @@
               "modelId": "deep-face-model-bs8-1",
               "cardId": "deep-face-model-bs8-1-143",
               "sourceLine": 143
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-256",
+              "sourceLine": 375
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-293",
+              "sourceLine": 422
             }
           ],
           "editorial": true
@@ -297,6 +318,16 @@
               "modelId": "eyeball-with-part-of-orbit-model-cs2",
               "cardId": "eyeball-with-part-of-orbit-model-cs2-105",
               "sourceLine": 105
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-257",
+              "sourceLine": 376
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-294",
+              "sourceLine": 423
             }
           ]
         },
@@ -372,6 +403,16 @@
               "modelId": "eyeball-with-part-of-orbit-model-cs2",
               "cardId": "eyeball-with-part-of-orbit-model-cs2-106",
               "sourceLine": 106
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-258",
+              "sourceLine": 377
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-295",
+              "sourceLine": 424
             }
           ]
         },
@@ -530,6 +571,16 @@
               "modelId": "head-and-neck-model-cs17-2",
               "cardId": "head-and-neck-model-cs17-2-579",
               "sourceLine": 579
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-259",
+              "sourceLine": 378
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-296",
+              "sourceLine": 425
             }
           ],
           "editorial": true
@@ -572,6 +623,16 @@
             {
               "modelId": "male-torso-with-head-model-as23-1",
               "cardId": "male-torso-with-head-model-as23-1-227"
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-260",
+              "sourceLine": 379
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-297",
+              "sourceLine": 426
             }
           ]
         }
@@ -658,6 +719,22 @@
         "17c"
       ],
       "label": "17c"
+    },
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 6",
+      "path": [
+        "17"
+      ],
+      "label": "17"
+    },
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 7",
+      "path": [
+        "5"
+      ],
+      "label": "5"
     }
   ],
   "redirectIds": [

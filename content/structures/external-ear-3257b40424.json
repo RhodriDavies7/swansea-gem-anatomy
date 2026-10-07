@@ -15,6 +15,7 @@
   "tags": [
     "BloodVesselsAndNerves",
     "Function",
+    "Identification",
     "Innervation",
     "Organ",
     "Structure"
@@ -34,6 +35,11 @@
               "modelId": "half-head-and-neck-model-bs9",
               "cardId": "half-head-and-neck-model-bs9-789",
               "sourceLine": 789
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-356",
+              "sourceLine": 493
             }
           ]
         }
@@ -52,6 +58,11 @@
               "modelId": "half-head-and-neck-model-bs9",
               "cardId": "half-head-and-neck-model-bs9-790",
               "sourceLine": 790
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-357",
+              "sourceLine": 494
             }
           ]
         }
@@ -70,6 +81,11 @@
               "modelId": "half-head-and-neck-model-bs9",
               "cardId": "half-head-and-neck-model-bs9-791",
               "sourceLine": 791
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-358",
+              "sourceLine": 495
             }
           ]
         }
@@ -88,6 +104,11 @@
               "modelId": "half-head-and-neck-model-bs9",
               "cardId": "half-head-and-neck-model-bs9-792",
               "sourceLine": 792
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-359",
+              "sourceLine": 496
             }
           ]
         }
@@ -102,6 +123,14 @@
         "78"
       ],
       "label": "78"
+    },
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 7",
+      "path": [
+        "21"
+      ],
+      "label": "21"
     }
   ]
 }

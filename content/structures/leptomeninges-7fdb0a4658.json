@@ -1,0 +1,126 @@
+{
+  "id": "leptomeninges-7fdb0a4658",
+  "name": "Leptomeninges",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Meninges"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [
+    "Brain"
+  ],
+  "tags": [
+    "BS5_5",
+    "Brain",
+    "Identification",
+    "Relations",
+    "Structure"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-5b6109e199",
+      "question": "Identification",
+      "preferredVariantId": "v-7fdb0a4658",
+      "variants": [
+        {
+          "id": "v-7fdb0a4658",
+          "answer": "Leptomeninges",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-31",
+              "sourceLine": 37
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-67",
+              "sourceLine": 87
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9d18d6bb1b",
+      "question": "Structure",
+      "preferredVariantId": "v-257c94a398",
+      "variants": [
+        {
+          "id": "v-257c94a398",
+          "answer": "Arachnoid mater and pia mater together.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-b080f3bfad",
+              "sourceLine": 38
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-8b989031f8",
+              "sourceLine": 88
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK539882/",
+            "https://www.ncbi.nlm.nih.gov/books/NBK557521/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    },
+    {
+      "id": "f-0e05f2c74a",
+      "question": "Relations",
+      "preferredVariantId": "v-87b1ae8522",
+      "variants": [
+        {
+          "id": "v-87b1ae8522",
+          "answer": "The CSF-filled subarachnoid space lies between them; pia follows the brain surface into sulci.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-4e6dc79e1a",
+              "sourceLine": 39
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-02de41a00c",
+              "sourceLine": 89
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK539882/",
+            "https://www.ncbi.nlm.nih.gov/books/NBK557521/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 1",
+      "path": [
+        "12"
+      ],
+      "label": "12"
+    },
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 2",
+      "path": [
+        "12"
+      ],
+      "label": "12"
+    }
+  ]
+}

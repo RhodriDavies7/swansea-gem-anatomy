@@ -1,0 +1,103 @@
+{
+  "id": "fourth-ventricle-and-dentate-nucleus-34f197c44a",
+  "name": "Fourth ventricle and dentate nucleus",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Brain structures"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [
+    "Brain"
+  ],
+  "tags": [
+    "BS5_5",
+    "Brain",
+    "Function",
+    "Identification",
+    "Location"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-1e9c42e6aa",
+      "question": "Identification",
+      "preferredVariantId": "v-34f197c44a",
+      "variants": [
+        {
+          "id": "v-34f197c44a",
+          "answer": "Fourth ventricle and dentate nucleus",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-496",
+              "sourceLine": 671
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-652b370337",
+      "question": "Location",
+      "preferredVariantId": "v-bafea1e8d2",
+      "variants": [
+        {
+          "id": "v-bafea1e8d2",
+          "answer": "Fourth ventricle: between pons/upper medulla and cerebellum. Dentate: deep nucleus within each cerebellar hemisphere.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-4a448cfec9",
+              "sourceLine": 672
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK532932/",
+            "https://www.ncbi.nlm.nih.gov/books/NBK554381/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    },
+    {
+      "id": "f-aff95b38ce",
+      "question": "Function",
+      "preferredVariantId": "v-911f261e03",
+      "variants": [
+        {
+          "id": "v-911f261e03",
+          "answer": "Fourth ventricle conducts CSF to subarachnoid space via median and lateral apertures; dentate contributes to planning and coordination of movement.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-b7a9bde71b",
+              "sourceLine": 673
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK532932/",
+            "https://www.ncbi.nlm.nih.gov/books/NBK554381/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 9",
+      "path": [
+        "22"
+      ],
+      "label": "22"
+    }
+  ]
+}

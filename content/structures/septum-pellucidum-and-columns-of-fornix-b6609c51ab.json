@@ -1,0 +1,105 @@
+{
+  "id": "septum-pellucidum-and-columns-of-fornix-b6609c51ab",
+  "name": "Septum pellucidum and columns of fornix",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Brain structures"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [
+    "Brain"
+  ],
+  "tags": [
+    "BS5_5",
+    "Brain",
+    "Function",
+    "Identification",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-d2e482486e",
+      "question": "Identification",
+      "preferredVariantId": "v-b6609c51ab",
+      "variants": [
+        {
+          "id": "v-b6609c51ab",
+          "answer": "Septum pellucidum and columns of fornix",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-138",
+              "sourceLine": 188
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f3fcff0ebf",
+      "question": "Relations",
+      "preferredVariantId": "v-4689ffc8e3",
+      "variants": [
+        {
+          "id": "v-4689ffc8e3",
+          "answer": "Septum pellucidum separates the anterior lateral ventricles, between corpus callosum and fornix.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-e936e87432",
+              "sourceLine": 189
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK575732/",
+            "https://www.ncbi.nlm.nih.gov/books/NBK537192/",
+            "https://www.ncbi.nlm.nih.gov/books/NBK532932/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    },
+    {
+      "id": "f-21f0142bb7",
+      "question": "Function",
+      "preferredVariantId": "v-3c7a19dce2",
+      "variants": [
+        {
+          "id": "v-3c7a19dce2",
+          "answer": "Fornix columns carry hippocampal output; postcommissural fibres reach the mammillary bodies in memory circuits.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-f8a4c01671",
+              "sourceLine": 190
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK575732/",
+            "https://www.ncbi.nlm.nih.gov/books/NBK537192/",
+            "https://www.ncbi.nlm.nih.gov/books/NBK532932/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 4",
+      "path": [
+        "10"
+      ],
+      "label": "10"
+    }
+  ]
+}

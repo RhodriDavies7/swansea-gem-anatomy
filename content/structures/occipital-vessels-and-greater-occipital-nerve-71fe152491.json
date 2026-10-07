@@ -1,0 +1,153 @@
+{
+  "id": "occipital-vessels-and-greater-occipital-nerve-71fe152491",
+  "name": "Occipital vessels and greater occipital nerve",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Neurovascular structures"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Nervous",
+    "Cardiovascular"
+  ],
+  "organs": [],
+  "tags": [
+    "BS5_5",
+    "Drainage",
+    "Identification",
+    "Sensoryfunctions",
+    "Supply"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-11ade2747b",
+      "question": "Identification",
+      "preferredVariantId": "v-71fe152491",
+      "variants": [
+        {
+          "id": "v-71fe152491",
+          "answer": "Occipital vessels and greater occipital nerve",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-37",
+              "sourceLine": 48
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-73",
+              "sourceLine": 98
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-01a1db24c4",
+      "question": "Supply",
+      "preferredVariantId": "v-e25aaa090e",
+      "variants": [
+        {
+          "id": "v-e25aaa090e",
+          "answer": "Occipital artery: branch of the external carotid artery supplying the posterior scalp.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-34b7fc7bc6",
+              "sourceLine": 49
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-0ab488ca02",
+              "sourceLine": 99
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK541093/",
+            "https://www.ncbi.nlm.nih.gov/books/NBK542213/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    },
+    {
+      "id": "f-8f402769b3",
+      "question": "Sensory functions",
+      "preferredVariantId": "v-04a4b45dca",
+      "variants": [
+        {
+          "id": "v-04a4b45dca",
+          "answer": "Greater occipital nerve: medial branch of the C2 dorsal ramus supplying much of the posterior scalp.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-37980a2c9a",
+              "sourceLine": 50
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-448f6d7d3e",
+              "sourceLine": 100
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK541093/",
+            "https://www.ncbi.nlm.nih.gov/books/NBK542213/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    },
+    {
+      "id": "f-68b3ca2be9",
+      "question": "Drainage",
+      "preferredVariantId": "v-34d0cd8ccd",
+      "variants": [
+        {
+          "id": "v-34d0cd8ccd",
+          "answer": "Occipital veins drain the posterior scalp and communicate with deep cervical and suboccipital veins.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-e56853d51e",
+              "sourceLine": 51
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-334a4af621",
+              "sourceLine": 101
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK541093/",
+            "https://www.ncbi.nlm.nih.gov/books/NBK542213/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 1",
+      "path": [
+        "15"
+      ],
+      "label": "15"
+    },
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 2",
+      "path": [
+        "15"
+      ],
+      "label": "15"
+    }
+  ]
+}

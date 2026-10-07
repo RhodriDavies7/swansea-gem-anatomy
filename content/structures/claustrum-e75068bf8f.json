@@ -1,0 +1,126 @@
+{
+  "id": "claustrum-e75068bf8f",
+  "name": "Claustrum",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Brain structures"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [
+    "Brain"
+  ],
+  "tags": [
+    "BS5_5",
+    "Brain",
+    "Function",
+    "Identification",
+    "Location"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-f098f98521",
+      "question": "Identification",
+      "preferredVariantId": "v-e75068bf8f",
+      "variants": [
+        {
+          "id": "v-e75068bf8f",
+          "answer": "Claustrum",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-149",
+              "sourceLine": 218
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-179",
+              "sourceLine": 259
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-2847644f9e",
+      "question": "Location",
+      "preferredVariantId": "v-c8ca229b18",
+      "variants": [
+        {
+          "id": "v-c8ca229b18",
+          "answer": "Thin grey-matter sheet between the external and extreme capsules, deep to the insula.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-f88092fb1b",
+              "sourceLine": 219
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-d5d04b2b5f",
+              "sourceLine": 260
+            }
+          ],
+          "references": [
+            "https://pmc.ncbi.nlm.nih.gov/articles/PMC1569501/",
+            "https://www.ncbi.nlm.nih.gov/books/NBK570606/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    },
+    {
+      "id": "f-8b7a26b660",
+      "question": "Function",
+      "preferredVariantId": "v-b16f675d21",
+      "variants": [
+        {
+          "id": "v-b16f675d21",
+          "answer": "Widely connected with cortex; its precise function remains uncertain.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-e7a9f87940",
+              "sourceLine": 220
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-1b29fbdfd6",
+              "sourceLine": 261
+            }
+          ],
+          "references": [
+            "https://pmc.ncbi.nlm.nih.gov/articles/PMC1569501/",
+            "https://www.ncbi.nlm.nih.gov/books/NBK570606/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 4",
+      "path": [
+        "22"
+      ],
+      "label": "22"
+    },
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 5",
+      "path": [
+        "10"
+      ],
+      "label": "10"
+    }
+  ]
+}

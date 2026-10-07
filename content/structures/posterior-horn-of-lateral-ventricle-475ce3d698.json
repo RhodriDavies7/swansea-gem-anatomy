@@ -1,0 +1,149 @@
+{
+  "id": "posterior-horn-of-lateral-ventricle-475ce3d698",
+  "name": "Posterior horn of lateral ventricle",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Ventricles"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [
+    "Brain"
+  ],
+  "tags": [
+    "BS5_5",
+    "Brain",
+    "Contents",
+    "Identification",
+    "Location"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-bd60cc056a",
+      "question": "Identification",
+      "preferredVariantId": "v-475ce3d698",
+      "variants": [
+        {
+          "id": "v-475ce3d698",
+          "answer": "Posterior horn of lateral ventricle",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-101",
+              "sourceLine": 140
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-185",
+              "sourceLine": 271
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-266",
+              "sourceLine": 389
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-4e95f6a744",
+      "question": "Location",
+      "preferredVariantId": "v-25976955b3",
+      "variants": [
+        {
+          "id": "v-25976955b3",
+          "answer": "Extends posteriorly into the occipital lobe.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-45712b3870",
+              "sourceLine": 141
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-42059fc73b",
+              "sourceLine": 272
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-ffaecf5854",
+              "sourceLine": 390
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK532932/",
+            "https://www.ncbi.nlm.nih.gov/books/NBK538156/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    },
+    {
+      "id": "f-b79e00994b",
+      "question": "Contents",
+      "preferredVariantId": "v-8b8fd05d7d",
+      "variants": [
+        {
+          "id": "v-8b8fd05d7d",
+          "answer": "CSF; the posterior horn has no choroid plexus.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-5c67a6012d",
+              "sourceLine": 142
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-bd99ba5a5d",
+              "sourceLine": 273
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-493d30038b",
+              "sourceLine": 391
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK532932/",
+            "https://www.ncbi.nlm.nih.gov/books/NBK538156/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 3",
+      "path": [
+        "12"
+      ],
+      "label": "12"
+    },
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 5",
+      "path": [
+        "14"
+      ],
+      "label": "14"
+    },
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 6",
+      "path": [
+        "21"
+      ],
+      "label": "21"
+    }
+  ]
+}

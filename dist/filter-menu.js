@@ -15,7 +15,8 @@ export function enhanceFilters(root){
   trigger.addEventListener('click',()=>{if(!panel.hidden){close();return;}root.querySelectorAll('.filter-picker').forEach(p=>{p.querySelector('.filter-menu').hidden=true;p.querySelector('.filter-trigger').setAttribute('aria-expanded','false');});search.value='';render();panel.hidden=false;trigger.setAttribute('aria-expanded','true');search.focus();});
   search.addEventListener('input',render);
   host.addEventListener('keydown',event=>{if(event.key==='Escape'){close(true);event.preventDefault();}if(!panel.hidden&&['ArrowDown','ArrowUp','Home','End'].includes(event.key)){const buttons=[...list.children];if(!buttons.length)return;if(event.target===search&&!['ArrowDown','ArrowUp'].includes(event.key))return;event.preventDefault();const i=buttons.indexOf(document.activeElement);const n=event.key==='Home'?0:event.key==='End'?buttons.length-1:event.key==='ArrowDown'?(i+1)%buttons.length:(i-1+buttons.length)%buttons.length;buttons[n].focus();}});
-  host.addEventListener('focusout',event=>{if(!host.contains(event.relatedTarget))close();});
+  // Safari may blur search without focusing a clicked option: focusout closes too early.
+  host.addEventListener('keyup',event=>{if(event.key==='Tab'&&!host.contains(document.activeElement))close();});
   panel.append(search,list,empty);label.replaceWith(host);select.hidden=true;host.append(title,trigger,panel,select);update();select.refreshPicker=update;
  }
 }

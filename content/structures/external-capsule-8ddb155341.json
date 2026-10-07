@@ -1,0 +1,126 @@
+{
+  "id": "external-capsule-8ddb155341",
+  "name": "External capsule",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "White matter tracts"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [
+    "Brain"
+  ],
+  "tags": [
+    "BS5_5",
+    "Brain",
+    "Identification",
+    "Location",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-db6d753aa1",
+      "question": "Identification",
+      "preferredVariantId": "v-8ddb155341",
+      "variants": [
+        {
+          "id": "v-8ddb155341",
+          "answer": "External capsule",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-148",
+              "sourceLine": 215
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-191",
+              "sourceLine": 286
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-c7cf94c0e4",
+      "question": "Location",
+      "preferredVariantId": "v-cc63b8f19f",
+      "variants": [
+        {
+          "id": "v-cc63b8f19f",
+          "answer": "Thin white-matter layer between putamen medially and claustrum laterally.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-29e9a54de8",
+              "sourceLine": 216
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-c115cce713",
+              "sourceLine": 287
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/mesh/68066271",
+            "https://www.ncbi.nlm.nih.gov/books/NBK570606/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    },
+    {
+      "id": "f-b905972505",
+      "question": "Relations",
+      "preferredVariantId": "v-35f0995ae6",
+      "variants": [
+        {
+          "id": "v-35f0995ae6",
+          "answer": "From putamen outward: external capsule → claustrum → extreme capsule → insular cortex.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-4ba9d102a3",
+              "sourceLine": 217
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-3e06b7069d",
+              "sourceLine": 288
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/mesh/68066271",
+            "https://www.ncbi.nlm.nih.gov/books/NBK570606/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 4",
+      "path": [
+        "21"
+      ],
+      "label": "21"
+    },
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 5",
+      "path": [
+        "19"
+      ],
+      "label": "19"
+    }
+  ]
+}

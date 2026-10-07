@@ -1,0 +1,101 @@
+{
+  "id": "ocular-muscles-5aec810c08",
+  "name": "Ocular muscles",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Muscles"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [
+    "Eye"
+  ],
+  "tags": [
+    "Actions",
+    "BS5_5",
+    "Identification",
+    "Innervation",
+    "Muscle"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-e56385993c",
+      "question": "Identification",
+      "preferredVariantId": "v-5aec810c08",
+      "variants": [
+        {
+          "id": "v-5aec810c08",
+          "answer": "Ocular muscles",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-378",
+              "sourceLine": 521
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-0a2662a68d",
+      "question": "Innervation",
+      "preferredVariantId": "v-91f639f4b5",
+      "variants": [
+        {
+          "id": "v-91f639f4b5",
+          "answer": "Lateral rectus: CN VI. Superior oblique: CN IV. Remaining extraocular muscles: CN III (LR6, SO4, rest III).",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-9b92ccfa5c",
+              "sourceLine": 522
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK553189/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    },
+    {
+      "id": "f-f64afb1c20",
+      "question": "Actions",
+      "preferredVariantId": "v-4fb6a2c1dc",
+      "variants": [
+        {
+          "id": "v-4fb6a2c1dc",
+          "answer": "Lateral rectus abducts; medial rectus adducts. Recti and obliques together control elevation, depression and torsion.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-810ecbed6f",
+              "sourceLine": 523
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK553189/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 8",
+      "path": [
+        "4"
+      ],
+      "label": "4"
+    }
+  ]
+}

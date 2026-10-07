@@ -1,0 +1,126 @@
+{
+  "id": "cerebral-cortex-783678a5c9",
+  "name": "Cerebral cortex",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Brain structures"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [
+    "Brain"
+  ],
+  "tags": [
+    "BS5_5",
+    "Brain",
+    "Function",
+    "Identification",
+    "Structure"
+  ],
+  "imageIds": [
+    "img-c92ee97f6116"
+  ],
+  "facts": [
+    {
+      "id": "f-2e8e20783c",
+      "question": "Identification",
+      "preferredVariantId": "v-783678a5c9",
+      "variants": [
+        {
+          "id": "v-783678a5c9",
+          "answer": "Cerebral cortex",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-27",
+              "sourceLine": 29
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-63",
+              "sourceLine": 79
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-28d2dc3a98",
+      "question": "Structure",
+      "preferredVariantId": "v-5ecffeebc8",
+      "variants": [
+        {
+          "id": "v-5ecffeebc8",
+          "answer": "Outer grey-matter layer of the cerebral hemispheres, folded into gyri and sulci.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-60d7a4bb3b",
+              "sourceLine": 30
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-0c3992c1ac",
+              "sourceLine": 80
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK537247/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    },
+    {
+      "id": "f-758c2f91aa",
+      "question": "Function",
+      "preferredVariantId": "v-a483a139aa",
+      "variants": [
+        {
+          "id": "v-a483a139aa",
+          "answer": "Processes sensation, controls voluntary movement and supports language, memory and cognition.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-0cf8717950",
+              "sourceLine": 31
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-2610ec1c77",
+              "sourceLine": 81
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK537247/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 1",
+      "path": [
+        "8"
+      ],
+      "label": "8"
+    },
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 2",
+      "path": [
+        "8"
+      ],
+      "label": "8"
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "id": "branch-of-middle-meningeal-artery-97d45ee405",
+  "name": "Branch of middle meningeal artery",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Arteries"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Cardiovascular"
+  ],
+  "organs": [],
+  "tags": [
+    "Artery",
+    "BS5_5",
+    "Clinicalrelevance",
+    "Identification",
+    "Supply"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-3cf837b847",
+      "question": "Identification",
+      "preferredVariantId": "v-97d45ee405",
+      "variants": [
+        {
+          "id": "v-97d45ee405",
+          "answer": "Branch of middle meningeal artery",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-103",
+              "sourceLine": 146
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-141",
+              "sourceLine": 197
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-250",
+              "sourceLine": 367
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-b738fdc15d",
+      "question": "Supply",
+      "preferredVariantId": "v-58e5b0e433",
+      "variants": [
+        {
+          "id": "v-58e5b0e433",
+          "answer": "Supplies cranial dura; parent artery arises from the maxillary artery and enters through foramen spinosum.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-5e5ee555dd",
+              "sourceLine": 147
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-fa9c91db5c",
+              "sourceLine": 198
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-bbb717971d",
+              "sourceLine": 368
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK519545/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    },
+    {
+      "id": "f-eeea39d7f7",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-08ad2b98db",
+      "variants": [
+        {
+          "id": "v-08ad2b98db",
+          "answer": "Traumatic rupture can cause an extradural (epidural) haematoma.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-1ef1c50749",
+              "sourceLine": 148
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-6698b66542",
+              "sourceLine": 199
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-e309dd6bd2",
+              "sourceLine": 369
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK519545/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 3",
+      "path": [
+        "14"
+      ],
+      "label": "14"
+    },
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 4",
+      "path": [
+        "14"
+      ],
+      "label": "14"
+    },
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 6",
+      "path": [
+        "15"
+      ],
+      "label": "15"
+    }
+  ]
+}

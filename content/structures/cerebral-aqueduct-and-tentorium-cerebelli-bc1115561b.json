@@ -1,0 +1,103 @@
+{
+  "id": "cerebral-aqueduct-and-tentorium-cerebelli-bc1115561b",
+  "name": "Cerebral aqueduct and tentorium cerebelli",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Brain structures"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [
+    "Brain"
+  ],
+  "tags": [
+    "BS5_5",
+    "Brain",
+    "Clinicalrelevance",
+    "Function",
+    "Identification"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-c4a6cf4d4e",
+      "question": "Identification",
+      "preferredVariantId": "v-bc1115561b",
+      "variants": [
+        {
+          "id": "v-bc1115561b",
+          "answer": "Cerebral aqueduct and tentorium cerebelli",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-324",
+              "sourceLine": 455
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d46cf03876",
+      "question": "Function",
+      "preferredVariantId": "v-119221f155",
+      "variants": [
+        {
+          "id": "v-119221f155",
+          "answer": "Cerebral aqueduct: carries CSF from third to fourth ventricle. Tentorium: dural fold separating occipital lobes from cerebellum.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-1914b7eed4",
+              "sourceLine": 456
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK532932/",
+            "https://www.ncbi.nlm.nih.gov/books/NBK539882/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    },
+    {
+      "id": "f-0cf9ce5743",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-1e1216cbd0",
+      "variants": [
+        {
+          "id": "v-1e1216cbd0",
+          "answer": "Aqueduct obstruction causes non-communicating hydrocephalus; the midbrain passes through the tentorial notch.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-db4f651d5c",
+              "sourceLine": 457
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK532932/",
+            "https://www.ncbi.nlm.nih.gov/books/NBK539882/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 7",
+      "path": [
+        "12"
+      ],
+      "label": "12"
+    }
+  ]
+}

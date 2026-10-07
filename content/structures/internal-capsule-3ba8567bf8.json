@@ -1,0 +1,152 @@
+{
+  "id": "internal-capsule-3ba8567bf8",
+  "name": "Internal capsule",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "White matter tracts"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [
+    "Brain"
+  ],
+  "tags": [
+    "BS5_5",
+    "Brain",
+    "Contents",
+    "Identification",
+    "Lesion",
+    "Structure"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-f78f9e244f",
+      "question": "Identification",
+      "preferredVariantId": "v-3ba8567bf8",
+      "variants": [
+        {
+          "id": "v-3ba8567bf8",
+          "answer": "Internal capsule",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-144",
+              "sourceLine": 202
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-189",
+              "sourceLine": 279
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-5dd5f56346",
+      "question": "Structure",
+      "preferredVariantId": "v-6ba2eec119",
+      "variants": [
+        {
+          "id": "v-6ba2eec119",
+          "answer": "Projection fibres between cortex and subcortical structures; lies between caudate/thalamus medially and lentiform nucleus laterally.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-889e623ae4",
+              "sourceLine": 203
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-7ed4423a2a",
+              "sourceLine": 280
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK542181/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    },
+    {
+      "id": "f-e770e5cf13",
+      "question": "Contents",
+      "preferredVariantId": "v-e4729dc750",
+      "variants": [
+        {
+          "id": "v-e4729dc750",
+          "answer": "Genu: mainly corticobulbar fibres. Posterior limb: corticospinal and ascending somatosensory fibres.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-121f10ddac",
+              "sourceLine": 204
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-d2d572bdc4",
+              "sourceLine": 281
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK542181/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    },
+    {
+      "id": "f-a3472f1b7b",
+      "question": "Lesion",
+      "preferredVariantId": "v-6ccd12919b",
+      "variants": [
+        {
+          "id": "v-6ccd12919b",
+          "answer": "Small posterior-limb infarcts can cause dense contralateral weakness.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-1813e17d2e",
+              "sourceLine": 205
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-880e43f1df",
+              "sourceLine": 282
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK542181/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 4",
+      "path": [
+        "16"
+      ],
+      "label": "16"
+    },
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 5",
+      "path": [
+        "17"
+      ],
+      "label": "17"
+    }
+  ]
+}

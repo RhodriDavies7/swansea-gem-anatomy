@@ -17,6 +17,7 @@
   "tags": [
     "CNS",
     "Function",
+    "Identification",
     "Location",
     "MidSagittal",
     "NervousStructures"
@@ -41,6 +42,11 @@
               "modelId": "half-head-and-neck-model-bs9",
               "cardId": "half-head-and-neck-model-bs9-96",
               "sourceLine": 96
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-321",
+              "sourceLine": 452
             }
           ]
         }
@@ -59,6 +65,11 @@
               "modelId": "coronal-and-mid-sagittal-head-mb20",
               "cardId": "coronal-and-mid-sagittal-head-mb20-247",
               "sourceLine": 247
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-322",
+              "sourceLine": 453
             }
           ]
         },
@@ -97,6 +108,11 @@
               "modelId": "half-head-and-neck-model-bs9",
               "cardId": "half-head-and-neck-model-bs9-98",
               "sourceLine": 98
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-323",
+              "sourceLine": 454
             }
           ]
         }
@@ -119,6 +135,14 @@
         "C"
       ],
       "label": "C"
+    },
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 7",
+      "path": [
+        "11"
+      ],
+      "label": "11"
     }
   ]
 }

@@ -1,0 +1,123 @@
+{
+  "id": "middle-ear-90e0ed7217",
+  "name": "Middle ear",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Ear structures"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Sensory"
+  ],
+  "organs": [
+    "Ear"
+  ],
+  "tags": [
+    "BS5_5",
+    "Connections",
+    "Contents",
+    "Identification"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-ce710a1982",
+      "question": "Identification",
+      "preferredVariantId": "v-90e0ed7217",
+      "variants": [
+        {
+          "id": "v-90e0ed7217",
+          "answer": "Middle ear",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-494",
+              "sourceLine": 665
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-573",
+              "sourceLine": 776
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-798d292af9",
+      "question": "Contents",
+      "preferredVariantId": "v-3c9b0e72fd",
+      "variants": [
+        {
+          "id": "v-3c9b0e72fd",
+          "answer": "Air-filled tympanic cavity containing malleus, incus, stapes, tensor tympani and stapedius.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-1e0452f824",
+              "sourceLine": 666
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-d210692390",
+              "sourceLine": 777
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK482338/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    },
+    {
+      "id": "f-d650a8d81a",
+      "question": "Connections",
+      "preferredVariantId": "v-0d66aa6686",
+      "variants": [
+        {
+          "id": "v-0d66aa6686",
+          "answer": "Pharyngotympanic tube connects to nasopharynx; posteriorly communicates with mastoid antrum and air cells.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-18d7cb104e",
+              "sourceLine": 667
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-c04ded4d45",
+              "sourceLine": 778
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK482338/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 9",
+      "path": [
+        "20"
+      ],
+      "label": "20"
+    },
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 10",
+      "path": [
+        "22"
+      ],
+      "label": "22"
+    }
+  ]
+}

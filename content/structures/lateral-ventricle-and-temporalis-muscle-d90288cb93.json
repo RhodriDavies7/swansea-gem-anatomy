@@ -1,0 +1,104 @@
+{
+  "id": "lateral-ventricle-and-temporalis-muscle-d90288cb93",
+  "name": "Lateral ventricle and temporalis muscle",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Anatomical structures"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Nervous",
+    "Musculoskeletal"
+  ],
+  "organs": [
+    "Brain"
+  ],
+  "tags": [
+    "BS5_5",
+    "Brain",
+    "Function",
+    "Identification",
+    "Innervation"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-9acfaa2647",
+      "question": "Identification",
+      "preferredVariantId": "v-d90288cb93",
+      "variants": [
+        {
+          "id": "v-d90288cb93",
+          "answer": "Lateral ventricle and temporalis muscle",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-139",
+              "sourceLine": 191
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-12ff4f4b44",
+      "question": "Function",
+      "preferredVariantId": "v-a97bce611c",
+      "variants": [
+        {
+          "id": "v-a97bce611c",
+          "answer": "Lateral ventricle: contains CSF. Temporalis: elevates the mandible; posterior fibres retract it.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-0414bb9e10",
+              "sourceLine": 192
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK532932/",
+            "https://www.ncbi.nlm.nih.gov/books/NBK541027/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    },
+    {
+      "id": "f-175c29f038",
+      "question": "Innervation",
+      "preferredVariantId": "v-db30596510",
+      "variants": [
+        {
+          "id": "v-db30596510",
+          "answer": "Temporalis is supplied by deep temporal nerves from the mandibular division of the trigeminal nerve (V3).",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-23dfe4f2b6",
+              "sourceLine": 193
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK532932/",
+            "https://www.ncbi.nlm.nih.gov/books/NBK541027/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 4",
+      "path": [
+        "11"
+      ],
+      "label": "11"
+    }
+  ]
+}

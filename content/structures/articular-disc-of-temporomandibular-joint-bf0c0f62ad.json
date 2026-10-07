@@ -1,0 +1,98 @@
+{
+  "id": "articular-disc-of-temporomandibular-joint-bf0c0f62ad",
+  "name": "Articular disc of temporomandibular joint",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Joint structures"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "BS5_5",
+    "Function",
+    "Identification",
+    "Structure"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-e9f4ce7f41",
+      "question": "Identification",
+      "preferredVariantId": "v-bf0c0f62ad",
+      "variants": [
+        {
+          "id": "v-bf0c0f62ad",
+          "answer": "Articular disc of temporomandibular joint",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-523",
+              "sourceLine": 718
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-b766e322a0",
+      "question": "Structure",
+      "preferredVariantId": "v-649ac253f8",
+      "variants": [
+        {
+          "id": "v-649ac253f8",
+          "answer": "Fibrocartilaginous disc dividing the TMJ into upper and lower synovial compartments.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-7010dcaedc",
+              "sourceLine": 719
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK538486/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    },
+    {
+      "id": "f-29d3a7ba04",
+      "question": "Function",
+      "preferredVariantId": "v-ea7c7dae9a",
+      "variants": [
+        {
+          "id": "v-ea7c7dae9a",
+          "answer": "Lower compartment mainly permits rotation; upper mainly permits translation during opening/protrusion.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-6521cf22ac",
+              "sourceLine": 720
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK538486/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 10",
+      "path": [
+        "9"
+      ],
+      "label": "9"
+    }
+  ]
+}

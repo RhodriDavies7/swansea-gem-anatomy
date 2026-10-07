@@ -1,0 +1,103 @@
+{
+  "id": "lateral-ventricle-and-choroid-plexus-000bced862",
+  "name": "Lateral ventricle and choroid plexus",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Ventricles"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [
+    "Brain"
+  ],
+  "tags": [
+    "BS5_5",
+    "Brain",
+    "Drainage",
+    "Function",
+    "Identification"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-e53906a627",
+      "question": "Identification",
+      "preferredVariantId": "v-000bced862",
+      "variants": [
+        {
+          "id": "v-000bced862",
+          "answer": "Lateral ventricle and choroid plexus",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-100",
+              "sourceLine": 137
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-1dd0f64cdf",
+      "question": "Function",
+      "preferredVariantId": "v-81572968df",
+      "variants": [
+        {
+          "id": "v-81572968df",
+          "answer": "Choroid plexus produces CSF within the ventricular system.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-b419fa9acb",
+              "sourceLine": 138
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK538156/",
+            "https://www.ncbi.nlm.nih.gov/books/NBK532932/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    },
+    {
+      "id": "f-96289072e5",
+      "question": "Drainage",
+      "preferredVariantId": "v-72fdf3bf4e",
+      "variants": [
+        {
+          "id": "v-72fdf3bf4e",
+          "answer": "Lateral ventricle → interventricular foramen (Monro) → third ventricle.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-ea944f3200",
+              "sourceLine": 139
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK538156/",
+            "https://www.ncbi.nlm.nih.gov/books/NBK532932/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 3",
+      "path": [
+        "11"
+      ],
+      "label": "11"
+    }
+  ]
+}

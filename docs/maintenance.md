@@ -229,3 +229,23 @@ Roman numerals are preserved separately for bones and cranial nerves. Lettered s
 `content/study-levels.json` holds editable difficulty (`Easy`, `Medium`, `Hard`) and direct outcome references for each structure. These are structure-level editorial suggestions, not measured question difficulty or official exam tiers. Initial defaults use Easy for major organs/lobes, Hard for fine landmarks and bronchopulmonary segments, and Medium otherwise. Review individual entries to refine this baseline. New structures default to Medium until assigned.
 
 Year membership comes only from explicit learning-outcome links and may include both years. Unmapped structures remain available under All and Year not mapped; absence of a link does not mean material is outside the syllabus. Keep outcome references aligned with `content/learning-outcomes.json`. Rebuild after edits. Generated study tags appear in model revision's Advanced options; library and spotter offer separate year/difficulty dropdowns. Original source tags are preserved. Image answer reveals scroll into view, respecting reduced-motion preferences.
+
+
+## Sectioned models: BS5/5
+
+Head sections is one model with eleven sections, numbered by the original PDF page order. Use the Model section selector in model revision, or select this model and a section in the library or local image manager. Label numbers are local to a section; a label alone is not a unique model occurrence.
+
+The audited source registry is `content/bs5-5-source-labels.json`. It records all 238 printed entries, their section/page, and their canonical structure IDs. There are 233 identification cards, 389 cards drawn from existing shared facts, and 233 occurrence cards linked to 135 newly authored shared facts. The generated text guide includes those shared facts for source-fidelity checks; the original PDF is a private source document and must not be copied into `dist/`.
+
+Five inconsistent English/Latin source entries are withheld pending review: Section 1 label 10, Section 2 label 10, Section 4 labels 12 and 19, and Section 8 label 8. The conflicts are recorded in the model data for editorial review. Combined labels remain combined structures rather than being assigned arbitrarily to one constituent.
+
+Future sectioned models should define `sections` in both the model and manifest, and give every card and structure occurrence its section name. Reuse canonical structure IDs across sections/models; keep distinct card IDs and occurrences. The current image registry associates photos with a model and structure, not an individual section. Section filtering in image management helps locate the target structure; the model overview photograph is not automatically a spotter image.
+
+
+The 63 new BS5/5 structures now have concise editorial knowledge facts. `content/bs5-5-high-yield.json` records the authored text and reference URLs; the preferred variants in canonical structure files carry those references and authorship. These are additions to the identification key, not claims that the PDF supplied the knowledge answers. Cards remain grouped by section and label; shared records remain the source of truth. Edit a canonical preferred answer to update all linked revision cards, then rebuild. The generated text guide is a snapshot for fidelity checks and should be refreshed if these authored cards change.
+
+
+Model display names use slashes in codes (for example BS5/5 and AS23/1). IDs, tags and existing source filenames retain their stable conventions. `sourceGuideFile` identifies an original guide when its filename differs from the display name. The sectioned head model is displayed as Anatomical Sectional Model of the Head (Model BS5/5).
+
+
+BS5/5 has no printed model labels and sets `revisionMode: "images"` in the model and manifest. Model revision requires a quiz-ready image assigned to this exact model and structure; entries without one cannot enter a run. Cards show the photo/marker rather than a number, and repeated section occurrences of the same fact appear once. The stored label numbers refer to the source key for organising entries, not labels on the physical model. Shared knowledge remains available in the anatomy library. Images can be added through local management as usual.

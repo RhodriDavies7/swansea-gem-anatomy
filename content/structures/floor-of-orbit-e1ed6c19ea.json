@@ -1,0 +1,147 @@
+{
+  "id": "floor-of-orbit-e1ed6c19ea",
+  "name": "Floor of orbit",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Bones"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [
+    "Eye"
+  ],
+  "tags": [
+    "BS5_5",
+    "Bone",
+    "Clinicalrelevance",
+    "Identification",
+    "Structure"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-2d3e6ecab4",
+      "question": "Identification",
+      "preferredVariantId": "v-e1ed6c19ea",
+      "variants": [
+        {
+          "id": "v-e1ed6c19ea",
+          "answer": "Floor of orbit",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-401",
+              "sourceLine": 554
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-431",
+              "sourceLine": 594
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-508",
+              "sourceLine": 691
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-7c69533942",
+      "question": "Structure",
+      "preferredVariantId": "v-4bc09f3a56",
+      "variants": [
+        {
+          "id": "v-4bc09f3a56",
+          "answer": "Mainly maxilla, with zygomatic and a small palatine contribution; lies above the maxillary sinus.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-631691f094",
+              "sourceLine": 555
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-505aee6bb8",
+              "sourceLine": 595
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-a273c1c51d",
+              "sourceLine": 692
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK531490/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    },
+    {
+      "id": "f-be7b3e4585",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-c79488f6fc",
+      "variants": [
+        {
+          "id": "v-c79488f6fc",
+          "answer": "Blowout fracture may trap orbital tissue/inferior rectus, causing diplopia; infraorbital nerve injury can numb the cheek and upper lip.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-a6ac714eb6",
+              "sourceLine": 556
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-51178f5970",
+              "sourceLine": 596
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-2855e7fcab",
+              "sourceLine": 693
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK531490/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 8",
+      "path": [
+        "15"
+      ],
+      "label": "15"
+    },
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 9",
+      "path": [
+        "3"
+      ],
+      "label": "3"
+    },
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 10",
+      "path": [
+        "3"
+      ],
+      "label": "3"
+    }
+  ]
+}

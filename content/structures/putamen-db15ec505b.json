@@ -1,0 +1,124 @@
+{
+  "id": "putamen-db15ec505b",
+  "name": "Putamen",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Basal ganglia"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [
+    "Brain"
+  ],
+  "tags": [
+    "BS5_5",
+    "Brain",
+    "Function",
+    "Identification",
+    "Structure"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-4d2a61f94e",
+      "question": "Identification",
+      "preferredVariantId": "v-db15ec505b",
+      "variants": [
+        {
+          "id": "v-db15ec505b",
+          "answer": "Putamen",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-146",
+              "sourceLine": 209
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-180",
+              "sourceLine": 262
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d50d522b9f",
+      "question": "Structure",
+      "preferredVariantId": "v-7a0dbb3577",
+      "variants": [
+        {
+          "id": "v-7a0dbb3577",
+          "answer": "Part of the striatum with the caudate; forms the lentiform nucleus with globus pallidus.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-704ef4a0b9",
+              "sourceLine": 210
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-c72c5c38c6",
+              "sourceLine": 263
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK557755/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    },
+    {
+      "id": "f-9f47ed5a34",
+      "question": "Function",
+      "preferredVariantId": "v-d31c9a265a",
+      "variants": [
+        {
+          "id": "v-d31c9a265a",
+          "answer": "Participates in basal ganglia circuits that select and regulate movement.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-c8514c06cc",
+              "sourceLine": 211
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-cc59f57cee",
+              "sourceLine": 264
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK557755/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 4",
+      "path": [
+        "18"
+      ],
+      "label": "18"
+    },
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 5",
+      "path": [
+        "11"
+      ],
+      "label": "11"
+    }
+  ]
+}

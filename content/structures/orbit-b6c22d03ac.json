@@ -1,0 +1,100 @@
+{
+  "id": "orbit-b6c22d03ac",
+  "name": "Orbit",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Anatomical spaces"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [
+    "Eye"
+  ],
+  "tags": [
+    "BS5_5",
+    "Contents",
+    "Identification",
+    "Structure"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-f902b7c126",
+      "question": "Identification",
+      "preferredVariantId": "v-b6c22d03ac",
+      "variants": [
+        {
+          "id": "v-b6c22d03ac",
+          "answer": "Orbit",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-217",
+              "sourceLine": 320
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f0b8fe52ca",
+      "question": "Contents",
+      "preferredVariantId": "v-16c740bd40",
+      "variants": [
+        {
+          "id": "v-16c740bd40",
+          "answer": "Eyeball, extraocular muscles, optic nerve, vessels, nerves, orbital fat and lacrimal gland.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-4115cde039",
+              "sourceLine": 321
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK531490/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    },
+    {
+      "id": "f-1e1e0577b9",
+      "question": "Structure",
+      "preferredVariantId": "v-ccc5a10b3a",
+      "variants": [
+        {
+          "id": "v-ccc5a10b3a",
+          "answer": "Seven bones: frontal, sphenoid, zygomatic, maxilla, palatine, lacrimal and ethmoid.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-0bbb9662a9",
+              "sourceLine": 322
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK531490/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 6",
+      "path": [
+        "3"
+      ],
+      "label": "3"
+    }
+  ]
+}

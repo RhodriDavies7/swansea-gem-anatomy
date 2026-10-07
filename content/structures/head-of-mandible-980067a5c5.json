@@ -1,0 +1,99 @@
+{
+  "id": "head-of-mandible-980067a5c5",
+  "name": "Head of mandible",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Bones"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Articulations",
+    "BS5_5",
+    "Bone",
+    "Function",
+    "Identification"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-d1f581a8ed",
+      "question": "Identification",
+      "preferredVariantId": "v-980067a5c5",
+      "variants": [
+        {
+          "id": "v-980067a5c5",
+          "answer": "Head of mandible",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-524",
+              "sourceLine": 721
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6d277fbbf7",
+      "question": "Articulations",
+      "preferredVariantId": "v-77fb97cc4d",
+      "variants": [
+        {
+          "id": "v-77fb97cc4d",
+          "answer": "Articulates with the temporal mandibular fossa/articular eminence through the TMJ disc.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-235b34da82",
+              "sourceLine": 722
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK538486/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    },
+    {
+      "id": "f-8ef90ff8ea",
+      "question": "Function",
+      "preferredVariantId": "v-eb5fd607d8",
+      "variants": [
+        {
+          "id": "v-eb5fd607d8",
+          "answer": "Condyle participates in rotation and translation during jaw movement.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-2c3cd920d1",
+              "sourceLine": 723
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK538486/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 10",
+      "path": [
+        "10"
+      ],
+      "label": "10"
+    }
+  ]
+}

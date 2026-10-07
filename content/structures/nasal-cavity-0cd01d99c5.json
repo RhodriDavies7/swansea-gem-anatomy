@@ -1,0 +1,167 @@
+{
+  "id": "nasal-cavity-0cd01d99c5",
+  "name": "Nasal cavity",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Anatomical spaces"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Respiratory"
+  ],
+  "organs": [],
+  "tags": [
+    "BS5_5",
+    "Function",
+    "Identification",
+    "Innervation"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-f51edaf145",
+      "question": "Identification",
+      "preferredVariantId": "v-0cd01d99c5",
+      "variants": [
+        {
+          "id": "v-0cd01d99c5",
+          "answer": "Nasal cavity",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-367",
+              "sourceLine": 508
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-430",
+              "sourceLine": 591
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-507",
+              "sourceLine": 688
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-594",
+              "sourceLine": 801
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-70d7ac2580",
+      "question": "Function",
+      "preferredVariantId": "v-b91b73f6b4",
+      "variants": [
+        {
+          "id": "v-b91b73f6b4",
+          "answer": "Filters, warms and humidifies inspired air; olfactory mucosa supports smell.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-4c68633594",
+              "sourceLine": 509
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-f9aeb69566",
+              "sourceLine": 592
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-5355fc60f9",
+              "sourceLine": 689
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-8534abeb7c",
+              "sourceLine": 802
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK544232/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    },
+    {
+      "id": "f-b72f721bc2",
+      "question": "Innervation",
+      "preferredVariantId": "v-03a55150eb",
+      "variants": [
+        {
+          "id": "v-03a55150eb",
+          "answer": "Olfaction: CN I. General sensation: mainly trigeminal divisions V1 and V2.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-363a8eff41",
+              "sourceLine": 510
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-b3206bf12d",
+              "sourceLine": 593
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-f6bac4f1b6",
+              "sourceLine": 690
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-61204be520",
+              "sourceLine": 803
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK544232/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 8",
+      "path": [
+        "1"
+      ],
+      "label": "1"
+    },
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 9",
+      "path": [
+        "2"
+      ],
+      "label": "2"
+    },
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 10",
+      "path": [
+        "2"
+      ],
+      "label": "2"
+    },
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 11",
+      "path": [
+        "2"
+      ],
+      "label": "2"
+    }
+  ]
+}

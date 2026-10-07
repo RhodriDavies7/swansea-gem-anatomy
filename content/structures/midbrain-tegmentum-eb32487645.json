@@ -1,0 +1,101 @@
+{
+  "id": "midbrain-tegmentum-eb32487645",
+  "name": "Midbrain tegmentum",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Brain structures"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [
+    "Brain"
+  ],
+  "tags": [
+    "BS5_5",
+    "Brain",
+    "Contents",
+    "Identification",
+    "Location"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-6c459255d4",
+      "question": "Identification",
+      "preferredVariantId": "v-eb32487645",
+      "variants": [
+        {
+          "id": "v-eb32487645",
+          "answer": "Midbrain tegmentum",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-265",
+              "sourceLine": 386
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6110f5c09c",
+      "question": "Location",
+      "preferredVariantId": "v-d0e1fe6d52",
+      "variants": [
+        {
+          "id": "v-d0e1fe6d52",
+          "answer": "Between the substantia nigra and the region of the cerebral aqueduct.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-63fd4600ea",
+              "sourceLine": 387
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK551509/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    },
+    {
+      "id": "f-609bf98f26",
+      "question": "Contents",
+      "preferredVariantId": "v-00c57c426e",
+      "variants": [
+        {
+          "id": "v-00c57c426e",
+          "answer": "Red nucleus, reticular formation, cranial nerve nuclei and ascending tracts; supports motor, sensory and arousal functions.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-a11bb9c482",
+              "sourceLine": 388
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK551509/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 6",
+      "path": [
+        "20"
+      ],
+      "label": "20"
+    }
+  ]
+}

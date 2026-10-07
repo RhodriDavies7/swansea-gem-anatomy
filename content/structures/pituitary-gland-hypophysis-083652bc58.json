@@ -64,6 +64,11 @@
             {
               "modelId": "male-torso-with-head-model-as23-1",
               "cardId": "male-torso-with-head-model-as23-1-197"
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-232",
+              "sourceLine": 343
             }
           ]
         },
@@ -97,6 +102,11 @@
               "modelId": "coronal-and-mid-sagittal-head-mb20",
               "cardId": "coronal-and-mid-sagittal-head-mb20-303",
               "sourceLine": 303
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-233",
+              "sourceLine": 344
             }
           ]
         },
@@ -173,6 +183,11 @@
               "modelId": "cranial-floor-model-bs1",
               "cardId": "cranial-floor-model-bs1-278",
               "sourceLine": 278
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-234",
+              "sourceLine": 345
             }
           ]
         },
@@ -232,6 +247,11 @@
               "modelId": "cranial-floor-model-bs1",
               "cardId": "cranial-floor-model-bs1-279",
               "sourceLine": 279
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-235",
+              "sourceLine": 346
             }
           ]
         },
@@ -276,6 +296,11 @@
               "modelId": "cranial-floor-model-bs1",
               "cardId": "cranial-floor-model-bs1-277",
               "sourceLine": 277
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-236",
+              "sourceLine": 347
             }
           ]
         },
@@ -348,6 +373,14 @@
         "29"
       ],
       "label": "29"
+    },
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 6",
+      "path": [
+        "9"
+      ],
+      "label": "9"
     }
   ],
   "redirectIds": [

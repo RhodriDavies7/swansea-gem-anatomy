@@ -1,0 +1,100 @@
+{
+  "id": "optic-canal-9f295294a3",
+  "name": "Optic canal",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Foramina"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [
+    "Eye"
+  ],
+  "tags": [
+    "BS5_5",
+    "Contents",
+    "Identification",
+    "Location"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-874fea15f5",
+      "question": "Identification",
+      "preferredVariantId": "v-9f295294a3",
+      "variants": [
+        {
+          "id": "v-9f295294a3",
+          "answer": "Optic canal",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-425",
+              "sourceLine": 584
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-7b096e4788",
+      "question": "Location",
+      "preferredVariantId": "v-45926c2463",
+      "variants": [
+        {
+          "id": "v-45926c2463",
+          "answer": "In the sphenoid at the orbital apex.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-87dbffba6a",
+              "sourceLine": 585
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK531490/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    },
+    {
+      "id": "f-81ee86e1cf",
+      "question": "Contents",
+      "preferredVariantId": "v-e032a3b389",
+      "variants": [
+        {
+          "id": "v-e032a3b389",
+          "answer": "Optic nerve (CN II) and ophthalmic artery, with accompanying sympathetic fibres.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-a329c903b3",
+              "sourceLine": 586
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK531490/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 8",
+      "path": [
+        "23"
+      ],
+      "label": "23"
+    }
+  ]
+}

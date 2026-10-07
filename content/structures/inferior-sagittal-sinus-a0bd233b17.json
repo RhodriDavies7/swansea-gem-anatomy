@@ -1,0 +1,124 @@
+{
+  "id": "inferior-sagittal-sinus-a0bd233b17",
+  "name": "Inferior sagittal sinus",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Venous sinuses"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Cardiovascular"
+  ],
+  "organs": [
+    "Brain"
+  ],
+  "tags": [
+    "BS5_5",
+    "Brain",
+    "Drainage",
+    "Identification",
+    "Location"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-842cd6484b",
+      "question": "Identification",
+      "preferredVariantId": "v-a0bd233b17",
+      "variants": [
+        {
+          "id": "v-a0bd233b17",
+          "answer": "Inferior sagittal sinus",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-102",
+              "sourceLine": 143
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-140",
+              "sourceLine": 194
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-3357f9f50d",
+      "question": "Location",
+      "preferredVariantId": "v-c4c5c50b84",
+      "variants": [
+        {
+          "id": "v-c4c5c50b84",
+          "answer": "Free inferior border of the falx cerebri.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-6bcd643072",
+              "sourceLine": 144
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-0e1c06796e",
+              "sourceLine": 195
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK482257/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    },
+    {
+      "id": "f-ae9c34f82b",
+      "question": "Drainage",
+      "preferredVariantId": "v-291b834b20",
+      "variants": [
+        {
+          "id": "v-291b834b20",
+          "answer": "Joins the great cerebral vein to form the straight sinus.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-0412b4bba0",
+              "sourceLine": 145
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-ab26cf10d6",
+              "sourceLine": 196
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK482257/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 3",
+      "path": [
+        "13"
+      ],
+      "label": "13"
+    },
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 4",
+      "path": [
+        "13"
+      ],
+      "label": "13"
+    }
+  ]
+}

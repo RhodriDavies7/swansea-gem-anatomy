@@ -1,0 +1,172 @@
+{
+  "id": "cerebellar-hemisphere-a6ed0a8d02",
+  "name": "Cerebellar hemisphere",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Brain structures"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [
+    "Brain"
+  ],
+  "tags": [
+    "BS5_5",
+    "Brain",
+    "Function",
+    "Identification",
+    "Lesion"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-71b467a6ac",
+      "question": "Identification",
+      "preferredVariantId": "v-a6ed0a8d02",
+      "variants": [
+        {
+          "id": "v-a6ed0a8d02",
+          "answer": "Cerebellar hemisphere",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-360",
+              "sourceLine": 497
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-396",
+              "sourceLine": 547
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-498",
+              "sourceLine": 677
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-548",
+              "sourceLine": 749
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-6937ee4912",
+      "question": "Function",
+      "preferredVariantId": "v-7adaebceda",
+      "variants": [
+        {
+          "id": "v-7adaebceda",
+          "answer": "Coordinates limb movements; lateral regions contribute to motor planning.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-f599230f03",
+              "sourceLine": 498
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-c2047f88ef",
+              "sourceLine": 548
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-b8b07719ef",
+              "sourceLine": 678
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-1abf9d0b17",
+              "sourceLine": 750
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK538167/",
+            "https://www.ncbi.nlm.nih.gov/books/NBK392/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    },
+    {
+      "id": "f-b0d81b41c9",
+      "question": "Lesion",
+      "preferredVariantId": "v-4d26b9f64b",
+      "variants": [
+        {
+          "id": "v-4d26b9f64b",
+          "answer": "Typically ipsilateral limb ataxia, dysmetria and intention tremor.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-4e427daf0f",
+              "sourceLine": 499
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-cd7f1cc74b",
+              "sourceLine": 549
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-b778e8af30",
+              "sourceLine": 679
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-892828c7ae",
+              "sourceLine": 751
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK538167/",
+            "https://www.ncbi.nlm.nih.gov/books/NBK392/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 7",
+      "path": [
+        "22"
+      ],
+      "label": "22"
+    },
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 8",
+      "path": [
+        "13"
+      ],
+      "label": "13"
+    },
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 9",
+      "path": [
+        "24"
+      ],
+      "label": "24"
+    },
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 10",
+      "path": [
+        "16"
+      ],
+      "label": "16"
+    }
+  ]
+}

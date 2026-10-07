@@ -50,6 +50,11 @@
             {
               "modelId": "male-torso-with-head-model-as23-1",
               "cardId": "male-torso-with-head-model-as23-1-111"
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-96",
+              "sourceLine": 133
             }
           ]
         }
@@ -73,6 +78,11 @@
               "modelId": "half-head-and-neck-model-bs9",
               "cardId": "half-head-and-neck-model-bs9-150",
               "sourceLine": 150
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-97",
+              "sourceLine": 134
             }
           ]
         }
@@ -91,6 +101,11 @@
               "modelId": "coronal-and-mid-sagittal-head-mb20",
               "cardId": "coronal-and-mid-sagittal-head-mb20-292",
               "sourceLine": 292
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-98",
+              "sourceLine": 135
             }
           ]
         },
@@ -123,6 +138,11 @@
             {
               "modelId": "male-torso-with-head-model-as23-1",
               "cardId": "male-torso-with-head-model-as23-1-112"
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-99",
+              "sourceLine": 136
             }
           ]
         }
@@ -153,6 +173,14 @@
         "9"
       ],
       "label": "9"
+    },
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 3",
+      "path": [
+        "10"
+      ],
+      "label": "10"
     }
   ]
 }

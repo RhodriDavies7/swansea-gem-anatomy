@@ -1,0 +1,101 @@
+{
+  "id": "neck-of-mandible-a9addc8617",
+  "name": "Neck of mandible",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Bones"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Attachments",
+    "BS5_5",
+    "Bone",
+    "Identification",
+    "Location"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-20b416eae2",
+      "question": "Identification",
+      "preferredVariantId": "v-a9addc8617",
+      "variants": [
+        {
+          "id": "v-a9addc8617",
+          "answer": "Neck of mandible",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-610",
+              "sourceLine": 831
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d0b565c0e0",
+      "question": "Location",
+      "preferredVariantId": "v-addc36ccf1",
+      "variants": [
+        {
+          "id": "v-addc36ccf1",
+          "answer": "Narrow segment below the mandibular head.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-89e2762253",
+              "sourceLine": 832
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK538486/",
+            "https://www.ncbi.nlm.nih.gov/books/NBK549799/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    },
+    {
+      "id": "f-a0e8781361",
+      "question": "Attachments",
+      "preferredVariantId": "v-5e5743c54a",
+      "variants": [
+        {
+          "id": "v-5e5743c54a",
+          "answer": "Pterygoid fovea on its anterior surface receives lateral pterygoid insertion.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-fd292053e0",
+              "sourceLine": 833
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK538486/",
+            "https://www.ncbi.nlm.nih.gov/books/NBK549799/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 11",
+      "path": [
+        "9"
+      ],
+      "label": "9"
+    }
+  ]
+}

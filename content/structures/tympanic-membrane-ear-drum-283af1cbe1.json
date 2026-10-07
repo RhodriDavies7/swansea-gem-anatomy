@@ -1,7 +1,9 @@
 {
   "id": "tympanic-membrane-ear-drum-283af1cbe1",
   "name": "Tympanic membrane (ear drum)",
-  "aliases": [],
+  "aliases": [
+    "Tympanic membrane"
+  ],
   "scope": "",
   "kind": "structure",
   "types": [
@@ -16,8 +18,10 @@
   ],
   "tags": [
     "Clinical",
+    "Clinicalrelevance",
     "ExternalEar",
     "Function",
+    "Identification",
     "Innervation",
     "Membrane",
     "MiddleEar",
@@ -51,6 +55,17 @@
               "sourceLine": 3
             }
           ]
+        },
+        {
+          "id": "v-d51f081c6f",
+          "answer": "Tympanic membrane",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-532",
+              "sourceLine": 731
+            }
+          ]
         }
       ]
     },
@@ -72,6 +87,11 @@
               "modelId": "ear-model-ds3",
               "cardId": "ear-model-ds3-11",
               "sourceLine": 11
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-533",
+              "sourceLine": 732
             }
           ]
         },
@@ -110,6 +130,11 @@
               "modelId": "ear-model-ds3",
               "cardId": "ear-model-ds3-12",
               "sourceLine": 12
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-534",
+              "sourceLine": 733
             }
           ]
         },
@@ -148,6 +173,11 @@
               "modelId": "ear-model-ds3",
               "cardId": "ear-model-ds3-13",
               "sourceLine": 13
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-535",
+              "sourceLine": 734
             }
           ]
         }
@@ -166,6 +196,11 @@
               "modelId": "inner-ear-model-ds17",
               "cardId": "inner-ear-model-ds17-6",
               "sourceLine": 6
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-536",
+              "sourceLine": 735
             }
           ]
         }
@@ -184,6 +219,11 @@
               "modelId": "inner-ear-model-ds17",
               "cardId": "inner-ear-model-ds17-7",
               "sourceLine": 7
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-537",
+              "sourceLine": 736
             }
           ]
         }
@@ -214,6 +254,14 @@
         "1"
       ],
       "label": "1"
+    },
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 10",
+      "path": [
+        "12"
+      ],
+      "label": "12"
     }
   ]
 }

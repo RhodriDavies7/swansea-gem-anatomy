@@ -1,0 +1,105 @@
+{
+  "id": "corpus-callosum-and-head-of-caudate-nucleus-1a878bcb7f",
+  "name": "Corpus callosum and head of caudate nucleus",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Brain structures"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [
+    "Brain"
+  ],
+  "tags": [
+    "BS5_5",
+    "Brain",
+    "Function",
+    "Identification",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-31ebd31431",
+      "question": "Identification",
+      "preferredVariantId": "v-1a878bcb7f",
+      "variants": [
+        {
+          "id": "v-1a878bcb7f",
+          "answer": "Corpus callosum and head of caudate nucleus",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-91",
+              "sourceLine": 124
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-2491d932d6",
+      "question": "Function",
+      "preferredVariantId": "v-60cf2b1aca",
+      "variants": [
+        {
+          "id": "v-60cf2b1aca",
+          "answer": "Corpus callosum: connects the cerebral hemispheres. Caudate head: participates in basal ganglia motor and cognitive circuits.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-db2d2922f6",
+              "sourceLine": 125
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK537247/",
+            "https://www.ncbi.nlm.nih.gov/books/NBK557755/",
+            "https://www.ncbi.nlm.nih.gov/books/NBK532932/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    },
+    {
+      "id": "f-c4a67bbb76",
+      "question": "Relations",
+      "preferredVariantId": "v-6a53879456",
+      "variants": [
+        {
+          "id": "v-6a53879456",
+          "answer": "The caudate head bulges into the anterior horn of the lateral ventricle; the corpus callosum lies above the ventricle.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-5f4112e0cb",
+              "sourceLine": 126
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK537247/",
+            "https://www.ncbi.nlm.nih.gov/books/NBK557755/",
+            "https://www.ncbi.nlm.nih.gov/books/NBK532932/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 3",
+      "path": [
+        "7"
+      ],
+      "label": "7"
+    }
+  ]
+}

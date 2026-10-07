@@ -18,10 +18,13 @@
   "organs": [],
   "tags": [
     "Course",
+    "Identification",
     "Lesion",
     "Motor",
+    "Motorfunctions",
     "Nerve",
-    "Sensory"
+    "Sensory",
+    "Sensoryfunctions"
   ],
   "imageIds": [
     "img-79b295f7b863"
@@ -40,6 +43,11 @@
               "modelId": "cranial-floor-model-bs1",
               "cardId": "cranial-floor-model-bs1-193",
               "sourceLine": 193
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-475",
+              "sourceLine": 646
             }
           ]
         },
@@ -73,6 +81,11 @@
               "modelId": "cranial-floor-model-bs1",
               "cardId": "cranial-floor-model-bs1-194",
               "sourceLine": 194
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-476",
+              "sourceLine": 647
             }
           ]
         },
@@ -106,6 +119,11 @@
               "modelId": "cranial-floor-model-bs1",
               "cardId": "cranial-floor-model-bs1-195",
               "sourceLine": 195
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-477",
+              "sourceLine": 648
             }
           ]
         },
@@ -144,6 +162,11 @@
               "modelId": "deep-face-model-bs8-1",
               "cardId": "deep-face-model-bs8-1-173",
               "sourceLine": 173
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-478",
+              "sourceLine": 649
             }
           ]
         }
@@ -167,6 +190,11 @@
               "modelId": "deep-face-model-bs8-1",
               "cardId": "deep-face-model-bs8-1-174",
               "sourceLine": 174
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-479",
+              "sourceLine": 650
             }
           ]
         }
@@ -189,6 +217,14 @@
         "27"
       ],
       "label": "27"
+    },
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 9",
+      "path": [
+        "16"
+      ],
+      "label": "16"
     }
   ],
   "redirectIds": [

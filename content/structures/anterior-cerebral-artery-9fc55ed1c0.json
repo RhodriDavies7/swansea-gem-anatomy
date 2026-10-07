@@ -1,0 +1,212 @@
+{
+  "id": "anterior-cerebral-artery-9fc55ed1c0",
+  "name": "Anterior cerebral artery",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Arteries"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Cardiovascular"
+  ],
+  "organs": [
+    "Brain"
+  ],
+  "tags": [
+    "Artery",
+    "BS5_5",
+    "Brain",
+    "Identification",
+    "Lesion",
+    "Origin",
+    "Supply"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-4fa6ef872b",
+      "question": "Identification",
+      "preferredVariantId": "v-9fc55ed1c0",
+      "variants": [
+        {
+          "id": "v-9fc55ed1c0",
+          "answer": "Anterior cerebral artery",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-90",
+              "sourceLine": 120
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-129",
+              "sourceLine": 174
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-173",
+              "sourceLine": 246
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-227",
+              "sourceLine": 332
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-229db52691",
+      "question": "Origin",
+      "preferredVariantId": "v-1a569a33c6",
+      "variants": [
+        {
+          "id": "v-1a569a33c6",
+          "answer": "Terminal branch of the internal carotid artery.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-76b4125d11",
+              "sourceLine": 121
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-9f566df28f",
+              "sourceLine": 175
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-ba431802e8",
+              "sourceLine": 247
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-f76233c4dd",
+              "sourceLine": 333
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK549894/",
+            "https://www.ncbi.nlm.nih.gov/books/NBK537333/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    },
+    {
+      "id": "f-e00a698209",
+      "question": "Supply",
+      "preferredVariantId": "v-29fefe3c51",
+      "variants": [
+        {
+          "id": "v-29fefe3c51",
+          "answer": "Mainly medial frontal and parietal cortex, including the leg area of motor and sensory cortex.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-58e909ea18",
+              "sourceLine": 122
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-3cd21fa3ff",
+              "sourceLine": 176
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-ff6c45eb16",
+              "sourceLine": 248
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-7c5cc8410c",
+              "sourceLine": 334
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK549894/",
+            "https://www.ncbi.nlm.nih.gov/books/NBK537333/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    },
+    {
+      "id": "f-4f3f9b75eb",
+      "question": "Lesion",
+      "preferredVariantId": "v-e713627c4e",
+      "variants": [
+        {
+          "id": "v-e713627c4e",
+          "answer": "Typical cortical infarction causes contralateral leg weakness and sensory loss, greater than arm involvement.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-23ddc4b011",
+              "sourceLine": 123
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-e257cdbb54",
+              "sourceLine": 177
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-e89fb32674",
+              "sourceLine": 249
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-3990185fcb",
+              "sourceLine": 335
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK549894/",
+            "https://www.ncbi.nlm.nih.gov/books/NBK537333/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 3",
+      "path": [
+        "6"
+      ],
+      "label": "6"
+    },
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 4",
+      "path": [
+        "6"
+      ],
+      "label": "6"
+    },
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 5",
+      "path": [
+        "6"
+      ],
+      "label": "6"
+    },
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 6",
+      "path": [
+        "6"
+      ],
+      "label": "6"
+    }
+  ]
+}

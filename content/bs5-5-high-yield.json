@@ -1,0 +1,1756 @@
+{
+  "authorship": "Editorial supplement; separate from original identification key",
+  "created": "2026-10-07",
+  "structures": [
+    {
+      "name": "Skull bone",
+      "types": [
+        "Bones"
+      ],
+      "systems": [
+        "Musculoskeletal"
+      ],
+      "organs": [],
+      "references": [
+        "https://www.ncbi.nlm.nih.gov/books/NBK499834/"
+      ],
+      "facts": [
+        {
+          "question": "Structure",
+          "answer": "Skull vault formed mainly by frontal, parietal and occipital bones, with squamous temporal contributions."
+        },
+        {
+          "question": "Function",
+          "answer": "Protects the brain; cranial sutures join its bones."
+        }
+      ],
+      "structureId": "calvaria-777df485c1",
+      "authorship": "Editorial supplement, created 2026-10-07; not transcribed from the supplied model key."
+    },
+    {
+      "name": "Cerebral cortex",
+      "types": [
+        "Brain structures"
+      ],
+      "systems": [
+        "Nervous"
+      ],
+      "organs": [
+        "Brain"
+      ],
+      "references": [
+        "https://www.ncbi.nlm.nih.gov/books/NBK537247/"
+      ],
+      "facts": [
+        {
+          "question": "Structure",
+          "answer": "Outer grey-matter layer of the cerebral hemispheres, folded into gyri and sulci."
+        },
+        {
+          "question": "Function",
+          "answer": "Processes sensation, controls voluntary movement and supports language, memory and cognition."
+        }
+      ],
+      "structureId": "cerebral-cortex-783678a5c9",
+      "authorship": "Editorial supplement, created 2026-10-07; not transcribed from the supplied model key."
+    },
+    {
+      "name": "Cerebral vessels (middle cerebral artery and vein branches)",
+      "types": [
+        "Blood vessels"
+      ],
+      "systems": [
+        "Cardiovascular"
+      ],
+      "organs": [
+        "Brain"
+      ],
+      "references": [
+        "https://www.ncbi.nlm.nih.gov/books/NBK549894/",
+        "https://www.ncbi.nlm.nih.gov/books/NBK546605/"
+      ],
+      "facts": [
+        {
+          "question": "Supply",
+          "answer": "MCA branches supply much of the lateral cerebral cortex."
+        },
+        {
+          "question": "Drainage",
+          "answer": "Superficial cerebral veins carry cortical blood to dural venous sinuses; arterial supply and venous drainage are distinct."
+        }
+      ],
+      "structureId": "cerebral-vessels-middle-cerebral-artery-and-vein-branches-a363f9d3b3",
+      "authorship": "Editorial supplement, created 2026-10-07; not transcribed from the supplied model key."
+    },
+    {
+      "name": "Leptomeninges",
+      "types": [
+        "Meninges"
+      ],
+      "systems": [
+        "Nervous"
+      ],
+      "organs": [
+        "Brain"
+      ],
+      "references": [
+        "https://www.ncbi.nlm.nih.gov/books/NBK539882/",
+        "https://www.ncbi.nlm.nih.gov/books/NBK557521/"
+      ],
+      "facts": [
+        {
+          "question": "Structure",
+          "answer": "Arachnoid mater and pia mater together."
+        },
+        {
+          "question": "Relations",
+          "answer": "The CSF-filled subarachnoid space lies between them; pia follows the brain surface into sulci."
+        }
+      ],
+      "structureId": "leptomeninges-7fdb0a4658",
+      "authorship": "Editorial supplement, created 2026-10-07; not transcribed from the supplied model key."
+    },
+    {
+      "name": "Subarachnoid space",
+      "types": [
+        "Anatomical spaces"
+      ],
+      "systems": [
+        "Nervous"
+      ],
+      "organs": [
+        "Brain"
+      ],
+      "references": [
+        "https://www.ncbi.nlm.nih.gov/books/NBK557521/"
+      ],
+      "facts": [
+        {
+          "question": "Location",
+          "answer": "Between arachnoid mater and pia mater."
+        },
+        {
+          "question": "Contents",
+          "answer": "CSF, cerebral blood vessels and arachnoid trabeculae."
+        },
+        {
+          "question": "Clinical relevance",
+          "answer": "Rupture of a cerebral vessel can cause subarachnoid haemorrhage."
+        }
+      ],
+      "structureId": "subarachnoid-space-553e8b41be",
+      "authorship": "Editorial supplement, created 2026-10-07; not transcribed from the supplied model key."
+    },
+    {
+      "name": "Occipital vessels and greater occipital nerve",
+      "types": [
+        "Neurovascular structures"
+      ],
+      "systems": [
+        "Nervous",
+        "Cardiovascular"
+      ],
+      "organs": [],
+      "references": [
+        "https://www.ncbi.nlm.nih.gov/books/NBK541093/",
+        "https://www.ncbi.nlm.nih.gov/books/NBK542213/"
+      ],
+      "facts": [
+        {
+          "question": "Supply",
+          "answer": "Occipital artery: branch of the external carotid artery supplying the posterior scalp."
+        },
+        {
+          "question": "Sensory functions",
+          "answer": "Greater occipital nerve: medial branch of the C2 dorsal ramus supplying much of the posterior scalp."
+        },
+        {
+          "question": "Drainage",
+          "answer": "Occipital veins drain the posterior scalp and communicate with deep cervical and suboccipital veins."
+        }
+      ],
+      "structureId": "occipital-vessels-and-greater-occipital-nerve-71fe152491",
+      "authorship": "Editorial supplement, created 2026-10-07; not transcribed from the supplied model key."
+    },
+    {
+      "name": "Anterior cerebral artery",
+      "types": [
+        "Arteries"
+      ],
+      "systems": [
+        "Cardiovascular"
+      ],
+      "organs": [
+        "Brain"
+      ],
+      "references": [
+        "https://www.ncbi.nlm.nih.gov/books/NBK549894/",
+        "https://www.ncbi.nlm.nih.gov/books/NBK537333/"
+      ],
+      "facts": [
+        {
+          "question": "Origin",
+          "answer": "Terminal branch of the internal carotid artery."
+        },
+        {
+          "question": "Supply",
+          "answer": "Mainly medial frontal and parietal cortex, including the leg area of motor and sensory cortex."
+        },
+        {
+          "question": "Lesion",
+          "answer": "Typical cortical infarction causes contralateral leg weakness and sensory loss, greater than arm involvement."
+        }
+      ],
+      "structureId": "anterior-cerebral-artery-9fc55ed1c0",
+      "authorship": "Editorial supplement, created 2026-10-07; not transcribed from the supplied model key."
+    },
+    {
+      "name": "Corpus callosum and head of caudate nucleus",
+      "types": [
+        "Brain structures"
+      ],
+      "systems": [
+        "Nervous"
+      ],
+      "organs": [
+        "Brain"
+      ],
+      "references": [
+        "https://www.ncbi.nlm.nih.gov/books/NBK537247/",
+        "https://www.ncbi.nlm.nih.gov/books/NBK557755/",
+        "https://www.ncbi.nlm.nih.gov/books/NBK532932/"
+      ],
+      "facts": [
+        {
+          "question": "Function",
+          "answer": "Corpus callosum: connects the cerebral hemispheres. Caudate head: participates in basal ganglia motor and cognitive circuits."
+        },
+        {
+          "question": "Relations",
+          "answer": "The caudate head bulges into the anterior horn of the lateral ventricle; the corpus callosum lies above the ventricle."
+        }
+      ],
+      "structureId": "corpus-callosum-and-head-of-caudate-nucleus-1a878bcb7f",
+      "authorship": "Editorial supplement, created 2026-10-07; not transcribed from the supplied model key."
+    },
+    {
+      "name": "Anterior horn of lateral ventricle",
+      "types": [
+        "Ventricles"
+      ],
+      "systems": [
+        "Nervous"
+      ],
+      "organs": [
+        "Brain"
+      ],
+      "references": [
+        "https://www.ncbi.nlm.nih.gov/books/NBK532932/",
+        "https://www.ncbi.nlm.nih.gov/books/NBK538156/"
+      ],
+      "facts": [
+        {
+          "question": "Location",
+          "answer": "Frontal lobe; medial wall is the septum pellucidum and much of the floor is the caudate head."
+        },
+        {
+          "question": "Contents",
+          "answer": "CSF; the anterior horn has no choroid plexus."
+        }
+      ],
+      "structureId": "anterior-horn-of-lateral-ventricle-69855c2431",
+      "authorship": "Editorial supplement, created 2026-10-07; not transcribed from the supplied model key."
+    },
+    {
+      "name": "Lateral ventricle and choroid plexus",
+      "types": [
+        "Ventricles"
+      ],
+      "systems": [
+        "Nervous"
+      ],
+      "organs": [
+        "Brain"
+      ],
+      "references": [
+        "https://www.ncbi.nlm.nih.gov/books/NBK538156/",
+        "https://www.ncbi.nlm.nih.gov/books/NBK532932/"
+      ],
+      "facts": [
+        {
+          "question": "Function",
+          "answer": "Choroid plexus produces CSF within the ventricular system."
+        },
+        {
+          "question": "Drainage",
+          "answer": "Lateral ventricle → interventricular foramen (Monro) → third ventricle."
+        }
+      ],
+      "structureId": "lateral-ventricle-and-choroid-plexus-000bced862",
+      "authorship": "Editorial supplement, created 2026-10-07; not transcribed from the supplied model key."
+    },
+    {
+      "name": "Posterior horn of lateral ventricle",
+      "types": [
+        "Ventricles"
+      ],
+      "systems": [
+        "Nervous"
+      ],
+      "organs": [
+        "Brain"
+      ],
+      "references": [
+        "https://www.ncbi.nlm.nih.gov/books/NBK532932/",
+        "https://www.ncbi.nlm.nih.gov/books/NBK538156/"
+      ],
+      "facts": [
+        {
+          "question": "Location",
+          "answer": "Extends posteriorly into the occipital lobe."
+        },
+        {
+          "question": "Contents",
+          "answer": "CSF; the posterior horn has no choroid plexus."
+        }
+      ],
+      "structureId": "posterior-horn-of-lateral-ventricle-475ce3d698",
+      "authorship": "Editorial supplement, created 2026-10-07; not transcribed from the supplied model key."
+    },
+    {
+      "name": "Inferior sagittal sinus",
+      "types": [
+        "Venous sinuses"
+      ],
+      "systems": [
+        "Cardiovascular"
+      ],
+      "organs": [
+        "Brain"
+      ],
+      "references": [
+        "https://www.ncbi.nlm.nih.gov/books/NBK482257/"
+      ],
+      "facts": [
+        {
+          "question": "Location",
+          "answer": "Free inferior border of the falx cerebri."
+        },
+        {
+          "question": "Drainage",
+          "answer": "Joins the great cerebral vein to form the straight sinus."
+        }
+      ],
+      "structureId": "inferior-sagittal-sinus-a0bd233b17",
+      "authorship": "Editorial supplement, created 2026-10-07; not transcribed from the supplied model key."
+    },
+    {
+      "name": "Branch of middle meningeal artery",
+      "types": [
+        "Arteries"
+      ],
+      "systems": [
+        "Cardiovascular"
+      ],
+      "organs": [],
+      "references": [
+        "https://www.ncbi.nlm.nih.gov/books/NBK519545/"
+      ],
+      "facts": [
+        {
+          "question": "Supply",
+          "answer": "Supplies cranial dura; parent artery arises from the maxillary artery and enters through foramen spinosum."
+        },
+        {
+          "question": "Clinical relevance",
+          "answer": "Traumatic rupture can cause an extradural (epidural) haematoma."
+        }
+      ],
+      "structureId": "branch-of-middle-meningeal-artery-97d45ee405",
+      "authorship": "Editorial supplement, created 2026-10-07; not transcribed from the supplied model key."
+    },
+    {
+      "name": "Septum pellucidum and columns of fornix",
+      "types": [
+        "Brain structures"
+      ],
+      "systems": [
+        "Nervous"
+      ],
+      "organs": [
+        "Brain"
+      ],
+      "references": [
+        "https://www.ncbi.nlm.nih.gov/books/NBK575732/",
+        "https://www.ncbi.nlm.nih.gov/books/NBK537192/",
+        "https://www.ncbi.nlm.nih.gov/books/NBK532932/"
+      ],
+      "facts": [
+        {
+          "question": "Relations",
+          "answer": "Septum pellucidum separates the anterior lateral ventricles, between corpus callosum and fornix."
+        },
+        {
+          "question": "Function",
+          "answer": "Fornix columns carry hippocampal output; postcommissural fibres reach the mammillary bodies in memory circuits."
+        }
+      ],
+      "structureId": "septum-pellucidum-and-columns-of-fornix-b6609c51ab",
+      "authorship": "Editorial supplement, created 2026-10-07; not transcribed from the supplied model key."
+    },
+    {
+      "name": "Lateral ventricle and temporalis muscle",
+      "types": [
+        "Anatomical structures"
+      ],
+      "systems": [
+        "Nervous",
+        "Musculoskeletal"
+      ],
+      "organs": [
+        "Brain"
+      ],
+      "references": [
+        "https://www.ncbi.nlm.nih.gov/books/NBK532932/",
+        "https://www.ncbi.nlm.nih.gov/books/NBK541027/"
+      ],
+      "facts": [
+        {
+          "question": "Function",
+          "answer": "Lateral ventricle: contains CSF. Temporalis: elevates the mandible; posterior fibres retract it."
+        },
+        {
+          "question": "Innervation",
+          "answer": "Temporalis is supplied by deep temporal nerves from the mandibular division of the trigeminal nerve (V3)."
+        }
+      ],
+      "structureId": "lateral-ventricle-and-temporalis-muscle-d90288cb93",
+      "authorship": "Editorial supplement, created 2026-10-07; not transcribed from the supplied model key."
+    },
+    {
+      "name": "Internal capsule",
+      "types": [
+        "White matter tracts"
+      ],
+      "systems": [
+        "Nervous"
+      ],
+      "organs": [
+        "Brain"
+      ],
+      "references": [
+        "https://www.ncbi.nlm.nih.gov/books/NBK542181/"
+      ],
+      "facts": [
+        {
+          "question": "Structure",
+          "answer": "Projection fibres between cortex and subcortical structures; lies between caudate/thalamus medially and lentiform nucleus laterally."
+        },
+        {
+          "question": "Contents",
+          "answer": "Genu: mainly corticobulbar fibres. Posterior limb: corticospinal and ascending somatosensory fibres."
+        },
+        {
+          "question": "Lesion",
+          "answer": "Small posterior-limb infarcts can cause dense contralateral weakness."
+        }
+      ],
+      "structureId": "internal-capsule-3ba8567bf8",
+      "authorship": "Editorial supplement, created 2026-10-07; not transcribed from the supplied model key."
+    },
+    {
+      "name": "Insula",
+      "types": [
+        "Brain structures"
+      ],
+      "systems": [
+        "Nervous"
+      ],
+      "organs": [
+        "Brain"
+      ],
+      "references": [
+        "https://www.ncbi.nlm.nih.gov/books/NBK570606/",
+        "https://pubmed.ncbi.nlm.nih.gov/25950427/",
+        "https://pubmed.ncbi.nlm.nih.gov/10193618/"
+      ],
+      "facts": [
+        {
+          "question": "Location",
+          "answer": "Cortex deep within the lateral sulcus, covered by frontal, parietal and temporal opercula."
+        },
+        {
+          "question": "Function",
+          "answer": "Processes taste and internal bodily sensations, with roles in autonomic and emotional integration."
+        }
+      ],
+      "structureId": "insula-3ddb3634ed",
+      "authorship": "Editorial supplement, created 2026-10-07; not transcribed from the supplied model key."
+    },
+    {
+      "name": "Putamen",
+      "types": [
+        "Basal ganglia"
+      ],
+      "systems": [
+        "Nervous"
+      ],
+      "organs": [
+        "Brain"
+      ],
+      "references": [
+        "https://www.ncbi.nlm.nih.gov/books/NBK557755/"
+      ],
+      "facts": [
+        {
+          "question": "Structure",
+          "answer": "Part of the striatum with the caudate; forms the lentiform nucleus with globus pallidus."
+        },
+        {
+          "question": "Function",
+          "answer": "Participates in basal ganglia circuits that select and regulate movement."
+        }
+      ],
+      "structureId": "putamen-db15ec505b",
+      "authorship": "Editorial supplement, created 2026-10-07; not transcribed from the supplied model key."
+    },
+    {
+      "name": "Globus pallidus",
+      "types": [
+        "Basal ganglia"
+      ],
+      "systems": [
+        "Nervous"
+      ],
+      "organs": [
+        "Brain"
+      ],
+      "references": [
+        "https://www.ncbi.nlm.nih.gov/books/NBK557755/"
+      ],
+      "facts": [
+        {
+          "question": "Location",
+          "answer": "Medial to putamen; together they form the lentiform nucleus."
+        },
+        {
+          "question": "Function",
+          "answer": "Internal segment is a major inhibitory basal ganglia output to the thalamus; external segment participates in the indirect pathway."
+        }
+      ],
+      "structureId": "globus-pallidus-020d34a54c",
+      "authorship": "Editorial supplement, created 2026-10-07; not transcribed from the supplied model key."
+    },
+    {
+      "name": "External capsule",
+      "types": [
+        "White matter tracts"
+      ],
+      "systems": [
+        "Nervous"
+      ],
+      "organs": [
+        "Brain"
+      ],
+      "references": [
+        "https://www.ncbi.nlm.nih.gov/mesh/68066271",
+        "https://www.ncbi.nlm.nih.gov/books/NBK570606/"
+      ],
+      "facts": [
+        {
+          "question": "Location",
+          "answer": "Thin white-matter layer between putamen medially and claustrum laterally."
+        },
+        {
+          "question": "Relations",
+          "answer": "From putamen outward: external capsule → claustrum → extreme capsule → insular cortex."
+        }
+      ],
+      "structureId": "external-capsule-8ddb155341",
+      "authorship": "Editorial supplement, created 2026-10-07; not transcribed from the supplied model key."
+    },
+    {
+      "name": "Claustrum",
+      "types": [
+        "Brain structures"
+      ],
+      "systems": [
+        "Nervous"
+      ],
+      "organs": [
+        "Brain"
+      ],
+      "references": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC1569501/",
+        "https://www.ncbi.nlm.nih.gov/books/NBK570606/"
+      ],
+      "facts": [
+        {
+          "question": "Location",
+          "answer": "Thin grey-matter sheet between the external and extreme capsules, deep to the insula."
+        },
+        {
+          "question": "Function",
+          "answer": "Widely connected with cortex; its precise function remains uncertain."
+        }
+      ],
+      "structureId": "claustrum-e75068bf8f",
+      "authorship": "Editorial supplement, created 2026-10-07; not transcribed from the supplied model key."
+    },
+    {
+      "name": "Posterior crus of fornix and choroid plexus",
+      "types": [
+        "Brain structures"
+      ],
+      "systems": [
+        "Nervous"
+      ],
+      "organs": [
+        "Brain"
+      ],
+      "references": [
+        "https://www.ncbi.nlm.nih.gov/books/NBK575732/",
+        "https://www.ncbi.nlm.nih.gov/books/NBK538156/"
+      ],
+      "facts": [
+        {
+          "question": "Function",
+          "answer": "Fornix crus: carries hippocampal output toward the fornix body. Choroid plexus: produces CSF."
+        },
+        {
+          "question": "Relations",
+          "answer": "The paired crura continue from the hippocampal fimbriae and converge to form the body of the fornix."
+        }
+      ],
+      "structureId": "posterior-crus-of-fornix-and-choroid-plexus-0b1470506d",
+      "authorship": "Editorial supplement, created 2026-10-07; not transcribed from the supplied model key."
+    },
+    {
+      "name": "Head of caudate nucleus",
+      "types": [
+        "Basal ganglia"
+      ],
+      "systems": [
+        "Nervous"
+      ],
+      "organs": [
+        "Brain"
+      ],
+      "references": [
+        "https://www.ncbi.nlm.nih.gov/books/NBK557755/",
+        "https://www.ncbi.nlm.nih.gov/books/NBK532932/"
+      ],
+      "facts": [
+        {
+          "question": "Location",
+          "answer": "Bulges into the anterior horn of the lateral ventricle."
+        },
+        {
+          "question": "Function",
+          "answer": "Part of the striatum, involved in motor, cognitive and behavioural circuits."
+        }
+      ],
+      "structureId": "head-of-caudate-nucleus-ec72317cb4",
+      "authorship": "Editorial supplement, created 2026-10-07; not transcribed from the supplied model key."
+    },
+    {
+      "name": "Tail of caudate nucleus",
+      "types": [
+        "Basal ganglia"
+      ],
+      "systems": [
+        "Nervous"
+      ],
+      "organs": [
+        "Brain"
+      ],
+      "references": [
+        "https://www.ncbi.nlm.nih.gov/books/NBK557755/",
+        "https://www.ncbi.nlm.nih.gov/books/NBK532932/"
+      ],
+      "facts": [
+        {
+          "question": "Location",
+          "answer": "Curves into the temporal lobe along the roof of the inferior horn of the lateral ventricle, approaching the amygdala."
+        },
+        {
+          "question": "Function",
+          "answer": "Part of the caudate component of the striatum; participates in basal ganglia circuits."
+        }
+      ],
+      "structureId": "tail-of-caudate-nucleus-9627aa01ff",
+      "authorship": "Editorial supplement, created 2026-10-07; not transcribed from the supplied model key."
+    },
+    {
+      "name": "Optic radiation",
+      "types": [
+        "White matter tracts"
+      ],
+      "systems": [
+        "Nervous"
+      ],
+      "organs": [
+        "Brain"
+      ],
+      "references": [
+        "https://pubmed.ncbi.nlm.nih.gov/17219837/",
+        "https://www.ncbi.nlm.nih.gov/books/NBK558929/"
+      ],
+      "facts": [
+        {
+          "question": "Course",
+          "answer": "From lateral geniculate nucleus to primary visual cortex around the calcarine sulcus."
+        },
+        {
+          "question": "Lesion",
+          "answer": "Temporal fibres (Meyer's loop): contralateral superior quadrantanopia. Parietal fibres: contralateral inferior quadrantanopia."
+        }
+      ],
+      "structureId": "optic-radiation-17269c4bab",
+      "authorship": "Editorial supplement, created 2026-10-07; not transcribed from the supplied model key."
+    },
+    {
+      "name": "Column of fornix",
+      "types": [
+        "White matter tracts"
+      ],
+      "systems": [
+        "Nervous"
+      ],
+      "organs": [
+        "Brain"
+      ],
+      "references": [
+        "https://www.ncbi.nlm.nih.gov/books/NBK575732/",
+        "https://www.ncbi.nlm.nih.gov/books/NBK537192/"
+      ],
+      "facts": [
+        {
+          "question": "Course",
+          "answer": "Descends from the fornix body; postcommissural fibres pass toward the mammillary body."
+        },
+        {
+          "question": "Function",
+          "answer": "Carries hippocampal output in memory circuits; damage can impair memory."
+        }
+      ],
+      "structureId": "column-of-fornix-785d012083",
+      "authorship": "Editorial supplement, created 2026-10-07; not transcribed from the supplied model key."
+    },
+    {
+      "name": "Straight sinus",
+      "types": [
+        "Venous sinuses"
+      ],
+      "systems": [
+        "Cardiovascular"
+      ],
+      "organs": [
+        "Brain"
+      ],
+      "references": [
+        "https://www.ncbi.nlm.nih.gov/books/NBK482257/"
+      ],
+      "facts": [
+        {
+          "question": "Location",
+          "answer": "Junction of falx cerebri and tentorium cerebelli."
+        },
+        {
+          "question": "Drainage",
+          "answer": "Receives inferior sagittal sinus and great cerebral vein; drains toward the confluence of sinuses."
+        }
+      ],
+      "structureId": "straight-sinus-7dd394bc1d",
+      "authorship": "Editorial supplement, created 2026-10-07; not transcribed from the supplied model key."
+    },
+    {
+      "name": "Orbit",
+      "types": [
+        "Anatomical spaces"
+      ],
+      "systems": [
+        "Musculoskeletal"
+      ],
+      "organs": [
+        "Eye"
+      ],
+      "references": [
+        "https://www.ncbi.nlm.nih.gov/books/NBK531490/"
+      ],
+      "facts": [
+        {
+          "question": "Contents",
+          "answer": "Eyeball, extraocular muscles, optic nerve, vessels, nerves, orbital fat and lacrimal gland."
+        },
+        {
+          "question": "Structure",
+          "answer": "Seven bones: frontal, sphenoid, zygomatic, maxilla, palatine, lacrimal and ethmoid."
+        }
+      ],
+      "structureId": "orbit-b6c22d03ac",
+      "authorship": "Editorial supplement, created 2026-10-07; not transcribed from the supplied model key."
+    },
+    {
+      "name": "Middle cerebral artery",
+      "types": [
+        "Arteries"
+      ],
+      "systems": [
+        "Cardiovascular"
+      ],
+      "organs": [
+        "Brain"
+      ],
+      "references": [
+        "https://www.ncbi.nlm.nih.gov/books/NBK549894/",
+        "https://www.ahajournals.org/doi/10.1161/01.STR.21.4.637"
+      ],
+      "facts": [
+        {
+          "question": "Origin",
+          "answer": "Terminal branch of the internal carotid artery; runs in the lateral sulcus."
+        },
+        {
+          "question": "Supply",
+          "answer": "Much of the lateral hemisphere; lenticulostriate branches supply deep structures including parts of the basal ganglia and internal capsule."
+        },
+        {
+          "question": "Lesion",
+          "answer": "Contralateral face/arm weakness and sensory loss; dominant hemisphere involvement may cause aphasia, non-dominant involvement neglect."
+        }
+      ],
+      "structureId": "middle-cerebral-artery-92ab87e975",
+      "authorship": "Editorial supplement, created 2026-10-07; not transcribed from the supplied model key."
+    },
+    {
+      "name": "Amygdala",
+      "types": [
+        "Brain structures"
+      ],
+      "systems": [
+        "Nervous"
+      ],
+      "organs": [
+        "Brain"
+      ],
+      "references": [
+        "https://www.ncbi.nlm.nih.gov/books/NBK537102/"
+      ],
+      "facts": [
+        {
+          "question": "Location",
+          "answer": "Anteromedial temporal lobe, deep to the uncus and near the anterior end of the hippocampus."
+        },
+        {
+          "question": "Function",
+          "answer": "Assigns emotional significance to stimuli, particularly fear; contributes to emotional learning and memory."
+        }
+      ],
+      "structureId": "amygdala-9ad4d3ce3a",
+      "authorship": "Editorial supplement, created 2026-10-07; not transcribed from the supplied model key."
+    },
+    {
+      "name": "Red nucleus",
+      "types": [
+        "Brain structures"
+      ],
+      "systems": [
+        "Nervous"
+      ],
+      "organs": [
+        "Brain"
+      ],
+      "references": [
+        "https://www.ncbi.nlm.nih.gov/books/NBK551628/",
+        "https://www.ncbi.nlm.nih.gov/books/NBK551509/"
+      ],
+      "facts": [
+        {
+          "question": "Location",
+          "answer": "Midbrain tegmentum, at the level of the superior colliculus."
+        },
+        {
+          "question": "Function",
+          "answer": "Motor coordination; receives cerebellar input and gives rise to the rubrospinal tract."
+        }
+      ],
+      "structureId": "red-nucleus-7201efd8a5",
+      "authorship": "Editorial supplement, created 2026-10-07; not transcribed from the supplied model key."
+    },
+    {
+      "name": "Cerebral peduncle and substantia nigra",
+      "types": [
+        "Brain structures"
+      ],
+      "systems": [
+        "Nervous"
+      ],
+      "organs": [
+        "Brain"
+      ],
+      "references": [
+        "https://www.ncbi.nlm.nih.gov/books/NBK551509/",
+        "https://www.ncbi.nlm.nih.gov/books/NBK536995/"
+      ],
+      "facts": [
+        {
+          "question": "Contents",
+          "answer": "Crus cerebri: descending corticospinal, corticobulbar and corticopontine fibres. Substantia nigra lies immediately dorsal to it."
+        },
+        {
+          "question": "Function",
+          "answer": "Substantia nigra pars compacta supplies dopamine to the striatum; degeneration is central to Parkinson's disease."
+        }
+      ],
+      "structureId": "cerebral-peduncle-and-substantia-nigra-52b662362b",
+      "authorship": "Editorial supplement, created 2026-10-07; not transcribed from the supplied model key."
+    },
+    {
+      "name": "Midbrain tegmentum",
+      "types": [
+        "Brain structures"
+      ],
+      "systems": [
+        "Nervous"
+      ],
+      "organs": [
+        "Brain"
+      ],
+      "references": [
+        "https://www.ncbi.nlm.nih.gov/books/NBK551509/"
+      ],
+      "facts": [
+        {
+          "question": "Location",
+          "answer": "Between the substantia nigra and the region of the cerebral aqueduct."
+        },
+        {
+          "question": "Contents",
+          "answer": "Red nucleus, reticular formation, cranial nerve nuclei and ascending tracts; supports motor, sensory and arousal functions."
+        }
+      ],
+      "structureId": "midbrain-tegmentum-eb32487645",
+      "authorship": "Editorial supplement, created 2026-10-07; not transcribed from the supplied model key."
+    },
+    {
+      "name": "Vermis of cerebellum",
+      "types": [
+        "Brain structures"
+      ],
+      "systems": [
+        "Nervous"
+      ],
+      "organs": [
+        "Brain"
+      ],
+      "references": [
+        "https://www.ncbi.nlm.nih.gov/books/NBK538167/",
+        "https://www.ncbi.nlm.nih.gov/books/NBK392/"
+      ],
+      "facts": [
+        {
+          "question": "Location",
+          "answer": "Midline cerebellar region joining the hemispheres."
+        },
+        {
+          "question": "Function",
+          "answer": "Coordinates axial movement and posture; lesions typically cause truncal and gait ataxia."
+        }
+      ],
+      "structureId": "vermis-of-cerebellum-59d4e25a2c",
+      "authorship": "Editorial supplement, created 2026-10-07; not transcribed from the supplied model key."
+    },
+    {
+      "name": "Eyeball and sclera",
+      "types": [
+        "Eye structures"
+      ],
+      "systems": [
+        "Sensory"
+      ],
+      "organs": [
+        "Eye"
+      ],
+      "references": [
+        "https://www.ncbi.nlm.nih.gov/books/NBK553189/"
+      ],
+      "facts": [
+        {
+          "question": "Function",
+          "answer": "Eyeball: forms images and converts light into neural signals. Sclera: tough fibrous coat supporting globe shape and extraocular muscle attachment."
+        },
+        {
+          "question": "Relations",
+          "answer": "Sclera is continuous with the cornea anteriorly and the optic nerve's dural sheath posteriorly."
+        }
+      ],
+      "structureId": "eyeball-and-sclera-9636f33c57",
+      "authorship": "Editorial supplement, created 2026-10-07; not transcribed from the supplied model key."
+    },
+    {
+      "name": "Pituitary gland and cavernous sinus",
+      "types": [
+        "Anatomical structures"
+      ],
+      "systems": [
+        "Endocrine",
+        "Cardiovascular"
+      ],
+      "organs": [
+        "Pituitary"
+      ],
+      "references": [
+        "https://www.ncbi.nlm.nih.gov/books/NBK551529/",
+        "https://www.ncbi.nlm.nih.gov/books/NBK459244/"
+      ],
+      "facts": [
+        {
+          "question": "Relations",
+          "answer": "Pituitary lies in the sella turcica; cavernous sinuses lie laterally and the optic chiasm is superior."
+        },
+        {
+          "question": "Contents",
+          "answer": "Within cavernous sinus: internal carotid artery and CN VI. In lateral wall: CN III, IV, V1 and V2."
+        }
+      ],
+      "structureId": "pituitary-gland-and-cavernous-sinus-5f4f9589f3",
+      "authorship": "Editorial supplement, created 2026-10-07; not transcribed from the supplied model key."
+    },
+    {
+      "name": "Cerebral aqueduct and tentorium cerebelli",
+      "types": [
+        "Brain structures"
+      ],
+      "systems": [
+        "Nervous"
+      ],
+      "organs": [
+        "Brain"
+      ],
+      "references": [
+        "https://www.ncbi.nlm.nih.gov/books/NBK532932/",
+        "https://www.ncbi.nlm.nih.gov/books/NBK539882/"
+      ],
+      "facts": [
+        {
+          "question": "Function",
+          "answer": "Cerebral aqueduct: carries CSF from third to fourth ventricle. Tentorium: dural fold separating occipital lobes from cerebellum."
+        },
+        {
+          "question": "Clinical relevance",
+          "answer": "Aqueduct obstruction causes non-communicating hydrocephalus; the midbrain passes through the tentorial notch."
+        }
+      ],
+      "structureId": "cerebral-aqueduct-and-tentorium-cerebelli-bc1115561b",
+      "authorship": "Editorial supplement, created 2026-10-07; not transcribed from the supplied model key."
+    },
+    {
+      "name": "Ethmoidal air cells",
+      "types": [
+        "Paranasal sinuses"
+      ],
+      "systems": [
+        "Respiratory"
+      ],
+      "organs": [],
+      "references": [
+        "https://www.ncbi.nlm.nih.gov/books/NBK544328/",
+        "https://www.ncbi.nlm.nih.gov/books/NBK544232/"
+      ],
+      "facts": [
+        {
+          "question": "Location",
+          "answer": "Air-filled spaces in the ethmoid between nasal cavity and medial orbital wall."
+        },
+        {
+          "question": "Drainage",
+          "answer": "Anterior/middle cells drain to the middle meatus; posterior cells to the superior meatus."
+        }
+      ],
+      "structureId": "ethmoidal-air-cells-3eeb8f303e",
+      "authorship": "Editorial supplement, created 2026-10-07; not transcribed from the supplied model key."
+    },
+    {
+      "name": "Cerebellar hemisphere",
+      "types": [
+        "Brain structures"
+      ],
+      "systems": [
+        "Nervous"
+      ],
+      "organs": [
+        "Brain"
+      ],
+      "references": [
+        "https://www.ncbi.nlm.nih.gov/books/NBK538167/",
+        "https://www.ncbi.nlm.nih.gov/books/NBK392/"
+      ],
+      "facts": [
+        {
+          "question": "Function",
+          "answer": "Coordinates limb movements; lateral regions contribute to motor planning."
+        },
+        {
+          "question": "Lesion",
+          "answer": "Typically ipsilateral limb ataxia, dysmetria and intention tremor."
+        }
+      ],
+      "structureId": "cerebellar-hemisphere-a6ed0a8d02",
+      "authorship": "Editorial supplement, created 2026-10-07; not transcribed from the supplied model key."
+    },
+    {
+      "name": "Nasal cavity",
+      "types": [
+        "Anatomical spaces"
+      ],
+      "systems": [
+        "Respiratory"
+      ],
+      "organs": [],
+      "references": [
+        "https://www.ncbi.nlm.nih.gov/books/NBK544232/"
+      ],
+      "facts": [
+        {
+          "question": "Function",
+          "answer": "Filters, warms and humidifies inspired air; olfactory mucosa supports smell."
+        },
+        {
+          "question": "Innervation",
+          "answer": "Olfaction: CN I. General sensation: mainly trigeminal divisions V1 and V2."
+        }
+      ],
+      "structureId": "nasal-cavity-0cd01d99c5",
+      "authorship": "Editorial supplement, created 2026-10-07; not transcribed from the supplied model key."
+    },
+    {
+      "name": "Ocular muscles",
+      "types": [
+        "Muscles"
+      ],
+      "systems": [
+        "Musculoskeletal"
+      ],
+      "organs": [
+        "Eye"
+      ],
+      "references": [
+        "https://www.ncbi.nlm.nih.gov/books/NBK553189/"
+      ],
+      "facts": [
+        {
+          "question": "Innervation",
+          "answer": "Lateral rectus: CN VI. Superior oblique: CN IV. Remaining extraocular muscles: CN III (LR6, SO4, rest III)."
+        },
+        {
+          "question": "Actions",
+          "answer": "Lateral rectus abducts; medial rectus adducts. Recti and obliques together control elevation, depression and torsion."
+        }
+      ],
+      "structureId": "ocular-muscles-5aec810c08",
+      "authorship": "Editorial supplement, created 2026-10-07; not transcribed from the supplied model key."
+    },
+    {
+      "name": "Sphenoid sinus and internal carotid artery",
+      "types": [
+        "Anatomical structures"
+      ],
+      "systems": [
+        "Respiratory",
+        "Cardiovascular"
+      ],
+      "organs": [],
+      "references": [
+        "https://www.ncbi.nlm.nih.gov/books/NBK499826/",
+        "https://www.ncbi.nlm.nih.gov/books/NBK459244/"
+      ],
+      "facts": [
+        {
+          "question": "Relations",
+          "answer": "Sphenoid sinus lies below the sella; the cavernous internal carotid artery lies close to its lateral wall."
+        },
+        {
+          "question": "Clinical relevance",
+          "answer": "The sinus provides a transsphenoidal route to the pituitary; carotid proximity creates a risk of major haemorrhage."
+        }
+      ],
+      "structureId": "sphenoid-sinus-and-internal-carotid-artery-928a8281d8",
+      "authorship": "Editorial supplement, created 2026-10-07; not transcribed from the supplied model key."
+    },
+    {
+      "name": "Auricle (external ear)",
+      "types": [
+        "Ear structures"
+      ],
+      "systems": [
+        "Sensory"
+      ],
+      "organs": [
+        "Ear"
+      ],
+      "references": [
+        "https://www.ncbi.nlm.nih.gov/books/NBK470359/"
+      ],
+      "facts": [
+        {
+          "question": "Structure",
+          "answer": "Elastic cartilage covered by skin; the lobule contains no cartilage."
+        },
+        {
+          "question": "Function",
+          "answer": "Collects sound and directs it into the external acoustic meatus; helps sound localisation."
+        }
+      ],
+      "structureId": "auricle-external-ear-4152786c9c",
+      "authorship": "Editorial supplement, created 2026-10-07; not transcribed from the supplied model key."
+    },
+    {
+      "name": "Cerebellar arteries",
+      "types": [
+        "Arteries"
+      ],
+      "systems": [
+        "Cardiovascular"
+      ],
+      "organs": [
+        "Brain"
+      ],
+      "references": [
+        "https://pubmed.ncbi.nlm.nih.gov/2535662/",
+        "https://www.ncbi.nlm.nih.gov/books/NBK538167/"
+      ],
+      "facts": [
+        {
+          "question": "Origin",
+          "answer": "SCA and AICA arise from the basilar artery; PICA usually arises from the vertebral artery."
+        },
+        {
+          "question": "Supply",
+          "answer": "SCA: superior cerebellum. AICA: anteroinferior cerebellum. PICA: posteroinferior cerebellum; territories vary."
+        }
+      ],
+      "structureId": "cerebellar-arteries-041d5d62b6",
+      "authorship": "Editorial supplement, created 2026-10-07; not transcribed from the supplied model key."
+    },
+    {
+      "name": "Floor of orbit",
+      "types": [
+        "Bones"
+      ],
+      "systems": [
+        "Musculoskeletal"
+      ],
+      "organs": [
+        "Eye"
+      ],
+      "references": [
+        "https://www.ncbi.nlm.nih.gov/books/NBK531490/"
+      ],
+      "facts": [
+        {
+          "question": "Structure",
+          "answer": "Mainly maxilla, with zygomatic and a small palatine contribution; lies above the maxillary sinus."
+        },
+        {
+          "question": "Clinical relevance",
+          "answer": "Blowout fracture may trap orbital tissue/inferior rectus, causing diplopia; infraorbital nerve injury can numb the cheek and upper lip."
+        }
+      ],
+      "structureId": "floor-of-orbit-e1ed6c19ea",
+      "authorship": "Editorial supplement, created 2026-10-07; not transcribed from the supplied model key."
+    },
+    {
+      "name": "Optic canal",
+      "types": [
+        "Foramina"
+      ],
+      "systems": [
+        "Musculoskeletal"
+      ],
+      "organs": [
+        "Eye"
+      ],
+      "references": [
+        "https://www.ncbi.nlm.nih.gov/books/NBK531490/"
+      ],
+      "facts": [
+        {
+          "question": "Location",
+          "answer": "In the sphenoid at the orbital apex."
+        },
+        {
+          "question": "Contents",
+          "answer": "Optic nerve (CN II) and ophthalmic artery, with accompanying sympathetic fibres."
+        }
+      ],
+      "structureId": "optic-canal-9f295294a3",
+      "authorship": "Editorial supplement, created 2026-10-07; not transcribed from the supplied model key."
+    },
+    {
+      "name": "Malleus and incus",
+      "types": [
+        "Ear ossicles"
+      ],
+      "systems": [
+        "Sensory"
+      ],
+      "organs": [
+        "Ear"
+      ],
+      "references": [
+        "https://www.ncbi.nlm.nih.gov/books/NBK482338/"
+      ],
+      "facts": [
+        {
+          "question": "Function",
+          "answer": "Transmit vibration from tympanic membrane through the ossicular chain to the stapes and oval window."
+        },
+        {
+          "question": "Relations",
+          "answer": "Malleus handle attaches to tympanic membrane; malleus articulates with incus, and incus with stapes."
+        }
+      ],
+      "structureId": "malleus-and-incus-f944fdd68d",
+      "authorship": "Editorial supplement, created 2026-10-07; not transcribed from the supplied model key."
+    },
+    {
+      "name": "Vestibulocochlear and facial nerves",
+      "types": [
+        "Nerves"
+      ],
+      "systems": [
+        "Nervous"
+      ],
+      "organs": [
+        "Ear"
+      ],
+      "references": [
+        "https://www.ncbi.nlm.nih.gov/books/NBK385/",
+        "https://pubmed.ncbi.nlm.nih.gov/2286163/",
+        "https://www.ncbi.nlm.nih.gov/books/NBK482338/"
+      ],
+      "facts": [
+        {
+          "question": "Course",
+          "answer": "CN VII and VIII enter the internal acoustic meatus; CN VII continues in the facial canal and exits at the stylomastoid foramen."
+        },
+        {
+          "question": "Function",
+          "answer": "CN VIII: hearing and balance. CN VII: facial expression, anterior two-thirds tongue taste, and parasympathetic supply to lacrimal/submandibular/sublingual glands."
+        }
+      ],
+      "structureId": "vestibulocochlear-and-facial-nerves-fa425599a6",
+      "authorship": "Editorial supplement, created 2026-10-07; not transcribed from the supplied model key."
+    },
+    {
+      "name": "Middle ear",
+      "types": [
+        "Ear structures"
+      ],
+      "systems": [
+        "Sensory"
+      ],
+      "organs": [
+        "Ear"
+      ],
+      "references": [
+        "https://www.ncbi.nlm.nih.gov/books/NBK482338/"
+      ],
+      "facts": [
+        {
+          "question": "Contents",
+          "answer": "Air-filled tympanic cavity containing malleus, incus, stapes, tensor tympani and stapedius."
+        },
+        {
+          "question": "Connections",
+          "answer": "Pharyngotympanic tube connects to nasopharynx; posteriorly communicates with mastoid antrum and air cells."
+        }
+      ],
+      "structureId": "middle-ear-90e0ed7217",
+      "authorship": "Editorial supplement, created 2026-10-07; not transcribed from the supplied model key."
+    },
+    {
+      "name": "Mastoid air cells",
+      "types": [
+        "Ear structures"
+      ],
+      "systems": [
+        "Sensory"
+      ],
+      "organs": [
+        "Ear"
+      ],
+      "references": [
+        "https://www.ncbi.nlm.nih.gov/books/NBK560877/"
+      ],
+      "facts": [
+        {
+          "question": "Location",
+          "answer": "Air-filled spaces in mastoid temporal bone, communicating with middle ear through the mastoid antrum."
+        },
+        {
+          "question": "Clinical relevance",
+          "answer": "Middle-ear infection can spread here, causing mastoiditis."
+        }
+      ],
+      "structureId": "mastoid-air-cells-b7ad5e020a",
+      "authorship": "Editorial supplement, created 2026-10-07; not transcribed from the supplied model key."
+    },
+    {
+      "name": "Fourth ventricle and dentate nucleus",
+      "types": [
+        "Brain structures"
+      ],
+      "systems": [
+        "Nervous"
+      ],
+      "organs": [
+        "Brain"
+      ],
+      "references": [
+        "https://www.ncbi.nlm.nih.gov/books/NBK532932/",
+        "https://www.ncbi.nlm.nih.gov/books/NBK554381/"
+      ],
+      "facts": [
+        {
+          "question": "Location",
+          "answer": "Fourth ventricle: between pons/upper medulla and cerebellum. Dentate: deep nucleus within each cerebellar hemisphere."
+        },
+        {
+          "question": "Function",
+          "answer": "Fourth ventricle conducts CSF to subarachnoid space via median and lateral apertures; dentate contributes to planning and coordination of movement."
+        }
+      ],
+      "structureId": "fourth-ventricle-and-dentate-nucleus-34f197c44a",
+      "authorship": "Editorial supplement, created 2026-10-07; not transcribed from the supplied model key."
+    },
+    {
+      "name": "Coronoid process of mandible",
+      "types": [
+        "Bones"
+      ],
+      "systems": [
+        "Musculoskeletal"
+      ],
+      "organs": [],
+      "references": [
+        "https://www.ncbi.nlm.nih.gov/books/NBK541027/"
+      ],
+      "facts": [
+        {
+          "question": "Location",
+          "answer": "Anterior superior projection of the mandibular ramus."
+        },
+        {
+          "question": "Attachments",
+          "answer": "Insertion of temporalis muscle; involved in elevation of the mandible."
+        }
+      ],
+      "structureId": "coronoid-process-of-mandible-68c6cb88a5",
+      "authorship": "Editorial supplement, created 2026-10-07; not transcribed from the supplied model key."
+    },
+    {
+      "name": "Medial pterygoid muscle",
+      "types": [
+        "Muscles"
+      ],
+      "systems": [
+        "Musculoskeletal"
+      ],
+      "organs": [],
+      "references": [
+        "https://www.ncbi.nlm.nih.gov/books/NBK546588/",
+        "https://www.ncbi.nlm.nih.gov/books/NBK547712/",
+        "https://www.ncbi.nlm.nih.gov/books/NBK541027/"
+      ],
+      "facts": [
+        {
+          "question": "Origin",
+          "answer": "Deep head: medial surface of lateral pterygoid plate. Superficial head: maxillary tuberosity and adjacent palatine bone."
+        },
+        {
+          "question": "Insertion",
+          "answer": "Medial surface of mandibular angle and lower ramus."
+        },
+        {
+          "question": "Actions",
+          "answer": "Elevates and assists protrusion of the mandible; unilateral contraction moves it toward the opposite side."
+        },
+        {
+          "question": "Innervation",
+          "answer": "Nerve to medial pterygoid from mandibular division of trigeminal nerve (V3)."
+        }
+      ],
+      "structureId": "medial-pterygoid-muscle-dae91d062f",
+      "authorship": "Editorial supplement, created 2026-10-07; not transcribed from the supplied model key."
+    },
+    {
+      "name": "Lateral pterygoid muscle",
+      "types": [
+        "Muscles"
+      ],
+      "systems": [
+        "Musculoskeletal"
+      ],
+      "organs": [],
+      "references": [
+        "https://www.ncbi.nlm.nih.gov/books/NBK549799/",
+        "https://www.ncbi.nlm.nih.gov/books/NBK538486/"
+      ],
+      "facts": [
+        {
+          "question": "Origin",
+          "answer": "Superior head: infratemporal surface of greater sphenoid wing. Inferior head: lateral surface of lateral pterygoid plate."
+        },
+        {
+          "question": "Insertion",
+          "answer": "Pterygoid fovea on mandibular neck; superior fibres also attach to TMJ capsule/disc."
+        },
+        {
+          "question": "Actions",
+          "answer": "Protrudes and assists depression of the mandible; unilateral contraction moves it toward the opposite side."
+        },
+        {
+          "question": "Innervation",
+          "answer": "Nerve to lateral pterygoid from mandibular division of trigeminal nerve (V3)."
+        }
+      ],
+      "structureId": "lateral-pterygoid-muscle-fc00f78e9c",
+      "authorship": "Editorial supplement, created 2026-10-07; not transcribed from the supplied model key."
+    },
+    {
+      "name": "Articular disc of temporomandibular joint",
+      "types": [
+        "Joint structures"
+      ],
+      "systems": [
+        "Musculoskeletal"
+      ],
+      "organs": [],
+      "references": [
+        "https://www.ncbi.nlm.nih.gov/books/NBK538486/"
+      ],
+      "facts": [
+        {
+          "question": "Structure",
+          "answer": "Fibrocartilaginous disc dividing the TMJ into upper and lower synovial compartments."
+        },
+        {
+          "question": "Function",
+          "answer": "Lower compartment mainly permits rotation; upper mainly permits translation during opening/protrusion."
+        }
+      ],
+      "structureId": "articular-disc-of-temporomandibular-joint-bf0c0f62ad",
+      "authorship": "Editorial supplement, created 2026-10-07; not transcribed from the supplied model key."
+    },
+    {
+      "name": "Head of mandible",
+      "types": [
+        "Bones"
+      ],
+      "systems": [
+        "Musculoskeletal"
+      ],
+      "organs": [],
+      "references": [
+        "https://www.ncbi.nlm.nih.gov/books/NBK538486/"
+      ],
+      "facts": [
+        {
+          "question": "Articulations",
+          "answer": "Articulates with the temporal mandibular fossa/articular eminence through the TMJ disc."
+        },
+        {
+          "question": "Function",
+          "answer": "Condyle participates in rotation and translation during jaw movement."
+        }
+      ],
+      "structureId": "head-of-mandible-980067a5c5",
+      "authorship": "Editorial supplement, created 2026-10-07; not transcribed from the supplied model key."
+    },
+    {
+      "name": "Vermis of cerebellum and dentate nucleus",
+      "types": [
+        "Brain structures"
+      ],
+      "systems": [
+        "Nervous"
+      ],
+      "organs": [
+        "Brain"
+      ],
+      "references": [
+        "https://www.ncbi.nlm.nih.gov/books/NBK538167/",
+        "https://www.ncbi.nlm.nih.gov/books/NBK554381/",
+        "https://www.ncbi.nlm.nih.gov/books/NBK392/"
+      ],
+      "facts": [
+        {
+          "question": "Function",
+          "answer": "Vermis: axial coordination and posture. Dentate nucleus: major output of lateral cerebellar hemisphere, supporting motor planning."
+        },
+        {
+          "question": "Relations",
+          "answer": "Vermis is midline; dentate nuclei lie laterally within cerebellar white matter."
+        }
+      ],
+      "structureId": "vermis-of-cerebellum-and-dentate-nucleus-551a8461f2",
+      "authorship": "Editorial supplement, created 2026-10-07; not transcribed from the supplied model key."
+    },
+    {
+      "name": "Bony nasal septum",
+      "types": [
+        "Bones"
+      ],
+      "systems": [
+        "Respiratory"
+      ],
+      "organs": [],
+      "references": [
+        "https://www.ncbi.nlm.nih.gov/books/NBK544232/",
+        "https://www.ncbi.nlm.nih.gov/books/NBK544328/"
+      ],
+      "facts": [
+        {
+          "question": "Structure",
+          "answer": "Mainly perpendicular plate of ethmoid superiorly and vomer posteroinferiorly; supported by maxillary and palatine crests."
+        },
+        {
+          "question": "Function",
+          "answer": "Separates the nasal cavities; septal cartilage completes the anterior septum."
+        }
+      ],
+      "structureId": "bony-nasal-septum-907eda8ac4",
+      "authorship": "Editorial supplement, created 2026-10-07; not transcribed from the supplied model key."
+    },
+    {
+      "name": "Neck of mandible",
+      "types": [
+        "Bones"
+      ],
+      "systems": [
+        "Musculoskeletal"
+      ],
+      "organs": [],
+      "references": [
+        "https://www.ncbi.nlm.nih.gov/books/NBK538486/",
+        "https://www.ncbi.nlm.nih.gov/books/NBK549799/"
+      ],
+      "facts": [
+        {
+          "question": "Location",
+          "answer": "Narrow segment below the mandibular head."
+        },
+        {
+          "question": "Attachments",
+          "answer": "Pterygoid fovea on its anterior surface receives lateral pterygoid insertion."
+        }
+      ],
+      "structureId": "neck-of-mandible-a9addc8617",
+      "authorship": "Editorial supplement, created 2026-10-07; not transcribed from the supplied model key."
+    },
+    {
+      "name": "Sigmoid sinus and internal jugular vein junction",
+      "types": [
+        "Venous sinuses"
+      ],
+      "systems": [
+        "Cardiovascular"
+      ],
+      "organs": [],
+      "references": [
+        "https://www.ncbi.nlm.nih.gov/books/NBK538507/",
+        "https://www.ncbi.nlm.nih.gov/books/NBK546605/"
+      ],
+      "facts": [
+        {
+          "question": "Location",
+          "answer": "At the jugular foramen, where sigmoid sinus continues as internal jugular vein."
+        },
+        {
+          "question": "Drainage",
+          "answer": "Carries intracranial venous blood from transverse/sigmoid sinuses into the neck."
+        }
+      ],
+      "structureId": "sigmoid-sinus-and-internal-jugular-vein-junction-91abc2b7da",
+      "authorship": "Editorial supplement, created 2026-10-07; not transcribed from the supplied model key."
+    },
+    {
+      "name": "Basilar part of occipital bone",
+      "types": [
+        "Bones"
+      ],
+      "systems": [
+        "Musculoskeletal"
+      ],
+      "organs": [],
+      "references": [
+        "https://www.ncbi.nlm.nih.gov/books/NBK541093/"
+      ],
+      "facts": [
+        {
+          "question": "Location",
+          "answer": "Anterior to foramen magnum; joins the sphenoid to form part of the clivus."
+        },
+        {
+          "question": "Relations",
+          "answer": "Clivus slopes behind the sella and lies anterior to the brainstem."
+        }
+      ],
+      "structureId": "basilar-part-of-occipital-bone-4014f6a795",
+      "authorship": "Editorial supplement, created 2026-10-07; not transcribed from the supplied model key."
+    },
+    {
+      "name": "Superior bulb of internal jugular vein",
+      "types": [
+        "Veins"
+      ],
+      "systems": [
+        "Cardiovascular"
+      ],
+      "organs": [],
+      "references": [
+        "https://www.ncbi.nlm.nih.gov/books/NBK538507/",
+        "https://pubmed.ncbi.nlm.nih.gov/2703373/"
+      ],
+      "facts": [
+        {
+          "question": "Location",
+          "answer": "Dilated upper internal jugular vein in the jugular fossa, immediately below the jugular foramen."
+        },
+        {
+          "question": "Clinical relevance",
+          "answer": "A high or dehiscent jugular bulb may lie close to the middle ear and cause pulsatile tinnitus."
+        }
+      ],
+      "structureId": "superior-bulb-of-internal-jugular-vein-baf39cb440",
+      "authorship": "Editorial supplement, created 2026-10-07; not transcribed from the supplied model key."
+    },
+    {
+      "name": "Squamous part of occipital bone",
+      "types": [
+        "Bones"
+      ],
+      "systems": [
+        "Musculoskeletal"
+      ],
+      "organs": [],
+      "references": [
+        "https://www.ncbi.nlm.nih.gov/books/NBK541093/"
+      ],
+      "facts": [
+        {
+          "question": "Location",
+          "answer": "Broad posterior part of occipital bone, behind foramen magnum."
+        },
+        {
+          "question": "Attachments",
+          "answer": "External occipital protuberance and nuchal lines provide ligament and muscle attachments."
+        }
+      ],
+      "structureId": "squamous-part-of-occipital-bone-21e769ffa8",
+      "authorship": "Editorial supplement, created 2026-10-07; not transcribed from the supplied model key."
+    }
+  ]
+}

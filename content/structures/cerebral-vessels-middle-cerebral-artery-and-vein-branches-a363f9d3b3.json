@@ -1,0 +1,126 @@
+{
+  "id": "cerebral-vessels-middle-cerebral-artery-and-vein-branches-a363f9d3b3",
+  "name": "Cerebral vessels (middle cerebral artery and vein branches)",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Blood vessels"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Cardiovascular"
+  ],
+  "organs": [
+    "Brain"
+  ],
+  "tags": [
+    "BS5_5",
+    "Brain",
+    "Drainage",
+    "Identification",
+    "Supply"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-2555e952b7",
+      "question": "Identification",
+      "preferredVariantId": "v-a363f9d3b3",
+      "variants": [
+        {
+          "id": "v-a363f9d3b3",
+          "answer": "Cerebral vessels (middle cerebral artery and vein branches)",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-28",
+              "sourceLine": 32
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-64",
+              "sourceLine": 82
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-8d65d8e93c",
+      "question": "Supply",
+      "preferredVariantId": "v-b9ee4a2f40",
+      "variants": [
+        {
+          "id": "v-b9ee4a2f40",
+          "answer": "MCA branches supply much of the lateral cerebral cortex.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-ae240bd467",
+              "sourceLine": 33
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-b3b60a8ba7",
+              "sourceLine": 83
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK549894/",
+            "https://www.ncbi.nlm.nih.gov/books/NBK546605/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    },
+    {
+      "id": "f-5da76c9849",
+      "question": "Drainage",
+      "preferredVariantId": "v-7853ee3ae2",
+      "variants": [
+        {
+          "id": "v-7853ee3ae2",
+          "answer": "Superficial cerebral veins carry cortical blood to dural venous sinuses; arterial supply and venous drainage are distinct.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-4cd8e282bc",
+              "sourceLine": 34
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-726ce1f02e",
+              "sourceLine": 84
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK549894/",
+            "https://www.ncbi.nlm.nih.gov/books/NBK546605/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 1",
+      "path": [
+        "9"
+      ],
+      "label": "9"
+    },
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 2",
+      "path": [
+        "9"
+      ],
+      "label": "9"
+    }
+  ]
+}

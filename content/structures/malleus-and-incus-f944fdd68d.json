@@ -1,0 +1,100 @@
+{
+  "id": "malleus-and-incus-f944fdd68d",
+  "name": "Malleus and incus",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Ear ossicles"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Sensory"
+  ],
+  "organs": [
+    "Ear"
+  ],
+  "tags": [
+    "BS5_5",
+    "Function",
+    "Identification",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-f222373cdc",
+      "question": "Identification",
+      "preferredVariantId": "v-f944fdd68d",
+      "variants": [
+        {
+          "id": "v-f944fdd68d",
+          "answer": "Malleus and incus",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-453",
+              "sourceLine": 620
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-82f46f1941",
+      "question": "Function",
+      "preferredVariantId": "v-f36a10603a",
+      "variants": [
+        {
+          "id": "v-f36a10603a",
+          "answer": "Transmit vibration from tympanic membrane through the ossicular chain to the stapes and oval window.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-9a4fd5b2d5",
+              "sourceLine": 621
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK482338/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    },
+    {
+      "id": "f-3e313e1885",
+      "question": "Relations",
+      "preferredVariantId": "v-6a32cd2174",
+      "variants": [
+        {
+          "id": "v-6a32cd2174",
+          "answer": "Malleus handle attaches to tympanic membrane; malleus articulates with incus, and incus with stapes.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-9569bfddfb",
+              "sourceLine": 622
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK482338/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 9",
+      "path": [
+        "9"
+      ],
+      "label": "9"
+    }
+  ]
+}

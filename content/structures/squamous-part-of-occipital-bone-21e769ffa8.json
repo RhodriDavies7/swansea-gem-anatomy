@@ -1,0 +1,99 @@
+{
+  "id": "squamous-part-of-occipital-bone-21e769ffa8",
+  "name": "Squamous part of occipital bone",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Bones"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Musculoskeletal"
+  ],
+  "organs": [],
+  "tags": [
+    "Attachments",
+    "BS5_5",
+    "Bone",
+    "Identification",
+    "Location"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-dacf3dc27c",
+      "question": "Identification",
+      "preferredVariantId": "v-21e769ffa8",
+      "variants": [
+        {
+          "id": "v-21e769ffa8",
+          "answer": "Squamous part of occipital bone",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-634",
+              "sourceLine": 865
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-ba19c97994",
+      "question": "Location",
+      "preferredVariantId": "v-ee71a54d85",
+      "variants": [
+        {
+          "id": "v-ee71a54d85",
+          "answer": "Broad posterior part of occipital bone, behind foramen magnum.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-519adaac11",
+              "sourceLine": 866
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK541093/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    },
+    {
+      "id": "f-276acf7990",
+      "question": "Attachments",
+      "preferredVariantId": "v-129b55caa5",
+      "variants": [
+        {
+          "id": "v-129b55caa5",
+          "answer": "External occipital protuberance and nuchal lines provide ligament and muscle attachments.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-051f76ff5e",
+              "sourceLine": 867
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK541093/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 11",
+      "path": [
+        "19"
+      ],
+      "label": "19"
+    }
+  ]
+}

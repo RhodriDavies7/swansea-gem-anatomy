@@ -1,0 +1,103 @@
+{
+  "id": "cerebral-peduncle-and-substantia-nigra-52b662362b",
+  "name": "Cerebral peduncle and substantia nigra",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Brain structures"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [
+    "Brain"
+  ],
+  "tags": [
+    "BS5_5",
+    "Brain",
+    "Contents",
+    "Function",
+    "Identification"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-0f144b095f",
+      "question": "Identification",
+      "preferredVariantId": "v-52b662362b",
+      "variants": [
+        {
+          "id": "v-52b662362b",
+          "answer": "Cerebral peduncle and substantia nigra",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-264",
+              "sourceLine": 383
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-74e182005e",
+      "question": "Contents",
+      "preferredVariantId": "v-f90eb5dbc5",
+      "variants": [
+        {
+          "id": "v-f90eb5dbc5",
+          "answer": "Crus cerebri: descending corticospinal, corticobulbar and corticopontine fibres. Substantia nigra lies immediately dorsal to it.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-bab67a7267",
+              "sourceLine": 384
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK551509/",
+            "https://www.ncbi.nlm.nih.gov/books/NBK536995/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    },
+    {
+      "id": "f-eaa30affa1",
+      "question": "Function",
+      "preferredVariantId": "v-95d7ae32a1",
+      "variants": [
+        {
+          "id": "v-95d7ae32a1",
+          "answer": "Substantia nigra pars compacta supplies dopamine to the striatum; degeneration is central to Parkinson's disease.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-526922d671",
+              "sourceLine": 385
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK551509/",
+            "https://www.ncbi.nlm.nih.gov/books/NBK536995/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 6",
+      "path": [
+        "19"
+      ],
+      "label": "19"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "id": "amygdala-9ad4d3ce3a",
+  "name": "Amygdala",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Brain structures"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [
+    "Brain"
+  ],
+  "tags": [
+    "BS5_5",
+    "Brain",
+    "Function",
+    "Identification",
+    "Location"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-2836b5dcc6",
+      "question": "Identification",
+      "preferredVariantId": "v-9ad4d3ce3a",
+      "variants": [
+        {
+          "id": "v-9ad4d3ce3a",
+          "answer": "Amygdala",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-237",
+              "sourceLine": 348
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-9c3debbaf0",
+      "question": "Location",
+      "preferredVariantId": "v-a92639e301",
+      "variants": [
+        {
+          "id": "v-a92639e301",
+          "answer": "Anteromedial temporal lobe, deep to the uncus and near the anterior end of the hippocampus.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-8c00372e19",
+              "sourceLine": 349
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK537102/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    },
+    {
+      "id": "f-ebd0ce80a4",
+      "question": "Function",
+      "preferredVariantId": "v-c90bd7732e",
+      "variants": [
+        {
+          "id": "v-c90bd7732e",
+          "answer": "Assigns emotional significance to stimuli, particularly fear; contributes to emotional learning and memory.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-68906dcd7e",
+              "sourceLine": 350
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK537102/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 6",
+      "path": [
+        "10"
+      ],
+      "label": "10"
+    }
+  ]
+}

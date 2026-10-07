@@ -18,7 +18,9 @@
   ],
   "tags": [
     "Action",
+    "Actions",
     "ExtraocularMuscle",
+    "Identification",
     "Innervation",
     "Insertion",
     "Muscle",
@@ -46,6 +48,11 @@
               "modelId": "eyeball-model-cs7",
               "cardId": "eyeball-model-cs7-23",
               "sourceLine": 23
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-298",
+              "sourceLine": 427
             }
           ]
         }
@@ -69,6 +76,11 @@
               "modelId": "eyeball-model-cs7",
               "cardId": "eyeball-model-cs7-24",
               "sourceLine": 24
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-299",
+              "sourceLine": 428
             }
           ]
         }
@@ -92,6 +104,11 @@
               "modelId": "eyeball-model-cs7",
               "cardId": "eyeball-model-cs7-25",
               "sourceLine": 25
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-300",
+              "sourceLine": 429
             }
           ]
         }
@@ -115,6 +132,11 @@
               "modelId": "eyeball-model-cs7",
               "cardId": "eyeball-model-cs7-26",
               "sourceLine": 26
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-301",
+              "sourceLine": 430
             }
           ]
         }
@@ -138,6 +160,11 @@
               "modelId": "eyeball-model-cs7",
               "cardId": "eyeball-model-cs7-27",
               "sourceLine": 27
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-302",
+              "sourceLine": 431
             }
           ]
         }
@@ -160,6 +187,14 @@
         "4"
       ],
       "label": "4"
+    },
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 7",
+      "path": [
+        "6"
+      ],
+      "label": "6"
     }
   ]
 }

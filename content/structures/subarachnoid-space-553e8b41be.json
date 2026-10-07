@@ -1,0 +1,152 @@
+{
+  "id": "subarachnoid-space-553e8b41be",
+  "name": "Subarachnoid space",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Anatomical spaces"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [
+    "Brain"
+  ],
+  "tags": [
+    "BS5_5",
+    "Brain",
+    "Clinicalrelevance",
+    "Contents",
+    "Identification",
+    "Location"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-8a4edf3e3b",
+      "question": "Identification",
+      "preferredVariantId": "v-553e8b41be",
+      "variants": [
+        {
+          "id": "v-553e8b41be",
+          "answer": "Subarachnoid space",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-36",
+              "sourceLine": 44
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-72",
+              "sourceLine": 94
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-bd57743248",
+      "question": "Location",
+      "preferredVariantId": "v-37236f3d65",
+      "variants": [
+        {
+          "id": "v-37236f3d65",
+          "answer": "Between arachnoid mater and pia mater.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-278d4cd6b1",
+              "sourceLine": 45
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-6bfede2475",
+              "sourceLine": 95
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK557521/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    },
+    {
+      "id": "f-9b977bfa36",
+      "question": "Contents",
+      "preferredVariantId": "v-d4aa6920b2",
+      "variants": [
+        {
+          "id": "v-d4aa6920b2",
+          "answer": "CSF, cerebral blood vessels and arachnoid trabeculae.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-497c637cf5",
+              "sourceLine": 46
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-c8abb87daf",
+              "sourceLine": 96
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK557521/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    },
+    {
+      "id": "f-87832e7cf4",
+      "question": "Clinical relevance",
+      "preferredVariantId": "v-655620aeac",
+      "variants": [
+        {
+          "id": "v-655620aeac",
+          "answer": "Rupture of a cerebral vessel can cause subarachnoid haemorrhage.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-fa9fd2147a",
+              "sourceLine": 47
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-80911db16f",
+              "sourceLine": 97
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK557521/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 1",
+      "path": [
+        "14"
+      ],
+      "label": "14"
+    },
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 2",
+      "path": [
+        "14"
+      ],
+      "label": "14"
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "id": "pituitary-gland-and-cavernous-sinus-5f4f9589f3",
+  "name": "Pituitary gland and cavernous sinus",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Anatomical structures"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Endocrine",
+    "Cardiovascular"
+  ],
+  "organs": [
+    "Pituitary"
+  ],
+  "tags": [
+    "BS5_5",
+    "Contents",
+    "Identification",
+    "Relations"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-40aa274a1f",
+      "question": "Identification",
+      "preferredVariantId": "v-5f4f9589f3",
+      "variants": [
+        {
+          "id": "v-5f4f9589f3",
+          "answer": "Pituitary gland and cavernous sinus",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-314",
+              "sourceLine": 443
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-d71e4d37ab",
+      "question": "Relations",
+      "preferredVariantId": "v-5576b904ee",
+      "variants": [
+        {
+          "id": "v-5576b904ee",
+          "answer": "Pituitary lies in the sella turcica; cavernous sinuses lie laterally and the optic chiasm is superior.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-b479da57fa",
+              "sourceLine": 444
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK551529/",
+            "https://www.ncbi.nlm.nih.gov/books/NBK459244/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    },
+    {
+      "id": "f-a31ca1bca5",
+      "question": "Contents",
+      "preferredVariantId": "v-6e6611c646",
+      "variants": [
+        {
+          "id": "v-6e6611c646",
+          "answer": "Within cavernous sinus: internal carotid artery and CN VI. In lateral wall: CN III, IV, V1 and V2.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-e7f48fbb66",
+              "sourceLine": 445
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK551529/",
+            "https://www.ncbi.nlm.nih.gov/books/NBK459244/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 7",
+      "path": [
+        "9"
+      ],
+      "label": "9"
+    }
+  ]
+}

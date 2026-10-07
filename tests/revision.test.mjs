@@ -7,10 +7,10 @@ const rawCatalog=JSON.parse(await readFile(new URL('../dist/data/catalog.json',i
 const catalog={...rawCatalog,byId:new Map(rawCatalog.structures.map(s=>[s.id,s]))};
 const manifest=JSON.parse(await readFile(new URL('../dist/data/models.json',import.meta.url)));
 const models=await Promise.all(manifest.map(m=>readFile(new URL('../dist/data/'+m.file,import.meta.url)).then(JSON.parse).then(m=>hydrateModel(m,catalog,{original:true}))));
-test('all 36 guides retain every card, answer, tag and source order',async()=>{
- assert.equal(models.length,36);assert.equal(models.reduce((n,m)=>n+m.cards.length,0),7236);
+test('all 37 guides retain every card, answer, tag and source order',async()=>{
+ assert.equal(models.length,37);assert.equal(models.reduce((n,m)=>n+m.cards.length,0),8091);
  for(const [i,m] of models.entries()){
- const lines=(await readFile(new URL('../source-guides/'+m.name+'.txt',import.meta.url),'utf8')).split(/\r?\n/);
+ const lines=(await readFile(new URL('../source-guides/'+(m.sourceGuideFile||m.name+'.txt'),import.meta.url),'utf8')).split(/\r?\n/);
  assert.equal(m.cards.length,lines.filter(l=>l.includes('→')).length);assert.equal(m.cards.length,manifest[i].count);
  assert.equal(new Set(m.cards.map(c=>c.id)).size,m.cards.length);
  for(const c of m.cards){const source=lines[c.sourceLine-1].trim();const split=source.indexOf('→');assert.equal(c.question,source.slice(0,split));assert.equal(c.answer,source.slice(split+1).replace(/(?:^|\s)#[^\s#]+/g,'').trim());assert.deepEqual(c.tags,Array.from(source.slice(split+1).matchAll(/(?:^|\s)#([^\s#]+)/g),m=>m[1]));assert.ok(c.label);}

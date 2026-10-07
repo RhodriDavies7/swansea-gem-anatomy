@@ -18,6 +18,7 @@
   "tags": [
     "Cartilage",
     "Function",
+    "Identification",
     "NasalCavity",
     "Structure"
   ],
@@ -36,6 +37,16 @@
               "modelId": "nose-and-nasal-cavity-model-fs3",
               "cardId": "nose-and-nasal-cavity-model-fs3-133",
               "sourceLine": 133
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-427",
+              "sourceLine": 588
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-504",
+              "sourceLine": 685
             }
           ]
         }
@@ -54,6 +65,16 @@
               "modelId": "nose-and-nasal-cavity-model-fs3",
               "cardId": "nose-and-nasal-cavity-model-fs3-134",
               "sourceLine": 134
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-428",
+              "sourceLine": 589
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-505",
+              "sourceLine": 686
             }
           ]
         }
@@ -72,6 +93,16 @@
               "modelId": "nose-and-nasal-cavity-model-fs3",
               "cardId": "nose-and-nasal-cavity-model-fs3-135",
               "sourceLine": 135
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-429",
+              "sourceLine": 590
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-506",
+              "sourceLine": 687
             }
           ]
         }
@@ -86,6 +117,22 @@
         "9"
       ],
       "label": "9"
+    },
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 9",
+      "path": [
+        "1"
+      ],
+      "label": "1"
+    },
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 10",
+      "path": [
+        "1"
+      ],
+      "label": "1"
     }
   ]
 }

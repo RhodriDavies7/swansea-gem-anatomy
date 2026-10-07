@@ -1,0 +1,126 @@
+{
+  "id": "anterior-horn-of-lateral-ventricle-69855c2431",
+  "name": "Anterior horn of lateral ventricle",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Ventricles"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Nervous"
+  ],
+  "organs": [
+    "Brain"
+  ],
+  "tags": [
+    "BS5_5",
+    "Brain",
+    "Contents",
+    "Identification",
+    "Location"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-4f904bb366",
+      "question": "Identification",
+      "preferredVariantId": "v-69855c2431",
+      "variants": [
+        {
+          "id": "v-69855c2431",
+          "answer": "Anterior horn of lateral ventricle",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-92",
+              "sourceLine": 127
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-134",
+              "sourceLine": 182
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-aea76a9bae",
+      "question": "Location",
+      "preferredVariantId": "v-721180f7ee",
+      "variants": [
+        {
+          "id": "v-721180f7ee",
+          "answer": "Frontal lobe; medial wall is the septum pellucidum and much of the floor is the caudate head.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-37fc6860b0",
+              "sourceLine": 128
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-50dc5d1686",
+              "sourceLine": 183
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK532932/",
+            "https://www.ncbi.nlm.nih.gov/books/NBK538156/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    },
+    {
+      "id": "f-cf7eb5e39a",
+      "question": "Contents",
+      "preferredVariantId": "v-61a0e15d32",
+      "variants": [
+        {
+          "id": "v-61a0e15d32",
+          "answer": "CSF; the anterior horn has no choroid plexus.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-76dda821de",
+              "sourceLine": 129
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-0b679e6374",
+              "sourceLine": 184
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK532932/",
+            "https://www.ncbi.nlm.nih.gov/books/NBK538156/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 3",
+      "path": [
+        "8"
+      ],
+      "label": "8"
+    },
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 4",
+      "path": [
+        "8"
+      ],
+      "label": "8"
+    }
+  ]
+}

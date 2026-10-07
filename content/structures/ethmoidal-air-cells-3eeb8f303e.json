@@ -1,0 +1,146 @@
+{
+  "id": "ethmoidal-air-cells-3eeb8f303e",
+  "name": "Ethmoidal air cells",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Paranasal sinuses"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Respiratory"
+  ],
+  "organs": [],
+  "tags": [
+    "BS5_5",
+    "Drainage",
+    "Identification",
+    "Location"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-ad78dfac1e",
+      "question": "Identification",
+      "preferredVariantId": "v-3eeb8f303e",
+      "variants": [
+        {
+          "id": "v-3eeb8f303e",
+          "answer": "Ethmoidal air cells",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-341",
+              "sourceLine": 476
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-402",
+              "sourceLine": 557
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-438",
+              "sourceLine": 603
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-3c891afdd1",
+      "question": "Location",
+      "preferredVariantId": "v-fb3d9e6d25",
+      "variants": [
+        {
+          "id": "v-fb3d9e6d25",
+          "answer": "Air-filled spaces in the ethmoid between nasal cavity and medial orbital wall.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-d8a20903a4",
+              "sourceLine": 477
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-ad3e413d93",
+              "sourceLine": 558
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-544d56b1f2",
+              "sourceLine": 604
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK544328/",
+            "https://www.ncbi.nlm.nih.gov/books/NBK544232/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    },
+    {
+      "id": "f-c9df3cd454",
+      "question": "Drainage",
+      "preferredVariantId": "v-3667e92fb7",
+      "variants": [
+        {
+          "id": "v-3667e92fb7",
+          "answer": "Anterior/middle cells drain to the middle meatus; posterior cells to the superior meatus.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-b9d73cec62",
+              "sourceLine": 478
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-9299562e5c",
+              "sourceLine": 559
+            },
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-bdd3efc920",
+              "sourceLine": 605
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK544328/",
+            "https://www.ncbi.nlm.nih.gov/books/NBK544232/"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 7",
+      "path": [
+        "17"
+      ],
+      "label": "17"
+    },
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 8",
+      "path": [
+        "16"
+      ],
+      "label": "16"
+    },
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 9",
+      "path": [
+        "5"
+      ],
+      "label": "5"
+    }
+  ]
+}

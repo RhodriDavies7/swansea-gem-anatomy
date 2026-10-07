@@ -1,0 +1,128 @@
+{
+  "id": "middle-cerebral-artery-92ab87e975",
+  "name": "Middle cerebral artery",
+  "aliases": [],
+  "scope": "",
+  "kind": "structure",
+  "types": [
+    "Arteries"
+  ],
+  "regions": [
+    "Head and neck"
+  ],
+  "systems": [
+    "Cardiovascular"
+  ],
+  "organs": [
+    "Brain"
+  ],
+  "tags": [
+    "Artery",
+    "BS5_5",
+    "Brain",
+    "Identification",
+    "Lesion",
+    "Origin",
+    "Supply"
+  ],
+  "imageIds": [],
+  "facts": [
+    {
+      "id": "f-55f6ab0013",
+      "question": "Identification",
+      "preferredVariantId": "v-92ab87e975",
+      "variants": [
+        {
+          "id": "v-92ab87e975",
+          "answer": "Middle cerebral artery",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-228",
+              "sourceLine": 336
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-78189b8a4b",
+      "question": "Origin",
+      "preferredVariantId": "v-e09967f83e",
+      "variants": [
+        {
+          "id": "v-e09967f83e",
+          "answer": "Terminal branch of the internal carotid artery; runs in the lateral sulcus.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-7c12c4dd01",
+              "sourceLine": 337
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK549894/",
+            "https://www.ahajournals.org/doi/10.1161/01.STR.21.4.637"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    },
+    {
+      "id": "f-7d95c584d5",
+      "question": "Supply",
+      "preferredVariantId": "v-2bce9741b2",
+      "variants": [
+        {
+          "id": "v-2bce9741b2",
+          "answer": "Much of the lateral hemisphere; lenticulostriate branches supply deep structures including parts of the basal ganglia and internal capsule.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-b3be3352ec",
+              "sourceLine": 338
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK549894/",
+            "https://www.ahajournals.org/doi/10.1161/01.STR.21.4.637"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    },
+    {
+      "id": "f-fce059727c",
+      "question": "Lesion",
+      "preferredVariantId": "v-3b564ec0a1",
+      "variants": [
+        {
+          "id": "v-3b564ec0a1",
+          "answer": "Contralateral face/arm weakness and sensory loss; dominant hemisphere involvement may cause aphasia, non-dominant involvement neglect.",
+          "sources": [
+            {
+              "modelId": "head-sections-model-bs5-5",
+              "cardId": "head-sections-model-bs5-5-editorial-4cada3dab5",
+              "sourceLine": 339
+            }
+          ],
+          "references": [
+            "https://www.ncbi.nlm.nih.gov/books/NBK549894/",
+            "https://www.ahajournals.org/doi/10.1161/01.STR.21.4.637"
+          ],
+          "authorship": "Editorial supplement (2026-10-07)"
+        }
+      ]
+    }
+  ],
+  "occurrences": [
+    {
+      "modelId": "head-sections-model-bs5-5",
+      "section": "Section 6",
+      "path": [
+        "7"
+      ],
+      "label": "7"
+    }
+  ]
+}
