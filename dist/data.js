@@ -26,11 +26,14 @@ export function filterStructures(structures,filters){
   return words.every(w=>text.includes(w));
  }).sort((a,b)=>Number(b.name.toLowerCase().includes(q))-Number(a.name.toLowerCase().includes(q))||a.name.localeCompare(b.name));
 }
-export function studyCards(structures,catalog,{mode='knowledge',topic=''}={}){
+export function structureImages(structure,catalog,{modelId='',section=''}={}){
+ return structure.imageIds.map(id=>catalog.imagesById.get(id)).filter(im=>im&&(!modelId||im.modelId===modelId)&&(!section||!im.section||im.section===section));
+}
+export function studyCards(structures,catalog,{mode='knowledge',topic='',modelId='',section=''}={}){
  const cards=[];
  for(const s of structures){
  if(mode==='identification'){
- const im=s.imageIds.map(id=>catalog.imagesById.get(id)).find(im=>im?.quizReady&&im.quizSrc&&im.quizStructureId===s.id);
+ const im=structureImages(s,catalog,{modelId,section}).find(im=>im?.quizReady&&im.quizSrc&&im.quizStructureId===s.id);
  if(im)cards.push({id:s.id+':identify',structureId:s.id,name:s.name,question:'Identify the marked structure',answer:s.name,image:im,identification:true,variantCount:1,sources:[]});
  }else for(const f of s.facts){if(f.question==='Identification'||(topic&&f.question!==topic))continue;for(const v of factVariants(f))cards.push({id:s.id+':'+f.id+':'+v.id,structureId:s.id,factId:f.id,name:s.name,question:f.question,answer:v.answer,identification:false,variantCount:factVariants(f).length,sources:v.sources||[]});}
  }

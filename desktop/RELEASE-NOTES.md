@@ -1,14 +1,17 @@
-Offline Swansea GEM Anatomy for macOS, with locally saved spaced repetition.
+Offline Swansea GEM Anatomy for macOS and Windows, with locally saved spaced repetition.
 
-- Again, Hard, Good and Easy recall ratings, scheduled with FSRS.
-- Review dashboard for due cards, new cards and today's ratings.
-- Ratings in model revision, library flashcards and marked-image review.
-- Progress backup export/import; newer ratings are kept when backups merge.
-- All anatomy data and images included for offline use.
-- The web version remains a fresh-run revision tool without saved ratings.
+- Combined marked-image and knowledge review sessions, or either type separately.
+- Search and filters for models, sections, difficulty, learning-outcome year, system, region, organ, structure type, tags and question types.
+- Include/exclude controls for question types, tags and multiple models.
+- Progress breakdowns by model, system and region: percentage of filtered cards whose latest rating was Good or Easy.
+- Again, Hard, Good and Easy ratings scheduled with FSRS; export/import backups.
+- Model-specific library revision now uses only photos assigned to the chosen model.
+- Scroll or pinch to zoom; drag or Shift + scroll to pan. Removed the marker effect linked to enlarged-image rendering lines.
+- Complete ad-hoc signatures fix the incomplete Mac signature in v1.1.0. Every Mac build now requires strict signature verification before packaging.
+- The website remains a fresh-run tool without saved ratings.
 
-Download **arm64** for Apple Silicon (M1 or newer), or **x64** for an Intel Mac. Requires macOS 13 or newer.
+**macOS 13 or newer:** download `arm64.dmg` for Apple Silicon (M1 or newer), or `x64.dmg` for Intel. Open the DMG and drag the app into Applications, replacing the older copy. These builds are ad-hoc signed, not Apple-notarized; macOS may still require approval under Privacy & Security.
 
-Open the DMG and drag the app into Applications. This release is unsigned and not notarized, so macOS may require approval in System Settings → Privacy & Security on first launch.
+**Windows 10/11 x64:** download the `Setup-1.2.0-x64.exe` installer. It uses the same offline data, ratings and review features. The installer is not signed with a commercial publisher certificate, so Windows may display an unrecognized-publisher warning.
 
-Progress is stored separately at `~/Library/Application Support/Swansea GEM Anatomy/progress-v1.json`, with a rolling backup. Replacing the app with a future release keeps this folder and your progress. Export a backup before moving to another Mac. Updates are installed by downloading the newer DMG and replacing the app; there is no automatic updater in this release.
+Progress is saved outside the app: macOS uses `~/Library/Application Support/Swansea GEM Anatomy/`; Windows uses `%APPDATA%\Swansea GEM Anatomy\`. Replacing/updating the app preserves it. Export a backup before moving computers; importing merges while retaining newer ratings. Updates are installed manually from these downloads.

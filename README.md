@@ -56,7 +56,7 @@ With the local server running, open http://127.0.0.1:4173/manage-images to searc
 
 ## Mac app
 
-[Download the Mac app](https://github.com/RhodriDavies7/swansea-gem-anatomy/releases/latest) for offline revision with Again, Hard, Good and Easy ratings and spaced repetition. Choose Apple Silicon (`arm64`) or Intel (`x64`); macOS 13 or newer is required. Drag the app from the DMG into Applications. This initial release is unsigned; macOS may ask for approval under Privacy & Security.
+[Download the Mac app](https://github.com/RhodriDavies7/swansea-gem-anatomy/releases/latest) for offline revision with Again, Hard, Good and Easy ratings and spaced repetition. Choose Apple Silicon (`arm64`) or Intel (`x64`); macOS 13 or newer is required. Drag the app from the DMG into Applications. The app is ad-hoc signed and not notarized; macOS may ask for approval under Privacy & Security.
 
 Progress saves after every rating in `~/Library/Application Support/Swansea GEM Anatomy/`, outside the app bundle. Installing a future version keeps your progress. Export/import backups from **Review & progress** to keep another copy or move to a different Mac. The website continues to use fresh revision runs with no saved ratings.
 
@@ -68,3 +68,15 @@ npm run desktop:package
 ```
 
 The installer is written to `release/`. `npm run desktop:dev` opens the desktop app during development. To package both Mac architectures, run `npm run desktop:package:all`. Update the package version before building a new release, push the source/tag, and attach the DMGs under GitHub Releases. Keep the app ID, fixed user-data path and progress-key format stable in future releases.
+
+### Desktop review filters and progress
+
+The desktop Review & progress page supports combined marked-image/knowledge sessions and the same anatomy filters as the library, with advanced include/exclude controls for tags, question types and multiple models. Progress reports use the latest rating for each card: Good/Easy counts toward the percentage, and a later Again/Hard removes it. Shared knowledge counts once within each relevant group; each photo counts toward its own model. These percentages describe current recall, not permanent mastery.
+
+### Windows
+
+The same GitHub release provides a Windows 10/11 x64 installer. Progress is saved in `%APPDATA%\Swansea GEM Anatomy\`, outside the installation directory, and is retained during updates. Backups can be transferred between Windows and Mac. The installer currently has no commercial code-signing certificate.
+
+Build with `npm run desktop:package:windows`. Mac installers now use complete ad-hoc signatures; a strict signature check is required before packaging. The Windows desktop check in GitHub Actions boots the app and verifies review rendering and saving without release-publishing permissions.
+
+In the enlarged image viewer, scroll/pinch zooms; drag or Shift + scroll pans.

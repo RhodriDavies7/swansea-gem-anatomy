@@ -1,5 +1,5 @@
 const style=document.createElement('link');style.rel='stylesheet';style.href=new URL('./image-viewer.css',import.meta.url);document.head.append(style);
-const dialog=document.createElement('dialog');dialog.className='image-viewer';dialog.setAttribute('aria-label','Image viewer');dialog.innerHTML='<div class="viewer-toolbar"><button data-zoom="out" aria-label="Zoom out">−</button><button data-zoom="reset">Reset</button><button data-zoom="in" aria-label="Zoom in">+</button><button data-zoom="close" aria-label="Close image viewer">Close ×</button></div><div class="viewer-stage"><div class="viewer-picture"></div></div><p class="viewer-help">Pinch to zoom · Two-finger scroll or drag to pan · Ctrl + scroll to zoom</p>';document.body.append(dialog);
+const dialog=document.createElement('dialog');dialog.className='image-viewer';dialog.setAttribute('aria-label','Image viewer');dialog.innerHTML='<div class="viewer-toolbar"><button data-zoom="out" aria-label="Zoom out">−</button><button data-zoom="reset">Reset</button><button data-zoom="in" aria-label="Zoom in">+</button><button data-zoom="close" aria-label="Close image viewer">Close ×</button></div><div class="viewer-stage"><div class="viewer-picture"></div></div><p class="viewer-help">Scroll or pinch to zoom · Drag to pan · Shift + scroll to pan</p>';document.body.append(dialog);
 const stage=dialog.querySelector('.viewer-stage'),picture=dialog.querySelector('.viewer-picture');let scale=1,x=0,y=0,origin=null;const pointers=new Map();
 function draw(){picture.style.transform=`translate(${x}px,${y}px) scale(${scale})`;}
 function reset(){scale=1;x=y=0;draw();}
@@ -22,8 +22,8 @@ let gestureScale=null;
 stage.addEventListener('wheel',event=>{
  event.preventDefault();if(gestureScale!==null)return;
  const unit=event.deltaMode===1?16:event.deltaMode===2?stage.clientHeight:1;
- if(event.ctrlKey||event.metaKey)zoom(Math.exp(-event.deltaY*unit*.01),{x:event.clientX,y:event.clientY});
- else if(scale>1){x-=event.deltaX*unit;y-=event.deltaY*unit;draw();}
+ if(event.shiftKey&&scale>1){x-=(event.deltaX||event.deltaY)*unit;draw();}
+ else zoom(Math.exp(-event.deltaY*unit*(event.ctrlKey ? 0.01 : 0.002)),{x:event.clientX,y:event.clientY});
 },{passive:false});
 // WebKit exposes trackpad pinches as gesture events instead of Ctrl+wheel.
 let gesturePoint=null;

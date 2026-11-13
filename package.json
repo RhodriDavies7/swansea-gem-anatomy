@@ -1,7 +1,7 @@
 {
   "name": "anatomy-model-revision",
   "private": true,
-  "version": "1.1.0",
+  "version": "1.2.0",
   "type": "module",
   "scripts": {
     "start": "node server.mjs",
@@ -13,7 +13,8 @@
     "desktop:vendor": "node scripts/build-desktop.mjs",
     "desktop:dev": "npm run desktop:vendor && electron .",
     "desktop:package": "npm run build:data && npm run desktop:vendor && electron-builder --mac dmg --arm64 --publish never",
-    "desktop:package:all": "npm run build:data && npm run desktop:vendor && electron-builder --mac dmg --arm64 --x64 --publish never"
+    "desktop:package:all": "npm run build:data && npm run desktop:vendor && electron-builder --mac dmg --arm64 --x64 --publish never",
+    "desktop:package:windows": "npm run build:data && npm run desktop:vendor && electron-builder --win nsis --x64 --publish never"
   },
   "engines": {
     "node": ">=20"
@@ -47,7 +48,7 @@
     "npmRebuild": false,
     "mac": {
       "category": "public.app-category.education",
-      "identity": null,
+      "identity": "-",
       "target": [
         {
           "target": "dmg",
@@ -57,7 +58,8 @@
         }
       ],
       "artifactName": "Swansea-GEM-Anatomy-${version}-${arch}.${ext}",
-      "icon": "desktop/resources/icon.png"
+      "icon": "desktop/resources/icon.png",
+      "hardenedRuntime": true
     },
     "dmg": {
       "title": "Swansea GEM Anatomy",
@@ -74,6 +76,26 @@
           "path": "/Applications"
         }
       ]
-    }
+    },
+    "win": {
+      "target": [
+        {
+          "target": "nsis",
+          "arch": [
+            "x64"
+          ]
+        }
+      ],
+      "artifactName": "Swansea-GEM-Anatomy-Setup-${version}-${arch}.${ext}",
+      "signExecutable": false,
+      "icon": "desktop/resources/icon.png"
+    },
+    "nsis": {
+      "oneClick": false,
+      "perMachine": false,
+      "allowToChangeInstallationDirectory": true,
+      "deleteAppDataOnUninstall": false
+    },
+    "afterSign": "scripts/verify-mac-signature.cjs"
   }
 }

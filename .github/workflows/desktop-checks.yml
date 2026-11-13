@@ -1,0 +1,39 @@
+name: Check Windows desktop app
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'desktop/**'
+      - 'dist/**'
+      - 'scripts/**'
+      - 'tests/**'
+      - 'package*.json'
+      - '.github/workflows/desktop-checks.yml'
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  windows:
+    runs-on: windows-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - run: npm run build:data
+      - run: npm run desktop:vendor
+      - run: npm test
+      - run: npx electron-builder --win --x64 --dir --publish never
+      - name: Launch Windows app and verify persistent review data
+        shell: pwsh
+        run: |
+          $env:ANATOMY_SMOKE_DIR = Join-Path $env:RUNNER_TEMP 'anatomy-windows-check'
+          $process = Start-Process -FilePath '.\release\win-unpacked\Swansea GEM Anatomy.exe' -PassThru
+          if (-not $process.WaitForExit(60000)) { $process.Kill(); throw 'App launch timed out' }
+          if ($process.ExitCode -ne 0) { throw "App failed with exit code $($process.ExitCode)" }
+          $result = Get-Content (Join-Path $env:ANATOMY_SMOKE_DIR 'smoke-result.json') -Raw | ConvertFrom-Json
+          if (-not $result.dashboard -or -not $result.report -or $result.records -ne 1) { throw 'Desktop review check failed' }
+          Write-Output 'Windows app launched, rendered filters/progress and saved a rating.'
