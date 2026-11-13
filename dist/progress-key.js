@@ -6,6 +6,8 @@ export function bindProgressKey(active,advance){
   if(event.repeat)return;
   const viewer=document.querySelector('dialog.image-viewer[open]');
   if(viewer){viewer.close();document.body.classList.remove('viewer-open');}
+  const good=document.querySelector('.review-grades [data-grade="3"]');
+  if(good){if(!good.disabled)good.click();return;}
   advance();
  },true);
 }

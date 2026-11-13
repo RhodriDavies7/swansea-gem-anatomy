@@ -55,3 +55,10 @@ test('library label search matches the selected model occurrence exactly',()=>{
  assert.equal(filterStructures([a,b],{query:'label 12'}).length,2);
  assert.equal(filterStructures([a,b],{query:'',modelId:'missing'}).length,0);
 });
+
+test('NS9 parent label 31 finds both named heads while 31a stays specific',()=>{
+ const names=q=>filterStructures(catalog.structures,{modelId:'foot-model-ns9',query:q}).map(s=>s.name);
+ assert.deepEqual(new Set(names('31')),new Set(['Adductor hallucis','Oblique head of adductor hallucis','Transverse head of adductor hallucis']));
+ assert.deepEqual(names('31a'),['Oblique head of adductor hallucis']);
+ assert.deepEqual(names('31b'),['Transverse head of adductor hallucis']);
+});

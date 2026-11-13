@@ -1,7 +1,7 @@
 {
   "name": "anatomy-model-revision",
   "private": true,
-  "version": "1.0.0",
+  "version": "1.1.0",
   "type": "module",
   "scripts": {
     "start": "node server.mjs",
@@ -9,9 +9,71 @@
     "build:data": "node scripts/build-data.mjs",
     "image:add": "node scripts/add-image.mjs",
     "structures:merge": "node scripts/merge-structures.mjs",
-    "structure:find": "node scripts/find-structure.mjs"
+    "structure:find": "node scripts/find-structure.mjs",
+    "desktop:vendor": "node scripts/build-desktop.mjs",
+    "desktop:dev": "npm run desktop:vendor && electron .",
+    "desktop:package": "npm run build:data && npm run desktop:vendor && electron-builder --mac dmg --arm64 --publish never",
+    "desktop:package:all": "npm run build:data && npm run desktop:vendor && electron-builder --mac dmg --arm64 --x64 --publish never"
   },
   "engines": {
     "node": ">=20"
+  },
+  "devDependencies": {
+    "electron": "^45.3.1",
+    "electron-builder": "^26.18.0",
+    "esbuild": "^0.28.2",
+    "ts-fsrs": "^6.0.0"
+  },
+  "productName": "Swansea GEM Anatomy",
+  "description": "Offline anatomy revision with local spaced-repetition progress",
+  "author": "Rhodri Davies",
+  "main": "desktop/main.mjs",
+  "build": {
+    "appId": "uk.rhodridavies.swansea-gem-anatomy",
+    "productName": "Swansea GEM Anatomy",
+    "directories": {
+      "output": "release",
+      "buildResources": "desktop/resources"
+    },
+    "files": [
+      "desktop/main.mjs",
+      "desktop/preload.cjs",
+      "desktop/progress-store.mjs",
+      "dist/**/*",
+      "package.json",
+      "!dist/documents/bs5-5-key.pdf"
+    ],
+    "asar": true,
+    "npmRebuild": false,
+    "mac": {
+      "category": "public.app-category.education",
+      "identity": null,
+      "target": [
+        {
+          "target": "dmg",
+          "arch": [
+            "arm64"
+          ]
+        }
+      ],
+      "artifactName": "Swansea-GEM-Anatomy-${version}-${arch}.${ext}",
+      "icon": "desktop/resources/icon.png"
+    },
+    "dmg": {
+      "title": "Swansea GEM Anatomy",
+      "contents": [
+        {
+          "x": 160,
+          "y": 180,
+          "type": "file"
+        },
+        {
+          "x": 460,
+          "y": 180,
+          "type": "link",
+          "path": "/Applications"
+        }
+      ]
+    }
   }
 }

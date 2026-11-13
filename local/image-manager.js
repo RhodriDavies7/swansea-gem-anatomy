@@ -1,3 +1,4 @@
+import {matchesLabel} from '/data.js';
 import {enhanceFilters} from '/filter-menu.js';
 const $=s=>document.querySelector(s),escape=s=>String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 let catalog=await fetch('./data/catalog.json').then(r=>r.json());let section='',selected=null,file=null,marker=null,url=null;
@@ -9,7 +10,7 @@ function results(){
  const q=$('#structure-search').value.toLowerCase().trim(),modelId=$('#search-model').value;
  const labelQuery=q.replace(/^(?:label\s*|#)/,'').replace(/\s+/g,'');
  const numeric=/^\d+[a-z]?$/.test(labelQuery);
- const matches=(q||modelId)?catalog.structures.filter(s=>s.kind!=='model-note').map(s=>({s,occurrences:s.occurrences.filter(o=>(!modelId||o.modelId===modelId)&&(!section||o.section===section)&&(!q||(!numeric&&[s.name,...s.aliases].some(n=>n.toLowerCase().includes(q)))||String(o.label).toLowerCase().replace(/\s+/g,'')===labelQuery))})).filter(r=>r.occurrences.length).sort((a,b)=>modelId?String(a.occurrences[0].label).localeCompare(String(b.occurrences[0].label),undefined,{numeric:true}):a.s.name.localeCompare(b.s.name)):[];
+ const matches=(q||modelId)?catalog.structures.filter(s=>s.kind!=='model-note').map(s=>({s,occurrences:s.occurrences.filter(o=>(!modelId||o.modelId===modelId)&&(!section||o.section===section)&&(!q||(!numeric&&[s.name,...s.aliases].some(n=>n.toLowerCase().includes(q)))||matchesLabel(o.label,labelQuery)))})).filter(r=>r.occurrences.length).sort((a,b)=>modelId?String(a.occurrences[0].label).localeCompare(String(b.occurrences[0].label),undefined,{numeric:true}):a.s.name.localeCompare(b.s.name)):[];
  $('#structure-choices').innerHTML=matches.slice(0,50).map(({s,occurrences})=>`<button type="button" data-id="${s.id}" aria-pressed="${selected?.id===s.id}"><strong>${escape(s.name)}</strong><br><small>${occurrences.map(o=>escape((models.find(m=>m.id===o.modelId)?.name||o.modelId)+' · Label '+o.label+(o.section?' · '+o.section:''))).join('<br>')}</small></button>`).join('')+(matches.length>50?`<small>Showing 50 of ${matches.length} structures. Search by name or label to narrow the list.</small>`:'')||'<small>'+((q||modelId)?'No matching structures. Try another label or model.':'Choose a model or search by name or label.')+'</small>';
 }
 $('#search-model').addEventListener('change',()=>{section='';drawSections();selected=null;modelChoices();$('#selected-structure').textContent='Choose a structure from the results.';results();});

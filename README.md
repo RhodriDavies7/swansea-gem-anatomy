@@ -4,11 +4,11 @@ An anatomy lab tool by Rhodri, with model revision and a shared knowledge librar
 
 ## Two ways to study
 
-**Model revision** follows the labelled structures on 34 anatomy models. Choose all cards or identification only, filter by tags, and work through them in order or at random. Structure names stay hidden until you ask for a hint or reveal the answer.
+**Model revision** follows the labelled structures on 37 anatomy models. Choose all cards or identification only, filter by tags, and work through them in order or at random. Structure names stay hidden until you ask for a hint or reveal the answer.
 
 **Anatomy library** brings information together across models. Search names and facts, browse by structure type, system, region or organ collection, and read each structure's anatomy with links back to its source models. Revise one structure or a filtered set using knowledge questions. Image-identification runs become available as quiz-ready structure images are added.
 
-Every run is a fresh session. There are no accounts, scores or spaced-repetition schedules.
+On the website, every run is a fresh session without saved progress. The Mac app adds local spaced-repetition schedules.
 
 | Key | During revision |
 | --- | --- |
@@ -53,3 +53,18 @@ The generated `dist/` folder can also be hosted by another static web host. The 
 Use **Mock spotter** for 30 image-based questions with optional timing and end-of-run self-marking. Shorter practice runs become available as you add images.
 
 With the local server running, open http://127.0.0.1:4173/manage-images to search for a structure, choose an image and click its target. Saving updates the library automatically. See [the guide](docs/maintenance.md).
+
+## Mac app
+
+[Download the Mac app](https://github.com/RhodriDavies7/swansea-gem-anatomy/releases/latest) for offline revision with Again, Hard, Good and Easy ratings and spaced repetition. Choose Apple Silicon (`arm64`) or Intel (`x64`); macOS 13 or newer is required. Drag the app from the DMG into Applications. This initial release is unsigned; macOS may ask for approval under Privacy & Security.
+
+Progress saves after every rating in `~/Library/Application Support/Swansea GEM Anatomy/`, outside the app bundle. Installing a future version keeps your progress. Export/import backups from **Review & progress** to keep another copy or move to a different Mac. The website continues to use fresh revision runs with no saved ratings.
+
+To build the desktop app from source:
+
+```sh
+npm ci
+npm run desktop:package
+```
+
+The installer is written to `release/`. `npm run desktop:dev` opens the desktop app during development. To package both Mac architectures, run `npm run desktop:package:all`. Update the package version before building a new release, push the source/tag, and attach the DMGs under GitHub Releases. Keep the app ID, fixed user-data path and progress-key format stable in future releases.

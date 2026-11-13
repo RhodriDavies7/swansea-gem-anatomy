@@ -1,3 +1,4 @@
+export function matchesLabel(value,query){const label=String(value).toLowerCase().replace(/\s+/g,'');const q=String(query).toLowerCase().trim().replace(/^(?:label\s*|#)/,'').replace(/\s+/g,'');return label===q||(/^\d+$/.test(q)&&new RegExp('^'+q+'[a-z]$').test(label));}
 export function indexCatalog(catalog){
  const byId=new Map(catalog.structures.map(s=>[s.id,s]));
  for(const s of catalog.structures)for(const oldId of s.redirectIds||[])byId.set(oldId,s);
@@ -20,7 +21,7 @@ export function filterStructures(structures,filters){
   if((Array.isArray(filters.difficulty)?!filters.difficulty.includes(s.difficulty):filters.difficulty&&s.difficulty!==filters.difficulty)||(filters.year&&!(s.years?.length?s.years:['Year not mapped']).includes(filters.year)))return false;
   if(s.kind==='model-note'||((filters.modelId||filters.section)&&!occurrences.length))return false;
   if(!['types','regions','systems','organs','tags'].every(k=>!filters[k]||s[k].includes(filters[k]))||(filters.images&&!s.imageIds.length))return false;
-  if(isLabel)return occurrences.some(o=>String(o.label).toLowerCase().replace(/\s+/g,'')===label);
+  if(isLabel)return occurrences.some(o=>matchesLabel(o.label,label));
   const text=[s.name,...s.aliases,...s.tags,...s.facts.flatMap(f=>factVariants(f).map(v=>v.answer))].join(' ').toLowerCase();
   return words.every(w=>text.includes(w));
  }).sort((a,b)=>Number(b.name.toLowerCase().includes(q))-Number(a.name.toLowerCase().includes(q))||a.name.localeCompare(b.name));
@@ -31,7 +32,7 @@ export function studyCards(structures,catalog,{mode='knowledge',topic=''}={}){
  if(mode==='identification'){
  const im=s.imageIds.map(id=>catalog.imagesById.get(id)).find(im=>im?.quizReady&&im.quizSrc&&im.quizStructureId===s.id);
  if(im)cards.push({id:s.id+':identify',structureId:s.id,name:s.name,question:'Identify the marked structure',answer:s.name,image:im,identification:true,variantCount:1,sources:[]});
- }else for(const f of s.facts){if(f.question==='Identification'||(topic&&f.question!==topic))continue;for(const v of factVariants(f))cards.push({id:s.id+':'+f.id+':'+v.id,structureId:s.id,name:s.name,question:f.question,answer:v.answer,identification:false,variantCount:factVariants(f).length,sources:v.sources||[]});}
+ }else for(const f of s.facts){if(f.question==='Identification'||(topic&&f.question!==topic))continue;for(const v of factVariants(f))cards.push({id:s.id+':'+f.id+':'+v.id,structureId:s.id,factId:f.id,name:s.name,question:f.question,answer:v.answer,identification:false,variantCount:factVariants(f).length,sources:v.sources||[]});}
  }
  return cards;
 }
