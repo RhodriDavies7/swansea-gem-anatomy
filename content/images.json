@@ -42,20 +42,6 @@
     "quizStructureId": "flexor-digitorum-superficialis-468c9b107d"
   },
   {
-    "id": "img-10c1955083a7",
-    "src": "images/structures/78e464f60061e9ca.jpg",
-    "alt": "Tibialis posterior tendon — Foot (Model NS9)",
-    "caption": "",
-    "credit": "Local image",
-    "license": "",
-    "sourceUrl": "",
-    "quizReady": true,
-    "modelId": "foot-model-ns9",
-    "quizSrc": "images/structures/78e464f60061e9ca.jpg",
-    "quizAlt": "Identify the pinned structure.",
-    "quizStructureId": "tibialis-posterior-tendon-487811048d"
-  },
-  {
     "id": "img-2cc522fc1432",
     "src": "images/structures/cc11f24571418245.jpeg",
     "alt": "Bicuspid valve (mitral / left atrioventricular valve) — Heart (Model HS5)",
@@ -222,20 +208,6 @@
     "quizSrc": "images/structures/80e70cf51b988859.jpg",
     "quizAlt": "Identify the pinned structure.",
     "quizStructureId": "femoral-artery-0c033ab737"
-  },
-  {
-    "id": "img-22d9c21f96e1",
-    "src": "images/structures/e574a384ac7abe56.jpg",
-    "alt": "Tibialis anterior muscle — Lower Limb (Model NS10)",
-    "caption": "",
-    "credit": "Local image",
-    "license": "",
-    "sourceUrl": "",
-    "quizReady": true,
-    "modelId": "lower-limb-model-ns10",
-    "quizSrc": "images/structures/e574a384ac7abe56.jpg",
-    "quizAlt": "Identify the pinned structure.",
-    "quizStructureId": "tibialis-anterior-muscle-5d8a2b6522"
   },
   {
     "id": "img-368aaf97689e",
@@ -3968,6 +3940,1464 @@
     "quizMarker": {
       "x": 0.7476190476190476,
       "y": 0.47114955357142857
+    }
+  },
+  {
+    "id": "img-90cb0624d034",
+    "src": "images/structures/64eb462b974a95f8.jpg",
+    "alt": "Tibia — Foot (Model NS9)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "foot-model-ns9",
+    "quizSrc": "images/structures/64eb462b974a95f8.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "tibia-2cd9462aa8",
+    "quizMarker": {
+      "x": 0.3761904761904762,
+      "y": 0.5620907738095238
+    }
+  },
+  {
+    "id": "img-c39c5e615502",
+    "src": "images/structures/64eb462b974a95f8.jpg",
+    "alt": "Medial malleolus — Foot (Model NS9)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "foot-model-ns9",
+    "quizSrc": "images/structures/64eb462b974a95f8.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "medial-malleolus-b6c955b62f",
+    "quizMarker": {
+      "x": 0.5317460317460317,
+      "y": 0.530673363095238
+    }
+  },
+  {
+    "id": "img-945ffe50b9bf",
+    "src": "images/structures/64eb462b974a95f8.jpg",
+    "alt": "First metatarsal — Foot (Model NS9)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "foot-model-ns9",
+    "quizSrc": "images/structures/64eb462b974a95f8.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "first-metatarsal-daa13e67e4",
+    "quizMarker": {
+      "x": 0.719047619047619,
+      "y": 0.41685267857142855
+    }
+  },
+  {
+    "id": "img-57fb76d25c27",
+    "src": "images/structures/64eb462b974a95f8.jpg",
+    "alt": "Fibula — Foot (Model NS9)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "foot-model-ns9",
+    "quizSrc": "images/structures/64eb462b974a95f8.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "fibula-c574eff962",
+    "quizMarker": {
+      "x": 0.16666666666666666,
+      "y": 0.6199590773809524
+    }
+  },
+  {
+    "id": "img-006087136152",
+    "src": "images/structures/9403ecfd5426d5c5.jpg",
+    "alt": "Fifth metatarsal — Foot (Model NS9)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "foot-model-ns9",
+    "quizSrc": "images/structures/9403ecfd5426d5c5.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "fifth-metatarsal-103314283c",
+    "quizMarker": {
+      "x": 0.21746031746031746,
+      "y": 0.3359002976190476
+    }
+  },
+  {
+    "id": "img-346c505ca7d7",
+    "src": "images/structures/9403ecfd5426d5c5.jpg",
+    "alt": "Extensor digitorum brevis muscle — Foot (Model NS9)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "foot-model-ns9",
+    "quizSrc": "images/structures/9403ecfd5426d5c5.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "extensor-digitorum-brevis-muscle-ba7a4a0d2e",
+    "quizMarker": {
+      "x": 0.3476190476190476,
+      "y": 0.40613839285714287
+    }
+  },
+  {
+    "id": "img-6c0fe91a2411",
+    "src": "images/structures/9403ecfd5426d5c5.jpg",
+    "alt": "Lateral malleolus — Foot (Model NS9)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "foot-model-ns9",
+    "quizSrc": "images/structures/9403ecfd5426d5c5.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "lateral-malleolus-0bb8df05d5",
+    "quizMarker": {
+      "x": 0.3952380952380952,
+      "y": 0.5037574404761904
+    }
+  },
+  {
+    "id": "img-80a40de4b3ff",
+    "src": "images/structures/9403ecfd5426d5c5.jpg",
+    "alt": "Anterior inferior tibiofibular ligament — Foot (Model NS9)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "foot-model-ns9",
+    "quizSrc": "images/structures/9403ecfd5426d5c5.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "anterior-inferior-tibiofibular-ligament-f564318006",
+    "quizMarker": {
+      "x": 0.4396825396825397,
+      "y": 0.48470982142857144
+    }
+  },
+  {
+    "id": "img-538f8a3d6e99",
+    "src": "images/structures/9403ecfd5426d5c5.jpg",
+    "alt": "Fibularis (or peroneus) brevis muscle — Foot (Model NS9)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "foot-model-ns9",
+    "quizSrc": "images/structures/9403ecfd5426d5c5.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "fibularis-or-peroneus-brevis-muscle-e97127f1c6",
+    "quizMarker": {
+      "x": 0.5063492063492063,
+      "y": 0.5430431547619048
+    }
+  },
+  {
+    "id": "img-03d765c4cab6",
+    "src": "images/structures/9403ecfd5426d5c5.jpg",
+    "alt": "Fibularis (or peroneus) longus muscle — Foot (Model NS9)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "foot-model-ns9",
+    "quizSrc": "images/structures/9403ecfd5426d5c5.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "fibularis-or-peroneus-longus-muscle-2784e83ea7",
+    "quizMarker": {
+      "x": 0.5507936507936508,
+      "y": 0.5711495535714286
+    }
+  },
+  {
+    "id": "img-8bf256adbfd1",
+    "src": "images/structures/99c67e668da769b3.jpg",
+    "alt": "Dorsal interosseus — Foot (Model NS9)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "foot-model-ns9",
+    "quizSrc": "images/structures/99c67e668da769b3.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "dorsal-interosseus-30592aaa21",
+    "quizMarker": {
+      "x": 0.22063492063492063,
+      "y": 0.33232886904761905
+    }
+  },
+  {
+    "id": "img-ae9fe107d3e9",
+    "src": "images/structures/99c67e668da769b3.jpg",
+    "alt": "Tuberosity of 5th metatarsal — Foot (Model NS9)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "foot-model-ns9",
+    "quizSrc": "images/structures/99c67e668da769b3.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "tuberosity-of-5th-metatarsal-6d8fb6b849",
+    "quizMarker": {
+      "x": 0.2746031746031746,
+      "y": 0.41566220238095236
+    }
+  },
+  {
+    "id": "img-9a442540bf25",
+    "src": "images/structures/99c67e668da769b3.jpg",
+    "alt": "Intermediate dorsal cutaneous nerve — Foot (Model NS9)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "foot-model-ns9",
+    "quizSrc": "images/structures/99c67e668da769b3.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "intermediate-dorsal-cutaneous-nerve-bff0b840cc",
+    "quizMarker": {
+      "x": 0.49682539682539684,
+      "y": 0.3609002976190476
+    }
+  },
+  {
+    "id": "img-4b5cc0226e39",
+    "src": "images/structures/99c67e668da769b3.jpg",
+    "alt": "Inferior fibular (peroneal) retinaculum — Foot (Model NS9)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "foot-model-ns9",
+    "quizSrc": "images/structures/99c67e668da769b3.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "inferior-fibular-peroneal-retinaculum-4612b2d1b8",
+    "quizMarker": {
+      "x": 0.44285714285714284,
+      "y": 0.4680431547619048
+    }
+  },
+  {
+    "id": "img-619c9ec85475",
+    "src": "images/structures/99c67e668da769b3.jpg",
+    "alt": "Lateral dorsal cutaneous nerve (branch of sural nerve) — Foot (Model NS9)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "foot-model-ns9",
+    "quizSrc": "images/structures/99c67e668da769b3.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "lateral-dorsal-cutaneous-nerve-branch-of-sural-nerve-53b1b2a9ba",
+    "quizMarker": {
+      "x": 0.45555555555555555,
+      "y": 0.4954241071428571
+    }
+  },
+  {
+    "id": "img-76d0813f84f3",
+    "src": "images/structures/99c67e668da769b3.jpg",
+    "alt": "Superior fibular (peroneal) retinaculum — Foot (Model NS9)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "foot-model-ns9",
+    "quizSrc": "images/structures/99c67e668da769b3.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "superior-fibular-peroneal-retinaculum-99761a1fb0",
+    "quizMarker": {
+      "x": 0.573015873015873,
+      "y": 0.5037574404761904
+    }
+  },
+  {
+    "id": "img-e8012ff0768b",
+    "src": "images/structures/99c67e668da769b3.jpg",
+    "alt": "Lateral calcaneal branches of fibular artery — Foot (Model NS9)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "foot-model-ns9",
+    "quizSrc": "images/structures/99c67e668da769b3.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "lateral-calcaneal-branches-of-fibular-artery-4f58934302",
+    "quizMarker": {
+      "x": 0.5380952380952381,
+      "y": 0.5263764880952381
+    }
+  },
+  {
+    "id": "img-17b81663342e",
+    "src": "images/structures/99c67e668da769b3.jpg",
+    "alt": "Lateral calcaneal branches of sural nerve — Foot (Model NS9)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "foot-model-ns9",
+    "quizSrc": "images/structures/99c67e668da769b3.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "lateral-calcaneal-branches-of-sural-nerve-a54e1bb871",
+    "quizMarker": {
+      "x": 0.573015873015873,
+      "y": 0.5311383928571428
+    }
+  },
+  {
+    "id": "img-576ba06c1ccc",
+    "src": "images/structures/99c67e668da769b3.jpg",
+    "alt": "Calcaneus — Foot (Model NS9)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "foot-model-ns9",
+    "quizSrc": "images/structures/99c67e668da769b3.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "calcaneus-d582ccdaa8",
+    "quizMarker": {
+      "x": 0.553968253968254,
+      "y": 0.6025669642857143
+    }
+  },
+  {
+    "id": "img-4dcd536521af",
+    "src": "images/structures/6b2bcca45ba8cdc3.jpg",
+    "alt": "Flexor digitorum longus muscle — Foot (Model NS9)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "foot-model-ns9",
+    "quizSrc": "images/structures/6b2bcca45ba8cdc3.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "flexor-digitorum-longus-muscle-5e5b85cced",
+    "quizMarker": {
+      "x": 0.32857142857142857,
+      "y": 0.36804315476190474
+    }
+  },
+  {
+    "id": "img-bd2e9b4dac23",
+    "src": "images/structures/6b2bcca45ba8cdc3.jpg",
+    "alt": "Talus — Foot (Model NS9)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "foot-model-ns9",
+    "quizSrc": "images/structures/6b2bcca45ba8cdc3.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "talus-1daed69cde",
+    "quizMarker": {
+      "x": 0.373015873015873,
+      "y": 0.5120907738095238
+    }
+  },
+  {
+    "id": "img-14c4a205dd1f",
+    "src": "images/structures/6b2bcca45ba8cdc3.jpg",
+    "alt": "Medial calcaneal branches of posterior tibial artery — Foot (Model NS9)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "foot-model-ns9",
+    "quizSrc": "images/structures/6b2bcca45ba8cdc3.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "medial-calcaneal-branches-of-posterior-tibial-artery-14ec1584df",
+    "quizMarker": {
+      "x": 0.40793650793650793,
+      "y": 0.5585193452380952
+    }
+  },
+  {
+    "id": "img-6b42032901c1",
+    "src": "images/structures/6b2bcca45ba8cdc3.jpg",
+    "alt": "Flexor retinaculum of the foot — Foot (Model NS9)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "foot-model-ns9",
+    "quizSrc": "images/structures/6b2bcca45ba8cdc3.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "flexor-retinaculum-of-the-foot-3a5aa46fd8",
+    "quizMarker": {
+      "x": 0.5666666666666667,
+      "y": 0.4680431547619048
+    }
+  },
+  {
+    "id": "img-88910676ded9",
+    "src": "images/structures/211da750d519b54a.jpg",
+    "alt": "Medial (deltoid) ligament — Foot (Model NS9)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "foot-model-ns9",
+    "quizSrc": "images/structures/211da750d519b54a.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "medial-deltoid-ligament-4026edfb14",
+    "quizMarker": {
+      "x": 0.2714285714285714,
+      "y": 0.47114955357142857
+    }
+  },
+  {
+    "id": "img-45d995278df6",
+    "src": "images/structures/211da750d519b54a.jpg",
+    "alt": "Navicular — Foot (Model NS9)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "foot-model-ns9",
+    "quizSrc": "images/structures/211da750d519b54a.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "navicular-38f681bb35",
+    "quizMarker": {
+      "x": 0.31587301587301586,
+      "y": 0.4890066964285714
+    }
+  },
+  {
+    "id": "img-d4a8d38dded4",
+    "src": "images/structures/211da750d519b54a.jpg",
+    "alt": "Abductor hallucis muscle — Foot (Model NS9)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "foot-model-ns9",
+    "quizSrc": "images/structures/211da750d519b54a.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "abductor-hallucis-muscle-91201c06ea",
+    "quizMarker": {
+      "x": 0.46825396825396826,
+      "y": 0.5806733630952381
+    }
+  },
+  {
+    "id": "img-075e0cc029f9",
+    "src": "images/structures/31d93ed6cae19e12.jpg",
+    "alt": "Tibialis anterior muscle — Foot (Model NS9)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "foot-model-ns9",
+    "quizSrc": "images/structures/31d93ed6cae19e12.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "tibialis-anterior-muscle-5d8a2b6522",
+    "quizMarker": {
+      "x": 0.8015873015873016,
+      "y": 0.1275669642857143
+    }
+  },
+  {
+    "id": "img-e2d8cef2d77a",
+    "src": "images/structures/31d93ed6cae19e12.jpg",
+    "alt": "Extensor digitorum longus muscle — Foot (Model NS9)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "foot-model-ns9",
+    "quizSrc": "images/structures/31d93ed6cae19e12.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "extensor-digitorum-longus-muscle-b047cff5fd",
+    "quizMarker": {
+      "x": 0.7253968253968254,
+      "y": 0.2775669642857143
+    }
+  },
+  {
+    "id": "img-1f710cc43604",
+    "src": "images/structures/31d93ed6cae19e12.jpg",
+    "alt": "Extensor hallucis longus muscle — Foot (Model NS9)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "foot-model-ns9",
+    "quizSrc": "images/structures/31d93ed6cae19e12.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "extensor-hallucis-longus-muscle-24086f9e7c",
+    "quizMarker": {
+      "x": 0.6746031746031746,
+      "y": 0.3156622023809524
+    }
+  },
+  {
+    "id": "img-cd9a237aacb6",
+    "src": "images/structures/31d93ed6cae19e12.jpg",
+    "alt": "Inferior extensor retinaculum — Foot (Model NS9)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "foot-model-ns9",
+    "quizSrc": "images/structures/31d93ed6cae19e12.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "inferior-extensor-retinaculum-788b197f75",
+    "quizMarker": {
+      "x": 0.6238095238095238,
+      "y": 0.35375744047619045
+    }
+  },
+  {
+    "id": "img-551f9b496df9",
+    "src": "images/structures/31d93ed6cae19e12.jpg",
+    "alt": "Fibularis (peroneus) tertius — Foot (Model NS9)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "foot-model-ns9",
+    "quizSrc": "images/structures/31d93ed6cae19e12.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "fibularis-peroneus-tertius-0afa864387",
+    "quizMarker": {
+      "x": 0.6111111111111112,
+      "y": 0.519233630952381
+    }
+  },
+  {
+    "id": "img-bf7481e6b22d",
+    "src": "images/structures/03aebed87a065108.jpg",
+    "alt": "Extensor hallucis brevis muscle — Foot (Model NS9)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "foot-model-ns9",
+    "quizSrc": "images/structures/03aebed87a065108.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "extensor-hallucis-brevis-muscle-53ac39b740",
+    "quizMarker": {
+      "x": 0.49682539682539684,
+      "y": 0.5097098214285715
+    }
+  },
+  {
+    "id": "img-e2d6a7aae787",
+    "src": "images/structures/03aebed87a065108.jpg",
+    "alt": "Medial dorsal cutaneous nerve — Foot (Model NS9)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "foot-model-ns9",
+    "quizSrc": "images/structures/03aebed87a065108.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "medial-dorsal-cutaneous-nerve-1c3bd45d70",
+    "quizMarker": {
+      "x": 0.5317460317460317,
+      "y": 0.49899553571428573
+    }
+  },
+  {
+    "id": "img-c46ccb0575aa",
+    "src": "images/structures/03aebed87a065108.jpg",
+    "alt": "Dorsal metatarsal arteries — Foot (Model NS9)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "foot-model-ns9",
+    "quizSrc": "images/structures/03aebed87a065108.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "dorsal-metatarsal-arteries-8f1227970a",
+    "quizMarker": {
+      "x": 0.4238095238095238,
+      "y": 0.6251860119047619
+    }
+  },
+  {
+    "id": "img-43ab96228444",
+    "src": "images/structures/6c4b76088524ca30.jpg",
+    "alt": "Calcaneal (Achilles) tendon — Foot (Model NS9)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "foot-model-ns9",
+    "quizSrc": "images/structures/6c4b76088524ca30.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "calcaneal-achilles-tendon-888c079a0e",
+    "quizMarker": {
+      "x": 0.31587301587301586,
+      "y": 0.432328869047619
+    }
+  },
+  {
+    "id": "img-73738961810f",
+    "src": "images/structures/33f26a3df4a3ced3.jpg",
+    "alt": "Tibial nerve — Foot (Model NS9)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "foot-model-ns9",
+    "quizSrc": "images/structures/33f26a3df4a3ced3.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "tibial-nerve-603529bed3",
+    "quizMarker": {
+      "x": 0.3952380952380952,
+      "y": 0.24066220238095237
+    }
+  },
+  {
+    "id": "img-18d125354e35",
+    "src": "images/structures/33f26a3df4a3ced3.jpg",
+    "alt": "Posterior tibial artery — Foot (Model NS9)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "foot-model-ns9",
+    "quizSrc": "images/structures/33f26a3df4a3ced3.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "posterior-tibial-artery-0c70409839",
+    "quizMarker": {
+      "x": 0.4174603174603175,
+      "y": 0.3013764880952381
+    }
+  },
+  {
+    "id": "img-7d534be01bc5",
+    "src": "images/structures/33f26a3df4a3ced3.jpg",
+    "alt": "Flexor hallucis longus muscle — Foot (Model NS9)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "foot-model-ns9",
+    "quizSrc": "images/structures/33f26a3df4a3ced3.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "flexor-hallucis-longus-muscle-76480a1e13",
+    "quizMarker": {
+      "x": 0.36666666666666664,
+      "y": 0.4870907738095238
+    }
+  },
+  {
+    "id": "img-8da53bf25538",
+    "src": "images/structures/99c7df7792e68829.jpg",
+    "alt": "Tibialis posterior tendon — Foot (Model NS9)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "foot-model-ns9",
+    "quizSrc": "images/structures/99c7df7792e68829.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "tibialis-posterior-tendon-487811048d",
+    "quizMarker": {
+      "x": 0.24285714285714285,
+      "y": 0.42042410714285716
+    }
+  },
+  {
+    "id": "img-cb92c309f150",
+    "src": "images/structures/99c7df7792e68829.jpg",
+    "alt": "Medial plantar nerve — Foot (Model NS9)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "foot-model-ns9",
+    "quizSrc": "images/structures/99c7df7792e68829.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "medial-plantar-nerve-3715982bec",
+    "quizMarker": {
+      "x": 0.2523809523809524,
+      "y": 0.45018601190476193
+    }
+  },
+  {
+    "id": "img-ffb0aceffc33",
+    "src": "images/structures/99c7df7792e68829.jpg",
+    "alt": "Flexor hallucis brevis — Foot (Model NS9)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "foot-model-ns9",
+    "quizSrc": "images/structures/99c7df7792e68829.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "flexor-hallucis-brevis-4ab9ace596",
+    "quizMarker": {
+      "x": 0.43333333333333335,
+      "y": 0.4282924107142857
+    }
+  },
+  {
+    "id": "img-88de193dcf5e",
+    "src": "images/structures/99c7df7792e68829.jpg",
+    "alt": "Medial plantar artery — Foot (Model NS9)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "foot-model-ns9",
+    "quizSrc": "images/structures/99c7df7792e68829.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "medial-plantar-artery-5fe2b126ab",
+    "quizMarker": {
+      "x": 0.34444444444444444,
+      "y": 0.47161458333333334
+    }
+  },
+  {
+    "id": "img-c061d88b93af",
+    "src": "images/structures/99c7df7792e68829.jpg",
+    "alt": "Lateral plantar nerve — Foot (Model NS9)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "foot-model-ns9",
+    "quizSrc": "images/structures/99c7df7792e68829.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "lateral-plantar-nerve-af82ee05e2",
+    "quizMarker": {
+      "x": 0.30952380952380953,
+      "y": 0.5430431547619048
+    }
+  },
+  {
+    "id": "img-882a318c919b",
+    "src": "images/structures/99c7df7792e68829.jpg",
+    "alt": "Lateral plantar artery — Foot (Model NS9)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "foot-model-ns9",
+    "quizSrc": "images/structures/99c7df7792e68829.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "lateral-plantar-artery-552c56f3d3",
+    "quizMarker": {
+      "x": 0.32222222222222224,
+      "y": 0.5585193452380952
+    }
+  },
+  {
+    "id": "img-faf5049601c2",
+    "src": "images/structures/99c7df7792e68829.jpg",
+    "alt": "Flexor digitorum longus tendon — Foot (Model NS9)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "foot-model-ns9",
+    "quizSrc": "images/structures/99c7df7792e68829.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "flexor-digitorum-longus-tendon-bdfa9bc25b",
+    "quizMarker": {
+      "x": 0.4111111111111111,
+      "y": 0.4859002976190476
+    }
+  },
+  {
+    "id": "img-097926b99fd9",
+    "src": "images/structures/99c7df7792e68829.jpg",
+    "alt": "Lumbricals — Foot (Model NS9)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "foot-model-ns9",
+    "quizSrc": "images/structures/99c7df7792e68829.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "lumbricals-1362f53b8d",
+    "quizMarker": {
+      "x": 0.5571428571428572,
+      "y": 0.47875744047619045
+    }
+  },
+  {
+    "id": "img-a5ee2d9bab9a",
+    "src": "images/structures/0925ff81f91edcd1.jpg",
+    "alt": "Flexor digitorum brevis — Foot (Model NS9)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "foot-model-ns9",
+    "quizSrc": "images/structures/0925ff81f91edcd1.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "flexor-digitorum-brevis-4569c9a616",
+    "quizMarker": {
+      "x": 0.21428571428571427,
+      "y": 0.442578125
+    }
+  },
+  {
+    "id": "img-a639cb14b7df",
+    "src": "images/structures/942d872b49d09630.jpg",
+    "alt": "Flexor digiti minimi brevis — Foot (Model NS9)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "foot-model-ns9",
+    "quizSrc": "images/structures/942d872b49d09630.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "flexor-digiti-minimi-brevis-132943735c",
+    "quizMarker": {
+      "x": 0.40793650793650793,
+      "y": 0.6009114583333334
+    }
+  },
+  {
+    "id": "img-079d82017c93",
+    "src": "images/structures/52ae0a310ba667c0.jpg",
+    "alt": "Oblique head of adductor hallucis — Foot (Model NS9)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "foot-model-ns9",
+    "quizSrc": "images/structures/52ae0a310ba667c0.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "oblique-head-of-adductor-hallucis-1bdb6d9153",
+    "quizMarker": {
+      "x": 0.32063492063492066,
+      "y": 0.5568638392857143
+    }
+  },
+  {
+    "id": "img-52b72d9adc30",
+    "src": "images/structures/52ae0a310ba667c0.jpg",
+    "alt": "Transverse head of adductor hallucis — Foot (Model NS9)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "foot-model-ns9",
+    "quizSrc": "images/structures/52ae0a310ba667c0.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "transverse-head-of-adductor-hallucis-a12801e27d",
+    "quizMarker": {
+      "x": 0.44603174603174606,
+      "y": 0.5913876488095238
+    }
+  },
+  {
+    "id": "img-1454dfe5083e",
+    "src": "images/structures/4a7013a07caf3739.jpg",
+    "alt": "Plantar metatarsal artery — Foot (Model NS9)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "foot-model-ns9",
+    "quizSrc": "images/structures/4a7013a07caf3739.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "plantar-metatarsal-artery-f7970b6912",
+    "quizMarker": {
+      "x": 0.3825396825396825,
+      "y": 0.45018601190476193
+    }
+  },
+  {
+    "id": "img-f132fb91c849",
+    "src": "images/structures/4a7013a07caf3739.jpg",
+    "alt": "Deep plantar arch — Foot (Model NS9)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "foot-model-ns9",
+    "quizSrc": "images/structures/4a7013a07caf3739.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "deep-plantar-arch-0ac31947a7",
+    "quizMarker": {
+      "x": 0.319047619047619,
+      "y": 0.5109002976190476
+    }
+  },
+  {
+    "id": "img-7a38433f64e1",
+    "src": "images/structures/4a7013a07caf3739.jpg",
+    "alt": "Plantar interosseus — Foot (Model NS9)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "foot-model-ns9",
+    "quizSrc": "images/structures/4a7013a07caf3739.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "plantar-interosseus-10a76dd4fb",
+    "quizMarker": {
+      "x": 0.2714285714285714,
+      "y": 0.5370907738095239
+    }
+  },
+  {
+    "id": "img-6247a081b878",
+    "src": "images/structures/363fc5cfec2298d0.jpg",
+    "alt": "Posterior tibiofibular ligament — Foot (Model NS9)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "foot-model-ns9",
+    "quizSrc": "images/structures/363fc5cfec2298d0.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "posterior-tibiofibular-ligament-971599d464",
+    "quizMarker": {
+      "x": 0.5063492063492063,
+      "y": 0.47161458333333334
+    }
+  },
+  {
+    "id": "img-f20af266e02a",
+    "src": "images/structures/dc63e7d23a4fbe91.jpg",
+    "alt": "Dorsalis pedis artery — Foot (Model NS9)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "foot-model-ns9",
+    "quizSrc": "images/structures/dc63e7d23a4fbe91.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "dorsalis-pedis-artery-7af3edbb90",
+    "quizMarker": {
+      "x": 0.5222222222222223,
+      "y": 0.4251860119047619
+    }
+  },
+  {
+    "id": "img-b66cc2a7915d",
+    "src": "images/structures/dc63e7d23a4fbe91.jpg",
+    "alt": "Deep fibular (peroneal) nerve — Foot (Model NS9)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "foot-model-ns9",
+    "quizSrc": "images/structures/dc63e7d23a4fbe91.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "deep-fibular-peroneal-nerve-fec4d63a0b",
+    "quizMarker": {
+      "x": 0.4301587301587302,
+      "y": 0.48351934523809526
+    }
+  },
+  {
+    "id": "img-ff757ac28734",
+    "src": "images/structures/dc63e7d23a4fbe91.jpg",
+    "alt": "Ramus communicans (communicating branch) — Foot (Model NS9)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "foot-model-ns9",
+    "quizSrc": "images/structures/dc63e7d23a4fbe91.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "ramus-communicans-communicating-branch-aadb9b6ae0",
+    "quizMarker": {
+      "x": 0.4777777777777778,
+      "y": 0.5180431547619048
+    }
+  },
+  {
+    "id": "img-5b4a5949f4eb",
+    "src": "images/structures/ec742fac0478fc50.jpg",
+    "alt": "Tibialis anterior muscle — Lower Limb (Model NS10)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "lower-limb-model-ns10",
+    "quizSrc": "images/structures/ec742fac0478fc50.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "tibialis-anterior-muscle-5d8a2b6522",
+    "quizMarker": {
+      "x": 0.4015873015873016,
+      "y": 0.3790922619047619
+    }
+  },
+  {
+    "id": "img-dbac8f4d04aa",
+    "src": "images/structures/ec742fac0478fc50.jpg",
+    "alt": "Extensor digitorum longus muscle — Lower Limb (Model NS10)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "lower-limb-model-ns10",
+    "quizSrc": "images/structures/ec742fac0478fc50.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "extensor-digitorum-longus-muscle-b047cff5fd",
+    "quizMarker": {
+      "x": 0.48095238095238096,
+      "y": 0.4275669642857143
+    }
+  },
+  {
+    "id": "img-267c02d74c33",
+    "src": "images/structures/ec742fac0478fc50.jpg",
+    "alt": "Fibularis (or peroneus) longus muscle — Lower Limb (Model NS10)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "lower-limb-model-ns10",
+    "quizSrc": "images/structures/ec742fac0478fc50.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "fibularis-or-peroneus-longus-muscle-2784e83ea7",
+    "quizMarker": {
+      "x": 0.6111111111111112,
+      "y": 0.3287574404761905
+    }
+  },
+  {
+    "id": "img-86c0fb7c77bf",
+    "src": "images/structures/ec742fac0478fc50.jpg",
+    "alt": "Fibularis (or peroneus) brevis muscle — Lower Limb (Model NS10)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "lower-limb-model-ns10",
+    "quizSrc": "images/structures/ec742fac0478fc50.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "fibularis-or-peroneus-brevis-muscle-e97127f1c6",
+    "quizMarker": {
+      "x": 0.5507936507936508,
+      "y": 0.519233630952381
+    }
+  },
+  {
+    "id": "img-e8e35cbe6d4a",
+    "src": "images/structures/ec742fac0478fc50.jpg",
+    "alt": "Superficial fibular (peroneal) nerve — Lower Limb (Model NS10)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "lower-limb-model-ns10",
+    "quizSrc": "images/structures/ec742fac0478fc50.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "superficial-fibular-peroneal-nerve-62253f3cdf",
+    "quizMarker": {
+      "x": 0.48095238095238096,
+      "y": 0.6097098214285714
+    }
+  },
+  {
+    "id": "img-34753815c7b5",
+    "src": "images/structures/ec742fac0478fc50.jpg",
+    "alt": "Lateral malleolus (of fibula) — Lower Limb (Model NS10)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "lower-limb-model-ns10",
+    "quizSrc": "images/structures/ec742fac0478fc50.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "lateral-malleolus-of-fibula-132ab46fcd",
+    "quizMarker": {
+      "x": 0.5317460317460317,
+      "y": 0.7989955357142857
+    }
+  },
+  {
+    "id": "img-b52ea75102df",
+    "src": "images/structures/9e57047c629cea6a.jpg",
+    "alt": "Patella — Lower Limb (Model NS10)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "lower-limb-model-ns10",
+    "quizSrc": "images/structures/9e57047c629cea6a.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "patella-28eb76a5e7",
+    "quizMarker": {
+      "x": 0.5984126984126984,
+      "y": 0.16923363095238095
+    }
+  },
+  {
+    "id": "img-40afb2508c1b",
+    "src": "images/structures/9e57047c629cea6a.jpg",
+    "alt": "Medial epicondyle of the femur — Lower Limb (Model NS10)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "lower-limb-model-ns10",
+    "quizSrc": "images/structures/9e57047c629cea6a.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "medial-epicondyle-of-the-femur-e09cc74f7e",
+    "quizMarker": {
+      "x": 0.4111111111111111,
+      "y": 0.21995907738095238
+    }
+  },
+  {
+    "id": "img-0a8354843664",
+    "src": "images/structures/9e57047c629cea6a.jpg",
+    "alt": "Tibia — Lower Limb (Model NS10)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "lower-limb-model-ns10",
+    "quizSrc": "images/structures/9e57047c629cea6a.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "tibia-2cd9462aa8",
+    "quizMarker": {
+      "x": 0.4746031746031746,
+      "y": 0.5549479166666667
+    }
+  },
+  {
+    "id": "img-1aef60f47919",
+    "src": "images/structures/9e57047c629cea6a.jpg",
+    "alt": "Navicular — Lower Limb (Model NS10)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "lower-limb-model-ns10",
+    "quizSrc": "images/structures/9e57047c629cea6a.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "navicular-38f681bb35",
+    "quizMarker": {
+      "x": 0.4746031746031746,
+      "y": 0.9097098214285714
+    }
+  },
+  {
+    "id": "img-7dfeb4f93ca5",
+    "src": "images/structures/039e820d3c0f3ee0.jpg",
+    "alt": "Lateral head of gastrocnemius muscle — Lower Limb (Model NS10)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "lower-limb-model-ns10",
+    "quizSrc": "images/structures/039e820d3c0f3ee0.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "lateral-head-of-gastrocnemius-muscle-1a8e095517",
+    "quizMarker": {
+      "x": 0.5666666666666667,
+      "y": 0.41566220238095236
+    }
+  },
+  {
+    "id": "img-4db02399f8e0",
+    "src": "images/structures/c1f7d7ec89bedb20.jpg",
+    "alt": "Medial head of gastrocnemius muscle — Lower Limb (Model NS10)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "lower-limb-model-ns10",
+    "quizSrc": "images/structures/c1f7d7ec89bedb20.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "medial-head-of-gastrocnemius-muscle-f7bfa62cae",
+    "quizMarker": {
+      "x": 0.4365079365079365,
+      "y": 0.47875744047619045
+    }
+  },
+  {
+    "id": "img-5a48de90ff25",
+    "src": "images/structures/52b0ddd7c147e958.jpg",
+    "alt": "Deep fibular (peroneal) nerve — Lower Limb (Model NS10)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "lower-limb-model-ns10",
+    "quizSrc": "images/structures/52b0ddd7c147e958.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "deep-fibular-peroneal-nerve-fec4d63a0b",
+    "quizMarker": {
+      "x": 0.5158730158730159,
+      "y": 0.4120907738095238
+    }
+  },
+  {
+    "id": "img-a9921df33b9d",
+    "src": "images/structures/52b0ddd7c147e958.jpg",
+    "alt": "Fibula — Lower Limb (Model NS10)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "lower-limb-model-ns10",
+    "quizSrc": "images/structures/52b0ddd7c147e958.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "fibula-c574eff962",
+    "quizMarker": {
+      "x": 0.5126984126984127,
+      "y": 0.7609002976190476
+    }
+  },
+  {
+    "id": "img-e0657a14b5e4",
+    "src": "images/structures/208b94cbcbd23004.jpg",
+    "alt": "Lateral epicondyle of the femur — Lower Limb (Model NS10)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "lower-limb-model-ns10",
+    "quizSrc": "images/structures/208b94cbcbd23004.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "lateral-epicondyle-of-the-femur-618006220e",
+    "quizMarker": {
+      "x": 0.3825396825396825,
+      "y": 0.2394717261904762
+    }
+  },
+  {
+    "id": "img-7b75bf3fb44d",
+    "src": "images/structures/208b94cbcbd23004.jpg",
+    "alt": "Inferior lateral geniculate artery — Lower Limb (Model NS10)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "lower-limb-model-ns10",
+    "quizSrc": "images/structures/208b94cbcbd23004.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "inferior-lateral-geniculate-artery-ceacf3d296",
+    "quizMarker": {
+      "x": 0.4238095238095238,
+      "y": 0.31400669642857143
+    }
+  },
+  {
+    "id": "img-48ce7b10585a",
+    "src": "images/structures/208b94cbcbd23004.jpg",
+    "alt": "Inferior medial geniculate artery — Lower Limb (Model NS10)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "lower-limb-model-ns10",
+    "quizSrc": "images/structures/208b94cbcbd23004.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "inferior-medial-geniculate-artery-418bf3a6fd",
+    "quizMarker": {
+      "x": 0.5126984126984127,
+      "y": 0.33424479166666665
+    }
+  },
+  {
+    "id": "img-293418afe377",
+    "src": "images/structures/208b94cbcbd23004.jpg",
+    "alt": "Head of fibula — Lower Limb (Model NS10)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "lower-limb-model-ns10",
+    "quizSrc": "images/structures/208b94cbcbd23004.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "head-of-fibula-0cc16b00e4",
+    "quizMarker": {
+      "x": 0.36666666666666664,
+      "y": 0.35494791666666664
+    }
+  },
+  {
+    "id": "img-7d35ee4e6b56",
+    "src": "images/structures/208b94cbcbd23004.jpg",
+    "alt": "Popliteus muscle — Lower Limb (Model NS10)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "lower-limb-model-ns10",
+    "quizSrc": "images/structures/208b94cbcbd23004.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "popliteus-muscle-b5daa0b92d",
+    "quizMarker": {
+      "x": 0.5095238095238095,
+      "y": 0.41685267857142855
+    }
+  },
+  {
+    "id": "img-63d1797d2bcc",
+    "src": "images/structures/208b94cbcbd23004.jpg",
+    "alt": "Anterior tibial artery — Lower Limb (Model NS10)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "lower-limb-model-ns10",
+    "quizSrc": "images/structures/208b94cbcbd23004.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "anterior-tibial-artery-9a32e53530",
+    "quizMarker": {
+      "x": 0.4238095238095238,
+      "y": 0.4513764880952381
+    }
+  },
+  {
+    "id": "img-9e86b102bdcb",
+    "src": "images/structures/208b94cbcbd23004.jpg",
+    "alt": "Tibialis posterior muscle — Lower Limb (Model NS10)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "lower-limb-model-ns10",
+    "quizSrc": "images/structures/208b94cbcbd23004.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "tibialis-posterior-muscle-9ae4a4140a",
+    "quizMarker": {
+      "x": 0.4238095238095238,
+      "y": 0.5120907738095238
+    }
+  },
+  {
+    "id": "img-4208c3aa4131",
+    "src": "images/structures/208b94cbcbd23004.jpg",
+    "alt": "Fibular (or peroneal) artery — Lower Limb (Model NS10)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "lower-limb-model-ns10",
+    "quizSrc": "images/structures/208b94cbcbd23004.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "fibular-or-peroneal-artery-35dbc0818b",
+    "quizMarker": {
+      "x": 0.42698412698412697,
+      "y": 0.5501860119047619
+    }
+  },
+  {
+    "id": "img-4dae46b39c1e",
+    "src": "images/structures/208b94cbcbd23004.jpg",
+    "alt": "Posterior tibial artery — Lower Limb (Model NS10)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "lower-limb-model-ns10",
+    "quizSrc": "images/structures/208b94cbcbd23004.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "posterior-tibial-artery-0c70409839",
+    "quizMarker": {
+      "x": 0.4650793650793651,
+      "y": 0.5870907738095238
+    }
+  },
+  {
+    "id": "img-d39cbc04ea30",
+    "src": "images/structures/208b94cbcbd23004.jpg",
+    "alt": "Flexor hallucis longus muscle — Lower Limb (Model NS10)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "lower-limb-model-ns10",
+    "quizSrc": "images/structures/208b94cbcbd23004.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "flexor-hallucis-longus-muscle-76480a1e13",
+    "quizMarker": {
+      "x": 0.4111111111111111,
+      "y": 0.7049479166666667
     }
   }
 ]
