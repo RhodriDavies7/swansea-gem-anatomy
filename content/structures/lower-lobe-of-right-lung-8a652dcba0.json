@@ -25,13 +25,13 @@
     "LowerLobe",
     "LungLobe",
     "LungLobes",
-    "ModelNote",
     "Parts",
     "Relations",
     "RightLung"
   ],
   "imageIds": [
-    "img-6e3e35f53f5b"
+    "img-6e3e35f53f5b",
+    "img-5d9a407a4132"
   ],
   "facts": [
     {
@@ -47,11 +47,6 @@
               "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
               "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-111",
               "sourceLine": 111
-            },
-            {
-              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
-              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-121",
-              "sourceLine": 121
             }
           ]
         },
@@ -86,13 +81,7 @@
         {
           "id": "v-e62f314f0e",
           "answer": "Inferior to the oblique fissure.",
-          "sources": [
-            {
-              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
-              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-122",
-              "sourceLine": 122
-            }
-          ]
+          "sources": []
         }
       ],
       "editorialReview": {
@@ -119,37 +108,13 @@
         {
           "id": "v-81c2f69fec",
           "answer": "Participates in gas exchange.",
-          "sources": [
-            {
-              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
-              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-123",
-              "sourceLine": 123
-            }
-          ]
+          "sources": []
         }
       ],
       "editorialReview": {
         "date": "2026-09-11",
         "basis": "Reviewed supplied source answers; selected or synthesised concise revision wording."
       }
-    },
-    {
-      "id": "f-c0d9dc54c1",
-      "question": "Model note",
-      "preferredVariantId": "v-452986d8d5",
-      "variants": [
-        {
-          "id": "v-452986d8d5",
-          "answer": "The supplied model key labels number 15 as 'Lower lobe of right lung', duplicating number 13. This has been preserved exactly and should be checked against the physical model.",
-          "sources": [
-            {
-              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
-              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-124",
-              "sourceLine": 124
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "f-28b8e96361",
@@ -177,14 +142,6 @@
         "13"
       ],
       "label": "13"
-    },
-    {
-      "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
-      "section": "Lung lobes",
-      "path": [
-        "15"
-      ],
-      "label": "15"
     },
     {
       "modelId": "thorax-model-hs21",

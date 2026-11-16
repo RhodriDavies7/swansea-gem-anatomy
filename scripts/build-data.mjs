@@ -25,6 +25,7 @@ for(const meta of index){if(modelIds.has(meta.id)||!meta.id)fail('Duplicate mode
 for(const s of structures){for(const o of s.occurrences)if(!modelIds.has(o.modelId))fail('Invalid source model '+s.id);for(const f of s.facts)for(const v of f.variants)for(const source of v.sources||[])if(!modelIds.has(source.modelId)||!cardIds.has(source.cardId))fail('Invalid fact source '+s.id);}
 for(const image of images)if(image.modelId&&(!modelIds.has(image.modelId)||!structures.some(s=>s.imageIds.includes(image.id)&&s.occurrences.some(o=>o.modelId===image.modelId))))fail('Image model must contain its linked structure: '+image.id);
 for(const image of images)if(image.quizReady&&(!byId.has(image.quizStructureId)||!byId.get(image.quizStructureId).imageIds.includes(image.id)))fail('Quiz image must name its linked target structure: '+image.id);
+for(const im of images)if(im.section&&(!im.modelId||!structures.some(s=>s.imageIds.includes(im.id)&&s.occurrences.some(o=>o.modelId===im.modelId&&o.section===im.section))))fail('Image section must contain its linked structure: '+im.id);
 const multi=structures.flatMap(s=>s.facts.filter(f=>f.variants.length>1&&!f.preferredVariantId).map(f=>({structureId:s.id,name:s.name,question:f.question,variants:f.variants.length})));
 // Optional editorial metadata; original card tags remain untouched.
 let studyLevels={};try{studyLevels=await read('content/study-levels.json');}catch(error){if(error.code!=='ENOENT')throw error;}

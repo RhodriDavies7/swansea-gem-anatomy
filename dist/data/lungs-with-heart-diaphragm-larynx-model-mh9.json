@@ -1330,9 +1330,9 @@
       "sourceLine": 121,
       "section": "Lung lobes",
       "label": "15",
-      "structureId": "lower-lobe-of-right-lung-8a652dcba0",
-      "factId": "f-9d2c706308",
-      "variantId": "v-86e5bd7587"
+      "structureId": "left-lower-lobe-fda1fdf439",
+      "factId": "f-671f514f58",
+      "variantId": "v-debd1ae96f"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-122",
@@ -1348,7 +1348,7 @@
       "sourceLine": 122,
       "section": "Lung lobes",
       "label": "15",
-      "structureId": "lower-lobe-of-right-lung-8a652dcba0",
+      "structureId": "left-lower-lobe-fda1fdf439",
       "factId": "f-6519fe11ef",
       "variantId": "v-e62f314f0e"
     },
@@ -1366,27 +1366,9 @@
       "sourceLine": 123,
       "section": "Lung lobes",
       "label": "15",
-      "structureId": "lower-lobe-of-right-lung-8a652dcba0",
+      "structureId": "left-lower-lobe-fda1fdf439",
       "factId": "f-f1e410ad14",
       "variantId": "v-81c2f69fec"
-    },
-    {
-      "id": "lungs-with-heart-diaphragm-larynx-model-mh9-124",
-      "path": [
-        "15"
-      ],
-      "tags": [
-        "ModelNote",
-        "LungLobe",
-        "LungLobes",
-        "MH9"
-      ],
-      "sourceLine": 124,
-      "section": "Lung lobes",
-      "label": "15",
-      "structureId": "lower-lobe-of-right-lung-8a652dcba0",
-      "factId": "f-c0d9dc54c1",
-      "variantId": "v-452986d8d5"
     },
     {
       "id": "lungs-with-heart-diaphragm-larynx-model-mh9-128",

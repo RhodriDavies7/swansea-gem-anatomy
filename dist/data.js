@@ -13,21 +13,29 @@ export function hydrateModel(model,catalog,{original=false}={}){
  return {...model,cards:model.cards.map(c=>{const s=catalog.byId.get(c.structureId),f=s?.facts.find(f=>f.id===c.factId);const v=f?.variants.find(v=>v.id===(!original&&f.preferredVariantId?f.preferredVariantId:c.variantId));if(!v)throw Error('Broken structure reference: '+c.id);return {...c,tags:original?c.tags:[...new Set([...(c.tags||[]),...(s.studyTags||[])])],question:f.question,answer:v.answer};})};
 }
 export function factVariants(fact){return fact.preferredVariantId?fact.variants.filter(v=>v.id===fact.preferredVariantId):fact.variants;}
-export function filterStructures(structures,filters){
+export function filterStructures(structures,filters,catalog){
  const q=(filters.query||'').toLowerCase().trim().replace(/^#/,''),words=q.split(/\s+/).filter(Boolean);
  const label=q.replace(/^label\s*/,'').replace(/\s+/g,'');const isLabel=/^\d+[a-z]?$/.test(label);
  return structures.filter(s=>{
   const occurrences=(s.occurrences||[]).filter(o=>(!filters.modelId||o.modelId===filters.modelId)&&(!filters.section||o.section===filters.section));
   if((Array.isArray(filters.difficulty)?!filters.difficulty.includes(s.difficulty):filters.difficulty&&s.difficulty!==filters.difficulty)||(filters.year&&!(s.years?.length?s.years:['Year not mapped']).includes(filters.year)))return false;
   if(s.kind==='model-note'||((filters.modelId||filters.section)&&!occurrences.length))return false;
-  if(!['types','regions','systems','organs','tags'].every(k=>!filters[k]||s[k].includes(filters[k]))||(filters.images&&!s.imageIds.length))return false;
+  if(!['types','regions','systems','organs','tags'].every(k=>!filters[k]||s[k].includes(filters[k]))||(filters.images&&!(catalog?structureImages(s,catalog,filters).length:(!filters.modelId&&!filters.section&&s.imageIds.length))))return false;
   if(isLabel)return occurrences.some(o=>matchesLabel(o.label,label));
   const text=[s.name,...s.aliases,...s.tags,...s.facts.flatMap(f=>factVariants(f).map(v=>v.answer))].join(' ').toLowerCase();
   return words.every(w=>text.includes(w));
  }).sort((a,b)=>Number(b.name.toLowerCase().includes(q))-Number(a.name.toLowerCase().includes(q))||a.name.localeCompare(b.name));
 }
+export function imageMatchesScope(image,structure,{modelId='',section=''}={}){
+ if(!image||modelId&&image.modelId!==modelId)return false;
+ if(!section)return true;
+ if(image.section)return image.section===section;
+ // Legacy photos can be inferred only when their model has one possible section.
+ const sections=[...new Set((structure.occurrences||[]).filter(o=>o.modelId===image.modelId).map(o=>o.section))];
+ return sections.length===1&&sections[0]===section;
+}
 export function structureImages(structure,catalog,{modelId='',section=''}={}){
- return structure.imageIds.map(id=>catalog.imagesById.get(id)).filter(im=>im&&(!modelId||im.modelId===modelId)&&(!section||!im.section||im.section===section));
+ return structure.imageIds.map(id=>catalog.imagesById.get(id)).filter(im=>imageMatchesScope(im,structure,{modelId,section}));
 }
 export function studyCards(structures,catalog,{mode='knowledge',topic='',modelId='',section=''}={}){
  const cards=[];

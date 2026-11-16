@@ -46,3 +46,13 @@ test('progress reports use latest grades, not lifetime successes, and share know
  const groups=progressGroups([shared,shared],catalog,models,progress,'models');assert.ok(groups.length>1);assert.ok(groups.every(r=>r.total===1&&r.easy===1&&r.percent===100));
  for(const dimension of ['systems','regions'])assert.ok(progressGroups(cards,catalog,models,p,dimension).every(r=>r.confident<=r.total));
 });
+
+test('shared structures keep only exact model and section photos across all revision entry points',()=>{
+ const s={id:'shared',name:'Shared',aliases:[],tags:[],types:[],regions:[],systems:[],organs:[],imageIds:['foot','leg','one','two','unknown'],facts:[],occurrences:[{modelId:'foot',section:'Bones'},{modelId:'leg',section:'Bones'},{modelId:'head',section:'Section 1'},{modelId:'head',section:'Section 2'}]};
+ const images=[['foot','foot','Bones'],['leg','leg','Bones'],['one','head','Section 1'],['two','head','Section 2'],['unknown','head',undefined]].map(([id,modelId,section])=>({id,modelId,section,quizReady:true,quizSrc:id+'.jpg',quizStructureId:s.id}));
+ const c=indexCatalog({structures:[s],images});
+ assert.deepEqual(structureImages(s,c,{modelId:'foot'}).map(i=>i.id),['foot']);
+ assert.deepEqual(structureImages(s,c,{modelId:'head',section:'Section 2'}).map(i=>i.id),['two']);
+ assert.deepEqual(reviewPool(c,{modelId:'head',section:'Section 2',mode:'images',difficulty:''}).map(c=>c.image.id),['two']);
+ assert.deepEqual(studyCards([s],c,{modelId:'head',section:'Section 2',mode:'identification'}).map(c=>c.image.id),['two']);
+});

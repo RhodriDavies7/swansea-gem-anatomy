@@ -28,20 +28,6 @@
     "quizStructureId": "gluteus-medius-muscle-285cf72971"
   },
   {
-    "id": "img-ecd28c697223",
-    "src": "images/structures/df881103f826441e.jpg",
-    "alt": "Flexor digitorum superficialis — Upper Limb (Model NS15)",
-    "caption": "",
-    "credit": "Local image",
-    "license": "",
-    "sourceUrl": "",
-    "quizReady": true,
-    "modelId": "upper-limb-model-ns15",
-    "quizSrc": "images/structures/df881103f826441e.jpg",
-    "quizAlt": "Identify the pinned structure.",
-    "quizStructureId": "flexor-digitorum-superficialis-468c9b107d"
-  },
-  {
     "id": "img-2cc522fc1432",
     "src": "images/structures/cc11f24571418245.jpeg",
     "alt": "Bicuspid valve (mitral / left atrioventricular valve) — Heart (Model HS5)",
@@ -306,34 +292,6 @@
     "quizSrc": "images/structures/589dfe6b430dac8c.jpg",
     "quizAlt": "Identify the pinned structure.",
     "quizStructureId": "urethra-4b33aa096e"
-  },
-  {
-    "id": "img-049ee822fb7d",
-    "src": "images/structures/e652bc480c00c0ac.jpg",
-    "alt": "Flexor carpi radialis — Upper Limb (Model NS15)",
-    "caption": "",
-    "credit": "Local image",
-    "license": "",
-    "sourceUrl": "",
-    "quizReady": true,
-    "modelId": "upper-limb-model-ns15",
-    "quizSrc": "images/structures/e652bc480c00c0ac.jpg",
-    "quizAlt": "Identify the pinned structure.",
-    "quizStructureId": "flexor-carpi-radialis-caa13e29e9"
-  },
-  {
-    "id": "img-a1a6a67396f1",
-    "src": "images/structures/c606ddccb1dade29.jpg",
-    "alt": "Pronator teres — Upper Limb (Model NS15)",
-    "caption": "",
-    "credit": "Local image",
-    "license": "",
-    "sourceUrl": "",
-    "quizReady": true,
-    "modelId": "upper-limb-model-ns15",
-    "quizSrc": "images/structures/c606ddccb1dade29.jpg",
-    "quizAlt": "Identify the pinned structure.",
-    "quizStructureId": "pronator-teres-e6d3ad0929"
   },
   {
     "id": "img-e713e768b32e",
@@ -2395,24 +2353,6 @@
     "quizMarker": {
       "x": 0.4717171717171717,
       "y": 0.2511600378787879
-    }
-  },
-  {
-    "id": "img-765a0e4247f5",
-    "src": "images/structures/cf04fb3ef54e2646.jpg",
-    "alt": "Phrenic nerve — Thorax (Model HS21)",
-    "caption": "",
-    "credit": "Local image",
-    "license": "",
-    "sourceUrl": "",
-    "quizReady": true,
-    "modelId": "thorax-model-hs21",
-    "quizSrc": "images/structures/cf04fb3ef54e2646.jpg",
-    "quizAlt": "Identify the marked structure.",
-    "quizStructureId": "phrenic-nerve-d2be311f57",
-    "quizMarker": {
-      "x": 0.4595959595959596,
-      "y": 0.3309659090909091
     }
   },
   {
@@ -5398,6 +5338,3012 @@
     "quizMarker": {
       "x": 0.4111111111111111,
       "y": 0.7049479166666667
+    }
+  },
+  {
+    "id": "img-aa8fafb8b83e",
+    "src": "images/structures/7805320fed73a04a.jpg",
+    "alt": "Scalp — Anatomical Sectional Model of the Head (Model BS5/5)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "head-sections-model-bs5-5",
+    "quizSrc": "images/structures/7805320fed73a04a.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "scalp-b319c18648",
+    "quizMarker": {
+      "x": 0.5126984126984127,
+      "y": 0.22994791666666667
+    }
+  },
+  {
+    "id": "img-27217bf2c2a9",
+    "src": "images/structures/7805320fed73a04a.jpg",
+    "alt": "Skull bone — Anatomical Sectional Model of the Head (Model BS5/5)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "head-sections-model-bs5-5",
+    "quizSrc": "images/structures/7805320fed73a04a.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "calvaria-777df485c1",
+    "quizMarker": {
+      "x": 0.5095238095238095,
+      "y": 0.248046875
+    }
+  },
+  {
+    "id": "img-70aa72ee44dc",
+    "src": "images/structures/7805320fed73a04a.jpg",
+    "alt": "Superior sagittal sinus — Anatomical Sectional Model of the Head (Model BS5/5)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "head-sections-model-bs5-5",
+    "quizSrc": "images/structures/7805320fed73a04a.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "superior-sagittal-sinus-776c872be8",
+    "quizMarker": {
+      "x": 0.5031746031746032,
+      "y": 0.26590401785714285
+    }
+  },
+  {
+    "id": "img-9353d1b3203a",
+    "src": "images/structures/7805320fed73a04a.jpg",
+    "alt": "Dura mater — Anatomical Sectional Model of the Head (Model BS5/5)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "head-sections-model-bs5-5",
+    "quizSrc": "images/structures/7805320fed73a04a.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "dura-mater-e539e1e7dc",
+    "quizMarker": {
+      "x": 0.6396825396825396,
+      "y": 0.2897135416666667
+    }
+  },
+  {
+    "id": "img-494e7c37ffd7",
+    "src": "images/structures/7805320fed73a04a.jpg",
+    "alt": "Falx cerebri — Anatomical Sectional Model of the Head (Model BS5/5)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "head-sections-model-bs5-5",
+    "quizSrc": "images/structures/7805320fed73a04a.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "falx-cerebri-62be61c398",
+    "quizMarker": {
+      "x": 0.49682539682539684,
+      "y": 0.317094494047619
+    }
+  },
+  {
+    "id": "img-cd2d4ac44529",
+    "src": "images/structures/7805320fed73a04a.jpg",
+    "alt": "Frontal lobe — Anatomical Sectional Model of the Head (Model BS5/5)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "head-sections-model-bs5-5",
+    "quizSrc": "images/structures/7805320fed73a04a.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "frontal-lobe-c2db3cf0a3",
+    "quizMarker": {
+      "x": 0.5634920634920635,
+      "y": 0.3397135416666667
+    }
+  },
+  {
+    "id": "img-91020cffe2ce",
+    "src": "images/structures/7805320fed73a04a.jpg",
+    "alt": "Middle meningeal artery — Anatomical Sectional Model of the Head (Model BS5/5)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "head-sections-model-bs5-5",
+    "quizSrc": "images/structures/7805320fed73a04a.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "middle-meningeal-artery-ac4b5a3ea6",
+    "quizMarker": {
+      "x": 0.7507936507936508,
+      "y": 0.428999255952381
+    }
+  },
+  {
+    "id": "img-30954238fd0c",
+    "src": "images/structures/7805320fed73a04a.jpg",
+    "alt": "Cerebral cortex — Anatomical Sectional Model of the Head (Model BS5/5)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "head-sections-model-bs5-5",
+    "quizSrc": "images/structures/7805320fed73a04a.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "cerebral-cortex-783678a5c9",
+    "quizMarker": {
+      "x": 0.7380952380952381,
+      "y": 0.4575706845238095
+    }
+  },
+  {
+    "id": "img-9dddf8ded6bb",
+    "src": "images/structures/7805320fed73a04a.jpg",
+    "alt": "Occipital lobe — Anatomical Sectional Model of the Head (Model BS5/5)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "head-sections-model-bs5-5",
+    "quizSrc": "images/structures/7805320fed73a04a.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "occipital-lobe-fd8c0271a3",
+    "quizMarker": {
+      "x": 0.5507936507936508,
+      "y": 0.6663876488095238
+    }
+  },
+  {
+    "id": "img-1d81631a5ea1",
+    "src": "images/structures/7805320fed73a04a.jpg",
+    "alt": "Leptomeninges — Anatomical Sectional Model of the Head (Model BS5/5)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "head-sections-model-bs5-5",
+    "quizSrc": "images/structures/7805320fed73a04a.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "leptomeninges-7fdb0a4658",
+    "quizMarker": {
+      "x": 0.7063492063492064,
+      "y": 0.682328869047619
+    }
+  },
+  {
+    "id": "img-70f7986ce5a5",
+    "src": "images/structures/7805320fed73a04a.jpg",
+    "alt": "Subarachnoid space — Anatomical Sectional Model of the Head (Model BS5/5)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "head-sections-model-bs5-5",
+    "quizSrc": "images/structures/7805320fed73a04a.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "subarachnoid-space-553e8b41be",
+    "quizMarker": {
+      "x": 0.5253968253968254,
+      "y": 0.7563802083333333
+    }
+  },
+  {
+    "id": "img-904a1b64281c",
+    "src": "images/structures/64fbc53778ef0d77.jpg",
+    "alt": "Skull bone — Anatomical Sectional Model of the Head (Model BS5/5)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "head-sections-model-bs5-5",
+    "quizSrc": "images/structures/64fbc53778ef0d77.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "calvaria-777df485c1",
+    "quizMarker": {
+      "x": 0.5063492063492063,
+      "y": 0.2624255952380952
+    }
+  },
+  {
+    "id": "img-c2d0bd095125",
+    "src": "images/structures/64fbc53778ef0d77.jpg",
+    "alt": "Superior sagittal sinus — Anatomical Sectional Model of the Head (Model BS5/5)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "head-sections-model-bs5-5",
+    "quizSrc": "images/structures/64fbc53778ef0d77.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "superior-sagittal-sinus-776c872be8",
+    "quizMarker": {
+      "x": 0.49047619047619045,
+      "y": 0.2825706845238095
+    }
+  },
+  {
+    "id": "img-2023fa293c0b",
+    "src": "images/structures/64fbc53778ef0d77.jpg",
+    "alt": "Falx cerebri — Anatomical Sectional Model of the Head (Model BS5/5)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "head-sections-model-bs5-5",
+    "quizSrc": "images/structures/64fbc53778ef0d77.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "falx-cerebri-62be61c398",
+    "quizMarker": {
+      "x": 0.4873015873015873,
+      "y": 0.3087611607142857
+    }
+  },
+  {
+    "id": "img-4db8e2dfbae5",
+    "src": "images/structures/64fbc53778ef0d77.jpg",
+    "alt": "Dura mater — Anatomical Sectional Model of the Head (Model BS5/5)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "head-sections-model-bs5-5",
+    "quizSrc": "images/structures/64fbc53778ef0d77.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "dura-mater-e539e1e7dc",
+    "quizMarker": {
+      "x": 0.6873015873015873,
+      "y": 0.3373325892857143
+    }
+  },
+  {
+    "id": "img-a2ac77eaed88",
+    "src": "images/structures/64fbc53778ef0d77.jpg",
+    "alt": "Frontal lobe — Anatomical Sectional Model of the Head (Model BS5/5)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "head-sections-model-bs5-5",
+    "quizSrc": "images/structures/64fbc53778ef0d77.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "frontal-lobe-c2db3cf0a3",
+    "quizMarker": {
+      "x": 0.5920634920634921,
+      "y": 0.37780877976190474
+    }
+  },
+  {
+    "id": "img-6650f8419881",
+    "src": "images/structures/64fbc53778ef0d77.jpg",
+    "alt": "Anterior cerebral artery — Anatomical Sectional Model of the Head (Model BS5/5)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "head-sections-model-bs5-5",
+    "quizSrc": "images/structures/64fbc53778ef0d77.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "anterior-cerebral-artery-9fc55ed1c0",
+    "quizMarker": {
+      "x": 0.48412698412698413,
+      "y": 0.4063802083333333
+    }
+  },
+  {
+    "id": "img-5e0509c0e29e",
+    "src": "images/structures/64fbc53778ef0d77.jpg",
+    "alt": "Corpus callosum and head of caudate nucleus — Anatomical Sectional Model of the Head (Model BS5/5)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "head-sections-model-bs5-5",
+    "quizSrc": "images/structures/64fbc53778ef0d77.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "corpus-callosum-and-head-of-caudate-nucleus-1a878bcb7f",
+    "quizMarker": {
+      "x": 0.48412698412698413,
+      "y": 0.432328869047619
+    }
+  },
+  {
+    "id": "img-b0e19b4345c1",
+    "src": "images/structures/64fbc53778ef0d77.jpg",
+    "alt": "Anterior horn of lateral ventricle — Anatomical Sectional Model of the Head (Model BS5/5)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "head-sections-model-bs5-5",
+    "quizSrc": "images/structures/64fbc53778ef0d77.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "anterior-horn-of-lateral-ventricle-69855c2431",
+    "quizMarker": {
+      "x": 0.5285714285714286,
+      "y": 0.4568638392857143
+    }
+  },
+  {
+    "id": "img-c3540f8a4c09",
+    "src": "images/structures/64fbc53778ef0d77.jpg",
+    "alt": "Caudate nucleus — Anatomical Sectional Model of the Head (Model BS5/5)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "head-sections-model-bs5-5",
+    "quizSrc": "images/structures/64fbc53778ef0d77.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "caudate-nucleus-b181dc39be",
+    "quizMarker": {
+      "x": 0.5444444444444444,
+      "y": 0.47756696428571427
+    }
+  },
+  {
+    "id": "img-212ab0012923",
+    "src": "images/structures/64fbc53778ef0d77.jpg",
+    "alt": "Septum pellucidum — Anatomical Sectional Model of the Head (Model BS5/5)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "head-sections-model-bs5-5",
+    "quizSrc": "images/structures/64fbc53778ef0d77.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "septum-pellucidum-c573e38750",
+    "quizMarker": {
+      "x": 0.4777777777777778,
+      "y": 0.48828125
+    }
+  },
+  {
+    "id": "img-652e927aafb9",
+    "src": "images/structures/64fbc53778ef0d77.jpg",
+    "alt": "Lateral ventricle and choroid plexus — Anatomical Sectional Model of the Head (Model BS5/5)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "head-sections-model-bs5-5",
+    "quizSrc": "images/structures/64fbc53778ef0d77.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "lateral-ventricle-and-choroid-plexus-000bced862",
+    "quizMarker": {
+      "x": 0.5253968253968254,
+      "y": 0.5242373511904762
+    }
+  },
+  {
+    "id": "img-8cfc6393d782",
+    "src": "images/structures/64fbc53778ef0d77.jpg",
+    "alt": "Posterior horn of lateral ventricle — Anatomical Sectional Model of the Head (Model BS5/5)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "head-sections-model-bs5-5",
+    "quizSrc": "images/structures/64fbc53778ef0d77.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "posterior-horn-of-lateral-ventricle-475ce3d698",
+    "quizMarker": {
+      "x": 0.5412698412698412,
+      "y": 0.569233630952381
+    }
+  },
+  {
+    "id": "img-be9ecfbe4917",
+    "src": "images/structures/64fbc53778ef0d77.jpg",
+    "alt": "Inferior sagittal sinus — Anatomical Sectional Model of the Head (Model BS5/5)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "head-sections-model-bs5-5",
+    "quizSrc": "images/structures/64fbc53778ef0d77.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "inferior-sagittal-sinus-a0bd233b17",
+    "quizMarker": {
+      "x": 0.4746031746031746,
+      "y": 0.5918526785714285
+    }
+  },
+  {
+    "id": "img-e4b936eb68c0",
+    "src": "images/structures/64fbc53778ef0d77.jpg",
+    "alt": "Branch of middle meningeal artery — Anatomical Sectional Model of the Head (Model BS5/5)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "head-sections-model-bs5-5",
+    "quizSrc": "images/structures/64fbc53778ef0d77.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "branch-of-middle-meningeal-artery-97d45ee405",
+    "quizMarker": {
+      "x": 0.7698412698412699,
+      "y": 0.6120907738095238
+    }
+  },
+  {
+    "id": "img-66b3989f3359",
+    "src": "images/structures/64fbc53778ef0d77.jpg",
+    "alt": "Occipital lobe — Anatomical Sectional Model of the Head (Model BS5/5)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "head-sections-model-bs5-5",
+    "quizSrc": "images/structures/64fbc53778ef0d77.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "occipital-lobe-fd8c0271a3",
+    "quizMarker": {
+      "x": 0.6238095238095238,
+      "y": 0.682328869047619
+    }
+  },
+  {
+    "id": "img-dfb8585054e1",
+    "src": "images/structures/64fbc53778ef0d77.jpg",
+    "alt": "Scalp — Anatomical Sectional Model of the Head (Model BS5/5)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "head-sections-model-bs5-5",
+    "quizSrc": "images/structures/64fbc53778ef0d77.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "scalp-b319c18648",
+    "quizMarker": {
+      "x": 0.7253968253968254,
+      "y": 0.748046875
+    }
+  },
+  {
+    "id": "img-5cd23c457fd9",
+    "src": "images/structures/9a85e977ea4958e8.jpg",
+    "alt": "Phrenic nerve — Thorax (Model HS21)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "thorax-model-hs21",
+    "quizSrc": "images/structures/9a85e977ea4958e8.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "phrenic-nerve-d2be311f57",
+    "quizMarker": {
+      "x": 0.5158730158730159,
+      "y": 0.3901971726190476
+    }
+  },
+  {
+    "id": "img-b23aff389e48",
+    "src": "images/structures/9a85e977ea4958e8.jpg",
+    "alt": "Vagus nerve (CN X) — Thorax (Model HS21)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "thorax-model-hs21",
+    "quizSrc": "images/structures/9a85e977ea4958e8.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "vagus-nerve-cn-x-050cb0c8d5",
+    "quizMarker": {
+      "x": 0.5698412698412698,
+      "y": 0.4763764880952381
+    }
+  },
+  {
+    "id": "img-ed38dededbad",
+    "src": "images/structures/bc260043b7c1c7aa.jpg",
+    "alt": "Kidney — Urinary System (Model LS3/1)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "urinary-system-model-ls3-1",
+    "quizSrc": "images/structures/bc260043b7c1c7aa.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "kidney-03d0e4dcbd",
+    "quizMarker": {
+      "x": 0.8333333333333334,
+      "y": 0.4080543154761905
+    }
+  },
+  {
+    "id": "img-5b192f5d350c",
+    "src": "images/structures/bc260043b7c1c7aa.jpg",
+    "alt": "Ureter — Urinary System (Model LS3/1)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "urinary-system-model-ls3-1",
+    "quizSrc": "images/structures/bc260043b7c1c7aa.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "ureter-8f7d779c73",
+    "quizMarker": {
+      "x": 0.2841269841269841,
+      "y": 0.8823288690476191
+    }
+  },
+  {
+    "id": "img-82e1cd880474",
+    "src": "images/structures/bc260043b7c1c7aa.jpg",
+    "alt": "Abdominal aorta — Urinary System (Model LS3/1)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "urinary-system-model-ls3-1",
+    "quizSrc": "images/structures/bc260043b7c1c7aa.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "abdominal-aorta-12656caf07",
+    "quizMarker": {
+      "x": 0.5190476190476191,
+      "y": 0.4044828869047619
+    }
+  },
+  {
+    "id": "img-83b11f77d753",
+    "src": "images/structures/bc260043b7c1c7aa.jpg",
+    "alt": "Inferior vena cava — Urinary System (Model LS3/1)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "urinary-system-model-ls3-1",
+    "quizSrc": "images/structures/bc260043b7c1c7aa.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "inferior-vena-cava-12a0b3ae11",
+    "quizMarker": {
+      "x": 0.42063492063492064,
+      "y": 0.392578125
+    }
+  },
+  {
+    "id": "img-84fdbfa015e7",
+    "src": "images/structures/bc260043b7c1c7aa.jpg",
+    "alt": "Left renal artery — Urinary System (Model LS3/1)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "urinary-system-model-ls3-1",
+    "quizSrc": "images/structures/bc260043b7c1c7aa.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "left-renal-artery-feb339d255",
+    "quizMarker": {
+      "x": 0.6904761904761905,
+      "y": 0.44495907738095236
+    }
+  },
+  {
+    "id": "img-887ebe31a13d",
+    "src": "images/structures/bc260043b7c1c7aa.jpg",
+    "alt": "Suprarenal (adrenal) gland — Urinary System (Model LS3/1)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "urinary-system-model-ls3-1",
+    "quizSrc": "images/structures/bc260043b7c1c7aa.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "suprarenal-adrenal-gland-bde85ec8c7",
+    "quizMarker": {
+      "x": 0.3380952380952381,
+      "y": 0.33900669642857145
+    }
+  },
+  {
+    "id": "img-1d368f86cb34",
+    "src": "images/structures/bc260043b7c1c7aa.jpg",
+    "alt": "Right renal vein — Urinary System (Model LS3/1)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "urinary-system-model-ls3-1",
+    "quizSrc": "images/structures/bc260043b7c1c7aa.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "right-renal-vein-2620573285",
+    "quizMarker": {
+      "x": 0.2523809523809524,
+      "y": 0.47042410714285715
+    }
+  },
+  {
+    "id": "img-31aef12e9038",
+    "src": "images/structures/bc260043b7c1c7aa.jpg",
+    "alt": "Renal cortex — Urinary System (Model LS3/1)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "urinary-system-model-ls3-1",
+    "quizSrc": "images/structures/bc260043b7c1c7aa.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "renal-cortex-16543a45f5",
+    "quizMarker": {
+      "x": 0.07777777777777778,
+      "y": 0.5251860119047619
+    }
+  },
+  {
+    "id": "img-3af315b81718",
+    "src": "images/structures/bc260043b7c1c7aa.jpg",
+    "alt": "Cortical column — Urinary System (Model LS3/1)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "urinary-system-model-ls3-1",
+    "quizSrc": "images/structures/bc260043b7c1c7aa.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "cortical-column-83494a272c",
+    "quizMarker": {
+      "x": 0.12857142857142856,
+      "y": 0.4961495535714286
+    }
+  },
+  {
+    "id": "img-e3c429973b57",
+    "src": "images/structures/bc260043b7c1c7aa.jpg",
+    "alt": "Renal pelvis — Urinary System (Model LS3/1)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "urinary-system-model-ls3-1",
+    "quizSrc": "images/structures/bc260043b7c1c7aa.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "renal-pelvis-2e1b26ac5b",
+    "quizMarker": {
+      "x": 0.22698412698412698,
+      "y": 0.5109002976190476
+    }
+  },
+  {
+    "id": "img-c8c017b485b2",
+    "src": "images/structures/bc260043b7c1c7aa.jpg",
+    "alt": "Renal sinus (fat) — Urinary System (Model LS3/1)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "urinary-system-model-ls3-1",
+    "quizSrc": "images/structures/bc260043b7c1c7aa.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "renal-sinus-fat-c3541e818d",
+    "quizMarker": {
+      "x": 0.18253968253968253,
+      "y": 0.46400669642857145
+    }
+  },
+  {
+    "id": "img-679d523b913f",
+    "src": "images/structures/bc260043b7c1c7aa.jpg",
+    "alt": "Branch of the renal artery — Urinary System (Model LS3/1)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "urinary-system-model-ls3-1",
+    "quizSrc": "images/structures/bc260043b7c1c7aa.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "branch-of-the-renal-artery-ff247dc782",
+    "quizMarker": {
+      "x": 0.10952380952380952,
+      "y": 0.4949590773809524
+    }
+  },
+  {
+    "id": "img-0c3a918f5800",
+    "src": "images/structures/bc260043b7c1c7aa.jpg",
+    "alt": "Minor calyx — Urinary System (Model LS3/1)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "urinary-system-model-ls3-1",
+    "quizSrc": "images/structures/bc260043b7c1c7aa.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "minor-calyx-968e250e2c",
+    "quizMarker": {
+      "x": 0.17936507936507937,
+      "y": 0.5275669642857143
+    }
+  },
+  {
+    "id": "img-366c79ada1a8",
+    "src": "images/structures/bc260043b7c1c7aa.jpg",
+    "alt": "Renal pyramid — Urinary System (Model LS3/1)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "urinary-system-model-ls3-1",
+    "quizSrc": "images/structures/bc260043b7c1c7aa.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "renal-pyramid-b3af5c7ccb",
+    "quizMarker": {
+      "x": 0.1253968253968254,
+      "y": 0.5370907738095239
+    }
+  },
+  {
+    "id": "img-96aa57813b31",
+    "src": "images/structures/1f5a79cc0cb534af.jpg",
+    "alt": "Urethra — Urinary System (Model LS3/1)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "urinary-system-model-ls3-1",
+    "quizSrc": "images/structures/1f5a79cc0cb534af.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "urethra-4b33aa096e",
+    "quizMarker": {
+      "x": 0.46825396825396826,
+      "y": 0.948530505952381
+    }
+  },
+  {
+    "id": "img-0a8ee8f8912a",
+    "src": "images/structures/1f5a79cc0cb534af.jpg",
+    "alt": "Detrusor muscle — Urinary System (Model LS3/1)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "urinary-system-model-ls3-1",
+    "quizSrc": "images/structures/1f5a79cc0cb534af.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "detrusor-muscle-85d4e67db4",
+    "quizMarker": {
+      "x": 0.32857142857142857,
+      "y": 0.8680431547619047
+    }
+  },
+  {
+    "id": "img-b064896f929d",
+    "src": "images/structures/1f5a79cc0cb534af.jpg",
+    "alt": "Internal urethral orifice — Urinary System (Model LS3/1)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "urinary-system-model-ls3-1",
+    "quizSrc": "images/structures/1f5a79cc0cb534af.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "internal-urethral-orifice-285bd0c34b",
+    "quizMarker": {
+      "x": 0.4714285714285714,
+      "y": 0.8878162202380953
+    }
+  },
+  {
+    "id": "img-8cfb0d4632ae",
+    "src": "images/structures/1f5a79cc0cb534af.jpg",
+    "alt": "Ureteric orifice — Urinary System (Model LS3/1)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "urinary-system-model-ls3-1",
+    "quizSrc": "images/structures/1f5a79cc0cb534af.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "ureteric-orifice-716e9a0d7f",
+    "quizMarker": {
+      "x": 0.5476190476190477,
+      "y": 0.8263764880952381
+    }
+  },
+  {
+    "id": "img-fac7bada6418",
+    "src": "images/structures/1f5a79cc0cb534af.jpg",
+    "alt": "Trigone of the bladder — Urinary System (Model LS3/1)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "urinary-system-model-ls3-1",
+    "quizSrc": "images/structures/1f5a79cc0cb534af.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "trigone-of-the-bladder-b7abd8155e",
+    "quizMarker": {
+      "x": 0.4746031746031746,
+      "y": 0.8509114583333334
+    }
+  },
+  {
+    "id": "img-b40c02344407",
+    "src": "images/structures/7cfca3bb10a97fe4.jpg",
+    "alt": "Hyoid bone — Lungs with Heart, Diaphragm & Larynx (Model MH9)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+    "quizSrc": "images/structures/7cfca3bb10a97fe4.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "hyoid-bone-87a205bd00",
+    "quizMarker": {
+      "x": 0.5476190476190477,
+      "y": 0.2683779761904762
+    }
+  },
+  {
+    "id": "img-42e9a03596dd",
+    "src": "images/structures/7cfca3bb10a97fe4.jpg",
+    "alt": "Thyroid cartilage — Lungs with Heart, Diaphragm & Larynx (Model MH9)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+    "quizSrc": "images/structures/7cfca3bb10a97fe4.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "thyroid-cartilage-dad3d80fd8",
+    "quizMarker": {
+      "x": 0.37936507936507935,
+      "y": 0.43113839285714284
+    }
+  },
+  {
+    "id": "img-c9f7cadcf4f8",
+    "src": "images/structures/7cfca3bb10a97fe4.jpg",
+    "alt": "Larynx — Lungs with Heart, Diaphragm & Larynx (Model MH9)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+    "quizSrc": "images/structures/7cfca3bb10a97fe4.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "larynx-0d715adc76",
+    "quizMarker": {
+      "x": 0.5222222222222223,
+      "y": 0.423046875
+    }
+  },
+  {
+    "id": "img-3591feab4654",
+    "src": "images/structures/7cfca3bb10a97fe4.jpg",
+    "alt": "Cricoid cartilage — Lungs with Heart, Diaphragm & Larynx (Model MH9)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+    "quizSrc": "images/structures/7cfca3bb10a97fe4.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "cricoid-cartilage-7ceb094a4f",
+    "quizMarker": {
+      "x": 0.5222222222222223,
+      "y": 0.53828125
+    }
+  },
+  {
+    "id": "img-8acf53c72f6d",
+    "src": "images/structures/7cfca3bb10a97fe4.jpg",
+    "alt": "Trachea — Lungs with Heart, Diaphragm & Larynx (Model MH9)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+    "quizSrc": "images/structures/7cfca3bb10a97fe4.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "trachea-3613802d6d",
+    "quizMarker": {
+      "x": 0.4396825396825397,
+      "y": 0.7004278273809523
+    }
+  },
+  {
+    "id": "img-ba27e5339727",
+    "src": "images/structures/7cfca3bb10a97fe4.jpg",
+    "alt": "Brachiocephalic trunk — Lungs with Heart, Diaphragm & Larynx (Model MH9)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+    "quizSrc": "images/structures/7cfca3bb10a97fe4.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "brachiocephalic-trunk-df0bc63c0c",
+    "quizMarker": {
+      "x": 0.36666666666666664,
+      "y": 0.748046875
+    }
+  },
+  {
+    "id": "img-d24071309747",
+    "src": "images/structures/7cfca3bb10a97fe4.jpg",
+    "alt": "Right internal jugular vein — Lungs with Heart, Diaphragm & Larynx (Model MH9)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+    "quizSrc": "images/structures/7cfca3bb10a97fe4.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "right-internal-jugular-vein-a687c3de52",
+    "quizMarker": {
+      "x": 0.30952380952380953,
+      "y": 0.748046875
+    }
+  },
+  {
+    "id": "img-ec98ff9d3a06",
+    "src": "images/structures/622118764a0bc9cd.jpg",
+    "alt": "Upper lobe of right lung — Lungs with Heart, Diaphragm & Larynx (Model MH9)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+    "quizSrc": "images/structures/622118764a0bc9cd.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "upper-lobe-of-right-lung-d6ac467bed",
+    "quizMarker": {
+      "x": 0.28095238095238095,
+      "y": 0.4239955357142857
+    }
+  },
+  {
+    "id": "img-a6821add6410",
+    "src": "images/structures/622118764a0bc9cd.jpg",
+    "alt": "Middle lobe of right lung — Lungs with Heart, Diaphragm & Larynx (Model MH9)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+    "quizSrc": "images/structures/622118764a0bc9cd.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "middle-lobe-of-right-lung-d166ca2f0f",
+    "quizMarker": {
+      "x": 0.14126984126984127,
+      "y": 0.6266183035714286
+    }
+  },
+  {
+    "id": "img-5d9a407a4132",
+    "src": "images/structures/622118764a0bc9cd.jpg",
+    "alt": "Lower lobe of right lung — Lungs with Heart, Diaphragm & Larynx (Model MH9)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+    "quizSrc": "images/structures/622118764a0bc9cd.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "lower-lobe-of-right-lung-8a652dcba0",
+    "quizMarker": {
+      "x": 0.0873015873015873,
+      "y": 0.7204241071428571
+    }
+  },
+  {
+    "id": "img-e53a4cb5f762",
+    "src": "images/structures/622118764a0bc9cd.jpg",
+    "alt": "Lung — Lungs with Heart, Diaphragm & Larynx (Model MH9)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+    "quizSrc": "images/structures/622118764a0bc9cd.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "lung-44cccc26ca",
+    "quizMarker": {
+      "x": 0.23015873015873015,
+      "y": 0.511142113095238
+    }
+  },
+  {
+    "id": "img-501adea2a3fd",
+    "src": "images/structures/622118764a0bc9cd.jpg",
+    "alt": "Upper lobe of left lung — Lungs with Heart, Diaphragm & Larynx (Model MH9)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+    "quizSrc": "images/structures/622118764a0bc9cd.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "upper-lobe-of-left-lung-68f0cc3ab7",
+    "quizMarker": {
+      "x": 0.7984126984126985,
+      "y": 0.48828125
+    }
+  },
+  {
+    "id": "img-a056b37d334a",
+    "src": "images/structures/622118764a0bc9cd.jpg",
+    "alt": "Lower lobe of left lung — Lungs with Heart, Diaphragm & Larynx (Model MH9)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+    "quizSrc": "images/structures/622118764a0bc9cd.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "left-lower-lobe-fda1fdf439",
+    "quizMarker": {
+      "x": 0.8587301587301587,
+      "y": 0.698530505952381
+    }
+  },
+  {
+    "id": "img-c8263e99830c",
+    "src": "images/structures/622118764a0bc9cd.jpg",
+    "alt": "Thyroid gland — Lungs with Heart, Diaphragm & Larynx (Model MH9)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+    "quizSrc": "images/structures/622118764a0bc9cd.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "thyroid-gland-914f76f53f",
+    "quizMarker": {
+      "x": 0.3634920634920635,
+      "y": 0.04185267857142857
+    }
+  },
+  {
+    "id": "img-da200d9207d0",
+    "src": "images/structures/4edf13774457c94a.jpg",
+    "alt": "Epiglottic cartilage — Lungs with Heart, Diaphragm & Larynx (Model MH9)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+    "quizSrc": "images/structures/4edf13774457c94a.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "epiglottic-cartilage-50bc58db6d",
+    "quizMarker": {
+      "x": 0.6396825396825396,
+      "y": 0.36828497023809526
+    }
+  },
+  {
+    "id": "img-43b4311ced82",
+    "src": "images/structures/7cfca3bb10a97fe4.jpg",
+    "alt": "Cricotracheal ligament — Lungs with Heart, Diaphragm & Larynx (Model MH9)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+    "quizSrc": "images/structures/7cfca3bb10a97fe4.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "cricotracheal-ligament-bf02f12758",
+    "quizMarker": {
+      "x": 0.5063492063492063,
+      "y": 0.5818638392857143
+    }
+  },
+  {
+    "id": "img-8de40872d212",
+    "src": "images/structures/4657153d8606d007.jpg",
+    "alt": "Diaphragm — Lungs with Heart, Diaphragm & Larynx (Model MH9)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+    "quizSrc": "images/structures/4657153d8606d007.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "diaphragm-60575b9d78",
+    "quizMarker": {
+      "x": 0.2365079365079365,
+      "y": 0.7430431547619047
+    }
+  },
+  {
+    "id": "img-96c2dad79e43",
+    "src": "images/structures/4657153d8606d007.jpg",
+    "alt": "Oesophagus — Lungs with Heart, Diaphragm & Larynx (Model MH9)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+    "quizSrc": "images/structures/4657153d8606d007.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "oesophagus-ad76796645",
+    "quizMarker": {
+      "x": 0.49682539682539684,
+      "y": 0.5468563988095239
+    }
+  },
+  {
+    "id": "img-d5d6c4a24d5c",
+    "src": "images/structures/4657153d8606d007.jpg",
+    "alt": "Aorta — Lungs with Heart, Diaphragm & Larynx (Model MH9)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+    "quizSrc": "images/structures/4657153d8606d007.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "aorta-97a15f94fe",
+    "quizMarker": {
+      "x": 0.573015873015873,
+      "y": 0.4894717261904762
+    }
+  },
+  {
+    "id": "img-6d1b10c9885a",
+    "src": "images/structures/4657153d8606d007.jpg",
+    "alt": "Carina of the trachea — Lungs with Heart, Diaphragm & Larynx (Model MH9)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+    "quizSrc": "images/structures/4657153d8606d007.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "carina-of-the-trachea-be24fa13d9",
+    "quizMarker": {
+      "x": 0.5222222222222223,
+      "y": 0.3847098214285714
+    }
+  },
+  {
+    "id": "img-4f61db285fea",
+    "src": "images/structures/4657153d8606d007.jpg",
+    "alt": "Right main bronchus — Lungs with Heart, Diaphragm & Larynx (Model MH9)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+    "quizSrc": "images/structures/4657153d8606d007.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "right-main-bronchus-b4cc13d09b",
+    "quizMarker": {
+      "x": 0.4365079365079365,
+      "y": 0.42161458333333335
+    }
+  },
+  {
+    "id": "img-2bb33c7bf531",
+    "src": "images/structures/4657153d8606d007.jpg",
+    "alt": "Left main bronchus — Lungs with Heart, Diaphragm & Larynx (Model MH9)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+    "quizSrc": "images/structures/4657153d8606d007.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "left-main-bronchus-19aea0f6e6",
+    "quizMarker": {
+      "x": 0.6015873015873016,
+      "y": 0.40851934523809524
+    }
+  },
+  {
+    "id": "img-1faa1dfe00fa",
+    "src": "images/structures/7c24188c13de10cf.jpg",
+    "alt": "Superior vena cava — Lungs with Heart, Diaphragm & Larynx (Model MH9)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+    "quizSrc": "images/structures/7c24188c13de10cf.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "superior-vena-cava-d34b0694af",
+    "quizMarker": {
+      "x": 0.2777777777777778,
+      "y": 0.36804315476190474
+    }
+  },
+  {
+    "id": "img-ac329618350f",
+    "src": "images/structures/7c24188c13de10cf.jpg",
+    "alt": "Pulmonary trunk — Lungs with Heart, Diaphragm & Larynx (Model MH9)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+    "quizSrc": "images/structures/7c24188c13de10cf.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "pulmonary-trunk-d29b190d8f",
+    "quizMarker": {
+      "x": 0.5190476190476191,
+      "y": 0.43257068452380953
+    }
+  },
+  {
+    "id": "img-4f8f5455ed5d",
+    "src": "images/structures/7c24188c13de10cf.jpg",
+    "alt": "Right auricle — Lungs with Heart, Diaphragm & Larynx (Model MH9)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+    "quizSrc": "images/structures/7c24188c13de10cf.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "right-auricle-360da436cf",
+    "quizMarker": {
+      "x": 0.3825396825396825,
+      "y": 0.4432849702380952
+    }
+  },
+  {
+    "id": "img-4a86e1d3769d",
+    "src": "images/structures/7c24188c13de10cf.jpg",
+    "alt": "Left auricle — Lungs with Heart, Diaphragm & Larynx (Model MH9)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+    "quizSrc": "images/structures/7c24188c13de10cf.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "left-auricle-6588af8a37",
+    "quizMarker": {
+      "x": 0.6682539682539682,
+      "y": 0.4468563988095238
+    }
+  },
+  {
+    "id": "img-9994b7362c09",
+    "src": "images/structures/7c24188c13de10cf.jpg",
+    "alt": "Right coronary artery — Lungs with Heart, Diaphragm & Larynx (Model MH9)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+    "quizSrc": "images/structures/7c24188c13de10cf.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "right-coronary-artery-658b9c7c3a",
+    "quizMarker": {
+      "x": 0.3412698412698413,
+      "y": 0.6159040178571429
+    }
+  },
+  {
+    "id": "img-36d55a506848",
+    "src": "images/structures/f877a8fcd4da3fb2.jpg",
+    "alt": "Right atrium — Lungs with Heart, Diaphragm & Larynx (Model MH9)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+    "quizSrc": "images/structures/f877a8fcd4da3fb2.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "right-atrium-23132c28da",
+    "quizMarker": {
+      "x": 0.3888888888888889,
+      "y": 0.43590029761904764
+    }
+  },
+  {
+    "id": "img-468f1057ee58",
+    "src": "images/structures/f877a8fcd4da3fb2.jpg",
+    "alt": "Pulmonary valve — Lungs with Heart, Diaphragm & Larynx (Model MH9)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+    "quizSrc": "images/structures/f877a8fcd4da3fb2.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "pulmonary-valve-4f9810ae3e",
+    "quizMarker": {
+      "x": 0.5793650793650794,
+      "y": 0.4620907738095238
+    }
+  },
+  {
+    "id": "img-fdeb98312d67",
+    "src": "images/structures/f877a8fcd4da3fb2.jpg",
+    "alt": "Right ventricle — Lungs with Heart, Diaphragm & Larynx (Model MH9)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+    "quizSrc": "images/structures/f877a8fcd4da3fb2.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "right-ventricle-eb83f05a3e",
+    "quizMarker": {
+      "x": 0.5222222222222223,
+      "y": 0.5239955357142857
+    }
+  },
+  {
+    "id": "img-8594a3449016",
+    "src": "images/structures/f877a8fcd4da3fb2.jpg",
+    "alt": "Tricuspid valve (right atrioventricular valve) — Lungs with Heart, Diaphragm & Larynx (Model MH9)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+    "quizSrc": "images/structures/f877a8fcd4da3fb2.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "tricuspid-valve-right-atrioventricular-valve-7bb0f89fae",
+    "quizMarker": {
+      "x": 0.44285714285714284,
+      "y": 0.5870907738095238
+    }
+  },
+  {
+    "id": "img-30f5bfd4fc4c",
+    "src": "images/structures/a61c892c5b9e3de9.jpg",
+    "alt": "Left atrium — Lungs with Heart, Diaphragm & Larynx (Model MH9)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+    "quizSrc": "images/structures/a61c892c5b9e3de9.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "left-atrium-3a1bbd3c1c",
+    "quizMarker": {
+      "x": 0.5222222222222223,
+      "y": 0.4525669642857143
+    }
+  },
+  {
+    "id": "img-c4091cb5eb45",
+    "src": "images/structures/a61c892c5b9e3de9.jpg",
+    "alt": "Bicuspid valve (mitral / left atrioventricular valve) — Lungs with Heart, Diaphragm & Larynx (Model MH9)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+    "quizSrc": "images/structures/a61c892c5b9e3de9.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "bicuspid-valve-mitral-left-atrioventricular-valve-27f66fbba4",
+    "quizMarker": {
+      "x": 0.5,
+      "y": 0.4909040178571429
+    }
+  },
+  {
+    "id": "img-66815d440b86",
+    "src": "images/structures/8571aa73f0865d5d.jpg",
+    "alt": "Supraspinatus muscle — Upper Limb (Model NS15)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "upper-limb-model-ns15",
+    "quizSrc": "images/structures/8571aa73f0865d5d.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "supraspinatus-muscle-d9969a6f97",
+    "quizMarker": {
+      "x": 0.45555555555555555,
+      "y": 0.6195684523809524
+    }
+  },
+  {
+    "id": "img-f3a975e34a0d",
+    "src": "images/structures/8571aa73f0865d5d.jpg",
+    "alt": "Infraspinatus muscle — Upper Limb (Model NS15)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "upper-limb-model-ns15",
+    "quizSrc": "images/structures/8571aa73f0865d5d.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "infraspinatus-muscle-a97d61f7d7",
+    "quizMarker": {
+      "x": 0.626984126984127,
+      "y": 0.42994791666666665
+    }
+  },
+  {
+    "id": "img-a661c250bf4f",
+    "src": "images/structures/8571aa73f0865d5d.jpg",
+    "alt": "Teres major muscle — Upper Limb (Model NS15)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "upper-limb-model-ns15",
+    "quizSrc": "images/structures/8571aa73f0865d5d.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "teres-major-muscle-7b918c6e38",
+    "quizMarker": {
+      "x": 0.7063492063492064,
+      "y": 0.2585193452380952
+    }
+  },
+  {
+    "id": "img-93ef6615bf68",
+    "src": "images/structures/8571aa73f0865d5d.jpg",
+    "alt": "Spine of scapula — Upper Limb (Model NS15)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "upper-limb-model-ns15",
+    "quizSrc": "images/structures/8571aa73f0865d5d.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "spine-of-scapula-7780c29880",
+    "quizMarker": {
+      "x": 0.4587301587301587,
+      "y": 0.5299479166666666
+    }
+  },
+  {
+    "id": "img-2144d38d6d06",
+    "src": "images/structures/8571aa73f0865d5d.jpg",
+    "alt": "Deltoid muscle — Upper Limb (Model NS15)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "upper-limb-model-ns15",
+    "quizSrc": "images/structures/8571aa73f0865d5d.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "deltoid-muscle-cdcbea6488",
+    "quizMarker": {
+      "x": 0.24285714285714285,
+      "y": 0.2013764880952381
+    }
+  },
+  {
+    "id": "img-4285ee6b3982",
+    "src": "images/structures/8571aa73f0865d5d.jpg",
+    "alt": "Teres minor muscle — Upper Limb (Model NS15)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "upper-limb-model-ns15",
+    "quizSrc": "images/structures/8571aa73f0865d5d.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "teres-minor-muscle-c4cc32057f",
+    "quizMarker": {
+      "x": 0.6015873015873016,
+      "y": 0.2859002976190476
+    }
+  },
+  {
+    "id": "img-87908d13f6f7",
+    "src": "images/structures/b9f0d00ac0f2fec6.jpg",
+    "alt": "Latissimus dorsi muscle — Upper Limb (Model NS15)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "upper-limb-model-ns15",
+    "quizSrc": "images/structures/b9f0d00ac0f2fec6.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "latissimus-dorsi-muscle-e787479866",
+    "quizMarker": {
+      "x": 0.5984126984126984,
+      "y": 0.20924479166666668
+    }
+  },
+  {
+    "id": "img-6880f63c5881",
+    "src": "images/structures/b9f0d00ac0f2fec6.jpg",
+    "alt": "Subscapularis muscle — Upper Limb (Model NS15)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "upper-limb-model-ns15",
+    "quizSrc": "images/structures/b9f0d00ac0f2fec6.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "subscapularis-muscle-17bbb8c48d",
+    "quizMarker": {
+      "x": 0.5253968253968254,
+      "y": 0.5739955357142857
+    }
+  },
+  {
+    "id": "img-f923f711ef4e",
+    "src": "images/structures/b9f0d00ac0f2fec6.jpg",
+    "alt": "Scapula — Upper Limb (Model NS15)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "upper-limb-model-ns15",
+    "quizSrc": "images/structures/b9f0d00ac0f2fec6.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "scapula-98b410b873",
+    "quizMarker": {
+      "x": 0.17936507936507937,
+      "y": 0.4037574404761905
+    }
+  },
+  {
+    "id": "img-cda8b95b7d2a",
+    "src": "images/structures/b9f0d00ac0f2fec6.jpg",
+    "alt": "Brachial plexus — Upper Limb (Model NS15)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "upper-limb-model-ns15",
+    "quizSrc": "images/structures/b9f0d00ac0f2fec6.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "brachial-plexus-1137ef664a",
+    "quizMarker": {
+      "x": 0.7031746031746032,
+      "y": 0.7894717261904762
+    }
+  },
+  {
+    "id": "img-7cc57e2272bd",
+    "src": "images/structures/3d3a11b537b18b97.jpg",
+    "alt": "Pectoralis major muscle — Upper Limb (Model NS15)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "upper-limb-model-ns15",
+    "quizSrc": "images/structures/3d3a11b537b18b97.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "pectoralis-major-muscle-d03b5bc362",
+    "quizMarker": {
+      "x": 0.3888888888888889,
+      "y": 0.5029017857142857
+    }
+  },
+  {
+    "id": "img-9582e0c36e97",
+    "src": "images/structures/3d3a11b537b18b97.jpg",
+    "alt": "Clavicle — Upper Limb (Model NS15)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "upper-limb-model-ns15",
+    "quizSrc": "images/structures/3d3a11b537b18b97.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "clavicle-75d5b7512b",
+    "quizMarker": {
+      "x": 0.25873015873015875,
+      "y": 0.6501860119047619
+    }
+  },
+  {
+    "id": "img-4608160c4f4e",
+    "src": "images/structures/3d3a11b537b18b97.jpg",
+    "alt": "Coracoid process — Upper Limb (Model NS15)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "upper-limb-model-ns15",
+    "quizSrc": "images/structures/3d3a11b537b18b97.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "coracoid-process-8217737ec0",
+    "quizMarker": {
+      "x": 0.5380952380952381,
+      "y": 0.5668526785714286
+    }
+  },
+  {
+    "id": "img-dcfc23ee582b",
+    "src": "images/structures/3d3a11b537b18b97.jpg",
+    "alt": "Humerus — Upper Limb (Model NS15)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "upper-limb-model-ns15",
+    "quizSrc": "images/structures/3d3a11b537b18b97.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "humerus-dd0363a2b6",
+    "quizMarker": {
+      "x": 0.6936507936507936,
+      "y": 0.4763764880952381
+    }
+  },
+  {
+    "id": "img-ad3434deffbd",
+    "src": "images/structures/485e853edfcbc72b.jpg",
+    "alt": "Brachialis — Upper Limb (Model NS15)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "upper-limb-model-ns15",
+    "quizSrc": "images/structures/485e853edfcbc72b.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "brachialis-a438d43b95",
+    "quizMarker": {
+      "x": 0.5190476190476191,
+      "y": 0.05613839285714286
+    }
+  },
+  {
+    "id": "img-8d4f21bf8985",
+    "src": "images/structures/485e853edfcbc72b.jpg",
+    "alt": "Triceps brachii muscle — Upper Limb (Model NS15)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "upper-limb-model-ns15",
+    "quizSrc": "images/structures/485e853edfcbc72b.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "triceps-brachii-muscle-9f0a378900",
+    "quizMarker": {
+      "x": 0.6365079365079365,
+      "y": 0.20851934523809523
+    }
+  },
+  {
+    "id": "img-066e04c2a12c",
+    "src": "images/structures/0598a1cfb2297365.jpg",
+    "alt": "Biceps brachii muscle — Upper Limb (Model NS15)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "upper-limb-model-ns15",
+    "quizSrc": "images/structures/0598a1cfb2297365.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "biceps-brachii-muscle-61d21e9a55",
+    "quizMarker": {
+      "x": 0.49047619047619045,
+      "y": 0.5549479166666667
+    }
+  },
+  {
+    "id": "img-7441b22d8fc6",
+    "src": "images/structures/a06815f2a673168a.jpg",
+    "alt": "Pronator teres — Upper Limb (Model NS15)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "upper-limb-model-ns15",
+    "quizSrc": "images/structures/a06815f2a673168a.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "pronator-teres-e6d3ad0929",
+    "quizMarker": {
+      "x": 0.44603174603174606,
+      "y": 0.6109002976190476
+    }
+  },
+  {
+    "id": "img-98401e6b45e8",
+    "src": "images/structures/a06815f2a673168a.jpg",
+    "alt": "Brachioradialis — Upper Limb (Model NS15)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "upper-limb-model-ns15",
+    "quizSrc": "images/structures/a06815f2a673168a.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "brachioradialis-5518239c73",
+    "quizMarker": {
+      "x": 0.6015873015873016,
+      "y": 0.5525669642857143
+    }
+  },
+  {
+    "id": "img-52c78d959622",
+    "src": "images/structures/a06815f2a673168a.jpg",
+    "alt": "Flexor carpi radialis — Upper Limb (Model NS15)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "upper-limb-model-ns15",
+    "quizSrc": "images/structures/a06815f2a673168a.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "flexor-carpi-radialis-caa13e29e9",
+    "quizMarker": {
+      "x": 0.40476190476190477,
+      "y": 0.5144717261904762
+    }
+  },
+  {
+    "id": "img-3cf1510945de",
+    "src": "images/structures/a06815f2a673168a.jpg",
+    "alt": "Palmaris longus — Upper Limb (Model NS15)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "upper-limb-model-ns15",
+    "quizSrc": "images/structures/a06815f2a673168a.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "palmaris-longus-83a20995f1",
+    "quizMarker": {
+      "x": 0.35079365079365077,
+      "y": 0.4859002976190476
+    }
+  },
+  {
+    "id": "img-7e9c485965ae",
+    "src": "images/structures/a06815f2a673168a.jpg",
+    "alt": "Brachial artery — Upper Limb (Model NS15)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "upper-limb-model-ns15",
+    "quizSrc": "images/structures/a06815f2a673168a.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "brachial-artery-6cb20659d6",
+    "quizMarker": {
+      "x": 0.4111111111111111,
+      "y": 0.7287574404761905
+    }
+  },
+  {
+    "id": "img-7c5f26833e96",
+    "src": "images/structures/a06815f2a673168a.jpg",
+    "alt": "Median nerve — Upper Limb (Model NS15)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "upper-limb-model-ns15",
+    "quizSrc": "images/structures/a06815f2a673168a.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "median-nerve-4a1b30cc56",
+    "quizMarker": {
+      "x": 0.3984126984126984,
+      "y": 0.7525669642857142
+    }
+  },
+  {
+    "id": "img-5405e9d848f9",
+    "src": "images/structures/24e3c5fda0a61da0.jpg",
+    "alt": "Ulnar nerve — Upper Limb (Model NS15)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "upper-limb-model-ns15",
+    "quizSrc": "images/structures/24e3c5fda0a61da0.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "ulnar-nerve-86ea789df7",
+    "quizMarker": {
+      "x": 0.319047619047619,
+      "y": 0.819233630952381
+    }
+  },
+  {
+    "id": "img-92ebfb385366",
+    "src": "images/structures/24e3c5fda0a61da0.jpg",
+    "alt": "Radial artery — Upper Limb (Model NS15)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "upper-limb-model-ns15",
+    "quizSrc": "images/structures/24e3c5fda0a61da0.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "radial-artery-1b44beae4e",
+    "quizMarker": {
+      "x": 0.5285714285714286,
+      "y": 0.6656622023809524
+    }
+  },
+  {
+    "id": "img-6bf6d83b0c23",
+    "src": "images/structures/24e3c5fda0a61da0.jpg",
+    "alt": "Abductor pollicis brevis muscle — Upper Limb (Model NS15)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "upper-limb-model-ns15",
+    "quizSrc": "images/structures/24e3c5fda0a61da0.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "abductor-pollicis-brevis-muscle-b5ffb903dd",
+    "quizMarker": {
+      "x": 0.6301587301587301,
+      "y": 0.5347098214285714
+    }
+  },
+  {
+    "id": "img-845b43d8865b",
+    "src": "images/structures/24e3c5fda0a61da0.jpg",
+    "alt": "Flexor pollicis brevis muscle — Upper Limb (Model NS15)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "upper-limb-model-ns15",
+    "quizSrc": "images/structures/24e3c5fda0a61da0.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "flexor-pollicis-brevis-muscle-279d98db70",
+    "quizMarker": {
+      "x": 0.6047619047619047,
+      "y": 0.48828125
+    }
+  },
+  {
+    "id": "img-7e197928fbbb",
+    "src": "images/structures/24e3c5fda0a61da0.jpg",
+    "alt": "Palmar (volar) carpal ligament / Guyon’s tunnel — Upper Limb (Model NS15)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "upper-limb-model-ns15",
+    "quizSrc": "images/structures/24e3c5fda0a61da0.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "palmar-volar-carpal-ligament-guyon-s-tunnel-e3cb4a0954",
+    "quizMarker": {
+      "x": 0.4142857142857143,
+      "y": 0.5978050595238096
+    }
+  },
+  {
+    "id": "img-5c0f04532baa",
+    "src": "images/structures/24e3c5fda0a61da0.jpg",
+    "alt": "Flexor retinaculum — Upper Limb (Model NS15)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "upper-limb-model-ns15",
+    "quizSrc": "images/structures/24e3c5fda0a61da0.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "flexor-retinaculum-abf1be8b43",
+    "quizMarker": {
+      "x": 0.4523809523809524,
+      "y": 0.5549479166666667
+    }
+  },
+  {
+    "id": "img-898b799704c2",
+    "src": "images/structures/24e3c5fda0a61da0.jpg",
+    "alt": "Deep branch of ulnar nerve — Upper Limb (Model NS15)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "upper-limb-model-ns15",
+    "quizSrc": "images/structures/24e3c5fda0a61da0.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "deep-branch-of-ulnar-nerve-c87c55ffac",
+    "quizMarker": {
+      "x": 0.36666666666666664,
+      "y": 0.5787574404761905
+    }
+  },
+  {
+    "id": "img-a9211a24166a",
+    "src": "images/structures/24e3c5fda0a61da0.jpg",
+    "alt": "Superficial branch of ulnar nerve — Upper Limb (Model NS15)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "upper-limb-model-ns15",
+    "quizSrc": "images/structures/24e3c5fda0a61da0.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "superficial-branch-of-ulnar-nerve-63b1794766",
+    "quizMarker": {
+      "x": 0.3984126984126984,
+      "y": 0.5585193452380952
+    }
+  },
+  {
+    "id": "img-bca0d45c7bf3",
+    "src": "images/structures/24e3c5fda0a61da0.jpg",
+    "alt": "Common palmar digital nerves (median nerve) — Upper Limb (Model NS15)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "upper-limb-model-ns15",
+    "quizSrc": "images/structures/24e3c5fda0a61da0.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "common-palmar-digital-nerve-b4039fd947",
+    "quizMarker": {
+      "x": 0.46190476190476193,
+      "y": 0.5061383928571429
+    }
+  },
+  {
+    "id": "img-74810f347f13",
+    "src": "images/structures/24e3c5fda0a61da0.jpg",
+    "alt": "Flexor digiti minimi — Upper Limb (Model NS15)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "upper-limb-model-ns15",
+    "quizSrc": "images/structures/24e3c5fda0a61da0.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "flexor-digiti-minimi-0cfcc7f039",
+    "quizMarker": {
+      "x": 0.35714285714285715,
+      "y": 0.4739955357142857
+    }
+  },
+  {
+    "id": "img-1a89d0b0837f",
+    "src": "images/structures/24e3c5fda0a61da0.jpg",
+    "alt": "Superficial palmar arch — Upper Limb (Model NS15)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "upper-limb-model-ns15",
+    "quizSrc": "images/structures/24e3c5fda0a61da0.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "superficial-palmar-arch-3da05912ac",
+    "quizMarker": {
+      "x": 0.4365079365079365,
+      "y": 0.4478050595238095
+    }
+  },
+  {
+    "id": "img-c68dff73e2f6",
+    "src": "images/structures/24e3c5fda0a61da0.jpg",
+    "alt": "Tendons of flexor digitorum superficialis — Upper Limb (Model NS15)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "upper-limb-model-ns15",
+    "quizSrc": "images/structures/24e3c5fda0a61da0.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "tendons-of-flexor-digitorum-superficialis-c1386f4a5f",
+    "quizMarker": {
+      "x": 0.4746031746031746,
+      "y": 0.41685267857142855
+    }
+  },
+  {
+    "id": "img-4a4351ac76e0",
+    "src": "images/structures/24e3c5fda0a61da0.jpg",
+    "alt": "Lumbrical — Upper Limb (Model NS15)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "upper-limb-model-ns15",
+    "quizSrc": "images/structures/24e3c5fda0a61da0.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "lumbrical-84374e7170",
+    "quizMarker": {
+      "x": 0.4936507936507937,
+      "y": 0.40137648809523807
+    }
+  },
+  {
+    "id": "img-57602b5aa76b",
+    "src": "images/structures/24e3c5fda0a61da0.jpg",
+    "alt": "Tendons of flexor digitorum profundus — Upper Limb (Model NS15)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "upper-limb-model-ns15",
+    "quizSrc": "images/structures/24e3c5fda0a61da0.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "tendons-of-flexor-digitorum-profundus-9956ef338b",
+    "quizMarker": {
+      "x": 0.35714285714285715,
+      "y": 0.36804315476190474
+    }
+  },
+  {
+    "id": "img-2ca7ca480217",
+    "src": "images/structures/24e3c5fda0a61da0.jpg",
+    "alt": "Annular ligament (A1 pulley) and fibrous digital sheath — Upper Limb (Model NS15)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "upper-limb-model-ns15",
+    "quizSrc": "images/structures/24e3c5fda0a61da0.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "annular-ligament-a1-pulley-and-fibrous-digital-sheath-d655221a7c",
+    "quizMarker": {
+      "x": 0.553968253968254,
+      "y": 0.34661458333333334
+    }
+  },
+  {
+    "id": "img-c0eb3bac6f99",
+    "src": "images/structures/24e3c5fda0a61da0.jpg",
+    "alt": "Chiasma tendinum of flexor digitorum superficialis tendon — Upper Limb (Model NS15)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "upper-limb-model-ns15",
+    "quizSrc": "images/structures/24e3c5fda0a61da0.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "chiasma-tendinum-of-flexor-digitorum-superficialis-tendon-0b2f3e53b5",
+    "quizMarker": {
+      "x": 0.4746031746031746,
+      "y": 0.31090029761904764
+    }
+  },
+  {
+    "id": "img-332b695b4271",
+    "src": "images/structures/24e3c5fda0a61da0.jpg",
+    "alt": "Proximal phalanx (I), middle phalanx (II), distal phalanx (III) — Upper Limb (Model NS15)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "upper-limb-model-ns15",
+    "quizSrc": "images/structures/24e3c5fda0a61da0.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "proximal-phalanx-i-middle-phalanx-ii-distal-phalanx-iii-7e271210cf",
+    "quizMarker": {
+      "x": 0.319047619047619,
+      "y": 0.3489955357142857
+    }
+  },
+  {
+    "id": "img-1b026136f3c9",
+    "src": "images/structures/24e3c5fda0a61da0.jpg",
+    "alt": "Annular ligament (A3 pulley) — Upper Limb (Model NS15)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "upper-limb-model-ns15",
+    "quizSrc": "images/structures/24e3c5fda0a61da0.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "annular-ligament-a3-pulley-19831c17cb",
+    "quizMarker": {
+      "x": 0.5888888888888889,
+      "y": 0.23232886904761904
+    }
+  },
+  {
+    "id": "img-79b509d6cfdb",
+    "src": "images/structures/24e3c5fda0a61da0.jpg",
+    "alt": "Cruciform ligaments — Upper Limb (Model NS15)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "upper-limb-model-ns15",
+    "quizSrc": "images/structures/24e3c5fda0a61da0.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "cruciform-ligaments-59b5d88656",
+    "quizMarker": {
+      "x": 0.5984126984126984,
+      "y": 0.19899553571428572
+    }
+  },
+  {
+    "id": "img-30be4190357d",
+    "src": "images/structures/33890f3fbc01d274.jpg",
+    "alt": "Flexor digitorum superficialis — Upper Limb (Model NS15)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "upper-limb-model-ns15",
+    "quizSrc": "images/structures/33890f3fbc01d274.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "flexor-digitorum-superficialis-468c9b107d",
+    "quizMarker": {
+      "x": 0.4365079365079365,
+      "y": 0.39423363095238095
+    }
+  },
+  {
+    "id": "img-0fc96ce9aebb",
+    "src": "images/structures/33890f3fbc01d274.jpg",
+    "alt": "Radial artery — Upper Limb (Model NS15)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "upper-limb-model-ns15",
+    "quizSrc": "images/structures/33890f3fbc01d274.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "radial-artery-1b44beae4e",
+    "quizMarker": {
+      "x": 0.5031746031746032,
+      "y": 0.6061383928571429
+    }
+  },
+  {
+    "id": "img-492c6b2c3a16",
+    "src": "images/structures/33890f3fbc01d274.jpg",
+    "alt": "Superficial branch of the radial nerve — Upper Limb (Model NS15)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "upper-limb-model-ns15",
+    "quizSrc": "images/structures/33890f3fbc01d274.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "superficial-branch-of-the-radial-nerve-c491647847",
+    "quizMarker": {
+      "x": 0.6079365079365079,
+      "y": 0.42280505952380953
+    }
+  },
+  {
+    "id": "img-763f9502c8da",
+    "src": "images/structures/33890f3fbc01d274.jpg",
+    "alt": "Radial nerve — Upper Limb (Model NS15)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "upper-limb-model-ns15",
+    "quizSrc": "images/structures/33890f3fbc01d274.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "radial-nerve-924dd640f7",
+    "quizMarker": {
+      "x": 0.5666666666666667,
+      "y": 0.7223400297619048
+    }
+  },
+  {
+    "id": "img-0cb18384c09f",
+    "src": "images/structures/879939a7b75cd384.jpg",
+    "alt": "Dorsal carpal arch — Upper Limb (Model NS15)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "upper-limb-model-ns15",
+    "quizSrc": "images/structures/879939a7b75cd384.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "dorsal-carpal-arch-f9c7e9adc0",
+    "quizMarker": {
+      "x": 0.3,
+      "y": 0.08543526785714285
+    }
+  },
+  {
+    "id": "img-d9541f7fa95f",
+    "src": "images/structures/879939a7b75cd384.jpg",
+    "alt": "Extensor retinaculum — Upper Limb (Model NS15)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "upper-limb-model-ns15",
+    "quizSrc": "images/structures/879939a7b75cd384.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "extensor-retinaculum-ff03ad2292",
+    "quizMarker": {
+      "x": 0.40476190476190477,
+      "y": 0.14972098214285715
+    }
+  },
+  {
+    "id": "img-7457a14fd577",
+    "src": "images/structures/879939a7b75cd384.jpg",
+    "alt": "Tendon of extensor pollicis longus — Upper Limb (Model NS15)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "upper-limb-model-ns15",
+    "quizSrc": "images/structures/879939a7b75cd384.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "tendon-of-extensor-pollicis-longus-2f2efe4d4d",
+    "quizMarker": {
+      "x": 0.36984126984126986,
+      "y": 0.25613839285714285
+    }
+  },
+  {
+    "id": "img-d75cdfbdd29f",
+    "src": "images/structures/879939a7b75cd384.jpg",
+    "alt": "Extensor pollicis brevis muscle — Upper Limb (Model NS15)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "upper-limb-model-ns15",
+    "quizSrc": "images/structures/879939a7b75cd384.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "extensor-pollicis-brevis-muscle-b61c832ff2",
+    "quizMarker": {
+      "x": 0.37936507936507935,
+      "y": 0.33232886904761905
+    }
+  },
+  {
+    "id": "img-3c398b4c0df1",
+    "src": "images/structures/879939a7b75cd384.jpg",
+    "alt": "Abductor pollicis longus muscle — Upper Limb (Model NS15)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "upper-limb-model-ns15",
+    "quizSrc": "images/structures/879939a7b75cd384.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "abductor-pollicis-longus-muscle-92ba4f85ac",
+    "quizMarker": {
+      "x": 0.3825396825396825,
+      "y": 0.432328869047619
+    }
+  },
+  {
+    "id": "img-bcb134648510",
+    "src": "images/structures/879939a7b75cd384.jpg",
+    "alt": "Extensor carpi radialis longus muscle — Upper Limb (Model NS15)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "upper-limb-model-ns15",
+    "quizSrc": "images/structures/879939a7b75cd384.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "extensor-carpi-radialis-longus-muscle-869ae3a743",
+    "quizMarker": {
+      "x": 0.4174603174603175,
+      "y": 0.83828125
+    }
+  },
+  {
+    "id": "img-e44a84d59297",
+    "src": "images/structures/879939a7b75cd384.jpg",
+    "alt": "Extensor carpi radialis brevis muscle — Upper Limb (Model NS15)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "upper-limb-model-ns15",
+    "quizSrc": "images/structures/879939a7b75cd384.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "extensor-carpi-radialis-brevis-muscle-0f3124c7f9",
+    "quizMarker": {
+      "x": 0.4746031746031746,
+      "y": 0.7847098214285714
+    }
+  },
+  {
+    "id": "img-30051e02a8d4",
+    "src": "images/structures/879939a7b75cd384.jpg",
+    "alt": "Extensor digitorum muscle — Upper Limb (Model NS15)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "upper-limb-model-ns15",
+    "quizSrc": "images/structures/879939a7b75cd384.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "extensor-digitorum-muscle-6af94948f3",
+    "quizMarker": {
+      "x": 0.5698412698412698,
+      "y": 0.7406622023809524
+    }
+  },
+  {
+    "id": "img-dc261661da4b",
+    "src": "images/structures/879939a7b75cd384.jpg",
+    "alt": "Extensor carpi ulnaris — Upper Limb (Model NS15)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "upper-limb-model-ns15",
+    "quizSrc": "images/structures/879939a7b75cd384.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "extensor-carpi-ulnaris-3195d40a83",
+    "quizMarker": {
+      "x": 0.6746031746031746,
+      "y": 0.707328869047619
+    }
+  },
+  {
+    "id": "img-22a2bb8ef1dd",
+    "src": "images/structures/830a0749c1f1674b.jpg",
+    "alt": "Abductor digiti minimi muscle — Upper Limb (Model NS15)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "upper-limb-model-ns15",
+    "quizSrc": "images/structures/830a0749c1f1674b.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "abductor-digiti-minimi-muscle-b6f34ff987",
+    "quizMarker": {
+      "x": 0.5285714285714286,
+      "y": 0.10256696428571428
+    }
+  },
+  {
+    "id": "img-5c4385bce0ea",
+    "src": "images/structures/830a0749c1f1674b.jpg",
+    "alt": "Opponens digiti minimi — Upper Limb (Model NS15)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "upper-limb-model-ns15",
+    "quizSrc": "images/structures/830a0749c1f1674b.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "opponens-digiti-minimi-0d40553df0",
+    "quizMarker": {
+      "x": 0.48095238095238096,
+      "y": 0.10851934523809524
+    }
+  },
+  {
+    "id": "img-33a848f14849",
+    "src": "images/structures/830a0749c1f1674b.jpg",
+    "alt": "Dorsal branch of ulnar nerve — Upper Limb (Model NS15)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "upper-limb-model-ns15",
+    "quizSrc": "images/structures/830a0749c1f1674b.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "dorsal-branch-of-ulnar-nerve-9f7123a6fb",
+    "quizMarker": {
+      "x": 0.4396825396825397,
+      "y": 0.19423363095238094
+    }
+  },
+  {
+    "id": "img-c81027580549",
+    "src": "images/structures/830a0749c1f1674b.jpg",
+    "alt": "Ulna — Upper Limb (Model NS15)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "upper-limb-model-ns15",
+    "quizSrc": "images/structures/830a0749c1f1674b.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "ulna-05ed45f32e",
+    "quizMarker": {
+      "x": 0.4650793650793651,
+      "y": 0.294233630952381
+    }
+  },
+  {
+    "id": "img-95f82db93d79",
+    "src": "images/structures/830a0749c1f1674b.jpg",
+    "alt": "Flexor carpi ulnaris muscle — Upper Limb (Model NS15)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "upper-limb-model-ns15",
+    "quizSrc": "images/structures/830a0749c1f1674b.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "flexor-carpi-ulnaris-muscle-a00e423be4",
+    "quizMarker": {
+      "x": 0.626984126984127,
+      "y": 0.6949590773809524
+    }
+  },
+  {
+    "id": "img-09928d976119",
+    "src": "images/structures/830a0749c1f1674b.jpg",
+    "alt": "Pisiform bone — Upper Limb (Model NS15)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "upper-limb-model-ns15",
+    "quizSrc": "images/structures/830a0749c1f1674b.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "pisiform-bone-a02014563c",
+    "quizMarker": {
+      "x": 0.5095238095238095,
+      "y": 0.20613839285714286
+    }
+  },
+  {
+    "id": "img-c11ae28c3146",
+    "src": "images/structures/dfab1f6a10ece741.jpg",
+    "alt": "Pubis — Male Reproductive System (Model MS2)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "male-reproductive-system-model-ms2",
+    "quizSrc": "images/structures/dfab1f6a10ece741.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "pubis-55135df83f",
+    "quizMarker": {
+      "x": 0.5507936507936508,
+      "y": 0.417578125
+    }
+  },
+  {
+    "id": "img-cf75d2e28883",
+    "src": "images/structures/dfab1f6a10ece741.jpg",
+    "alt": "Penis — Male Reproductive System (Model MS2)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "male-reproductive-system-model-ms2",
+    "quizSrc": "images/structures/dfab1f6a10ece741.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "penis-6c084d4578",
+    "quizMarker": {
+      "x": 0.31587301587301586,
+      "y": 0.6478050595238095
+    }
+  },
+  {
+    "id": "img-8684ac9e5553",
+    "src": "images/structures/dfab1f6a10ece741.jpg",
+    "alt": "Glans penis — Male Reproductive System (Model MS2)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "male-reproductive-system-model-ms2",
+    "quizSrc": "images/structures/dfab1f6a10ece741.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "glans-penis-1a92e11151",
+    "quizMarker": {
+      "x": 0.35714285714285715,
+      "y": 0.7489955357142857
+    }
+  },
+  {
+    "id": "img-ff695f0a4998",
+    "src": "images/structures/dfab1f6a10ece741.jpg",
+    "alt": "Testis — Male Reproductive System (Model MS2)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "male-reproductive-system-model-ms2",
+    "quizSrc": "images/structures/dfab1f6a10ece741.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "testis-844d5e5e8e",
+    "quizMarker": {
+      "x": 0.4873015873015873,
+      "y": 0.7323288690476191
+    }
+  },
+  {
+    "id": "img-a91f3802cd04",
+    "src": "images/structures/dfab1f6a10ece741.jpg",
+    "alt": "Epididymis — Male Reproductive System (Model MS2)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "male-reproductive-system-model-ms2",
+    "quizSrc": "images/structures/dfab1f6a10ece741.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "epididymis-910485140a",
+    "quizMarker": {
+      "x": 0.5190476190476191,
+      "y": 0.6668526785714286
+    }
+  },
+  {
+    "id": "img-45f44fe20beb",
+    "src": "images/structures/dfab1f6a10ece741.jpg",
+    "alt": "Head of the epididymis — Male Reproductive System (Model MS2)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "male-reproductive-system-model-ms2",
+    "quizSrc": "images/structures/dfab1f6a10ece741.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "head-of-the-epididymis-39e92cfca0",
+    "quizMarker": {
+      "x": 0.44285714285714284,
+      "y": 0.6109002976190476
+    }
+  },
+  {
+    "id": "img-cd95d96e5191",
+    "src": "images/structures/dfab1f6a10ece741.jpg",
+    "alt": "Pampiniform plexus — Male Reproductive System (Model MS2)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "male-reproductive-system-model-ms2",
+    "quizSrc": "images/structures/dfab1f6a10ece741.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "pampiniform-plexus-baf4469b8b",
+    "quizMarker": {
+      "x": 0.38571428571428573,
+      "y": 0.33113839285714286
+    }
+  },
+  {
+    "id": "img-95ffac47e0f4",
+    "src": "images/structures/dfab1f6a10ece741.jpg",
+    "alt": "Testicular artery — Male Reproductive System (Model MS2)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "male-reproductive-system-model-ms2",
+    "quizSrc": "images/structures/dfab1f6a10ece741.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "testicular-artery-be8b776e29",
+    "quizMarker": {
+      "x": 0.3603174603174603,
+      "y": 0.2890066964285714
+    }
+  },
+  {
+    "id": "img-24c4cd3d7a37",
+    "src": "images/structures/dfab1f6a10ece741.jpg",
+    "alt": "Pectineal part of the inguinal ligament — Male Reproductive System (Model MS2)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "male-reproductive-system-model-ms2",
+    "quizSrc": "images/structures/dfab1f6a10ece741.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "pectineal-part-of-the-inguinal-ligament-b9f5f43de0",
+    "quizMarker": {
+      "x": 0.626984126984127,
+      "y": 0.2037574404761905
+    }
+  },
+  {
+    "id": "img-44298ccd6699",
+    "src": "images/structures/dfab1f6a10ece741.jpg",
+    "alt": "Inguinal ligament — Male Reproductive System (Model MS2)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "male-reproductive-system-model-ms2",
+    "quizSrc": "images/structures/dfab1f6a10ece741.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "inguinal-ligament-96d04a59a5",
+    "quizMarker": {
+      "x": 0.7158730158730159,
+      "y": 0.14185267857142858
+    }
+  },
+  {
+    "id": "img-7e3edd1274a0",
+    "src": "images/structures/dfab1f6a10ece741.jpg",
+    "alt": "Urinary bladder — Male Reproductive System (Model MS2)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "male-reproductive-system-model-ms2",
+    "quizSrc": "images/structures/dfab1f6a10ece741.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "urinary-bladder-f54829f90e",
+    "quizMarker": {
+      "x": 0.7253968253968254,
+      "y": 0.24813988095238096
+    }
+  },
+  {
+    "id": "img-8e16db0d2970",
+    "src": "images/structures/dfab1f6a10ece741.jpg",
+    "alt": "Muscular layer (tunica muscularis) — Male Reproductive System (Model MS2)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "male-reproductive-system-model-ms2",
+    "quizSrc": "images/structures/dfab1f6a10ece741.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "muscular-layer-tunica-muscularis-6bdbddbc93",
+    "quizMarker": {
+      "x": 0.7,
+      "y": 0.3013764880952381
+    }
+  },
+  {
+    "id": "img-dddfd0c63e37",
+    "src": "images/structures/dfab1f6a10ece741.jpg",
+    "alt": "Prostate — Male Reproductive System (Model MS2)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "male-reproductive-system-model-ms2",
+    "quizSrc": "images/structures/dfab1f6a10ece741.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "prostate-8125c00860",
+    "quizMarker": {
+      "x": 0.7571428571428571,
+      "y": 0.3918526785714286
+    }
+  },
+  {
+    "id": "img-6e199cf6cba5",
+    "src": "images/structures/a425c9f2639a82be.jpg",
+    "alt": "Sacrum — Male Reproductive System (Model MS2)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "male-reproductive-system-model-ms2",
+    "quizSrc": "images/structures/a425c9f2639a82be.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "sacrum-9b1f7a9e18",
+    "quizMarker": {
+      "x": 0.3761904761904762,
+      "y": 0.3418526785714286
+    }
+  },
+  {
+    "id": "img-6a79a5482806",
+    "src": "images/structures/a425c9f2639a82be.jpg",
+    "alt": "Coccyx — Male Reproductive System (Model MS2)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "male-reproductive-system-model-ms2",
+    "quizSrc": "images/structures/a425c9f2639a82be.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "coccyx-bb26c4e9bc",
+    "quizMarker": {
+      "x": 0.6111111111111112,
+      "y": 0.7739955357142857
+    }
+  },
+  {
+    "id": "img-c3991fb3b5f7",
+    "src": "images/structures/a425c9f2639a82be.jpg",
+    "alt": "Seminal vesicles — Male Reproductive System (Model MS2)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "male-reproductive-system-model-ms2",
+    "quizSrc": "images/structures/a425c9f2639a82be.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "seminal-vesicles-ddb47c3811",
+    "quizMarker": {
+      "x": 0.3253968253968254,
+      "y": 0.7418526785714286
+    }
+  },
+  {
+    "id": "img-e25b0ef0d168",
+    "src": "images/structures/a425c9f2639a82be.jpg",
+    "alt": "Ureter — Male Reproductive System (Model MS2)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "male-reproductive-system-model-ms2",
+    "quizSrc": "images/structures/a425c9f2639a82be.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "ureter-8f7d779c73",
+    "quizMarker": {
+      "x": 0.15396825396825398,
+      "y": 0.40137648809523807
+    }
+  },
+  {
+    "id": "img-5c4ea0240bbc",
+    "src": "images/structures/a425c9f2639a82be.jpg",
+    "alt": "Common iliac artery — Male Reproductive System (Model MS2)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "male-reproductive-system-model-ms2",
+    "quizSrc": "images/structures/a425c9f2639a82be.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "common-iliac-artery-5cf7a446ec",
+    "quizMarker": {
+      "x": 0.14444444444444443,
+      "y": 0.2706659226190476
+    }
+  },
+  {
+    "id": "img-350a5a7a0c8e",
+    "src": "images/structures/dfab1f6a10ece741.jpg",
+    "alt": "Inferior end of testis — Male Reproductive System (Model MS2)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "male-reproductive-system-model-ms2",
+    "quizSrc": "images/structures/dfab1f6a10ece741.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "inferior-end-of-testis-074b889c99",
+    "quizMarker": {
+      "x": 0.553968253968254,
+      "y": 0.7604352678571429
+    }
+  },
+  {
+    "id": "img-c46d3c5082ef",
+    "src": "images/structures/dfab1f6a10ece741.jpg",
+    "alt": "Superior end of testis — Male Reproductive System (Model MS2)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "male-reproductive-system-model-ms2",
+    "quizSrc": "images/structures/dfab1f6a10ece741.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "superior-end-of-testis-dbb383e701",
+    "quizMarker": {
+      "x": 0.43333333333333335,
+      "y": 0.6687686011904762
+    }
+  },
+  {
+    "id": "img-14be412827fc",
+    "src": "images/structures/a650688c5ab8dd5a.jpg",
+    "alt": "Urethral crest — Male Reproductive System (Model MS2)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "male-reproductive-system-model-ms2",
+    "quizSrc": "images/structures/a650688c5ab8dd5a.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "urethral-crest-794632af81",
+    "quizMarker": {
+      "x": 0.5253968253968254,
+      "y": 0.5759114583333333
+    }
+  },
+  {
+    "id": "img-d836a92dc723",
+    "src": "images/structures/a650688c5ab8dd5a.jpg",
+    "alt": "Prostatic part of the urethra — Male Reproductive System (Model MS2)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "male-reproductive-system-model-ms2",
+    "quizSrc": "images/structures/a650688c5ab8dd5a.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "prostatic-part-of-the-urethra-738cf16d83",
+    "quizMarker": {
+      "x": 0.5380952380952381,
+      "y": 0.6532924107142857
+    }
+  },
+  {
+    "id": "img-d220b6b3bcd6",
+    "src": "images/structures/a650688c5ab8dd5a.jpg",
+    "alt": "Ductus deferens — Male Reproductive System (Model MS2)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "male-reproductive-system-model-ms2",
+    "quizSrc": "images/structures/a650688c5ab8dd5a.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "ductus-deferens-57a1aa2b18",
+    "quizMarker": {
+      "x": 0.734920634920635,
+      "y": 0.48662574404761905
+    }
+  },
+  {
+    "id": "img-92b1b422d92e",
+    "src": "images/structures/a650688c5ab8dd5a.jpg",
+    "alt": "Ischiocavernosus muscle — Male Reproductive System (Model MS2)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "male-reproductive-system-model-ms2",
+    "quizSrc": "images/structures/a650688c5ab8dd5a.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "ischiocavernosus-muscle-fe8d65ecdf",
+    "quizMarker": {
+      "x": 0.16666666666666666,
+      "y": 0.7497209821428571
+    }
+  },
+  {
+    "id": "img-61e56ebe9cf2",
+    "src": "images/structures/a650688c5ab8dd5a.jpg",
+    "alt": "Corpus spongiosum — Male Reproductive System (Model MS2)",
+    "caption": "",
+    "credit": "Local image",
+    "license": "",
+    "sourceUrl": "",
+    "quizReady": true,
+    "modelId": "male-reproductive-system-model-ms2",
+    "quizSrc": "images/structures/a650688c5ab8dd5a.jpg",
+    "quizAlt": "Identify the marked structure.",
+    "quizStructureId": "corpus-spongiosum-7fb5d3ee4d",
+    "quizMarker": {
+      "x": 0.17936507936507937,
+      "y": 0.8180431547619048
     }
   }
 ]

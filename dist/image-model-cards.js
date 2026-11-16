@@ -1,11 +1,12 @@
+import {imageMatchesScope} from './data.js';
 // Models without printed labels are revised against their own quiz-ready photos.
 export function imageModelCards(model,catalog,cards=model.cards){
  const seen=new Set();
  return cards.flatMap(card=>{
   const structure=catalog.byId.get(card.structureId);
-  const images=(structure?.imageIds||[]).map(id=>catalog.imagesById.get(id)).filter(im=>im?.quizReady&&im.quizSrc&&im.quizStructureId===card.structureId&&im.modelId===model.id);
+  const images=(structure?.imageIds||[]).map(id=>catalog.imagesById.get(id)).filter(im=>im?.quizReady&&im.quizSrc&&im.quizStructureId===card.structureId&&imageMatchesScope(im,structure,{modelId:model.id,section:card.section}));
   if(!images.length)return [];
-  const key=card.structureId+'/'+card.factId;
+  const key=card.structureId+'/'+card.factId+'/'+card.section;
   if(seen.has(key))return [];seen.add(key);
   return [{...card,images,image:images[0]}];
  });

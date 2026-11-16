@@ -1,13 +1,13 @@
-import {filterStructures,studyCards,factVariants} from './data.js';
+import {filterStructures,studyCards,factVariants,imageMatchesScope} from './data.js';
 import {reviewKey} from './review-scheduler.js';
 export function defaultReviewFilters(){return {mode:'combined',query:'',modelId:'',section:'',difficulty:['Easy','Medium','Hard'],year:'',types:'',systems:'',regions:'',organs:'',tags:[],tagEffect:'include',topics:[],topicEffect:'exclude',models:[],modelEffect:'include'};}
 export function reviewPool(catalog,filters={}){
  const f={...defaultReviewFilters(),...filters};
  const allowedModel=id=>(!f.modelId||id===f.modelId)&&(!f.models.length||(f.modelEffect==='exclude'?!f.models.includes(id):f.models.includes(id)));
- const structures=filterStructures(catalog.structures,{...f,tags:''}).filter(s=>
+ const structures=filterStructures(catalog.structures,{...f,tags:''},catalog).filter(s=>
   (!f.models.length||s.occurrences.some(o=>allowedModel(o.modelId)))&&
   (!f.tags.length||(f.tagEffect==='exclude'?!f.tags.some(t=>s.tags.includes(t)):f.tags.some(t=>s.tags.includes(t)))));
- const images=f.mode==='knowledge'?[]:structures.flatMap(s=>(s.imageIds||[]).map(id=>catalog.imagesById.get(id)).filter(im=>im?.quizReady&&im.quizSrc&&im.quizStructureId===s.id&&allowedModel(im.modelId)&&(!f.section||!im.section||im.section===f.section)).map(image=>({id:s.id+':'+image.id,structureId:s.id,name:s.name,question:'Identify the marked structure.',answer:s.name,identification:true,image,topic:'Identification'})));
+ const images=f.mode==='knowledge'?[]:structures.flatMap(s=>(s.imageIds||[]).map(id=>catalog.imagesById.get(id)).filter(im=>im?.quizReady&&im.quizSrc&&im.quizStructureId===s.id&&allowedModel(im.modelId)&&imageMatchesScope(im,s,f)).map(image=>({id:s.id+':'+image.id,structureId:s.id,name:s.name,question:'Identify the marked structure.',answer:s.name,identification:true,image,topic:'Identification'})));
  const knowledge=f.mode==='images'?[]:studyCards(structures,catalog,{mode:'knowledge'}).map(c=>({...c,topic:c.question,modelIds:[...new Set((catalog.byId.get(c.structureId)?.occurrences||[]).map(o=>o.modelId).filter(allowedModel))]}));
  const keys=new Set();return [...images,...knowledge].filter(c=>{
   if(f.topics.length&&(f.topicEffect==='exclude'?f.topics.includes(c.topic):!f.topics.includes(c.topic)))return false;

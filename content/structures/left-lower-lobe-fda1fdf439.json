@@ -1,7 +1,9 @@
 {
   "id": "left-lower-lobe-fda1fdf439",
-  "name": "Left lower lobe",
-  "aliases": [],
+  "name": "Lower lobe of left lung",
+  "aliases": [
+    "Left lower lobe"
+  ],
   "scope": "",
   "kind": "structure",
   "types": [
@@ -15,18 +17,23 @@
   ],
   "organs": [],
   "tags": [
+    "Function",
     "Identification",
     "LeftLung",
     "LowerLobe",
     "LungLobe",
-    "Parts"
+    "LungLobes",
+    "Parts",
+    "Relations"
   ],
-  "imageIds": [],
+  "imageIds": [
+    "img-a056b37d334a"
+  ],
   "facts": [
     {
       "id": "f-671f514f58",
       "question": "Identification",
-      "preferredVariantId": "v-fda1fdf439",
+      "preferredVariantId": "v-debd1ae96f",
       "variants": [
         {
           "id": "v-fda1fdf439",
@@ -35,6 +42,17 @@
             {
               "modelId": "thorax-model-hs21",
               "cardId": "thorax-model-hs21-380"
+            }
+          ]
+        },
+        {
+          "id": "v-debd1ae96f",
+          "answer": "Lower lobe of left lung",
+          "sources": [
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-121",
+              "sourceLine": 121
             }
           ]
         }
@@ -56,6 +74,42 @@
           ]
         }
       ]
+    },
+    {
+      "id": "f-6519fe11ef",
+      "question": "Relations",
+      "preferredVariantId": "v-e62f314f0e",
+      "variants": [
+        {
+          "id": "v-e62f314f0e",
+          "answer": "Inferior to the oblique fissure.",
+          "sources": [
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-122",
+              "sourceLine": 122
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-f1e410ad14",
+      "question": "Function",
+      "preferredVariantId": "v-81c2f69fec",
+      "variants": [
+        {
+          "id": "v-81c2f69fec",
+          "answer": "Participates in gas exchange.",
+          "sources": [
+            {
+              "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+              "cardId": "lungs-with-heart-diaphragm-larynx-model-mh9-123",
+              "sourceLine": 123
+            }
+          ]
+        }
+      ]
     }
   ],
   "occurrences": [
@@ -67,6 +121,14 @@
         "37b"
       ],
       "label": "37b"
+    },
+    {
+      "modelId": "lungs-with-heart-diaphragm-larynx-model-mh9",
+      "section": "Lung lobes",
+      "path": [
+        "15"
+      ],
+      "label": "15"
     }
   ]
 }

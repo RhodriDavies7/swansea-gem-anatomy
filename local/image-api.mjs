@@ -17,7 +17,7 @@ export function validateUpload(p){
 export async function registerUpload(root,p){
  const {bytes,ext}=validateUpload(p);const structurePath=path.join(root,'content/structures',p.structureId+'.json');const before=await fs.readFile(structurePath);const imagesPath=path.join(root,'content/images.json'),imagesBefore=await fs.readFile(imagesPath);
  const structure=JSON.parse(before);const models=p.modelId?JSON.parse(await fs.readFile(path.join(root,'content/models.json'))):[];const model=models.find(m=>m.id===p.modelId);const description=p.alt?.trim()||structure.name+(model?' — '+model.name:'');
- const dir=await fs.mkdtemp(path.join(os.tmpdir(),'anatomy-image-'));try{const input=path.join(dir,'image'+ext);await fs.writeFile(input,bytes);const args=[path.join(root,'scripts/add-image.mjs'),p.structureId,input,description,'--credit',p.credit?.trim()||'Local image'];if(p.modelId)args.push('--model',p.modelId);if(p.quizReady){args.push('--quiz',input,'--quiz-alt',p.physicalPin?'Identify the pinned structure.':'Identify the marked structure.');if(!p.physicalPin)args.push('--marker-x',String(p.marker.x),'--marker-y',String(p.marker.y));}
+ const dir=await fs.mkdtemp(path.join(os.tmpdir(),'anatomy-image-'));try{const input=path.join(dir,'image'+ext);await fs.writeFile(input,bytes);const args=[path.join(root,'scripts/add-image.mjs'),p.structureId,input,description,'--credit',p.credit?.trim()||'Local image'];if(p.modelId)args.push('--model',p.modelId);if(p.section)args.push('--section',p.section);if(p.quizReady){args.push('--quiz',input,'--quiz-alt',p.physicalPin?'Identify the pinned structure.':'Identify the marked structure.');if(!p.physicalPin)args.push('--marker-x',String(p.marker.x),'--marker-y',String(p.marker.y));}
  await exec(process.execPath,args,{cwd:root});try{await exec(process.execPath,[path.join(root,'scripts/build-data.mjs')],{cwd:root});}catch(error){await fs.writeFile(structurePath,before);await fs.writeFile(imagesPath,imagesBefore);throw Error('The image was not registered because the data checks failed.');}
  return {ok:true};
  }finally{await fs.rm(dir,{recursive:true,force:true});}
@@ -31,5 +31,16 @@ export async function deleteImage(root,p){
  for(const name of await fs.readdir(dir)){if(!name.endsWith('.json'))continue;const file=path.join(dir,name),bytes=await fs.readFile(file),s=JSON.parse(bytes);if(s.imageIds.includes(p.imageId)){changed.push({file,bytes});s.imageIds=s.imageIds.filter(id=>id!==p.imageId);await fs.writeFile(file,JSON.stringify(s,null,2)+'\n');}}
  try{await fs.writeFile(imagesPath,JSON.stringify(images.filter(i=>i.id!==p.imageId),null,2)+'\n');await exec(process.execPath,[path.join(root,'scripts/build-data.mjs')],{cwd:root});}
  catch(error){await fs.writeFile(imagesPath,before);for(const c of changed)await fs.writeFile(c.file,c.bytes);await exec(process.execPath,[path.join(root,'scripts/build-data.mjs')],{cwd:root});throw Error('Could not delete the image. Your original data was restored.');}
+ return {ok:true};
+}
+
+export async function updateImageSection(root,p){
+ if(typeof p.section!=='string'||!/^img-[a-z0-9]+$/.test(p.imageId||''))throw Error('Choose an image and section.');
+ const file=path.join(root,'content/images.json'),before=await fs.readFile(file),images=JSON.parse(before),im=images.find(i=>i.id===p.imageId);
+ if(!im)throw Error('Image not found.');
+ const s=JSON.parse(await fs.readFile(path.join(root,'content/structures',im.quizStructureId+'.json')));
+ if(!s.occurrences.some(o=>o.modelId===im.modelId&&o.section===p.section))throw Error('Choose a section containing this structure.');
+ im.section=p.section;
+ try{await fs.writeFile(file,JSON.stringify(images,null,2)+'\n');await exec(process.execPath,[path.join(root,'scripts/build-data.mjs')],{cwd:root});}catch(error){await fs.writeFile(file,before);throw error;}
  return {ok:true};
 }

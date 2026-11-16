@@ -1,0 +1,52 @@
+name: Build desktop installers
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  build:
+    name: Build ${{ matrix.name }}
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - {name: Mac Apple Silicon, runner: macos-15, platform: mac, arch: arm64}
+          - {name: Mac Intel, runner: macos-15-intel, platform: mac, arch: x64}
+          - {name: Windows, runner: windows-latest, platform: win, arch: x64}
+    runs-on: ${{ matrix.runner }}
+    timeout-minutes: 35
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - name: Set unique build version
+        run: node scripts/release-version.mjs
+      - run: npm run build:data
+      - run: npm run desktop:vendor
+      - run: npm test
+      - name: Package installer
+        run: npx electron-builder --${{ matrix.platform }} --${{ matrix.arch }} --publish never
+      - name: Check Windows launch and saved progress
+        if: runner.os == 'Windows'
+        shell: pwsh
+        run: |
+          $env:ANATOMY_SMOKE_DIR = Join-Path $env:RUNNER_TEMP 'anatomy-release-smoke'
+          $process = Start-Process -FilePath '.\release\win-unpacked\Swansea GEM Anatomy.exe' -PassThru
+          if (-not $process.WaitForExit(60000)) { $process.Kill(); throw 'App launch timed out' }
+          if ($process.ExitCode -ne 0) { throw 'App launch failed' }
+          $result = Get-Content (Join-Path $env:ANATOMY_SMOKE_DIR 'smoke-result.json') -Raw | ConvertFrom-Json
+          if (-not $result.bridge -or -not $result.dashboard -or -not $result.report -or $result.records -ne 1) { throw 'Desktop review check failed' }
+      - uses: actions/upload-artifact@v4
+        with:
+          name: installer-${{ matrix.platform }}-${{ matrix.arch }}
+          path: |
+            release/*.dmg
+            release/*.exe
+          if-no-files-found: error
+          compression-level: 0
+          retention-days: 3

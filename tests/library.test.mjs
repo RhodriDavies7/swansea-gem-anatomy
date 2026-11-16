@@ -62,3 +62,14 @@ test('NS9 parent label 31 finds both named heads while 31a stays specific',()=>{
  assert.deepEqual(names('31a'),['Oblique head of adductor hallucis']);
  assert.deepEqual(names('31b'),['Transverse head of adductor hallucis']);
 });
+
+test('with-image filter requires an existing photo in the selected model and section',()=>{
+ const base={name:'Shared',aliases:[],tags:[],types:[],regions:[],systems:[],organs:[],facts:[],occurrences:[{modelId:'foot',section:'Bones'},{modelId:'head',section:'Section 1'},{modelId:'head',section:'Section 2'}]};
+ const structures=[{...base,id:'leg-only',imageIds:['leg']},{...base,id:'head-one',imageIds:['one']},{...base,id:'head-unknown',imageIds:['unknown']},{...base,id:'missing',imageIds:['missing']},{...base,id:'none',imageIds:[]}];
+ const c=indexCatalog({structures,images:[{id:'leg',modelId:'leg',src:'leg.jpg'},{id:'one',modelId:'head',section:'Section 1',src:'one.jpg'},{id:'unknown',modelId:'head',src:'unknown.jpg'}]});
+ const ids=f=>filterStructures(structures,{images:true,...f},c).map(s=>s.id).sort();
+ assert.deepEqual(ids({}),['head-one','head-unknown','leg-only']);
+ assert.deepEqual(ids({modelId:'foot'}),[]);
+ assert.deepEqual(ids({modelId:'head',section:'Section 1'}),['head-one']);
+ assert.deepEqual(ids({modelId:'head',section:'Section 2'}),[]);
+});
