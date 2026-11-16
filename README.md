@@ -80,3 +80,11 @@ The same GitHub release provides a Windows 10/11 x64 installer. Progress is save
 Build with `npm run desktop:package:windows`. Mac installers now use complete ad-hoc signatures; a strict signature check is required before packaging. The Windows desktop check in GitHub Actions boots the app and verifies review rendering and saving without release-publishing permissions.
 
 In the enlarged image viewer, scroll/pinch zooms; drag or Shift + scroll pans.
+
+### Automatic publishing
+
+Every push to `main` deploys the website and runs **Publish desktop apps** in GitHub Actions. The desktop workflow builds Apple Silicon and Intel DMGs and a Windows x64 installer, checks the data/tests, verifies Mac signatures and smoke-tests Windows review/progress. Only a complete set is published to GitHub Releases.
+
+Desktop versions use `1.3.<workflow run number>`, assigned during the build without committing version changes. Rerunning the same workflow keeps the same version; already-published downloads are left unchanged. For a new release, push another commit or use Run workflow. Only the final publishing job has repository write permission, using GitHub's temporary workflow token; no personal token is needed.
+
+Add and assign images locally, then commit and push the changed content and image files. The website updates automatically; desktop users download and install the new release. Their existing progress is retained. Building automatically does not add trusted Windows signing or Apple notarization.
