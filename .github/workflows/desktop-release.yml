@@ -32,8 +32,15 @@ jobs:
       - run: npm run build:data
       - run: npm run desktop:vendor
       - run: npm test
-      - name: Package installer
-        run: npx electron-builder --${{ matrix.platform }} --${{ matrix.arch }} --publish never
+      - name: Package Windows installer
+        if: runner.os == 'Windows'
+        run: npx electron-builder --win --x64 --publish never
+      - name: Package signed Mac application
+        if: runner.os == 'macOS'
+        run: npx electron-builder --mac --${{ matrix.arch }} --dir --publish never
+      - name: Create and mount-test Mac installer
+        if: runner.os == 'macOS'
+        run: node scripts/package-mac-dmg.mjs ${{ matrix.arch }}
       - name: Check Windows launch and saved progress
         if: runner.os == 'Windows'
         shell: pwsh
