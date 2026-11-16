@@ -21,3 +21,10 @@ test('difficulty selections combine levels and empty selection includes nothing'
  assert.deepEqual(pool.map(s=>s.structureId).sort(),spotterPool(c).filter(s=>levels.includes(c.byId.get(s.structureId).difficulty)).map(s=>s.structureId).sort());
  }
 });
+
+test('difficulty separates major structures from small regional details',async()=>{
+ const c=indexCatalog(await read('dist/data/catalog.json'));
+ for(const [name,level] of [['Median nerve','Easy'],['Phrenic nerve','Easy'],['Bicuspid valve (mitral / left atrioventricular valve)','Easy'],['Head of stapes','Hard'],['Deep branch of ulnar nerve','Hard']]){
+  assert.equal(c.structures.find(s=>s.name===name)?.difficulty,level,name);
+ }
+});

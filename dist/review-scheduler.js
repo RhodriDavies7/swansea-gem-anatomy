@@ -1,7 +1,7 @@
 import {fsrs,createEmptyCard} from './vendor/fsrs.js';
 const scheduler=fsrs({enable_fuzz:false,request_retention:0.9});
 export const grades=['Again','Hard','Good','Easy'];
-export const emptyProgress=()=>({schemaVersion:1,records:{},history:[]});
+export const emptyProgress=()=>({schemaVersion:1,records:{},history:[],disabled:{}});
 export function reviewKey(card,model){
  if(!card.structureId)throw Error('Missing structure');
  const identification=card.identification||card.question==='Identification'||card.tags?.includes('Identification');
@@ -23,6 +23,10 @@ export function validateProgress(value){
   if(key.length>2048||!key.startsWith('[')||!card||!Number.isFinite(Date.parse(card.due))||!Number.isFinite(Date.parse(card.last_review))||!['stability','difficulty','scheduled_days','reps','lapses','learning_steps','state'].every(k=>Number.isFinite(card[k])&&card[k]>=0)||card.state>3||card.difficulty>10)throw Error('Invalid progress record');
  }
  for(const h of value.history)if(!h||typeof h.key!=='string'||!Number.isFinite(Date.parse(h.at))||!Number.isInteger(h.rating)||h.rating<1||h.rating>4)throw Error('Invalid review history');
+ if(value.disabled!==undefined){
+  if(!value.disabled||typeof value.disabled!=='object'||Array.isArray(value.disabled)||Object.keys(value.disabled).length>100000)throw Error('Invalid disabled cards');
+  for(const [key,item] of Object.entries(value.disabled))if(key.length>2048||!key.startsWith('[')||!item||typeof item.disabled!=='boolean'||!Number.isFinite(Date.parse(item.at)))throw Error('Invalid disabled card');
+ }
  return value;
 }
 export function applyRating(progress,key,rating,now=new Date()){
@@ -30,10 +34,17 @@ export function applyRating(progress,key,rating,now=new Date()){
  const {card}=schedule(progress.records[key],rating,now);
  return {...progress,records:{...progress.records,[key]:card},history:[...progress.history,{key,rating,at:now.toISOString()}]};
 }
+export function setCardDisabled(progress,key,disabled,now=new Date()){
+ if(typeof key!=='string'||key.length>2048||!key.startsWith('[')||typeof disabled!=='boolean')throw Error('Invalid disabled card');
+ return {...progress,disabled:{...(progress.disabled||{}),[key]:{disabled,at:now.toISOString()}}};
+}
+export const isCardDisabled=(progress,key)=>progress.disabled?.[key]?.disabled===true;
 export function mergeProgress(current,incoming){
  validateProgress(incoming);const merged=structuredClone(current);
  for(const [key,card] of Object.entries(incoming.records))if(!merged.records[key]||Date.parse(card.last_review)>Date.parse(merged.records[key].last_review))merged.records[key]=card;
  const seen=new Set(merged.history.map(h=>JSON.stringify([h.key,h.rating,h.at])));
  for(const h of incoming.history){const k=JSON.stringify([h.key,h.rating,h.at]);if(!seen.has(k)){merged.history.push(h);seen.add(k);}}
+ merged.disabled={...(current.disabled||{})};
+ for(const [key,item] of Object.entries(incoming.disabled||{}))if(!merged.disabled[key]||Date.parse(item.at)>Date.parse(merged.disabled[key].at))merged.disabled[key]=item;
  merged.history.sort((a,b)=>Date.parse(a.at)-Date.parse(b.at));return merged;
 }

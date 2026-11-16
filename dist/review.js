@@ -1,6 +1,6 @@
 import {loadCatalog} from './data.js';
-import {desktop,ready,progress,progressError,mountReviews,exportBackup,importBackup} from './review-client.js';
-import {reviewKey} from './review-scheduler.js';
+import {desktop,ready,progress,progressError,mountReviews,exportBackup,importBackup,setDisabled} from './review-client.js';
+import {reviewKey,isCardDisabled} from './review-scheduler.js';
 import {defaultReviewFilters,reviewPool,dueCards,reviewSession,progressGroups} from './review-logic.js';
 import {difficultyChoices} from './difficulty-choices.js';
 import {bindProgressKey} from './progress-key.js';
@@ -8,7 +8,7 @@ import {enhanceFilters} from './filter-menu.js';
 const app=document.querySelector('#review-app');
 const e=s=>String(s??'').replace(/[&<>]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;'}[c])).replaceAll(String.fromCharCode(34),'&quot;');
 let catalog,models=[],filters=defaultReviewFilters(),newLimit=20,run=[],index=0,revealed=false,advanced=false,group='models',tagQuery='',modelQuery='',inputTimer;
-const pool=()=>reviewPool(catalog,filters);
+const pool=()=>reviewPool(catalog,filters).filter(c=>!isCardDisabled(progress,reviewKey(c)));
 const values=key=>[...new Set(catalog.structures.flatMap(s=>s[key]||[]))].sort();
 function select(key,label,choices,placeholder='All'){
  const current=key==='mode'?filters.mode:key==='limit'?String(newLimit):key==='group'?group:filters[key]||'';
@@ -32,7 +32,7 @@ function dashboard(message=''){
  const today=new Date().toLocaleDateString(),done=progress.history.filter(h=>new Date(h.at).toLocaleDateString()===today).length;
  const latest=new Map();for(const h of progress.history)latest.set(h.key,h.rating);const confident=cards.filter(c=>latest.get(reviewKey(c))>=3).length;
  const next=cards.map(c=>Date.parse(progress.records[reviewKey(c)]?.due)).filter(t=>t>Date.now()).sort((a,b)=>a-b)[0];
- app.innerHTML=`<section class="review-dashboard"><div class="eyebrow">Your study schedule</div><h1>Review & progress</h1><p>Choose your anatomy and work through the cards ready for review.</p><div class="review-stats"><div><strong>${old.length}</strong><span>Due now</span></div><div><strong>${fresh}</strong><span>New in this set</span></div><div><strong>${cards.length?Math.round(confident*100/cards.length):0}%</strong><span>Latest rating Good/Easy</span></div><div><strong>${done}</strong><span>Ratings today · all cards</span></div></div><section class="knowledge-filters" aria-label="Review filters"><label class="knowledge-search">Search anatomy<input type="search" id="review-query" value="${e(filters.query)}" placeholder="Structure, label or fact…"></label><div class="facet-grid review-facets">${select('mode','Cards',[['combined','Marked images + knowledge'],['images','Marked images'],['knowledge','Knowledge questions']],null)}${select('modelId','Model',models.map(m=>[m.id,m.name]),'All models')}${sectionSelect()}${difficultyChoices(filters.difficulty)}${select('year','Learning-outcome year',['Year 1','Year 2','Year not mapped'])}${select('types','Structure type',values('types'))}${select('systems','System',values('systems'))}${select('regions','Region',values('regions'))}${select('organs','Organ collection',values('organs'))}${select('limit','New cards per session',[10,20,50].map(n=>[String(n),String(n)]),null)}</div><button class="text-button" data-action="clear">Clear filters</button>${advancedFilters()}</section><div class="start-row"><div><strong>${cards.length} cards match · ${old.length} due · ${fresh} new</strong><p>All due cards, plus up to ${newLimit} new cards.${next?' Next review: '+e(new Date(next).toLocaleString())+'.':''}</p></div><button class="primary" data-action="start" ${due.length&&!progressError?'':'disabled'}>Review ${old.length+Math.min(fresh,newLimit)} cards</button></div>${report(cards)}<section class="panel progress-backup"><h2>Progress stays on this computer</h2><p>Updates replace the app, not your progress. Export a backup to keep a separate copy or move to another computer.</p><div><button class="secondary" data-action="export">Export progress</button><button class="secondary" data-action="import">Import backup</button></div><p class="review-save" role="status">${e(progressError||message)}</p></section></section>`;
+ app.innerHTML=`<section class="review-dashboard"><div class="eyebrow">Your study schedule</div><h1>Review & progress</h1><p>Choose your anatomy and work through the cards ready for review.</p><div class="review-stats"><div><strong>${old.length}</strong><span>Due now</span></div><div><strong>${fresh}</strong><span>New in this set</span></div><div><strong>${cards.length?Math.round(confident*100/cards.length):0}%</strong><span>Latest rating Good/Easy</span></div><div><strong>${done}</strong><span>Ratings today · all cards</span></div></div><section class="knowledge-filters" aria-label="Review filters"><label class="knowledge-search">Search anatomy<input type="search" id="review-query" value="${e(filters.query)}" placeholder="Structure, label or fact…"></label><div class="facet-grid review-facets">${select('mode','Cards',[['combined','Marked images + knowledge'],['images','Marked images'],['knowledge','Knowledge questions']],null)}${select('modelId','Model',models.map(m=>[m.id,m.name]),'All models')}${sectionSelect()}${difficultyChoices(filters.difficulty)}${select('year','Learning-outcome year',['Year 1','Year 2','Year not mapped'])}${select('types','Structure type',values('types'))}${select('systems','System',values('systems'))}${select('regions','Region',values('regions'))}${select('organs','Organ collection',values('organs'))}${select('limit','New cards per session',[10,20,50].map(n=>[String(n),String(n)]),null)}</div><button class="text-button" data-action="clear">Clear filters</button>${advancedFilters()}</section><div class="start-row"><div><strong>${cards.length} cards match · ${old.length} due · ${fresh} new</strong><p>All due cards, plus up to ${newLimit} new cards.${next?' Next review: '+e(new Date(next).toLocaleString())+'.':''}</p></div><button class="primary" data-action="start" ${due.length&&!progressError?'':'disabled'}>Review ${old.length+Math.min(fresh,newLimit)} cards</button></div>${report(cards)}${disabledCards()}<section class="panel progress-backup"><h2>Progress stays on this computer</h2><p>Updates replace the app, not your progress. Export a backup to keep a separate copy or move to another computer.</p><div><button class="secondary" data-action="export">Export progress</button><button class="secondary" data-action="import">Import backup</button></div><p class="review-save" role="status">${e(progressError||message)}</p></section></section>`;
  enhanceFilters(app);
  if(focusId){const target=document.getElementById(focusId);if(target&&target.type==='search'){target.focus({preventScroll:true});if(start!==null)target.setSelectionRange(start,end);}}
 }
@@ -45,6 +45,7 @@ function draw(){
 }
 app.addEventListener('click',async event=>{
  const button=event.target.closest('[data-action]'),action=button?.dataset.action;if(!button||button.disabled)return;
+ if(action==='enable-card'){try{await setDisabled(button.dataset.key,false);dashboard('Card re-enabled. Its existing progress has been kept.');}catch(error){dashboard(error.message);}return;}
  if(action==='start'){clearTimeout(inputTimer);run=reviewSession(pool(),progress,{newLimit});index=0;revealed=false;draw();return;}
  if(action==='end'){dashboard();return;}
  if(action==='reveal'){revealed=true;draw();requestAnimationFrame(()=>(app.querySelector('.review-grades')||app.querySelector('.answer'))?.scrollIntoView({behavior:matchMedia('(prefers-reduced-motion: reduce)').matches?'auto':'smooth',block:'nearest'}));return;}
@@ -72,3 +73,15 @@ bindProgressKey(()=>run.length>0,()=>{if(!revealed){revealed=true;draw();}});
 if(!desktop)app.innerHTML='<section class="review-dashboard"><h1>Review on your computer</h1><p>Saved progress and spaced repetition are available in the desktop app. The website offers fresh revision runs.</p><a class="icon-link" href="https://github.com/RhodriDavies7/swansea-gem-anatomy/releases/latest">Download the desktop app ↗</a></section>';
 else{await ready;try{catalog=await loadCatalog();models=await fetch('./data/models.json').then(r=>r.json());dashboard();}catch(error){app.innerHTML='<p role="alert">Could not load review data: '+e(error.message)+'</p>';}}
 setInterval(()=>{if(desktop&&catalog&&!run.length&&!app.querySelector('.filter-trigger[aria-expanded="true"]')&&!app.contains(document.activeElement))dashboard();},30000);
+
+function disabledCards(){
+ const entries=Object.entries(progress.disabled||{}).filter(([,v])=>v.disabled);
+ const rows=entries.map(([key])=>{let parts;try{parts=JSON.parse(key);}catch{return '';}
+ const structure=catalog.byId.get(parts[1]);const name=structure?.name||'Unavailable structure';
+ let topic=parts[0]==='knowledge'?(structure?.facts.find(f=>f.id===parts[2])?.question||parts[2]):'Identification';
+ if(parts[2]==='model')topic+=' · '+(models.find(m=>m.id===parts[3])?.name||parts[3])+' · '+parts[4]+' · '+parts[5];
+ return `<li data-disabled-row><div><strong>${e(name)}</strong><p>${e(topic)}</p></div><button class="secondary" data-action="enable-card" data-key="${e(key)}">Re-enable</button></li>`;
+ }).join('');
+ return `<details class="panel disabled-cards"><summary>Disabled cards (${entries.length})</summary><p>Disabling keeps your ratings and history. Re-enable a card to return it to revision.</p>${entries.length?'<label>Find a disabled card<input type="search" id="disabled-search" placeholder="Structure or question…"></label><ul>'+rows+'</ul>':'<p>No disabled cards.</p>'}</details>`;
+}
+app.addEventListener('input',event=>{if(event.target.id==='disabled-search'){const q=event.target.value.toLowerCase();app.querySelectorAll('[data-disabled-row]').forEach(row=>row.hidden=!row.textContent.toLowerCase().includes(q));}});

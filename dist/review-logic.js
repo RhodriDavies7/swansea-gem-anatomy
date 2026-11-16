@@ -1,5 +1,5 @@
 import {filterStructures,studyCards,factVariants,imageMatchesScope} from './data.js';
-import {reviewKey} from './review-scheduler.js';
+import {reviewKey,isCardDisabled} from './review-scheduler.js';
 export function defaultReviewFilters(){return {mode:'combined',query:'',modelId:'',section:'',difficulty:['Easy','Medium','Hard'],year:'',types:'',systems:'',regions:'',organs:'',tags:[],tagEffect:'include',topics:[],topicEffect:'exclude',models:[],modelEffect:'include'};}
 export function reviewPool(catalog,filters={}){
  const f={...defaultReviewFilters(),...filters};
@@ -15,7 +15,7 @@ export function reviewPool(catalog,filters={}){
  });
 }
 export function dueCards(cards,progress,now=Date.now()){
- return cards.filter(c=>{const r=progress.records[reviewKey(c)];return !r||Date.parse(r.due)<=now;});
+ return cards.filter(c=>{if(isCardDisabled(progress,reviewKey(c)))return false;const r=progress.records[reviewKey(c)];return !r||Date.parse(r.due)<=now;});
 }
 function shuffle(cards,random){const a=[...cards];for(let i=a.length-1;i>0;i--){const j=Math.floor(random()*(i+1));[a[i],a[j]]=[a[j],a[i]];}return a;}
 export function reviewSession(cards,progress,{newLimit=20,now=Date.now(),random=Math.random}={}){

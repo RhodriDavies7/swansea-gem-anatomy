@@ -1,6 +1,6 @@
 import fs from 'node:fs/promises';
 import path from 'node:path';
-import {emptyProgress,validateProgress,applyRating,mergeProgress} from '../dist/review-scheduler.js';
+import {emptyProgress,validateProgress,applyRating,mergeProgress,setCardDisabled} from '../dist/review-scheduler.js';
 export class ProgressStore{
  constructor(directory){this.directory=directory;this.file=path.join(directory,'progress-v1.json');this.backup=this.file+'.backup';this.queue=Promise.resolve();}
  async init(){
@@ -29,6 +29,7 @@ export class ProgressStore{
   await fs.rename(tmp,this.file);this.data=data;
  }
  transact(fn){const task=this.queue.then(async()=>{if(!this.data)throw Error('Progress unavailable');const next=fn(this.data);await this.write(next);return structuredClone(next);});this.queue=task.catch(()=>{});return task;}
+ setDisabled(key,disabled){return this.transact(data=>setCardDisabled(data,key,disabled));}
  rate(key,rating){return this.transact(data=>applyRating(data,key,rating));}
  import(value){validateProgress(value);if(this.data)return this.transact(data=>mergeProgress(data,value));const task=this.queue.then(async()=>{try{await fs.copyFile(this.file,this.file+'.before-restore-'+Date.now());}catch(error){if(error.code!=='ENOENT')throw error;}await this.write(mergeProgress(emptyProgress(),value));return structuredClone(this.data);});this.queue=task.catch(()=>{});return task;}
  async snapshot(){await this.queue;if(!this.data)throw Error('Progress unavailable');return structuredClone(this.data);}

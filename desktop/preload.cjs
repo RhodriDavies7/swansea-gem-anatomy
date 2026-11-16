@@ -1,6 +1,7 @@
 const {contextBridge,ipcRenderer}=require('electron');
 contextBridge.exposeInMainWorld('anatomyDesktop',Object.freeze({
  loadProgress:()=>ipcRenderer.invoke('progress:load'),
+ setDisabled:(key,disabled)=>ipcRenderer.invoke('progress:disable',key,disabled),
  rate:(key,rating)=>ipcRenderer.invoke('progress:rate',key,rating),
  exportProgress:()=>ipcRenderer.invoke('progress:export'),
  importProgress:()=>ipcRenderer.invoke('progress:import')

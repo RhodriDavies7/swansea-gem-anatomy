@@ -22,7 +22,7 @@ function updateLibrary(){const empty=app.querySelector('.model-empty');if(empty)
  const search=app.querySelector('#model-search');if(search)search.value=state.query;
  app.querySelectorAll('.model').forEach(b=>{b.hidden=!b.textContent.toLowerCase().includes(state.query.toLowerCase());b.setAttribute('aria-pressed',String(b.dataset.value===state.model?.id));});
 }
-function render(){renderContent();enhanceFilters(app);if(state.run&&!state.complete)mountReviews(app,{card:state.run[state.index],model:state.model,onNext:()=>action('next')});}
+function render(){renderContent();enhanceFilters(app);if(state.run&&!state.complete)mountReviews(app,{card:state.run[state.index],model:state.model,onNext:()=>{state.revealed=true;action('next');}});}
 function renderContent(){
  if(state.run){app.innerHTML=session();return;}
  const workspace=app.querySelector('.workspace');

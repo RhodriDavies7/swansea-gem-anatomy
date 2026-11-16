@@ -88,3 +88,12 @@ Every push to `main` deploys the website and runs **Publish desktop apps** in Gi
 Desktop versions use `1.3.<workflow run number>`, assigned during the build without committing version changes. Rerunning the same workflow keeps the same version; already-published downloads are left unchanged. For a new release, push another commit or use Run workflow. Only the final publishing job has repository write permission, using GitHub's temporary workflow token; no personal token is needed.
 
 Add and assign images locally, then commit and push the changed content and image files. The website updates automatically; desktop users download and install the new release. Their existing progress is retained. Building automatically does not add trusted Windows signing or Apple notarization.
+
+
+### Disabled flashcards (desktop)
+
+Use **Disable this card** during any flashcard session. It hides that individual knowledge question or image/label identification card without deleting ratings or history. Shared knowledge questions stay disabled across models; different photos remain separate cards. Restore cards under **Review & progress → Disabled cards**, with a searchable list. Disabled cards are excluded from revision and progress percentages, and the setting survives app updates and progress backup export/import. The latest dated disable/re-enable decision wins when backups merge. The web version remains stateless.
+
+### Suggested structure difficulty
+
+Difficulty describes structure identification, separately from the Again/Hard/Good/Easy recall ratings. Easy means major organs, bones, muscles, nerves, vessels and chambers; Medium means standard regional anatomy; Hard means fine branches, segments and small internal landmarks. These are editorial starting levels, not official Swansea assessment classifications or measured question difficulty. `content/study-levels.json` stores each level and its reason alongside existing outcome links. `node scripts/review-difficulty.mjs` regenerates the starting levels; review its changes before publishing and retain manual adjustments as needed.

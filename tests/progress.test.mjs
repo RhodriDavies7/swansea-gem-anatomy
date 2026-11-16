@@ -48,3 +48,22 @@ test('unreadable progress is never silently reset; an explicit backup import can
   const future={...backup,schemaVersion:2};await fs.writeFile(store.file,JSON.stringify(future));const olderApp=new ProgressStore(dir);await assert.rejects(olderApp.init(),/newer app/);assert.equal(JSON.parse(await fs.readFile(store.file)).schemaVersion,2);
  }finally{await fs.rm(dir,{recursive:true,force:true});}
 });
+
+test('disabled cards persist without erasing ratings and merge re-enable decisions by date',async()=>{
+ const {setCardDisabled,isCardDisabled}=await import('../dist/review-scheduler.js');
+ const {dueCards,reviewSession}=await import('../dist/review-logic.js');
+ const card={structureId:'muscle',factId:'f-action',question:'Actions'};
+ const directory=await fs.mkdtemp(path.join(os.tmpdir(),'anatomy-disabled-'));
+ try{
+  const store=new ProgressStore(directory);await store.init();await store.rate(key,3);
+  const original=await store.snapshot();await store.setDisabled(key,true);
+  const restarted=new ProgressStore(directory),saved=await restarted.init();
+  assert(isCardDisabled(saved,key));assert.deepEqual(saved.records,original.records);assert.deepEqual(saved.history,original.history);
+  assert.equal(dueCards([card],saved,Date.now()+1e12).length,0);assert.equal(reviewSession([card],saved,{now:Date.now()+1e12}).length,0);
+  const enabled=setCardDisabled(saved,key,false,new Date('2090-01-01'));
+  assert(!isCardDisabled(mergeProgress(saved,enabled),key));assert(!isCardDisabled(mergeProgress(enabled,saved),key));
+  assert(!isCardDisabled(mergeProgress(enabled,{...original,disabled:undefined}),key));
+  validateProgress(enabled);assert.throws(()=>validateProgress({...enabled,disabled:{bad:{disabled:'yes',at:'bad'}}}));
+  await restarted.import(enabled);assert(!isCardDisabled(await restarted.snapshot(),key));
+ }finally{await fs.rm(directory,{recursive:true,force:true});}
+});
